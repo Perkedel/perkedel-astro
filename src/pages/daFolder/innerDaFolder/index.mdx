@@ -1,8 +1,15 @@
 ---
 # WHERE THE PECK IS THE ROOT REFERENCE?!?!??!?!??!?!?!??!!!!!!!!!!!!!!!!
-layout: '../../../components/Layout.astro'
+layout: '../../../components/LayoutMDX.astro'
+# ButtonizedLink: '../../../components/ButtonizedLink.astro'
 title: 'iNNER dAfOLDER'
+description: 'Oh man!'
+keywords: 'oh man'
+author: 'JOELwindows7'
+date: '2022-10-21'
+draft: false
 ---
+import ButtonizedLink from '../../../components/ButtonizedLink.astro'
 
 # Hi I am Markdown
 Hello!
@@ -12,3 +19,6 @@ Hello!
 ![](../../../../favicon.gif)
 ![](/favicon.gif)
 {/* ![](/public/favicon.gif) not work */}
+
+{/* <a class="Buttonnize" href="https://example.com">Example.com link</a> */}
+<ButtonizedLink title="Open the https://example.com" content="Example.com link" href="https://example.com" target="_blank" rel="noopener noreferrer"/>

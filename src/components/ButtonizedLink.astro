@@ -1,0 +1,22 @@
+---
+export interface Props {
+    content?: string;
+    href?: string;
+    title?: string;
+    description?: string;
+    target?:string;
+    rel?:string;
+}
+
+const { 
+    content = '', // button label
+    href = 'javascript:void(0)', // URL to go to
+    title = '', // hover tooltip
+    description = '', // uh....
+    target = '', // where target? `_blank` is newtab
+    rel = '', // relationship e.g `noopener noreferrer` to break insecure connection in new tab
+} = Astro.props as Props;
+---
+<a class="Buttonnize" target={target} rel={rel} href={href} title={title}>{content}
+    <!-- <br/>{description} -->
+</a>

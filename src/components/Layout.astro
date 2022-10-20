@@ -1,6 +1,9 @@
 ---
 import Headering from './Headering.astro';
 import Footering from './Footering.astro';
+import ButtonizedLink from './ButtonizedLink.astro';
+import EmbedRAWHTML from './EmbedRAWHTML.astro';
+import BackToTopButton from './BackToTopButton.astro';
 // import 'https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'
 // import 'https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'
 import '../style/style.css';
@@ -30,7 +33,8 @@ const {
   description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
   keywords = 'tech, fun, novelty, open source, gratis, free',
   viewSourceURL = doViewSource
-} = Astro.props as Props;
+// } = Astro.props as Props;
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
 
 <!DOCTYPE html>
@@ -84,11 +88,20 @@ const {
 
   <!-- MAIN -->
   <main>
-    <slot />
+    <!-- <slot /> -->
+    <slot>
+      <h1><i>Content Empty</i></h1>
+        <p>Content Empty. You forgor to pass anything inside</p>
+    </slot>
   </main>
+
+  <!-- BACK TO TOP BUTTON -->
+  <BackToTopButton/>
   
   <!-- FOOTER -->
   <Footering/>
+
+  <script is:inline src="/main.js"></script>
 </body>
 </html>
 

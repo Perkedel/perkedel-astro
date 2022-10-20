@@ -1,0 +1,66 @@
+---
+// https://docs.astro.build/en/guides/markdown-content/
+// https://mdxjs.com/guides/frontmatter/
+import Layout from './Layout.astro';
+import type { MarkdownLayoutProps } from 'astro';
+
+type Props = MarkdownLayoutProps<{
+  // Define frontmatter props here
+  title?: string;
+  author?: string;
+  date?: string;
+  description?: string;
+  keywords?: string;
+}>;
+const { frontmatter, url
+ } = Astro.props;
+---
+<Layout title={frontmatter.title} description={frontmatter.description} keywords={frontmatter.keywords}>
+    <slot>
+        <h1><i>Empty</i></h1>
+            <p>Markdown empty!</p>
+    </slot>
+    <h1 style="font-size:18px"><i>Markdown Info</i></h1>
+        <!-- <p style="font-size:12px;">
+            Title: {frontmatter.title}<br>
+            Author: {frontmatter.author}<br>
+            Description: {frontmatter.description}<br>
+            Date: {frontmatter.date}<br>
+            keywords: {frontmatter.keywords}<br>
+        </p> -->
+        <!-- https://www.w3schools.com/html/html_tables.asp -->
+        <table style="font-size:12px">
+            <tr>
+                <th>Info</th>
+                <th>Value</th>       
+            </tr>
+            <tr>
+                <td>Title</td>
+                <td>{frontmatter.title}</td>        
+            </tr>
+            <tr>
+                <td>Author</td>
+                <td>{frontmatter.author}</td>
+            </tr>
+            <tr>
+                <td>Description</td>
+                <td>{frontmatter.description}</td>
+            </tr>
+            <tr>
+                <td>Date</td>
+                <td>{frontmatter.date}</td>
+            </tr>
+            <tr>
+                <td>Keywords</td>
+                <td>{frontmatter.keywords}</td>
+            </tr>
+            <tr>
+                <td>File</td>
+                <td>{frontmatter.file}</td>
+            </tr>
+            <tr>
+                <td>URL</td>
+                <td>{frontmatter.url}</td>
+            </tr>
+        </table>
+</Layout>
