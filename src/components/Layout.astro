@@ -11,12 +11,14 @@ export interface Props {
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
-let currAddr = window.location.href;
-let currPath = window.location.pathname;
-let currHost = window.location.hostname;
-let currProtocol = window.location.protocol;
-let currPort = window.location.port;
-let currJustAddr = currHost+currPath;
+// let currAddr = window.location.href;
+// let currPath = window.location.pathname;
+// let currHost = window.location.hostname;
+// let currProtocol = window.location.protocol;
+// let currPort = window.location.port;
+// let currJustAddr = currHost+currPath;
+// let doViewSource = 'view-source://' + currJustAddr;
+let currJustAddr = Astro.url.hostname+Astro.url.pathname;
 let doViewSource = 'view-source://' + currJustAddr;
 
 const { 
