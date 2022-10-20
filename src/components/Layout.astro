@@ -4,10 +4,23 @@
 import '../style/style.css'
 
 export interface Props {
-	title: string;
+	title?: string;
+  description?: string;
+  keywords?: string;
 }
 
-const { title } = Astro.props as Props;
+const { title = 'Perkedel NTLF+ASTR' } = Astro.props as Props;
+const { description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework' } = Astro.props as Props;
+const { keywords = 'tech, fun, novelty, open source, gratis, free'} = Astro.props as Props;
+
+// https://www.w3schools.com/js/js_window_location.asp
+let currAddr = window.location.href;
+let currPath = window.location.pathname;
+let currHost = window.location.hostname;
+let currProtocol = window.location.protocol;
+let currPort = window.location.port;
+let currJustAddr = currHost+currPath;
+let doViewSource = 'view-source://' + currJustAddr;
 ---
 
 <!DOCTYPE html>
@@ -16,9 +29,9 @@ const { title } = Astro.props as Props;
   <!--https://www.w3schools.com/tags/tag_meta.asp-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
-  <meta name="description" content="Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework">
-  <meta name="keywords" content="tech, fun, novelty, open source, gratis, free">
-  <meta name="author" content="JOELwindows7">
+  <!-- <meta name="description" content="Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework"> -->
+  <!-- <meta name="keywords" content="tech, fun, novelty, open source, gratis, free"> -->
+  <!-- <meta name="author" content="JOELwindows7"> -->
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <!-- <link rel="stylesheet" href="https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css"> -->
@@ -44,6 +57,9 @@ const { title } = Astro.props as Props;
   </script> -->
 
 	<title>{title}</title>
+  <meta name="description" content={description}>
+  <meta name="keywords" content={keywords}>
+  <!-- <!-- <meta name="author" content="JOELwindows7"> -->
 </head>
 <body>
   <!-- HEADER & NAV
@@ -73,7 +89,7 @@ const { title } = Astro.props as Props;
         <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a>
         
         <div class="dropdown-content">
-          <a title="View this page source" href="view-source://." class="NavBtn">View Source &#xe771;</a>
+          <a title="View this page source" href={doViewSource} class="NavBtn">View Source &#xf1c9;</a>
         </div>
       </li>
       <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li>
