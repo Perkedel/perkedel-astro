@@ -1,4 +1,5 @@
 ---
+import type { MarkdownLayoutProps } from 'astro';
 import Headering from './Headering.astro';
 import Footering from './Footering.astro';
 import ButtonizedLink from './ButtonizedLink.astro';
@@ -27,6 +28,15 @@ export interface Props {
 // let currJustAddr = Astro.url.host+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let currJustAddr = 'https://perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let doViewSource = 'view-source:' + currJustAddr;
+
+// type Props = MarkdownLayoutProps<{
+//   // Define frontmatter props here
+//   title?: string;
+//   author?: string;
+//   date?: string;
+//   description?: string;
+//   keywords?: string;
+// }>;
 
 const { 
   title = 'Perkedel NTLF+ASTR', 
