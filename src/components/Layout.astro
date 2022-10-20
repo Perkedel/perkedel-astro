@@ -7,11 +7,8 @@ export interface Props {
 	title?: string;
   description?: string;
   keywords?: string;
+  viewSourceURL?: string;
 }
-
-const { title = 'Perkedel NTLF+ASTR' } = Astro.props as Props;
-const { description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework' } = Astro.props as Props;
-const { keywords = 'tech, fun, novelty, open source, gratis, free'} = Astro.props as Props;
 
 // https://www.w3schools.com/js/js_window_location.asp
 let currAddr = window.location.href;
@@ -21,6 +18,13 @@ let currProtocol = window.location.protocol;
 let currPort = window.location.port;
 let currJustAddr = currHost+currPath;
 let doViewSource = 'view-source://' + currJustAddr;
+
+const { 
+  title = 'Perkedel NTLF+ASTR', 
+  description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
+  keywords = 'tech, fun, novelty, open source, gratis, free',
+  viewSourceURL = doViewSource
+} = Astro.props as Props;
 ---
 
 <!DOCTYPE html>
@@ -89,7 +93,7 @@ let doViewSource = 'view-source://' + currJustAddr;
         <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a>
         
         <div class="dropdown-content">
-          <a title="View this page source" href={doViewSource} class="NavBtn">View Source &#xf1c9;</a>
+          <a title="View this page source" href={viewSourceURL} class="NavBtn">View Source &#xf1c9;</a>
         </div>
       </li>
       <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li>
