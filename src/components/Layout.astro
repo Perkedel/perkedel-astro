@@ -19,7 +19,8 @@ export interface Props {
 // let currJustAddr = currHost+currPath;
 // let doViewSource = 'view-source://' + currJustAddr;
 // let currJustAddr = Astro.url.hostname+Astro.url.pathname;
-let currJustAddr = Astro.url.host+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
+// let currJustAddr = Astro.url.host+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
+let currJustAddr = 'perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let doViewSource = 'view-source://' + currJustAddr;
 
 const { 
@@ -39,6 +40,7 @@ const {
   <!-- <meta name="description" content="Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework"> -->
   <!-- <meta name="keywords" content="tech, fun, novelty, open source, gratis, free"> -->
   <!-- <meta name="author" content="JOELwindows7"> -->
+  <meta name="generator" content={Astro.generator} />
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <!-- <link rel="stylesheet" href="https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css"> -->
@@ -97,10 +99,12 @@ const {
         
         <div class="dropdown-content">
           <a title="View this page source" href={viewSourceURL} class="NavBtn">View Source &#xf1c9;</a>
+          <a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a>
+          <a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a>
         </div>
       </li>
-      <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li>
-      <li class="NavPutRight"><a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a></li>
+      <!-- <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li> -->
+      <!-- <li class="NavPutRight"><a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a></li> -->
       
     </ul>
   </nav>
@@ -134,3 +138,14 @@ const {
 <style>
 
 </style>
+
+<!-- 
+Dump link
+- https://docs.astro.build/en/core-concepts/endpoints/
+- https://docs.astro.build/en/reference/configuration-reference/
+- https://github.com/withastro/astro/issues/397
+- https://docs.astro.build/en/guides/imports/
+- https://github.com/netlify-templates/astro-quickstart
+- https://docs.netlify.com/integrations/frameworks/astro/
+
+ -->
