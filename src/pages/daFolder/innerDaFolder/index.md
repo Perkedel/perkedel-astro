@@ -1,6 +1,6 @@
 ---
 # WHERE THE PECK IS THE ROOT REFERENCE?!?!??!?!??!?!?!??!!!!!!!!!!!!!!!!
-layout: '../../components/Layout.astro'
+layout: '../../../components/Layout.astro'
 title: 'iNNER dAfOLDER'
 ---
 
