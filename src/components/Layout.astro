@@ -18,7 +18,8 @@ export interface Props {
 // let currPort = window.location.port;
 // let currJustAddr = currHost+currPath;
 // let doViewSource = 'view-source://' + currJustAddr;
-let currJustAddr = Astro.url.hostname+Astro.url.pathname;
+// let currJustAddr = Astro.url.hostname+Astro.url.pathname;
+let currJustAddr = Astro.url.host+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let doViewSource = 'view-source://' + currJustAddr;
 
 const { 
