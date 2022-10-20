@@ -383,7 +383,7 @@ nav a:visited:active {
   */
 
 a[target=_blank]::after {
-    content: ' ðŸ”— ï‚Ž';
+    content: ' 🔗 ';
 }
 
 input {
