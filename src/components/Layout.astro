@@ -20,8 +20,8 @@ export interface Props {
 // let doViewSource = 'view-source://' + currJustAddr;
 // let currJustAddr = Astro.url.hostname+Astro.url.pathname;
 // let currJustAddr = Astro.url.host+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
-let currJustAddr = 'perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
-let doViewSource = 'view-source://' + currJustAddr;
+let currJustAddr = 'https://perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
+let doViewSource = 'view-source:' + currJustAddr;
 
 const { 
   title = 'Perkedel NTLF+ASTR', 
@@ -119,7 +119,7 @@ const {
   <footer>
     <hr>
     <p><img width="50em" src="/Perkedel Icon.png"/> <font size = "12">Perkedel Technologies</font></p>
-    <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro</a></p>
+    <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
     <font size="2"><p>DISCLAIMER:</p> 
       <ul>
         <li><b>Netfify nor Astro never put watermark (except in context of domain for the Netflify free domain we had)</b>, I just write my own just to let you know how, yeah.</li>
