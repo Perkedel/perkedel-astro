@@ -1,7 +1,9 @@
 ---
+import Headering from './Headering.astro';
+import Footering from './Footering.astro';
 // import 'https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'
 // import 'https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'
-import '../style/style.css'
+import '../style/style.css';
 
 export interface Props {
 	title?: string;
@@ -71,44 +73,8 @@ const {
   <!-- <!-- <meta name="author" content="JOELwindows7"> -->
 </head>
 <body>
-  <!-- HEADER & NAV
-      Reusable Component pls!
-    - https://medium.com/front-end-weekly/how-to-build-reusable-html-components-without-component-based-frameworks-2f7747f4c5db
-    - https://dev.to/anuradha9712/create-reusable-web-components-in-html-1llc
-    - https://www.educba.com/javascript-append/
-    - https://stackoverflow.com/questions/60722734/how-can-i-append-html-code-using-javascript
-    - https://stackoverflow.com/questions/17636528/how-do-i-load-an-html-page-in-a-div-using-javascript
-    - https://ezgif.com for gif tools
-    - https://stackoverflow.com/questions/1347675/html-img-scaling
-    - https://www.w3schools.com/tags/att_img_width.asp
-  -->
-  <header>
-    <h1><img src="/favicon.gif"><a href="/">Perkedel NTLF+ASTR</a></h1>
-  </header>
-  <hr>
-  <nav>
-    <ul>
-      <li class="NavPutLeft"><a title="Go back one level in address bar path" href=".." class="NavBtn">&#xf053;</a></li>
-      <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn">🏠 Home &#xf015;</a></li>
-      <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps" class="NavBtn">📦 Applications &#xf53a;</a></li>
-      <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href=".." class="NavBtn">&#xf049; BACK &#xf9d4;</a></li>-->
-      
-      
-      <li class="NavPutRight dropdown">
-        <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a>
-        
-        <div class="dropdown-content">
-          <a title="View this page source" href={viewSourceURL} class="NavBtn">View Source &#xf1c9;</a>
-          <a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a>
-          <a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a>
-        </div>
-      </li>
-      <!-- <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li> -->
-      <!-- <li class="NavPutRight"><a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a></li> -->
-      
-    </ul>
-  </nav>
-  <hr>
+  <!-- HEADER -->
+  <Headering viewSourceURL={viewSourceURL}/>
 
   <!-- META INFO -->
   <noscript>
@@ -122,22 +88,7 @@ const {
   </main>
   
   <!-- FOOTER -->
-  <footer>
-    <hr>
-    <p><img width="50em" src="/Perkedel Icon.png"/> <font size = "12">Perkedel Technologies</font></p>
-    <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
-    <font size="2"><p>DISCLAIMER:</p> 
-      <ul>
-        <li><b>Netfify nor Astro never put watermark (except in context of domain for the Netflify free domain we had)</b>, I just write my own just to let you know how, yeah.</li>
-        <li>This website like many is stored on regular centralized system (GitHub), specifically static cloud type whatever Netflify or GitHub said. Therefore we do not endorse using such service other than for clout purpose<br>With that of course, there is already as usual high risk of DMCA attacks & abuse. </li>
-      </ul>
-      <p>Content = CC4.0-BY-SA<br>Website = GNU AGPLv3</p>
-      <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-      <br>
-      <a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><img src="https://www.gnu.org/graphics/agplv3-with-text-162x68.png" width="100px"/></a>
-    </font>
-    <p>© Perkedel Technologies, Some Rights Reserved</p>
-  </footer>
+  <Footering/>
 </body>
 </html>
 
