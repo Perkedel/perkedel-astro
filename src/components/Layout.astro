@@ -1,5 +1,6 @@
 ---
 import type { MarkdownLayoutProps } from 'astro';
+import { SEO } from "astro-seo";
 import Headering from './Headering.astro';
 import Footering from './Footering.astro';
 import ButtonizedLink from './ButtonizedLink.astro';
@@ -82,9 +83,32 @@ const {
   </script> -->
 
 	<title>{title}</title>
-  <meta name="description" content={description}>
+  <!-- <meta name="description" content={description}> -->
   <meta name="keywords" content={keywords}>
   <!-- <!-- <meta name="author" content="JOELwindows7"> -->
+  <!-- BRAND NEW SEO PLUGIN HERE https://github.com/jonasmerlin/astro-seo -->
+  <SEO
+      title={title}
+      description={description} 
+      extend={{
+        // extending the default link tags
+        link: [{ rel: "icon", href: "/favicon.ico" }],
+        // extending the default meta tags
+        meta: [
+          {
+            name: "twitter:image",
+            content:
+              // "https://user-images.githubusercontent.com/5182256/131216951-8f74f425-f775-463d-a11b-0e01ad9fce8d.png",
+              "/Perkedel Icon.png",
+          },
+          { name: "twitter:title", content: title },
+          { name: "twitter:description", content: description },
+          { name: "twitter:creator", content: "@JOELwindows7" },
+          { name: "twitter:site", content: "@JOELwindows7" },
+        ],
+      }}
+      />
+  <!-- YAY COMPREHENSIVE SEO -->
 </head>
 <body>
   <!-- HEADER -->

@@ -33,7 +33,8 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
         <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a>
         
         <div class="dropdown-content">
-          <a title="View this page source" href={viewSourceURL} class="NavBtn">View Source &#xf1c9;</a>
+          <a title="View this page source" href={viewSourceURL} class="NavBtn" style="display:none;">View Source &#xf1c9;</a>
+          <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
           <a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a>
           <a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a>
         </div>
