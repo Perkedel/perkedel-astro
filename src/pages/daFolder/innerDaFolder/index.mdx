@@ -10,6 +10,7 @@ date: '2022-10-21'
 draft: false
 ---
 import ButtonizedLink from '../../../components/ButtonizedLink.astro'
+import EmbeddedRAWHTML from '../../../components/EmbedRAWHTML.astro'
 
 # Hi I am Markdown
 Hello!
@@ -19,6 +20,8 @@ Hello!
 ![](../../../../favicon.gif)
 ![](/favicon.gif)
 {/* ![](/public/favicon.gif) not work */}
+
+<EmbedRAWHTML src="https://example.com"/>
 
 {/* <a class="Buttonnize" href="https://example.com">Example.com link</a> */}
 <ButtonizedLink title="Open the https://example.com" content="Example.com link" href="https://example.com" target="_blank" rel="noopener noreferrer"/>

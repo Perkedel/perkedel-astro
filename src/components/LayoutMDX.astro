@@ -11,8 +11,11 @@ type Props = MarkdownLayoutProps<{
   date?: string;
   description?: string;
   keywords?: string;
+  hideInfo?: Boolean;
 }>;
-const { frontmatter, url
+const { frontmatter, 
+        url,
+        // hideInfo = 'false',
  } = Astro.props;
 ---
 <Layout title={frontmatter.title} description={frontmatter.description} keywords={frontmatter.keywords}>
@@ -20,47 +23,58 @@ const { frontmatter, url
         <h1><i>Empty</i></h1>
             <p>Markdown empty!</p>
     </slot>
-    <h1 style="font-size:18px"><i>Markdown Info</i></h1>
-        <!-- <p style="font-size:12px;">
-            Title: {frontmatter.title}<br>
-            Author: {frontmatter.author}<br>
-            Description: {frontmatter.description}<br>
-            Date: {frontmatter.date}<br>
-            keywords: {frontmatter.keywords}<br>
-        </p> -->
-        <!-- https://www.w3schools.com/html/html_tables.asp -->
-        <table style="font-size:12px">
-            <tr>
-                <th>Info</th>
-                <th>Value</th>       
-            </tr>
-            <tr>
-                <td>Title</td>
-                <td>{frontmatter.title}</td>        
-            </tr>
-            <tr>
-                <td>Author</td>
-                <td>{frontmatter.author}</td>
-            </tr>
-            <tr>
-                <td>Description</td>
-                <td>{frontmatter.description}</td>
-            </tr>
-            <tr>
-                <td>Date</td>
-                <td>{frontmatter.date}</td>
-            </tr>
-            <tr>
-                <td>Keywords</td>
-                <td>{frontmatter.keywords}</td>
-            </tr>
-            <tr>
-                <td>File</td>
-                <td>{frontmatter.file}</td>
-            </tr>
-            <tr>
-                <td>URL</td>
-                <td>{frontmatter.url}</td>
-            </tr>
-        </table>
+    <div class="MDXInfo" id="MDXInfo">
+        <h1 style="font-size:18px"><i>Markdown Info</i></h1>
+            <!-- <p style="font-size:12px;">
+                Title: {frontmatter.title}<br>
+                Author: {frontmatter.author}<br>
+                Description: {frontmatter.description}<br>
+                Date: {frontmatter.date}<br>
+                keywords: {frontmatter.keywords}<br>
+            </p> -->
+            <!-- https://www.w3schools.com/html/html_tables.asp -->
+            <table style="font-size:12px">
+                <tr>
+                    <th>Info</th>
+                    <th>Value</th>       
+                </tr>
+                <tr>
+                    <td>Title</td>
+                    <td>{frontmatter.title}</td>        
+                </tr>
+                <tr>
+                    <td>Author</td>
+                    <td>{frontmatter.author}</td>
+                </tr>
+                <tr>
+                    <td>Description</td>
+                    <td>{frontmatter.description}</td>
+                </tr>
+                <tr>
+                    <td>Date</td>
+                    <td>{frontmatter.date}</td>
+                </tr>
+                <tr>
+                    <td>Keywords</td>
+                    <td>{frontmatter.keywords}</td>
+                </tr>
+                <tr>
+                    <td>File</td>
+                    <td>{frontmatter.file}</td>
+                </tr>
+                <tr>
+                    <td>URL</td>
+                    <td>{frontmatter.url}</td>
+                </tr>
+            </table>
+    </div>
 </Layout>
+
+<script>
+    if (Astro.props.frontmatter.hideInfo){
+        // document.getElementsByClassName('MDXInfo').styles.display = 'none';
+        document.getElementById('MDXInfo').style.display = 'none';
+    } else {
+        document.getElementById('MDXInfo').style.display = 'block';
+    }
+</script>

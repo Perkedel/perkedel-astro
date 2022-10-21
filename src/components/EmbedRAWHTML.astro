@@ -1,3 +1,22 @@
 ---
+// import '../style/style.css'; // No, let themselve have their own CSS, idk..
+
+export interface Props {
+    title?: string;
+    src?:string;
+    height?:string;
+    width?:string;
+    style?:string;
+    name?:string;
+}
+
+const{
+    title = 'EmbedRAWHTML',
+    src,
+    height = '500px',
+    width = '100%',
+    style,
+    name,
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
-<iframe src="" width="100%"></iframe>
+<iframe src={src} width={width} height={height} style={style} name={name}></iframe>
