@@ -290,7 +290,7 @@ footer {
     /*bottom:0;*/
     /*margin-top:1em;*/
     /*https://stackoverflow.com/a/18066619/9079640*/
-    position: absolute;
+    /* position: absolute; */
     bottom: 0;
     left: 0;
     /*height: 350px;*/
