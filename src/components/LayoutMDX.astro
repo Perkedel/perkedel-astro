@@ -2,7 +2,7 @@
 // https://docs.astro.build/en/guides/markdown-content/
 // https://mdxjs.com/guides/frontmatter/
 import Layout from './Layout.astro';
-import { LocalTime, RelativeTime } from '@astro-github-elements/time';
+import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
 import type { MarkdownLayoutProps } from 'astro';
 
 type Props = MarkdownLayoutProps<{
@@ -61,7 +61,7 @@ const { frontmatter,
                 </tr>
                 <tr>
                     <td>Date</td>
-                    <td><LocalTime date={frontmatter.date}/>, <RelativeTime date={frontmatter.date} /></td>
+                    <td><LocalTime date={frontmatter.date}/>, <TimeAgo date={frontmatter.date} /></td>
                 </tr>
                 <tr>
                     <td>Keywords</td>
