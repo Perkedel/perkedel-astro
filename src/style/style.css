@@ -574,8 +574,8 @@ input:disabled {
 }
 
 .Spoiler:hover {
-    background-color: default;
-    color: default;
+    background-color: black;
+    color: white;
 }
 
 
