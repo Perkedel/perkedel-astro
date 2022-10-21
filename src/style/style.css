@@ -566,6 +566,22 @@ input:disabled {
 }
 
 
+/* Spoiler Alert! Discord-like spoiler class yeah! */
+
+.Spoiler {
+    background-color: gray;
+    color: gray;
+}
+
+.Spoiler:hover {
+    background-color: default;
+    color: default;
+}
+
+
+/* end spoiler alert */
+
+
 /*DROP DOWN MENU
   https://www.w3schools.com/Css/css_dropdowns.asp
   https://www.w3schools.com/Css/tryit.asp?filename=trycss_dropdown_right
