@@ -17,6 +17,13 @@ const { frontmatter,
         url,
         // hideInfo = 'false',
  } = Astro.props;
+
+ if(frontmatter.hideInfo){
+    // document.getElementsByClassName('MDXInfo').styles.display = 'none';
+    document.getElementById('MDXInfo').style.display = 'none';
+} else {
+    document.getElementById('MDXInfo').style.display = 'block';
+}
 ---
 <Layout title={frontmatter.title} description={frontmatter.description} keywords={frontmatter.keywords}>
     <slot>
@@ -71,10 +78,10 @@ const { frontmatter,
 </Layout>
 
 <script>
-    if (Astro.props.frontmatter.hideInfo){
-        // document.getElementsByClassName('MDXInfo').styles.display = 'none';
-        document.getElementById('MDXInfo').style.display = 'none';
-    } else {
-        document.getElementById('MDXInfo').style.display = 'block';
-    }
+    // if (frontmatter.hideInfo){
+    //     // document.getElementsByClassName('MDXInfo').styles.display = 'none';
+    //     document.getElementById('MDXInfo').style.display = 'none';
+    // } else {
+    //     document.getElementById('MDXInfo').style.display = 'block';
+    // }
 </script>
