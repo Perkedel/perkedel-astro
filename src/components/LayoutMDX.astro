@@ -18,12 +18,13 @@ const { frontmatter,
         // hideInfo = 'false',
  } = Astro.props;
 
- if(frontmatter.hideInfo){
-    // document.getElementsByClassName('MDXInfo').styles.display = 'none';
-    document.getElementById('MDXInfo').style.display = 'none';
-} else {
-    document.getElementById('MDXInfo').style.display = 'block';
-}
+let handoverHideInfo = frontmatter.hideInfo;
+//  if(frontmatter.hideInfo){
+//     // document.getElementsByClassName('MDXInfo').styles.display = 'none';
+//     document.getElementById('MDXInfo').style.display = 'none';
+// } else {
+//     document.getElementById('MDXInfo').style.display = 'block';
+// }
 ---
 <Layout title={frontmatter.title} description={frontmatter.description} keywords={frontmatter.keywords}>
     <slot>
