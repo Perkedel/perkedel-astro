@@ -11,8 +11,9 @@ import BackToTopButton from './BackToTopButton.astro';
 import '../style/style.css';
 
 export interface Props {
-	title?: string;
+  title?: string;
   description?: string;
+  author?:string;
   keywords?: string;
   viewSourceURL?: string;
 }
@@ -41,6 +42,7 @@ let doViewSource = 'view-source:' + currJustAddr;
 
 const { 
   title = 'Perkedel NTLF+ASTR', 
+  author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
   keywords = 'tech, fun, novelty, open source, gratis, free',
   viewSourceURL = doViewSource
@@ -83,9 +85,6 @@ const {
   </script> -->
 
 	<title>{title}</title>
-  <!-- <meta name="description" content={description}> -->
-  <meta name="keywords" content={keywords}>
-  <!-- <!-- <meta name="author" content="JOELwindows7"> -->
   <!-- BRAND NEW SEO PLUGIN HERE https://github.com/jonasmerlin/astro-seo -->
   <SEO
       title={title}
@@ -109,6 +108,10 @@ const {
       }}
       />
   <!-- YAY COMPREHENSIVE SEO -->
+  
+  <!-- <meta name="description" content={description}> -->
+  <meta name="keywords" content={keywords}>
+  <meta name="author" content={author}>
 </head>
 <body>
   <!-- HEADER -->

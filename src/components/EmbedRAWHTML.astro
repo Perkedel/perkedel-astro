@@ -19,4 +19,8 @@ const{
     name,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<iframe src={src} width={width} height={height} style={style} name={name}></iframe>
+<iframe src={src} width={width} height={height} style={style} name={name} title={title}>
+    <slot>
+        Hello Embed.
+    </slot>
+</iframe>

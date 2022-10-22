@@ -1,0 +1,60 @@
+---
+import type { MarkdownLayoutProps } from 'astro';
+import { SEO } from "astro-seo";
+import ButtonizedLink from '../ButtonizedLink.astro';
+import EmbedRAWHTML from '../EmbedRAWHTML.astro';
+import BackToTopButton from '../BackToTopButton.astro';
+import Layout from '../Layout.astro';
+
+export interface Props {
+  src?: string;
+  height?:string;
+  width?:string;
+  style?:string;
+  name?:string;
+  title?: string;
+  description?: string;
+  author?:string;
+  keywords?: string;
+  SauceURLs?: Map<string, string>;
+  MiscEmbedsURLs?: Map<string, string>;
+  MiscEmbedsThings?: Array<string>;
+}
+//https://howtodoinjava.com/typescript/maps/
+
+const { 
+  src = 'https://example.com',
+  height = '500px',
+  width = '100%',
+  style = 'border:none;',
+  title = 'A Perkedel NTLF+ASTR Games', 
+  name = title,
+  author = 'JOELwindows7',
+  description = 'Perkedel NTLF+ASTR. Play now Online, FREE $0',
+  keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
+  SauceURLs = [
+    ['Example','https://example.com'],
+    ['Example2','https://example.org'],
+  ],
+  MiscEmbedsURLs = [],
+  MiscEmbedsThings = [],
+// } = Astro.props as Props;
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<Layout title={title} author={author} description={description} keywords={keywords}>
+  <h1>{title}</h1>
+  <EmbedRAWHTML src={src} title={title} height={height} width={width} style={style} name={name} title={title}/>
+  <slot>
+    <h2>Download & Play</h2>
+      {SauceURLs.entries().map((sauce)=>(
+        <li><a href={sauce[1]} target="_blank" rel="noopener noreferrer">{sauce[0]}</a></li>
+      ))}
+    <h2>Misc Embeds</h2>
+      {MiscEmbedsURLs.entries().map((thueing)=>(
+        <EmbedRAWHTML src={thueing[1]} title={thueing[0]} width="500px" height="200px"/><br/>
+      ))}
+      {MiscEmbedsThings.map((thiing)=>(
+        <span>{thiing}</span><br/>
+      ))}
+  </slot>
+</Layout>
