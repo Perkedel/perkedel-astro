@@ -3,9 +3,9 @@ title: In site
 description: Perkedel pages
 author: JOELwindows7
 ---
-import ButtonizedLink from './ButtonizedLink.astro';
-import ListButtonizedLink from './Elements/ListButtonizedLink.astro'
 import { Image, Picture } from '@astrojs/image/components';
+// import ButtonizedLink from './ButtonizedLink.astro';
+// import ListButtonizedLink from './Elements/ListButtonizedLink.astro'
 import TebengeGuy from './Icons/TebengeGuy.astro';
 import TebengeBullet from './Icons/TebengeBullet.astro';
 import LFMSymbol from './Icons/LFMSymbol.astro';
@@ -25,22 +25,36 @@ import LFMSymbol from './Icons/LFMSymbol.astro';
 - <ButtonizedLink content="Donation 🤑💸" href="donate"/>
 - <ButtonizedLink content="&#xf7a8; External links 🚪" href="external_links"/> */}
 
-<ListButtonizedLink>
-    <li><a href="discord_bouncing_videos">&#xfb6e; Discord Bouncing Videos &#xf03d; 🏀</a></li>
+{/* <ListButtonizedLink> */}
+{/* <ul class="ListNoStyle ListSeparateChildrenABit ButtonizeListChildrenLinks"> */}
+    {/* <li><a href="discord_bouncing_videos">&#xfb6e; Discord Bouncing Videos &#xf03d; 🏀</a></li>
     <li><a href="odysee">📚 Odysee LBRY &#xf03d;</a></li>
     <li><a href="tebenge">Tebenge <TebengeGuy/> <TebengeBullet/> <TebengeBullet/> <TebengeBullet/> <TebengeBullet/> <TebengeBullet/></a></li>
     <li><a href="last_funkin_moments">Last Funkin Moments <LFMSymbol/></a></li>
     <li><a href="shapeTextCopy">&#xfd2f; Shape Text Copy 🔷&#xf069;⚪⬜</a></li>
-    <li><a href="transparency_questionaire_test">Transparency Questionaire Test (RESEARCH) 🅰️🅱️✅❌</a></li>
-    <li><a href="midi">MIDI FILES & STUFFS 🎹🎹🎹🎹🎹🎹🎹🎹</a></li>
+    <li><a href="transparency_questionaire_test">Transparency Questionaire Test (RESEARCH) 🅰️🅱️✅❌ </a></li>
+    {/* <li><a href="midi"> MIDI FILES & STUFFS 🎹🎹🎹🎹🎹🎹🎹🎹 </a></li> */}
     <li><a href="rss">RSS &#xf09e;</a></li>
     <li><a href="test_md">&#xe73e; Markdown Test &#xe609;</a></li>
     <li><a href="/no_script">No Script Room 🚫📜</a></li>
     <li><a href="short_page">short_page.</a> test the short page for footer stick to bottom</li>
-    <li><a href="internetometer">Internetometer <Image src="http://internetometer.com/imagesmall/42554.png" width="50px"/>
-        </a> (To give 1 <i>internet</i> point to Joel right now, <a target="_blank" rel="noopener noreferrer" href='http://internetometer.com/give/42554'><b>CLICK HERE ➡️➡️➡️➡️➡️</b></a>
-        <a target="_blank" rel="noopener noreferrer" href='http://internetometer.com/give/42554'><Image src='http://internetometer.com/image/42554.png' width="125px"/></a>)
-    </li>
+    <li><a href="internetometer">Internetometer <Image src="http://internetometer.com/imagesmall/42554.png" width="50px"/></a> (To give 1 <i>internet</i> point to Joel right now, <a target="_blank" rel="noopener noreferrer" href='http://internetometer.com/give/42554'><b>CLICK HERE ➡️➡️➡️➡️➡️</b></a><a target="_blank" rel="noopener noreferrer" href='http://internetometer.com/give/42554'><Image src='http://internetometer.com/image/42554.png' width="125px"/></a>)</li>
     <li><a href="donate">Donation 🤑💸</a></li>
-    <li><a href="external_links">&#xf7a8; External links 🚪</a></li>
-</ListButtonizedLink>
+    <li><a href="external_links">&#xf7a8; External links 🚪</a></li> */}
+{/* </ul> */}
+{/* </ListButtonizedLink> */}
+
+- <a href="discord_bouncing_videos">&#xfb6e; Discord Bouncing Videos &#xf03d; 🏀</a>
+- <a href="odysee">📚 Odysee LBRY &#xf03d;</a>
+- <a href="tebenge">Tebenge <TebengeGuy/> <TebengeBullet/> <TebengeBullet/> <TebengeBullet/> <TebengeBullet/> <TebengeBullet/></a>
+- <a href="last_funkin_moments">Last Funkin Moments <LFMSymbol/></a>
+- <a href="shapeTextCopy">&#xfd2f; Shape Text Copy 🔷&#xf069;⚪⬜</a>
+- <a href="transparency_questionaire_test">Transparency Questionaire Test (RESEARCH) 🅰️🅱️✅❌ </a>
+- <a href="midi"> MIDI FILES & STUFFS 🎹🎹🎹🎹🎹🎹🎹🎹 </a>
+- <a href="rss">RSS &#xf09e;</a>
+- <a href="test_md">&#xe73e; Markdown Test &#xe609;</a>
+- <a href="/no_script">No Script Room 🚫📜</a>
+- <a href="short_page">short_page.</a> test the short page for footer stick to bottom
+- <a href="internetometer">Internetometer <Image src="http://internetometer.com/imagesmall/42554.png" width="50px"/></a> (To give 1 <i>internet</i> point to Joel right now, <a target="_blank" rel="noopener noreferrer" href='http://internetometer.com/give/42554'><b>CLICK HERE ➡️➡️➡️➡️➡️</b></a><a target="_blank" rel="noopener noreferrer" href='http://internetometer.com/give/42554'><Image src='http://internetometer.com/image/42554.png' width="125px"/></a>)
+- <a href="donate">Donation 🤑💸</a>
+- <a href="external_links">&#xf7a8; External links 🚪</a>
