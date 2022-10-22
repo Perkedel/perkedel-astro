@@ -13,7 +13,7 @@ export default defineConfig({
     site: 'https://perkedel.netlify.app',
     integrations: [mdx(),
         image({
-            // serviceEntryPoint: '@astrojs/image/sharp'
+            serviceEntryPoint: '@astrojs/image/sharp',
         }),
         sitemap(), prefetch(), partytown(), embeds(), robotsTxt()
     ],
