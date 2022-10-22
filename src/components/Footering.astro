@@ -1,11 +1,11 @@
 ---
 //https://github.com/BryceRussell/astro-github-elements/tree/main/packages/time#readme
-import { LocalTime } from '@astro-github-elements/time';
+import { LocalTime, TimeAgo } from '@astro-github-elements/time';
 ---
 <!-- FOOTER -->
 <footer>
     <hr>
-    <p title="Page loaded at datetime of..">&#xf5ef; <LocalTime date time/></p>
+    <p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/>, <TimeAgo micro/></p>
     <p><img width="50em" src="/Perkedel Icon.png"/> <font size = "12">Perkedel Technologies</font></p>
     <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
     <font size="2"><p>DISCLAIMER:</p> 

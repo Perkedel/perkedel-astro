@@ -50,6 +50,7 @@ html {
     /*height: 100%;*/
     min-height: 100%;
     position: relative;
+    margin: 0;
 }
 
 body {
@@ -65,6 +66,7 @@ body {
     background-color: black;
     color: white;
     /* margin: 0 0 450px; */
+    margin: 0;
     /*height: 100%;*/
     /*
     https://www.w3schools.com/css/css_image_gallery.asp
@@ -325,8 +327,8 @@ nav {
     font-weight: bold;
     z-index: 99;
     /* Make sure it does not overlap */
-    position: sticky;
     position: -webkit-sticky;
+    position: sticky;
     /* Safari */
     /*wtf, Neocities?! the position works! OH, wait, not all browser. but.. eh idk*/
     top: 0;
