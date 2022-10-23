@@ -11,11 +11,28 @@ import BackToTopButton from './BackToTopButton.astro';
 import '../style/style.css';
 
 export interface Props {
+  siteName?: string;
   title?: string;
+  thumbnail?:string;
+  thumbnailAlt?:string;
+  thumbnailAudio?:string;
+  thumbnailVideo?:string;
+  type?:string;
   description?: string;
   author?:string;
   keywords?: string;
   viewSourceURL?: string;
+  noIndex?:boolean;
+  noFollow?:boolean;
+  rating?:string;
+  favIcon?:string;
+  favIconHD?:string;
+  charSet?:string;
+  language?:string;
+  twitterAuthor?:string;
+  twitterSite?:string;
+  twitterCard?:string;
+  themeColor?:string;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -41,27 +58,44 @@ let doViewSource = 'view-source:' + currJustAddr;
 // }>;
 
 const { 
+  siteName = 'Perkedel Technologies Division NTLF+ASTR',
   title = 'Perkedel NTLF+ASTR', 
+  thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+  thumbnailAlt = 'Perkedel banner',
+  thumbnailAudio,
+  thumbnailVideo,
+  type = 'website',
   author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
   keywords = 'tech, fun, novelty, open source, gratis, free',
-  viewSourceURL = doViewSource
+  viewSourceURL = doViewSource,
+  noIndex = false,
+  noFollow = false,
+  rating,
+  favIcon ='/favicon.ico',
+  favIconHD = '/Perkedel_Icon.png',
+  charSet = 'UTF-8',
+  language = 'en',
+  twitterAuthor = `@`+author,
+  twitterSite = twitterAuthor,
+  twitterCard = 'summary_large' ,
+  themeColor = '#0000aa',
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang={language}>
 <head>
   <!--https://www.w3schools.com/tags/tag_meta.asp-->
-	<meta charset="UTF-8">
+	<meta charset={charSet}>
 	<meta name="viewport" content="width=device-width">
   <!-- <meta name="description" content="Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework"> -->
   <!-- <meta name="keywords" content="tech, fun, novelty, open source, gratis, free"> -->
   <!-- <meta name="author" content="JOELwindows7"> -->
   <meta name="generator" content={Astro.generator} />
 
-  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href={favIcon} />
   <!-- <link rel="stylesheet" href="https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css"> -->
   <!-- <link rel="stylesheet" href="https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css"> -->
 
@@ -89,29 +123,62 @@ const {
   <SEO
       title={title}
       description={description} 
+      noindex={noIndex}
+      nofollow={noIndex}
+      <!-- twitter={{
+        title: title;
+      }} -->
       extend={{
         // extending the default link tags
-        link: [{ rel: "icon", href: "/favicon.ico" }],
+        link: [
+          { rel: "icon", href: favIcon }
+        ],
         // extending the default meta tags
         meta: [
+          // MOAR https://css-tricks.com/essential-meta-tags-social-media/#aa-proprietary-meta-tags
+          // https://devhints.io/html-meta
+          // TWITTER https://dev.twitter.com/cards
           {
             name: "twitter:image",
             content:
               // "https://user-images.githubusercontent.com/5182256/131216951-8f74f425-f775-463d-a11b-0e01ad9fce8d.png",
-              "/Perkedel_Icon.png",
+              // favIconHD,
+              thumbnail,
           },
+          { name: "twitter:image:alt", content: thumbnailAlt },
           { name: "twitter:title", content: title },
           { name: "twitter:description", content: description },
-          { name: "twitter:creator", content: "@JOELwindows7" },
-          { name: "twitter:site", content: "@JOELwindows7" },
+          { name: "twitter:creator", content: twitterAuthor },
+          { name: "twitter:site", content: twitterSite },
+          { name: "twitter:card", content: twitterCard },
+          { name: "twitter:url", content: Astro.url },
+          
+          // OpenGraph https://ogp.me/
+          { name: "og:title", content: title },
+          { name: "og:description", content: description },
+          { name: "og:site_name", content: siteName },
+          { name: "og:type", content: type },
+          { name: "og:url", content: Astro.url },
+          { name: "og:audio", content: thumbnailAudio },
+          { name: "og:video", content: thumbnailVideo },
+          { name: "og:image", content: thumbnail },
+          { name: "og:image", content: favIconHD }, // second ones in case above not work?
+
+          // Basics
+          { name: "description", content: description },
+          { name: "keywords", content: keywords },
+          { name: "author", content: author },
+          { name: "rating", content: rating },
+          { name: "theme-color", content: themeColor },
+
         ],
       }}
       />
   <!-- YAY COMPREHENSIVE SEO -->
   
   <!-- <meta name="description" content={description}> -->
-  <meta name="keywords" content={keywords}>
-  <meta name="author" content={author}>
+  <!-- <meta name="keywords" content={keywords}> -->
+  <!-- <meta name="author" content={author}> -->
 </head>
 <body>
   <!-- HEADER -->
