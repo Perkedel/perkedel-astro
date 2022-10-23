@@ -94,6 +94,7 @@ const {
   <!-- <meta name="keywords" content="tech, fun, novelty, open source, gratis, free"> -->
   <!-- <meta name="author" content="JOELwindows7"> -->
   <meta name="generator" content={Astro.generator} />
+  <meta name="theme-color" media="(prefers-color-scheme:dark)" content={themeColor} />
 
   <link rel="icon" type="image/x-icon" href={favIcon} />
   <!-- <link rel="stylesheet" href="https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css"> -->
@@ -131,7 +132,8 @@ const {
       extend={{
         // extending the default link tags
         link: [
-          { rel: "icon", href: favIcon }
+          { rel: "icon", type="image/x-icon", href: favIcon },
+          { rel: "icon", type="image/png", href: favIconHD }
         ],
         // extending the default meta tags
         meta: [
@@ -169,7 +171,7 @@ const {
           { name: "keywords", content: keywords },
           { name: "author", content: author },
           { name: "rating", content: rating },
-          { name: "theme-color", content: themeColor },
+          { name: "theme-color", media:"(prefers-color-scheme:dark)", content: themeColor },
 
         ],
       }}
