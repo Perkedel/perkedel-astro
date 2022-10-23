@@ -3,6 +3,7 @@ export interface Props {
     title?: string;
     src?: string;
     type? : string;
+    srcExtra?: Array<Array<string>>;
     // description?: string;
     // keywords?: string;
     width?: string;
@@ -14,6 +15,7 @@ const {
   title = 'embedded video', 
   type = 'video/webm',
   src,
+  srcExtra,
   width,
   height,
   errorSay = 'Werror! Your browser cannot player HTML video! warm and bad! 😭',
@@ -23,8 +25,12 @@ const {
 ---
 <!-- https://www.w3schools.com/html/html5_video.asp -->
 <!-- src e.g. "https://cdn.discordapp.com/attachments/950077002654814229/1018508500512542740/bingbong.webm" -->
+<!-- https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_object_video -->
 
 <video title={title} height={height} width={width} controls>
-    <source src={src} type={type}>
+    <source src={src} type={type}/>
+    {srcExtra.map(sauce=>(
+      <source src={sauce[0]} type={sauce[1]}/>
+    ))}
     {errorSay}
 </video>

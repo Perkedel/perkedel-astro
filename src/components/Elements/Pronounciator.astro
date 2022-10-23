@@ -1,0 +1,24 @@
+---
+export interface Props{
+    say?: string;
+    pronounciation?: string;
+}
+
+const{
+    say,
+    pronounciation,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- https://www.w3schools.com/tags/tag_ruby.asp -->
+<!-- Wibu pronounciation -->
+<ruby>
+    <slot name="beforeSay"/>
+    {say}
+    <slot name="afterSay"/>
+    <rt>
+        <slot name="beforePronounciation"/>
+        {pronounciation}
+        <slot name="afterPronounciation"/>
+    </rt>
+    <slot/>
+</ruby>

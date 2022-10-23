@@ -29,10 +29,18 @@ const { frontmatter,
 // }
 ---
 <Layout title={frontmatter.title} description={frontmatter.description} keywords={frontmatter.keywords}>
+    <slot name="beginOfIt">
+
+    </slot>
+
     <slot>
         <h1><i>Empty</i></h1>
             <p>Markdown empty!</p>
     </slot>
+
+    <!-- You know what, never hide info. -->
+    {frontmatter.hideInfo?<p></p>:<p></p>}
+
     <div class="MDXInfo" id="MDXInfo">
         <h1 style="font-size:18px"><i>Markdown Info</i></h1>
             <!-- <p style="font-size:12px;">
@@ -79,6 +87,10 @@ const { frontmatter,
                 </tr>
             </table>
     </div>
+
+    <slot name="endOfIt">
+
+    </slot>
 </Layout>
 
 <script>

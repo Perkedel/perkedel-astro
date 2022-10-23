@@ -1,6 +1,6 @@
 ---
 import EmbedVideo from './EmbedVideo.astro'
-import ButtonizedLink from './ButtonizedLink.astro'
+import ButtonizedLink from '../ButtonizedLink.astro'
 
 export interface Props {
     title?: string;
@@ -38,7 +38,9 @@ const {
 ---
 
 <h3>{title}</h3>
+<slot name="aboveVid"/>
 <EmbedVideo src={src} title={title} width={width} height={height} errorSay={errorSay} type={type}/>
+<slot name="bellowVid"/>
 <p>
     {description}. Collected by <a href={creditURL} target="_blank" rel="noopener noreferrer">{creditTo}</a> & was bounced with 
     <a href={creditToolURL} target="_blank" rel="noopener noreferrer">{creditToolTo}</a> I think, 
@@ -55,4 +57,5 @@ const {
     <!-- <a class="Buttonnize" href={src} target="_blank" rel="noopener noreferrer">&#xf6d9; DOWNLOAD LINK (can also be copied)</a> -->
     <ButtonizedLink content="&#xf6d9; DOWNLOAD LINK (can also be copied)" href={src} target="_blank" rel="noopener noreferrer"/>
 </p>
+<slot/>
 <br>

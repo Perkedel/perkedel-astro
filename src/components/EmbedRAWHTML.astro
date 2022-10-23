@@ -4,23 +4,55 @@
 export interface Props {
     title?: string;
     src?:string;
+    srcDoc?:string;
     height?:string;
     width?:string;
     style?:string;
     name?:string;
+    allow?:string;
+    allowFullScreen?:boolean;
+    allowPaymentRequest?:boolean;
+    loading?:string;
+    referrerPolicy?:string;
+    sanbox?:string;
+    errorSay?:string;
 }
 
 const{
     title = 'EmbedRAWHTML',
     src,
+    srcDoc,
     height = '500px',
     width = '100%',
     style = 'border:none;',
     name,
+    allow,
+    allowFullScreen,
+    allowPaymentRequest,
+    loading,
+    referrerPolicy,
+    sandbox,
+    errorSay = 'You browser does not support `iframe`, warm and bad! 😭😭😭😭😭😭😭'
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<iframe src={src} width={width} height={height} style={style} name={name} title={title}>
+<!-- https://www.w3schools.com/tags/tag_iframe.asp -->
+<!-- https://www.w3schools.com/tags/att_iframe_srcdoc.asp -->
+
+<iframe 
+    src={src} 
+    srcdoc={srcDoc}
+    width={width} 
+    height={height} 
+    style={style} 
+    name={name} 
+    title={title} 
+    allowfullscreen={allowFullScreen} 
+    allow={allow}
+    referrerpolicy={referrerPolicy}
+    sandbox={sandbox} 
+    >
     <slot>
-        Hello Embed.
+        {errorSay}
     </slot>
+    <slot name="errorSayExtra"/>
 </iframe>
