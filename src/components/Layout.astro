@@ -164,6 +164,7 @@ const {
           { name: "og:audio", content: thumbnailAudio },
           { name: "og:video", content: thumbnailVideo },
           { name: "og:image", content: thumbnail },
+          { name: "og:image:alt", content: thumbnailAlt },
           { name: "og:image", content: favIconHD }, // second ones in case above not work?
 
           // Basics
@@ -172,7 +173,9 @@ const {
           { name: "author", content: author },
           { name: "rating", content: rating },
           { name: "theme-color", media:"(prefers-color-scheme:dark)", content: themeColor },
-
+          
+          // Google
+          { name: "google-site-verification", content: 'WmYqsOfL32Rf5JdETFqdSWNgEEx' },
         ],
       }}
       />
