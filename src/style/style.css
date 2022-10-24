@@ -341,6 +341,10 @@ nav {
     top: 0;
 }
 
+nav .NavPutLeft {
+    float: left;
+}
+
 nav .NavPutRight {
     float: right;
 }
@@ -359,7 +363,9 @@ nav ul {
 }
 
 nav li {
-    float: left;
+    /* float: left; */
+    margin-left: 1px;
+    margin-right: 1px;
 }
 
 nav a,
@@ -671,14 +677,22 @@ dropbtn a:visited:hover,
 /* Dropdown Content (Hidden by Default) */
 
 .dropdown-content {
+    /* https://www.w3schools.com/css/css_float_clear.asp */
+    clear: both;
     display: none;
-    /*position: absolute;*/
+    /* position: absolute; */
     /*background-color: #f9f9f9;*/
     min-width: 160px;
     /*box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);*/
     z-index: 100;
     /*https://stackoverflow.com/a/64148961/9079640*/
     top: 70px;
+}
+
+.dropdown-content::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
 
@@ -691,7 +705,7 @@ dropbtn a:visited:hover,
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-    overflow: visible;
+    overflow: auto;
 }
 
 
@@ -852,6 +866,11 @@ code {
         display: block;
     }
     nav li {
+        float: none;
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+    nav .NavPutLeft {
         float: none;
     }
     nav .NavPutRight {
