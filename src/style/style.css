@@ -111,6 +111,9 @@ button:hover {
 
 hr {
     background: blue;
+    color: rgb(0, 175, 175);
+    margin: 0px;
+    border-color: rgb(0, 175, 175);
 }
 
 main {
