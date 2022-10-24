@@ -304,6 +304,10 @@ header h1 {
     margin: 0;
 }
 
+header p {
+    margin: 0;
+}
+
 header a,
 header a:visited,
 header a:hover,

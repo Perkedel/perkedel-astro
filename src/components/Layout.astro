@@ -23,6 +23,7 @@ export interface Props {
   thumbnailVideo?:string;
   type?:string;
   description?: string;
+  descriptionPrefix?: string;
   author?:string;
   keywords?: string;
   viewSourceURL?: string;
@@ -79,6 +80,7 @@ const {
   type = 'website',
   author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
+  descriptionPrefix = 'DO NOT RATIO',
   keywords = 'tech, fun, novelty, open source, gratis, free',
   viewSourceURL = doViewSource,
   noIndex = false,
@@ -135,13 +137,13 @@ const {
   >
   </script> -->
 
-	<title>{title}</title>
+	<!-- <title>{title}</title> -->
   <!-- BRAND NEW SEO PLUGIN HERE https://github.com/jonasmerlin/astro-seo -->
         <!-- twitter={{
         title: title;
       }} -->
   <SEO
-      title={title}
+      title={title + ` | ` + siteName}
       description={description} 
       noindex={noIndex}
       nofollow={noIndex}
@@ -165,16 +167,16 @@ const {
               thumbnail,
           },
           { name: "twitter:image:alt", content: thumbnailAlt },
-          { name: "twitter:title", content: title },
-          { name: "twitter:description", content: description },
+          { name: "twitter:title", content: title + ` | ` + siteName },
+          { name: "twitter:description", content: descriptionPrefix + ' | ' + description },
           { name: "twitter:creator", content: twitterAuthor },
           { name: "twitter:site", content: twitterSite },
           { name: "twitter:card", content: twitterCard },
           { name: "twitter:url", content: Astro.url.href },
           
           // OpenGraph https://ogp.me/
-          { name: "og:title", content: title },
-          { name: "og:description", content: description },
+          { name: "og:title", content: title + ` | ` + siteName },
+          { name: "og:description", content: descriptionPrefix + ' | ' + description },
           { name: "og:site_name", content: siteName },
           { name: "og:type", content: type },
           { name: "og:url", content: Astro.url.href },
@@ -192,7 +194,7 @@ const {
           { name: "og:image:alt", content: favIconHDAlt },
 
           // Basics
-          { name: "description", content: description },
+          // { name: "description", content: description },
           { name: "keywords", content: keywords },
           { name: "author", content: author },
           { name: "rating", content: rating },
