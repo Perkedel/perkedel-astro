@@ -2,8 +2,88 @@
 [build]
   command = "astro build"
   functions = "netlify/functions"
-  publish = "dist"
+  # publish = "dist"
+  publish = "public"
 
+# https://github.com/sw-yx/netlify-plugin-no-more-404#readme
+[[plugins]]
+package = "netlify-plugin-no-more-404"
 
+  # all inputs are optional, we just show you the defaults below
+  [plugins.inputs]
+  
+  # either "warn" or "error"
+  on404 = "warn" 
+  
+  # change this key to a new one any time you need to restart from scratch
+  cacheKey = "PerkedelCacheKey"
+  
+  # (for development) turn true for extra diagnostic logging
+  debugMode = false
+
+# https://github.com/oliverroick/netlify-plugin-html-validate#readme
+[[plugins]]
+  package = "netlify-plugin-html-validate"
+
+  [plugins.inputs]
+    ext = "html"
+    config = ".htmlvalidate.json"
+
+# https://github.com/Tom-Bonnike/netlify-plugin-inline-critical-css#readme
+[[plugins]]
+  package = "netlify-plugin-inline-critical-css"
+
+  # All inputs are optional, so you can omit this section.
+  # Defaults are shown below.
+  [plugins.inputs]
+    # A filter used to target specific files in the publish directory. Be sure to only target HTML files. This option is passed onto the readdirp library, see https://github.com/paulmillr/readdirp#options for more info.
+    fileFilter = ["*.html"]
+
+    # A filter used to target or ignore specific directories in the publish directory. This option is passed onto the readdirp library, see https://github.com/paulmillr/readdirp#options for more info.
+    directoryFilter = ["!node_modules"]
+
+    # You can refer to `critical`’s documentation: https://github.com/addyosmani/critical for all options below.
+    # Whether to remove the inlined styles from any stylesheet referenced in the HTML. Use with caution. Removing the critical CSS per page results in a unique async loaded CSS file for every page, meaning you can’t rely on cache across multiple pages.
+    extract = false
+
+    # An array of objects containing `width` and `height` properties to deliver critical CSS for multiple screen resolutions.
+    dimensions = [
+      { width = 414, height = 896 },
+      { width = 800, height = 600 },
+      { width = 600, height = 800 },
+      { width = 1920, height = 1080 },
+      { width = 1080, height = 1920 },
+      { width = 4096, height = 2160 },
+      { width = 2160, height = 4096 },
+    ]
+
+# https://github.com/erezrokah/netlify-plugin-is-website-vulnerable#readme
+[[plugins]]
+package = "netlify-plugin-is-website-vulnerable"
+
+# https://github.com/pagewatchdev/netlify-plugin-pagewatch#readme
+[[plugins]]
+  package = "netlify-plugin-pagewatch"
+
+# https://github.com/cdeleeuwe/netlify-plugin-submit-sitemap#readme (public build pls)
+[[plugins]]
+  package = "netlify-plugin-submit-sitemap"
+
+	[plugins.inputs]
+
+	# The base url of your site (optional, default = main URL set in Netlify)
+	baseUrl = "https://perkedel.netlify.app"
+
+	# Path to the sitemap URL (optional, default = /sitemap.xml)
+	sitemapPath = "/sitemap-0.xml"
+
+	# Time in seconds to not submit the sitemap after successful submission
+	ignorePeriod = 0
+
+	# Enabled providers to submit sitemap to (optional, default = 'google', 'yandex'). Possible providers are currently only 'google', 'yandex'.
+	providers = [
+		"google",
+		"yandex"
+	]
 
   

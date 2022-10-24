@@ -42,6 +42,7 @@ export interface Props {
   twitterSite?:string;
   twitterCard?:string;
   themeColor?:string;
+  ejectClarity?:boolean;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -98,6 +99,7 @@ const {
   twitterSite = twitterAuthor,
   twitterCard = 'summary_large_image' ,
   themeColor = '#0000aa',
+  ejectClarity = false,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -211,13 +213,16 @@ const {
   <!-- <meta name="author" content={author}> -->
 
   <!-- Clarity tracking code for https://perkedel.netlify.app/ -->
-  <script>
+  {ejectClarity?{}:
+    <script>
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "e7yq61cr5h");
-  </script>
+    </script>
+  }
+  
 </head>
 <body>
   <!-- HEADER -->

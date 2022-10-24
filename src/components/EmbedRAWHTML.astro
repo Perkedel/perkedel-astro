@@ -14,7 +14,7 @@ export interface Props {
     allowPaymentRequest?:boolean;
     loading?:string;
     referrerPolicy?:string;
-    sanbox?:string;
+    sandbox?:string;
     errorSay?:string;
 }
 
@@ -32,7 +32,7 @@ const{
     loading,
     referrerPolicy,
     sandbox,
-    errorSay = 'You browser does not support `iframe`, warm and bad! 😭😭😭😭😭😭😭'
+    errorSay = '&#xea87; WERROR! &#xebde; Your browser does not support <code>iframe</code>, warm and bad! 😭😭😭😭😭😭😭 '
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- https://www.w3schools.com/tags/tag_iframe.asp -->
@@ -52,7 +52,7 @@ const{
     sandbox={sandbox} 
     >
     <slot>
-        {errorSay}
+        <p class="error">{errorSay}</p>
     </slot>
     <slot name="errorSayExtra"/>
 </iframe>

@@ -1,0 +1,65 @@
+---
+import EmbedRAWHTML from '../EmbedRAWHTML.astro';
+
+export interface Props {
+    title?: string;
+    baseSrc?:string;
+    videoId?:string;
+    playlistId?:string;
+    autoplay:number;
+    mute:number;
+    loop:number;
+    controls:number;
+    srcDoc?:string;
+    height?:string;
+    width?:string;
+    style?:string;
+    name?:string;
+    allow?:string;
+    allowFullScreen?:boolean;
+    allowPaymentRequest?:boolean;
+    loading?:string;
+    referrerPolicy?:string;
+    sandbox?:string;
+    errorSay?:string;
+}
+
+const {
+    title = 'EmbedVideoTube',
+    baseSrc = 'https://youtube.com/embed/',
+    videoId = 'tgbNymZ7vqY',
+    playlistId = 'tgbNymZ7vqY',
+    autoplay = 0,
+    mute = 0,
+    loop = 0,
+    controls = 1,
+    srcDoc,
+    height = '500px',
+    width = '100%',
+    style = 'border:none;',
+    name,
+    allow,
+    allowFullScreen,
+    allowPaymentRequest,
+    loading,
+    referrerPolicy,
+    sandbox,
+    errorSay = '&#xea87; WERROR! &#xebde; Your browser does not support <code>iframe</code>, warm and bad! 😭😭😭😭😭😭😭 '
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- https://www.w3schools.com/html/html_youtube.asp -->
+<EmbedRAWHTML 
+    src={baseSrc+videoId+'?'+ (playlistId?('playlist='+playlistId+'&'):'') + 'autoplay='+autoplay +'&'+ 'mute='+mute +'&'+ 'loop='+loop +'&'+ 'controls='+controls}
+    width={width}
+    height={height}
+    title={title}
+    style={style}
+    name={name}
+    allow={allow}
+    allowFullScreen={allowFullScreen}
+    allowPaymentRequest={allowPaymentRequest}
+    loading={loading}
+    referrerPolicy={referrerPolicy}
+    sandbox={sandbox}
+    errorSay = {errorSay}
+    />
