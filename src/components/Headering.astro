@@ -1,5 +1,6 @@
 ---
-import PerkedelWoosie from './Icons/PerkedelWoosie.astro'
+import PerkedelWoosie from './Icons/PerkedelWoosie.astro';
+import NavBar from './Elements/NavBar.astro';
 export interface Props {
   viewSourceURL?: string;
 }
@@ -24,28 +25,5 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
     <p style="font-size: 2em; font-weight: bold;"><a href="/"><PerkedelWoosie/>Perkedel NTLF+ASTR</a></p>
   </header>
   <hr/>
-  <nav>
-    <ul>
-      <li class="NavPutLeft"><a title="Go back one level in address bar path" href=".." class="NavBtn">&#xf053;</a></li>
-      <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn">🏠 Home &#xf015;</a></li>
-      <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps" class="NavBtn">📦 Applications &#xf53a;</a></li>
-      <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href=".." class="NavBtn">&#xf049; BACK &#xf9d4;</a></li>-->
-      
-      
-      <li class="NavPutRight dropdown">
-        <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
-        <a class="dropbtn NavBtn" title="Open Menu">&#xf85b;</a>
-        
-        <div class="dropdown-content">
-          <a title="View this page source" href={viewSourceURL} class="NavBtn" style="display:none;">View Source &#xf1c9;</a>
-          <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
-          <a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a>
-          <a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a>
-        </div>
-      </li>
-      <!-- <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li> -->
-      <!-- <li class="NavPutRight"><a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a></li> -->
-      
-    </ul>
-  </nav>
+  <NavBar/>
   <hr/>

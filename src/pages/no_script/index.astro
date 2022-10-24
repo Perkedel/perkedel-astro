@@ -1,0 +1,35 @@
+---
+import Layout from '../../components/Layout.astro';
+import ButtonizedLink from '../../components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+---
+<Layout title="No Script page" description="Perkedel NTLF+ASTR. No script page, test page that should reduce amount of JS involved to the minimum">
+    <h1>No Script Room</h1>
+      <p>
+        <!-- This page does not load the <a href="/main.js" target="_blank" rel="noopener noreferrer"><i>main.js</i></a> JavaScript.<br>
+        It is here for research & workaround. e.g., did you know our JavaScript did killed the Wayback Machine widget? We have no idea how to fix it at the moment.<br>
+        You'll also notice that the header & the footer is a bit different. That's because they're the <mark><b>last snapshot as of 9th October 2022 at 01:41 AM</b></mark>.<br>
+        Any other page will have those footer & header from the JavaScript, in which we change their arrangement & designs from time to time.<br>
+        Not this one. here, <i>detox from JavaScript</i> idk.. lol! 😂😂😆😆😆<br>
+        And there you have it. -->
+        The page actually still loads <a href="/main.js" target="_blank" rel="noopener noreferrer"><i>main.js</i></a> Javascript due to how we have designed the layout in our Astro project.<br>
+        This is still needed for <strong>Back to top button</strong>, until we can find the Astro plugin or whatever that makes it possible without Javascript, we staying some of our script functionality this way.<br>
+        But don't worry, the Javascript no longer inject the header & footer like we had on <a href="https://perkedel.neocities.org" target="_blank" rel="noopener noreferrer">NECT (Neocities)</a>.<br>
+        Instead, the Astro already compiled our header & footer for every single page that uses & inherit the layout yey!<br>
+        the power of Object Oriented Website lmao 😂😂😆😆😆!<br>
+        Yeah, so the Javascript should only loads inline here, meaning it only runs on your client, no SSR, as you can see that it works even this site atm is static mode.<br>
+      <br>
+      <!-- btw, there's still <a href="/style.css" target="_blank" rel="noopener noreferrer">CSS</a>, so don't panic, you're welcome (assuming that your browser default background is <b>white</b>).<br> -->
+      btw, there's still <a href="/assets/index.5ccf1e24.css" target="_blank" rel="noopener noreferrer">CSS</a>, so don't panic, you're welcome (assuming that your browser default background is <b>white</b>).<br>
+      Oh yeah that's right, the <code>/style.css</code> file is not on <code>public</code> directory so it 404 error.<br>
+      So we shamefully has to somewhere guess & refer on random minified version Astro framework did there.<br>
+      There, I had it. should be there hopefully..<br>
+      </p>
+    
+    <div class="nf-fae-hexagon"></div>
+    <i class="nf nf-fa-heart"></i>
+    <!-- ﯟ -->
+    &#xe24f;&#xfbdf;
+</Layout>
