@@ -13,7 +13,9 @@ import '../style/style.css';
 export interface Props {
   siteName?: string;
   title?: string;
+  date?: string;
   thumbnail?:string;
+  thumbnailType?:string;
   thumbnailWidth?:number;
   thumbnailHeight?:number;
   thumbnailAlt?:string;
@@ -29,6 +31,8 @@ export interface Props {
   rating?:string;
   favIcon?:string;
   favIconHD?:string;
+  favIconHDType?:string;
+  favIconHDAlt?:string;
   favIconHDWidth?:number;
   favIconHDHeight?:number;
   charSet?:string;
@@ -64,7 +68,9 @@ let doViewSource = 'view-source:' + currJustAddr;
 const { 
   siteName = 'Perkedel Technologies Division NTLF+ASTR',
   title = 'Perkedel NTLF+ASTR', 
+  date,
   thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+  thumbnailType = 'image/png',
   thumbnailWidth = 4096,
   thumbnailHeight = 2160,
   thumbnailAlt = 'Perkedel banner',
@@ -80,6 +86,8 @@ const {
   rating,
   favIcon ='/favicon.ico',
   favIconHD = '/Perkedel_Icon.png',
+  favIconHDType = 'image/png',
+  favIconHDAlt = 'Perkedel icon',
   favIconHDWidth = 600,
   favIconHDHeight = 400,
   charSet = 'UTF-8',
@@ -172,13 +180,16 @@ const {
           { name: "og:url", content: Astro.url.href },
           { name: "og:audio", content: thumbnailAudio },
           { name: "og:video", content: thumbnailVideo },
-          { name: "og:image", content: thumbnail },
+          { name: "og:image:url", content: thumbnail },
+          { name: "og:image:type", content: thumbnailType },
           { name: "og:image:width", content: thumbnailWidth },
           { name: "og:image:height", content: thumbnailHeight },
           { name: "og:image:alt", content: thumbnailAlt },
-          { name: "og:image", content: favIconHD }, // second ones in case above not work?
+          { name: "og:image:url", content: favIconHD }, // second ones in case above not work?
+          { name: "og:image:type", content: favIconHDType },
           { name: "og:image:width", content: favIconHDWidth },
           { name: "og:image:height", content: favIconHDHeight },
+          { name: "og:image:alt", content: favIconHDAlt },
 
           // Basics
           { name: "description", content: description },

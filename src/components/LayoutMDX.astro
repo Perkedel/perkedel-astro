@@ -9,11 +9,34 @@ import type { MarkdownLayoutProps } from 'astro';
 type Props = MarkdownLayoutProps<{
   // Define frontmatter props here
   title?: string;
+  type?:string;
   author?: string;
   date?: string;
   description?: string;
   keywords?: string;
   hideInfo?: Boolean;
+  thumbnail?:string;
+  thumbnailType?:string;
+  thumbnailWidth?:number;
+  thumbnailHeight?:number;
+  thumbnailAlt?:string;
+  thumbnailAudio?:string;
+  thumbnailVideo?:string;
+  noIndex?:boolean;
+  noFollow?:boolean;
+  rating?:string;
+  favIcon?:string;
+  favIconHD?:string;
+  favIconHDType?:string;
+  favIconHDAlt?:string;
+  favIconHDWidth?:number;
+  favIconHDHeight?:number;
+  charSet?:string;
+  language?:string;
+  twitterAuthor?:string;
+  twitterSite?:string;
+  twitterCard?:string;
+  themeColor?:string;
 }>;
 const { frontmatter, 
         url,
@@ -28,7 +51,32 @@ const { frontmatter,
 //     document.getElementById('MDXInfo').style.display = 'block';
 // }
 ---
-<Layout title={frontmatter.title} description={frontmatter.description} keywords={frontmatter.keywords}>
+<Layout 
+    title={frontmatter.title} 
+    description={frontmatter.description} 
+    keywords={frontmatter.keywords}
+    thumbnail={frontmatter.thumbnail}
+    thumbnailAlt={frontmatter.thumbnailAlt}
+    thumbnailType={frontmatter.thumbnailType}
+    thumbnailWidth={frontmatter.thumbnailWidth}
+    thumbnailHeight={frontmatter.thumbnailHeight}
+    thumbnailAudio={frontmatter.thumbnailAudio}
+    thumbnailVideo={frontmatter.thumbnailVideo}
+    noIndex={frontmatter.noIndex}
+    noFollow={frontmatter.noFollow}
+    rating={frontmatter.rating}
+    favIcon={frontmatter.favIcon}
+    favIconHD={frontmatter.favIconHD}
+    favIconHDType={frontmatter.favIconHDType}
+    favIconHDWidth={frontmatter.favIconHDWidth}
+    favIconHDHeight={frontmatter.favIconHDHeight}
+    charSet={frontmatter.charSet}
+    language={frontmatter.language}
+    twitterAuthor={frontmatter.twitterAuthor}
+    twitterSite={frontmatter.twitterSite}
+    twitterCard={frontmatter.twitterCard}
+    themeColor={frontmatter.themeColor}
+    >
     <slot name="beginOfIt">
 
     </slot>
@@ -41,8 +89,8 @@ const { frontmatter,
     <!-- You know what, never hide info. -->
     {frontmatter.hideInfo?<p></p>:<p></p>}
 
+    <h1 style="font-size:18px"><i>Markdown Info</i></h1>
     <div class="MDXInfo" id="MDXInfo">
-        <h1 style="font-size:18px"><i>Markdown Info</i></h1>
             <!-- <p style="font-size:12px;">
                 Title: {frontmatter.title}<br>
                 Author: {frontmatter.author}<br>
@@ -62,7 +110,7 @@ const { frontmatter,
                 </tr>
                 <tr>
                     <td>Author</td>
-                    <td>{frontmatter.author}</td>
+                    <td>{frontmatter.author} (&#xf099; {frontmatter.author}; )</td>
                 </tr>
                 <tr>
                     <td>Description</td>
