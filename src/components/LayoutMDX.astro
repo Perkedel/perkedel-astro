@@ -72,10 +72,10 @@ const { frontmatter,
     favIconHDHeight={frontmatter.favIconHDHeight}
     charSet={frontmatter.charSet}
     language={frontmatter.language}
-    twitterAuthor={frontmatter.twitterAuthor}
-    twitterSite={frontmatter.twitterSite}
-    twitterCard={frontmatter.twitterCard}
-    themeColor={frontmatter.themeColor}
+    twitterAuthor={frontmatter.twitterAuthor || '@' + frontmatter.author}
+    twitterSite={frontmatter.twitterSite || '@' + frontmatter.author}
+    twitterCard={frontmatter.twitterCard || 'summary_large_image'}
+    themeColor={frontmatter.themeColor || 'navy'}
     >
     <slot name="beginOfIt">
 
@@ -116,7 +116,7 @@ const { frontmatter,
                     <td>Author</td>
                     <td>{frontmatter.author} (
                         <a target="_blank" rel="noopener noreferrer" href={'https://twitter.com/'+frontmatter.twitterAuthor}>&#xf099; {frontmatter.twitterAuthor}</a>;
-                         
+
                         )</td>
                 </tr>
                 <tr>
