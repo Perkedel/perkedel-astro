@@ -14,6 +14,8 @@ export interface Props {
   siteName?: string;
   title?: string;
   thumbnail?:string;
+  thumbnailWidth?:number;
+  thumbnailHeight?:number;
   thumbnailAlt?:string;
   thumbnailAudio?:string;
   thumbnailVideo?:string;
@@ -27,6 +29,8 @@ export interface Props {
   rating?:string;
   favIcon?:string;
   favIconHD?:string;
+  favIconHDWidth?:number;
+  favIconHDHeight?:number;
   charSet?:string;
   language?:string;
   twitterAuthor?:string;
@@ -61,6 +65,8 @@ const {
   siteName = 'Perkedel Technologies Division NTLF+ASTR',
   title = 'Perkedel NTLF+ASTR', 
   thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+  thumbnailWidth = 4096,
+  thumbnailHeight = 2160,
   thumbnailAlt = 'Perkedel banner',
   thumbnailAudio,
   thumbnailVideo,
@@ -74,11 +80,13 @@ const {
   rating,
   favIcon ='/favicon.ico',
   favIconHD = '/Perkedel_Icon.png',
+  favIconHDWidth = 600,
+  favIconHDHeight = 400,
   charSet = 'UTF-8',
   language = 'en',
   twitterAuthor = `@`+author,
   twitterSite = twitterAuthor,
-  twitterCard = 'summary_large' ,
+  twitterCard = 'summary_large_image' ,
   themeColor = '#0000aa',
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
@@ -133,7 +141,8 @@ const {
         // extending the default link tags
         link: [
           { rel: "icon", type:"image/x-icon", href: favIcon },
-          { rel: "icon", type:"image/png", href: favIconHD }
+          { rel: "alternate icon", type:"image/png", href: favIconHD },
+          { rel: "canoncial", href: Astro.url.href }
         ],
         // extending the default meta tags
         meta: [
@@ -153,19 +162,23 @@ const {
           { name: "twitter:creator", content: twitterAuthor },
           { name: "twitter:site", content: twitterSite },
           { name: "twitter:card", content: twitterCard },
-          { name: "twitter:url", content: Astro.url },
+          { name: "twitter:url", content: Astro.url.href },
           
           // OpenGraph https://ogp.me/
           { name: "og:title", content: title },
           { name: "og:description", content: description },
           { name: "og:site_name", content: siteName },
           { name: "og:type", content: type },
-          { name: "og:url", content: Astro.url },
+          { name: "og:url", content: Astro.url.href },
           { name: "og:audio", content: thumbnailAudio },
           { name: "og:video", content: thumbnailVideo },
           { name: "og:image", content: thumbnail },
+          { name: "og:image:width", content: thumbnailWidth },
+          { name: "og:image:height", content: thumbnailHeight },
           { name: "og:image:alt", content: thumbnailAlt },
           { name: "og:image", content: favIconHD }, // second ones in case above not work?
+          { name: "og:image:width", content: favIconHDWidth },
+          { name: "og:image:height", content: favIconHDHeight },
 
           // Basics
           { name: "description", content: description },
