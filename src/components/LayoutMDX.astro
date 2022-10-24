@@ -86,10 +86,14 @@ const { frontmatter,
             <p>Markdown empty!</p>
     </slot>
 
+    <slot name="AfterOfIt">
+
+    </slot>
+
     <!-- You know what, never hide info. -->
     {frontmatter.hideInfo?<p></p>:<p></p>}
 
-    <h1 style="font-size:18px"><i>Markdown Info</i></h1>
+    <h2 style="font-size:18px"><i>Markdown Info</i></h2>
     <div class="MDXInfo" id="MDXInfo">
             <!-- <p style="font-size:12px;">
                 Title: {frontmatter.title}<br>
@@ -110,7 +114,10 @@ const { frontmatter,
                 </tr>
                 <tr>
                     <td>Author</td>
-                    <td>{frontmatter.author} (&#xf099; {frontmatter.author}; )</td>
+                    <td>{frontmatter.author} (
+                        <a target="_blank" rel="noopener noreferrer" href={'https://twitter.com/'+frontmatter.twitterAuthor}>&#xf099; {frontmatter.twitterAuthor}</a>;
+                         
+                        )</td>
                 </tr>
                 <tr>
                     <td>Description</td>
