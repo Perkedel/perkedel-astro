@@ -28,23 +28,60 @@ const{
 ---
 <!-- https://stackoverflow.com/a/29884677/9079640 -->
 <!-- https://www.w3schools.com/howto/howto_js_copy_clipboard.asp -->
+<!-- https://stackoverflow.com/a/30810322/9079640 -->
 
 <!-- <button onClick="window.location.href=window.location.href">Refresh Page</button> -->
 <!-- <a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a> -->
 <a title={title} class="NavBtn" href='javascript:plsCopyThe()'>&#xf68e; {say} &#xf64c;</a>
 
 <script is:inline>
+    function fallbackCopyTextToClipboard(text) {
+        var textArea = document.createElement("textarea");
+        textArea.value = text;
+        
+        // Avoid scrolling to bottom
+        textArea.style.top = "0";
+        textArea.style.left = "0";
+        textArea.style.position = "fixed";
+
+        document.body.appendChild(textArea);
+        textArea.focus();
+        textArea.select();
+
+        try {
+            var successful = document.execCommand('copy');
+            var msg = successful ? 'successful' : 'unsuccessful';
+            console.log('Fallback: Copying text command was ' + msg);
+        } catch (err) {
+            console.error('Fallback: Oops, unable to copy', err);
+        }
+
+        document.body.removeChild(textArea);
+        }
+
     // function plsCopyThe(thing){
     function plsCopyThe(thing){
+        
         // to clipboard pls
         // Get the text field
         var thing = location.href;
 
-        // Select the text field
-        thing.select();
-        thing.setSelectionRange(0, 99999); // For mobile devices
+        if (!navigator.clipboard) {
+            fallbackCopyTextToClipboard(thing);
+            return;
+        }
 
-        // Copy the text inside the text field
-        navigator.clipboard.writeText(thing.value);
+        // // Select the text field
+        // thing.select();
+        // thing.setSelectionRange(0, 99999); // For mobile devices
+
+        // // Copy the text inside the text field
+        // navigator.clipboard.writeText(thing.value);
+        navigator.clipboard.writeText(thing).then(function(){
+            console.log('Async: Copied the `'+thing+'`');
+        }, function(err){
+            console.error('WERROR: Async: Could not copy text `'+thing+'`: ', err);
+        });
+
     }
 </script>
