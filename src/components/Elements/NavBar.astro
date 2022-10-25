@@ -11,7 +11,7 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
 <nav>
     <ul>
         <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li>
-        <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style={Astro.url.pathname == '' || Astro.url.pathname =='/'?"color:cyan;background:rgb(0,0,100);":""}>🏠 Home &#xf015;</a></li>
+        <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton">🏠 Home &#xf015;</a></li>
         <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton">📦 Applications &#xf53a;</a></li>
         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
         
@@ -47,3 +47,25 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
     //         break;
     // }
 </script>
+
+<style>
+    #HomeButton {
+        {Astro.url.pathname == '' || Astro.url.pathname =='/'?
+            (color:cyan;
+            background:rgb(0,0,128+32);)
+            :
+            (color:(internal value))
+        }
+    }
+
+    #HomeButton:hover {
+        {Astro.url.pathname == '' || Astro.url.pathname =='/'?
+            (color:cyan;
+            background:rgb(0,0,300);)
+            :
+            (color:inherit;
+            background:inherit;)
+        }
+    }
+    
+</style>
