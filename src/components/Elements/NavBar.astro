@@ -10,10 +10,10 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
 ---
 <nav>
     <ul>
-        <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn">&#xf053;</a></li>
-        <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn">🏠 Home &#xf015;</a></li>
-        <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn">📦 Applications &#xf53a;</a></li>
-        <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn">&#xf049; BACK &#xf9d4;</a></li>-->
+        <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li>
+        <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton">🏠 Home &#xf015;</a></li>
+        <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton">📦 Applications &#xf53a;</a></li>
+        <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
         
         <li class="NavPutRight dropdown">
             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
@@ -21,10 +21,10 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
             
             <ul class="dropdown-content">
                 <li><RefreshButton/></li>
-                <li><a title="View this page source" href={viewSourceURL} class="NavBtn" style="display:none;">🩻 View Source &#xf1c9;</a></li>
+                <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li>
                 <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
-                <li><a title="Go read our Privacy Policy" href="/privacy_policy/" class="NavBtn">📜 Privacy Policy &#xf069;</a></li>
-                <li><a title="Go read about us & our white paper stuffs" href="/about/" class="NavBtn">📃 About &#xf05a;</a></li>
+                <li><a title="Go read our Privacy Policy" href="/privacy_policy/" class="NavBtn" id="PrivacyPolicyButton">📜 Privacy Policy &#xf069;</a></li>
+                <li><a title="Go read about us & our white paper stuffs" href="/about/" class="NavBtn" id="AboutButton">📃 About &#xf05a;</a></li>
             </ul>
         </li>
         <!-- <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li> -->
@@ -32,3 +32,18 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
         
     </ul>
 </nav>
+
+<script>
+    switch(Astro.url.pathname){
+        case '/':
+            document.getElementById('HomeButton').style.background = "rgb(0,50,255)";
+            document.getElementById('HomeButton').style.color = "cyan";
+            break;
+        case '':
+            document.getElementById('HomeButton').style.background = "rgb(0,50,255)";
+            document.getElementById('HomeButton').style.color = "cyan";
+            break;
+        default:
+            break;
+    }
+</script>

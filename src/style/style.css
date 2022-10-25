@@ -339,6 +339,7 @@ nav {
     /* Safari */
     /*wtf, Neocities?! the position works! OH, wait, not all browser. but.. eh idk*/
     top: 0;
+    margin: 0;
 }
 
 nav .NavPutLeft {
