@@ -11,11 +11,18 @@ export interface Props {
     creidtToolURL?: string;
     src?: string;
     type? : string;
-    // description?: string;
+    srcExtra?: Array<Array<string>>;
     // keywords?: string;
     width?: string;
     height?: string;
     errorSay?: string;
+    controls?: string;
+    autoplay?: string;
+    loop?: string;
+    preload?: string;
+    poster?:string;
+    muted?:string;
+    isFlashing?:boolean;
 }
 
 const { 
@@ -29,17 +36,38 @@ const {
   creditSauceURL = 'https://example.org',
   type = 'video/webm',
   src,
+  srcExtra,
   width,
   height,
+  controls='controls',
+  autoplay,
+  loop,
+  preload,
+  poster = '/assets/img/perkedelbannerrender4KDCI.png',
+  muted,
   errorSay = 'Werror! Your browser cannot player HTML video! warm and bad! 😭',
-//   description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
+  isFlashing = false,
 //   keywords = 'tech, fun, novelty, open source, gratis, free',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 
-<h3>{title}</h3>
+<h3>{title} {isFlashing?<span class="warning">(Flashing 📸)</span>:<span></span>}</h3>
 <slot name="aboveVid"/>
-<EmbedVideo src={src} title={title} width={width} height={height} errorSay={errorSay} type={type}/>
+<EmbedVideo 
+    src={src} 
+    srcExtra={srcExtra}
+    title={title} 
+    width={width} 
+    height={height} 
+    errorSay={errorSay} 
+    type={type}
+    controls={controls} 
+    autoplay={autoplay} 
+    loop={loop} 
+    preload={preload} 
+    muted={muted} 
+    poster={poster}
+    />
 <slot name="bellowVid"/>
 <p>
     {description}. Collected by <a href={creditURL} target="_blank" rel="noopener noreferrer">{creditTo}</a> & was bounced with 
@@ -51,7 +79,10 @@ const {
     You can copy & paste this following text <b><i><code>{src}</code></i></b> 
     into Discord Chat & any HTML video tags with format of <i>{type}</i>, 
     <a href="https://www.w3schools.com/html/html5_video.asp" target="_blank" rel="noopener noreferrer">here's how</a>. 
-    <b>Please credit {creditTo} yess. PLS PLS VERY PLS credit PanIntegralus, because he/she is Giga Chad, super based giant Win because he put it here so you don't have to join someone's discord as you already know you only have 100 join limits without nitro.</b>
+    <b>Please credit {creditTo} yess. PLS PLS VERY PLS credit PanIntegralus, 
+        because he/she/they is/are Giga Chad, super based giant Win 
+        because he/she/they put it here so you don't have to 
+        join someone's discord as you already know you only have 100 join limits without nitro.</b>
 </p>
 <p>
     <!-- <a class="Buttonnize" href={src} target="_blank" rel="noopener noreferrer">&#xf6d9; DOWNLOAD LINK (can also be copied)</a> -->
