@@ -1,4 +1,5 @@
 ---
+// BUG: WORK PECKING AROUND
 export interface Props{
     title?: string;
     say?: string;
@@ -6,8 +7,8 @@ export interface Props{
 }
 
 const{
-    title = 'Copy To Clipboard',
-    say = 'Copy',
+    title = 'Copy URL To Clipboard',
+    say = 'Copy URL',
     toBeCopied,
 } = Astro.props.frontmatter || Astro.props as Props;
 
@@ -32,13 +33,12 @@ const{
 <!-- <a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a> -->
 <a title={title} class="NavBtn" href='javascript:plsCopyThe()'>&#xf68e; {say} &#xf64c;</a>
 
-<!-- BUG: pls help make procedural variable filling work!!! -->
 <script is:inline>
     // function plsCopyThe(thing){
     function plsCopyThe(thing){
         // to clipboard pls
         // Get the text field
-        var thing = {toBeCopied};
+        var thing = location.href;
 
         // Select the text field
         thing.select();
