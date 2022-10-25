@@ -1,6 +1,39 @@
 ---
 import LayoutEmbedGame from '../../../components/Layout/LayoutEmbedGame.astro'
 ---
-<LayoutEmbedGame title="Sample Embed Pls">
+<LayoutEmbedGame 
+    title="Sample Embed Pls"
+    name = "This is Sample Embed"
+    src="/rawHtml/insertRAWHTMLInside/index.html"
+    style = 'border:none;'
+    height = '500px'
+    width = '100%'
+    author = 'JOELwindows7'
+    description = 'Sample Game Description'
+    keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p'
+    SauceURLs = {[
+        ['Example','https://example.com'],
+        ['Example2','https://example.org'],
+        ]}
+    MiscEmbedsURLs = {[
+        ['Example','https://example.com'],
+        ['Example2','https://example.org'],
+    ]}
+    MiscEmbedsThings = {[
+        '<p>HELLO HELLO</p>',
+        '<p>HELLO HELLO2</p>',
+    ]}
+    ChangelogURL = './changelogs'
+    ChangelogIsExternalTab = {false}
+    >
     
+    <!-- Place your extra content here -->
+    <!-- VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV -->
+    <!-- https://docs.astro.build/en/core-concepts/astro-components/#slots -->
+    <p slot="aboveEmbed"><strong>Here Above the embed</strong></p>
+    <p slot="bellowEmbed"><strong>Here Bellow the embed</strong></p>
+    <p>Hello extra slot</p>
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
 </LayoutEmbedGame>
+<!-- IDEA: github action checkout other git, render, and then push the render to here -->
