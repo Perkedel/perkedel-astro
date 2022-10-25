@@ -16,8 +16,10 @@ export interface Props {
   description?: string;
   author?:string;
   keywords?: string;
-  SauceURLs?: Map<string, string>;
-  MiscEmbedsURLs?: Map<string, string>;
+  // SauceURLs?: Map<string, string>;
+  // MiscEmbedsURLs?: Map<string, string>;
+  SauceURLs?: Array<Array<string>>;
+  MiscEmbedsURLs?: Array<Array<string>>;
   MiscEmbedsThings?: Array<string>;
   ChangelogURL?: string;
   ChangelogIsExternalTab?:boolean;
@@ -50,7 +52,7 @@ const {
   <h1>{title}</h1>
   <EmbedRAWHTML src={src} title={title} height={height} width={width} style={style} name={name} title={title}/>
     <h2>Download & Play</h2>
-      {SauceURLs.entries().map((sauce)=>(
+      {SauceURLs.map((sauce)=>(
         <li><a href={sauce[1]} target="_blank" rel="noopener noreferrer">{sauce[0]}</a></li>
       ))}
     <h2>What's changed?</h2>
@@ -58,9 +60,9 @@ const {
           <a class="Buttonnize" href={ChangelogURL} target="_blank" rel="noopener noreferrer">&#xeb43; Click here to view changelogs over there!</a> :
           <a class="Buttonnize" href={ChangelogURL} >&#xeb43; Click here to view changelogs now!</a>
           }
-      <a class="Buttonnize" href={ChangelogURL}>&#xeb43; Click here to view changelogs</a>
+      <!-- <a class="Buttonnize" href={ChangelogURL}>&#xeb43; Click here to view changelogs</a> -->
     <h2>Misc Embeds</h2>
-      {MiscEmbedsURLs.entries().map((thueing)=>(
+      {MiscEmbedsURLs.map((thueing)=>(
         <EmbedRAWHTML src={thueing[1]} title={thueing[0]} width="500px" height="200px"/><br/>
       ))}
       {MiscEmbedsThings.map((thiing)=>(
