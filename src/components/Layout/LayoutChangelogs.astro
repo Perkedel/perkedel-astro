@@ -1,0 +1,34 @@
+---
+import type { MarkdownLayoutProps } from 'astro';
+import { SEO } from "astro-seo";
+import ButtonizedLink from '../ButtonizedLink.astro';
+import EmbedRAWHTML from '../EmbedRAWHTML.astro';
+import BackToTopButton from '../BackToTopButton.astro';
+import Layout from '../Layout.astro';
+
+export interface Props {
+  height?:string;
+  width?:string;
+  style?:string;
+  name?:string;
+  title?: string;
+  description?: string;
+  author?:string;
+  keywords?: string;
+  
+}
+//https://howtodoinjava.com/typescript/maps/
+//https://stackoverflow.com/a/73526781/9079640
+
+const { 
+  height = '500px',
+  width = '100%',
+  style = 'border:none;',
+  title = 'A Perkedel NTLF+ASTR Games Changelogs', 
+  name = title,
+  author = 'JOELwindows7',
+  description = 'Perkedel NTLF+ASTR. Changelogs of an Applications',
+  keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
+// } = Astro.props as Props;
+} = Astro.props.frontmatter || Astro.props as Props;
+---
