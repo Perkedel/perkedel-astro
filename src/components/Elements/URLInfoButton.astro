@@ -7,6 +7,7 @@
 
 <script is:inline>
     function URLInfoPls(){
-        alert(`URL Info for:\n`+Astro.url.href+`\n\nPathname: `+Astro.url.pathname+`\nOrigin: `+Astro.url.origin+`\n`);
+        alert(`URL Info for:\n`+location.href+`\n\nPathname: `+location.pathname+`\nOrigin: `+location.origin+`\n`);
+        // alert(`URL Info for:\n`+{Astro.url.href}+`\n\nPathname: `+{Astro.url.pathname}+`\nOrigin: `+location.origin+`\n`);
     }
 </script>
