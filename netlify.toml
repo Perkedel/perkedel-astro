@@ -2,8 +2,8 @@
 [build]
   command = "astro build"
   functions = "netlify/functions"
-  # publish = "dist"
-  publish = "public"
+  publish = "dist"
+  # publish = "public"
 
 # https://github.com/sw-yx/netlify-plugin-no-more-404#readme
 [[plugins]]
