@@ -4,11 +4,13 @@ export interface Props{
     title?: string;
     say?: string;
     toBeCopied?: string;
+    Classer?:string;
 }
 
 const{
     title = 'Copy URL To Clipboard',
     say = 'Copy URL',
+    Classer = 'NavBtn',
     toBeCopied,
 } = Astro.props.frontmatter || Astro.props as Props;
 
@@ -32,7 +34,7 @@ const{
 
 <!-- <button onClick="window.location.href=window.location.href">Refresh Page</button> -->
 <!-- <a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a> -->
-<a title={title} class="NavBtn" href='javascript:plsCopyThe()'>&#xf68e; {say} &#xf64c;</a>
+<a title={title} class={Classer} href='javascript:plsCopyThe()'>&#xf68e; {say} &#xf64c;</a>
 
 <script is:inline>
     function fallbackCopyTextToClipboard(text) {

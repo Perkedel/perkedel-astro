@@ -3,10 +3,12 @@ export interface Props{
     title?: string;
     say?: string;
     toBeCopied?: string;
+    class?:string;
 }
 
 const{
     title = 'Copy To Clipboard',
+    Classer = 'NavBtn',
     say = 'Copy',
     toBeCopied,
 } = Astro.props.frontmatter || Astro.props as Props;
@@ -30,7 +32,7 @@ const{
 
 <!-- <button onClick="window.location.href=window.location.href">Refresh Page</button> -->
 <!-- <a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a> -->
-<a title={title} class="NavBtn" href='javascript:plsCopyThe()'>&#xf68e; {say} &#xf64c;</a>
+<a title={title} class={Classer} href='javascript:plsCopyThe()'>&#xf68e; {say} &#xf64c;</a>
 
 <!-- BUG: pls help make procedural variable filling work!!! -->
 <script is:inline>

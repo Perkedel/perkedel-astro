@@ -27,10 +27,10 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
             <a class="dropbtn NavBtn" title="Open Menu">&#xf85b;</a>
             
             <ul class="dropdown-content">
-                <li><RefreshButton/></li>
+                <li><RefreshButton Classer="NavBtn"/></li>
                 <!-- <li><CopyToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li> -->
-                <li><CopyURLToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li>
-                <li><URLInfoButton/></li>
+                <li><CopyURLToClipboardButton Classer="NavBtn" title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li>
+                <li><URLInfoButton Classer="NavBtn"/></li>
                 <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li>
                 <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
                 <li><a title="Go read our Privacy Policy" href="/privacy_policy/" class="NavBtn" id="PrivacyPolicyButton" style={Astro.url.pathname.startsWith('/privacy_policy/')?"color:cyan;":""}>📜 Privacy Policy &#xf069;</a></li>
