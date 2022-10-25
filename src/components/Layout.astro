@@ -6,6 +6,7 @@ import Footering from './Footering.astro';
 import ButtonizedLink from './ButtonizedLink.astro';
 import EmbedRAWHTML from './EmbedRAWHTML.astro';
 import BackToTopButton from './BackToTopButton.astro';
+import NoScriptMsg from './Messages/NoScript.astro';
 // import 'https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'
 // import 'https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'
 import '../style/style.css';
@@ -229,10 +230,7 @@ const {
   <Headering viewSourceURL={viewSourceURL}/>
 
   <!-- META INFO -->
-  <noscript>
-    <p class="noscript-msg"><b>Warning! JavaScript Disabled!</b></p>
-    <hr>
-  </noscript>
+  <NoScriptMsg/>
 
   <!-- MAIN -->
   <main>

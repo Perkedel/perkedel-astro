@@ -23,6 +23,7 @@ export interface Props {
     poster?:string;
     muted?:string;
     isFlashing?:boolean;
+    isLoud?:boolean;
 }
 
 const { 
@@ -47,11 +48,12 @@ const {
   muted,
   errorSay = 'Werror! Your browser cannot player HTML video! warm and bad! 😭',
   isFlashing = false,
+  isLoud = false,
 //   keywords = 'tech, fun, novelty, open source, gratis, free',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 
-<h3>{title} {isFlashing?<span class="warning">(Flashing 📸)</span>:<span></span>}</h3>
+<h3>{title} {isFlashing?<span class="warning">(&#xf071; &#xf740; Flashing 📸)</span>:<span></span>} {isLoud?<span class="warning">(&#xf071; &#xf9c2; Loud 🔊)</span>:<span></span>}</h3>
 <slot name="aboveVid"/>
 <EmbedVideo 
     src={src} 
