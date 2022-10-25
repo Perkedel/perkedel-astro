@@ -10,17 +10,8 @@ const{
     say = 'Copy',
     toBeCopied,
 } = Astro.props.frontmatter || Astro.props as Props;
----
-<!-- https://stackoverflow.com/a/29884677/9079640 -->
-<!-- https://www.w3schools.com/howto/howto_js_copy_clipboard.asp -->
 
-<!-- <button onClick="window.location.href=window.location.href">Refresh Page</button> -->
-<!-- <a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a> -->
-<a title={title} class="NavBtn" href={'javascript:plsCopyThe()'}>&#xf68e; {say} &#xf64c;</a>
-
-<script is:inline>
-    // function plsCopyThe(thing){
-    function plsCopyThe(thing){
+function plsCopyThe(thing){
         // to clipboard pls
         // Get the text field
         var thing = toBeCopied;
@@ -32,4 +23,26 @@ const{
         // Copy the text inside the text field
         navigator.clipboard.writeText(thing.value);
     }
+---
+<!-- https://stackoverflow.com/a/29884677/9079640 -->
+<!-- https://www.w3schools.com/howto/howto_js_copy_clipboard.asp -->
+
+<!-- <button onClick="window.location.href=window.location.href">Refresh Page</button> -->
+<!-- <a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a> -->
+<a title={title} class="NavBtn" href='javascript:plsCopyThe()'>&#xf68e; {say} &#xf64c;</a>
+
+<script is:inline>
+    // function plsCopyThe(thing){
+    // function plsCopyThe(thing){
+    //     // to clipboard pls
+    //     // Get the text field
+    //     var thing = toBeCopied;
+
+    //     // Select the text field
+    //     thing.select();
+    //     thing.setSelectionRange(0, 99999); // For mobile devices
+
+    //     // Copy the text inside the text field
+    //     navigator.clipboard.writeText(thing.value);
+    // }
 </script>
