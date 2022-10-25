@@ -15,13 +15,15 @@ const{
 <!-- https://www.w3schools.com/howto/howto_js_copy_clipboard.asp -->
 
 <!-- <button onClick="window.location.href=window.location.href">Refresh Page</button> -->
-<a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a>
+<!-- <a title={title} class="NavBtn" href={'javascript:plsCopyThe('+toBeCopied+')'}>&#xf68e; {say} &#xf64c;</a> -->
+<a title={title} class="NavBtn" href={'javascript:plsCopyThe()'}>&#xf68e; {say} &#xf64c;</a>
 
 <script is:inline>
+    // function plsCopyThe(thing){
     function plsCopyThe(thing){
         // to clipboard pls
         // Get the text field
-        // var copyText = document.getElementById("myInput");
+        var thing = toBeCopied;
 
         // Select the text field
         thing.select();
