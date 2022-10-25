@@ -1,7 +1,12 @@
 # Perkedel NTLF + Astro
 Perkedel Technologies website on Netlify with Astro framework
 
+## VISIT NOW
 https://perkedel.netlify.app
+
+[![](public/assets/img/perkedelbannerrender4KDCI.png)](https://perkedel.netlify.app)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/faf44159-afa6-46d4-b5fe-aac959b44466/deploy-status)](https://app.netlify.com/sites/perkedel/deploys)
 # Okay, cool..
 ## What is this?
 It's another website we have, now we're trying Netlify.
