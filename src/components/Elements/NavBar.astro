@@ -2,6 +2,7 @@
 import PerkedelWoosie from '../Icons/PerkedelWoosie.astro';
 import RefreshButton from './RefreshButton.astro';
 import URLInfoButton from './URLInfoButton.astro';
+import CopyToClipboardButton from './CopyToClipboardButton.astro';
 export interface Props {
   viewSourceURL?: string;
 }
@@ -10,8 +11,10 @@ let doViewSource = 'view-source:' + currJustAddr;
 const {viewSourceURL = doViewSource} = Astro.props as Props;
 ---
 <nav>
-    <p style="margin:0;">{Astro.url.href}</p>
-    <hr>
+    <div class="addressBarYeah" style="display:none">
+        <p style="margin:0;">{Astro.url.href}</p>
+        <hr>
+    </div>
     <ul>
         <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li>
         <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style={Astro.url.pathname == '' || Astro.url.pathname =='/'?"color:cyan;background:rgb(0,0,128+32);":""}>🏠 Home &#xf015;</a></li>
@@ -24,6 +27,7 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
             
             <ul class="dropdown-content">
                 <li><RefreshButton/></li>
+                <li><CopyToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li>
                 <li><URLInfoButton/></li>
                 <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li>
                 <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
