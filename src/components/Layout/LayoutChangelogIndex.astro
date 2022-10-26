@@ -45,6 +45,7 @@ export interface Props {
   ejectClarity?:boolean;
   SauceChangelogURL?:string;
   SauceChangelogURLDirect?:string;
+  appName?:string;
 }
 //https://howtodoinjava.com/typescript/maps/
 //https://stackoverflow.com/a/73526781/9079640
@@ -87,6 +88,7 @@ const {
   hideInfo = false,
   SauceChangelogURLDirect,
   SauceChangelogURLDirectDirect,
+  appName = 'YOUR_APP_NAME',
   file,
   url,
 // } = Astro.props as Props;
@@ -125,7 +127,7 @@ const {
     hideInfo={hideInfo}
     >
     <!-- https://docs.astro.build/en/guides/markdown-content/ -->
-    <h1>Last Funkin Moments Changelogs</h1>
+    <h1>{appName} Changelogs</h1>
       <h2>Here Changelog! first means the latest</h2>
       <ol class="ListNoStyle ListSeparateChildrenABit ButtonizeListChildrenLinks">
         <slot name="fillTheListNow">
