@@ -44,6 +44,7 @@ export interface Props {
   twitterCard?:string;
   themeColor?:string;
   ejectClarity?:boolean;
+  hideInfo?:boolean;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -101,6 +102,7 @@ const {
   twitterCard = 'summary_large_image' ,
   themeColor = '#0000aa',
   ejectClarity = false,
+  hideInfo = false,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---

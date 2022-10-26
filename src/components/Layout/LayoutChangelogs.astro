@@ -5,30 +5,181 @@ import ButtonizedLink from '../ButtonizedLink.astro';
 import EmbedRAWHTML from '../EmbedRAWHTML.astro';
 import BackToTopButton from '../BackToTopButton.astro';
 import Layout from '../Layout.astro';
+import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
 
 export interface Props {
-  height?:string;
-  width?:string;
-  style?:string;
   name?:string;
   title?: string;
   description?: string;
-  author?:string;
+  type?:string;
+  author?: string;
+  date?: string;
   keywords?: string;
-  
+  hideInfo?: boolean;
+  thumbnail?:string;
+  thumbnailType?:string;
+  thumbnailWidth?:number;
+  thumbnailHeight?:number;
+  thumbnailAlt?:string;
+  thumbnailAudio?:string;
+  thumbnailVideo?:string;
+  noIndex?:boolean;
+  noFollow?:boolean;
+  rating?:string;
+  favIcon?:string;
+  favIconHD?:string;
+  favIconHDType?:string;
+  favIconHDAlt?:string;
+  favIconHDWidth?:number;
+  favIconHDHeight?:number;
+  charSet?:string;
+  language?:string;
+  twitterAuthor?:string;
+  twitterSite?:string;
+  twitterCard?:string;
+  themeColor?:string;
+  descriptionPrefix?: string;
+  viewSourceURL?: string;
+  ejectClarity?:boolean;
+  SauceChangelogURL?:string;
+  SauceChangelogURLDirect?:string;
 }
 //https://howtodoinjava.com/typescript/maps/
 //https://stackoverflow.com/a/73526781/9079640
 
 const { 
-  height = '500px',
-  width = '100%',
-  style = 'border:none;',
-  title = 'A Perkedel NTLF+ASTR Games Changelogs', 
+  title = 'A Perkedel NTLF+ASTR Games Changelogs v0.0.0.0', 
   name = title,
   author = 'JOELwindows7',
-  description = 'Perkedel NTLF+ASTR. Changelogs of an Applications',
+  description = 'Perkedel NTLF+ASTR. Changelogs v0.0.0.0',
   keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
+  siteName = 'Perkedel Technologies Division NTLF+ASTR',
+  date,
+  thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+  thumbnailType = 'image/png',
+  thumbnailWidth = 4096,
+  thumbnailHeight = 2160,
+  thumbnailAlt = 'Perkedel banner',
+  thumbnailAudio,
+  thumbnailVideo,
+  type = 'website',
+  descriptionPrefix = 'DO NOT RATIO',
+  noIndex = false,
+  noFollow = false,
+  rating,
+  favIcon ='/favicon.ico',
+  favIconHD = '/Perkedel_Icon.png',
+  favIconHDType = 'image/png',
+  favIconHDAlt = 'Perkedel icon',
+  favIconHDWidth = 600,
+  favIconHDHeight = 400,
+  charSet = 'UTF-8',
+  language = 'en',
+  twitterAuthor = '@'+author,
+  twitterSite = twitterAuthor,
+  twitterCard = 'summary_large_image' ,
+  themeColor = '#0000aa',
+  ejectClarity = false,
+  hideInfo = false,
+  SauceChangelogURLDirect,
+  SauceChangelogURLDirectDirect,
+  file,
+  url,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
+<!-- This is individual Changelog article. -->
+<Layout 
+  title={title} 
+  author={author} 
+  description={description} 
+  keywords={keywords}
+  thumbnail={thumbnail}
+  thumbnailAlt={thumbnailAlt}
+  thumbnailType={thumbnailType}
+  thumbnailWidth={thumbnailWidth}
+  thumbnailHeight={thumbnailHeight}
+  thumbnailAudio={thumbnailAudio}
+  thumbnailVideo={thumbnailVideo}
+  noIndex={noIndex}
+  noFollow={noFollow}
+  rating={rating}
+  favIcon={favIcon}
+  favIconHD={favIconHD}
+  favIconHDType={favIconHDType}
+  favIconHDWidth={favIconHDWidth}
+  favIconHDHeight={favIconHDHeight}
+  charSet={charSet}
+  language={language}
+  twitterAuthor={twitterAuthor || '@' + author}
+  twitterSite={twitterSite || '@' + author}
+  twitterCard={twitterCard || 'summary_large_image'}
+  themeColor={themeColor || 'navy'}
+  hideInfo={hideInfo}
+  >
+  <h1><slot name="prependTitle"/>{title} <slot name="appendTitle"/></h1>
+  <h2>Here Change:</h2>
+    <p><a class="Buttonnize" href="https://odysee.com/@JOELwindows7:a/lfm-changelog-2022.05:2" target="_blank" rel="noopener noreferrer">https://github.com/Perkedel/After-Church/blob/master/Documents/Misc/lfm-changelog-2022.05.md</a></p>
+    <p><a class="Buttonnize" href="https://github.com/Perkedel/After-Church/raw/master/Documents/Misc/lfm-changelog-2022.05.md" target="_blank" rel="noopener noreferrer">&#xf6d9; Open this changelog RAW directly</a></p>
+    <slot name="extraChangelogStuffs"/>
+  <h2>Content:</h2>
+  <slot>
+
+  </slot>
+  <!-- You know what, never hide info. -->
+  {hideInfo?<p></p>:<p></p>}
+
+  <h2 style="font-size:18px"><i>Markdown / Article Info</i></h2>
+  <div class="MDXInfo" id="MDXInfo">
+          <!-- <p style="font-size:12px;">
+              Title: {frontmatter.title}<br>
+              Author: {frontmatter.author}<br>
+              Description: {frontmatter.description}<br>
+              Date: {frontmatter.date}<br>
+              keywords: {frontmatter.keywords}<br>
+          </p> -->
+          <!-- https://www.w3schools.com/html/html_tables.asp -->
+          <table style="font-size:12px">
+              <tr>
+                  <th>Info</th>
+                  <th>Value</th>       
+              </tr>
+              <tr>
+                  <td>Title</td>
+                  <td>{title}</td>        
+              </tr>
+              <tr>
+                  <td>Author</td>
+                  <td>{author} (
+                      <a target="_blank" rel="noopener noreferrer" href={'https://twitter.com/'+twitterAuthor}>&#xf099; {twitterAuthor}</a>;
+
+                      )</td>
+              </tr>
+              <tr>
+                  <td>Description</td>
+                  <td>{description}</td>
+              </tr>
+              <tr>
+                  <td>Date</td>
+                  <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
+                  <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/></td>
+              </tr>
+              <tr>
+                  <td>Keywords</td>
+                  <td>{keywords}</td>
+              </tr>
+              <tr>
+                  <td>File</td>
+                  <td>{file}</td>
+              </tr>
+              <tr>
+                  <td>URL</td>
+                  <td>{url}</td>
+              </tr>
+          </table>
+  </div>
+
+  <slot name="endOfIt">
+
+  </slot>
+</Layout>

@@ -14,7 +14,7 @@ type Props = MarkdownLayoutProps<{
   date?: string;
   description?: string;
   keywords?: string;
-  hideInfo?: Boolean;
+  hideInfo?: boolean;
   thumbnail?:string;
   thumbnailType?:string;
   thumbnailWidth?:number;
@@ -76,6 +76,7 @@ const { frontmatter,
     twitterSite={frontmatter.twitterSite || '@' + frontmatter.author}
     twitterCard={frontmatter.twitterCard || 'summary_large_image'}
     themeColor={frontmatter.themeColor || 'navy'}
+    hideInfo={frontmatter.hideInfo}
     >
     <slot name="beginOfIt">
 

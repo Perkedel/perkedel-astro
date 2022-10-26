@@ -16,6 +16,32 @@ export interface Props {
   description?: string;
   author?:string;
   keywords?: string;
+  hideInfo?: boolean;
+  thumbnail?:string;
+  thumbnailType?:string;
+  thumbnailWidth?:number;
+  thumbnailHeight?:number;
+  thumbnailAlt?:string;
+  thumbnailAudio?:string;
+  thumbnailVideo?:string;
+  noIndex?:boolean;
+  noFollow?:boolean;
+  rating?:string;
+  favIcon?:string;
+  favIconHD?:string;
+  favIconHDType?:string;
+  favIconHDAlt?:string;
+  favIconHDWidth?:number;
+  favIconHDHeight?:number;
+  charSet?:string;
+  language?:string;
+  twitterAuthor?:string;
+  twitterSite?:string;
+  twitterCard?:string;
+  themeColor?:string;
+  descriptionPrefix?: string;
+  viewSourceURL?: string;
+  ejectClarity?:boolean;
   // SauceURLs?: Map<string, string>;
   // MiscEmbedsURLs?: Map<string, string>;
   SauceURLs?: Array<Array<string>>;
@@ -37,6 +63,32 @@ const {
   author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Play now Online, FREE $0',
   keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
+  thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+  thumbnailType = 'image/png',
+  thumbnailWidth = 4096,
+  thumbnailHeight = 2160,
+  thumbnailAlt = 'Perkedel banner',
+  thumbnailAudio,
+  thumbnailVideo,
+  type = 'website',
+  descriptionPrefix = 'PLAY ONLINE NOW, FREE $0',
+  noIndex = false,
+  noFollow = false,
+  rating,
+  favIcon ='/favicon.ico',
+  favIconHD = '/Perkedel_Icon.png',
+  favIconHDType = 'image/png',
+  favIconHDAlt = 'Perkedel icon',
+  favIconHDWidth = 600,
+  favIconHDHeight = 400,
+  charSet = 'UTF-8',
+  language = 'en',
+  twitterAuthor = '@'+author,
+  twitterSite = twitterAuthor,
+  twitterCard = 'summary_large_image' ,
+  themeColor = '#0000aa',
+  ejectClarity = false,
+  hideInfo = false,
   SauceURLs = [
     ['Example','https://example.com','.75em', '200px'],
     ['Example2','https://example.org','.75em', '200px'],
@@ -54,7 +106,34 @@ const {
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<Layout title={title} author={author} description={description} keywords={keywords}>
+<Layout 
+  title={title} 
+  author={author} 
+  description={description} 
+  keywords={keywords}
+  thumbnail={thumbnail}
+  thumbnailAlt={thumbnailAlt}
+  thumbnailType={thumbnailType}
+  thumbnailWidth={thumbnailWidth}
+  thumbnailHeight={thumbnailHeight}
+  thumbnailAudio={thumbnailAudio}
+  thumbnailVideo={thumbnailVideo}
+  noIndex={noIndex}
+  noFollow={noFollow}
+  rating={rating}
+  favIcon={favIcon}
+  favIconHD={favIconHD}
+  favIconHDType={favIconHDType}
+  favIconHDWidth={favIconHDWidth}
+  favIconHDHeight={favIconHDHeight}
+  charSet={charSet}
+  language={language}
+  twitterAuthor={twitterAuthor || '@' + author}
+  twitterSite={twitterSite || '@' + author}
+  twitterCard={twitterCard || 'summary_large_image'}
+  themeColor={themeColor || 'navy'}
+  hideInfo={hideInfo}
+  >
   <h1>{title}</h1>
     <slot name="aboveEmbed"/>
     <EmbedRAWHTML src={src} title={title} height={height} width={width} style={style} name={name} title={title}/>

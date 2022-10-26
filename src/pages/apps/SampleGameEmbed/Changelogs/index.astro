@@ -1,2 +1,8 @@
 ---
+import Layout from '../../../../components/Layout/LayoutChangelogIndex.astro';
+const posts = await Astro.glob('./*.mdx');
 ---
+<Layout>
+    {posts.map(post => <li slot="fillTheListNow"><a href={post.frontmatter.url}>{post.frontmatter.title}</a></li>)}
+
+</Layout>

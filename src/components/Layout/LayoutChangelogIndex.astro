@@ -1,0 +1,140 @@
+---
+import type { MarkdownLayoutProps } from 'astro';
+import { SEO } from "astro-seo";
+import ButtonizedLink from '../ButtonizedLink.astro';
+import EmbedRAWHTML from '../EmbedRAWHTML.astro';
+import BackToTopButton from '../BackToTopButton.astro';
+import Layout from '../Layout.astro';
+import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
+
+export interface Props {
+  name?:string;
+  title?: string;
+  description?: string;
+  type?:string;
+  author?: string;
+  date?: string;
+  keywords?: string;
+  hideInfo?: boolean;
+  thumbnail?:string;
+  thumbnailType?:string;
+  thumbnailWidth?:number;
+  thumbnailHeight?:number;
+  thumbnailAlt?:string;
+  thumbnailAudio?:string;
+  thumbnailVideo?:string;
+  noIndex?:boolean;
+  noFollow?:boolean;
+  rating?:string;
+  favIcon?:string;
+  favIconHD?:string;
+  favIconHDType?:string;
+  favIconHDAlt?:string;
+  favIconHDWidth?:number;
+  favIconHDHeight?:number;
+  charSet?:string;
+  language?:string;
+  twitterAuthor?:string;
+  twitterSite?:string;
+  twitterCard?:string;
+  themeColor?:string;
+  descriptionPrefix?: string;
+  viewSourceURL?: string;
+  ejectClarity?:boolean;
+  SauceChangelogURL?:string;
+  SauceChangelogURLDirect?:string;
+}
+//https://howtodoinjava.com/typescript/maps/
+//https://stackoverflow.com/a/73526781/9079640
+
+const { 
+  title = 'A Perkedel NTLF+ASTR Games Changelogs v0.0.0.0', 
+  name = title,
+  author = 'JOELwindows7',
+  description = 'Perkedel NTLF+ASTR. Changelogs v0.0.0.0',
+  keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
+  siteName = 'Perkedel Technologies Division NTLF+ASTR',
+  date,
+  thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+  thumbnailType = 'image/png',
+  thumbnailWidth = 4096,
+  thumbnailHeight = 2160,
+  thumbnailAlt = 'Perkedel banner',
+  thumbnailAudio,
+  thumbnailVideo,
+  type = 'website',
+  descriptionPrefix = 'DO NOT RATIO',
+  noIndex = false,
+  noFollow = false,
+  rating,
+  favIcon ='/favicon.ico',
+  favIconHD = '/Perkedel_Icon.png',
+  favIconHDType = 'image/png',
+  favIconHDAlt = 'Perkedel icon',
+  favIconHDWidth = 600,
+  favIconHDHeight = 400,
+  charSet = 'UTF-8',
+  language = 'en',
+  twitterAuthor = '@'+author,
+  twitterSite = twitterAuthor,
+  twitterCard = 'summary_large_image' ,
+  themeColor = '#0000aa',
+  ejectClarity = false,
+  hideInfo = false,
+  SauceChangelogURLDirect,
+  SauceChangelogURLDirectDirect,
+  file,
+  url,
+// } = Astro.props as Props;
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- This is Changelog index that hubs all changelogs in every app -->
+<Layout
+    title={title} 
+    author={author} 
+    description={description} 
+    keywords={keywords}
+    thumbnail={thumbnail}
+    thumbnailAlt={thumbnailAlt}
+    thumbnailType={thumbnailType}
+    thumbnailWidth={thumbnailWidth}
+    thumbnailHeight={thumbnailHeight}
+    thumbnailAudio={thumbnailAudio}
+    thumbnailVideo={thumbnailVideo}
+    noIndex={noIndex}
+    noFollow={noFollow}
+    rating={rating}
+    favIcon={favIcon}
+    favIconHD={favIconHD}
+    favIconHDType={favIconHDType}
+    favIconHDWidth={favIconHDWidth}
+    favIconHDHeight={favIconHDHeight}
+    charSet={charSet}
+    language={language}
+    twitterAuthor={twitterAuthor || '@' + author}
+    twitterSite={twitterSite || '@' + author}
+    twitterCard={twitterCard || 'summary_large_image'}
+    themeColor={themeColor || 'navy'}
+    hideInfo={hideInfo}
+    >
+    <!-- https://docs.astro.build/en/guides/markdown-content/ -->
+    <h1>Last Funkin Moments Changelogs</h1>
+      <h2>Here Changelog! first means the latest</h2>
+      <ol>
+        <slot name="fillTheListNow">
+            <li><i>Fill the List with changelogs by doing,<br/>
+                <code>{"const posts = await Astro.glob('./*.mdx');"}</code><br/>
+                inside your frontmatter TSX (inside the <code>---</code> fence on the top).
+            </i></li>
+            <li><i>Then fill this slot <code>fillTheListNow</code> with<br/>
+                <code>
+                    {'{posts.map(post => <li slot="fillTheListNow"><a href={post.frontmatter.url}>{post.frontmatter.title}</a></li>)}'}
+                </code><br/>
+
+            </i></li>
+        </slot>
+      </ol>
+      <slot>
+
+      </slot>
+</Layout>
