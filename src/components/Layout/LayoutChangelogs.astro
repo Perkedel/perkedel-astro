@@ -5,6 +5,7 @@ import ButtonizedLink from '../ButtonizedLink.astro';
 import EmbedRAWHTML from '../EmbedRAWHTML.astro';
 import BackToTopButton from '../BackToTopButton.astro';
 import Layout from '../Layout.astro';
+import MarkdownInfo from '../Elements/MarkdownInfo.astro';
 import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
 
 export interface Props {
@@ -85,8 +86,8 @@ const {
   themeColor = '#0000aa',
   ejectClarity = false,
   hideInfo = false,
-  SauceChangelogURLDirect,
-  SauceChangelogURLDirectDirect,
+  SauceChangelogURL = 'https://github.com/Perkedel/After-Church/blob/master/Documents/Misc/lfm-changelog-2022.05.md',
+  SauceChangelogURLDirect = 'https://github.com/Perkedel/After-Church/raw/master/Documents/Misc/lfm-changelog-2022.05.md',
   file,
   url,
 // } = Astro.props as Props;
@@ -126,8 +127,8 @@ const {
   >
   <h1><slot name="prependTitle"/>{title} <slot name="appendTitle"/></h1>
   <h2>Here Change:</h2>
-    <p><a class="Buttonnize" href="https://odysee.com/@JOELwindows7:a/lfm-changelog-2022.05:2" target="_blank" rel="noopener noreferrer">https://github.com/Perkedel/After-Church/blob/master/Documents/Misc/lfm-changelog-2022.05.md</a></p>
-    <p><a class="Buttonnize" href="https://github.com/Perkedel/After-Church/raw/master/Documents/Misc/lfm-changelog-2022.05.md" target="_blank" rel="noopener noreferrer">&#xf6d9; Open this changelog RAW directly</a></p>
+    <p><a class="Buttonnize" href={SauceChangelogURL} target="_blank" rel="noopener noreferrer">{SauceChangelogURL}</a></p>
+    <p><a class="Buttonnize" href={SauceChangelogURLDirect} target="_blank" rel="noopener noreferrer">&#xf6d9; Open this changelog RAW directly</a></p>
     <slot name="extraChangelogStuffs"/>
   <h2>Content:</h2>
   <slot>
@@ -169,7 +170,7 @@ const {
               <tr>
                   <td>Date</td>
                   <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
-                  <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/></td>
+                  <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td> 
               </tr>
               <tr>
                   <td>Keywords</td>
