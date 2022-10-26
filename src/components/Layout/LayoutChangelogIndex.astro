@@ -14,6 +14,8 @@ export interface Props {
   type?:string;
   author?: string;
   date?: string;
+  dateMod?: string;
+  dateExp?: string;
   keywords?: string;
   hideInfo?: boolean;
   thumbnail?:string;
@@ -55,6 +57,8 @@ const {
   keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
   siteName = 'Perkedel Technologies Division NTLF+ASTR',
   date,
+  dateMod,
+  dateExp,
   thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
   thumbnailType = 'image/png',
   thumbnailWidth = 4096,
@@ -94,6 +98,9 @@ const {
     author={author} 
     description={description} 
     keywords={keywords}
+    date={date}
+    dateMod={dateMod}
+    dateExp={dateExp}
     thumbnail={thumbnail}
     thumbnailAlt={thumbnailAlt}
     thumbnailType={thumbnailType}

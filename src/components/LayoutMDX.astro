@@ -12,6 +12,8 @@ type Props = MarkdownLayoutProps<{
   type?:string;
   author?: string;
   date?: string;
+  dateMod?: string;
+  dateExp?: string;
   description?: string;
   keywords?: string;
   hideInfo?: boolean;
@@ -55,6 +57,9 @@ const { frontmatter,
     title={frontmatter.title} 
     description={frontmatter.description} 
     keywords={frontmatter.keywords}
+    date={frontmatter.date}
+    dateMod={frontmatter.dateMod}
+    dateExp={frontmatter.dateExp}
     thumbnail={frontmatter.thumbnail}
     thumbnailAlt={frontmatter.thumbnailAlt}
     thumbnailType={frontmatter.thumbnailType}

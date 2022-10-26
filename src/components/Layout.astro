@@ -15,6 +15,8 @@ export interface Props {
   siteName?: string;
   title?: string;
   date?: string;
+  dateMod?: string;
+  dateExp?: string;
   thumbnail?:string;
   thumbnailType?:string;
   thumbnailWidth?:number;
@@ -73,6 +75,8 @@ const {
   siteName = 'Perkedel Technologies Division NTLF+ASTR',
   title = 'Perkedel NTLF+ASTR', 
   date,
+  dateMod,
+  dateExp,
   thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
   thumbnailType = 'image/png',
   thumbnailWidth = 4096,
@@ -197,6 +201,11 @@ const {
           { name: "og:image:width", content: favIconHDWidth },
           { name: "og:image:height", content: favIconHDHeight },
           { name: "og:image:alt", content: favIconHDAlt },
+          { name: "og:article:published_time", content: date },
+          { name: "og:article:modified_time", content: dateMod },
+          { name: "og:article:expiration_time", content: dateExp },
+          { name: "og:article:tag ", content: keywords },
+          
 
           // Basics
           // { name: "description", content: description },
