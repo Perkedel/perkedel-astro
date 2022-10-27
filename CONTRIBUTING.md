@@ -1,17 +1,31 @@
 # Contributing for Perkedel NTLF+ASTR
+## DISCLAIMER
+Please still contribute anyway despite your discrepancies with your background checks such as Paywallism (>$0), Proprietarism (No PSD, No Download Link), and/or Partialism (DLC >$0). Kaorfa may still accept intresting articles, tips, files, etc. etc. Usually, he is about lenient and accept everything that intrests him and/or provides usefulness towards all gamers. 
+
 ## How to do this?
 - Fork
 - clone that fork
 - add something. be sure to add everything inside `src/apps/your_addition_things`.
-- Pull Request to `main`.
+- Pull Request to `main` here.
 - State what did you add.
-- Make sure to state also **all your social medias** as all as possible, that includes Money Jars like `Patreon`, `Ko-fi`, etc. (PRO TIPS: Simply link your bio-linkers like `Cointr.ee`, `card.co`, or Odysee post containing all your social media URLs).
+- Make sure to state also **all your social medias** as all as possible, that includes Money Jars like `Patreon`, `Ko-fi`, etc. (PRO TIPS: Simply link your bio-linkers like `Cointr.ee`, `card.co`, or Odysee post containing all your social media URLs). Kaorfa & Saorfans may reply with an interview about this background checks if necessary (Don't worry, we make sure it's only right at the Pull Request, no DM, no call phone, no SMS, no 3rd party, right in your comment section).
+
+### Prerequisites
+- Git
+- GitHub Account.
+- GitHub Desktop (or any GUI Git)
+- Node JS, the packages are managed with `npm`.
+- VS Code (or any IDE)
 
 ## RULES, **IMPORTANT**!!
 ### OBEY
+- **Must give sauce URL** where did you get that from even it is dark, illegal, screwed up. **DO NOT JUST MENTION THE NAME, GIVE THE URL OF THE ARTICLE TO EXACT POST**
 - properly rate the `rating` meta tags! if it is 69420 NSFW, fill it with `adult`! so it becomes `rating: adult`.
 - Sparsdat / Piracy / reuploads is not allowed in here (at the moment). For that, you go to `X0p1r4t3 Eenvreensment 0NET`. We don't have Zeronet working at the moment, only [`X0p1r3t3 Eenvreensment ODSY`](https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL:f ). This entire project source code is being hosted at a Git server where DMCA is possible. Please wait until we found decentralized or anything where DMCAing is impossible 100%. (TODO: Test spardating? NO don't)
-- **Must give sauce URL** where did you get that from even it is dark, illegal, screwed up. **DO NOT JUST MENTION THE NAME, GIVE THE URL OF THE ARTICLE TO EXACT POST**
+- **No adding any extremely horrible real life activities** with scopes of such as but not limited to.. this, that, there, you know what I mean. Exceptions for fictional & sandboxed virtualized environment, although **still, just don't add anything terminally screwed up** that would still be screwed up regardless whether if it is containerized or not, you know what I mean.
+- If you are adding a not $0 and/or restricted stuffs, you must waiver all of them into $0, **that includes the highest quality version AND the source code (PSD, Blend, Maya, Max, etc.)** you would lock behind your money jar, **as well as permit permanent non-limiting use without permission required (but still attribution)**, remove all Digital Restriction Managements, and waive any restrictive request & requirements. Additionally **you are required to allow 69420 use also non-limiting & permanent, without permission required**. Therefore if you do not want to have obey this, then don't add **NOR** promote that your art you commercialize in first place, unless again you waive all of them you put here. By putting those here & pull request, you are agree to this non-cancelable agreement settlement for all files you've added here. Perkedel will not refund *accidentally agreed* settlement once the pull request has been merged (no unless at the moment). You may still ask donation.
+- **Be sure to respond any replies on your Pull Request!** Ignoring this for more than certain times (1 day to 5 weeks) **means you say `YES`** and the **merging process usually won't be canceled**.
+- If you accidentally added files that you shouldn't have added, **ONLY SIMPLE DELETE THOSE FILES**, **NEVER USE Time travel purging (select file to delete file in every commit)!!** Doing Time travel purge may likely disqualify your pull request & possibly ban you from contributing, until you added the mistaken file back to history somehow (once you added them back, if you want to delete then use SIMPLE DELETE!).
 
 ### Background check points
 Please have a look at the following checklist. You will need to **pass at score `100%`** (TODO: pls leniencify!) in order to be accepted for merging. Additionally, you must **pass this exam all the times** to keep your eligibility. The answer will change if you deviates any of them such as start paywalling by the next version, etc.
