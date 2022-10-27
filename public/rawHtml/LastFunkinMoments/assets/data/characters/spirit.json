@@ -1,0 +1,48 @@
+{
+    "name": "Spirit",
+    "displayName": "Senpai",
+    "asset": "characters/spirit",
+    "barColor": "#FF3C6E",
+    "scale": 6,
+    "antialiasing": false,
+    "usePackerAtlas": true,
+    "startingAnim": "idle",
+    "camPos": [300, 0],
+    "hasTrail": true,
+    "heartOrgan": [{
+        "character": "senpai",
+        "initHR": 70,
+        "maxHR": 200,
+        "minHR": 60,
+        "heartTierBoundaries": [80, 100, 125, 180],
+        "successionAdrenalAdd": [2, 2, 1, 1],
+        "fearShockAdd": [10, 10, 8, 5],
+        "relaxMinusPerBeat": [2, 8, 10, 15]
+    }],
+    "animations": [{
+            "name": "idle",
+            "prefix": "idle spirit_",
+            "offsets": [-220, -280]
+        },
+        {
+            "name": "singUP",
+            "prefix": "up_",
+            "offsets": [-220, -240]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "left_",
+            "offsets": [-200, -280]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "right_",
+            "offsets": [-220, -280]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "spirit down_",
+            "offsets": [170, 110]
+        }
+    ]
+}
