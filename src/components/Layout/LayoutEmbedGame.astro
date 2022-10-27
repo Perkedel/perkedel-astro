@@ -147,9 +147,14 @@ const {
     <slot name="aboveEmbed"/>
     <EmbedRAWHTML src={src} title={title} height={height} width={width} style={style} name={name} title={title}/>
     <slot name="bellowEmbed"/>
+    <h2>Description</h2>
+      <p>{description}</p>p
+      <slot name="inDescription">
+
+      </slot>
     <h2>Download & Play</h2>
       {SauceURLs.map((sauce)=>(
-        <li><a href={sauce[1]} target="_blank" rel="noopener noreferrer">{sauce[0]}</a></li>
+        <li>{sauce[2]}<a href={sauce[1]} target="_blank" rel="noopener noreferrer">{sauce[0]}</a>{sauce[3]}</li>
       ))}
     <h2>What's changed?</h2>
         {ChangelogIsExternalTab ? 
@@ -165,6 +170,7 @@ const {
         <span>{thiing}</span><br/>
         // ({thiing}<br/>)
       ))}
+      <slot name="inMiscEmbeds"/>
     <slot>
       
     </slot>

@@ -1,0 +1,54 @@
+---
+import LayoutEmbedGame from '../../../components/Layout/LayoutEmbedGame.astro'
+---
+<LayoutEmbedGame 
+    title="Last Funkin Moments"
+    name = "This is Last Funkin Moments"
+    src="/rawHtml/LastFunkinMoments/index.html"
+    style = 'border:none;'
+    height = '500px'
+    width = '100%'
+    author = 'JOELwindows7'
+    description = 'Last Funkin Moments. Power up your Funkin! Enjoy the funkin moment while it lasts'
+    keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p, fnf, mods, friday night funkin, friday, night, funkin'
+    SauceURLs = {[
+        ['https://github.com/Perkedel/Kaded-fnf-mods','https://github.com/Perkedel/Kaded-fnf-mods','Source Code',''],
+        ['https://open.lbry.com/@JOELwindows7:a/last-funkin-moments:b','https://open.lbry.com/@JOELwindows7:a/last-funkin-moments:b','Odysee',''],
+        ['https://gamebanana.com/mods/293257','https://gamebanana.com/mods/293257','GameBanana',''],
+        ['https://gamejolt.com/games/last-funkin-moments/634559','https://gamejolt.com/games/last-funkin-moments/634559','GameJolt (Play Now, online)',''],
+        ['https://joelwindows7.itch.io/last-funkin-moments','https://joelwindows7.itch.io/last-funkin-moments','Itch.io',''],
+        ]}
+    MiscEmbedsURLs = {[
+        // ['Example','https://example.com','.75em', '200px'],
+        // ['Example2','https://example.org','.75em', '200px'],
+    ]}
+    MiscEmbedsThings = {[
+        '<p>HELLO HELLO</p>',
+        '<p>HELLO HELLO2</p>',
+    ]}
+    ChangelogURL = './Changelogs'
+    ChangelogIsExternalTab = {false}
+    thumbnail = 'https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-strong-thumb.svg'
+    thumbnailType = 'image/svg'
+    thumbnailWidth = {1080}
+    thumbnailHeight = {1920}
+    thumbnailAlt = 'Last Funkin Moments Thumbnail'
+    >
+    
+    <!-- Place your extra content here -->
+    <!-- VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV -->
+    <!-- https://docs.astro.build/en/core-concepts/astro-components/#slots -->
+    <p slot="aboveEmbed"></p>
+    <p slot="bellowEmbed">
+        <img src="https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-strong-thumb.svg" width="25%"/>
+    </p>
+    <p slot="inDescription"></p>
+    <p slot="inMiscEmbeds"></p>
+
+    <iframe slot="inMiscEmbeds" src="https://widgets.gamejolt.com/package/v1?key=vjyW7Vzj" frameborder="0" width="500" height="245"></iframe>
+    <iframe slot="inMiscEmbeds" frameborder="0" src="https://itch.io/embed/1077025?bg_color=1b2a35&amp;fg_color=fefecc&amp;link_color=e8e300&amp;border_color=583030" width="552" height="167"><a href="https://joelwindows7.itch.io/last-funkin-moments">Last Funkin Moments (a Friday Night Funkin mod) by Perkedel Technologies</a></iframe>
+
+    <p>Hi, Week 7 is available, & Sky is back</p>
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
+</LayoutEmbedGame>

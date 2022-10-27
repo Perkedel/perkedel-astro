@@ -12,8 +12,8 @@ import LayoutEmbedGame from '../../../components/Layout/LayoutEmbedGame.astro'
     description = 'Sample Game Description'
     keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p'
     SauceURLs = {[
-        ['Example','https://example.com'],
-        ['Example2','https://example.org'],
+        ['Example','https://example.com','beforeLink','afterLink'],
+        ['Example2','https://example.org','beforeLink','afterLink'],
         ]}
     MiscEmbedsURLs = {[
         ['Example','https://example.com','.75em', '200px'],
@@ -32,6 +32,8 @@ import LayoutEmbedGame from '../../../components/Layout/LayoutEmbedGame.astro'
     <!-- https://docs.astro.build/en/core-concepts/astro-components/#slots -->
     <p slot="aboveEmbed"><strong>Here Above the embed</strong></p>
     <p slot="bellowEmbed"><strong>Here Bellow the embed</strong></p>
+    <p slot="inDescription">in Description</p>
+    <p slot="inMiscEmbeds">in misc embeds</p>
     <p>Hello extra slot</p>
     <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
 

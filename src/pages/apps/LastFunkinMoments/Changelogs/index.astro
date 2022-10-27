@@ -1,0 +1,125 @@
+---
+import Layout from '../../../../components/Layout/LayoutChangelogIndex.astro'; // <- Pls put this here.
+const posts = await Astro.glob('./*.mdx'); // <- & this too, VERY IMPORTANT.
+
+export interface Props {
+  name?:string;
+  title?: string;
+  description?: string;
+  type?:string;
+  author?: string;
+  date?: string;
+  dateMod?: string;
+  dateExp?: string;
+  keywords?: string;
+  hideInfo?: boolean;
+  thumbnail?:string;
+  thumbnailType?:string;
+  thumbnailWidth?:number;
+  thumbnailHeight?:number;
+  thumbnailAlt?:string;
+  thumbnailAudio?:string;
+  thumbnailVideo?:string;
+  noIndex?:boolean;
+  noFollow?:boolean;
+  rating?:string;
+  favIcon?:string;
+  favIconHD?:string;
+  favIconHDType?:string;
+  favIconHDAlt?:string;
+  favIconHDWidth?:number;
+  favIconHDHeight?:number;
+  charSet?:string;
+  language?:string;
+  twitterAuthor?:string;
+  twitterSite?:string;
+  twitterCard?:string;
+  themeColor?:string;
+  descriptionPrefix?: string;
+  viewSourceURL?: string;
+  ejectClarity?:boolean;
+  SauceChangelogURL?:string;
+  SauceChangelogURLDirect?:string;
+  appName?:string;
+}
+
+const { 
+  title = 'Last Funkin Moments Changelogs', 
+  name = title,
+  author = 'JOELwindows7',
+  description = 'Perkedel NTLF+ASTR. Changelogs List of Last Funkin Moments',
+  keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p,  fnf, mods, friday night funkin, friday, night, funkin',
+  siteName = 'Perkedel Technologies Division NTLF+ASTR',
+  date,
+  dateMod,
+  dateExp,
+  thumbnail = 'https://github.com/Perkedel/After-Church/raw/master/RAW%20files/Inkscape/Week%20Strong/week-strong-thumb.svg',
+  thumbnailType = 'image/svg',
+  thumbnailWidth = 1080,
+  thumbnailHeight = 1920,
+  thumbnailAlt = 'Last Funkin Moments Thumbnail',
+  thumbnailAudio,
+  thumbnailVideo,
+  type = 'website',
+  descriptionPrefix = 'DO NOT RATIO',
+  noIndex = false,
+  noFollow = false,
+  rating,
+  favIcon ='/favicon.ico',
+  favIconHD = '/Perkedel_Icon.png',
+  favIconHDType = 'image/png',
+  favIconHDAlt = 'Perkedel icon',
+  favIconHDWidth = 600,
+  favIconHDHeight = 400,
+  charSet = 'UTF-8',
+  language = 'en',
+  twitterAuthor = '@'+author,
+  twitterSite = twitterAuthor,
+  twitterCard = 'summary_large_image' ,
+  themeColor = '#0000aa',
+  ejectClarity = false,
+  hideInfo = false,
+  SauceChangelogURLDirect,
+  SauceChangelogURLDirectDirect,
+  appName = 'Last Funkin Moments',
+  file,
+  url,
+// } = Astro.props as Props;
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<Layout
+    title={title} 
+    author={author} 
+    description={description} 
+    keywords={keywords}
+    date={date}
+    dateMod={dateMod}
+    dateExp={dateExp}
+    thumbnail={thumbnail}
+    thumbnailAlt={thumbnailAlt}
+    thumbnailType={thumbnailType}
+    thumbnailWidth={thumbnailWidth}
+    thumbnailHeight={thumbnailHeight}
+    thumbnailAudio={thumbnailAudio}
+    thumbnailVideo={thumbnailVideo}
+    noIndex={noIndex}
+    noFollow={noFollow}
+    rating={rating}
+    favIcon={favIcon}
+    favIconHD={favIconHD}
+    favIconHDType={favIconHDType}
+    favIconHDWidth={favIconHDWidth}
+    favIconHDHeight={favIconHDHeight}
+    charSet={charSet}
+    language={language}
+    twitterAuthor={twitterAuthor || '@' + author}
+    twitterSite={twitterSite || '@' + author}
+    twitterCard={twitterCard || 'summary_large_image'}
+    themeColor={themeColor || 'navy'}
+    hideInfo={hideInfo}
+    >
+    <!-- & then Pls put this bellow VVVVVV on your changelog index -->
+    {posts.map(post => <li slot="fillTheListNow"><a href={post.frontmatter.url}>{post.frontmatter.title}</a></li>)}
+    <!-- ^^^^^^^^^^^^^^ DO NOT FORGET!!! VERY IMPORTANT. -->
+
+</Layout>
