@@ -1,0 +1,54 @@
+{
+    "name": "Senpai (Angry)",
+    "displayName": "Senpai",
+    "asset": "characters/senpai",
+    "barColor": "#FFAA6F",
+    "scale": 6,
+    "antialiasing": false,
+    "startingAnim": "idle",
+    "camPos": [300, 0],
+    "camFollow": [-250, -330],
+    "font": "Pixel Arial 11 Bold",
+    "fontDrop": "Pixel Arial 11 Bold",
+    "fontColor": "0xFF3F2021",
+    "fontColorDrop": "0xFFD89494",
+    "dialogueChatSoundPaths": [
+        "pixelText"
+    ],
+    "heartOrgan": [{
+        "character": "senpai",
+        "initHR": 70,
+        "maxHR": 200,
+        "minHR": 60,
+        "heartTierBoundaries": [80, 100, 125, 180],
+        "successionAdrenalAdd": [2, 2, 1, 1],
+        "fearShockAdd": [10, 10, 8, 5],
+        "relaxMinusPerBeat": [2, 8, 10, 15]
+    }],
+    "animations": [{
+            "name": "idle",
+            "prefix": "Angry Senpai Idle",
+            "offsets": [0, 0]
+        },
+        {
+            "name": "singUP",
+            "prefix": "Angry Senpai UP NOTE",
+            "offsets": [5, 37]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "Angry Senpai LEFT NOTE",
+            "offsets": [40, 0]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Angry Senpai RIGHT NOTE",
+            "offsets": [0, 0]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "Angry Senpai DOWN NOTE",
+            "offsets": [14, 0]
+        }
+    ]
+}

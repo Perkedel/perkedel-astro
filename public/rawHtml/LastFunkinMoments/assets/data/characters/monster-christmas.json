@@ -1,0 +1,43 @@
+{
+    "name": "Monster (Christmas)",
+    "displayName": "Monster",
+    "asset": "characters/monsterChristmas",
+    "barColor": "#F3FF6E",
+    "startingAnim": "idle",
+    "heartOrgans": [{
+        "character": "monster",
+        "initHR": 60,
+        "maxHR": 190,
+        "minHR": 60,
+        "heartTierBoundaries": [70, 90, 130, 180],
+        "successionAdrenalAdd": [3, 2, 2, 1],
+        "fearShockAdd": [8, 6, 5, 4],
+        "relaxMinusPerBeat": [2, 2, 8, 9]
+    }],
+    "animations": [{
+            "name": "idle",
+            "prefix": "monster idle",
+            "offsets": [0, 0]
+        },
+        {
+            "name": "singUP",
+            "prefix": "monster up note",
+            "offsets": [-20, 50]
+        },
+        {
+            "name": "singLEFT",
+            "prefix": "Monster left note",
+            "offsets": [-30, 0]
+        },
+        {
+            "name": "singRIGHT",
+            "prefix": "Monster Right note",
+            "offsets": [-51, 0]
+        },
+        {
+            "name": "singDOWN",
+            "prefix": "monster down",
+            "offsets": [-40, -94]
+        }
+    ]
+}
