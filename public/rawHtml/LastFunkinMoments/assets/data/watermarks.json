@@ -1,0 +1,58 @@
+{
+    "set": [{
+        "watermark": "default",
+        "firstText": "In Partnership with",
+        "secondText": "",
+        "secondLoadImage": true,
+        "secondImagePath": "newgrounds_logo"
+    }, {
+        "watermark": "kadeEngine",
+        "firstText": "Kade Engine",
+        "secondText": "KadeDeveloper",
+        "secondLoadImage": false,
+        "secondImagePath": ""
+    }, {
+        "watermark": "Odysee",
+        "firstText": "Are we partnered with",
+        "secondText": "",
+        "secondLoadImage": true,
+        "secondImagePath": "odysee_Logo_Transparent_White_Text"
+    }, {
+        "watermark": "perkedel",
+        "firstText": "Last Funkin Moments",
+        "secondText": "",
+        "secondLoadImage": true,
+        "secondImagePath": "Perkedel_Logo_Typeborder"
+    }],
+    "watermarks": [
+        "default",
+        "kadeEngine",
+        "Odysee",
+        "perkedel"
+    ],
+    "firstText": [
+        "In Partership with",
+        "Kade Engine",
+        "Are we partnered with",
+        "Last Funkin Moments"
+    ],
+    "secondText": [
+        "Newgrounds",
+        "KadeDeveloper",
+        "",
+        ""
+    ],
+    "secondloadImage": [
+        true,
+        false,
+        true,
+        true
+
+    ],
+    "secondImagePath": [
+        "newgrounds_logo",
+        "",
+        "odysee_Logo_Transparent_White_Text",
+        "Perkedel_Logo_Typeborder"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "stage": {
+        "name": "Empty Template Stage",
+        "useStageScript": false,
+        "backgroundImages": [{
+            "callName": "bg",
+            "generateMode": false,
+            "active": false,
+            "graphic": "empty-template-testBg",
+            "isXML": false,
+            "frameXMLName": "anBg",
+            "prefixXMLName": "idle",
+            "frameRate": 24,
+            "mirrored": false,
+            "position": [-1750, -1000],
+            "scrollFactor": [0.9, 0.9],
+            "size": [128, 128],
+            "scale": [2.25, 2.25],
+            "colorable": false,
+            "initColor": "white",
+            "initVisible": true,
+            "antialiasing": true,
+            "layInFrontNow": false,
+            "inFrontOfWhich": 0
+        }],
+        "isHalloween": false,
+        "defaultCamZoom": 0.5,
+        "bfPosition": [500, 0],
+        "gfPosition": [0, -100],
+        "dadPosition": [-500, 0],
+        "forceLuaModchart": false,
+        "forceHscriptModchart": false,
+        "ignoreMainImages": false,
+        "overrideCamFollowP1": false,
+        "overrideCamFollowP2": false,
+        "camFollowP1Pos": [0, 0],
+        "camFollowP2Pos": [0, 0]
+    }
+}
