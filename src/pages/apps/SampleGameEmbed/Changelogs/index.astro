@@ -1,6 +1,6 @@
 ---
-import Layout from '../../../../components/Layout/LayoutChangelogIndex.astro';
-const posts = await Astro.glob('./*.mdx');
+import Layout from '../../../../components/Layout/LayoutChangelogIndex.astro'; // <- Pls put this here.
+const posts = await Astro.glob('./*.mdx'); // <- & this too, VERY IMPORTANT.
 
 export interface Props {
   name?:string;
@@ -118,6 +118,8 @@ const {
     themeColor={themeColor || 'navy'}
     hideInfo={hideInfo}
     >
+    <!-- & then Pls put this bellow VVVVVV on your changelog index -->
     {posts.map(post => <li slot="fillTheListNow"><a href={post.frontmatter.url}>{post.frontmatter.title}</a></li>)}
+    <!-- ^^^^^^^^^^^^^^ DO NOT FORGET!!! VERY IMPORTANT. -->
 
 </Layout>
