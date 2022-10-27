@@ -1,0 +1,531 @@
+{
+    "song": {
+        "videoPath": "Toxic_doremiIntro",
+        "notes": [{
+                "endTime": 2000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": false,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        0,
+                        0,
+                        0,
+                        false,
+                        0
+                    ],
+                    [
+                        500,
+                        1,
+                        0,
+                        false,
+                        1
+                    ],
+                    [
+                        1000,
+                        2,
+                        0,
+                        false,
+                        2
+                    ],
+                    [
+                        1500,
+                        3,
+                        0,
+                        false,
+                        3
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 0,
+                "changeBPM": false
+            },
+            {
+                "endTime": 4000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": false,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        2000,
+                        0,
+                        0,
+                        false,
+                        4
+                    ],
+                    [
+                        2000,
+                        2,
+                        0,
+                        false,
+                        4
+                    ],
+                    [
+                        2500,
+                        1,
+                        0,
+                        false,
+                        5
+                    ],
+                    [
+                        3000,
+                        1,
+                        0,
+                        false,
+                        6
+                    ],
+                    [
+                        3000,
+                        3,
+                        0,
+                        false,
+                        6
+                    ],
+                    [
+                        3500,
+                        3,
+                        2375,
+                        false,
+                        7
+                    ],
+                    [
+                        3500,
+                        0,
+                        2375,
+                        false,
+                        7
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 2000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 6000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": false,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [],
+                "bpm": 120,
+                "startTime": 4000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 8000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": true,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        6000,
+                        0,
+                        0,
+                        false,
+                        12
+                    ],
+                    [
+                        6500,
+                        1,
+                        0,
+                        false,
+                        13
+                    ],
+                    [
+                        7000,
+                        2,
+                        0,
+                        false,
+                        14
+                    ],
+                    [
+                        7500,
+                        3,
+                        0,
+                        false,
+                        15
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 6000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 10000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": true,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        8000,
+                        0,
+                        0,
+                        false,
+                        16
+                    ],
+                    [
+                        8000,
+                        2,
+                        0,
+                        false,
+                        16
+                    ],
+                    [
+                        8500,
+                        1,
+                        0,
+                        false,
+                        17
+                    ],
+                    [
+                        9000,
+                        1,
+                        0,
+                        false,
+                        18
+                    ],
+                    [
+                        9000,
+                        3,
+                        0,
+                        false,
+                        18
+                    ],
+                    [
+                        9500,
+                        0,
+                        2375,
+                        false,
+                        19
+                    ],
+                    [
+                        9500,
+                        3,
+                        2375,
+                        false,
+                        19
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 8000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 12000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": true,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [],
+                "bpm": 120,
+                "startTime": 10000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 14000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": false,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        12000,
+                        3,
+                        0,
+                        false,
+                        24
+                    ],
+                    [
+                        12500,
+                        2,
+                        0,
+                        false,
+                        25
+                    ],
+                    [
+                        13000,
+                        1,
+                        0,
+                        false,
+                        26
+                    ],
+                    [
+                        13500,
+                        0,
+                        0,
+                        false,
+                        27
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 12000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 16000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": false,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        14000,
+                        3,
+                        0,
+                        false,
+                        28
+                    ],
+                    [
+                        14000,
+                        1,
+                        0,
+                        false,
+                        28
+                    ],
+                    [
+                        14500,
+                        2,
+                        0,
+                        false,
+                        29
+                    ],
+                    [
+                        15000,
+                        0,
+                        0,
+                        false,
+                        30
+                    ],
+                    [
+                        15000,
+                        2,
+                        0,
+                        false,
+                        30
+                    ],
+                    [
+                        15500,
+                        1,
+                        2375,
+                        false,
+                        31
+                    ],
+                    [
+                        15500,
+                        2,
+                        2375,
+                        false,
+                        31
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 14000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 18000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": false,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [],
+                "bpm": 120,
+                "startTime": 16000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 20000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": true,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        18000,
+                        3,
+                        0,
+                        false,
+                        36
+                    ],
+                    [
+                        18500,
+                        2,
+                        0,
+                        false,
+                        37
+                    ],
+                    [
+                        19000,
+                        1,
+                        0,
+                        false,
+                        38
+                    ],
+                    [
+                        19500,
+                        0,
+                        0,
+                        false,
+                        39
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 18000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 22000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": true,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [
+                    [
+                        20000,
+                        3,
+                        0,
+                        false,
+                        40
+                    ],
+                    [
+                        20000,
+                        1,
+                        0,
+                        false,
+                        40
+                    ],
+                    [
+                        20500,
+                        2,
+                        0,
+                        false,
+                        41
+                    ],
+                    [
+                        21000,
+                        0,
+                        0,
+                        false,
+                        42
+                    ],
+                    [
+                        21000,
+                        2,
+                        0,
+                        false,
+                        42
+                    ],
+                    [
+                        21500,
+                        2,
+                        2375,
+                        false,
+                        43
+                    ],
+                    [
+                        21500,
+                        1,
+                        2375,
+                        false,
+                        43
+                    ]
+                ],
+                "bpm": 120,
+                "startTime": 20000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 24000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": true,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [],
+                "bpm": 120,
+                "startTime": 22000,
+                "changeBPM": false
+            },
+            {
+                "endTime": 26000,
+                "playerAltAnim": false,
+                "altAnim": false,
+                "CPUAltAnim": false,
+                "mustHitSection": true,
+                "lengthInSteps": 16,
+                "typeOfSection": 0,
+                "sectionNotes": [],
+                "bpm": 120,
+                "startTime": 24000,
+                "changeBPM": false
+            }
+        ],
+        "hasVideo": true,
+        "isCheer": false,
+        "invisibleCountdown": false,
+        "forceHscriptModchart": false,
+        "cutsceneType": "none",
+        "useCustomStage": true,
+        "speed": 2,
+        "artist": "JOELwindows7",
+        "useCustomNoteStyle": true,
+        "hasEpilogueChat": true,
+        "sectionLengths": [],
+        "forceLuaModchart": false,
+        "hasDialogueChat": true,
+        "epilogueVideoPath": "Toxic_doremiOutro",
+        "hasEpilogueVideo": true,
+        "preferredNoteAmount": 4,
+        "sections": 0,
+        "uiType": "normal",
+        "reversedCountdown": false,
+        "player1": "bf-covid",
+        "player2": "hookx-legacy",
+        "isHey": false,
+        "song": "doremi",
+        "isSpooky": false,
+        "validScore": true,
+        "isMoody": false,
+        "gfVersion": "gf-covid",
+        "eventObjects": [{
+            "name": "Init BPM",
+            "position": 0,
+            "value": 120,
+            "type": "BPM Change"
+        }],
+        "chartVersion": "KE1",
+        "allowedToHeadbang": false,
+        "silentCountdown": false,
+        "needsVoices": true,
+        "stage": "view-of-the-world",
+        "noteStyle": "Saubo",
+        "bpm": 120
+    }
+}

@@ -1,0 +1,160 @@
+//JOELwindows7: steal example from BulbyVR
+// https://github.com/FunkinModdingPlus/ModdingPlus/blob/master/assets/data/milf/modchart.hscript
+// It should work the same like Kade Engine Lua Modchart, just this time, in Haxe Language
+// Lua Modchart Documentation at: https://kadedev.github.io/Kade-Engine/modchart .
+// https://github.com/KadeDev/Kade-Engine/wiki
+// But remember, this is Haxe Script. convert your syntax format to it here.
+// templated by JOELwindows7, with yoinks from that documentation & that BulbyVR hscripts.
+
+var triggeredAlready = false;
+
+function loaded(song)
+{
+
+}
+
+function start(song) 
+{
+
+}
+
+function update(elapsed)
+{
+    /*
+    switch(curBeat){
+        case 7 | 23 | 39 | 55 | 71 | 87 | 103 | 119 | 135 | 151 | 167 | 183:
+            trace("ayy!");
+            justCheer(true);
+            justHey(true);
+        default:
+    }
+    */
+
+    /*
+    if(curBeat == 7 | 23 | 39 | 55 | 71 | 87 | 103 | 119){
+        trace("ayy!");
+        justCheer(true);
+        justHey(true);
+    }
+    */
+
+    //This one works so well!
+    /*
+    if(
+        curBeat == 7 || 
+        curBeat == 23 || 
+        curBeat == 39 || 
+        curBeat == 55 || 
+        curBeat == 71 || 
+        curBeat == 87 ||
+        curBeat == 103 || 
+        curBeat == 119 ||
+        curBeat == 135 ||
+        curBeat == 151 ||
+        curBeat == 167 ||
+        curBeat == 183
+        ){
+            if(!triggeredAlready){
+                trace("ayy!");
+                justCheer(true);
+                justHey(true);
+                triggeredAlready = true;
+            }
+    } else triggeredAlready = false;
+    */
+}
+
+function beatHit(beat)
+{
+    //nope! they only work here now. let's see
+    if(
+        beat == 7 || 
+        beat == 23 || 
+        beat == 39 || 
+        beat == 55 || 
+        beat == 71 || 
+        beat == 87 ||
+        beat == 103 || 
+        beat == 119 ||
+        beat == 135 ||
+        beat == 151 ||
+        beat == 167 ||
+        beat == 183
+        ){
+            if(!triggeredAlready){
+                trace("ayy!");
+                justCheer(true);
+                justHey(true);
+                triggeredAlready = true;
+            }
+            // why the peck workn't?!
+            playActorAnimation('boyfriend','hey',true);
+            playActorAnimation('girlfriend','cheer',true);
+    } else triggeredAlready = false;
+}
+
+function stepHit(step)
+{
+
+}
+
+function keyPressed(key)
+{
+
+}
+
+function playerTwoTurn()
+{
+
+}
+
+function playerTwoMiss(note, position)
+{
+
+}
+
+function playerTwoSing(note, position)
+{
+
+}
+
+function playerOneTurn()
+{
+    
+}
+
+function playerOneMiss(note, position)
+{
+
+}
+
+function playerOneSing(note, position)
+{
+
+}
+
+function colorizeColorablebyKey(note, justOne, toWhichBg)
+{
+    if (note == 'left')
+    {
+        trace("set color magenta (hscript)");
+        chooseColoringColor("magenta", justOne, toWhichBg);
+    }
+    else if (note == 'down')
+    {
+        trace("set color cyan (hscript)");
+        chooseColoringColor("cyan", justOne, toWhichBg);
+    }
+    else if (note == 'up')
+    {
+        trace("set color lime (hscript)");
+        chooseColoringColor("lime", justOne, toWhichBg);
+    }
+    else if (note == 'right')
+    {
+        trace("set color red (hscript)");
+        chooseColoringColor("red", justOne, toWhichBg);
+    }
+}
+
+trace("finish loading hscript <3 yay cool and good.");
