@@ -65,6 +65,7 @@
                                 <xsl:value-of select="image/url"/>
                             </xsl:attribute>
                         </img>
+                        <br/>
                         <a class="head_link Buttonnize">
                             <xsl:attribute name="href">
                                 <xsl:value-of select="/rss/channel/link"/>
@@ -88,11 +89,11 @@
                                 <xsl:value-of select="title"/>
                                 </a>
                             </h3>
-                                <img width="30%">
+                                <!-- <img width="30%">
                                     <xsl:attribute name="src">
                                         <xsl:value-of select="image/url"/>
                                     </xsl:attribute>
-                                </img>
+                                </img> -->
                                 <p style="font-size:12px">in: <xsl:value-of select="category" /></p>
                                 <p style="font-size:12px">by: <xsl:value-of select="author" /></p>
                                 <!-- <p style="font-size:12px">lang: <xsl:value-of select="language" /></p> -->
