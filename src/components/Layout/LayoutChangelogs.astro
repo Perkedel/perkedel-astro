@@ -140,9 +140,11 @@ const {
     <p><a class="Buttonnize" href={SauceChangelogURLDirect} target="_blank" rel="noopener noreferrer">&#xf6d9; Open this changelog RAW directly</a></p>
     <slot name="extraChangelogStuffs"/>
   <h2>Content:</h2>
-  <slot>
+  <article>
+    <slot>
 
-  </slot>
+    </slot>
+    </article>
   <!-- You know what, never hide info. -->
   {hideInfo?<p></p>:<p></p>}
 

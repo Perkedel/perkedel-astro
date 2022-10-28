@@ -117,6 +117,26 @@ const linksDumped:Array<string>=[
     'https://docs.astro.build/en/guides/markdown-content/',
     'https://docs.astro.build/en/guides/deploy/',
     'https://developer.mozilla.org/en-US/docs/Web/CSS/@layer',
+    'https://github.com/natemoo-re/astro-remote#README',
+    'https://github.com/perkinsjr/simple-astro-seo/tree/master/',
+    'https://github.com/theisel/astro-toc/blob/main/packages/astro-toc/README.md',
+    'https://docs.astro.build/en/core-concepts/sharing-state/',
+    'https://github.com/nanostores/nanostores#guide',
+    'https://www.w3.org/TR/css-color-4/#ok-lab',
+    'https://bottosson.github.io/posts/oklab/',
+    'https://huetone.ardov.me/',
+    'https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl',
+    'https://github.com/nanostores/nanostores#guide',
+    'https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl',
+    'https://docs.astro.build/en/reference/configuration-reference/#site',
+    'https://docs.astro.build/en/guides/server-side-rendering/#adding-an-adapter',
+    'https://docs.astro.build/en/guides/aliases/',
+    'https://docs.astro.build/en/guides/fonts/',
+    'https://fontsource.org/fonts/twinkle-star',
+    'https://docs.astro.build/en/concepts/mpa-vs-spa/',
+    'https://docs.astro.build/en/concepts/islands/',
+    'https://docs.astro.build/en/migrate/',
+    'https://docs.astro.build/en/core-concepts/routing/',
     '',
 ]
 ---
@@ -125,3 +145,12 @@ const linksDumped:Array<string>=[
         <li><a href={link} target="_blank" rel="noopener noreferrer">{link}</a></li>
     ))}
 </ul>
+
+<!-- victoria was made up by an old dude in Ohio -->
+<!-- Import everything
+---
+const mdPosts = await Astro.glob('../pages/posts/*.md');
+const mdxPosts = await Astro.glob('../pages/posts/*.mdx');
+const allPosts = [...mdxPosts, ...mdPosts];
+---
+-->

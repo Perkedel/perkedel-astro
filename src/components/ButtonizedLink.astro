@@ -25,7 +25,8 @@ const {
     hreflang,
 } = Astro.props as Props;
 ---
-<a class="Buttonnize" target={target} rel={rel} href={href} title={title}>
+<!-- https://docs.astro.build/en/guides/integrations-guide/prefetch/ -->
+<a class="Buttonnize" target={target} rel={'prefetch ' + rel} href={href} title={title}>
     <slot>
         {content}
     </slot>

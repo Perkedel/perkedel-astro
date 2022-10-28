@@ -16,5 +16,18 @@
     "forceConsistentCasingInFileNames": true,
     // strict type to reduce type werrors
     "strict": true,
+    // PECKING FINALLY!!!
+    // https://docs.astro.build/en/guides/aliases/
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@assets/*": ["public/assets/*"],
+      "@elements/*": ["src/components/Elements/*"],
+      "@iconsElements/*": ["src/components/Icons/*"],
+      "@layoutElements/*": ["src/components/Layout/*"],
+      "@messageElements/*": ["src/components/Messages/*"],
+      "@styles/*": ["src/styles/*"],
+      "@rawHTML/*": ["public/rawHTML/*"],
+    }
   }
 }
