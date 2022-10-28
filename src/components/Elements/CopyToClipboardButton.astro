@@ -37,16 +37,16 @@ const{
 <!-- BUG: pls help make procedural variable filling work!!! -->
 <script is:inline>
     // function plsCopyThe(thing){
-    function plsCopyThe(thing){
-        // to clipboard pls
-        // Get the text field
-        var thing = {toBeCopied};
+    // function plsCopyThe(thing){
+    //     // to clipboard pls
+    //     // Get the text field
+    //     var thing = {toBeCopied};
 
-        // Select the text field
-        thing.select();
-        thing.setSelectionRange(0, 99999); // For mobile devices
+    //     // Select the text field
+    //     thing.select();
+    //     thing.setSelectionRange(0, 99999); // For mobile devices
 
-        // Copy the text inside the text field
-        navigator.clipboard.writeText(thing.value);
-    }
+    //     // Copy the text inside the text field
+    //     navigator.clipboard.writeText(thing.value);
+    // }
 </script>

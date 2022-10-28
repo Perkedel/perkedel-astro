@@ -9,61 +9,8 @@
             <head>
                 <!-- https://perkedel.netlify.app/assets/index.a862d9eb.css -->
                 <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.a862d9eb.css"/>
-                <script>
-                    function fallbackCopyTextToClipboard(text) {
-                        var textArea = document.createElement("textarea");
-                        textArea.value = text;
-                        
-                        // Avoid scrolling to bottom
-                        textArea.style.top = "0";
-                        textArea.style.left = "0";
-                        textArea.style.position = "fixed";
-
-                        document.body.appendChild(textArea);
-                        textArea.focus();
-                        textArea.select();
-
-                        try {
-                            var successful = document.execCommand('copy');
-                            var msg = successful ? 'successful' : 'unsuccessful';
-                            console.log('Fallback: Copying text command was ' + msg);
-                        } catch (err) {
-                            console.error('Fallback: Oops, unable to copy', err);
-                        }
-
-                        document.body.removeChild(textArea);
-                        }
-
-                    // function plsCopyThe(thing){
-                    function plsCopyThe(thing){
-                        
-                        // to clipboard pls
-                        // Get the text field
-                        var thing = location.href;
-
-                        if (!navigator.clipboard) {
-                            fallbackCopyTextToClipboard(thing);
-                            return;
-                        }
-
-                        // // Select the text field
-                        // thing.select();
-                        // thing.setSelectionRange(0, 99999); // For mobile devices
-
-                        // // Copy the text inside the text field
-                        // navigator.clipboard.writeText(thing.value);
-                        navigator.clipboard.writeText(thing).then(function(){
-                            console.log('Async: Copied the `'+thing+'`');
-                        }, function(err){
-                            console.error('WERROR: Async: Could not copy text `'+thing+'`: ', err);
-                        });
-                        
-                    }
-
-                    function URLInfoPls(){
-                        alert(`URL Info for:\n`+location.href+`\n\nPathname: `+location.pathname+`\nOrigin: `+location.origin+`\n`);
-                        // alert(`URL Info for:\n`+{Astro.url.href}+`\n\nPathname: `+{Astro.url.pathname}+`\nOrigin: `+location.origin+`\n`);
-                    }
+                <script src="/main.js">
+                    
                 </script>
             </head>
             <body>
@@ -98,6 +45,7 @@
                                 <li><a title="View URL info" class="NavBtn" href="javascript:URLInfoPls()">&#xf836; URL Info &#xf7fb;</a></li>
                                 <!-- <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li> -->
                                 <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
+                                <li><a title="Go view our RSS (link can by copy pasted to your newsreader)" href="/rss.xml" class="NavBtn" id="RSSButton" style="color:cyan;">📰 RSS &#xf143;</a></li>
                                 <li><a title="Go read our Privacy Policy" href="/privacy_policy/" class="NavBtn" id="PrivacyPolicyButton" style="">📜 Privacy Policy &#xf069;</a></li>
                                 <li><a title="Go read about us and our white paper stuffs" href="/about/" class="NavBtn" id="AboutButton" style="">📃 About &#xf05a;</a></li>
                             </ul>

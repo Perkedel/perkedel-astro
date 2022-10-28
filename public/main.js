@@ -205,6 +205,66 @@ class daBackTopTopButton extends HTMLElement {
     }
 }
 
+// PLS PUT HERE INSTEAD
+function fallbackCopyTextToClipboard(text) {
+    var textArea = document.createElement("textarea");
+    textArea.value = text;
+
+    // Avoid scrolling to bottom
+    textArea.style.top = "0";
+    textArea.style.left = "0";
+    textArea.style.position = "fixed";
+
+    document.body.appendChild(textArea);
+    textArea.focus();
+    textArea.select();
+
+    try {
+        var successful = document.execCommand('copy');
+        var msg = successful ? 'successful' : 'unsuccessful';
+        console.log('Fallback: Copying text command was ' + msg);
+    } catch (err) {
+        console.error('Fallback: Oops, unable to copy', err);
+    }
+
+    document.body.removeChild(textArea);
+}
+
+// function plsCopyThe(thing){
+function plsCopyThe(thing) {
+
+    // to clipboard pls
+    // Get the text field
+    // var thing = location.href;
+
+    if (!navigator.clipboard) {
+        fallbackCopyTextToClipboard(thing);
+        return;
+    }
+
+    // // Select the text field
+    // thing.select();
+    // thing.setSelectionRange(0, 99999); // For mobile devices
+
+    // // Copy the text inside the text field
+    // navigator.clipboard.writeText(thing.value);
+    navigator.clipboard.writeText(thing).then(function() {
+        console.log('Async: Copied the `' + thing + '`');
+    }, function(err) {
+        console.error('WERROR: Async: Could not copy text `' + thing + '`: ', err);
+    });
+
+}
+
+function plsCopyTheURL() {
+    plsCopyThe(location.href);
+}
+
+function URLInfoPls() {
+    alert(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
+    // alert(`URL Info for:\n`+{Astro.url.href}+`\n\nPathname: `+{Astro.url.pathname}+`\nOrigin: `+location.origin+`\n`);
+}
+
 customElements.define('back-to-top-btn', daBackTopTopButton);
 // end scroll to top
 
