@@ -29,6 +29,9 @@ type Props = MarkdownLayoutProps<{
   noFollow?:boolean;
   rating?:string;
   favIcon?:string;
+  favIconType?:string;
+  favIconAlt?:string;
+  favIconAltType?:string;
   favIconHD?:string;
   favIconHDType?:string;
   favIconHDAlt?:string;
@@ -72,6 +75,9 @@ const { frontmatter,
     noFollow={frontmatter.noFollow}
     rating={frontmatter.rating}
     favIcon={frontmatter.favIcon}
+    favIconType={frontmatter.favIconType}
+    favIconAlt={frontmatter.favIconAlt}
+    favIconAltType={frontmatter.favIconAltType}
     favIconHD={frontmatter.favIconHD}
     favIconHDType={frontmatter.favIconHDType}
     favIconHDWidth={frontmatter.favIconHDWidth}

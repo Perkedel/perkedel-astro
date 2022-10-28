@@ -31,6 +31,9 @@ export interface Props {
   noFollow?:boolean;
   rating?:string;
   favIcon?:string;
+  favIconType?:string;
+  favIconAlt?:string;
+  favIconAltType?:string;
   favIconHD?:string;
   favIconHDType?:string;
   favIconHDAlt?:string;
@@ -82,6 +85,9 @@ const {
   noFollow = false,
   rating,
   favIcon ='/favicon.ico',
+  favIconType ='image/x-icon',
+  favIconAlt ='/favicon.gif',
+  favIconAltType ='image/gif',
   favIconHD = '/Perkedel_Icon.png',
   favIconHDType = 'image/png',
   favIconHDAlt = 'Perkedel icon',
@@ -131,6 +137,9 @@ const {
   noFollow={noFollow}
   rating={rating}
   favIcon={favIcon}
+  favIconType={favIconType}
+  favIconAlt={favIconAlt}
+  favIconAltType={favIconAltType}
   favIconHD={favIconHD}
   favIconHDType={favIconHDType}
   favIconHDWidth={favIconHDWidth}
@@ -163,14 +172,16 @@ const {
           }
       <!-- <a class="Buttonnize" href={ChangelogURL}>&#xeb43; Click here to view changelogs</a> -->
     <h2>Misc Embeds</h2>
-      {MiscEmbedsURLs.map((thueing)=>(
-        <EmbedRAWHTML src={thueing[1]} title={thueing[0]} width={thueing[2]} height={thueing[3]}/><br/>
-      ))}
-      {MiscEmbedsThings.map((thiing)=>(
-        <span>{thiing}</span><br/>
-        // ({thiing}<br/>)
-      ))}
-      <slot name="inMiscEmbeds"/>
+      <div id="divMiscEmbeds" style="overflow-x:auto;">
+        {MiscEmbedsURLs.map((thueing)=>(
+          <EmbedRAWHTML src={thueing[1]} title={thueing[0]} width={thueing[2]} height={thueing[3]}/><br/>
+        ))}
+        {MiscEmbedsThings.map((thiing)=>(
+          <span>{thiing}</span><br/>
+          // ({thiing}<br/>)
+        ))}
+        <slot name="inMiscEmbeds"/>
+      </div>
     <slot>
       
     </slot>

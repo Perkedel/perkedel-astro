@@ -29,6 +29,9 @@ export interface Props {
   noFollow?:boolean;
   rating?:string;
   favIcon?:string;
+  favIconType?:string;
+  favIconAlt?:string;
+  favIconAltType?:string;
   favIconHD?:string;
   favIconHDType?:string;
   favIconHDAlt?:string;
@@ -73,6 +76,9 @@ const {
   noFollow = false,
   rating,
   favIcon ='/favicon.ico',
+  favIconType ='image/x-icon',
+  favIconAlt ='/favicon.gif',
+  favIconAltType ='image/gif',
   favIconHD = '/Perkedel_Icon.png',
   favIconHDType = 'image/png',
   favIconHDAlt = 'Perkedel icon',
@@ -114,6 +120,9 @@ const {
     noFollow={noFollow}
     rating={rating}
     favIcon={favIcon}
+    favIconType={favIconType}
+    favIconAlt={favIconAlt}
+    favIconAltType={favIconAltType}
     favIconHD={favIconHD}
     favIconHDType={favIconHDType}
     favIconHDWidth={favIconHDWidth}

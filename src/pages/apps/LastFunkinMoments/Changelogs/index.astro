@@ -24,6 +24,9 @@ export interface Props {
   noFollow?:boolean;
   rating?:string;
   favIcon?:string;
+  favIconType?:string;
+  favIconAlt?:string;
+  favIconAltType?:string;
   favIconHD?:string;
   favIconHDType?:string;
   favIconHDAlt?:string;
@@ -65,7 +68,10 @@ const {
   noIndex = false,
   noFollow = false,
   rating,
-  favIcon ='/favicon.ico',
+  favIcon ='/rawHtml/LastFunkinMoments/assets/images/art/LFMicon64.png',
+  favIconType ='image/png',
+  favIconAlt ='/rawHtml/LastFunkinMoments/assets/images/art/LFMicon64.png',
+  favIconAltType ='image/png',
   favIconHD = '/Perkedel_Icon.png',
   favIconHDType = 'image/png',
   favIconHDAlt = 'Perkedel icon',
@@ -106,6 +112,9 @@ const {
     noFollow={noFollow}
     rating={rating}
     favIcon={favIcon}
+    favIconType={favIconType}
+    favIconAlt={favIconAlt}
+    favIconAltType={favIconAltType}
     favIconHD={favIconHD}
     favIconHDType={favIconHDType}
     favIconHDWidth={favIconHDWidth}

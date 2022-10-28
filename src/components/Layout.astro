@@ -34,6 +34,9 @@ export interface Props {
   noFollow?:boolean;
   rating?:string;
   favIcon?:string;
+  favIconType?:string;
+  favIconAlt?:string;
+  favIconAltType?:string;
   favIconHD?:string;
   favIconHDType?:string;
   favIconHDAlt?:string;
@@ -94,6 +97,11 @@ const {
   noFollow = false,
   rating,
   favIcon ='/favicon.ico',
+  favIconType ='image/x-icon',
+  favIconAlt ='/favicon.gif',
+  favIconAltType ='image/gif',
+  // favIcon ='/favicon.gif',
+  // favIconType ='image/gif',
   favIconHD = '/Perkedel_Icon.png',
   favIconHDType = 'image/png',
   favIconHDAlt = 'Perkedel icon',
@@ -159,8 +167,9 @@ const {
       extend={{
         // extending the default link tags
         link: [
-          { rel: "icon", type:"image/x-icon", href: favIcon },
-          { rel: "alternate icon", type:"image/png", href: favIconHD },
+          // { rel: "icon", type:"image/x-icon", href: favIcon },
+          { rel: "icon", type:favIconType, href: favIcon },
+          { rel: "alternate icon", type:favIconAltType, href: favIconAlt },
           { rel: "canoncial", href: Astro.url.href }
         ],
         // extending the default meta tags
