@@ -5,7 +5,7 @@
                 xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
     <xsl:template match="/">
-        <html>
+        <html lang="en">
             <head>
                 <!-- https://perkedel.netlify.app/assets/index.a862d9eb.css -->
                 <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.a862d9eb.css"/>
@@ -60,11 +60,17 @@
                     <h1>&#xf143; RSS for Perkedel NTLF+ASTR</h1>
                     <h2><xsl:value-of select="/rss/channel/title"/></h2>
                         <p><xsl:value-of select="/rss/channel/description"/></p>
+                        <img width="30%">
+                            <xsl:attribute name="src">
+                                <xsl:value-of select="image/url"/>
+                            </xsl:attribute>
+                        </img>
                         <a class="head_link Buttonnize">
                             <xsl:attribute name="href">
                                 <xsl:value-of select="/rss/channel/link"/>
                             </xsl:attribute>
-                            Visit Website Homepage &#x2192;
+                            <!-- Visit Website Homepage &#x2192; -->
+                            Visit Website Homepage &#xf061;&#xf015;
                         </a>
                         <br/>
                         <a href="https://perkedel.netlify.app/rss.xml" class="subscribe_link Buttonnize">
@@ -82,7 +88,7 @@
                                 <xsl:value-of select="title"/>
                                 </a>
                             </h3>
-                                <img width=".25em">
+                                <img width="30%">
                                     <xsl:attribute name="src">
                                         <xsl:value-of select="image/url"/>
                                     </xsl:attribute>
