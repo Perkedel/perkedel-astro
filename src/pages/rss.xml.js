@@ -14,7 +14,17 @@ export const get = () => rss({
     // see "Generating items" section for required frontmatter and advanced use cases
     items: import.meta.glob('./**/*.mdx'),
     // (optional) inject custom xml
-    customData: `<language>en-us</language>`,
+    customData: `
+        <language>en-us</language>
+        <copyright>© Perkedel Technologies, Some Rights Reserved</copyright>
+        <category>Technology</category>
+        <image>
+            <url>${import.meta.env.SITE}/assets/img/perkedelbannerrender4KDCI</url>
+            <title>Perkedel NTLF+ASTR</title>
+            <link>${import.meta.env.SITE}</link>
+        </image>
+        <generator>@astrojs/rss</generator>
+        `,
     // stylesheet: '/rss/styles.xsl',
     stylesheet: '/rss-styles.xsl',
 });

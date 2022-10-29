@@ -40,7 +40,7 @@
                                 <li><a title="Reload the page" class="NavBtn" href="javascript:window.location.href=window.location.href">🔄️ Refresh Page &#xf94f;</a></li>
                                 <!-- <li><CopyToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li> -->
                                 <!-- <li><CopyURLToClipboardButton Classer="NavBtn" title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li> -->
-                                <li><a title="Copy current URL here right now to clipboard" class="NavBtn" href='javascript:plsCopyThe()'>&#xf68e; Copy URL &#xf64c;</a></li>
+                                <li><a title="Copy current URL here right now to clipboard" class="NavBtn" href='javascript:plsCopyTheURL()'>&#xf68e; Copy URL &#xf64c;</a></li>
                                 <!-- <li><URLInfoButton Classer="NavBtn"/></li> -->
                                 <li><a title="View URL info" class="NavBtn" href="javascript:URLInfoPls()">&#xf836; URL Info &#xf7fb;</a></li>
                                 <!-- <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li> -->
@@ -60,11 +60,19 @@
                     <h1>&#xf143; RSS for Perkedel NTLF+ASTR</h1>
                     <h2><xsl:value-of select="/rss/channel/title"/></h2>
                         <p><xsl:value-of select="/rss/channel/description"/></p>
-                        <img width="30%">
-                            <xsl:attribute name="src">
-                                <xsl:value-of select="image/url"/>
+                        <a>
+                            <xsl:attribute name="title">
+                                <xsl:value-of select="/rss/channel/image/title"/>
                             </xsl:attribute>
-                        </img>
+                            <xsl:attribute name="href">
+                                <xsl:value-of select="/rss/channel/image/link"/>
+                            </xsl:attribute>
+                            <img width="40%">
+                                <xsl:attribute name="src">
+                                    <xsl:value-of select="/rss/channel/image/url"/>
+                                </xsl:attribute>
+                            </img>
+                        </a>
                         <br/>
                         <a class="head_link Buttonnize">
                             <xsl:attribute name="href">
@@ -115,7 +123,7 @@
                 <footer>
                     <hr/>
                     <!-- <p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->
-                    <p><PerkedelIcon/> <font size = "12">Perkedel Technologies</font></p>
+                    <p><img alt="Perkedel Icon" width="50em" src="/Perkedel_Icon.png"/> <font size = "12">Perkedel Technologies</font></p>
                     <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro</a></p>
                     <font size="2"><p>DISCLAIMER:</p> 
                     <ul>
@@ -127,7 +135,7 @@
                     <br/>
                     <a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><img alt="GNU AGPL License" src="https://www.gnu.org/graphics/agplv3-with-text-162x68.png" width="100px"/></a>
                     </font>
-                    <p>© Perkedel Technologies, Some Rights Reserved</p>
+                    <!-- <p>© Perkedel Technologies, Some Rights Reserved</p> -->
                     <p><xsl:value-of select="copyright" /></p>
                 </footer>
             </body>
