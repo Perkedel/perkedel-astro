@@ -19,7 +19,7 @@ export const get = () => rss({
         <copyright>© Perkedel Technologies, Some Rights Reserved</copyright>
         <category>Technology</category>
         <image>
-            <url>${import.meta.env.SITE}/assets/img/perkedelbannerrender4KDCI</url>
+            <url>${import.meta.env.SITE}/assets/img/perkedelbannerrender4KDCI.png</url>
             <title>Perkedel NTLF+ASTR</title>
             <link>${import.meta.env.SITE}</link>
         </image>

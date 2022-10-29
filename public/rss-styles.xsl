@@ -82,6 +82,10 @@
                             Visit Website Homepage &#xf061;&#xf015;
                         </a>
                         <br/>
+                        <a href="https://perkedel.netlify.app/apps/rss" class="more_link Buttonnize">
+                            More RSSes
+                        </a>
+                        <br/>
                         <a href="https://perkedel.netlify.app/rss.xml" class="subscribe_link Buttonnize">
                             <img width="36" height="14" src="https://www.w3schools.com/xml/pic_rss.gif"/> 
                             Subscribe, $0 (Copy this link and paste to your newsreader!)
