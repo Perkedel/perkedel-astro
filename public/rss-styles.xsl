@@ -12,9 +12,46 @@
                 <meta name="viewport" content="width=device-width"/>
                 <meta name="generator" content="astro-rss" />
                 <meta name="theme-color" media="(prefers-color-scheme:dark)" content="#0000aa" />
-                <meta name="description" content="(RSS) Free Technology News AND stuffs! | Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework"/>
+                <meta name="description" content="(RSS) Free Technology Downloads AND stuffs! | Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework"/>
                 <meta name="keywords" content="tech, fun, novelty, open source, gratis, free, RSS"/>
                 <meta name="author" content="JOELwindows7"/>
+
+                <meta name="robots" content="index, follow"/>
+                <meta content="/assets/img/perkedelbannerrender4KDCI.png" name="twitter:image"/>
+                <meta content="Perkedel banner" name="twitter:image:alt"/>
+                <meta content="RSS | Perkedel Technologies Division NTLF+ASTR" name="twitter:title"/>
+                <meta content="DO NOT RATIO | (RSS) Free Technology Downloads AND stuffs! | Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework" name="twitter:description"/>
+                <meta content="@JOELwindows7" name="twitter:creator"/>
+                <meta content="@JOELwindows7" name="twitter:site"/>
+                <meta content="summary_large_image" name="twitter:card"/>
+                <meta content="https://perkedel.netlify.app/" name="twitter:url"/>
+                <meta content="RSS | Perkedel Technologies Division NTLF+ASTR" name="og:title"/>
+                <meta content="DO NOT RATIO | (RSS) Free Technology Downloads AND stuffs! | Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework" name="og:description"/>
+                <meta content="Perkedel Technologies Division NTLF+ASTR" name="og:site_name"/>
+                <meta content="website" name="og:type"/>
+                <meta content="https://perkedel.netlify.app/rss.xml" name="og:url"/>
+                <meta name="og:audio"/>
+                <meta name="og:video"/>
+
+                <meta content="/assets/img/perkedelbannerrender4KDCI.png" name="og:image:url"/>
+                <meta content="image/png" name="og:image:type"/>
+                <meta content="4096" name="og:image:width"/>
+                <meta content="2160" name="og:image:height"/>
+                <meta content="Perkedel banner" name="og:image:alt"/>
+                
+                <meta content="/Perkedel_Icon.png" name="og:image:url"/>
+                <meta content="image/png" name="og:image:type"/>
+                <meta content="600" name="og:image:width"/>
+                <meta content="400" name="og:image:height"/>
+                <meta content="Perkedel icon" name="og:image:alt"/>
+                
+                <meta name="og:article:published_time"/>
+                <meta name="og:article:modified_time"/>
+                <meta name="og:article:expiration_time"/>
+                <meta content="tech, fun, novelty, open source, gratis, free, rss" name="og:article:tag "/>
+                <meta name="rating"/>
+
+                <link rel="canonical" href="https://perkedel.netlify.app/rss.xml"/>
                 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
                 <!-- https://perkedel.netlify.app/assets/index.a862d9eb.css -->
                 <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.a862d9eb.css"/>
@@ -133,6 +170,9 @@
                             <li><a target="_blank" rel="noopener noreferrer" href="https://www.w3schools.com/xml/xml_rss.asp">How to RSS. W3School</a></li>
                         </ul>
                 </main>
+
+                <button onclick="topFunction()" id="backTopButton" title="Back To Top">&#xf63e; 🔝 TOP 👆 &#xf148;</button> 
+
                 <footer>
                     <hr/>
                     <!-- <p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->

@@ -1,5 +1,6 @@
 ---
 import Layout from '../components/Layout.astro';
+import Odysee404Fig from '@components/Elements/Odysee404Fig.astro';
 ---
 <Layout 
     title="404" 
@@ -20,11 +21,7 @@ import Layout from '../components/Layout.astro';
         - https://www.w3schools.com/CSSref/css_units.asp
         -->
         
-        <figure>
-        <iframe id="odysee-iframe" src="https://odysee.com/$/embed/404" style="width:100%;height:50vw;"></iframe>
-        <figcaption>Fig.1 - highest staking claim at address of <a href="https://open.lbry.com/404">lbry://404</a></figcaption>
-        </figure>
-        <p><font size="3">(want your 404 WERROR image / video appear here? upload yours at <a href="https://odysee.com/$/invite/@JOELwindows7">Odysee LBRY</a> (OR other uploadable LBRY clients) now & compete by staking more than above's claim / post / video / image! Highest staking wins & have that file appears instead!)</font></p>
+        <Odysee404Fig/>
     
     <p>RETURN:</p>
     <ul class="ListNoStyle ListSeparateChildrenABit ButtonizeListChildrenLinks">
