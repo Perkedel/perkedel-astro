@@ -149,7 +149,7 @@
                     <a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><img alt="GNU AGPL License" src="https://www.gnu.org/graphics/agplv3-with-text-162x68.png" width="100px"/></a>
                     </font>
                     <!-- <p>© Perkedel Technologies, Some Rights Reserved</p> -->
-                    <p><xsl:value-of select="copyright" /></p>
+                    <p><xsl:value-of select="/rss/channel/copyright" /></p>
                 </footer>
             </body>
         </html>
