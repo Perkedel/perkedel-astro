@@ -8,7 +8,7 @@
         <html lang="en">
             <head>
                 <!--https://www.w3schools.com/tags/tag_meta.asp-->
-                <meta charset={charSet}>
+                <meta charset="UTF-8"/>
                 <meta name="viewport" content="width=device-width">
                 <meta name="generator" content="astro-rss" />
                 <meta name="theme-color" media="(prefers-color-scheme:dark)" content="#0000aa" />
