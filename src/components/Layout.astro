@@ -234,7 +234,11 @@ const {
   <!-- <meta name="author" content={author}> -->
 
   <!-- Clarity tracking code for https://perkedel.netlify.app/ -->
-  {ejectClarity?{}:
+  {
+  // https://bobbyhadz.com/blog/typescript-ignore-error
+  // eslint-disable-nextline @typescript-eslint/ban-ts-comment
+  // @ts-ignore
+  ejectClarity?{}:
     <script>
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};

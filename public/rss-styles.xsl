@@ -7,10 +7,19 @@
     <xsl:template match="/">
         <html lang="en">
             <head>
+                <!--https://www.w3schools.com/tags/tag_meta.asp-->
+                <meta charset={charSet}>
+                <meta name="viewport" content="width=device-width">
+                <meta name="generator" content="astro-rss" />
+                <meta name="theme-color" media="(prefers-color-scheme:dark)" content="#0000aa" />
+                <meta name="description" content="(RSS) Free Technology News | Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework">
+                <meta name="keywords" content="tech, fun, novelty, open source, gratis, free, RSS">
+                <meta name="author" content="JOELwindows7">
+                <link rel="icon" type="image/x-icon" href="/favicon.ico" />
                 <!-- https://perkedel.netlify.app/assets/index.a862d9eb.css -->
                 <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.a862d9eb.css"/>
                 <script src="/main.js">
-                    
+                <title>RSS | Perkedel Technologies Division NTLF+ASTR</title>
                 </script>
             </head>
             <body>
