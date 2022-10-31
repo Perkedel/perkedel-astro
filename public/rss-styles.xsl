@@ -12,7 +12,7 @@
                 <meta name="viewport" content="width=device-width">
                 <meta name="generator" content="astro-rss" />
                 <meta name="theme-color" media="(prefers-color-scheme:dark)" content="#0000aa" />
-                <meta name="description" content="(RSS) Free Technology News | Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework">
+                <meta name="description" content="(RSS) Free Technology News AND stuffs! | Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework">
                 <meta name="keywords" content="tech, fun, novelty, open source, gratis, free, RSS">
                 <meta name="author" content="JOELwindows7">
                 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
