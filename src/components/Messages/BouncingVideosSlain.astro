@@ -1,16 +1,18 @@
 ---
 export interface Props {
     deathYear?: number;
+    deathDate?: Date;
 }
 
 const{
     deathYear = 2099,
+    deathDate = '9999-12-31',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <div class="info">
-    <h2>&#xf05a; INFO &#xf05a; The Discord Bouncing Videos has been slain 🤡🤡🤡🤡🤡🤓🤓🤓🤓🤓💀💀💀💀💀. RIP {deathYear}</h2>
+    <h2>&#xf05a; INFO &#xf05a; The Discord Bouncing Videos has been slain 🤡🤡🤡🤡🤡🤓🤓🤓🤓🤓💀💀💀💀💀. RIP {deathDate}</h2>
     <p>That was fun 'til it last. <b>But worry not! We still have it here.</b><br>
-    Now you can forever have fun with bouncing video yey! Thancc to unfixed anomaly by standard.<br>
+    Now you can forever have fun with bouncing video yey! Thancc to unfixed anomaly by standard.<br/>
     Pls Browser developer, do not fix this!!! this is funi!!! 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
     </p>
 </div>

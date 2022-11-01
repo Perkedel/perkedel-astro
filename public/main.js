@@ -268,6 +268,25 @@ function URLInfoPls() {
 customElements.define('back-to-top-btn', daBackTopTopButton);
 // end scroll to top
 
+// PURE JSON GET
+// https://stackoverflow.com/a/2499647/9079640
+function getJSONP(url, success) {
+
+    var ud = '_' + +new Date,
+        script = document.createElement('script'),
+        head = document.getElementsByTagName('head')[0] ||
+        document.documentElement;
+
+    window[ud] = function(data) {
+        head.removeChild(script);
+        success && success(data);
+    };
+
+    script.src = url.replace('callback=?', 'callback=' + ud);
+    head.appendChild(script);
+
+}
+
 /*
 Moar Dump
 - https://www.w3schools.com/html/html_scripts.asp
