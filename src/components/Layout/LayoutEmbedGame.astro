@@ -162,7 +162,7 @@ const {
 
       </slot>
     <h2>Download & Play</h2>
-      {SauceURLs.map((sauce:Array<any>)=>(
+      {SauceURLs.map((sauce)=>(
         <li>{sauce[2]}<a href={sauce[1]} target="_blank" rel="noopener noreferrer">{sauce[0]}</a>{sauce[3]}</li>
       ))}
     <h2>What's changed?</h2>
@@ -173,10 +173,10 @@ const {
       <!-- <a class="Buttonnize" href={ChangelogURL}>&#xeb43; Click here to view changelogs</a> -->
     <h2>Misc Embeds</h2>
       <div id="divMiscEmbeds" style="overflow-x:auto;">
-        {MiscEmbedsURLs.map((thueing:Array<any>)=>(
+        {MiscEmbedsURLs.map((thueing)=>(
           <EmbedRAWHTML src={thueing[1]} title={thueing[0]} width={thueing[2]} height={thueing[3]}/><br/>
         ))}
-        {MiscEmbedsThings.map((thiing:Array<any>)=>(
+        {MiscEmbedsThings.map((thiing)=>(
           <span>{thiing}</span><br/>
           // ({thiing}<br/>)
         ))}
