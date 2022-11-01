@@ -1,0 +1,57 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+---
+<Layout title="🏀 Discord Bouncing Videos 🏀 Checkout FREE VIDEOS WEBM that bounces your Discord chat so funny lmao lol!" description="Perkedel NTLF+ASTR. Discord Bouncing Videos. Explore, Test, & Share all funny WEBM video here that does bouncing, go crazy, & more! Free download & copy link available!">
+    <h1>&#xfb6e; Discord Bouncing Videos 🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀🏀 &#xf03d; &#xf86a; &#xfd04; &#xf72a;</h1>
+    
+    <!--
+    Typing character
+    https://www.w3schools.com/html/html_symbols.asp
+    https://www.toptal.com/designers/htmlarrows/symbols/
+    
+    -->
+    
+    <!--Uncomment when Discord fixed the funi bouncing video-->
+    <!--<DiscordBouncingPunctured/>-->
+
+    <h2>What's going on?</h2>
+      <p>These are WEBM videos each has frames with inconsistent size & aspect ratio, causing the video to <i>bounce</i> due to frame image selection updates that had different size.</p>
+      <p>The <i>bug</i> was found in Discord Desktop app (an Electron app of Discord client) as such, the video shrinks & grow like crazy when the video with that inconsistent frame size is played</p>
+      <p>This happens because various things:</p>
+      <ul>
+        <li>Discord forgot to add some kind of heurestic to capture its initial size & make it make sure the player keep it that way</li>
+        <li>WEBM allows possibility for inconsistent frame size as mentioned before. Pictures of different size can be packed together and still a valid WEBM file. ✨✨ WOW</li>
+        <li>Browsers (such as case with Chromium based like Discord Electron, Chromium derivatives, & Chrome) by default for <i>video</i> tag without <i>width</i> & <i>height</i> defined will update player size to whatever current frame the size it was right now. We tried putting the size & for Chromium, the video still bounces inside while its player stays its size</li>
+      </ul>
+    
+    <h2>Why this website page</h2>
+      <p>We always assume this anomaly probably is going to get fixed, even if there is no promise. Here, we make sure that memory do not lost not only in the <i>sea</i> but also the <i>all 7 seas in entirity</i>. What I mean is:</p>
+      <ul>
+        <li>Preserve the funi bounce video moments</li>
+        <li>Guarantee the working <i>bug</i> even if Discord killed it</li>
+        <li>Provide sample for researchers later down the road.</li>
+      </ul>
+    
+    <p> Now, have a look at the following example. We also provided a <b>URLs, each you can copy & paste</b> into your Discord chat or HTML embed video (as long it's a pure video tag or any without bouncing prevention measures), yeah!<br>Be sure to link back here & most importantly, <b>credit the Sauce URL, the <i>video here</i> YouTube links</b> where you got it from. <br><br>To Copy, simply Right click the video widget & copy video adress, <br>OR select the provided URL text & copy paste into your discord chat or video source.</p>
+    
+    <!--select language https://www.w3schools.com/cssref/sel_lang.asp-->
+    <!--https://www.w3schools.com/cssref/tryit.asp?filename=trycss_sel_lang-->
+    <EpilepsyDiscordBouncingVideo/>
+    
+    <h2>Examples</h2>
+    <!-- <DiscordBounceVideoList/> -->
+    <DiscordBounceVideoListTempLegacy/>
+
+    <h2>More informations:</h2>
+    <DiscordBounceVideoMoreInfo/>
+
+</Layout>
