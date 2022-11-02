@@ -19,3 +19,13 @@
 
 # RSS paginations
 /rss /rss.xml
+
+# wceload
+/wceload /apps/wceload
+/wceloads /apps/wceload
+/WinCEHacks /apps/wceload
+/WinCEHack /apps/wceload
+
+# Shantae3DModels
+/Shantae3DModels /apss/3DModels
+/ShantaeFreeModel /apss/3DModels
