@@ -4,8 +4,11 @@ runs after Footering
 */
 //dfsd
 
+// https://stackoverflow.com/a/48212558/9079640
 // import * as Main from '/main.js';
-import getJSONP from '/main.js';
+import {
+    getJSONP
+} from '/main.js';
 
 // Generate Word pls
 // https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array

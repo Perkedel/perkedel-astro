@@ -206,7 +206,7 @@ class daBackTopTopButton extends HTMLElement {
 }
 
 // PLS PUT HERE INSTEAD
-function fallbackCopyTextToClipboard(text) {
+export function fallbackCopyTextToClipboard(text) {
     var textArea = document.createElement("textarea");
     textArea.value = text;
 
@@ -231,7 +231,7 @@ function fallbackCopyTextToClipboard(text) {
 }
 
 // function plsCopyThe(thing){
-function plsCopyThe(thing) {
+export function plsCopyThe(thing) {
 
     // to clipboard pls
     // Get the text field
@@ -256,11 +256,11 @@ function plsCopyThe(thing) {
 
 }
 
-function plsCopyTheURL() {
+export function plsCopyTheURL() {
     plsCopyThe(location.href);
 }
 
-function URLInfoPls() {
+export function URLInfoPls() {
     alert(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
     // alert(`URL Info for:\n`+{Astro.url.href}+`\n\nPathname: `+{Astro.url.pathname}+`\nOrigin: `+location.origin+`\n`);
 }
@@ -270,7 +270,7 @@ customElements.define('back-to-top-btn', daBackTopTopButton);
 
 // PURE JSON GET
 // https://stackoverflow.com/a/2499647/9079640
-function getJSONP(url, success) {
+export function getJSONP(url, success) {
 
     var ud = '_' + +new Date,
         script = document.createElement('script'),
