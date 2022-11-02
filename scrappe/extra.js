@@ -7,7 +7,7 @@ runs after Footering
 // https://stackoverflow.com/a/48212558/9079640
 // import * as Main from '/main.js';
 import {
-    getJSONP
+    getJSONP,
 } from '/main.js';
 
 // Generate Word pls

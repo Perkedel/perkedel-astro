@@ -206,7 +206,7 @@ class daBackTopTopButton extends HTMLElement {
 }
 
 // PLS PUT HERE INSTEAD
-export function fallbackCopyTextToClipboard(text) {
+function fallbackCopyTextToClipboard(text) {
     var textArea = document.createElement("textarea");
     textArea.value = text;
 
@@ -231,7 +231,7 @@ export function fallbackCopyTextToClipboard(text) {
 }
 
 // function plsCopyThe(thing){
-export function plsCopyThe(thing) {
+function plsCopyThe(thing) {
 
     // to clipboard pls
     // Get the text field
@@ -256,11 +256,11 @@ export function plsCopyThe(thing) {
 
 }
 
-export function plsCopyTheURL() {
+function plsCopyTheURL() {
     plsCopyThe(location.href);
 }
 
-export function URLInfoPls() {
+function URLInfoPls() {
     alert(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
     // alert(`URL Info for:\n`+{Astro.url.href}+`\n\nPathname: `+{Astro.url.pathname}+`\nOrigin: `+location.origin+`\n`);
 }
@@ -270,7 +270,7 @@ customElements.define('back-to-top-btn', daBackTopTopButton);
 
 // PURE JSON GET
 // https://stackoverflow.com/a/2499647/9079640
-export function getJSONP(url, success) {
+function getJSONP(url, success) {
 
     var ud = '_' + +new Date,
         script = document.createElement('script'),
@@ -286,6 +286,30 @@ export function getJSONP(url, success) {
     head.appendChild(script);
 
 }
+
+// Generate Word pls
+// https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array
+// https://stackoverflow.com/questions/13237421/how-to-generate-random-words-in-javascript
+// https://randomwordgenerator.com/
+// https://www.w3schools.com/js/js_json_parse.asp
+// https://stackoverflow.com/questions/50401390/promises-fetch-in-javascript-how-to-extract-text-from-text-file
+// https://stackoverflow.com/a/12460434/9079640
+let daWord = [
+    'Hello World',
+    "Pincore",
+    "reddymen",
+    "Segment",
+    "Achieve",
+    "Goaler",
+    "<b>HEH SHOO <a href='https://youtu.be/4vGoth137VQ' target='blank' rel='noopener noreferrer'>💥💥💥💥💥</a>!!!</b>",
+    "Attrend",
+    "Reugol",
+    "cally make this $0 wtf!!! I'm gonna use all my salary to get this done, so peck you!",
+];
+getJSONP('/generateWord.jsonc', function(data) {
+    daWord = data.daWord;
+});
+document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
 
 /*
 Moar Dump
