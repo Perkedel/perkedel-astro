@@ -190,6 +190,7 @@
                     </font>
                     <!-- <p>© Perkedel Technologies, Some Rights Reserved</p> -->
                     <p><xsl:value-of select="/rss/channel/copyright" /></p>
+                    <p class="generateWord" id="generateWord"></p>
                 </footer>
             </body>
         </html>
