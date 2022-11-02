@@ -55,8 +55,8 @@
                 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
                 <!-- https://perkedel.netlify.app/assets/index.a862d9eb.css -->
                 <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.a862d9eb.css"/>
-                <script src="/main.js">
-                    </script>
+                <!-- <script src="/main.js">
+                    </script> -->
                 <title>RSS | Perkedel Technologies Division NTLF+ASTR</title>
             </head>
             <body>
@@ -192,6 +192,9 @@
                     <p><xsl:value-of select="/rss/channel/copyright" /></p>
                     <p class="generateWord" id="generateWord"></p>
                 </footer>
+
+                <script src="/main.js">
+                    </script>
             </body>
         </html>
     </xsl:template>
