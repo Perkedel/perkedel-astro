@@ -4,7 +4,7 @@ runs after Footering
 */
 //dfsd
 
-import * as Main from '/main.js';
+// import * as Main from '/main.js';
 
 // Generate Word pls
 // https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array
