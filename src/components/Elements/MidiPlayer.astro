@@ -1,0 +1,52 @@
+---
+import 'html-midi-player';
+
+export interface Props {
+  src?: string;
+  noteSequence?:string;
+  visualizer?:string;
+  visualizerType?:string;
+  addVisualizer?:Boolean;
+  soundFont?:string;
+  loop?:Boolean;
+}
+
+const {
+    src,
+    noteSequence,
+    visualizer="#anVisualizing_"+src,
+    visualizerBindId="anVisualizing_"+src,
+    visualizerType='piano-roll', //or: 
+    addVisualizer = true,
+    soundFont = 'https://archive.org/download/dawnsgmgs2/ColomboGMGS2.sf2',
+    loop = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- 
+    MIDI Player pls!
+    https://github.com/cifkao/html-midi-player
+    https://archive.org/details/dawnsgmgs2
+
+    you can import like
+    ```
+    import Midi fron '@components/Elements/MidiPlayer.astro'
+    ```
+    to your front matter!
+ -->
+<midi-player
+    src={src}
+    noteSequence={noteSequence}
+    sound-font={soundFont}
+    visualizer={visualizer}
+    >
+    <slot/>
+</midi-player>
+{addVisualizer?
+<midi-visualizer
+    type={visualizerType}
+    id={visualizerBindId}
+    >
+    <slot name="visualizering"/>
+</midi-visualizer>
+:<span/>}
+<slot name="extraPut"/>

@@ -4,6 +4,7 @@ import ButtonizedLink from '../../components/ButtonizedLink.astro'; // it has to
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
+import Midi from '@components/Elements/MidiPlayer.astro';
 ---
 <Layout title="OTHERWISE" description="" keywords="">
     <h1>How do I supposed to import everytime?!??!?!</h1>
@@ -38,4 +39,12 @@ import Emoji from 'astro-emoji';
             <p class="Spoiler">Not sharing download link & sauce is cringe & virgin, giant L!</p>
         <h3>Accessible Emoji</h3>
             <p><Emoji symbol="🫀" label="heart organ" /></p>
+    <h2>MIDI Player</h2>
+        <p>using <ButtonizedLink content="cifkao's HTML MIDI Player" href="https://github.com/cifkao/html-midi-player" target="_blank" rel="noopener noreferrer"/></p>
+        <p>and Demo MIDI from Duwindu's ColomboGMGS2 at <ButtonizedLink content="Here" href="https://archive.org/details/dawnsgmgs2" target="_blank" rel="noopener noreferrer"/></p>
+        <Midi 
+            src="https://archive.org/download/dawnsgmgs2/Demo%20MIDIs.zip/%28GS%29%20Twenty%20One%20Pilots%20-%20Heathens%2BLyrics.mid"
+
+        />
+
 </Layout>

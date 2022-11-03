@@ -20,6 +20,14 @@ https://nerdfonts.com
 
 @layer main {
     /*WHY THE PECK WON'T YOU SAVE?!?!??!?!?!?!??!?!?!*/
+    /*
+        Focus Visible Polyfill!
+    This will hide the focus indicator if the element receives focus via the mouse,
+    but it will still show up on keyboard focus.
+    */
+    [data-js-focus-visible] :focus:not([data-focus-visible-added]) {
+        outline: none;
+    }
     /**{*/
     /*  font-family: Ubuntu, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;*/
     /*margin:0;*/

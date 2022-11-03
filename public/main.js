@@ -9,6 +9,9 @@ Perkedel's base JavaScript for Perkedel's raw websites
 // const jQuery =
 //     import ('https://code.jquery.com/jquery-3.6.1.min.js');
 // import * as jQuery from 'https://code.jquery.com/jquery-3.6.1.min.js';
+import 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js';
+import 'https://code.jquery.com/jquery-3.6.1.min.js';
+import '/node_modules/focus-visible/dist/focus-visible.min.js';
 
 /*
 noscript. built-in standard tag for if JS disabled

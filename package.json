@@ -32,6 +32,8 @@
         "astro-seo": "^0.6.0",
         "astro-terminal-player": "^0.1.2",
         "colorjs.io": "^0.4.0",
+        "focus-visible": "^5.2.0",
+        "html-midi-player": "^1.5.0",
         "mermaid": "^9.1.7",
         "nanostores": "^0.7.0",
         "sharp": "^0.31.1"
