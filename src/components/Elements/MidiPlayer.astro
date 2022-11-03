@@ -48,12 +48,13 @@ const {
     noteSequence={noteSequence}
     sound-font={soundFont}
     visualizer={visualizer}
+    style="color:white;background-color:navy;"
     >
     <slot name="midiPlayering"/>
 </midi-player>
 {addVisualizer?
 <midi-visualizer
-    style="color:white;background-color:navy;"
+    
     width="100%"
     type={visualizerType}
     id={visualizerBindId}
