@@ -42,12 +42,14 @@ import Midi from '@components/Elements/MidiPlayer.astro';
     <h2>MIDI Player</h2>
         <p>using <ButtonizedLink content="cifkao's HTML MIDI Player" href="https://github.com/cifkao/html-midi-player" target="_blank" rel="noopener noreferrer"/></p>
         <p>and Demo MIDI from Duwindu's ColomboGMGS2 at <ButtonizedLink content="Here" href="https://archive.org/details/dawnsgmgs2" target="_blank" rel="noopener noreferrer"/></p>
+        <!-- soundFont='https://player.odycdn.com/api/v4/streams/free/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371/039f66?download=true' -->
         <h3>Heathens (Duwindu's cover)</h3>
             <Midi 
                 src="/assets/midi/dawn314/%28GS%29%20Twenty%20One%20Pilots%20-%20Heathens%2BLyrics.mid"
                 visualizer="#harleyQuinn"
                 visualizerBindId="harleyQuinn"
-                soundFont='https://player.odycdn.com/api/v4/streams/free/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371/039f66?download=true'
+                
+                soundFont='https://f003.backblazeb2.com/file/JustAnBucket/Soundfont/ColomboGMGS2.sf2'
             />
         <h3>Jazz.mid</h3>
             <p>Kay you know what, this above is not gonna work coz we have no way to have performance CDN here. let's use MIDI Player Demo files cifkao has</p>
