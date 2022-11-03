@@ -43,15 +43,17 @@ import Midi from '@components/Elements/MidiPlayer.astro';
         <p>using <ButtonizedLink content="cifkao's HTML MIDI Player" href="https://github.com/cifkao/html-midi-player" target="_blank" rel="noopener noreferrer"/></p>
         <p>and Demo MIDI from Duwindu's ColomboGMGS2 at <ButtonizedLink content="Here" href="https://archive.org/details/dawnsgmgs2" target="_blank" rel="noopener noreferrer"/></p>
         <!-- soundFont='https://player.odycdn.com/api/v4/streams/free/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371/039f66?download=true' -->
+        <!-- soundFont='https://justanbucket.s3.eu-central-003.backblazeb2.com/Soundfont/ColomboGMGS2.sf2' -->
         <h3>Heathens (Duwindu's cover)</h3>
             <Midi 
                 src="/assets/midi/dawn314/%28GS%29%20Twenty%20One%20Pilots%20-%20Heathens%2BLyrics.mid"
                 visualizer="#harleyQuinn"
                 visualizerBindId="harleyQuinn"
-                soundFont='https://f003.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z478f6ff0850a36e48043051a_f1097ebc461c97e84_d20221103_m173553_c003_v0312015_t0011_u01667496953196'
+                
             />
         <h3>Jazz.mid</h3>
             <p>Kay you know what, this above is not gonna work coz we have no way to have performance CDN here. let's use MIDI Player Demo files cifkao has</p>
+            <p>EDIT: The soundfont file is not RAW SF2 file!!! it's Magenta's JSONed file!!!</p>
             <Midi 
                 src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"
                 visualizer="#jazzman"
