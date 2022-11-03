@@ -2,7 +2,7 @@
 // Pls MIDI Player
 // https://github.com/cifkao/html-midi-player/issues/48
 import { PianoRollSVGVisualizer } from '@magenta/music/esm/core.js';
-import 'html-midi-player';
+// import 'html-midi-player';
 
 export interface Props {
   src?: string;
@@ -36,13 +36,13 @@ const {
     ```
     to your front matter!
  -->
-<midi-player
+<!-- <midi-player
     src={src}
     noteSequence={noteSequence}
     sound-font={soundFont}
     visualizer={visualizer}
     >
-    <slot/>
+    <slot name="midiPlayering"/>
 </midi-player>
 {addVisualizer?
 <midi-visualizer
@@ -51,5 +51,5 @@ const {
     >
     <slot name="visualizering"/>
 </midi-visualizer>
-:<span/>}
-<slot name="extraPut"/>
+:<span/>} -->
+<slot/>
