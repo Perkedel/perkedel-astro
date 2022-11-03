@@ -3,7 +3,7 @@
 // https://github.com/cifkao/html-midi-player/issues/48
 import { PianoRollSVGVisualizer } from '@magenta/music/esm/core.js';
 // import 'html-midi-player';
-import 'https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0';
+// import 'https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0';
 
 export interface Props {
   src?: string;
@@ -26,6 +26,7 @@ const {
     loop = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
+<script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
 <!-- 
     MIDI Player pls!
     https://github.com/cifkao/html-midi-player
