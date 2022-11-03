@@ -5,6 +5,7 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import Midi from '@components/Elements/MidiPlayer.astro';
+import EmbedAudio from '@components/Elements/EmbedAudio.astro';
 ---
 <Layout title="OTHERWISE" description="" keywords="">
     <h1>How do I supposed to import everytime?!??!?!</h1>
@@ -85,4 +86,11 @@ import Midi from '@components/Elements/MidiPlayer.astro';
                 visualizer="#GurukuTersayang"
                 visualizerBindId="GurukuTersayang"
             />
+            <p>Now compare with our Funkined version <ButtonizedLink content="here" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Funkin/AFI%20Junior%20-%20Guruku%20Tersayang%20PSR%20S970%20UTI/gurukuTersayang-full-v4.ogg" target="_blank" rel="noopener noreferrer"/><br/>
+                which we have LMMS project at <ButtonizedLink content="there" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/LMMS%20Project/gurukuTersayang-funkin.mmpz" target="_blank" rel="noopener noreferrer"/>
+            </p>
+            <EmbedAudio
+                title="Boyfriend, Girlfriend, & Pico sings Guruku Tersayang"
+                src="https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/Funkin/AFI%20Junior%20-%20Guruku%20Tersayang%20PSR%20S970%20UTI/gurukuTersayang-full-v4.ogg"
+                />
 </Layout>
