@@ -9,6 +9,10 @@ import Midi from '@components/Elements/MidiPlayer.astro';
 <Layout title="OTHERWISE" description="" keywords="">
     <h1>How do I supposed to import everytime?!??!?!</h1>
         <p>HOW?!</p>
+        <p>in your <code>/tsconfig.json</code> right at root of your project, inside <code>compilerOptions</code> Dictionary, there is <code>paths</code> Dictionary.<br/> 
+            Look at the example at <a href="https://github.com/Perkedel/perkedel-astro/blob/main/tsconfig.json" target="_blank" rel="noopener noreferrer">here</a> for how to add yours<br/>
+            Also have a look at <a href="https://docs.astro.build/en/guides/aliases/" target="_blank" rel="noopener noreferrer">Astro Aliases</a> for more information about Path Aliases.<br/>
+        </p>
         <!-- <a class="Buttonnize" href="./innerDaFolder">Beflon</a> -->
         <ButtonizedLink content="Beflon" href="./innerDaFolder"/>
         <ButtonizedLink content="404 Test" href="/404"/>
@@ -68,7 +72,13 @@ import Midi from '@components/Elements/MidiPlayer.astro';
         <h3>Twine Melody</h3>
             <Midi 
                 src="https://cdn.jsdelivr.net/gh/magenta/magenta-js@571b384/music/demos/melody.mid"
-                visualizer="#Kiraman"
-                visualizerBindId="Kiraman"
+                visualizer="#Kiraman2"
+                visualizerBindId="Kiraman2"
+            />
+        <h3>Guruku Tersayang (Helly Hilmi's cover with JOELwindows7's improvement)</h3>
+            <Midi 
+                src="https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/MIDI/JOELwindows7/MidiHacks/Guruku%20Tersayang_2%20-%20PSR%20UTI_GlueEdit.mid"
+                visualizer="#GurukuTersayang"
+                visualizerBindId="GurukuTersayang"
             />
 </Layout>
