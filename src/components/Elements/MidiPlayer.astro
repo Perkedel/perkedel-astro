@@ -21,13 +21,13 @@ const {
     noteSequence,
     visualizer="#anVisualizing_"+src,
     visualizerBindId="anVisualizing_"+src,
-    visualizerType='waterfall', //or: waterfall, staff, piano-roll
+    visualizerType='piano-roll', //or: waterfall, staff, piano-roll
     addVisualizer = true,
     // soundFont = 'https://archive.org/download/dawnsgmgs2/ColomboGMGS2.sf2',
     // soundFont = '/assets/audio/sf2/ColomboGMGS2.sf2',
-    soundFont = 'https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus',
+    // soundFont = 'https://storage.googleapis.com/magentadata/js/soundfonts/sgm_plus',
     // soundFont = 'https://odysee.com/$/download/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371',
-    // soundFont = 'https://player.odycdn.com/api/v4/streams/free/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371/039f66?download=true',
+    soundFont = 'https://player.odycdn.com/api/v4/streams/free/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371/039f66?download=true',
     loop = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -53,6 +53,7 @@ const {
 </midi-player>
 {addVisualizer?
 <midi-visualizer
+    width="100%"
     type={visualizerType}
     id={visualizerBindId}
     >
