@@ -10,7 +10,7 @@ IMPORTANT!, Always watch what did you put in. Everything that you put in must be
 - If a file **That has already listed in this website where formerly was $0, Open Source, and/or FULL VERSION** suddenly become paywalled, proprietary, partial either this version or next, **Immediately comment NOT delete** the sauce link & create issue about this. For best resolution possible, apply Be Careful Violation No. 1 above. (TEMP) Please only apply to files that has already existed in this website at the time it's there. (TEMP MEAN: if void means `Also apply to files haven't been here yet`)
 
 ## OH NO! I didn't know! pls don't reupload my paid work for $0!!!
-- You will be given chance to make change of your fork. Either remove the offending file or best which I hope you have, allow me reupload OR you grant exclusive permission with us for that these files for $0. You have no time limit but until the fate of pull request.
+- You will be given chance to make change of your fork. Either comment `<!-- like this -->` the offending file or best which I hope you have, allow me reupload OR you grant exclusive permission with us for that these files for $0. You have no time limit but until the fate of pull request.
 - By default, unresponded pull request with offending links **will be closed**. that includes your extra useful informations.
 - If there already too many closed pull request with this reason, Perkedel may execute `Extraction` campaign which is, we will merge as many as useful pull request, but don't worry, **offending files will be commented**, not buy & reupload. We're not evil monster 😉.
 
