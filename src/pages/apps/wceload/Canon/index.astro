@@ -1,0 +1,27 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+---
+<Layout 
+    title="Camera hacks! Canon Magic Lantern, CHDK, & Stuffs" 
+    description="Perkedel NTLF+ASTR. Canon & Cameras Hacks!"
+    keywords="tech, fun, novelty, open source, gratis, free, embedded, hacks, hack, wceload, download, custom, firmware, Canon, GoPro, DSLR, Mirrorless, Magic Lantern, CHDK"
+    >
+    <h1>Camera hacks! Canon Magic Lantern, CHDK, & Stuffs</h1>
+        <p>Every hacks for cameras!</p>
+        <h2>What to do?</h2>
+        <ul>
+            <li><ButtonizedLink href="https://magicLantern.fm" target="_blank" rel="noopener noreferrer">MagicLantern.fm</ButtonizedLink> Canon EOS DSLR (except EOS with PowerShot firmware)</li>
+            <li><ButtonizedLink href="https://chdk.fandom.com/" target="_blank" rel="noopener noreferrer">CHDK (Canon Hack Dev Kit)</ButtonizedLink> Canon PowerShot & IXUS (including EOS with PowerShot firmware)</li>
+            <li><ButtonizedLink href="https://github.com/KonradIT/autoexechack" target="_blank" rel="noopener noreferrer">GoPro AutoExec</ButtonizedLink> GoPro Old Less than HERO 4.</li>
+            <li><ButtonizedLink href="https://github.com/konradit/hero4hack" target="_blank" rel="noopener noreferrer">GoPro HERO4 Hack</ButtonizedLink></li>
+            <li><ButtonizedLink href="https://www.goprofanatics.com/forum/threads/gopro-autoexec-ash-hacking-and-fw-studies.5179/" target="_blank" rel="noopener noreferrer">Konrad Iturbe's Thread about this GoPro Hack</ButtonizedLink></li>
+            <li><ButtonizedLink href="http://github.com/hypoxic/hero4-session" target="_blank" rel="noopener noreferrer">GoPro HERO4 Session Hack</ButtonizedLink></li>
+            <li><ButtonizedLink href="https://github.com/konradit/gpauto" target="_blank" rel="noopener noreferrer">GoPro HERO5 Hack</ButtonizedLink> with GPAuto.</li>
+            <li><ButtonizedLink href="https://github.com/KonradIT/gopro-firmware" target="_blank" rel="noopener noreferrer">GoPro Firmware research</ButtonizedLink></li>
+            <li><ButtonizedLink href="https://konraditurbe.dev/hacking.html" target="_blank" rel="noopener noreferrer">Everything GoPro Hack Konrad Iturbe has!!!</ButtonizedLink> also his homepage at <a href="http://konraditurbe.dev" target="_blank" rel="noopener noreferrer"></a></li>
+        </ul>
+</Layout>
