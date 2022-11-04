@@ -2,6 +2,13 @@
 ## DISCLAIMER
 Please still contribute anyway despite your discrepancies with your background checks such as Paywallism (>$0), Proprietarism (No PSD, No Download Link), and/or Partialism (DLC >$0). Kaorfa may still accept intresting articles, tips, files, etc. etc. Usually, he is about lenient and accept everything that intrests him and/or provides usefulness towards all gamers. 
 
+## BE CAREFUL!!!
+IMPORTANT!, Always watch what did you put in. Everything that you put in must be $0, and if you dare tp violate this, there will be heavy consequences.:
+- **NEVER** Insert Paywalled files link sauces (Patreon, Gumroad, Fanbox, etc.), especially your own assets (if that assets has no tutorial how to exactly remake 1 to 1 like Ducky3D.). Doing so, will cause all employee or Kaorfa himself be ordered to buy all offending files, **& then reupload them for $0** (with of course link back original buy links). **This includes all derivatives such as ports as well!!**, e.g. a $0 SFM models which original Blender model is not $0. So if you want to promote your file here, you need to know this first.
+- (TEMP) For 3D model violations, the consequences only applies for if `.blend` file is not $0. This is temporary & may at times void anytime.
+- If a file suddenly become paywalled, proprietary, partial either this version or next, **Immediately comment NOT delete** the sauce link & create issue about this. For best resolution possible, apply Be Careful Violation No. 1 above.
+
+
 ## How to do this?
 - Fork
 - clone that fork
