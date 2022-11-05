@@ -6,51 +6,65 @@ import Emoji from 'astro-emoji';
 import Midi from '@components/Elements/MidiPlayer.astro';
 import EmbedAudio from '@components/Elements/EmbedAudio.astro';
 ---
-<p>using <ButtonizedLink content="cifkao's HTML MIDI Player" href="https://github.com/cifkao/html-midi-player" target="_blank" rel="noopener noreferrer"/></p>
-        <p>and Demo MIDI from Duwindu's ColomboGMGS2 at <ButtonizedLink content="Here" href="https://archive.org/details/dawnsgmgs2" target="_blank" rel="noopener noreferrer"/></p>
-        <!-- soundFont='https://player.odycdn.com/api/v4/streams/free/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371/039f66?download=true' -->
-        <!-- soundFont='https://justanbucket.s3.eu-central-003.backblazeb2.com/Soundfont/ColomboGMGS2.sf2' -->
-        <h3>Heathens (Duwindu's cover)</h3>
-            <Midi 
-                src="/assets/midi/dawn314/%28GS%29%20Twenty%20One%20Pilots%20-%20Heathens%2BLyrics.mid"
-                visualizer="#harleyQuinn"
-                visualizerBindId="harleyQuinn"
-                
-            />
-        <h3>Jazz.mid</h3>
-            <p>Kay you know what, this above is not gonna work coz we have no way to have performance CDN here. let's use MIDI Player Demo files cifkao has</p>
-            <p>EDIT: The soundfont file is not RAW SF2 file!!! it's Magenta's JSONed file!!!</p>
-            <Midi 
-                src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"
-                visualizer="#jazzman"
-                visualizerBindId="jazzman"
-            />
-        <h3>Twinkle Little Star lite</h3>
-            <Midi 
-                src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/twinkle_twinkle.mid"
-                visualizer="#Kiraman"
-                visualizerBindId="Kiraman"
-            />
-        <h3>Twine Melody</h3>
-            <Midi 
-                src="https://cdn.jsdelivr.net/gh/magenta/magenta-js@571b384/music/demos/melody.mid"
-                visualizer="#Kiraman2"
-                visualizerBindId="Kiraman2"
-            />
-        <h3>Guruku Tersayang (Helly Hilmi's cover with JOELwindows7's improvement)</h3>
-            <p>here the 
-                <ButtonizedLink content="Guruku Tersayang MIDI" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/MIDI/JOELwindows7/MidiHacks/Guruku%20Tersayang_2%20-%20PSR%20UTI_GlueEdit.mid" target="_blank" rel="noopener noreferrer"/> 
-                we have had improved from Helly Hilmi's.
-            </p>
-            <Midi 
-                src="https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/MIDI/JOELwindows7/MidiHacks/Guruku%20Tersayang_2%20-%20PSR%20UTI_GlueEdit.mid"
-                visualizer="#GurukuTersayang"
-                visualizerBindId="GurukuTersayang"
-            />
-            <p>Now compare with our Funkined version <ButtonizedLink content="here" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Funkin/AFI%20Junior%20-%20Guruku%20Tersayang%20PSR%20S970%20UTI/gurukuTersayang-full-v4.ogg" target="_blank" rel="noopener noreferrer"/><br/>
-                which we have LMMS project at <ButtonizedLink content="there" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/LMMS%20Project/gurukuTersayang-funkin.mmpz" target="_blank" rel="noopener noreferrer"/>
-            </p>
-            <EmbedAudio
-                title="Boyfriend, Girlfriend, & Pico sings Guruku Tersayang"
-                src="https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/Funkin/AFI%20Junior%20-%20Guruku%20Tersayang%20PSR%20S970%20UTI/gurukuTersayang-full-v4.ogg"
-                />
+<p>using <ButtonizedLink content="cifkao's HTML MIDI Player" href="https://github.com/cifkao/html-midi-player" target="_blank" rel="noopener noreferrer"/> <b class="info">(Demo MIDI included)</b></p>
+<p>and Demo MIDI from Duwindu's ColomboGMGS2 at <ButtonizedLink content="Here" href="https://archive.org/details/dawnsgmgs2" target="_blank" rel="noopener noreferrer"/></p>
+<p>Magenta Demo MIDIs at <ButtonizedLink content="Here" href="https://github.com/magenta/magenta-js/tree/master/music/demos" target="_blank" rel="noopener noreferrer"/> (you better clone entire Source code, I think..)</p>
+<!-- soundFont='https://player.odycdn.com/api/v4/streams/free/ColomboGMGS2/3801503b31ddfc0d5b742b86ba0079300d890371/039f66?download=true' -->
+<!-- soundFont='https://justanbucket.s3.eu-central-003.backblazeb2.com/Soundfont/ColomboGMGS2.sf2' -->
+<h3>Heathens (Duwindu's cover)</h3>
+    <Midi 
+        src="/assets/midi/dawn314/%28GS%29%20Twenty%20One%20Pilots%20-%20Heathens%2BLyrics.mid"
+        visualizer="#harleyQuinn"
+        visualizerBindId="harleyQuinn"
+        
+    />
+    <p>Unfortunately, Magenta JS only support converted soundfont, in Magenta's JSONed soundfont format, <ButtonizedLink content="& here's the only available Magenta Soundfont JSONs right now" href="https://magenta.github.io/magenta-js/music/index.html#soundfonts" target="_blank" rel="noopener noreferrer"/><br/>
+        let's convert it with <ButtonizedLink content="FalcoSoft MIDI Player" href="https://falcosoft.hu/softwares.html#midiplayer" target="_blank" rel="noopener noreferrer"/>, & convert the MIDI to WAV.
+    </p>
+    <!-- Space is `%20` -->
+    <!-- file `/assets/audio/MIDIConvertAudio/Tweny%20One%20Pilots%20-%20Heathens%20(Dawn314%20cover)%20(FalcoSoft).wav` over 100 MB 🗿 -->
+    <!-- Thumb `https://ia902803.us.archive.org/22/items/dawnsgmgs2/NewPP_GMXG%20Edit.png` -->
+    <!-- sauce `https://archive.org/details/dawnsgmgs2` -->
+    <!-- YouTube video about this `https://youtu.be/0BqCctHHxAQ` -->
+    <EmbedAudio
+        title="Twenty One Pilots - Heathen (from DC Suicide Squad movie), Duwindu's cover, using ColomboGMGS2 SF2"
+        src="https://player.odycdn.com/api/v4/streams/free/Twenty-One-Pilots---Heathens-(Dawn314-cover)-(FalcoSoft)/b1f8ed9e0fbf18e28ce7853179c20dcec31f356c/3e7958?download=true"
+        type="audio/wav"
+        />
+<h3>Jazz.mid</h3>
+    <p>Kay you know what, this above is not gonna work coz we have no way to have performance CDN here. let's use MIDI Player Demo files cifkao has</p>
+    <p>EDIT: The soundfont file is not RAW SF2 file!!! it's Magenta's JSONed file!!!</p>
+    <Midi 
+        src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/jazz.mid"
+        visualizer="#jazzman"
+        visualizerBindId="jazzman"
+    />
+<h3>Twinkle Little Star lite</h3>
+    <Midi 
+        src="https://cdn.jsdelivr.net/gh/cifkao/html-midi-player@2b12128/twinkle_twinkle.mid"
+        visualizer="#Kiraman"
+        visualizerBindId="Kiraman"
+    />
+<h3>Twine Melody</h3>
+    <Midi 
+        src="https://cdn.jsdelivr.net/gh/magenta/magenta-js@571b384/music/demos/melody.mid"
+        visualizer="#Kiraman2"
+        visualizerBindId="Kiraman2"
+    />
+<h3>Guruku Tersayang (Helly Hilmi's cover with JOELwindows7's improvement)</h3>
+    <p>here the 
+        <ButtonizedLink content="Guruku Tersayang MIDI" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/MIDI/JOELwindows7/MidiHacks/Guruku%20Tersayang_2%20-%20PSR%20UTI_GlueEdit.mid" target="_blank" rel="noopener noreferrer"/> 
+        we have had improved from Helly Hilmi's.
+    </p>
+    <Midi 
+        src="https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/MIDI/JOELwindows7/MidiHacks/Guruku%20Tersayang_2%20-%20PSR%20UTI_GlueEdit.mid"
+        visualizer="#GurukuTersayang"
+        visualizerBindId="GurukuTersayang"
+    />
+    <p>Now compare with our Funkined version <ButtonizedLink content="here" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Funkin/AFI%20Junior%20-%20Guruku%20Tersayang%20PSR%20S970%20UTI/gurukuTersayang-full-v4.ogg" target="_blank" rel="noopener noreferrer"/><br/>
+        which we have LMMS project at <ButtonizedLink content="there" href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/LMMS%20Project/gurukuTersayang-funkin.mmpz" target="_blank" rel="noopener noreferrer"/>
+    </p>
+    <EmbedAudio
+        title="Boyfriend, Girlfriend, & Pico sings Guruku Tersayang"
+        src="https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/Funkin/AFI%20Junior%20-%20Guruku%20Tersayang%20PSR%20S970%20UTI/gurukuTersayang-full-v4.ogg"
+        />
