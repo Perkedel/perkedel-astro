@@ -43,6 +43,10 @@
 # Shantae3DModels
 /Shantae3DModels /apss/3DModels
 /ShantaeFreeModel /apss/3DModels
+/3Dmodel /apss/3DModels
+/apps/3Dmodel /apss/3DModels
+/3Dmodels /apss/3DModels
+/Free3DModel /apss/3DModels
 
 # Not Found 404
 /not_found /404
