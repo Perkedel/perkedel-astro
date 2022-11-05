@@ -9,13 +9,29 @@ IMPORTANT!, Always watch what did you put in. Everything that you put in must be
 - For other types, the consequences applies only to original project, not its derivatives. e.g. Magic Lantern is $0, but there are some derivatives such as `A` version but it's not $0. we can shoo that out and hope protesters join in by improving Magic Lantern to have the same or better features as `A` had. different again if it wasn't, like say.. Original MIDI is not $0, We ask you to remake ones here same or better. 
 - If a file **That has already listed in this website where formerly was $0, Open Source, and/or FULL VERSION** suddenly become paywalled, proprietary, partial either this version or next, **Immediately comment NOT delete** the sauce link & create issue about this. For best resolution possible, apply Be Careful Violation No. 1 above. (TEMP) Please only apply to files that has already existed in this website at the time it's there. (TEMP MEAN: if void means `Also apply to files haven't been here yet`)
 - These Carefuls executes no matter who added the files whether Kaorfa himself, you, or anyone that proposed the features, etc.
+- **NEVER** Insert any content that you do not want to be 69420'd / Rule 34. By pull requesting to here, you are agree that all files to be allowed to be 69420 even if on the original site states otherwise. There has been rampant kamatussaisms going on here, and in Perkedel Technologies, kamatussa is not welcome.
+- Even in case of special situation (except age depiction) such as drama, **you still have to allow 69420 no matter what**. You may still leave warning about affromentioned situation, **except disallowing 69420 itself**.
 
-## OH NO! I didn't know! pls don't reupload my paid work for $0!!! I need to eat & buy vape & luxury sport cars!
+## Chances
+### OH NO! I didn't know! pls don't reupload my paid work for $0!!! I need to eat & buy vape & luxury sport cars!
 - You will be given chance to make change of your fork. Either comment `<!-- like this -->` the offending file or best which I hope you have, allow me reupload OR you grant exclusive permission with us for that these files for $0. You have no time limit but until the fate of pull request.
 - By default, unresponded pull request with offending links **will be closed**. that includes your extra useful informations.
 - By default, all existing $0 file that betrayed into not $0 or any betrayal **will also be commented out**
 - If there already too many closed pull request with this reason, Perkedel may execute `Extraction` campaign which is, we will merge as many as useful pull request, but don't worry, **offending files will be commented**, not buy & reupload. We're not evil monster 😉.
 - If there already too many betrayed files, Perkedel may execute `Meltdown` campaign which is we will reupload everything as much as we can **for $0**. Note that Kaorfa stated that it is rare, would be unthought by usual, and only by unknown occurence shall he do run this campaign.
+
+### YOU PERVERT!!! You talk to your mom like that?
+- You will be given chance to make change of your fork. Either comment `<!-- like this -->` the files or best which I hope you have, grant exclusive permission with us to allow 69420. You have no time limit but until the fate of pull request.
+- By default, unresponded pull request with kamatussa links ~~**will be merged with 69420 allowed no matter what**~~ **will be closed**. that includes your extra useful informations.
+- If there already too many closed pull request with this reason, Perkedel may execute `Extraction` campaign which is, we will merge as many as useful pull request, but don't worry, **kamatussa files will be commented OR kept as is with error added**, not force allow 69420. We're not evil monster 😉.
+- If there already too many betrayed files, Perkedel may execute `Meltdown` campaign which is we will edit and/or uncomment everything as much as we can **with 69420 allowed**. Note that Kaorfa stated that it is rare, would be unthought by usual, and only by unknown occurence shall he do run this campaign.
+
+### Jesus christ, chill! I *`ask you not to make porn`*, not *`it is illegal to make porn`*!!
+- Oh, Okay. So.. I still can 69420? Personally? No no, I have to publicize this video here, Just.. exclusive to Odysee.
+
+### um, yeah!
+- Oh thancc. I thought.
+- Man, kamatussa has been rampant these days. it makes me upset & felt that these people are lying, said they let us have it, but actually not. They aren't ready, gutless, to have their *artwork be used freely*. No, they could not. They have no such gut. Being letting your artwork used freely isn't just a simple grant. Every all grants, except the one that used to destroy (that's for another day). All you must allow, without expecting people to ask you one. Myself is shy & too lazy having to answer calls, you should too. That includes 69420. livings are perverts, me too! And that's by design, you can't deny this. So, unless you're too young at the moment, (interupt received: `Allow`) There you know! well, no need to say this again. I don't need to teach you again like a newbies because you are a big person already (kamu tuh udah gede), unless you are notorious for cheating in the copyright & licenses exam.
 
 
 ## How to do this?
@@ -60,6 +76,10 @@ Please have a look at the following checklist. You will need to **pass at score 
 #### Are you FULL VERSION?
 - Do you post everything all in one box? (YES)
 - Do you paywall the soft copy modules / DLC? (NO)
+- Do you allow commercial use i.e. no `dollar forbidden` symbol in your license? (Yes, I allow commercial use in context of Open source arcade machine e.g., excluding reupload as not $0)
+
+#### Are you person of Culture?
+- Do you allow 69420? (**ABSOPECKINGLUTELY YES**)
 
 ### OMG BACKGROUND SO HARD 💀💀💀💀💀💀💀💀!!! PLS GIVE ME SOME EXCEPTION!!! FAQ!!!
 It is up to the Kaorfa that will grant you gamers the exception. e.g., If you make 3d models that are not $0 but had its tutorial to make them like it exactly 1:1 like Ducky3D, then you maybe eligible for the exception. Again, make sure it's most of the tutorial, maximum paid tutorial is 1 per month or varies depending on Kaorfa's subjective choosing.
