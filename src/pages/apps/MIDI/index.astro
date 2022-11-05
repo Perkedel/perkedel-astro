@@ -5,6 +5,7 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import SFWExtraLinks from '../../../components/Elements/SFWExtraLinks.astro';
+import RandomPlayMIDIs from '@components/Elements/SparePart/RandomPlayMIDIs.astro';
 ---
 <Layout 
     title="MIDI"
@@ -30,4 +31,7 @@ import SFWExtraLinks from '../../../components/Elements/SFWExtraLinks.astro';
         <li><a href="https://hotlinecafe.com/midi.html" target="_blank" rel="noopener noreferrer">General MIDI Motel from hotlinecafe.com</a></li>
         <li><a href="https://freemidi.org" target="_blank" rel="noopener noreferrer">freemidi.org MIDI upload download</a></li>
       </ul>
+
+      <h2>Play MIDIs</h2>
+        <RandomPlayMIDIs/>
 </Layout>
