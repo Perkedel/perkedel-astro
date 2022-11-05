@@ -8,11 +8,14 @@ IMPORTANT!, Always watch what did you put in. Everything that you put in must be
 - (TEMP) For 3D model violations, the consequences only applies for if `.blend` file is not $0. This is temporary & may at times void anytime.
 - For other types, the consequences applies only to original project, not its derivatives. e.g. Magic Lantern is $0, but there are some derivatives such as `A` version but it's not $0. we can shoo that out and hope protesters join in by improving Magic Lantern to have the same or better features as `A` had. different again if it wasn't, like say.. Original MIDI is not $0, We ask you to remake ones here same or better. 
 - If a file **That has already listed in this website where formerly was $0, Open Source, and/or FULL VERSION** suddenly become paywalled, proprietary, partial either this version or next, **Immediately comment NOT delete** the sauce link & create issue about this. For best resolution possible, apply Be Careful Violation No. 1 above. (TEMP) Please only apply to files that has already existed in this website at the time it's there. (TEMP MEAN: if void means `Also apply to files haven't been here yet`)
+- These Carefuls executes no matter who added the files whether Kaorfa himself, you, or anyone that proposed the features, etc.
 
-## OH NO! I didn't know! pls don't reupload my paid work for $0!!!
+## OH NO! I didn't know! pls don't reupload my paid work for $0!!! I need to eat & buy vape & luxury sport cars!
 - You will be given chance to make change of your fork. Either comment `<!-- like this -->` the offending file or best which I hope you have, allow me reupload OR you grant exclusive permission with us for that these files for $0. You have no time limit but until the fate of pull request.
 - By default, unresponded pull request with offending links **will be closed**. that includes your extra useful informations.
+- By default, all existing $0 file that betrayed into not $0 or any betrayal **will also be commented out**
 - If there already too many closed pull request with this reason, Perkedel may execute `Extraction` campaign which is, we will merge as many as useful pull request, but don't worry, **offending files will be commented**, not buy & reupload. We're not evil monster 😉.
+- If there already too many betrayed files, Perkedel may execute `Meltdown` campaign which is we will reupload everything as much as we can **for $0**. Note that Kaorfa stated that it is rare, would be unthought by usual, and only by unknown occurence shall he do run this campaign.
 
 
 ## How to do this?
