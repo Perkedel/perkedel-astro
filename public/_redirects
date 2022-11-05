@@ -26,6 +26,20 @@
 /WinCEHacks /apps/wceload
 /WinCEHack /apps/wceload
 
+# CHDK & MagicLanter & GoPro
+/chdk /apps/wceload/Canon
+/ml /apps/wceload/Canon
+/MagicLantern /apps/wceload/Canon
+/GoProHack /apps/wceload/Canon
+/GoProHacks /apps/wceload/Canon
+/GoProHacking /apps/wceload/Canon
+/CanonHacking /apps/wceload/Canon
+/CanonHacks /apps/wceload/Canon
+/CanonHack /apps/wceload/Canon
+
+# Arduino
+/arduino /apps/wceload/Arduino
+
 # Shantae3DModels
 /Shantae3DModels /apss/3DModels
 /ShantaeFreeModel /apss/3DModels
