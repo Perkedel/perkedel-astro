@@ -4,6 +4,8 @@ import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be i
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
+import RandomWinCEVHDs from '@components/Elements/SparePart/RandomWinCEVHDs.astro';
+import RandomWinCEBonus from '@components/Elements/SparePart/RandomWinCEBonus.astro';
 ---
 <Layout 
     title="Windows CE, Mobile, & Phone Legacy" 
@@ -14,8 +16,15 @@ import Emoji from 'astro-emoji';
         <p>Every Windows CE series stuffs</p>
         <h2>What to do?</h2>
         <ul>
+            <!-- <li><ButtonizedLink href="winCE">???</ButtonizedLink></li> -->
+            <!-- <li><ButtonizedLink href="winCE" target="_blank" rel="noopener noreferrer">???</ButtonizedLink></li> -->
             <li><ButtonizedLink href="https://ppcplanet.org/" target="_blank" rel="noopener noreferrer">Pocket PC Planet</ButtonizedLink> Collected Windows CE & Mobile classic applications + serveral new original apps</li>
             <li><ButtonizedLink href="http://appcatalog.ppcplanet.org/" target="_blank" rel="noopener noreferrer">Pocket PC Planet App Catalog</ButtonizedLink> Brand new App Store for Windows CE & Mobile. <a href="https://github.com/Pocket-PC-Planet/PPCP-AppCatalog" target="_blank" rel="noopener noreferrer">Source code pls</a>!! also <a href="https://github.com/Pocket-PC-Planet" target="_blank" rel="noopener noreferrer">GitHub Organisation pls</a></li>
             <li><ButtonizedLink href="https://winworldpc.com/" target="_blank" rel="noopener noreferrer">WinWorld PC</ButtonizedLink> Collected ancient Windows x86 OS ISOs & other ancient stuffs</li>
+            <li><ButtonizedLink href={`https://onedrive.live.com/?authkey=%21APGZWB8OY8tE9Xo&id=8EA7CE299BC476C%214015&cid=08EA7CE299BC476C`} target="_blank" rel="noopener noreferrer">Entire Zune Archive folder</ButtonizedLink> in Griffen Sander</li>
         </ul>
+        <h2>VHDs & Emulator images</h2>
+            <RandomWinCEVHDs/>
+        <h2>MOAR WINDOWS CE STUFFS PLS!!!</h2>
+            <RandomWinCEBonus/>
 </Layout>
