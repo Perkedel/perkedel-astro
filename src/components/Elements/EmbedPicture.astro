@@ -1,0 +1,53 @@
+---
+export interface Props {
+    title?: string;
+    src?: string;
+    media?: string;
+    type? : string;
+    srcExtra?: Array<Array<string>>;
+    srcLastResort?: string;
+    typeLastResort? : string;
+    // description?: string;
+    // keywords?: string;
+    width?: string;
+    height?: string;
+    controls?: string;
+    autoplay?: string;
+    loop?: string;
+    preload?: string;
+    poster?:string;
+    muted?:string;
+    errorSay?: string;
+}
+
+const { 
+  title = 'embedded picture', 
+  type = 'image/png',
+  src,
+  media,
+  srcExtra, // ["sauce", "type", "media"]
+  srcLastResort,
+  typeLastResort,
+  width,
+  height,
+  controls='controls',
+  autoplay,
+  loop,
+  preload,
+  poster = '/assets/img/perkedelbannerrender4KDCI.png',
+  muted,
+  errorSay = '&#xea87; WERROR! &#xebde; Your browser cannot player HTML video! warm and bad! 😭',
+//   description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
+//   keywords = 'tech, fun, novelty, open source, gratis, free',
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- https://www.w3schools.com/tags/tag_picture.asp -->
+<!-- https://www.w3schools.com/html/html_images_picture.asp -->
+<picture>
+    <source media={media} type={type} srcset={src}>
+    {srcExtra.map((sauce)=>(
+        <source srcset={sauce[0]} type={sauce[1]} media={sauce[2]}/>
+      ))}
+    <img src={srcLastResort}/>
+    <slot/>
+</picture>
