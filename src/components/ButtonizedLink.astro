@@ -28,7 +28,8 @@ const {
 <!-- https://docs.astro.build/en/guides/integrations-guide/prefetch/ -->
 <a class="Buttonnize" target={target} rel={'prefetch ' + rel} href={href} title={title}>
     <slot name="prefix"/>
-    {content != ''? content: href}
+    <!-- {content != ''? content: href} -->
+    {content}
     <slot>
         
     </slot>
