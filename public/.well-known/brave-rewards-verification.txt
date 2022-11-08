@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: perkedel.netlify.app
+Token: b9bec23303f98aac40efb6b0774971052963bd6031c2d70be05ad04d908ca0d1
