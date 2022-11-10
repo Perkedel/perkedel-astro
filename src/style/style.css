@@ -711,6 +711,19 @@ https://nerdfonts.com
         /*size: 100px 50px;  */
         height: 50px;
     }
+    /* https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_tbody_css
+    https://www.w3schools.com/tags/tag_thead.asp
+    */
+    table,
+    th,
+    td {
+        border: 1px solid blue;
+    }
+    /* td a:visited, */
+    /* td .Buttonnize:visited {
+        background-color: rgba(139, 0, 139, 0.25);
+        color: white;
+    } */
     @media only screen and (max-width: 700px) {
         .ListGalleryStyle {
             width: 49.99999%;

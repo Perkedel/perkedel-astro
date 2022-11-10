@@ -1,0 +1,54 @@
+# Yoink template from Godot's issue template
+# https://github.com/godotengine/godot/blob/master/.github/ISSUE_TEMPLATE/bug_report.yml
+# https://github.com/godotengine/godot-proposals/blob/master/.github/ISSUE_TEMPLATE/feature_enhancement_proposal.yml
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Additions
+description: Open a new addition pull request
+labels: ["addition"]
+assignees:
+  - JOELwindows7
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      # Addition
+      - Write a descriptive addition title above.
+      - **This is only for simple addition request**, i.e. fork & pull is inefficient, i.e. too lazy to fork.
+      - **This is not Lore proposal!** for that, you go to https://github.com/Perkedel/After-church/issues. The template is available!
+      - **READ [`CONTRIBUTING.md`](https://github.com/Perkedel/perkedel-astro/blob/main/CONTRIBUTING.md )!!!** Very important.
+      - Expect embarrassing & pressuring interviews that makes you pressurized for about 2000 Psi & crushed like a tin can.
+      - You should not be pressured at all only if you are `Gratis, Open Source, & FULL VERSION!!!`.
+      - Search [open](https://github.com/Perkedel/perkedel-astro/pulls) and [closed](https://github.com/Perkedel/perkedel-astro/pulls?q=is%3Aissue+is%3Aclosed) proposals to ensure the proposals have not already been handled before.
+      - This is not for asking reupload & piracy. Please wait for the Zeronet / any DMCA-less from Admiral Zumi of Xop1r4t3 Eenvreensment to be deployed later.
+
+- type: input
+  id: title
+  attributes:
+    label: Write the Addition name
+    description: What's the addition basically described as? to the point!
+    placeholder: Example - "bla bla bla"
+  validations:
+    required: true
+
+- type: input
+  id: bugFixed
+  attributes:
+    label: Write the Pull Request & Issue references
+    description: Which proposals did you realized? write `#` followed with the issue ID. separate with space or comma.
+    placeholder: Example - "\#1 \#2 \#123 etc."
+  validations:
+    required: true
+  
+- type: textarea
+  id: details
+  attributes:
+    label: Addition Details
+    description: Describe the addition in detail. what have you added?
+    placeholder: |
+      Example:
+      - proposal ID ladhfhlkalkdjflka
+      - installed bla blab bla
+  validations:
+    required: true

@@ -108,3 +108,39 @@ The following are the sample case where Kaorfa no longer accept / Just reject yo
 - You are actively cracking down sparsdator either your own or someone else. Known your notoriety for DMCAing alot. ...
 - You hate fanarts especially fan games & DMCA everyone of them. Nintendo (Legal department which members are actively supporting this idea, not other Nintendo employees especially those who reject this idea either follow order or not)
 - You did not let anyone reupload lost 3D models & uncertain fate about that 3D model download. M... P..., ..., etc.
+
+#### FAQ
+##### Do I have to make sure I obey all of these?
+Yes. Although to be clear, if you only put some guides, then I think I can put aside the stuff you didn't promote. Well, if you do promote stuff, again that's when I'll get strict.
+
+##### Wait does that include everything?
+Yup. all of them, must be Downloadable, for $0, Open Source (PSD AI included), FULL VERSION (no censor allowed, no patreon / paid exclusive uncensor). **Even the old stuffs you embarrassed to share to the world.** But..
+
+##### OH MY GOD!!! You're an asshole! I hate you so much!!!
+I'm not finished yet, even you had old stuff you embarrassed to share hence you disable the download, or whatever patreon exclusive you had, **you still have chance to be accepted**.
+
+##### What, so you're gonna accept but comment out my promotion link of my patreon so you want me hungry?
+... Fine you win this time. It's our policy, unfortunately.  
+Look, I want to help you, but if I didn't have this rule here, all you get is cancelation, not just me for being a hypocrite, but you too. 
+<!-- Don't you know we have a visitors from X0p1r4t3 here? these citizen does something, and you could give a clue to them do get every measure, yeah you don't want ...  -->
+I can help you. Just bring the file here, **& I'll make sure that you who knows get the donation you've always wanted**. Look at FOSS developers out there, no! not that guy, these!! They also have free *beer*, and since they liked the *beer*, they buy them *coffee*. Easy as that. Company needs those *beer*, so look at them at the platinum sponsor tier, they gave them *wine coffee* so FOSS developer can brew the best *beer* world never imagined before.
+
+##### But
+I know, not all people going to have guts to just do it, they're stingy, I know. But you've already had those who better spend it somewhere instead of sport cars to hoard. Yeah? 
+
+##### No!! get my Patreon link here!!!
+(sigh)!... I'm trying to help you. If you insist, then it's a violation, we can't have that here. Our mission is to **`Share & Serve for Gratis, Open Source, & FULL VERSION!!!`**. Since you had the philosophy that goes against ours, **unfortunately you have to *pay everything* yourself**.  
+No no, I mean, **make your own website** like we do, with Netlify. We use **Astro** for the framework. [here template](https://github.com/netlify-templates/astro-quickstart ). Of course, all for $0. You don't need complex things now, all those free tier should be enough to get you started!  
+Hey, say thank you pls. At least I didn't tell you to get yourself.. **Wordpress.com** 💀💀💀💀💀💀💀.. Basically horrible idea by making website with website generator where you are required to have internet connection just to edit the site & has severely limited features & full of watermarks on $0 tier. You know.
+
+##### Ahei I have this file..
+Whoah, sorry, we cannot post that here. Please wait. We still need to get our Zeronet Port open first. Be patience, we're still figuring out how to get Zumi's website running.
+
+##### Wait what's that?
+Nah, he's just eager to showcase his finding with us
+
+##### NO! is that..
+Nothing, it's just a regular file, go on. we got customers here.
+
+##### You gotta..
+Okay (close call), next!

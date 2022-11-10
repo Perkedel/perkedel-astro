@@ -1,0 +1,48 @@
+# Yoink template from Godot's issue template
+# https://github.com/godotengine/godot/blob/master/.github/ISSUE_TEMPLATE/bug_report.yml
+# https://github.com/godotengine/godot-proposals/blob/master/.github/ISSUE_TEMPLATE/feature_enhancement_proposal.yml
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Bug Fix
+description: Open a new bugfix pull request
+labels: ["bugfix"]
+assignees:
+  - JOELwindows7
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      # Bug Fix
+      - Write a descriptive bug fix title above.
+      - Search [open](https://github.com/Perkedel/perkedel-astro/pulls) and [closed](https://github.com/Perkedel/perkedel-astro/pulls?q=is%3Aissue+is%3Aclosed) proposals to ensure the bugs have not already been handled before.
+      - This is not for asking reupload & piracy. Please wait for the Zeronet / any DMCA-less from Admiral Zumi of Xop1r4t3 Eenvreensment to be deployed later.
+
+- type: input
+  id: title
+  attributes:
+    label: Write the Bugfix name
+    description: What's the bugfix basically described as? to the point!
+    placeholder: Example - "Text fix"
+  validations:
+    required: true
+
+- type: input
+  id: bugFixed
+  attributes:
+    label: Write the Issue references
+    description: What bugs did you fix? write `#` followed with the issue ID. separate with space or comma.
+    placeholder: Example - "\#1 \#2 \#123 etc."
+  validations:
+    required: true
+  
+- type: textarea
+  id: details
+  attributes:
+    label: Bug Fix Details
+    description: Describe the bug fix in detail. How did you fixed it?
+    placeholder: |
+      Example - You have CSS mistake at line bal blanalblablba
+      also it conflict with the inline style you have at this page bla bla bla
+  validations:
+    required: true

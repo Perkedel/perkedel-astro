@@ -1,0 +1,39 @@
+# Yoink template from Godot's issue template
+# https://github.com/godotengine/godot/blob/master/.github/ISSUE_TEMPLATE/bug_report.yml
+# https://github.com/godotengine/godot-proposals/blob/master/.github/ISSUE_TEMPLATE/feature_enhancement_proposal.yml
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Bug
+description: Open a new bug report
+labels: ["bug"]
+assignees:
+  - JOELwindows7
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      # Bug report
+      - Write a descriptive bug title above.
+      - Search [open](https://github.com/Perkedel/perkedel-astro/issues) and [closed](https://github.com/Perkedel/perkedel-astro/issues?q=is%3Aissue+is%3Aclosed) proposals to ensure the bug has not already handled before.
+      - This is not for asking reupload & piracy. Please wait for the Zeronet / any DMCA-less from Admiral Zumi of Xop1r4t3 Eenvreensment to be deployed later.
+
+- type: input
+  id: title
+  attributes:
+    label: Write the Bug name
+    description: What's the bug basically described as? to the point!
+    placeholder: Example - "Text too big & out of screen"
+  validations:
+    required: true
+  
+- type: textarea
+  id: details
+  attributes:
+    label: Bug Details
+    description: Describe the bug in detail. .
+    placeholder: |
+      Example - "Text placed out of screen & too big..."
+      bla bla bla bla bla
+  validations:
+    required: true

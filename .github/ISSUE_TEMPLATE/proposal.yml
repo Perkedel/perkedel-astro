@@ -1,0 +1,43 @@
+# Yoink template from Godot's issue template
+# https://github.com/godotengine/godot/blob/master/.github/ISSUE_TEMPLATE/bug_report.yml
+# https://github.com/godotengine/godot-proposals/blob/master/.github/ISSUE_TEMPLATE/feature_enhancement_proposal.yml
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository
+
+name: Proposal
+description: Open a new Proposal
+labels: ["proposal"]
+assignees:
+  - JOELwindows7
+body:
+
+- type: markdown
+  attributes:
+    value: |
+      # Proposal
+      - Write a descriptive proposal title above.
+      - **This is only for simple addition request**, i.e. fork & pull is inefficient, i.e. too lazy to fork.
+      - **This is not Lore proposal!** for that, you go to https://github.com/Perkedel/After-church/issues. The template is available!
+      - Search [open](https://github.com/Perkedel/perkedel-astro/issues) and [closed](https://github.com/Perkedel/perkedel-astro/issues?q=is%3Aissue+is%3Aclosed) proposals to ensure the proposal has not already handled before.
+      - This is not for asking reupload & piracy. Please wait for the Zeronet / any DMCA-less from Admiral Zumi of Xop1r4t3 Eenvreensment to be deployed later.
+
+- type: input
+  id: title
+  attributes:
+    label: Write the Proposal name
+    description: What's the bug basically described as? to the point!
+    placeholder: Example - "I have this new sauce link"
+  validations:
+    required: true
+  
+- type: textarea
+  id: details
+  attributes:
+    label: Proposal Details
+    description: Describe the proposal in detail. .
+    placeholder: |
+      Example:
+      Please add to the page bla bla bla a
+      https://example.com
+      bla bla bla bla bla
+  validations:
+    required: true
