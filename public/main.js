@@ -314,18 +314,23 @@ let daWord = [
 //     daWord = data.daWord;
 //     console.log(daWord);
 // });
+getJSONP('/generateWord.json', function(data) {
+
+    daWord = data.daWord;
+    console.log(daWord);
+});
 
 
 function regenerateWord() {
     document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
 }
 
-$(function() {
-    $.getJSON('/generateWord.jsonc', function(data) {
-        daWord = data.daWord;
-        console.log(daWord);
-    });
-});
+// $(function() {
+//     $.getJSON('/generateWord.jsonc', function(data) {
+//         daWord = data.daWord;
+//         console.log(daWord);
+//     });
+// });
 regenerateWord();
 
 /*
