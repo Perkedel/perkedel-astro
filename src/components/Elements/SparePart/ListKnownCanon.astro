@@ -22,62 +22,63 @@ const listCameras:Array<Array<any>> = [
 ---
 <!-- https://www.w3schools.com/tags/tag_thead.asp -->
 <!-- https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_tbody -->
-<table>
-    <thead>
-      <tr>
-        <th>Model</th>
-        <th>Continuing?</th>
-        <th>Magic Lantern / CHDK</th>
-        <th>Hacked</th>
-        <th>Sauces</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- <tr>
-        <td>EOS 3000D / 4000D / Rebel T100</td>
-        <td>YES</td>
-      </tr> -->
-      {listCameras.map((thing)=>(
+<div style="overflow-x:auto;">
+    <table>
+        <thead>
         <tr>
-            <td>{thing[0]}</td>
-            <td style={thing[1]?"background-color:darkgreen;color:white;":"background-color:darkred;color:white;"}>{thing[1]? `YES`: `Discontinued`}</td>
-            <td>
-                {
-                    (
-                        ()=>{
-                            switch(thing[2])
-                            {
-                                case 0:
-                                    return `Magic Lantern`;
-                                case 1:
-                                    return `CHDK`;
-                                default:
-                                    return `???`;
-                            }
-                        }
-                    )()
-                }
-                </td>
-            <td style={(thing[3]?"background-color:darkgreen;color:white;":"background-color:darkred;color:white;")+"padding:.75em;"}><a class="Buttonnize" target="_blank" rel="noopener noreferrer" href={thing[5]}>{thing[3]?"Available":"Unavailable"}</a></td>
-            <td>
-                <ul>
-                    {thing[4].map((sauce)=>(
-                        <li><a target="_blank" rel="noopener noreferrer" href={sauce}>{sauce}</a></li>
-                    ))}
-                </ul>
-            </td>
+            <th>Model</th>
+            <th>Continuing?</th>
+            <th>Magic Lantern / CHDK</th>
+            <th>Hacked</th>
+            <th>Sauces</th>
         </tr>
-      ))}
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Cam</td>
-        <td>Com</td>
-        <td>Cem</td>
-      </tr>
-    </tfoot>
-  </table>
-
+        </thead>
+        <tbody>
+        <!-- <tr>
+            <td>EOS 3000D / 4000D / Rebel T100</td>
+            <td>YES</td>
+        </tr> -->
+        {listCameras.map((thing)=>(
+            <tr>
+                <td>{thing[0]}</td>
+                <td style={thing[1]?"background-color:darkgreen;color:white;":"background-color:darkred;color:white;"}>{thing[1]? `YES`: `Discontinued`}</td>
+                <td>
+                    {
+                        (
+                            ()=>{
+                                switch(thing[2])
+                                {
+                                    case 0:
+                                        return `Magic Lantern`;
+                                    case 1:
+                                        return `CHDK`;
+                                    default:
+                                        return `???`;
+                                }
+                            }
+                        )()
+                    }
+                    </td>
+                <td style={(thing[3]?"background-color:darkgreen;color:white;":"background-color:darkred;color:white;")+"padding:.75em;"}><a class="Buttonnize" target="_blank" rel="noopener noreferrer" href={thing[5]}>{thing[3]?"Available":"Unavailable"}</a></td>
+                <td>
+                    <ul>
+                        {thing[4].map((sauce)=>(
+                            <li><a target="_blank" rel="noopener noreferrer" href={sauce}>{sauce}</a></li>
+                        ))}
+                    </ul>
+                </td>
+            </tr>
+        ))}
+        </tbody>
+        <tfoot>
+        <tr>
+            <td>Cam</td>
+            <td>Com</td>
+            <td>Cem</td>
+        </tr>
+        </tfoot>
+    </table>
+</div>
   <!-- {thing[3].map((sauce)=>(
                         `<li><a href={sauce}>{sauce}</a><li>`
                     ))} -->
