@@ -290,6 +290,11 @@ function getJSONP(url, success) {
 
 }
 
+let kludgeringDatasoid;
+let daWordOfIt = [];
+
+
+
 // Generate Word pls
 // https://stackoverflow.com/questions/4550505/getting-a-random-value-from-a-javascript-array
 // https://stackoverflow.com/questions/13237421/how-to-generate-random-words-in-javascript
@@ -314,15 +319,23 @@ let daWord = [
 //     daWord = data.daWord;
 //     console.log(daWord);
 // });
-getJSONP('/generateWord.json', function(data) {
+// getJSONP('/generateWord.json', function(data) {
 
-    daWord = data.daWord;
-    console.log(daWord);
-});
+//     daWord = data.daWord;
+//     console.log(daWord);
+// });
+// getJSONF('/generateWord.json');
+// daWord = await getJSONF('/generateWord.json').daWord;
+// daWord = getJSONF('/generateWord.json').daWord;
+// daWord = kludgeringDatasoid.daWord;
+// daWord = daWordOfIt;
+// daWord = getJSONF('/generateWord.json').daWord;
+// console.log(kludgeringDatasoid);
 
 
 function regenerateWord() {
-    document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
+    // document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
+    document.getElementById('generateWord').innerHTML = daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
 }
 
 // $(function() {
@@ -331,7 +344,44 @@ function regenerateWord() {
 //         console.log(daWord);
 //     });
 // });
-regenerateWord();
+function getJSONF(url, kludgeGenerateWord = false) {
+    // https://www.telerik.com/blogs/what-is-json-how-to-handle-unexpected-token-error
+    // https://youtu.be/C3dfjyft_m4
+    // fetch(url, {
+    //     method: `GET`,
+    //     headers: {
+    //         "Content-Type": `application/json`,
+    //     }
+    // }).then(async response => {
+    //     try {
+    //         const data = await response.json();
+    //         console.log('response data?', data);
+    //         kludgeringDatasoid = data;
+    //         return data;
+    //     } catch (error) {
+    //         console.log('Error happened here!');
+    //         console.error(error);
+    //         return null;
+    //     }
+    // });
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            kludgeringDatasoid = data;
+            daWordOfIt = data.daWord;
+            // return data;
+            if (kludeGenerateWord)
+                regenerateWord();
+        });
+}
+// getJSONF('/generateWord.json').then(data => {
+//     regenerateWord();
+// });
+getJSONF('/generateWord.json', true);
+// regenerateWord();
+
+
 
 /*
 Moar Dump
