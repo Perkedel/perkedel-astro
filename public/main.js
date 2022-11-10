@@ -371,7 +371,7 @@ function getJSONF(url, kludgeGenerateWord = false) {
             kludgeringDatasoid = data;
             daWordOfIt = data.daWord;
             // return data;
-            if (kludeGenerateWord)
+            if (kludgeGenerateWord)
                 regenerateWord();
         });
 }
