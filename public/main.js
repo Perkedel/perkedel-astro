@@ -309,8 +309,12 @@ let daWord = [
     "Reugol",
     // "cally make this $0 wtf!!! I'm gonna use all my salary to get this done, so peck you!",
 ];
-getJSONP('/generateWord.jsonc', function(data) {
+// getJSONP('/generateWord.jsonc', function(data) {
 
+//     daWord = data.daWord;
+//     console.log(daWord);
+// });
+$.getJSON('/generateWord.jsonc', function(data) {
     daWord = data.daWord;
     console.log(daWord);
 });
