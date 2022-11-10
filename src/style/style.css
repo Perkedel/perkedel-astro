@@ -651,6 +651,51 @@ https://nerdfonts.com
         background-color: rgba(255, 165, 0, 1);
         /* & pls be transparent too if you can*/
     }
+    .SpecialityButton {
+        /*
+    https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+    */
+        /* display: none; */
+        /* Hidden by default */
+        /* position: fixed; */
+        /* Fixed/sticky position */
+        bottom: 20px;
+        /* Place the button at the bottom of the page */
+        right: 30px;
+        /* Place the button 30px from the right */
+        z-index: 99;
+        /* Make sure it does not overlap */
+        border: none;
+        /* Remove borders */
+        outline: none;
+        /* Remove outline */
+        background-color: rgb(0, 35, 100);
+        /* Fallback coloreng*/
+        background-color: rgba(0, 35, 100, 1);
+        /* Set a background color */
+        color: white;
+        /* Text color */
+        cursor: pointer;
+        /* Add a mouse pointer on hover */
+        padding: 15px;
+        /* Some padding */
+        border-radius: 30px;
+        /* Rounded corners */
+        font-size: 18px;
+        /* Increase font size */
+    }
+    .SpecialityButton:hover {
+        background-color: blue;
+        /* Add a orange background on hover */
+        background-color: rgba(0, 0, 255, 1);
+        /* & pls be transparent too if you can*/
+    }
+    .SpecialityButton:active {
+        background-color: orange;
+        /* Add a orange background on click */
+        background-color: rgba(255, 165, 0, 1);
+        /* & pls be transparent too if you can*/
+    }
     /*RSS generator CSS for 
   https://rss.bloople.net/
   */

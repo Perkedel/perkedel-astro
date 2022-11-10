@@ -312,7 +312,11 @@ let daWord = [
 getJSONP('/generateWord.jsonc', function(data) {
     daWord = data.daWord;
 });
-document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
+
+function regenerateWord() {
+    document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
+}
+regenerateWord();
 
 /*
 Moar Dump
