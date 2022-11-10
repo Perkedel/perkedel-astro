@@ -307,10 +307,12 @@ let daWord = [
     "<b>HEH SHOO <a href='https://youtu.be/4vGoth137VQ' target='blank' rel='noopener noreferrer'>💥💥💥💥💥</a>!!!</b>",
     "Attrend",
     "Reugol",
-    "cally make this $0 wtf!!! I'm gonna use all my salary to get this done, so peck you!",
+    // "cally make this $0 wtf!!! I'm gonna use all my salary to get this done, so peck you!",
 ];
 getJSONP('/generateWord.jsonc', function(data) {
+
     daWord = data.daWord;
+    console.log(daWord);
 });
 
 function regenerateWord() {
