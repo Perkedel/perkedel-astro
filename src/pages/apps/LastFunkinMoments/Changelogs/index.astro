@@ -85,8 +85,8 @@ const {
   themeColor = '#0000aa',
   ejectClarity = false,
   hideInfo = false,
+  SauceChangelogURL,
   SauceChangelogURLDirect,
-  SauceChangelogURLDirectDirect,
   appName = 'Last Funkin Moments',
   file,
   url,
@@ -95,8 +95,11 @@ const {
 ---
 <Layout
     title={title} 
+    name={name}
+    type={type}
     author={author} 
     description={description} 
+    descriptionPrefix={descriptionPrefix}
     keywords={keywords}
     date={date}
     dateMod={dateMod}
@@ -116,6 +119,7 @@ const {
     favIconAlt={favIconAlt}
     favIconAltType={favIconAltType}
     favIconHD={favIconHD}
+    favIconHDAlt={favIconHDAlt}
     favIconHDType={favIconHDType}
     favIconHDWidth={favIconHDWidth}
     favIconHDHeight={favIconHDHeight}
@@ -126,6 +130,10 @@ const {
     twitterCard={twitterCard || 'summary_large_image'}
     themeColor={themeColor || 'navy'}
     hideInfo={hideInfo}
+    ejectClarity={ejectClarity}
+    appName={appName}
+    SauceChangelogURL={SauceChangelogURL}
+    SauceChangelogURLDirect={SauceChangelogURLDirect}
     >
     <!-- & then Pls put this bellow VVVVVV on your changelog index -->
     {posts.map(post => <li slot="fillTheListNow"><a href={post.frontmatter.url}>{post.frontmatter.title}</a></li>)}
