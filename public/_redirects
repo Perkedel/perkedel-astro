@@ -20,6 +20,11 @@
 # RSS paginations
 /rss /rss.xml
 
+# Odysee LBRY
+/lbry /apps/odysee
+/odysee /apps/odysee
+/noYouTube /apps/odysee
+
 # wceload
 /wceload /apps/wceload
 /wceloads /apps/wceload
