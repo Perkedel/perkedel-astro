@@ -31,9 +31,9 @@ import LayoutEmbedGame from '../../../components/Layout/LayoutEmbedGame.astro'
     MiscEmbedsThings = {[
         // '<p>HELLO HELLO</p>',
         // '<p>HELLO HELLO2</p>',
-        <iframe frameborder="0" src="https://itch.io/embed/1486874?bg_color=0a0400&amp;fg_color=ebdf8f&amp;link_color=5b6cfa&amp;border_color=493c3c" width="552" height="167"><a href="https://joelwindows7.itch.io/tebenge">Tebenge by Perkedel Technologies</a></iframe>
-        <iframe src="https://widgets.gamejolt.com/package/v1?key=raNqWoai" frameborder="0" width="500" height="245"></iframe>
-        <iframe src="https://widgets.gamejolt.com/package/v1?key=hkUy97sa" frameborder="0" width="500" height="245"></iframe>
+        // <iframe frameborder="0" src="https://itch.io/embed/1486874?bg_color=0a0400&amp;fg_color=ebdf8f&amp;link_color=5b6cfa&amp;border_color=493c3c" width="552" height="167"><a href="https://joelwindows7.itch.io/tebenge">Tebenge by Perkedel Technologies</a></iframe>
+        // <iframe src="https://widgets.gamejolt.com/package/v1?key=raNqWoai" frameborder="0" width="500" height="245"></iframe>
+        // <iframe src="https://widgets.gamejolt.com/package/v1?key=hkUy97sa" frameborder="0" width="500" height="245"></iframe>
     ]}
     ChangelogURL = './Changelogs'
     ChangelogIsExternalTab = {false}
@@ -47,6 +47,9 @@ import LayoutEmbedGame from '../../../components/Layout/LayoutEmbedGame.astro'
     <p slot="inDescription">in Description</p>
     <p slot="inMiscEmbeds">in misc embeds</p>
     <p>Hello extra slot</p> -->
+    <iframe slot="inMiscEmbeds" frameborder="0" src="https://itch.io/embed/1486874?bg_color=0a0400&amp;fg_color=ebdf8f&amp;link_color=5b6cfa&amp;border_color=493c3c" width="552" height="167"><a href="https://joelwindows7.itch.io/tebenge">Tebenge by Perkedel Technologies</a></iframe>
+    <iframe slot="inMiscEmbeds" src="https://widgets.gamejolt.com/package/v1?key=raNqWoai" frameborder="0" width="500" height="245"></iframe>
+    <iframe slot="inMiscEmbeds" src="https://widgets.gamejolt.com/package/v1?key=hkUy97sa" frameborder="0" width="500" height="245"></iframe>
     <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
 
 </LayoutEmbedGame>
