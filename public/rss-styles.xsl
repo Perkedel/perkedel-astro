@@ -55,7 +55,8 @@
                 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
                 <!-- https://perkedel.netlify.app/assets/index.a862d9eb.css -->
                 <!-- <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.a862d9eb.css"/> -->
-                <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.b5c2cc52.css"/>
+                <!-- <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.b5c2cc52.css"/> -->
+                <link rel="stylesheet" href="https://github.com/Perkedel/perkedel-astro/raw/main/src/style/style.css"/>
                 <!-- <script src="/main.js">
                     </script> -->
                 <title>RSS | Perkedel Technologies Division NTLF+ASTR</title>

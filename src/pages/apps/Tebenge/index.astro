@@ -1,0 +1,53 @@
+---
+import LayoutEmbedGame from '../../../components/Layout/LayoutEmbedGame.astro'
+---
+<LayoutEmbedGame 
+    title="Tebenge"
+    name = "Tebenge. Shoot Bullet, ⚽ Tackle Bullet, Destroy Enemies, Avoid Enemy Bullet"
+    src="https://gotm.io/perkedel/tebenge?forceFullscreen=true"
+    style = 'border:none;'
+    height = '500px'
+    width = '100%'
+    author = 'JOELwindows7'
+    description = 'Tebenge. Shoot Bullet, ⚽ Tackle Bullet, Destroy Enemies, Avoid Enemy Bullet'
+    keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p, rogue, shooter, roguelike'
+    favIcon ='/favicon.ico'
+    favIconType ='image/x-icon'
+    favIconAlt ='/favicon.gif'
+    favIconAltType ='image/gif'
+    SauceURLs = {[
+        // ['Example','https://example.com','beforeLink','afterLink'],
+        // ['Example2','https://example.org','beforeLink','afterLink'],
+        ['https://github.com/Perkedel/Tebenge','https://github.com/Perkedel/Tebenge','Source Code',''],
+        ['<b>https://play.google.com/store/apps/details?id=com.Perkedel.tebenge</b>','https://play.google.com/store/apps/details?id=com.Perkedel.tebenge','<b>Google Play</b>','<b>RECOMMENDED</b>'],
+        ['https://gotm.io/perkedel/tebenge','https://gotm.io/perkedel/tebenge','gotm.io (Play Online, FAST PERFORMANCE)',''],
+        ['https://joelwindows7.itch.io/tebenge','https://joelwindows7.itch.io/tebenge','Itch.io (Play Online only)',''],
+        ['https://gamejolt.com/games/tebenge/709885','https://gamejolt.com/games/tebenge/709885','GameJolt (Play Online only + OpenCX ModPCK)',''],
+        ]}
+    MiscEmbedsURLs = {[
+        // ['Example','https://example.com','.75em', '200px'],
+        // ['Example2','https://example.org','.75em', '200px'],
+    ]}
+    MiscEmbedsThings = {[
+        // '<p>HELLO HELLO</p>',
+        // '<p>HELLO HELLO2</p>',
+        <iframe frameborder="0" src="https://itch.io/embed/1486874?bg_color=0a0400&amp;fg_color=ebdf8f&amp;link_color=5b6cfa&amp;border_color=493c3c" width="552" height="167"><a href="https://joelwindows7.itch.io/tebenge">Tebenge by Perkedel Technologies</a></iframe>
+        <iframe src="https://widgets.gamejolt.com/package/v1?key=raNqWoai" frameborder="0" width="500" height="245"></iframe>
+        <iframe src="https://widgets.gamejolt.com/package/v1?key=hkUy97sa" frameborder="0" width="500" height="245"></iframe>
+    ]}
+    ChangelogURL = './Changelogs'
+    ChangelogIsExternalTab = {false}
+    >
+    
+    <!-- Place your extra content here -->
+    <!-- VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV -->
+    <!-- https://docs.astro.build/en/core-concepts/astro-components/#slots -->
+    <!-- <p slot="aboveEmbed"><strong>Here Above the embed</strong></p>
+    <p slot="bellowEmbed"><strong>Here Bellow the embed</strong></p>
+    <p slot="inDescription">in Description</p>
+    <p slot="inMiscEmbeds">in misc embeds</p>
+    <p>Hello extra slot</p> -->
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
+</LayoutEmbedGame>
+<!-- IDEA: github action checkout other git, render, and then push the render to here -->

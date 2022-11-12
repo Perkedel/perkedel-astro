@@ -373,12 +373,13 @@ function getJSONF(url, kludgeGenerateWord = false) {
             // return data;
             if (kludgeGenerateWord)
                 regenerateWord();
+            // idk how to pause that function above until these here complete.
         });
 }
 // getJSONF('/generateWord.json').then(data => {
 //     regenerateWord();
 // });
-getJSONF('/generateWord.json', true);
+getJSONF('/assets/json/funnyWords/generateWord.json', true);
 // regenerateWord();
 
 

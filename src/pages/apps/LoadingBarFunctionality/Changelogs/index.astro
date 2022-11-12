@@ -1,0 +1,142 @@
+---
+import Layout from '../../../../components/Layout/LayoutChangelogIndex.astro'; // <- Pls put this here.
+const posts = await Astro.glob('./*.mdx'); // <- & this too, VERY IMPORTANT.
+
+export interface Props {
+  name?:string;
+  title?: string;
+  description?: string;
+  type?:string;
+  author?: string;
+  date?: string;
+  dateMod?: string;
+  dateExp?: string;
+  keywords?: string;
+  hideInfo?: boolean;
+  thumbnail?:string;
+  thumbnailType?:string;
+  thumbnailWidth?:number;
+  thumbnailHeight?:number;
+  thumbnailAlt?:string;
+  thumbnailAudio?:string;
+  thumbnailVideo?:string;
+  noIndex?:boolean;
+  noFollow?:boolean;
+  rating?:string;
+  favIcon?:string;
+  favIconType?:string;
+  favIconAlt?:string;
+  favIconAltType?:string;
+  favIconHD?:string;
+  favIconHDType?:string;
+  favIconHDAlt?:string;
+  favIconHDWidth?:number;
+  favIconHDHeight?:number;
+  charSet?:string;
+  language?:string;
+  twitterAuthor?:string;
+  twitterSite?:string;
+  twitterCard?:string;
+  themeColor?:string;
+  descriptionPrefix?: string;
+  viewSourceURL?: string;
+  ejectClarity?:boolean;
+  SauceChangelogURL?:string;
+  SauceChangelogURLDirect?:string;
+  appName?:string;
+}
+
+const { 
+  title = 'A Perkedel NTLF+ASTR Loading Bar Functionality Changelogs', 
+  name = title,
+  author = 'JOELwindows7',
+  description = 'Perkedel NTLF+ASTR. Changelogs List of Loading Bar Functionality',
+  keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
+  siteName = 'Perkedel Technologies Division NTLF+ASTR',
+  date,
+  dateMod,
+  dateExp,
+  thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+  thumbnailType = 'image/png',
+  thumbnailWidth = 4096,
+  thumbnailHeight = 2160,
+  thumbnailAlt = 'Perkedel banner',
+  thumbnailAudio,
+  thumbnailVideo,
+  type = 'website',
+  descriptionPrefix = 'DO NOT RATIO',
+  noIndex = false,
+  noFollow = false,
+  rating,
+  favIcon ='/favicon.ico',
+  favIconType ='image/x-icon',
+  favIconAlt ='/favicon.gif',
+  favIconAltType ='image/gif',
+  favIconHD = '/Perkedel_Icon.png',
+  favIconHDType = 'image/png',
+  favIconHDAlt = 'Perkedel icon',
+  favIconHDWidth = 600,
+  favIconHDHeight = 400,
+  charSet = 'UTF-8',
+  language = 'en',
+  twitterAuthor = '@'+author,
+  twitterSite = twitterAuthor,
+  twitterCard = 'summary_large_image' ,
+  themeColor = '#0000aa',
+  ejectClarity = false,
+  hideInfo = false,
+  SauceChangelogURL,
+  SauceChangelogURLDirect,
+  appName = 'Loading Bar Functionality',
+  file,
+  url,
+// } = Astro.props as Props;
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<Layout
+    title={title} 
+    name={name}
+    type={type}
+    author={author} 
+    description={description} 
+    descriptionPrefix={descriptionPrefix}
+    keywords={keywords}
+    date={date}
+    dateMod={dateMod}
+    dateExp={dateExp}
+    thumbnail={thumbnail}
+    thumbnailAlt={thumbnailAlt}
+    thumbnailType={thumbnailType}
+    thumbnailWidth={thumbnailWidth}
+    thumbnailHeight={thumbnailHeight}
+    thumbnailAudio={thumbnailAudio}
+    thumbnailVideo={thumbnailVideo}
+    noIndex={noIndex}
+    noFollow={noFollow}
+    rating={rating}
+    favIcon={favIcon}
+    favIconType={favIconType}
+    favIconAlt={favIconAlt}
+    favIconAltType={favIconAltType}
+    favIconHD={favIconHD}
+    favIconHDAlt={favIconHDAlt}
+    favIconHDType={favIconHDType}
+    favIconHDWidth={favIconHDWidth}
+    favIconHDHeight={favIconHDHeight}
+    charSet={charSet}
+    language={language}
+    twitterAuthor={twitterAuthor || '@' + author}
+    twitterSite={twitterSite || '@' + author}
+    twitterCard={twitterCard || 'summary_large_image'}
+    themeColor={themeColor || 'navy'}
+    hideInfo={hideInfo}
+    ejectClarity={ejectClarity}
+    appName={appName}
+    SauceChangelogURL={SauceChangelogURL}
+    SauceChangelogURLDirect={SauceChangelogURLDirect}
+    >
+    <!-- & then Pls put this bellow VVVVVV on your changelog index -->
+    {posts.map(post => <li slot="fillTheListNow"><a href={post.frontmatter.url}>{post.frontmatter.title}</a></li>)}
+    <!-- ^^^^^^^^^^^^^^ DO NOT FORGET!!! VERY IMPORTANT. -->
+
+</Layout>
