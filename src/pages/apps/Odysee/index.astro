@@ -1,0 +1,33 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import OdyseeDisclaimer from '@components/Elements/SparePart/OdyseeDisclaimer.astro';
+---
+<Layout 
+    title="Odysee" 
+    description="Perkedel NTLF+ASTR. Perkedel LBRY. visit our Odysee LBRY channel lbry://@JOELwindows7"
+    keywords="tech, fun, novelty, open source, gratis, free, lbry, decentralize, odysee, free speech, decentralized, crypto, cryptocurrency, lbc"
+    author={'JOELwindows7'}
+    >
+    <h1>Odysee LBRY</h1>
+      <h2>Lastest Video</h2>
+        <iframe id="odysee-iframe" width="560" height="315" src="https://odysee.com/$/embed/@JOELwindows7:a?feature=latest" allowfullscreen></iframe><br>
+        <a class="Buttonnize" href="https://odysee.com/$/latest/@JOELwindows7" target="_blank" rel="noopener noreferrer">View Latest Content</a>
+        <br>
+      <h2>Latest Livestream</h2>
+        <iframe id="odysee-iframe" width="560" height="315" src="https://odysee.com/$/embed/@JOELwindows7:a?feature=livenow" allowfullscreen></iframe><br>
+        <a class="Buttonnize" href="https://odysee.com/$/livenow/@JOELwindows7" target="_blank" rel="noopener noreferrer">View Latest Livestream</a>
+        <br>
+      <h2>RSS &#xf09e;</h2>
+        <!--https://www.w3schools.com/xml/xml_rss.asp-->
+        <a class="Buttonnize" href="https://odysee.com/$/rss/@JOELwindows7:a" target="_blank" rel="noopener noreferrer">
+          Click here to subscribe to our Odysee channel 👉 <img src="https://www.w3schools.com/xml/pic_rss.gif" width="36" height="14"> 👈
+        </a>
+        <!--lol da-baby rss lmao!!!-->
+      <h2>Join Odysee now!</h2>
+        <p>at <a class="Buttonnize" href="https://odysee.com/$/invite/@JOELwindows7" target="_blank" rel="noopener noreferrer">https://odysee.com/$/invite/@JOELwindows7</a> or your favourite invite link & get Full access of <b>FREEDOM*</b>, away from egregious & agenda based unfair takedowns</p>
+        <OdyseeDisclaimer/>
+</Layout>
