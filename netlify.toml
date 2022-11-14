@@ -6,20 +6,23 @@
   # publish = "public"
 
 # https://github.com/sw-yx/netlify-plugin-no-more-404#readme
-[[plugins]]
-package = "netlify-plugin-no-more-404"
+# [[plugins]]
+# package = "netlify-plugin-no-more-404"
 
-  # all inputs are optional, we just show you the defaults below
-  [plugins.inputs]
+#   # all inputs are optional, we just show you the defaults below
+#   [plugins.inputs]
   
-  # either "warn" or "error"
-  on404 = "warn" 
+#   # either "warn" or "error"
+#   on404 = "warn" 
   
-  # change this key to a new one any time you need to restart from scratch
-  cacheKey = "PerkedelCacheKey"
+#   # change this key to a new one any time you need to restart from scratch
+#   cacheKey = "PerkedelCacheKey"
   
-  # (for development) turn true for extra diagnostic logging
-  debugMode = false
+#   # (for development) turn true for extra diagnostic logging
+#   debugMode = false
+# bug! bigger cache overflow memory
+# Error: abort("Cannot enlarge memory arrays. Either (1) compile with  -s TOTAL_MEMORY=X  with X higher than the current value 16777216, (2) compile with  -s ALLOW_MEMORY_GROWTH=1  which allows increasing the size at runtime, or (3) if you want malloc to return NULL (0) instead of this abort, compile with  -s ABORTING_MALLOC=0 ") at Error
+# Oh man!!!
 
 # https://github.com/oliverroick/netlify-plugin-html-validate#readme
 # [[plugins]]
