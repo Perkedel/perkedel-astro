@@ -1,6 +1,6 @@
 [package]
-name = "Perkedel_ASTR"
-version = "2023.01.0"
+name = "app"
+version = "2023.1.0"
 description = "Perkedel NTLF+ASTR website packed with Tauri"
 authors = ["JOELwindows7"]
 license = "GNU AGPL v3"

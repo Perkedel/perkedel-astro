@@ -1,6 +1,6 @@
 {
     "name": "@perkedel/perkedel-astro",
-    "version": "2023.01.0",
+    "version": "2023.1.0",
     "private": true,
     "scripts": {
         "dev": "astro dev",
