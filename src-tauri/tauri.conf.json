@@ -1,0 +1,114 @@
+{
+    "$schema": "../node_modules/@tauri-apps/cli/schema.json",
+    "build": {
+        "beforeBuildCommand": "npm run build",
+        "beforeDevCommand": "npm run dev",
+        "devPath": "http://localhost:3000",
+        "distDir": "../dist"
+    },
+    "package": {
+        "productName": "Perkedel ASTR",
+        "version": "../package.json"
+    },
+    "tauri": {
+        "allowlist": {
+            "all": false,
+            "dialog": {
+                "all": true
+            },
+            "http": {
+                "all": true,
+                "request": false,
+                "scope": []
+            },
+            "path": {
+                "all": true
+            },
+            "clipboard": {
+                "all": true,
+                "readText": false,
+                "writeText": false
+            },
+            "window": {
+                "all": true,
+                "center": false,
+                "close": false,
+                "create": false,
+                "hide": false,
+                "maximize": false,
+                "minimize": false,
+                "print": false,
+                "requestUserAttention": false,
+                "setAlwaysOnTop": false,
+                "setCursorGrab": false,
+                "setCursorIcon": false,
+                "setCursorPosition": false,
+                "setCursorVisible": false,
+                "setDecorations": false,
+                "setFocus": false,
+                "setFullscreen": false,
+                "setIcon": false,
+                "setIgnoreCursorEvents": false,
+                "setMaxSize": false,
+                "setMinSize": false,
+                "setPosition": false,
+                "setResizable": false,
+                "setSize": false,
+                "setSkipTaskbar": false,
+                "setTitle": false,
+                "show": false,
+                "startDragging": false,
+                "unmaximize": false,
+                "unminimize": false
+            }
+        },
+        "bundle": {
+            "active": true,
+            "publisher": "Perkedel Technologies",
+            "category": "DeveloperTool",
+            "copyright": "Perkedel",
+            "deb": {
+                "depends": []
+            },
+            "externalBin": [],
+            "icon": [
+                "icons/32x32.png",
+                "icons/128x128.png",
+                "icons/128x128@2x.png",
+                "icons/icon.icns",
+                "icons/icon.ico"
+            ],
+            "identifier": "com.perkedel.astr",
+            "longDescription": "Perkedel Division NTLF+ASTR packed in Tauri. It's our website https://perkedel.netlify.app all packed inside as a binary executable with Tauri.",
+            "macOS": {
+                "entitlements": null,
+                "exceptionDomain": "",
+                "frameworks": [],
+                "providerShortName": null,
+                "signingIdentity": null
+            },
+            "resources": [],
+            "shortDescription": "Perkedel Division NTLF+ASTR packed in Tauri",
+            "targets": "all",
+            "windows": {
+                "certificateThumbprint": null,
+                "digestAlgorithm": "sha256",
+                "timestampUrl": ""
+            }
+        },
+        "security": {
+            "csp": null
+        },
+        "updater": {
+            "active": false
+        },
+        "windows": [{
+            "fullscreen": false,
+            "height": 1280,
+            "resizable": true,
+            "title": "Perkedel ASTR",
+            "width": 720
+        }]
+
+    }
+}
