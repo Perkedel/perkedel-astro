@@ -1,0 +1,58 @@
+{/* ```
+    In file included from config-temp/qemu-conf.c:1:
+/usr/include/xenctrl.h:505:54: note: expected ‘struct xen_domctl_createdomain *’ but argument is of type ‘uint8_t *’ {aka ‘unsigned char *’}
+  505 |                      struct xen_domctl_createdomain *config);
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+config-temp/qemu-conf.c:6:3: error: too many arguments to function ‘xc_domain_create’
+    6 |   xc_domain_create(xc, 0, handle, 0, NULL, NULL);
+      |   ^~~~~~~~~~~~~~~~
+In file included from config-temp/qemu-conf.c:1:
+/usr/include/xenctrl.h:504:5: note: declared here
+  504 | int xc_domain_create(xc_interface *xch, uint32_t *pdomid,
+      |     ^~~~~~~~~~~~~~~~
+gcc --std=gnu99 -fPIE -DPIE -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -fno-common -Wno-error=deprecated-declarations -Wno-error=address-of-packed-member -Wno-error=stringop-truncation -Wno-error=stringop-overflow -Wno-error=format-truncation -Wendif-labels -Wmissing-include-dirs -Wempty-body -Wnested-externs -Wformat-security -Wformat-y2k -Winit-self -Wignored-qualifiers -Wold-style-declaration -Wold-style-definition -Wtype-limits -fstack-protector-strong -o config-temp/qemu-conf.exe config-temp/qemu-conf.c -Wl,-z,relro -Wl,-z,now -pie -m64 -g -lxenstore -lxenctrl -lxenguest
+config-temp/qemu-conf.c: In function ‘main’:
+config-temp/qemu-conf.c:12:3: warning: implicit declaration of function ‘xc_hvm_set_mem_type’; did you mean ‘XEN_DMOP_set_mem_type’? [-Wimplicit-function-declaration]
+   12 |   xc_hvm_set_mem_type(0, 0, HVMMEM_ram_ro, 0, 0);
+      |   ^~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_set_mem_type
+config-temp/qemu-conf.c:12:3: warning: nested extern declaration of ‘xc_hvm_set_mem_type’ [-Wnested-externs]
+config-temp/qemu-conf.c:13:3: warning: implicit declaration of function ‘xc_gnttab_open’; did you mean ‘xc_gnttab_op’? [-Wimplicit-function-declaration]
+   13 |   xc_gnttab_open(NULL, 0);
+      |   ^~~~~~~~~~~~~~
+      |   xc_gnttab_op
+config-temp/qemu-conf.c:13:3: warning: nested extern declaration of ‘xc_gnttab_open’ [-Wnested-externs]
+config-temp/qemu-conf.c:15:3: warning: implicit declaration of function ‘xc_hvm_inject_msi’; did you mean ‘XEN_DMOP_inject_msi’? [-Wimplicit-function-declaration]
+   15 |   xc_hvm_inject_msi(xc, 0, 0xf0000000, 0x00000000);
+      |   ^~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_inject_msi
+config-temp/qemu-conf.c:15:3: warning: nested extern declaration of ‘xc_hvm_inject_msi’ [-Wnested-externs]
+config-temp/qemu-conf.c:16:3: warning: implicit declaration of function ‘xc_hvm_create_ioreq_server’; did you mean ‘XEN_DMOP_create_ioreq_server’? [-Wimplicit-function-declaration]
+   16 |   xc_hvm_create_ioreq_server(xc, 0, HVM_IOREQSRV_BUFIOREQ_ATOMIC, NULL);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_create_ioreq_server
+config-temp/qemu-conf.c:16:3: warning: nested extern declaration of ‘xc_hvm_create_ioreq_server’ [-Wnested-externs]
+gcc --std=gnu99 -Werror -fPIE -DPIE -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -fno-common -Wno-error=deprecated-declarations -Wno-error=address-of-packed-member -Wno-error=stringop-truncation -Wno-error=stringop-overflow -Wno-error=format-truncation -Wendif-labels -Wmissing-include-dirs -Wempty-body -Wnested-externs -Wformat-security -Wformat-y2k -Winit-self -Wignored-qualifiers -Wold-style-declaration -Wold-style-definition -Wtype-limits -fstack-protector-strong -o config-temp/qemu-conf.exe config-temp/qemu-conf.c -Wl,-z,relro -Wl,-z,now -pie -m64 -g -lxenstore -lxenctrl -lxenguest
+config-temp/qemu-conf.c: In function ‘main’:
+config-temp/qemu-conf.c:12:3: error: implicit declaration of function ‘xc_hvm_set_mem_type’; did you mean ‘XEN_DMOP_set_mem_type’? [-Werror=implicit-function-declaration]
+   12 |   xc_hvm_set_mem_type(0, 0, HVMMEM_ram_ro, 0, 0);
+      |   ^~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_set_mem_type
+config-temp/qemu-conf.c:12:3: error: nested extern declaration of ‘xc_hvm_set_mem_type’ [-Werror=nested-externs]
+config-temp/qemu-conf.c:13:3: error: implicit declaration of function ‘xc_gnttab_open’; did you mean ‘xc_gnttab_op’? [-Werror=implicit-function-declaration]
+   13 |   xc_gnttab_open(NULL, 0);
+      |   ^~~~~~~~~~~~~~
+      |   xc_gnttab_op
+config-temp/qemu-conf.c:13:3: error: nested extern declaration of ‘xc_gnttab_open’ [-Werror=nested-externs]
+config-temp/qemu-conf.c:15:3: error: implicit declaration of function ‘xc_hvm_inject_msi’; did you mean ‘XEN_DMOP_inject_msi’? [-Werror=implicit-function-declaration]
+   15 |   xc_hvm_inject_msi(xc, 0, 0xf0000000, 0x00000000);
+      |   ^~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_inject_msi
+config-temp/qemu-conf.c:15:3: error: nested extern declaration of ‘xc_hvm_inject_msi’ [-Werror=nested-externs]
+config-temp/qemu-conf.c:16:3: error: implicit declaration of function ‘xc_hvm_create_ioreq_server’; did you mean ‘XEN_DMOP_create_ioreq_server’? [-Werror=implicit-function-declaration]
+   16 |   xc_hvm_create_ioreq_server(xc, 0, HVM_IOREQSRV_BUFIOREQ_ATOMIC, NULL);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_create_ioreq_server
+config-temp/qemu-conf.c:16:3: error: nested extern declaration of ‘xc_hvm_create_ioreq_server’ [-Werror=nested-externs]
+cc1: all warnings being treated as errors
+    ``` */}
