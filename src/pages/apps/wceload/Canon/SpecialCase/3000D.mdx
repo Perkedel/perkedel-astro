@@ -63,7 +63,7 @@ JOELwindows7: I have this camera. I gotta get this running!
     - nvm, it goes again. Yes, it took long time.
     - Let the script compile QEMU as well.
     - damn! it errors again!
-    ```
+    {/* ```
     In file included from config-temp/qemu-conf.c:1:
 /usr/include/xenctrl.h:505:54: note: expected ‘struct xen_domctl_createdomain *’ but argument is of type ‘uint8_t *’ {aka ‘unsigned char *’}
   505 |                      struct xen_domctl_createdomain *config);
@@ -120,7 +120,7 @@ config-temp/qemu-conf.c:16:3: error: implicit declaration of function ‘xc_hvm_
       |   XEN_DMOP_create_ioreq_server
 config-temp/qemu-conf.c:16:3: error: nested extern declaration of ‘xc_hvm_create_ioreq_server’ [-Werror=nested-externs]
 cc1: all warnings being treated as errors
-    ```
+    ``` */}
     - kay you know what, like said just bypass those `WError` with `./configure-eos --disable-werror` in the `qemu-eos/qemu-2.5.0` directory. keep in mind the `qemu-eos` repo is outside this `magic-lantern` directory!
     - try just do
     - **still error!** here last [`install.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/install.log) & [`config.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/config.log). Pls help what's wrong?!?!?!??!?!??!???!
