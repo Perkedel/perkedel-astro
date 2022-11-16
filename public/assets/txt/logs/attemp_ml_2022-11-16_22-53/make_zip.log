@@ -1,0 +1,210 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/magic-lantern/platform/500D.111$ make zip |& tee make.log
+Using /home/joelwindows7/gcc-arm-none-eabi-7-2018-q2-update/bin/arm-none-eabi-gcc (from PATH).
+../../Makefile.inc:81: removing ../../platform/*/magiclantern.sym
+[ RM dir   ]   /home/joelwindows7/sauce/magic-lantern/platform/500D.111/zip/
+[ RM       ]   ../../platform/*/magiclantern.sym
+mkdir -p /home/joelwindows7/sauce/magic-lantern/platform/500D.111/zip
+[ MKDIR    ]   ML directory structure...
+[ CPP      ]   magiclantern.lds
+[ AS       ]   entry.o
+[ AS       ]   ../../platform/500D.111/stubs.o
+[ VERSION  ]   ../../platform/500D.111/version.c
+[ CC       ]   version.o
+[ CC       ]   backtrace.o
+[ CC       ]   boot-hack.o
+[ CC       ]   fio-ml.o
+[ CC       ]   mem.o
+../../src/mem.c: In function 'mem_total_display':
+../../src/mem.c:1387:13: warning: unused variable 'total' [-Wunused-variable]
+         int total = alloc_total_with_memcheck / 1024;
+             ^~~~~
+[ CC       ]   ico.o
+[ CC       ]   edmac.o
+../../src/edmac.c: In function 'edmac_channel_to_index':
+../../src/edmac.c:56:13: warning: this statement may fall through [-Wimplicit-fallthrough=]
+             for (int i = 0; i < COUNT(read_edmacs); i++)
+             ^~~
+../../src/edmac.c:60:9: note: here
+         case EDMAC_DIR_WRITE:
+         ^~~~
+[ CC       ]   menu.o
+../../src/menu.c: In function 'menu_draw_icon':
+../../src/menu.c:1827:13: warning: this 'else' clause does not guard... [-Wmisleading-indentation]
+             else slider(x, y, i-1, N-1, color_slider_off_fg, color_slider_bg); return;
+             ^~~~
+../../src/menu.c:1827:80: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'else'
+             else slider(x, y, i-1, N-1, color_slider_off_fg, color_slider_bg); return;
+                                                                                ^~~~~~
+../../src/menu.c: In function 'handle_ml_menu_keys':
+../../src/menu.c:4511:12: warning: this statement may fall through [-Wimplicit-fallthrough=]
+         if (edit_mode && !menu_lv_transparent_mode)
+            ^
+../../src/menu.c:4520:5: note: here
+     case BGMT_WHEEL_UP:
+     ^~~~
+../../src/menu.c:4534:12: warning: this statement may fall through [-Wimplicit-fallthrough=]
+         if (edit_mode && !menu_lv_transparent_mode)
+            ^
+../../src/menu.c:4543:5: note: here
+     case BGMT_WHEEL_DOWN:
+     ^~~~
+../../src/menu.c:123:40: warning: this statement may fall through [-Wimplicit-fallthrough=]
+ #define EDIT_OR_TRANSPARENT (edit_mode || menu_lv_transparent_mode)
+                             ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../../src/menu.c:4557:12: note: in expansion of macro 'EDIT_OR_TRANSPARENT'
+         if(EDIT_OR_TRANSPARENT)
+            ^~~~~~~~~~~~~~~~~~~
+../../src/menu.c:4567:5: note: here
+     case BGMT_WHEEL_RIGHT:
+     ^~~~
+../../src/menu.c:123:40: warning: this statement may fall through [-Wimplicit-fallthrough=]
+ #define EDIT_OR_TRANSPARENT (edit_mode || menu_lv_transparent_mode)
+                             ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+../../src/menu.c:4576:12: note: in expansion of macro 'EDIT_OR_TRANSPARENT'
+         if(EDIT_OR_TRANSPARENT)
+            ^~~~~~~~~~~~~~~~~~~
+../../src/menu.c:4586:5: note: here
+     case BGMT_WHEEL_LEFT:
+     ^~~~
+[ CC       ]   debug.o
+[ CC       ]   rand.o
+[ CC       ]   posix.o
+[ CC       ]   util.o
+[ CC       ]   imath.o
+[ CC       ]   electronic_level.o
+[ CC       ]   cfn.o
+[ CC       ]   gui.o
+[ CC       ]   picstyle-noauto.o
+[ CC       ]   exmem.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   config.o
+[ CC       ]   stdio.o
+[ CC       ]   bitrate.o
+[ CC       ]   lcdsensor.o
+[ CC       ]   tweaks.o
+[ CC       ]   tweaks-eyefi.o
+[ CC       ]   lens.o
+[ CC       ]   property.o
+[ CC       ]   propvalues.o
+[ CC       ]   gui-common.o
+[ CC       ]   chdk-gui_draw.o
+[ CC       ]   movtweaks.o
+[ CC       ]   menuhelp.o
+[ CC       ]   menuindex.o
+[ CC       ]   af_patterns.o
+[ CC       ]   focus.o
+[ CC       ]   notify_box.o
+[ CC       ]   bootflags.o
+../../src/bootflags.c:73:37: warning: 'boot_flags' defined but not used [-Wunused-const-variable=]
+ static struct boot_flags * const    boot_flags = NVRAM_BOOTFLAGS;;
+                                     ^~~~~~~~~~
+[ CC       ]   dialog_test.o
+[ CC       ]   vram.o
+[ CC       ]   greenscreen.o
+[ CC       ]   fps-engio.o
+../../src/fps-engio.c:300:12: warning: 'fps_timer_b_method' defined but not used [-Wunused-variable]
+ static int fps_timer_b_method = 0;
+            ^~~~~~~~~~~~~~~~~~
+[ CC       ]   shoot.o
+../../src/shoot.c: In function 'hdr_auto_take_pics':
+../../src/shoot.c:4843:5: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+     if (!under) UNDER = 0; if (!over) OVER = 0;
+     ^~
+../../src/shoot.c:4843:28: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+     if (!under) UNDER = 0; if (!over) OVER = 0;
+                            ^~
+../../src/shoot.c:4855:21: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                     ^~
+../../src/shoot.c:4855:44: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                                            ^~
+../../src/shoot.c:4863:21: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                     ^~
+../../src/shoot.c:4863:44: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                                            ^~
+../../src/shoot.c:4877:21: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                     ^~
+../../src/shoot.c:4877:44: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                                            ^~
+../../src/shoot.c:4891:21: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                     ^~
+../../src/shoot.c:4891:44: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+                     if (!under) UNDER = 0; if (!over) OVER = 0;
+                                            ^~
+[ CC       ]   hdr.o
+[ CC       ]   lv-img-engio.o
+[ CC       ]   state-object.o
+[ CC       ]   tasks.o
+[ CC       ]   vsync-lite.o
+[ CC       ]   tskmon.o
+[ CC       ]   battery.o
+[ CC       ]   imgconv.o
+[ CC       ]   histogram.o
+[ CC       ]   falsecolor.o
+[ CC       ]   audio-ak.o
+[ CC       ]   zebra.o
+[ CC       ]   vectorscope.o
+[ CC       ]   beep.o
+[ CC       ]   crop-mode-hack.o
+[ CC       ]   ph_info_disp.o
+[ CC       ]   flexinfo.o
+[ CC       ]   screenshot.o
+[ CC       ]   fileprefix.o
+[ CC       ]   lvinfo.o
+[ CC       ]   builtin-enforcing.o
+[ CC       ]   powersave.o
+[ CC       ]   ml-cbr.o
+[ CC       ]   raw.o
+../../src/raw.c: In function 'raw_update_params_work':
+../../src/raw.c:574:10: warning: #warning FIXME: are these values correct for 1080p or 720p? (which of them?) [-Wcpp]
+         #warning FIXME: are these values correct for 1080p or 720p? (which of them?)
+          ^~~~~~~
+[ CC       ]   chdk-dng.o
+[ CC       ]   edmac-memcpy.o
+../../src/edmac-memcpy.c: In function 'edmac_memcpy_init':
+../../src/edmac-memcpy.c:86:57: warning: initialization makes integer from pointer without a cast [-Wint-conversion]
+     static int AbortEDmac_check __attribute__((used)) = &AbortEDmac;
+                                                         ^
+[ CC       ]   console.o
+[ CC       ]   tcc-glue.o
+make -C ../../tcc
+make[1]: Entering directory '/home/joelwindows7/sauce/magic-lantern/tcc'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/joelwindows7/sauce/magic-lantern/tcc'
+[ CC       ]   module.o
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ SYMBOLS  ]   magiclantern.sym
+[ CP       ]   500D_111.sym
+[ CP       ]   install
+cp ML-SETUP.FIR /home/joelwindows7/sauce/magic-lantern/platform/500D.111/zip/
+[ VERSION  ]   ../../platform/500D.111/version.bin
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 441096 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec
+[ OBJCOPY  ]   autoexec.bin
+[ XOR_CHK  ]   autoexec.bin
+cp autoexec.bin /home/joelwindows7/sauce/magic-lantern/platform/500D.111/zip/
+cp ../../data/fonts/*.rbf /home/joelwindows7/sauce/magic-lantern/platform/500D.111/zip/ML/fonts/
+cp ../../data/vram/*.lut /home/joelwindows7/sauce/magic-lantern/platform/500D.111/zip/ML/data/
+cp ../../data/cropmks/*.bmp /home/joelwindows7/sauce/magic-lantern/platform/500D.111/zip/ML/cropmks/
+[ SCRIPTS  ]   install_extra_data
+/bin/sh: 1: Bad substitution
+make: *** [../../Makefile.inc:41: install_extra_data] Error 2
