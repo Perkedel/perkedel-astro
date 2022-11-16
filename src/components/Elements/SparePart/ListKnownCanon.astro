@@ -71,7 +71,7 @@ const listCameras:Array<Array<any>> = [
                 <td style={(thing[3]?"background-color:darkgreen;color:white;":"background-color:darkred;color:white;")+"padding:.75em;"}><a class="Buttonnize" target="_blank" rel="noopener noreferrer" href={thing[5]}>{thing[3]?"Available":"Unavailable"}</a></td>
                 <td>
                     <ul>
-                        {thing[4].map((sauce)=>(
+                        {thing[4].map((sauce: string)=>(
                             <li><a target="_blank" rel="noopener noreferrer" href={sauce}>{sauce}</a></li>
                         ))}
                     </ul>

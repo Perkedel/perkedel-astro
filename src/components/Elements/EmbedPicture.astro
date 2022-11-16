@@ -45,7 +45,7 @@ const {
 <!-- https://www.w3schools.com/html/html_images_picture.asp -->
 <picture>
     <source media={media} type={type} srcset={src}>
-    {srcExtra.map((sauce)=>(
+    {srcExtra.map((sauce:Array<string>)=>(
         <source srcset={sauce[0]} type={sauce[1]} media={sauce[2]}/>
       ))}
     <img src={srcLastResort}/>

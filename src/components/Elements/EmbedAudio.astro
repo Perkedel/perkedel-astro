@@ -34,7 +34,7 @@ const {
 
 <audio controls={controls} autoplay={autoplay} loop={loop} preload={preload} muted={muted}>
     <source src={src} type={type}/>
-    {srcExtra.map((sauce)=>(
+    {srcExtra.map((sauce:Array<string>)=>(
       <source src={sauce[0]} type={sauce[1]}/>
     ))}
     <p class="error">{errorSay}</p>

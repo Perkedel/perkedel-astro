@@ -10,7 +10,7 @@ import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astr
 import NoScriptMsg from './Messages/NoScript.astro';
 // import 'https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'
 // import 'https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'
-import '../style/style.css';
+// import '../style/style.css';
 
 // https://github.com/cifkao/html-midi-player/issues/48
 import { PianoRollSVGVisualizer } from '@magenta/music/esm/core.js'; // 
@@ -140,12 +140,13 @@ const {
   <link rel="icon" type="image/x-icon" href={favIcon} />
   <!-- <link rel="stylesheet" href="https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css"> -->
   <!-- <link rel="stylesheet" href="https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css"> -->
+  <link rel="stylesheet" href="/style.css"/>
 
   <!--jQuery without Google
     https://releases.jquery.com/
     https://jquery.com/
     -->
-  <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+  <script is:inline src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
   <!--Mermaid for diagram
     mermaid-js.github.io
     https://mermaid-js.github.io/mermaid/#/n00b-gettingStarted?id=requirements-for-the-mermaid-api
@@ -249,7 +250,7 @@ const {
   // eslint-disable-nextline @typescript-eslint/ban-ts-comment
   // @ts-ignore
   ejectClarity?{}:
-    <script>
+    <script is:inline>
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";

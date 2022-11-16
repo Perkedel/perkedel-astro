@@ -173,12 +173,13 @@ const {
       <!-- <a class="Buttonnize" href={ChangelogURL}>&#xeb43; Click here to view changelogs</a> -->
     <h2>Misc Embeds</h2>
       <div id="divMiscEmbeds" style="overflow-x:auto;">
-        {MiscEmbedsURLs.map((thueing)=>(
+        {MiscEmbedsURLs.map((thueing:Array<string>)=>(
           <EmbedRAWHTML src={thueing[1]} title={thueing[0]} width={thueing[2]} height={thueing[3]}/><br/>
         ))}
-        {MiscEmbedsThings.map((thiing)=>(
-          <span>{thiing}</span><br/>
+        {MiscEmbedsThings.map((thiing:string)=>(
+          <p>{thiing}</p><br/>
           // ({thiing}<br/>)
+          // {thiing}<br/>
         ))}
         <slot name="inMiscEmbeds"/>
       </div>
