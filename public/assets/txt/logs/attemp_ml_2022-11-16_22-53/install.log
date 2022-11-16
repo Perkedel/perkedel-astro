@@ -1,0 +1,126 @@
+
+This will setup QEMU for emulating Magic Lantern.
+Thou shalt not be afraid of compiling stuff on Linux ;)
+Continue? [y/n] 
+*** You have a valid ARM GCC/GDB already installed - using that one.
+*** Checking dependencies for Ubuntu/Debian...
+
+
+*** Using GCC: /home/joelwindows7/gcc-arm-none-eabi-7-2018-q2-update/bin/arm-none-eabi-gcc
+gcc version 7.3.1 20180622 (release) [ARM/embedded-7-branch revision 261907] (GNU Tools for Arm Embedded Processors 7-2018-q2-update) 
+
+*** Using GDB: /home/joelwindows7/gcc-arm-none-eabi-7-2018-q2-update/bin/arm-none-eabi-gdb
+GNU gdb (GNU Tools for Arm Embedded Processors 7-2018-q2-update) 8.1.0.20180315-git
+
+docutils               0.17.1
+vncdotool              1.0.0
+
+*** Setting up QEMU in /home/joelwindows7/sauce/qemu-eos/ ...
+
+*** Directory /home/joelwindows7/sauce/qemu-eos/qemu-2.5.0 already exists.
+*** To reinstall, please rename or delete it first.
+
+- R or r       : rename to /home/joelwindows7/sauce/qemu-eos/qemu-2.5.0_2022-11-16_22-09-15/
+- C or c       : make clean & rename to /home/joelwindows7/sauce/qemu-eos/qemu-2.5.0_2022-11-16_22-09-15/
+- uppercase D  : delete /home/joelwindows7/sauce/qemu-eos/qemu-2.5.0/ without confirmation (!)
+- any other key: cancel the operation (exit the script)
+
+Your choice? make: Entering directory '/home/joelwindows7/sauce/qemu-eos/qemu-2.5.0'
+rm -f config.mak op-i386.h opc-i386.h gen-op-i386.h op-arm.h opc-arm.h gen-op-arm.h
+rm -f qemu-options.def
+rm -f *.msi
+find . \( -name '*.l[oa]' -o -name '*.so' -o -name '*.dll' -o -name '*.mo' -o -name '*.[oda]' \) -type f -exec rm {} +
+rm -f   qemu-ga TAGS cscope.* *.pod *~ */*~
+rm -f fsdev/*.pod
+rm -rf .libs */.libs
+rm -f qemu-img-cmds.h
+rm -f ui/shader/*-vert.h ui/shader/*-frag.h
+rm -f trace/generated-tracers-dtrace.dtrace*
+rm -f trace/generated-tracers-dtrace.h*
+rm -f config-host.h config-host.h-timestamp qemu-options.def qemu-options.def-timestamp qmp-commands.h qmp-commands.h-timestamp qapi-types.h qapi-types.h-timestamp qapi-visit.h qapi-visit.h-timestamp qapi-event.h qapi-event.h-timestamp qmp-introspect.h qmp-introspect.h-timestamp trace/generated-events.h trace/generated-events.h-timestamp trace/generated-tracers.h trace/generated-tracers.h-timestamp trace/generated-tcg-tracers.h trace/generated-tcg-tracers.h-timestamp trace/generated-helpers-wrappers.h trace/generated-helpers-wrappers.h-timestamp trace/generated-helpers.h trace/generated-helpers.h-timestamp
+rm -f qmp-marshal.c qmp-marshal.c-timestamp qapi-types.c qapi-types.c-timestamp qapi-visit.c qapi-visit.c-timestamp qapi-event.c qapi-event.c-timestamp qmp-introspect.c qmp-introspect.c-timestamp trace/generated-events.c trace/generated-events.c-timestamp trace/generated-tracers.c trace/generated-tracers.c-timestamp trace/generated-helpers.c trace/generated-helpers.c-timestamp
+rm -rf qapi-generated
+rm -rf qga/qapi-generated
+for d in  ; do \
+if test -d $d; then make -C $d clean || exit 1; fi; \
+rm -f $d/qemu-options.def; \
+        done
+make: Leaving directory '/home/joelwindows7/sauce/qemu-eos/qemu-2.5.0'
+
+
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint: 
+hint: 	git config --global init.defaultBranch <name>
+hint: 
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint: 
+hint: 	git branch -m <name>
+Initialized empty Git repository in /home/joelwindows7/sauce/qemu-eos/qemu-2.5.0/.git/
+Copying files...
+Patching qemu-2.5.0 for recent compilers...
+patching file block/blkdebug.c
+patching file block/blkverify.c
+patching file configure
+patching file hw/9pfs/virtio-9p.c
+patching file hw/char/exynos4210_uart.c
+patching file hw/usb/bus.c
+patching file net/slirp.c
+patching file qemu-char.c
+patching file qga/commands-posix.c
+patching file util/memfd.c
+Patching qemu-2.5.0 for EOS emulation...
+patching file cpu-exec.c
+patching file disas/arm.c
+patching file exec.c
+patching file gdbstub.c
+patching file hw/arm/Makefile.objs
+patching file hw/arm/digic.c
+patching file hw/display/exynos4210_fimd.c
+patching file hw/ide/qdev.c
+patching file hw/sd/sd.c
+patching file include/exec/exec-all.h
+patching file include/exec/memory.h
+patching file include/hw/elf_ops.h
+patching file include/qemu/log.h
+patching file memory.c
+patching file qemu-log.c
+patching file target-arm/cpu-qom.h
+patching file target-arm/cpu.c
+patching file target-arm/cpu.h
+patching file target-arm/helper.c
+patching file target-arm/helper.h
+patching file target-arm/internals.h
+patching file target-arm/op_helper.c
+patching file target-arm/translate.c
+patching file target-arm/translate.h
+patching file vl.c
+
+Setting up SD/CF card images...
+Replace (overwrite) old sd.img and cf.img? [y/n] 
+'../magic-lantern/contrib/qemu/sd.img.xz' -> './sd.img.xz'
+sd.img.xz: 49.8 KiB / 247.5 MiB = 0.000, 0:01
+'sd.img' -> 'cf.img'
+
+Next steps:
+===========
+
+1) Compile QEMU
+
+   cd /home/joelwindows7/sauce/qemu-eos/qemu-2.5.0
+   ../configure_eos.sh
+   make -j12
+
+Shall this script attempt to compile QEMU now? [y/n] Setting up QEMU on Linux...
+Python 2.7.18
+Using gcc --std=gnu99 11.3.0 / g++ 11.3.0 with flags:  -Wno-error=deprecated-declarations -Wno-error=address-of-packed-member -Wno-error=stringop-truncation -Wno-error=stringop-overflow -Wno-error=format-truncation
+Options: --target-list=arm-softmmu --disable-docs --enable-vnc --audio-drv-list= --python=python2 --enable-gtk 
+Disabling libtool due to broken toolchain support
+
+ERROR: configure test passed without -Werror but failed with -Werror.
+       This is probably a bug in the configure script. The failing command
+       will be at the bottom of config.log.
+       You can run configure with --disable-werror to bypass this check.
+

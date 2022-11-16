@@ -49,14 +49,82 @@ JOELwindows7: I have this camera. I gotta get this running!
 ## Info:
 ### Threads
 - [EOS 4000D / 3000D / Rebel T100 Development ](https://www.magiclantern.fm/forum/index.php?topic=23369.0 ) I saw no development. I shall attempt!
+- [EOS 4000D / 3000D / Rebel T100 Development All page ](https://www.magiclantern.fm/forum/index.php?topic=23369.0;all )
 - [EOS 1300D / Kiss X80 / Rebel T6 Development ](https://www.magiclantern.fm/forum/index.php?topic=23369.0 ) We were told by `a1ex` himself to go follow here after that main 3000D thread.
 
 ### Steps:
 - [Dump ROM](https://www.magiclantern.fm/forum/index.php?topic=16534.0 ). **Not yet!** (I have to wait for my younger sister finished her semester (around April-June 2023) first before I can risk my own camera! Maybe DM me for ROM file?? idk.., OR convinve me just ROM dumping `FIR` never bricks the camera.)
+    - Does just running ROM Dumper `FIR` has potential to brick the camera? If 0% brick chance, then I can just do it now!
+    - I have no contact yet for you to give me the ROM at the moment. I shall reserve username, yeee..
 - [Prepare QEMU](https://foss.heptapod.net/magic-lantern/magic-lantern/-/blob/branch/qemu/contrib/qemu/README.rst ).
-    - Seriously updated the Magic Lantern hg repository to `qemu` with `-C` argument
+    - Seriously updated the Magic Lantern hg repository to `qemu` with `-C` argument. in `magic-lantern` directory, `hg update qemu -C`!
     - `./install.sh` with WSL
     - hangs at `Initialized empty Git repository in /mnt/w/kolmo_simple/Artistic_Setups/MagicLantern.fm/qemu-eos/qemu-2.5.0/.git/`. how long? is it hang? or is it processing?!?!??!?!
+    - nvm, it goes again. Yes, it took long time.
+    - Let the script compile QEMU as well.
+    - damn! it errors again!
+    ```
+    In file included from config-temp/qemu-conf.c:1:
+/usr/include/xenctrl.h:505:54: note: expected ‘struct xen_domctl_createdomain *’ but argument is of type ‘uint8_t *’ {aka ‘unsigned char *’}
+  505 |                      struct xen_domctl_createdomain *config);
+      |                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~
+config-temp/qemu-conf.c:6:3: error: too many arguments to function ‘xc_domain_create’
+    6 |   xc_domain_create(xc, 0, handle, 0, NULL, NULL);
+      |   ^~~~~~~~~~~~~~~~
+In file included from config-temp/qemu-conf.c:1:
+/usr/include/xenctrl.h:504:5: note: declared here
+  504 | int xc_domain_create(xc_interface *xch, uint32_t *pdomid,
+      |     ^~~~~~~~~~~~~~~~
+gcc --std=gnu99 -fPIE -DPIE -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -fno-common -Wno-error=deprecated-declarations -Wno-error=address-of-packed-member -Wno-error=stringop-truncation -Wno-error=stringop-overflow -Wno-error=format-truncation -Wendif-labels -Wmissing-include-dirs -Wempty-body -Wnested-externs -Wformat-security -Wformat-y2k -Winit-self -Wignored-qualifiers -Wold-style-declaration -Wold-style-definition -Wtype-limits -fstack-protector-strong -o config-temp/qemu-conf.exe config-temp/qemu-conf.c -Wl,-z,relro -Wl,-z,now -pie -m64 -g -lxenstore -lxenctrl -lxenguest
+config-temp/qemu-conf.c: In function ‘main’:
+config-temp/qemu-conf.c:12:3: warning: implicit declaration of function ‘xc_hvm_set_mem_type’; did you mean ‘XEN_DMOP_set_mem_type’? [-Wimplicit-function-declaration]
+   12 |   xc_hvm_set_mem_type(0, 0, HVMMEM_ram_ro, 0, 0);
+      |   ^~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_set_mem_type
+config-temp/qemu-conf.c:12:3: warning: nested extern declaration of ‘xc_hvm_set_mem_type’ [-Wnested-externs]
+config-temp/qemu-conf.c:13:3: warning: implicit declaration of function ‘xc_gnttab_open’; did you mean ‘xc_gnttab_op’? [-Wimplicit-function-declaration]
+   13 |   xc_gnttab_open(NULL, 0);
+      |   ^~~~~~~~~~~~~~
+      |   xc_gnttab_op
+config-temp/qemu-conf.c:13:3: warning: nested extern declaration of ‘xc_gnttab_open’ [-Wnested-externs]
+config-temp/qemu-conf.c:15:3: warning: implicit declaration of function ‘xc_hvm_inject_msi’; did you mean ‘XEN_DMOP_inject_msi’? [-Wimplicit-function-declaration]
+   15 |   xc_hvm_inject_msi(xc, 0, 0xf0000000, 0x00000000);
+      |   ^~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_inject_msi
+config-temp/qemu-conf.c:15:3: warning: nested extern declaration of ‘xc_hvm_inject_msi’ [-Wnested-externs]
+config-temp/qemu-conf.c:16:3: warning: implicit declaration of function ‘xc_hvm_create_ioreq_server’; did you mean ‘XEN_DMOP_create_ioreq_server’? [-Wimplicit-function-declaration]
+   16 |   xc_hvm_create_ioreq_server(xc, 0, HVM_IOREQSRV_BUFIOREQ_ATOMIC, NULL);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_create_ioreq_server
+config-temp/qemu-conf.c:16:3: warning: nested extern declaration of ‘xc_hvm_create_ioreq_server’ [-Wnested-externs]
+gcc --std=gnu99 -Werror -fPIE -DPIE -m64 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -fno-common -Wno-error=deprecated-declarations -Wno-error=address-of-packed-member -Wno-error=stringop-truncation -Wno-error=stringop-overflow -Wno-error=format-truncation -Wendif-labels -Wmissing-include-dirs -Wempty-body -Wnested-externs -Wformat-security -Wformat-y2k -Winit-self -Wignored-qualifiers -Wold-style-declaration -Wold-style-definition -Wtype-limits -fstack-protector-strong -o config-temp/qemu-conf.exe config-temp/qemu-conf.c -Wl,-z,relro -Wl,-z,now -pie -m64 -g -lxenstore -lxenctrl -lxenguest
+config-temp/qemu-conf.c: In function ‘main’:
+config-temp/qemu-conf.c:12:3: error: implicit declaration of function ‘xc_hvm_set_mem_type’; did you mean ‘XEN_DMOP_set_mem_type’? [-Werror=implicit-function-declaration]
+   12 |   xc_hvm_set_mem_type(0, 0, HVMMEM_ram_ro, 0, 0);
+      |   ^~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_set_mem_type
+config-temp/qemu-conf.c:12:3: error: nested extern declaration of ‘xc_hvm_set_mem_type’ [-Werror=nested-externs]
+config-temp/qemu-conf.c:13:3: error: implicit declaration of function ‘xc_gnttab_open’; did you mean ‘xc_gnttab_op’? [-Werror=implicit-function-declaration]
+   13 |   xc_gnttab_open(NULL, 0);
+      |   ^~~~~~~~~~~~~~
+      |   xc_gnttab_op
+config-temp/qemu-conf.c:13:3: error: nested extern declaration of ‘xc_gnttab_open’ [-Werror=nested-externs]
+config-temp/qemu-conf.c:15:3: error: implicit declaration of function ‘xc_hvm_inject_msi’; did you mean ‘XEN_DMOP_inject_msi’? [-Werror=implicit-function-declaration]
+   15 |   xc_hvm_inject_msi(xc, 0, 0xf0000000, 0x00000000);
+      |   ^~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_inject_msi
+config-temp/qemu-conf.c:15:3: error: nested extern declaration of ‘xc_hvm_inject_msi’ [-Werror=nested-externs]
+config-temp/qemu-conf.c:16:3: error: implicit declaration of function ‘xc_hvm_create_ioreq_server’; did you mean ‘XEN_DMOP_create_ioreq_server’? [-Werror=implicit-function-declaration]
+   16 |   xc_hvm_create_ioreq_server(xc, 0, HVM_IOREQSRV_BUFIOREQ_ATOMIC, NULL);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~
+      |   XEN_DMOP_create_ioreq_server
+config-temp/qemu-conf.c:16:3: error: nested extern declaration of ‘xc_hvm_create_ioreq_server’ [-Werror=nested-externs]
+cc1: all warnings being treated as errors
+    ```
+    - kay you know what, like said just bypass those `WError` with `./configure-eos --disable-werror` in the `qemu-eos/qemu-2.5.0` directory. keep in mind the `qemu-eos` repo is outside this `magic-lantern` directory!
+    - try just do
+    - **still error!** here last [`install.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/install.log) & [`config.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/config.log). Pls help what's wrong?!?!?!??!?!??!???!
+    - Dump the ROM now! (Pls wait! Waiting for my younger sister to complete her semester with Photography subject. I think about Feb to June 2023. If you can convince me that just running ROM Dumper `FIR` definitely do not brick my only camera, **I can do this now**.)
 - Reattempt porting ML.
 
 ### Stuffs
