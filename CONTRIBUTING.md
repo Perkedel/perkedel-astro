@@ -144,3 +144,12 @@ Nothing, it's just a regular file, go on. we got customers here.
 
 ##### You gotta..
 Okay (close call), next!
+
+##### What if I am banned?
+Being banned is terrible, I know. But here. These days defamations are so rampant these days. Those people presumes all males or females or certain group of people as.. yeah you know. If you are not one of those guy from Twitter, that would be great. I tired hearing all alots of accusation of this thing over a hand drawn / 3D modeled Loli with full anatomy here and there. **STOP THAT!!**  
+
+Now back to the question. Or maybe I should say, How could you be banned? That above is one of them, Defamation like this example, presuming someone's loli drawing mean that someone is that bla bla bla. Alot of things that upsets us severely. Cyber terrorism takes lots of form.
+
+Okay, real question this time. ... ... **You can still contribute**, no problem, just.. no social & not to mention personal (PM chit chat) **EW!!!** Only the information I found interesting to add as usual. No bad promotion. must be $0, Open Source, Full Version. Yeah, you're welcome, we're trying as best as possible to be neutral (even it is ultimately absolutely impossible), away from politicals, agendas, & controvercies, away from deleting stuffs just because you are proven guilty of certain severe terrorism (although gamers will be warned with an info paragraph) etc. etc. We want content, we need content, we have policy to preserve, not delete. that's all. coz I hate file gone. you too right? So pls say thank you for this. many people not only take off the contribution but also gaslighted everything like they never been there. No, in here your name always be carved.
+
+Okay, before you angery, We also take that off, but instead **it's turned into a mod**, that's it. Thank you for asking, pls put down your cyber-pitchfork, it's never the time to retaliate against us, We're trying our best to accept your says even it's impossible & refusable. Thank you.

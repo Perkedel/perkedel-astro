@@ -314,6 +314,12 @@ let daWord = [
     "Reugol",
     // "cally make this $0 wtf!!! I'm gonna use all my salary to get this done, so peck you!",
 ];
+let miniGenWord = [
+    'HA',
+    'HU',
+    'HEH',
+    'KURIK',
+];
 // getJSONP('/generateWord.jsonc', function(data) {
 
 //     daWord = data.daWord;
@@ -336,6 +342,10 @@ let daWord = [
 function regenerateWord() {
     // document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
     document.getElementById('generateWord').innerHTML = daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
+}
+
+function miniGenerate() {
+    document.getElementById('miniGen').innerHTML = miniGenWord[Math.floor(Math.random() * miniGenWord.length)];
 }
 
 // $(function() {
