@@ -15,6 +15,7 @@ body:
     value: |
       # Bug report
       - Write a descriptive bug title above.
+      - **IMPORTANT!!!** ALWAYS read [`CONTRIBUTING.md`](https://github.com/Perkedel/perkedel-astro/blob/main/CONTRIBUTING.md ) first! There are terms & condition you need to follow.
       - Search [open](https://github.com/Perkedel/perkedel-astro/issues) and [closed](https://github.com/Perkedel/perkedel-astro/issues?q=is%3Aissue+is%3Aclosed) proposals to ensure the bug has not already handled before.
       - This is not for asking reupload & piracy. Please wait for the Zeronet / any DMCA-less from Admiral Zumi of Xop1r4t3 Eenvreensment to be deployed later.
 
