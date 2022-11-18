@@ -70,7 +70,7 @@ JOELwindows7: I have this camera. I gotta get this running!
     - **still error!** here last [`install.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/install.log) & [`config.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/config.log). Pls help what's wrong?!?!?!??!?!??!???!
     - VM trye faile VM hang
     - QEMU reticulatedpines not working. [issue](https://github.com/reticulatedpines/magiclantern_simplified/issues/76 )
-    
+    - Issue closed. but suggested new [repo instead](https://github.com/reticulatedpines/qemu-eos ). **Beware! Over 90K commits, be patient when cloning!**
     - Dump the ROM now! (Pls wait! Waiting for my younger sister to complete her semester with Photography subject. I think about Feb to June 2023. If you can convince me that just running ROM Dumper `FIR` definitely do not brick my only camera, **I can do this now**.)
 - Reattempt porting ML.
     - Prepared the ML source
@@ -82,6 +82,15 @@ JOELwindows7: I have this camera. I gotta get this running!
     - Oh wow, just as I go back to reticulatedpines' magic-lantern simplified everything works again. that's not the qemu. I test compiled the 100D version. here [`make zip` log](/assets/txt/logs/attempt_ml_2022-11-19_16-37/reticulatedpines_make_zip_local_100D.log). it even had the [zip file](/assets/zip/magiclantern-Nightly.2022Nov18.100D101.zip) on hand. Yes, clicking that downloads it. I think I should try the others. Note, that one I have no `Makefile.user` file there, just let it uses the `Makefile.user.default` entirely.
     - okay, just the 200D ones ironically does not work. [here `make zip` log](/assets/txt/logs/attempt_ml_2022-11-18_16-37/simplie_make_zip_again_again.log). Dude, what did make yours work? Think I should make issue [over there](https://github.com/reticulatedpines/magiclantern_simplified/issues)?
     - EOS M version works too! [download zip](/assets/zip/magiclantern-Nightly.2022Nov18.EOSM202.zip), see [`make zip` log](/assets/txt/logs/attempt_ml_2022-11-19_16-37/simplie_make_zip_EOS_M.log).
+    - Issue closed, reticulatedpines no longer maintain QEMU on that Magic Lantern anymore, instead on the separate [repo here](https://github.com/reticulatedpines/qemu-eos ).
+    - oh wait, [reticulatedpines == names_are_hard](https://www.magiclantern.fm/forum/index.php?topic=20214.msg240990#msg240990 )?!?!? **LMAO lol!** Oh okay, is that right? anyways..
+    - he said that I happened to used that GCC 5, too old for this. Now, idk how am I supposed to prevent the `make` from choosing that wrong version? Okay, in names_are_hard / reticulatedpines ML, I did `Makefile.user`, only contains a line of `ARM_PATH=/usr`.
+    - & for good measure, I move away those old gcc original ML repo downloaded. yeah just put those gcc directories into `hide` folder e.g.
+    - my `rst2html --version` command outputs `rst2html (Docutils 0.17.1 [release], Python 3.10.6, on linux)`.
+    - Try again 200D. Well it works. [here file](/assets/zip/magiclantern-Nightly.2022Nov19.200D101.zip ). and [log too](/assets/txt/logs/attempt_ml_2022-11-19/reticulatedpines_finallywork_200D.log ).
+    - Now, let's see if QEMU ready. **Awaiting...............**
+    - Recollect all stuffs from various repos! [stubs from ccritix](https://github.com/ccritix/magic-lantern/tree/branches/1300D/platform/4000D.100 ) & [petabyt's pieces on the 1300D branch](https://github.com/petabyt/magiclantern_simplified/tree/1300d/platform/1300D.120 )!.. yeah..
+    - Try & attempt combining. **Always test in the QEMU!**
 
 
 ### Stuffs
