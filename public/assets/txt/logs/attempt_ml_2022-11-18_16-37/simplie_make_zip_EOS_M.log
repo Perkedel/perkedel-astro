@@ -1,0 +1,468 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform$ cd EOSM.202/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/EOSM.202$ ls
+ML-SETUP.FIR  Makefile.platform.default  cfn.c     features.h  include      mvr.h
+Makefile      Makefile.setup.default     consts.h  gui.h       internals.h  stubs.S
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/EOSM.202$ make clean
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+[ RM       ]   EOSM_202.sym magiclantern.sym
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+[ RM       ]   autoexec-fir autoexec-fir.bin
+[ RM       ]   magiclantern.lds
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+[ RM       ]   version.c version.bin
+[ RM       ]   xor_chk xor_chk.exe
+[ RM dir   ]   zip
+[ RM       ]   *.zip
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/magic-lantern/platform/EOSM.202$ make zip
+Using ~/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc (preferred).
+[ RM dir   ]   /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+mkdir -p /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip
+[ MKDIR    ]   ML directory structure...
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ AS       ]   ../../platform/EOSM.202/stubs.o
+[ VERSION  ]   ../../platform/EOSM.202/version.c
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.c
+[ CC       ]   version.o
+[ CC       ]   backtrace.o
+[ CC       ]   sgi.o
+[ CC       ]   cpu.o
+[ CC       ]   mmu_utils.o
+[ CC       ]   patch_mmu.o
+[ CC       ]   boot-d45.o
+[ CC       ]   init.o
+[ CC       ]   fio-ml.o
+[ CC       ]   mem.o
+[ CC       ]   ico.o
+[ CC       ]   edmac.o
+[ CC       ]   menu.o
+[ CC       ]   debug.o
+[ CC       ]   rand.o
+[ CC       ]   posix.o
+[ CC       ]   util.o
+[ CC       ]   imath.o
+[ CC       ]   electronic_level.o
+[ CC       ]   cfn.o
+[ CC       ]   gui.o
+[ CC       ]   picstyle.o
+[ CC       ]   exmem.o
+[ CC       ]   compositor.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   config.o
+[ CC       ]   stdio.o
+[ CC       ]   bitrate.o
+[ CC       ]   lcdsensor.o
+[ CC       ]   tweaks.o
+[ CC       ]   tweaks-eyefi.o
+[ CC       ]   lens.o
+[ CC       ]   property.o
+[ CC       ]   propvalues.o
+[ CC       ]   gui-common.o
+[ CC       ]   chdk-gui_draw.o
+[ CC       ]   movtweaks.o
+[ CC       ]   menuhelp.o
+[ CC       ]   menuindex.o
+[ CC       ]   focus.o
+[ CC       ]   notify_box.o
+[ CC       ]   bootflags.o
+[ CC       ]   dialog_test.o
+[ CC       ]   vram.o
+[ CC       ]   greenscreen.o
+[ CC       ]   fps-engio.o
+[ CC       ]   shoot.o
+[ CC       ]   hdr.o
+[ CC       ]   lv-img-engio.o
+[ CC       ]   state-object.o
+[ CC       ]   tasks.o
+[ CC       ]   vsync-lite.o
+[ CC       ]   tskmon.o
+[ CC       ]   battery.o
+[ CC       ]   imgconv.o
+[ CC       ]   histogram.o
+[ CC       ]   falsecolor.o
+[ CC       ]   audio-ak.o
+[ CC       ]   zebra.o
+[ CC       ]   vectorscope.o
+[ CC       ]   beep.o
+[ CC       ]   crop-mode-hack.o
+[ CC       ]   ph_info_disp.o
+[ CC       ]   flexinfo.o
+[ CC       ]   screenshot.o
+[ CC       ]   fileprefix.o
+[ CC       ]   lvinfo.o
+[ CC       ]   builtin-enforcing.o
+[ CC       ]   powersave.o
+[ CC       ]   ml-cbr.o
+[ CC       ]   raw.o
+[ CC       ]   chdk-dng.o
+[ CC       ]   edmac-memcpy.o
+[ CC       ]   cache_hacks.o
+[ CC       ]   patch.o
+[ CC       ]   cache.o
+[ CC       ]   console.o
+[ CC       ]   tcc-glue.o
+make -C ../../tcc
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/tcc'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/tcc'
+[ CC       ]   module.o
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ SYMBOLS  ]   magiclantern.sym
+[ CP       ]   EOSM_202.sym
+[ CP       ]   install
+cp ML-SETUP.FIR /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+[ VERSION  ]   ../../platform/EOSM.202/version.bin
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.bin
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 450652 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+[ OBJCOPY  ]   autoexec.bin
+[ XOR_CHK  ]   autoexec.bin
+cp autoexec.bin /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+cp ../../data/fonts/*.rbf /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/fonts/
+cp ../../data/vram/*.lut /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/data/
+cp ../../data/cropmks/*.bmp /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/cropmks/
+[ SCRIPTS  ]   install_extra_data
+for target in  CONFIG_MODULES_install; do make $target; done
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202'
+make -C ../../modules
+make[2]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+
+Building module file_man...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+
+Building module ettr...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+
+Building module silent...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+
+Building module deflick...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+
+Building module lua...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+
+Building module bench...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+
+Building module selftest...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+
+Building module edmac...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[2]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make -C ../../modules install
+make[2]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[3]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+
+Building module mlv_lite...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_lite'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+
+Building module mlv_play...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_play'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+
+Building module mlv_rec...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_rec'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+
+Building module mlv_snd...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/mlv_snd'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+
+Building module file_man...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/file_man'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+
+Building module pic_view...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/pic_view'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+
+Building module ettr...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/ettr'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+
+Building module dual_iso...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dual_iso'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+
+Building module silent...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/silent'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+
+Building module dot_tune...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/dot_tune'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+
+Building module autoexpo...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/autoexpo'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+
+Building module arkanoid...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/arkanoid'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+
+Building module deflick...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/deflick'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+
+Building module lua...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/lua'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+
+Building module bench...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/bench'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+
+Building module selftest...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/selftest'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+
+Building module adv_int...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/adv_int'
+make[4]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+
+Building module edmac...
+make[4]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules/edmac'
+make[3]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+[ MKDIR    ]   ML directory structure...
+python3 copy_modules_with_satisfied_deps.py /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/modules mlv_lite mlv_play mlv_rec mlv_snd file_man pic_view ettr dual_iso silent dot_tune autoexpo arkanoid deflick lua bench selftest adv_int edmac
+These modules cannot be included (not possible to meet listed deps):
+dot_tune
+        get_afma
+        get_config_afma_wide_tele
+        get_afma_mode
+        set_afma
+        get_afma_max
+        set_afma_mode
+
+These modules will not be included (deps not solved):
+
+These modules will be included (deps met):
+pic_view
+lua
+file_man
+silent
+mlv_snd
+autoexpo
+dual_iso
+deflick
+edmac
+mlv_lite
+mlv_rec
+adv_int
+bench
+selftest
+arkanoid
+ettr
+mlv_play
+make[2]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/modules'
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202'
+make -C ../../installer/EOSM.202 autoexec-fir.bin
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+[ VERSION  ]   ../../platform/EOSM.202/version.bin
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.bin
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ CC       ]   boot-d45.o
+[ CC       ]   installer.o
+[ VERSION  ]   ../../platform/EOSM.202/version.c
+../../build_tools/git_summary.py >> ../../platform/EOSM.202/version.c
+[ CC       ]   version.o
+[ CC       ]   fio-ml.o
+[ CC       ]   ico.o
+[ CC       ]   bmp.o
+[ CC       ]   rbf_font.o
+[ CC       ]   stdio.o
+[ CC       ]   dialog_test.o
+[ CC       ]   bootflags.o
+[ CC       ]   mem.o
+[ CC       ]   util.o
+[ CC       ]   cache.o
+[ AR       ]   strrchr.o
+[ AR       ]   dietlibc.a
+[ AR       ]   lib_a-setjmp.o
+[ AR       ]   newlib-libc.a
+[ CP       ]   newlib-libm.a
+[ CP       ]   gcc-libgcc.a
+[ LD       ]   magiclantern
+[ OBJCOPY  ]   magiclantern.bin
+[ STAT     ]   magiclantern.bin
+magiclantern.bin: 32104 bytes
+[ CC       ]   reboot.o
+[ CC       ]   disp_direct.o
+[ CC       ]   font_direct.o
+[ CC       ]   footer.o
+[ LD       ]   autoexec-fir
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+[ OBJCOPY  ]   autoexec-fir.bin
+[ XOR_CHK  ]   autoexec-fir.bin
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+make -C ../../installer/EOSM.202 clean
+make[1]: Entering directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+[ RM       ]   autoexec-fir autoexec-fir.bin
+[ RM       ]   magiclantern.lds
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+[ RM       ]   version.c version.bin
+[ RM       ]   xor_chk xor_chk.exe
+[ RM       ]   *.fir *.FIR
+make[1]: Leaving directory '/home/joelwindows7/sauce/simplified/magic-lantern/installer/EOSM.202'
+mkdir -p /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/doc
+cp -v ../../doc/cam/* /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/doc
+cp: cannot stat '../../doc/cam/*': No such file or directory
+make: [../../Makefile.inc:63: installdoc] Error 1 (ignored)
+cp ../../doc/README.user /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/README
+cp ../../doc/INSTALL.pdf /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip || echo "warning Unable to copy INSTALL.pdf"
+cp: cannot stat '../../doc/INSTALL.pdf': No such file or directory
+warning Unable to copy INSTALL.pdf
+cp ../../doc/UserGuide.pdf /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip || echo "warning Unable to copy UserGuide.pdf"
+cp: cannot stat '../../doc/UserGuide.pdf': No such file or directory
+warning Unable to copy UserGuide.pdf
+cp ../../src/logo.bmp /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/ML/docs || echo "warning Unable to copy logo.bmp"
+[ RM       ]   magiclantern-Nightly.2022Nov18.EOSM202.zip
+chmod -x /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/autoexec.bin
+cd /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip; zip -z ../magiclantern-Nightly.2022Nov18.EOSM202.zip < \
+        ../../../src/zip.txt -r .
+  adding: ML-SETUP.FIR (deflated 0%)
+  adding: ML/ (stored 0%)
+  adding: ML/fonts/ (stored 0%)
+  adding: ML/fonts/argnor23.rbf (deflated 84%)
+  adding: ML/fonts/argnor32.rbf (deflated 86%)
+  adding: ML/fonts/term20.rbf (deflated 80%)
+  adding: ML/fonts/argnor28.rbf (deflated 84%)
+  adding: ML/fonts/arghlf22.rbf (deflated 90%)
+  adding: ML/fonts/term12.rbf (deflated 64%)
+  adding: ML/README (deflated 61%)
+  adding: ML/cropmks/ (stored 0%)
+  adding: ML/cropmks/CineSco2.bmp (deflated 87%)
+  adding: ML/cropmks/Passport.bmp (deflated 72%)
+  adding: ML/cropmks/CrssMtr2.bmp (deflated 94%)
+  adding: ML/cropmks/PhiPhoto.bmp (deflated 62%)
+  adding: ML/cropmks/PhiVideo.bmp (deflated 68%)
+  adding: ML/modules/ (stored 0%)
+  adding: ML/modules/deflick.mo (deflated 54%)
+  adding: ML/modules/edmac.mo (deflated 95%)
+  adding: ML/modules/arkanoid.mo (deflated 50%)
+  adding: ML/modules/mlv_play.mo (deflated 62%)
+  adding: ML/modules/mlv_snd.mo (deflated 56%)
+  adding: ML/modules/autoexpo.mo (deflated 57%)
+  adding: ML/modules/dual_iso.mo (deflated 51%)
+  adding: ML/modules/EOSM_202.sym (deflated 65%)
+  adding: ML/modules/lua.mo (deflated 60%)
+  adding: ML/modules/mlv_lite.mo (deflated 51%)
+  adding: ML/modules/bench.mo (deflated 57%)
+  adding: ML/modules/selftest.mo (deflated 66%)
+  adding: ML/modules/mlv_rec.mo (deflated 53%)
+  adding: ML/modules/silent.mo (deflated 53%)
+  adding: ML/modules/adv_int.mo (deflated 58%)
+  adding: ML/modules/ettr.mo (deflated 56%)
+  adding: ML/modules/file_man.mo (deflated 51%)
+  adding: ML/modules/pic_view.mo (deflated 48%)
+  adding: ML/docs (deflated 94%)
+  adding: ML/scripts/ (stored 0%)
+  adding: ML/scripts/api_test.lua (deflated 79%)
+  adding: ML/scripts/calc.lua (deflated 69%)
+  adding: ML/scripts/menutest.lua (deflated 76%)
+  adding: ML/scripts/recdelay.lua (deflated 73%)
+  adding: ML/scripts/copy2m.lua (deflated 67%)
+  adding: ML/scripts/hello.lua (deflated 27%)
+  adding: ML/scripts/unload.lua (deflated 54%)
+  adding: ML/scripts/scrnshot.lua (deflated 47%)
+  adding: ML/scripts/pong.lua (deflated 73%)
+  adding: ML/scripts/lib/ (stored 0%)
+  adding: ML/scripts/lib/logger.lua (deflated 70%)
+  adding: ML/scripts/lib/strict.lua (deflated 54%)
+  adding: ML/scripts/lib/config.lua (deflated 69%)
+  adding: ML/scripts/lib/keys.lua (deflated 66%)
+  adding: ML/scripts/editor.lua (deflated 82%)
+  adding: ML/scripts/sokoban.lua (deflated 73%)
+  adding: ML/data/ (stored 0%)
+  adding: ML/data/apsc8r.lut (deflated 7%)
+  adding: ML/data/ff8p.lut (deflated 17%)
+  adding: ML/data/apsc8p.lut (deflated 17%)
+  adding: ML/data/ff8r.lut (deflated 11%)
+  adding: ML/doc/ (stored 0%)
+  adding: autoexec.bin (deflated 50%)
+enter new zip file comment (end with .):
+[ RM dir   ]   /home/joelwindows7/sauce/simplified/magic-lantern/platform/EOSM.202/zip/
+
+Program Headers:
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+  LOAD           0x0000e0 0x0009e1e0 0x0009e1e0 0x6e05c 0x8142c RWE 0x100
+
+
+
+Tip: to compile faster, try one of these:
+    make -j12
+    export MAKEFLAGS='-j12'

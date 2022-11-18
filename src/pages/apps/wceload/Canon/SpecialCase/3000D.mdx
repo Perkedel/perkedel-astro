@@ -69,14 +69,19 @@ JOELwindows7: I have this camera. I gotta get this running!
     - try just do
     - **still error!** here last [`install.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/install.log) & [`config.log`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/config.log). Pls help what's wrong?!?!?!??!?!??!???!
     - VM trye faile VM hang
-    - [names_are_hard replied](https://www.magiclantern.fm/forum/index.php?topic=20214.msg240975#msg240975). Kay, you told me to change things in the `Makefile.top`, okay, hold on. let me [this](https://github.com/reticulatedpines/magiclantern_simplified/commit/4a6e5e666e52e56aaf3447f9d112b3fc791e38f3).. and then [that](https://github.com/reticulatedpines/magiclantern_simplified/commit/af10c16925912f864f4e218532dc9ac4e5af358f)..
-    - Right, For QEMU, I gotta learn how to make configurator points to modern QEMU. well let's just try the ML compiler first. `make clean`! `make zip` again.
-    - faile! `module_string` missing! here [`make zip`](/assets/txt/logs/attemp_ml_2022-11-19_16-37/make_zip_again.log) log again.
+    
     - Dump the ROM now! (Pls wait! Waiting for my younger sister to complete her semester with Photography subject. I think about Feb to June 2023. If you can convince me that just running ROM Dumper `FIR` definitely do not brick my only camera, **I can do this now**.)
 - Reattempt porting ML.
     - Prepared the ML source
     - Test compile anything.
     - FAILED! here last [`make zip`](/assets/txt/logs/attemp_ml_2022-11-16_22-53/make_zip.log) log!
+    - [names_are_hard replied](https://www.magiclantern.fm/forum/index.php?topic=20214.msg240975#msg240975). Kay, you told me to change things in the `Makefile.top`, okay, hold on. let me [this](https://github.com/reticulatedpines/magiclantern_simplified/commit/4a6e5e666e52e56aaf3447f9d112b3fc791e38f3).. and then [that](https://github.com/reticulatedpines/magiclantern_simplified/commit/af10c16925912f864f4e218532dc9ac4e5af358f)..
+    - Right, For QEMU, I gotta learn how to make configurator points to modern QEMU. well let's just try the ML compiler first. `make clean`! `make zip` again.
+    - faile! `module_string` missing! here [`make zip`](/assets/txt/logs/attemp_ml_2022-11-19_16-37/make_zip_again.log) log again.
+    - Oh wow, just as I go back to reticulatedpines' magic-lantern simplified everything works again. that's not the qemu. I test compiled the 100D version. here [`make zip` log](/assets/txt/logs/attemp_ml_2022-11-19_16-37/reticulatedpines_make_zip_local_100D.log). it even had the [zip file](/assets/zip/magiclantern-Nightly.2022Nov18.100D101.zip) on hand. Yes, clicking that downloads it. I think I should try the others. Note, that one I have no `Makefile.user` file there, just let it uses the `Makefile.user.default` entirely.
+    - okay, just the 200D ones ironically does not work. [log](/assets/txt/logs/attemp_ml_2022-11-19_16-37/simplie_make_zip_again_again_log). Dude, what did make yours work? Think I should make issue [over there](https://github.com/reticulatedpines/magiclantern_simplified/issues)?
+    - EOS M version works too! [download zip](/assets/zip/magiclantern-Nightly.2022Nov18.EOSM202.zip), see [`make zip` log](/assets/txt/logs/attemp_ml_2022-11-19_16-37/simplie_make_zip_EOS_M.log).
+
 
 ### Stuffs
 - [ccritix's 3000D Platform folder](https://github.com/ccritix/magic-lantern/tree/branches/1300D/platform/4000D.100 ) Complete with Stubs. Lacks the Installation folder atm. OR try using libUSB method?
