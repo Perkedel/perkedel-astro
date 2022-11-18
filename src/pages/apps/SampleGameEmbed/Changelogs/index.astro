@@ -6,6 +6,7 @@ export interface Props {
   name?:string;
   title?: string;
   description?: string;
+  titlePostFix?:string;
   type?:string;
   author?: string;
   date?: string;
@@ -50,6 +51,7 @@ const {
   title = 'A Perkedel NTLF+ASTR Sample Embed Games Changelogs', 
   name = title,
   author = 'JOELwindows7',
+  titlePostFix = 'Changelogs',
   description = 'Perkedel NTLF+ASTR. Changelogs List of Sample Embed Game',
   keywords = 'tech, fun, novelty, open source, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p',
   siteName = 'Perkedel Technologies Division NTLF+ASTR',
@@ -99,6 +101,7 @@ const {
     type={type}
     author={author} 
     description={description} 
+    titlePostFix={titlePostFix}
     descriptionPrefix={descriptionPrefix}
     keywords={keywords}
     date={date}

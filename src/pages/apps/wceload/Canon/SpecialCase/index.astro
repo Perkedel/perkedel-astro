@@ -6,6 +6,7 @@ export interface Props {
   name?:string;
   title?: string;
   description?: string;
+  titlePostFix?: string;
   type?:string;
   author?: string;
   date?: string;
@@ -51,6 +52,7 @@ const {
   name = title,
   author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Attempt for making this work',
+  titlePostFix = 'Developments',
   keywords = 'tech, fun, novelty, open source, gratis, free, canon, magiclantern, magic, lantern, porting, attempt, chdk, hack, development, kit',
   siteName = 'Perkedel Technologies Division NTLF+ASTR',
   date,
@@ -87,7 +89,7 @@ const {
   hideInfo = false,
   SauceChangelogURL,
   SauceChangelogURLDirect,
-  appName = 'Canon Special Case',
+  appName = 'Canon Special Cases',
   file,
   url,
 // } = Astro.props as Props;
@@ -99,6 +101,7 @@ const {
     type={type}
     author={author} 
     description={description} 
+    titlePostFix={titlePostFix}
     descriptionPrefix={descriptionPrefix}
     keywords={keywords}
     date={date}
