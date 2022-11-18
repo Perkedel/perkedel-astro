@@ -136,7 +136,7 @@ const {
   >
   <h1><slot name="prependTitle"/>{title} <slot name="appendTitle"/></h1>
   <h2>Here Change:</h2>
-    <p><a class="Buttonnize" href={SauceChangelogURL} target="_blank" rel="noopener noreferrer" style="text-overflow:elipsis;overflow:hidden;">{SauceChangelogURL}</a></p>
+    <p><a class="Buttonnize" href={SauceChangelogURL} target="_blank" rel="noopener noreferrer" style="text-overflow:ellipsis;overflow:hidden;width:75%">{SauceChangelogURL}</a></p>
     <p><a class="Buttonnize" href={SauceChangelogURLDirect} target="_blank" rel="noopener noreferrer">&#xf6d9; Open this changelog RAW directly</a></p>
     <slot name="extraChangelogStuffs"/>
   <h2>Content:</h2>
@@ -149,7 +149,7 @@ const {
   {hideInfo?<p></p>:<p></p>}
 
   <h2 style="font-size:18px"><i>Markdown / Article Info</i></h2>
-  <div class="MDXInfo" id="MDXInfo">
+  <div class="MDXInfo" id="MDXInfo" style="overflow-x:auto;">
           <!-- <p style="font-size:12px;">
               Title: {frontmatter.title}<br>
               Author: {frontmatter.author}<br>
