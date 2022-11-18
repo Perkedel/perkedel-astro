@@ -1,0 +1,27 @@
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern$ git pull
+Already up to date.
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern$ cd platform/
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern/platform$ ls
+100D.101   5D2.212  5DSR.112  700D.115  7D_MASTER.203  Makefile.platform         RP.160
+1100D.105  5D3.113  600D.102  750D.110  80D.102        Makefile.platform.base    SX740.102
+200D.101   5D3.123  60D.111   760D.100  850D.100       Makefile.platform.extras  all
+500D.111   5D4.112  650D.104  77D.102   EOSM.202       Makefile.platform.map     firmsum.py
+50D.109    5D4.133  6D.116    7D.203    M50.110        R.180                     unmaintained
+550D.109   5DS.111  6D2.105   7D2.104   Makefile       README-unmaintained.txt
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern/platform$ cd 200D.101/
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern/platform/200D.101$ ls
+Makefile                   TODO.txt  consts.h    function_overrides.c  include      property_whitelist.h
+Makefile.platform.default  cfn.c     features.h  gui.h                 internals.h  stubs.S
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern/platform/200D.101$ make zip
+Using /home/joelwindows7/gcc-arm-none-eabi-7-2018-q2-update/bin/arm-none-eabi-gcc (from PATH).
+[ RM dir   ]   /mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern/platform/200D.101/zip/
+mkdir -p /mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/magic-lantern/platform/200D.101/zip
+[ MKDIR    ]   ML directory structure...
+[ CPP      ]   magiclantern.lds
+mv tmp.lds magiclantern.lds
+[ AS       ]   entry.o
+[ AS       ]   ../../platform/200D.101/stubs.o
+[ VERSION  ]   ../../platform/200D.101/version.c
+../../build_tools/git_summary.py >> ../../platform/200D.101/version.c
+/usr/bin/env: ‘python3\r’: Permission denied
+make: *** [../../src/Makefile.src:374: ../../platform/200D.101/version.c] Error 126
