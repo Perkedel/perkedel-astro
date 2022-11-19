@@ -1,0 +1,83 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make
+/bin/sh: 1: ./scripts/git-submodule.sh: not found
+  GEN     config-host.h
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 4:
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/create_config: 7: Syntax error: word unexpected (expecting "in")
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:203: config-host.h-timestamp] Error 2
+make: *** Deleting file 'config-host.h-timestamp'
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make clean
+/bin/sh: 1: ./scripts/git-submodule.sh: not found
+  GEN     arm-softmmu/hmp-commands.h
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make[1]: *** [Makefile:218: hmp-commands.h] Error 2
+make[1]: *** Deleting file 'hmp-commands.h'
+make: *** [Makefile:491: arm-softmmu/clean] Error 2
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ dos2unix Makefile
+dos2unix: Skipping symbolic link Makefile.
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+Makefile     block                   config.log     dump           monitor  qapi                     qom      target
+accel        capstone                config.status  fsdev          nbd      qapi-gen-timestamp       replay   tests
+arm-softmmu  chardev                 contrib        hw             net      qemu-plugins-ld.symbols  roms     trace
+audio        config-all-devices.mak  crypto         io             pc-bios  qemu-version.h           scripts  ui
+authz        config-all-disas.mak    disas          linux-headers  po       qga                      scsi     util
+backends     config-host.mak         docs           migration      python   qobject                  stubs
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make -j12
+/bin/sh: 1: ./scripts/git-submodule.sh: not found
+  GEN     config-host.h
+  GEN     qemu-options.def
+make[1]: *** No rule to make target '/home/joelwindows7/sauce/simplified/qemu-eos-build/capstone/libcapstone.a'.  Stop.
+make: *** [Makefile:518: capstone/all] Error 2
+make: *** Waiting for unfinished jobs....
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make: *** [Makefile:472: qemu-options.def] Error 2
+make: *** Deleting file 'qemu-options.def'
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 4:
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/create_config: 7: Syntax error: word unexpected (expecting "in")
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:203: config-host.h-timestamp] Error 2
+make: *** Deleting file 'config-host.h-timestamp'
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls Makefile
+Makefile
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls capstone/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make clean
+/bin/sh: 1: ./scripts/git-submodule.sh: not found
+  GEN     arm-softmmu/hmp-commands.h
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make[1]: *** [Makefile:218: hmp-commands.h] Error 2
+make[1]: *** Deleting file 'hmp-commands.h'
+make: *** [Makefile:491: arm-softmmu/clean] Error 2
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ chmod +x ../qemu-eos/scripts/hxtool
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make clean
+/bin/sh: 1: ./scripts/git-submodule.sh: not found
+  GEN     arm-softmmu/hmp-commands.h
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make[1]: *** [Makefile:218: hmp-commands.h] Error 2
+make[1]: *** Deleting file 'hmp-commands.h'
+make: *** [Makefile:491: arm-softmmu/clean] Error 2
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make -j12
+/bin/sh: 1: ./scripts/git-submodule.sh: not found
+  GEN     config-host.h
+  GEN     qemu-options.def
+make[1]: *** No rule to make target '/home/joelwindows7/sauce/simplified/qemu-eos-build/capstone/libcapstone.a'.  Stop.
+make: *** [Makefile:518: capstone/all] Error 2
+make: *** Waiting for unfinished jobs....
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 4:
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/create_config: 7: Syntax error: word unexpected (expecting "in")
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:203: config-host.h-timestamp] Error 2
+make: *** Deleting file 'config-host.h-timestamp'
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make: *** [Makefile:472: qemu-options.def] Error 2
+make: *** Deleting file 'qemu-options.def'
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$

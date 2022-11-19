@@ -71,6 +71,8 @@ JOELwindows7: I have this camera. I gotta get this running!
     - VM trye faile VM hang
     - QEMU reticulatedpines not working. [issue](https://github.com/reticulatedpines/magiclantern_simplified/issues/76 )
     - Issue closed. but suggested new [repo instead](https://github.com/reticulatedpines/qemu-eos ). **Beware! Over 90K commits, be patient when cloning!**
+    - Configure success! at first the configure scripts werrors. [log!](/assets/txt/attempt_ml_2022-11-19/qemu_bin_bash_m_error.log) Fortunately found this [answer](https://askubuntu.com/a/861053/64076 ). Yep, that's because the configure script line endings somehow are in DOS format. And So I installed that `dos2unix` package, & then `dos2unix ../qemu-eos/configure` file. Run again it works.
+    - Make werror! [log!](/assets/txt/attempt_ml_2022-11-19/make_qemu-eos_fail.log) Idk what went wrong. I've checked the `script` folder there, it has all the stuffs including the ones it said it couldn't find, the the `git_submodule.h`. Oh yeah uh.. the `Makefile`, `scripts`. & `python` are.. symbolic link? shown in cyan.. yeh..
     - Dump the ROM now! (Pls wait! Waiting for my younger sister to complete her semester with Photography subject. I think about Feb to June 2023. If you can convince me that just running ROM Dumper `FIR` definitely do not brick my only camera, **I can do this now**.)
 - Reattempt porting ML.
     - Prepared the ML source

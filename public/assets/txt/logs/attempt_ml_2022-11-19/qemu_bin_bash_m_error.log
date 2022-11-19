@@ -1,0 +1,204 @@
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos$ ls
+CODING_STYLE.rst  blockdev.c        dump                  memory.c              qemu-img.c              replication.h
+COPYING           blockjob.c        exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+COPYING.LIB       bootdevice.c      exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+Changelog         bsd-user          fpu                   migration             qemu-io.c               scripts
+Kconfig.host      bt-host.c         fsdev                 module-common.c       qemu-keymap.c           scsi
+LICENSE           bt-vhci.c         gdb-xml               monitor               qemu-nbd.c              slirp
+MAINTAINERS       capstone          gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile          chardev           gitdm.config          net                   qemu-option-trace.texi  target
+Makefile.objs     configure         hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+Makefile.target   contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+README.rst        cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+VERSION           cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+accel             crypto            io                    po                    qemu-tech.texi          trace
+arch_init.c       default-configs   ioport.c              python                qemu.nsi                trace-events
+audio             device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+authz             device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+backends          disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+balloon.c         disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+block             dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+block.c           docs              linux-user            qemu-edid.c           replay
+blockdev-nbd.c    dtc               magiclantern          qemu-img-cmds.hx      replication.c
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos$ git branch
+  master
+* qemu-eos-v4.2.1
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ mkdir qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ cd qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ls
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ls ..
+magic-lantern  qemu-eos  qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ cd ../qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos$ ls
+CODING_STYLE.rst  blockdev.c        dump                  memory.c              qemu-img.c              replication.h
+COPYING           blockjob.c        exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+COPYING.LIB       bootdevice.c      exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+Changelog         bsd-user          fpu                   migration             qemu-io.c               scripts
+Kconfig.host      bt-host.c         fsdev                 module-common.c       qemu-keymap.c           scsi
+LICENSE           bt-vhci.c         gdb-xml               monitor               qemu-nbd.c              slirp
+MAINTAINERS       capstone          gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile          chardev           gitdm.config          net                   qemu-option-trace.texi  target
+Makefile.objs     configure         hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+Makefile.target   contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+README.rst        cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+VERSION           cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+accel             crypto            io                    po                    qemu-tech.texi          trace
+arch_init.c       default-configs   ioport.c              python                qemu.nsi                trace-events
+audio             device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+authz             device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+backends          disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+balloon.c         disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+block             dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+block.c           docs              linux-user            qemu-edid.c           replay
+blockdev-nbd.c    dtc               magiclantern          qemu-img-cmds.hx      replication.c
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ ls
+magic-lantern  qemu-eos  qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ cd qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ls
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ls ../qemu-eos
+CODING_STYLE.rst  blockdev.c        dump                  memory.c              qemu-img.c              replication.h
+COPYING           blockjob.c        exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+COPYING.LIB       bootdevice.c      exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+Changelog         bsd-user          fpu                   migration             qemu-io.c               scripts
+Kconfig.host      bt-host.c         fsdev                 module-common.c       qemu-keymap.c           scsi
+LICENSE           bt-vhci.c         gdb-xml               monitor               qemu-nbd.c              slirp
+MAINTAINERS       capstone          gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile          chardev           gitdm.config          net                   qemu-option-trace.texi  target
+Makefile.objs     configure         hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+Makefile.target   contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+README.rst        cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+VERSION           cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+accel             crypto            io                    po                    qemu-tech.texi          trace
+arch_init.c       default-configs   ioport.c              python                qemu.nsi                trace-events
+audio             device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+authz             device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+backends          disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+balloon.c         disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+block             dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+block.c           docs              linux-user            qemu-edid.c           replay
+blockdev-nbd.c    dtc               magiclantern          qemu-img-cmds.hx      replication.c
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ls ../qemu-eos/configure
+../qemu-eos/configure
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ chmod +x ../qemu-eos/configure
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ ../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines/qemu-eos-build$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ ls
+magic-lantern  qemu-eos  qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ cp qemu-eos ~/sauce/simplified/
+cp: -r not specified; omitting directory 'qemu-eos'
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ man cp
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ cp qemu-eos ~/sauce/simplified/ -r
+joelwindows7@JOEL-ROG-GL503GE:/mnt/w/kolmo_simple/Artistic_Setups/reticulatedpines$ cd
+joelwindows7@JOEL-ROG-GL503GE:~$ ls
+hide  sauce
+joelwindows7@JOEL-ROG-GL503GE:~$ cd sauce/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce$ ls
+magic-lantern  qemu-eos  simplified
+joelwindows7@JOEL-ROG-GL503GE:~/sauce$ cd simplified/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magic-lantern  qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ mkdir qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magic-lantern  qemu-eos  qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ mv magic-lantern/ magiclantern_simplified
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magiclantern_simplified  qemu-eos  qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ chmod ../qemu-eos/configure
+chmod: missing operand after ‘../qemu-eos/configure’
+Try 'chmod --help' for more information.
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ chmod +x ../qemu-eos/configure
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ../qemu-eos/configure
+-bash: ../qemu-eos/configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ cd ../qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ ls
+CODING_STYLE.rst  blockdev.c        dump                  memory.c              qemu-img.c              replication.h
+COPYING           blockjob.c        exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+COPYING.LIB       bootdevice.c      exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+Changelog         bsd-user          fpu                   migration             qemu-io.c               scripts
+Kconfig.host      bt-host.c         fsdev                 module-common.c       qemu-keymap.c           scsi
+LICENSE           bt-vhci.c         gdb-xml               monitor               qemu-nbd.c              slirp
+MAINTAINERS       capstone          gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile          chardev           gitdm.config          net                   qemu-option-trace.texi  target
+Makefile.objs     configure         hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+Makefile.target   contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+README.rst        cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+VERSION           cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+accel             crypto            io                    po                    qemu-tech.texi          trace
+arch_init.c       default-configs   ioport.c              python                qemu.nsi                trace-events
+audio             device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+authz             device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+backends          disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+balloon.c         disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+block             dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+block.c           docs              linux-user            qemu-edid.c           replay
+blockdev-nbd.c    dtc               magiclantern          qemu-img-cmds.hx      replication.c
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ git branch
+  master
+* qemu-eos-v4.2.1
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ l
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ ls
+CODING_STYLE.rst  blockdev.c        dump                  memory.c              qemu-img.c              replication.h
+COPYING           blockjob.c        exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+COPYING.LIB       bootdevice.c      exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+Changelog         bsd-user          fpu                   migration             qemu-io.c               scripts
+Kconfig.host      bt-host.c         fsdev                 module-common.c       qemu-keymap.c           scsi
+LICENSE           bt-vhci.c         gdb-xml               monitor               qemu-nbd.c              slirp
+MAINTAINERS       capstone          gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile          chardev           gitdm.config          net                   qemu-option-trace.texi  target
+Makefile.objs     configure         hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+Makefile.target   contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+README.rst        cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+VERSION           cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+accel             crypto            io                    po                    qemu-tech.texi          trace
+arch_init.c       default-configs   ioport.c              python                qemu.nsi                trace-events
+audio             device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+authz             device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+backends          disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+balloon.c         disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+block             dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+block.c           docs              linux-user            qemu-edid.c           replay
+blockdev-nbd.c    dtc               magiclantern          qemu-img-cmds.hx      replication.c
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ../qemu-eos/configure.sh --target-list=arm-softmmu --en
+able-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure.sh: Permission denied
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ chmod +x ../qemu-eos/configure.sh
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ../qemu-eos/configure.sh --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+-bash: ../qemu-eos/configure.sh: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ mkdir build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ cd build/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/build$ ../configure --target-list=arm-softmmu --enable-plugins
+ --disable-docs --enable-vnc --enable-gtk
+-bash: ../configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/build$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ ./configure --target-list=arm-softmmu --enable-plugins --disa
+ble-docs --enable-vnc --enable-gtk
+-bash: ./configure: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$
