@@ -1,0 +1,7 @@
+the messed config_host.h is gone, somehow the copy paste got skipped.
+but my point to show is like:
+
+#define QEMU_VERSION "4.2.1
+"
+
+the closing `"` supposedly not newlined!!
