@@ -1,0 +1,102 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+Makefile     block                   config.log     dump           monitor  qapi                     qom      target
+accel        capstone                config.status  fsdev          nbd      qapi-gen-timestamp       replay   tests
+arm-softmmu  chardev                 contrib        hw             net      qemu-plugins-ld.symbols  roms     trace
+audio        config-all-devices.mak  crypto         io             pc-bios  qemu-version.h           scripts  ui
+authz        config-all-disas.mak    disas          linux-headers  po       qga                      scsi     util
+backends     config-host.mak         docs           migration      python   qobject                  stubs
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls scripts
+analyse-9p-simpletrace.py     device-crash-test          qapi                   signrom.py
+analyse-locks-simpletrace.py  disas-objdump.pl           qapi-gen.py            simpletrace.py
+analyze-inclusions            dump-guest-memory.py       qemu-binfmt-conf.sh    switch-timer-api
+analyze-migration.py          extract-vsssdk-headers     qemu-gdb.py            tap-driver.pl
+archive-source.sh             feature_to_c.sh            qemu-guest-agent       tap-merge.pl
+checkpatch.pl                 fix-multiline-comments.sh  qemu-trace-stap        texi2pod.pl
+clean-header-guards.pl        get_maintainer.pl          qemu-trace-stap.texi   tracetool
+clean-includes                git-submodule.sh           qemugdb                tracetool.py
+cleanup-trace-events.pl       git.orderfile              qmp                    travis
+cocci-macro-file.h            hxtool                     refresh-pxe-roms.sh    update-linux-headers.sh
+coccinelle                    kvm                        render_block_graph.py  vmstate-static-checker.py
+coverity-model.c              make-release               replay-dump.py
+create_config                 minikconf.py               shaderinclude.pl
+decodetree.py                 modules                    show-fixed-bugs.sh
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls -l ./script/git-submodule.sh
+ls: cannot access './script/git-submodule.sh': No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls -l ./scripts/git-submodule.sh
+-rwxr-xr-x 1 joelwindows7 joelwindows7 2035 Nov 19 19:04 ./scripts/git-submodule.sh
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ./scripts/git-submodule.sh
+-bash: ./scripts/git-submodule.sh: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ chmod +x ./scripts/git-submodules.sh
+chmod: cannot access './scripts/git-submodules.sh': No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ chmod +x ./scripts/git-submodule.sh
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ./scripts/git-submodule.sh
+-bash: ./scripts/git-submodule.sh: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ for filer in ./scripts/*.sh; do dos2unix filer; done
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ./scripts/git-submodule.sh
+-bash: ./scripts/git-submodule.sh: /bin/sh^M: bad interpreter: No such file or directory
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ dos2unix ./scripts/git-submodule.sh
+dos2unix: converting file ./scripts/git-submodule.sh to Unix format...
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ./scripts/git-submodule.sh
+./scripts/git-submodule.sh: 9: shift: can't shift that many
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls -l ./scripts
+lrwxrwxrwx 1 joelwindows7 joelwindows7 52 Nov 19 20:03 ./scripts -> /home/joelwindows7/sauce/simplified/qemu-eos/scripts
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ ls
+CODING_STYLE.rst  blockdev.c        docs                  linux-user            qemu-edid.c             replay
+COPYING           blockjob.c        dtc                   magiclantern          qemu-img-cmds.hx        replication.c
+COPYING.LIB       bootdevice.c      dump                  memory.c              qemu-img.c              replication.h
+Changelog         bsd-user          exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+Kconfig.host      bt-host.c         exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+LICENSE           bt-vhci.c         fpu                   migration             qemu-io.c               scripts
+MAINTAINERS       build             fsdev                 module-common.c       qemu-keymap.c           scsi
+Makefile          capstone          gdb-xml               monitor               qemu-nbd.c              slirp
+Makefile.objs     chardev           gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile.target   configure         gitdm.config          net                   qemu-option-trace.texi  target
+README.rst        configure.sh      hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+VERSION           contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+accel             cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+arch_init.c       cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+audio             crypto            io                    po                    qemu-tech.texi          trace
+authz             default-configs   ioport.c              python                qemu.nsi                trace-events
+backends          device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+balloon.c         device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+block             disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+block.c           disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+blockdev-nbd.c    dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ for filer in ./scripts/*.sh; do dos2unix filer; done
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ 

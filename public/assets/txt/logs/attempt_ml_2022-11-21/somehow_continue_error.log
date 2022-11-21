@@ -1,0 +1,335 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ ls
+CODING_STYLE.rst  blockdev.c        docs                  linux-user            qemu-edid.c             replay
+COPYING           blockjob.c        dtc                   magiclantern          qemu-img-cmds.hx        replication.c
+COPYING.LIB       bootdevice.c      dump                  memory.c              qemu-img.c              replication.h
+Changelog         bsd-user          exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+Kconfig.host      bt-host.c         exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+LICENSE           bt-vhci.c         fpu                   migration             qemu-io.c               scripts
+MAINTAINERS       build             fsdev                 module-common.c       qemu-keymap.c           scsi
+Makefile          capstone          gdb-xml               monitor               qemu-nbd.c              slirp
+Makefile.objs     chardev           gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile.target   configure         gitdm.config          net                   qemu-option-trace.texi  target
+README.rst        configure.sh      hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+VERSION           contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+accel             cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+arch_init.c       cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+audio             crypto            io                    po                    qemu-tech.texi          trace
+authz             default-configs   ioport.c              python                qemu.nsi                trace-events
+backends          device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+balloon.c         device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+block             disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+block.c           disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+blockdev-nbd.c    dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ for filer in ./scripts/*.sh; do dos2unix filer; done
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make -j12
+  GEN     config-host.h
+  GIT     ui/keycodemapdb tests/fp/berkeley-testfloat-3 tests/fp/berkeley-softfloat-3 capstone
+  GEN     qemu-options.def
+  GEN     trace/generated-helpers.c
+  GEN     module_block.h
+  GEN     tests/test-qapi-gen
+  GEN     trace-root.h
+  GEN     accel/kvm/trace.h
+  GEN     accel/tcg/trace.h
+  GEN     crypto/trace.h
+  GEN     monitor/trace.h
+  GEN     authz/trace.h
+  GEN     block/trace.h
+Submodule 'capstone' (https://git.qemu.org/git/capstone.git) registered for path 'capstone'
+Submodule 'tests/fp/berkeley-softfloat-3' (https://git.qemu.org/git/berkeley-softfloat-3.git) registered for path 'tests/fp/berkeley-softfloat-3'
+Submodule 'tests/fp/berkeley-testfloat-3' (https://git.qemu.org/git/berkeley-testfloat-3.git) registered for path 'tests/fp/berkeley-testfloat-3'
+Submodule 'ui/keycodemapdb' (https://git.qemu.org/git/keycodemapdb.git) registered for path 'ui/keycodemapdb'
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/capstone'...
+  GEN     io/trace.h
+  GEN     nbd/trace.h
+  GEN     scsi/trace.h
+  GEN     chardev/trace.h
+  GEN     audio/trace.h
+  GEN     hw/9pfs/trace.h
+  GEN     hw/acpi/trace.h
+  GEN     hw/alpha/trace.h
+  GEN     hw/arm/trace.h
+  GEN     hw/audio/trace.h
+  GEN     hw/block/trace.h
+  GEN     hw/block/dataplane/trace.h
+  GEN     hw/char/trace.h
+  GEN     hw/dma/trace.h
+  GEN     hw/hppa/trace.h
+  GEN     hw/i2c/trace.h
+  GEN     hw/i386/trace.h
+  GEN     hw/i386/xen/trace.h
+  GEN     hw/ide/trace.h
+  GEN     hw/input/trace.h
+  GEN     hw/intc/trace.h
+  GEN     hw/isa/trace.h
+  GEN     hw/mem/trace.h
+  GEN     hw/mips/trace.h
+  GEN     hw/misc/trace.h
+  GEN     hw/misc/macio/trace.h
+  GEN     hw/net/trace.h
+  GEN     hw/nvram/trace.h
+  GEN     hw/pci/trace.h
+  GEN     hw/pci-host/trace.h
+  GEN     hw/ppc/trace.h
+  GEN     hw/rdma/trace.h
+  GEN     hw/rdma/vmw/trace.h
+  GEN     hw/rtc/trace.h
+  GEN     hw/s390x/trace.h
+  GEN     hw/scsi/trace.h
+  GEN     hw/sd/trace.h
+  GEN     hw/sparc/trace.h
+  GEN     hw/sparc64/trace.h
+  GEN     hw/timer/trace.h
+  GEN     hw/tpm/trace.h
+  GEN     hw/usb/trace.h
+  GEN     hw/vfio/trace.h
+  GEN     hw/virtio/trace.h
+  GEN     hw/watchdog/trace.h
+  GEN     hw/xen/trace.h
+  GEN     hw/riscv/trace.h
+  GEN     hw/gpio/trace.h
+  GEN     migration/trace.h
+  GEN     net/trace.h
+  GEN     ui/trace.h
+  GEN     hw/display/trace.h
+  GEN     qapi/trace.h
+  GEN     qom/trace.h
+  GEN     target/arm/trace.h
+  GEN     target/hppa/trace.h
+  GEN     target/i386/trace.h
+  GEN     target/mips/trace.h
+  GEN     target/ppc/trace.h
+  GEN     target/riscv/trace.h
+  GEN     target/s390x/trace.h
+  GEN     target/sparc/trace.h
+  GEN     util/trace.h
+  GEN     hw/core/trace.h
+  GEN     trace-root.c
+  GEN     accel/kvm/trace.c
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+  GEN     accel/tcg/trace.c
+  GEN     crypto/trace.c
+  GEN     monitor/trace.c
+  GEN     authz/trace.c
+  GEN     block/trace.c
+  GEN     io/trace.c
+  GEN     nbd/trace.c
+  GEN     scsi/trace.c
+  GEN     chardev/trace.c
+  GEN     audio/trace.c
+  GEN     hw/9pfs/trace.c
+  GEN     hw/acpi/trace.c
+  GEN     hw/alpha/trace.c
+  GEN     hw/arm/trace.c
+  GEN     hw/audio/trace.c
+  GEN     hw/block/trace.c
+  GEN     hw/block/dataplane/trace.c
+  GEN     hw/char/trace.c
+  GEN     hw/dma/trace.c
+  GEN     hw/hppa/trace.c
+  GEN     hw/i2c/trace.c
+  GEN     hw/i386/trace.c
+  GEN     hw/i386/xen/trace.c
+  GEN     hw/ide/trace.c
+  GEN     hw/input/trace.c
+  GEN     hw/intc/trace.c
+  GEN     hw/isa/trace.c
+  GEN     hw/mem/trace.c
+  GEN     hw/mips/trace.c
+  GEN     hw/misc/trace.c
+  GEN     hw/misc/macio/trace.c
+  GEN     hw/net/trace.c
+  GEN     hw/nvram/trace.c
+  GEN     hw/pci/trace.c
+  GEN     hw/pci-host/trace.c
+  GEN     hw/ppc/trace.c
+  GEN     hw/rdma/trace.c
+: Permission deniedsauce/simplified/qemu-eos/scripts/create_config: 4:
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/create_config: 7: Syntax error: word unexpected (expecting "in")
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:203: config-host.h-timestamp] Error 2
+make: *** Deleting file 'config-host.h-timestamp'
+make: *** Waiting for unfinished jobs....
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make: *** [Makefile:472: qemu-options.def] Error 2
+make: *** Deleting file 'qemu-options.def'
+fatal: unable to access 'https://git.qemu.org/git/capstone.git/': Could not resolve host: git.qemu.org
+fatal: clone of 'https://git.qemu.org/git/capstone.git' into submodule path '/home/joelwindows7/sauce/simplified/qemu-eos/capstone' failed
+Failed to clone 'capstone'. Retry scheduled
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/tests/fp/berkeley-softfloat-3'...
+^Cmake: *** [Makefile:49: git-submodule-update] Interrupt
+
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make clean
+  GEN     arm-softmmu/hmp-commands.h
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make[1]: *** [Makefile:218: hmp-commands.h] Error 2
+make[1]: *** Deleting file 'hmp-commands.h'
+make: *** [Makefile:491: arm-softmmu/clean] Error 2
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ cd scripts
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/scripts$ ls
+analyse-9p-simpletrace.py     device-crash-test          qapi                   signrom.py
+analyse-locks-simpletrace.py  disas-objdump.pl           qapi-gen.py            simpletrace.py
+analyze-inclusions            dump-guest-memory.py       qemu-binfmt-conf.sh    switch-timer-api
+analyze-migration.py          extract-vsssdk-headers     qemu-gdb.py            tap-driver.pl
+archive-source.sh             feature_to_c.sh            qemu-guest-agent       tap-merge.pl
+checkpatch.pl                 fix-multiline-comments.sh  qemu-trace-stap        texi2pod.pl
+clean-header-guards.pl        get_maintainer.pl          qemu-trace-stap.texi   tracetool
+clean-includes                git-submodule.sh           qemugdb                tracetool.py
+cleanup-trace-events.pl       git.orderfile              qmp                    travis
+cocci-macro-file.h            hxtool                     refresh-pxe-roms.sh    update-linux-headers.sh
+coccinelle                    kvm                        render_block_graph.py  vmstate-static-checker.py
+coverity-model.c              make-release               replay-dump.py
+create_config                 minikconf.py               shaderinclude.pl
+decodetree.py                 modules                    show-fixed-bugs.sh
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/scripts$ for filer in ./*; do dos2unix filer; done
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+dos2unix: filer: No such file or directory
+dos2unix: Skipping filer, not a regular file.
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/scripts$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ cd ..
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+Makefile     config-all-devices.mak  dump            net                      qobject  trace
+accel        config-all-disas.mak    fsdev           pc-bios                  qom      trace-events-all
+arm-softmmu  config-host.mak         hw              po                       replay   trace-root.c-timestamp
+audio        config.log              io              python                   roms     trace-root.h-timestamp
+authz        config.status           linux-headers   qapi                     scripts  ui
+backends     contrib                 migration       qapi-gen-timestamp       scsi     util
+block        crypto                  module_block.h  qemu-plugins-ld.symbols  stubs
+capstone     disas                   monitor         qemu-version.h           target
+chardev      docs                    nbd             qga                      tests
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make clean
+  GEN     arm-softmmu/hmp-commands.h
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 2:
+: Permission deniedsauce/simplified/qemu-eos/scripts/hxtool: 4: {
+/home/joelwindows7/sauce/simplified/qemu-eos/scripts/hxtool: 7: Syntax error: word unexpected (expecting "in")
+make[1]: *** [Makefile:218: hmp-commands.h] Error 2
+make[1]: *** Deleting file 'hmp-commands.h'
+make: *** [Makefile:491: arm-softmmu/clean] Error 2
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$
