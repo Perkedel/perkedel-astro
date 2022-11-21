@@ -1,0 +1,65 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ ls
+CODING_STYLE.rst  blockdev.c        docs                  linux-user            qemu-edid.c             replay
+COPYING           blockjob.c        dtc                   magiclantern          qemu-img-cmds.hx        replication.c
+COPYING.LIB       bootdevice.c      dump                  memory.c              qemu-img.c              replication.h
+Changelog         bsd-user          exec-vary.c           memory_ldst.inc.c     qemu-img.texi           roms
+Kconfig.host      bt-host.c         exec.c                memory_mapping.c      qemu-io-cmds.c          rules.mak
+LICENSE           bt-vhci.c         fpu                   migration             qemu-io.c               scripts
+MAINTAINERS       build             fsdev                 module-common.c       qemu-keymap.c           scsi
+Makefile          capstone          gdb-xml               monitor               qemu-nbd.c              slirp
+Makefile.objs     chardev           gdbstub.c             nbd                   qemu-nbd.texi           stubs
+Makefile.target   configure         gitdm.config          net                   qemu-option-trace.texi  target
+README.rst        configure.sh      hmp-commands-info.hx  os-posix.c            qemu-options-wrapper.h  tcg
+VERSION           contrib           hmp-commands.hx       os-win32.c            qemu-options.h          tests
+accel             cpus-common.c     hw                    pc-bios               qemu-options.hx         thunk.c
+arch_init.c       cpus.c            include               plugins               qemu-seccomp.c          tpm.c
+audio             crypto            io                    po                    qemu-tech.texi          trace
+authz             default-configs   ioport.c              python                qemu.nsi                trace-events
+backends          device-hotplug.c  iothread.c            qapi                  qemu.sasl               ui
+balloon.c         device_tree.c     job-qmp.c             qdev-monitor.c        qga                     util
+block             disas             job.c                 qemu-bridge-helper.c  qobject                 version.rc
+block.c           disas.c           libdecnumber          qemu-deprecated.texi  qom                     vl.c
+blockdev-nbd.c    dma-helpers.c     linux-headers         qemu-doc.texi         qtest.c
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ git pull
+remote: Enumerating objects: 45, done.
+remote: Counting objects: 100% (45/45), done.
+remote: Compressing objects: 100% (12/12), done.
+remote: Total 36 (delta 24), reused 36 (delta 24), pack-reused 0
+Unpacking objects: 100% (36/36), 15.49 KiB | 97.00 KiB/s, done.
+From https://github.com/reticulatedpines/qemu-eos
+   9314949d69..ed971884db  qemu-eos-v4.2.1 -> origin/qemu-eos-v4.2.1
+Updating 9314949d69..ed971884db
+error: Your local changes to the following files would be overwritten by merge:
+        magiclantern/ml_qemu/run.py
+        magiclantern/ml_tests/tests.py
+        magiclantern/run_qemu.py
+        magiclantern/run_tests.py
+Please commit your changes or stash them before you merge.
+Aborting
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ git pull
+Updating 9314949d69..ed971884db
+error: Your local changes to the following files would be overwritten by merge:
+        magiclantern/ml_qemu/run.py
+        magiclantern/ml_tests/tests.py
+        magiclantern/run_qemu.py
+        magiclantern/run_tests.py
+Please commit your changes or stash them before you merge.
+Aborting
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ git stash -a
+Saved working directory and index state WIP on qemu-eos-v4.2.1: 9314949d69 run_tests: support source_dir throughout
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$ git pull
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+Updating 9314949d69..ed971884db
+Fast-forward
+Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+ magiclantern/cam_config/debug-logging.gdb | 1870 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ magiclantern/ml_qemu/run.py               |   61 ++-
+ magiclantern/ml_tests/tests.py            |    9 +-
+ magiclantern/run_qemu.py                  |   54 +-
+ magiclantern/run_tests.py                 |   19 +-
+ 5 files changed, 1970 insertions(+), 43 deletions(-)
+ create mode 100644 magiclantern/cam_config/debug-logging.gdb
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos$
