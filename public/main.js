@@ -12,6 +12,8 @@ Perkedel's base JavaScript for Perkedel's raw websites
 // import 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js';
 // import 'https://code.jquery.com/jquery-3.6.1.min.js';
 // import '/node_modules/focus-visible/dist/focus-visible.min.js';
+// import Toastify from 'toastify-js';
+// import Toastify from '/node_modules/toastify-js';
 
 /*
 noscript. built-in standard tag for if JS disabled
@@ -261,6 +263,18 @@ function plsCopyThe(thing) {
 
 function plsCopyTheURL() {
     plsCopyThe(location.href);
+    // https://github.com/apvarun/toastify-js
+    // https://apvarun.github.io/toastify-js/#
+    Toastify({
+        text: `Copied the URL ` + location.href + ` to clipboard`,
+        duration: 3000,
+        gravity: "bottom",
+        position: "left",
+        style: {
+            background: "linear-gradient(to right, #000022, #002222)",
+        },
+        onClick: function() {},
+    }).showToast();
 }
 
 function URLInfoPls() {
