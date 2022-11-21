@@ -1,0 +1,378 @@
+joelwindows7@JOEL-ROG-GL503GE:~$ cd sauce/simplified/qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ls
+Makefile     block                 config.status  fsdev          nbd      qemu-plugins-ld.symbols  scripts  ui
+accel        capstone              contrib        hw             net      qga                      scsi     util
+arm-softmmu  chardev               crypto         io             pc-bios  qobject                  stubs
+audio        config-all-disas.mak  disas          linux-headers  po       qom                      target
+authz        config-host.mak       docs           migration      python   replay                   tests
+backends     config.log            dump           monitor        qapi     roms                     trace
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make -j12
+  GEN     config-all-devices.mak
+  GEN     config-host.h
+  GIT     ui/keycodemapdb tests/fp/berkeley-testfloat-3 tests/fp/berkeley-softfloat-3 capstone
+  GEN     qemu-options.def
+  GEN     qapi-gen
+  GEN     trace/generated-tcg-tracers.h
+  GEN     trace/generated-helpers-wrappers.h
+  GEN     trace/generated-helpers.h
+  GEN     trace/generated-helpers.c
+  GEN     module_block.h
+  GEN     tests/test-qapi-gen
+  GEN     trace-root.h
+  GEN     accel/kvm/trace.h
+  GEN     accel/tcg/trace.h
+  GEN     crypto/trace.h
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/capstone'...
+  GEN     monitor/trace.h
+  GEN     authz/trace.h
+  GEN     block/trace.h
+  GEN     io/trace.h
+  GEN     nbd/trace.h
+  GEN     scsi/trace.h
+  GEN     chardev/trace.h
+  GEN     audio/trace.h
+  GEN     hw/9pfs/trace.h
+  GEN     hw/acpi/trace.h
+  GEN     hw/alpha/trace.h
+  GEN     hw/arm/trace.h
+  GEN     hw/audio/trace.h
+  GEN     hw/block/trace.h
+  GEN     hw/block/dataplane/trace.h
+  GEN     hw/char/trace.h
+  GEN     hw/dma/trace.h
+  GEN     hw/hppa/trace.h
+  GEN     hw/i2c/trace.h
+  GEN     hw/i386/trace.h
+  GEN     hw/i386/xen/trace.h
+  GEN     hw/ide/trace.h
+  GEN     hw/input/trace.h
+  GEN     hw/intc/trace.h
+  GEN     hw/isa/trace.h
+  GEN     hw/mem/trace.h
+  GEN     hw/mips/trace.h
+  GEN     hw/misc/trace.h
+  GEN     hw/misc/macio/trace.h
+  GEN     hw/net/trace.h
+  GEN     hw/nvram/trace.h
+  GEN     hw/pci/trace.h
+  GEN     hw/pci-host/trace.h
+  GEN     hw/ppc/trace.h
+  GEN     hw/rdma/trace.h
+  GEN     hw/rdma/vmw/trace.h
+  GEN     hw/rtc/trace.h
+  GEN     hw/s390x/trace.h
+  GEN     hw/scsi/trace.h
+  GEN     hw/sd/trace.h
+  GEN     hw/sparc/trace.h
+  GEN     hw/sparc64/trace.h
+  GEN     hw/timer/trace.h
+  GEN     hw/tpm/trace.h
+  GEN     hw/usb/trace.h
+  GEN     hw/vfio/trace.h
+  GEN     hw/virtio/trace.h
+  GEN     hw/watchdog/trace.h
+  GEN     hw/xen/trace.h
+  GEN     hw/gpio/trace.h
+  GEN     hw/riscv/trace.h
+  GEN     migration/trace.h
+  GEN     net/trace.h
+  GEN     ui/trace.h
+  GEN     hw/display/trace.h
+  GEN     qapi/trace.h
+  GEN     qom/trace.h
+  GEN     target/arm/trace.h
+  GEN     target/hppa/trace.h
+  GEN     target/i386/trace.h
+  GEN     target/mips/trace.h
+  GEN     target/ppc/trace.h
+  GEN     target/riscv/trace.h
+  GEN     target/s390x/trace.h
+  GEN     target/sparc/trace.h
+  GEN     util/trace.h
+  GEN     hw/core/trace.h
+  GEN     trace-root.c
+  GEN     accel/kvm/trace.c
+  GEN     accel/tcg/trace.c
+  GEN     crypto/trace.c
+  GEN     monitor/trace.c
+  GEN     authz/trace.c
+  GEN     block/trace.c
+  GEN     io/trace.c
+  GEN     nbd/trace.c
+  GEN     scsi/trace.c
+  GEN     chardev/trace.c
+  GEN     audio/trace.c
+  GEN     hw/9pfs/trace.c
+  GEN     hw/acpi/trace.c
+  GEN     hw/alpha/trace.c
+  GEN     hw/arm/trace.c
+  GEN     hw/audio/trace.c
+  GEN     hw/block/trace.c
+  GEN     hw/block/dataplane/trace.c
+  GEN     hw/char/trace.c
+  GEN     hw/dma/trace.c
+  GEN     hw/hppa/trace.c
+  GEN     hw/i2c/trace.c
+  GEN     hw/i386/trace.c
+  GEN     hw/i386/xen/trace.c
+  GEN     hw/ide/trace.c
+  GEN     hw/input/trace.c
+  GEN     hw/intc/trace.c
+  GEN     hw/isa/trace.c
+  GEN     hw/mem/trace.c
+  GEN     hw/mips/trace.c
+  GEN     hw/misc/trace.c
+  GEN     hw/misc/macio/trace.c
+  GEN     hw/net/trace.c
+  GEN     hw/nvram/trace.c
+  GEN     hw/pci/trace.c
+  GEN     hw/pci-host/trace.c
+  GEN     hw/ppc/trace.c
+  GEN     hw/rdma/trace.c
+  GEN     hw/rdma/vmw/trace.c
+  GEN     hw/rtc/trace.c
+  GEN     hw/s390x/trace.c
+  GEN     hw/scsi/trace.c
+  GEN     hw/sd/trace.c
+  GEN     hw/sparc/trace.c
+  GEN     hw/sparc64/trace.c
+  GEN     hw/timer/trace.c
+  GEN     hw/tpm/trace.c
+  GEN     hw/usb/trace.c
+  GEN     hw/vfio/trace.c
+  GEN     hw/virtio/trace.c
+  GEN     hw/watchdog/trace.c
+  GEN     hw/xen/trace.c
+  GEN     hw/gpio/trace.c
+  GEN     hw/riscv/trace.c
+  GEN     migration/trace.c
+  GEN     net/trace.c
+  GEN     ui/trace.c
+  GEN     hw/display/trace.c
+  GEN     qapi/trace.c
+  GEN     qom/trace.c
+  GEN     target/arm/trace.c
+  GEN     target/hppa/trace.c
+  GEN     target/i386/trace.c
+  GEN     target/mips/trace.c
+  GEN     target/ppc/trace.c
+  GEN     target/riscv/trace.c
+  GEN     target/s390x/trace.c
+  GEN     target/sparc/trace.c
+  GEN     util/trace.c
+  GEN     hw/core/trace.c
+warning: redirecting to https://gitlab.com/qemu-project/capstone.git/
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/tests/fp/berkeley-softfloat-3'...
+warning: redirecting to https://gitlab.com/qemu-project/berkeley-softfloat-3.git/
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/tests/fp/berkeley-testfloat-3'...
+warning: redirecting to https://gitlab.com/qemu-project/berkeley-testfloat-3.git/
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/ui/keycodemapdb'...
+warning: redirecting to https://gitlab.com/qemu-project/keycodemapdb.git/
+  GEN     ui/input-keymap-atset1-to-qcode.c
+  GEN     ui/input-keymap-linux-to-qcode.c
+  GEN     ui/input-keymap-qcode-to-atset1.c
+  GEN     ui/input-keymap-qcode-to-atset2.c
+  GEN     ui/input-keymap-qcode-to-atset3.c
+  GEN     ui/input-keymap-qcode-to-linux.c
+  GEN     ui/input-keymap-qcode-to-qnum.c
+  GEN     ui/input-keymap-qcode-to-sun.c
+  GEN     ui/input-keymap-qnum-to-qcode.c
+  GEN     ui/input-keymap-usb-to-qcode.c
+  GEN     ui/input-keymap-win32-to-qcode.c
+  GEN     ui/input-keymap-x11-to-qcode.c
+  GEN     ui/input-keymap-xorgevdev-to-qcode.c
+  GEN     ui/input-keymap-xorgkbd-to-qcode.c
+  GEN     ui/input-keymap-xorgxquartz-to-qcode.c
+  GEN     ui/input-keymap-xorgxwin-to-qcode.c
+  GEN     ui/input-keymap-osx-to-qcode.c
+  CC      cs.o
+  CC      utils.o
+  CC      SStream.o
+  CC      MCInstrDesc.o
+  CC      MCRegisterInfo.o
+  CC      arch/ARM/ARMInstPrinter.o
+  CC      arch/ARM/ARMDisassembler.o
+  CC      arch/ARM/ARMMapping.o
+  CC      arch/ARM/ARMModule.o
+  CC      arch/AArch64/AArch64BaseInfo.o
+  CC      arch/AArch64/AArch64Disassembler.o
+  CC      arch/AArch64/AArch64InstPrinter.o
+  CC      arch/AArch64/AArch64Mapping.o
+  CC      arch/AArch64/AArch64Module.o
+  CC      arch/Mips/MipsDisassembler.o
+  CC      arch/Mips/MipsInstPrinter.o
+  CC      arch/Mips/MipsMapping.o
+  CC      arch/Mips/MipsModule.o
+  CC      arch/PowerPC/PPCDisassembler.o
+  CC      arch/PowerPC/PPCInstPrinter.o
+  CC      arch/PowerPC/PPCMapping.o
+  CC      arch/PowerPC/PPCModule.o
+  CC      arch/Sparc/SparcDisassembler.o
+  CC      arch/Sparc/SparcInstPrinter.o
+  CC      arch/Sparc/SparcMapping.o
+  CC      arch/Sparc/SparcModule.o
+  CC      arch/SystemZ/SystemZDisassembler.o
+  CC      arch/SystemZ/SystemZInstPrinter.o
+  CC      arch/SystemZ/SystemZMapping.o
+  CC      arch/SystemZ/SystemZModule.o
+  CC      arch/SystemZ/SystemZMCTargetDesc.o
+  CC      arch/X86/X86Disassembler.o
+  CC      arch/X86/X86DisassemblerDecoder.o
+  CC      arch/X86/X86IntelInstPrinter.o
+  CC      arch/X86/X86ATTInstPrinter.o
+  CC      arch/X86/X86Mapping.o
+  CC      arch/X86/X86Module.o
+  CC      arch/XCore/XCoreDisassembler.o
+  CC      arch/XCore/XCoreInstPrinter.o
+  CC      arch/XCore/XCoreMapping.o
+  CC      arch/XCore/XCoreModule.o
+  CC      MCInst.o
+  AR      libcapstone.a
+ar: creating /home/joelwindows7/sauce/simplified/qemu-eos-build/capstone/libcapstone.a
+  CC      tests/qemu-iotests/socket_scm_helper.o
+  GEN     qga/qapi-generated/qapi-gen
+  CC      qapi/qapi-visit-core.o
+  CC      qapi/qapi-dealloc-visitor.o
+  CC      qapi/qobject-input-visitor.o
+  CC      qapi/qobject-output-visitor.o
+  CC      qapi/qmp-registry.o
+  CC      qapi/qmp-dispatch.o
+  CC      qapi/string-output-visitor.o
+  CC      qapi/string-input-visitor.o
+  CC      qapi/opts-visitor.o
+  CC      qapi/qapi-clone-visitor.o
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/tests/qemu-iotests/socket_scm_helper.c:13:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qmp-registry.c:15:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qapi-dealloc-visitor.c:15:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+./config-host.h:37:1: error: missing terminating " character
+./config-host.h:37:1: error: missing terminating " character
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qobject-output-visitor.c:15:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qobject-input-visitor.c:15:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qapi-visit-core.c:15:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/opts-visitor.c:13:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qmp-dispatch.c:14:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/string-output-visitor.c:13:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qapi-clone-visitor.c:11:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/string-input-visitor.c:13:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+  CC      qapi/qmp-event.o
+In file included from /home/joelwindows7/sauce/simplified/qemu-eos/include/qemu/osdep.h:30,
+                 from /home/joelwindows7/sauce/simplified/qemu-eos/qapi/qmp-event.c:14:
+./config-host.h:36:22: error: missing terminating " character [-Werror]
+   36 | #define QEMU_VERSION "4.2.1 "
+      |                      ^
+./config-host.h:37:1: error: missing terminating " character [-Werror]
+   37 | #define QEMU_VERSION_MAJOR 4
+      | ^
+./config-host.h:37:1: error: missing terminating " character
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: tests/qemu-iotests/socket_scm_helper.o] Error 1
+make: *** Waiting for unfinished jobs....
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qmp-registry.o] Error 1
+cc1: all warnings being treated as errors
+cc1: all warnings being treated as errors
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qmp-event.o] Error 1
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qapi-clone-visitor.o] Error 1
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qapi-dealloc-visitor.o] Error 1
+cc1: all warnings being treated as errors
+cc1: all warnings being treated as errors
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qmp-dispatch.o] Error 1
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/string-input-visitor.o] Error 1
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qobject-output-visitor.o] Error 1
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/opts-visitor.o] Error 1
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qapi-visit-core.o] Error 1
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/string-output-visitor.o] Error 1
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: qapi/qobject-input-visitor.o] Error 1
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$
