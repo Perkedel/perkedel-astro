@@ -266,10 +266,13 @@ function plsCopyTheURL() {
     // https://github.com/apvarun/toastify-js
     // https://apvarun.github.io/toastify-js/#
     Toastify({
-        text: `Copied the URL <b style="color:cyan">` + location.href + `</b> clipboard`,
+        text: 'Copied the URL <b style="color:cyan">' + location.href + '</b> clipboard',
+        class: "copyURLToast",
         duration: 5000,
         gravity: "bottom",
         position: "left",
+        escapeMarkup: true,
+        close: true,
         style: {
             background: "linear-gradient(to right, #000022, #002222)",
         },
