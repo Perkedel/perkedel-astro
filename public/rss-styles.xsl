@@ -70,13 +70,16 @@
                 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
 
                 <!-- HTMX https://htmx.org -->
-                <script src="/node_modules/htmx.org/dist/htmx.min.js"></script>
+                <!-- <script src="/node_modules/htmx.org/dist/htmx.min.js"></script> -->
+                <script src="https://unpkg.com/htmx.org@1.8.4"></script>
 
                 <!-- Tingle https://tingle.robinparisi.com/ -->
-                <script src="/node_modules/tingle.js/dist/tingle.min.js"></script>
+                <!-- <script src="/node_modules/tingle.js/dist/tingle.min.js"></script> -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.js"></script>
 
                 <!-- NoUISlider https://refreshless.com/nouislider/ -->
-                <script src="/node_modules/nouislider/dist/nouislider.min.js"></script>
+                <!-- <script src="/node_modules/nouislider/dist/nouislider.min.js"></script> -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.js"></script>
 
                 <!-- plyr (Deprecated, use Vidstack!) https://github.com/sampotts/plyr -->
                 <script src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js"></script>

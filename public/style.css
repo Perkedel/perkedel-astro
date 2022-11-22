@@ -11,8 +11,8 @@ https://nerdfonts.com
 @import url('https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css');
 @import url('https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css');
 @import url('https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css');
-@import url('/node_modules/tingle.js/dist/tingle.min.css');
-@import url('/node_modules/nouislider/dist/nouislider.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.css');
 @import url('https://cdn.plyr.io/3.7.3/plyr.css');
 
 /* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
