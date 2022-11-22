@@ -50,8 +50,8 @@ JOELwindows7: I have this camera. I gotta get this running!
 ## Info:
 ### Threads
 - [EOS 4000D / 3000D / Rebel T100 Development ](https://www.magiclantern.fm/forum/index.php?topic=23369.0 ) I saw no development. I shall attempt!
-- [EOS 4000D / 3000D / Rebel T100 Development All page ](https://www.magiclantern.fm/forum/index.php?topic=23369.0;all )
-- [EOS 1300D / Kiss X80 / Rebel T6 Development ](https://www.magiclantern.fm/forum/index.php?topic=23369.0 ) We were told by `a1ex` himself to go follow here after that main 3000D thread.
+- [EOS 4000D / 3000D / Rebel T100 Development All page ](https://www.magiclantern.fm/forum/index.php?topic=23369.0;all ) Oh yeah, once again, apply [this ROM Patch](https://www.magiclantern.fm/forum/index.php?topic=17969.msg172893#msg172893 )! It's even listed on that 4000D thread.
+- [EOS 1300D / Kiss X80 / Rebel T6 Development ](https://www.magiclantern.fm/forum/index.php?topic=17969 ) We were told by `a1ex` himself to go follow here after that main 3000D thread.
 - [Initiated Introduction at ML forum](https://www.magiclantern.fm/forum/index.php?topic=26712 )
 
 ### Steps:
@@ -115,6 +115,9 @@ JOELwindows7: I have this camera. I gotta get this running!
 
 ### Stuffs
 - [ccritix's 3000D Platform folder](https://github.com/ccritix/magic-lantern/tree/branches/1300D/platform/4000D.100 ) Complete with Stubs. Lacks the Installation folder atm. OR try using libUSB method?
+- [names_are_hard's how to QEMU in Magic Lantern Simplified](https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern )
+- [`eos.c` in ccritix](https://github.com/ccritix/magic-lantern/blob/branches/1300D/contrib/qemu/eos/eos.c) Notice the `4000D` definition! Ctrl + F and take a look for `4000D` Flash ID & stuffs.
+- [`eos.c` in names_are_hard](https://github.com/reticulatedpines/qemu-eos/blob/qemu-eos-v4.2.1/hw/eos/eos.c) No 4000D definition, but `1300D` definition! Ctrl + F that too, it's in **Enumeration**. I gotta bring this `4000D` in!
 
 ### End
 by JOELwindows7  
