@@ -72,6 +72,20 @@
                 <!-- HTMX https://htmx.org -->
                 <script src="/node_modules/htmx.org/dist/htmx.min.js"></script>
 
+                <!-- Tingle https://tingle.robinparisi.com/ -->
+                <script src="/node_modules/tingle.js/dist/tingle.min.js"></script>
+
+                <!-- NoUISlider https://refreshless.com/nouislider/ -->
+                <script src="/node_modules/nouislider/dist/nouislider.min.js"></script>
+
+                <!-- plyr (Deprecated, use Vidstack!) https://github.com/sampotts/plyr -->
+                <script src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js"></script>
+
+                <!-- blazy  -->
+                <script src="https://cdn.jsdelivr.net/blazy/latest/blazy.min.js"></script>
+
+                
+
                 <!-- <script src="/main.js">
                     </script> -->
                 <title>RSS | Perkedel Technologies Division NTLF+ASTR</title>
@@ -213,6 +227,11 @@
 
                 <!-- Toastify https://apvarun.github.io/toastify-js/ -->
                 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+                <!-- MailtoUI https://mailtoui.com/ -->
+                <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
+                <!-- Loud Links https://mahdif.github.io/loud-links/ -->
+                <script is:inline src="https://loudlinks.rocks/js/loudlinks.min.js"></script>
+
                 <!-- Main script finally -->
                 <script src="/main.js">
                     </script>

@@ -266,7 +266,7 @@ function plsCopyTheURL() {
     // https://github.com/apvarun/toastify-js
     // https://apvarun.github.io/toastify-js/#
     Toastify({
-        text: 'Copied the URL <b style="color:cyan">' + location.href + '</b> clipboard',
+        text: 'Copied the URL \`' + location.href + '\` to clipboard',
         class: "copyURLToast",
         duration: 5000,
         gravity: "bottom",
@@ -281,7 +281,22 @@ function plsCopyTheURL() {
 }
 
 function URLInfoPls() {
-    alert(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
+    // modal https://tingle.robinparisi.com/
+    let windowe = new tingle.modal({
+        footer: true,
+        onOpen: function() {
+            console.log(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
+        },
+        closeLabel: "Close",
+    });
+    windowe.setContent(`<h2>URL Info</h2><p><b style="color:cyan;">` + location.href + `</b><br/><br/>Pathname: <b style="color:cyan;">` + location.pathname + `</b><br/>Origin: <b style="color:cyan;">` + location.origin + `</b><br/></p>`);
+    windowe.addFooterBtn('OK', 'tingle-btn tingle-btn--primary', function() {
+        // here goes some logic
+        windowe.close();
+    });
+    windowe.open();
+
+    // alert(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
     // alert(`URL Info for:\n`+{Astro.url.href}+`\n\nPathname: `+{Astro.url.pathname}+`\nOrigin: `+location.origin+`\n`);
 }
 

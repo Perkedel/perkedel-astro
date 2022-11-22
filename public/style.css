@@ -11,6 +11,9 @@ https://nerdfonts.com
 @import url('https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css');
 @import url('https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css');
 @import url('https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css');
+@import url('/node_modules/tingle.js/dist/tingle.min.css');
+@import url('/node_modules/nouislider/dist/nouislider.min.css');
+@import url('https://cdn.plyr.io/3.7.3/plyr.css');
 
 /* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
    HTML content. To learn how to do something, just try searching Google for questions like
@@ -911,6 +914,41 @@ td {
         background-color: rgba(139, 0, 139, 0.25);
         color: white;
     } */
+
+
+/* Tingle CSS */
+
+.tingle-modal-box {
+    background: rgb(2, 0, 36);
+    color: white;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+}
+
+.tingle-modal-box__footer {
+    background: rgb(0, 0, 17);
+    color: white;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+}
+
+.tingle-btn {
+    border-radius: 30px;
+    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+}
+
+.tingle-btn--primary {
+    background-color: navy;
+    color: white;
+}
+
+.tingle-btn--primary:hover {
+    background-color: blue;
+    color: white;
+}
+
+.tingle-btn--primary:active {
+    background-color: cyan;
+    color: blue;
+}
 
 @media only screen and (max-width: 700px) {
     .ListGalleryStyle {
