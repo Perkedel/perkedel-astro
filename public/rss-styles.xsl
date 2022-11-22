@@ -60,6 +60,18 @@
                 <link rel="stylesheet" href="/style.css"/>
                 <!-- <link rel="stylesheet" href="https://github.com/Perkedel/perkedel-astro/raw/main/src/style/style.css"/> -->
                 <!-- <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Perkedel/perkedel-astro/main/src/style/style.css"/> -->
+
+                <!--jQuery without Google
+                    https://releases.jquery.com/
+                    https://jquery.com/
+                    -->
+                <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+                <!-- Magenta MIDI pls -->
+                <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
+
+                <!-- HTMX https://htmx.org -->
+                <script src="/node_modules/htmx.org/dist/htmx.min.js"></script>
+
                 <!-- <script src="/main.js">
                     </script> -->
                 <title>RSS | Perkedel Technologies Division NTLF+ASTR</title>
@@ -199,6 +211,9 @@
                     <p class="generateWord" id="generateWord"></p>
                 </footer>
 
+                <!-- Toastify https://apvarun.github.io/toastify-js/ -->
+                <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+                <!-- Main script finally -->
                 <script src="/main.js">
                     </script>
             </body>
