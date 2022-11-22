@@ -6,6 +6,9 @@ import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import ListCells3DModelSFW from '@components/Elements/SparePart/ListCells3DModelSFW.astro';
 import ListCells3DModelNSFW from '@components/Elements/SparePart/ListCells3DModelNSFW.astro';
+import SoughtAfterCells3DModelsSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsSFW.astro';
+import SoughtAfterCells3DModelsNSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsNSFW.astro';
+import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DModels.astro';
 ---
 <Layout 
     title="3D Models FULL VERSION 69420 NSFW RULE 32" 
@@ -16,8 +19,17 @@ import ListCells3DModelNSFW from '@components/Elements/SparePart/ListCells3DMode
     <h1>3D Models Pls</h1>
         <p>Blender, FBX, Humanoids, Sculpts, etc. <b>With no limited access</b></p>
         <h2>What to do?</h2>
-        <ul>
-            <ListCells3DModelSFW/>
-            <ListCells3DModelNSFW/>
-        </ul>
+            <h3>Available Now</h3>
+                <p>Models that are available right now</p>
+                <ul>
+                    <ListCells3DModelSFW/>
+                    <ListCells3DModelNSFW/>
+                </ul>
+            <h3>Wanted 3D Models</h3>
+                <p>Models that are <b>gone</b> & are <b>wanted right now</b></p>
+                <ul>
+                    <SoughtAfterCells3DModelsSFW/>
+                    <SoughtAfterCells3DModelsNSFW/>
+                </ul>
+                <PlsReupload3DModels/>
 </Layout>

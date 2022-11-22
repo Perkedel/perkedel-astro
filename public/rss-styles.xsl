@@ -233,7 +233,7 @@
                 <!-- MailtoUI https://mailtoui.com/ -->
                 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
                 <!-- Loud Links https://mahdif.github.io/loud-links/ -->
-                <script is:inline src="https://loudlinks.rocks/js/loudlinks.min.js"></script>
+                <script src="https://mahdif.github.io/loud-links/js/loudlinks.min.js"></script>
 
                 <!-- Main script finally -->
                 <script src="/main.js">
