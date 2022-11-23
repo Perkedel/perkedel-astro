@@ -1,0 +1,767 @@
+joelwindows7@JOEL-ROG-GL503GE:~$ ls
+hide  sauce
+joelwindows7@JOEL-ROG-GL503GE:~$ cd sauce/simplified/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magiclantern_simplified  qemu-eos  qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ rm -rf magiclantern_simplified/ && rm -rf qemu-eos && rm -rf qemu-eos-build/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ git clone https://github.com/reticulatedpines/qemu-eos
+Cloning into 'qemu-eos'...
+^C
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ git clone https://github.com/reticulatedpines/qemu-eos
+Cloning into 'qemu-eos'...
+remote: Enumerating objects: 581415, done.
+remote: Counting objects: 100% (373/373), done.
+remote: Compressing objects: 100% (169/169), done.
+remote: Total 581415 (delta 189), reused 324 (delta 170), pack-reused 581042
+Receiving objects: 100% (581415/581415), 337.27 MiB | 2.13 MiB/s, done.
+Resolving deltas: 100% (473044/473044), done.
+Updating files: 100% (8706/8706), done.
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos; git switch qemu-eos-v4.2.1; cd ..
+Updating files: 100% (7680/7680), done.
+Branch 'qemu-eos-v4.2.1' set up to track remote branch 'qemu-eos-v4.2.1' from 'origin'.
+Switched to a new branch 'qemu-eos-v4.2.1'
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ mkdir qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ cd qemu-eos-build
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ ../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+Install prefix    /usr/local
+BIOS directory    /usr/local/share/qemu
+firmware path     /usr/local/share/qemu-firmware
+binary directory  /usr/local/bin
+library directory /usr/local/lib
+module directory  /usr/local/lib/qemu
+libexec directory /usr/local/libexec
+include directory /usr/local/include
+config directory  /usr/local/etc
+local state directory   /usr/local/var
+Manual directory  /usr/local/share/man
+ELF interp prefix /usr/gnemul/qemu-%M
+Source path       /home/joelwindows7/sauce/simplified/qemu-eos
+GIT binary        git
+GIT submodules    ui/keycodemapdb tests/fp/berkeley-testfloat-3 tests/fp/berkeley-softfloat-3 capstone
+C compiler        cc
+Host C compiler   cc
+C++ compiler      c++
+Objective-C compiler cc
+ARFLAGS           rv
+CFLAGS            -O2 -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -g
+QEMU_CFLAGS       -I/usr/include/pixman-1  -Werror  -pthread -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -pthread -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -fPIE -DPIE -m64 -mcx16 -D_GNU_SOURCE -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -Wstrict-prototypes -Wredundant-decls -Wall -Wundef -Wwrite-strings -Wmissing-prototypes -fno-strict-aliasing -fno-common -fwrapv -std=gnu99  -Wexpansion-to-defined -Wendif-labels -Wno-shift-negative-value -Wno-missing-include-dirs -Wempty-body -Wnested-externs -Wformat-security -Wformat-y2k -Winit-self -Wignored-qualifiers -Wold-style-declaration -Wold-style-definition -Wtype-limits -fstack-protector-strong  -I/usr/include/p11-kit-1    -I/usr/include/libpng16  -I/usr/include/spice-server -I/usr/include/spice-1 -I$(SRC_PATH)/capstone/include
+LDFLAGS           -Wl,--warn-common -Wl,-z,relro -Wl,-z,now -pie -m64 -g
+QEMU_LDFLAGS
+make              make
+install           install
+python            python3 -B (3.10.6)
+slirp support     system
+smbd              /usr/sbin/smbd
+module support    no
+host CPU          x86_64
+host big endian   no
+target list       arm-softmmu
+gprof enabled     no
+sparse enabled    no
+strip binaries    yes
+profiler          no
+static build      no
+SDL support       yes (2.0.20)
+SDL image support no
+GTK support       yes (3.24.33)
+GTK GL support    yes
+VTE support       yes (0.68.0)
+TLS priority      NORMAL
+GNUTLS support    yes
+libgcrypt         no
+nettle            yes (3.7.3)
+  XTS             yes
+libtasn1          yes
+PAM               no
+iconv support     yes
+curses support    yes
+virgl support     yes (0.9.1)
+curl support      yes
+mingw32 support   no
+Audio drivers     pa oss
+Block whitelist (rw)
+Block whitelist (ro)
+VirtFS support    no
+Multipath support no
+VNC support       yes
+VNC SASL support  yes
+VNC JPEG support  yes
+VNC PNG support   yes
+xen support       yes
+xen ctrl version  41600
+brlapi support    yes
+bluez  support    no
+Documentation     no
+PIE               yes
+vde support       no
+netmap support    no
+Linux AIO support yes
+ATTR/XATTR support yes
+Install blobs     yes
+KVM support       yes
+HAX support       no
+HVF support       no
+WHPX support      no
+TCG support       yes
+TCG debug enabled no
+TCG interpreter   no
+malloc trim support yes
+RDMA support      yes
+PVRDMA support    yes
+fdt support       system
+membarrier        no
+preadv support    yes
+fdatasync         yes
+madvise           yes
+posix_madvise     yes
+posix_memalign    yes
+libcap-ng support yes
+vhost-net support yes
+vhost-crypto support yes
+vhost-scsi support yes
+vhost-vsock support yes
+vhost-user support yes
+vhost-user-fs support yes
+Trace backends    log
+spice support     yes (0.14.3/0.15.0)
+rbd support       yes
+xfsctl support    yes
+smartcard support yes
+libusb            yes
+usb net redir     yes
+OpenGL support    yes
+OpenGL dmabufs    yes
+libiscsi support  yes
+libnfs support    no
+build guest agent yes
+QGA VSS support   no
+QGA w32 disk info no
+QGA MSI support   no
+seccomp support   yes
+coroutine backend ucontext
+coroutine pool    yes
+debug stack usage no
+mutex debugging   no
+crypto afalg      no
+GlusterFS support yes
+gcov              gcov
+gcov enabled      no
+TPM support       yes
+libssh support    yes
+QOM debugging     yes
+Live block migration yes
+lzo support       no
+snappy support    no
+bzip2 support     no
+lzfse support     no
+NUMA host support yes
+libxml2           no
+tcmalloc support  no
+jemalloc support  no
+avx2 optimization yes
+replication support yes
+VxHS block device no
+bochs support     yes
+cloop support     yes
+dmg support       yes
+qcow v1 support   yes
+vdi support       yes
+vvfat support     yes
+qed support       yes
+parallels support yes
+sheepdog support  yes
+capstone          git
+libpmem support   yes
+libudev           yes
+default devices   yes
+plugin support    yes
+cross containers  no
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ make -j16
+  GEN     arm-softmmu/config-devices.mak.tmp
+  GEN     config-host.h
+  GIT     ui/keycodemapdb tests/fp/berkeley-testfloat-3 tests/fp/berkeley-softfloat-3 capstone
+  GEN     qemu-options.def
+  GEN     qapi-gen
+  GEN     trace/generated-tcg-tracers.h
+  GEN     trace/generated-helpers-wrappers.h
+  GEN     trace/generated-helpers.h
+  GEN     trace/generated-helpers.c
+  GEN     module_block.h
+  GEN     tests/test-qapi-gen
+  GEN     trace-root.h
+  GEN     accel/kvm/trace.h
+  GEN     accel/tcg/trace.h
+  GEN     crypto/trace.h
+  GEN     monitor/trace.h
+  GEN     authz/trace.h
+  GEN     block/trace.h
+  GEN     io/trace.h
+  GEN     nbd/trace.h
+  GEN     scsi/trace.h
+  GEN     chardev/trace.h
+  GEN     audio/trace.h
+  GEN     hw/9pfs/trace.h
+  GEN     hw/acpi/trace.h
+  GEN     hw/alpha/trace.h
+  GEN     hw/arm/trace.h
+  GEN     hw/audio/trace.h
+  GEN     hw/block/trace.h
+  GEN     hw/block/dataplane/trace.h
+  GEN     hw/char/trace.h
+  GEN     arm-softmmu/config-devices.mak
+  GEN     hw/dma/trace.h
+  GEN     hw/hppa/trace.h
+  GEN     hw/i2c/trace.h
+  GEN     hw/i386/trace.h
+  GEN     hw/i386/xen/trace.h
+  GEN     hw/ide/trace.h
+  GEN     hw/input/trace.h
+  GEN     hw/intc/trace.h
+  GEN     hw/isa/trace.h
+  GEN     hw/mem/trace.h
+  GEN     hw/mips/trace.h
+  GEN     hw/misc/trace.h
+  GEN     hw/misc/macio/trace.h
+  GEN     hw/net/trace.h
+Submodule 'capstone' (https://git.qemu.org/git/capstone.git) registered for path 'capstone'
+Submodule 'tests/fp/berkeley-softfloat-3' (https://git.qemu.org/git/berkeley-softfloat-3.git) registered for path 'tests/fp/berkeley-softfloat-3'
+Submodule 'tests/fp/berkeley-testfloat-3' (https://git.qemu.org/git/berkeley-testfloat-3.git) registered for path 'tests/fp/berkeley-testfloat-3'
+Submodule 'ui/keycodemapdb' (https://git.qemu.org/git/keycodemapdb.git) registered for path 'ui/keycodemapdb'
+  GEN     hw/nvram/trace.h
+  GEN     hw/pci/trace.h
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/capstone'...
+  GEN     hw/pci-host/trace.h
+  GEN     hw/ppc/trace.h
+  GEN     hw/rdma/trace.h
+  GEN     hw/rdma/vmw/trace.h
+  GEN     hw/rtc/trace.h
+  GEN     hw/s390x/trace.h
+  GEN     hw/scsi/trace.h
+  GEN     hw/sd/trace.h
+  GEN     hw/sparc/trace.h
+  GEN     hw/sparc64/trace.h
+  GEN     hw/timer/trace.h
+  GEN     hw/tpm/trace.h
+  GEN     hw/usb/trace.h
+  GEN     hw/vfio/trace.h
+  GEN     hw/virtio/trace.h
+  GEN     hw/watchdog/trace.h
+  GEN     hw/xen/trace.h
+  GEN     hw/gpio/trace.h
+  GEN     hw/riscv/trace.h
+  GEN     migration/trace.h
+  GEN     net/trace.h
+  GEN     ui/trace.h
+  GEN     hw/display/trace.h
+  GEN     qapi/trace.h
+  GEN     qom/trace.h
+  GEN     target/arm/trace.h
+  GEN     target/hppa/trace.h
+  GEN     target/i386/trace.h
+  GEN     target/mips/trace.h
+  GEN     target/ppc/trace.h
+  GEN     target/riscv/trace.h
+  GEN     target/s390x/trace.h
+  GEN     target/sparc/trace.h
+  GEN     util/trace.h
+  GEN     hw/core/trace.h
+  GEN     trace-root.c
+  GEN     accel/kvm/trace.c
+  GEN     accel/tcg/trace.c
+  GEN     crypto/trace.c
+  GEN     monitor/trace.c
+  GEN     authz/trace.c
+  GEN     block/trace.c
+  GEN     io/trace.c
+  GEN     nbd/trace.c
+  GEN     scsi/trace.c
+  GEN     chardev/trace.c
+  GEN     audio/trace.c
+  GEN     hw/9pfs/trace.c
+  GEN     hw/acpi/trace.c
+  GEN     hw/alpha/trace.c
+  GEN     hw/arm/trace.c
+  GEN     hw/audio/trace.c
+  GEN     hw/block/trace.c
+  GEN     hw/block/dataplane/trace.c
+  GEN     hw/char/trace.c
+  GEN     hw/dma/trace.c
+  GEN     hw/hppa/trace.c
+  GEN     hw/i2c/trace.c
+  GEN     hw/i386/trace.c
+  GEN     hw/i386/xen/trace.c
+  GEN     hw/ide/trace.c
+  GEN     hw/input/trace.c
+  GEN     hw/intc/trace.c
+  GEN     hw/isa/trace.c
+  GEN     hw/mem/trace.c
+  GEN     hw/mips/trace.c
+  GEN     hw/misc/trace.c
+  GEN     hw/misc/macio/trace.c
+  GEN     hw/net/trace.c
+  GEN     hw/nvram/trace.c
+  GEN     hw/pci/trace.c
+  GEN     hw/pci-host/trace.c
+  GEN     hw/ppc/trace.c
+  GEN     hw/rdma/trace.c
+  GEN     hw/rdma/vmw/trace.c
+  GEN     hw/rtc/trace.c
+  GEN     hw/s390x/trace.c
+  GEN     hw/scsi/trace.c
+  GEN     hw/sd/trace.c
+  GEN     hw/sparc/trace.c
+  GEN     hw/sparc64/trace.c
+  GEN     hw/timer/trace.c
+  GEN     hw/tpm/trace.c
+  GEN     hw/usb/trace.c
+  GEN     hw/vfio/trace.c
+  GEN     hw/virtio/trace.c
+  GEN     hw/watchdog/trace.c
+  GEN     hw/xen/trace.c
+  GEN     hw/gpio/trace.c
+  GEN     hw/riscv/trace.c
+  GEN     migration/trace.c
+  GEN     net/trace.c
+  GEN     ui/trace.c
+  GEN     hw/display/trace.c
+  GEN     qapi/trace.c
+  GEN     qom/trace.c
+  GEN     target/arm/trace.c
+  GEN     target/hppa/trace.c
+  GEN     target/i386/trace.c
+  GEN     target/mips/trace.c
+  GEN     target/ppc/trace.c
+  GEN     target/riscv/trace.c
+  GEN     target/s390x/trace.c
+  GEN     target/sparc/trace.c
+  GEN     util/trace.c
+  GEN     hw/core/trace.c
+  GEN     config-all-devices.mak
+warning: redirecting to https://gitlab.com/qemu-project/capstone.git/
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/tests/fp/berkeley-softfloat-3'...
+warning: redirecting to https://gitlab.com/qemu-project/berkeley-softfloat-3.git/
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/tests/fp/berkeley-testfloat-3'...
+warning: redirecting to https://gitlab.com/qemu-project/berkeley-testfloat-3.git/
+Cloning into '/home/joelwindows7/sauce/simplified/qemu-eos/ui/keycodemapdb'...
+warning: redirecting to https://gitlab.com/qemu-project/keycodemapdb.git/
+  GEN     ui/input-keymap-atset1-to-qcode.c
+  GEN     ui/input-keymap-linux-to-qcode.c
+  GEN     ui/input-keymap-qcode-to-atset1.c
+  GEN     ui/input-keymap-qcode-to-atset2.c
+  GEN     ui/input-keymap-qcode-to-atset3.c
+  GEN     ui/input-keymap-qcode-to-linux.c
+  GEN     ui/input-keymap-qcode-to-qnum.c
+  GEN     ui/input-keymap-qcode-to-sun.c
+  GEN     ui/input-keymap-qnum-to-qcode.c
+  GEN     ui/input-keymap-usb-to-qcode.c
+  GEN     ui/input-keymap-win32-to-qcode.c
+  GEN     ui/input-keymap-x11-to-qcode.c
+  GEN     ui/input-keymap-xorgevdev-to-qcode.c
+  GEN     ui/input-keymap-xorgkbd-to-qcode.c
+  GEN     ui/input-keymap-xorgxquartz-to-qcode.c
+  CC      cs.o
+  GEN     ui/input-keymap-xorgxwin-to-qcode.c
+  GEN     ui/input-keymap-osx-to-qcode.c
+  CC      utils.o
+  CC      SStream.o
+  CC      MCInstrDesc.o
+  CC      MCRegisterInfo.o
+  CC      arch/ARM/ARMDisassembler.o
+  CC      arch/ARM/ARMInstPrinter.o
+  CC      arch/ARM/ARMMapping.o
+  CC      arch/ARM/ARMModule.o
+  CC      arch/AArch64/AArch64BaseInfo.o
+  CC      arch/AArch64/AArch64Disassembler.o
+  CC      arch/AArch64/AArch64InstPrinter.o
+  CC      arch/AArch64/AArch64Mapping.o
+  CC      arch/AArch64/AArch64Module.o
+  CC      arch/Mips/MipsDisassembler.o
+  CC      arch/Mips/MipsInstPrinter.o
+  CC      arch/Mips/MipsMapping.o
+  CC      arch/Mips/MipsModule.o
+  CC      arch/PowerPC/PPCDisassembler.o
+  CC      arch/PowerPC/PPCInstPrinter.o
+  CC      arch/PowerPC/PPCMapping.o
+  CC      arch/PowerPC/PPCModule.o
+  CC      arch/Sparc/SparcDisassembler.o
+  CC      arch/Sparc/SparcInstPrinter.o
+  CC      arch/Sparc/SparcMapping.o
+  CC      arch/Sparc/SparcModule.o
+  CC      arch/SystemZ/SystemZDisassembler.o
+  CC      arch/SystemZ/SystemZInstPrinter.o
+  CC      arch/SystemZ/SystemZMapping.o
+  CC      arch/SystemZ/SystemZModule.o
+  CC      arch/SystemZ/SystemZMCTargetDesc.o
+  CC      arch/X86/X86DisassemblerDecoder.o
+  CC      arch/X86/X86Disassembler.o
+  CC      arch/X86/X86IntelInstPrinter.o
+  CC      arch/X86/X86ATTInstPrinter.o
+  CC      arch/X86/X86Mapping.o
+  CC      arch/X86/X86Module.o
+  CC      arch/XCore/XCoreDisassembler.o
+  CC      arch/XCore/XCoreInstPrinter.o
+  CC      arch/XCore/XCoreMapping.o
+  CC      arch/XCore/XCoreModule.o
+  CC      MCInst.o
+  AR      libcapstone.a
+ar: creating /home/joelwindows7/sauce/simplified/qemu-eos-build/capstone/libcapstone.a
+  CC      tests/qemu-iotests/socket_scm_helper.o
+  GEN     qga/qapi-generated/qapi-gen
+  CC      qapi/qapi-visit-core.o
+  CC      qapi/qapi-dealloc-visitor.o
+  CC      qapi/qobject-input-visitor.o
+  CC      qapi/qobject-output-visitor.o
+  CC      qapi/qmp-registry.o
+  CC      qapi/qmp-dispatch.o
+  CC      qapi/string-input-visitor.o
+  CC      qapi/string-output-visitor.o
+  CC      qapi/opts-visitor.o
+  CC      qapi/qapi-clone-visitor.o
+  CC      qapi/qmp-event.o
+  CC      qapi/qapi-util.o
+  CC      qapi/qapi-builtin-types.o
+  CC      qapi/qapi-types-audio.o
+  CC      qapi/qapi-types-authz.o
+  CC      qapi/qapi-types-block-core.o
+  CC      qapi/qapi-types-block.o
+  CC      qapi/qapi-types-char.o
+  CC      qapi/qapi-types-common.o
+  CC      qapi/qapi-types-crypto.o
+  CC      qapi/qapi-types-dump.o
+  CC      qapi/qapi-types-error.o
+  CC      qapi/qapi-types-introspect.o
+  CC      qapi/qapi-types-job.o
+  CC      qapi/qapi-types-machine.o
+  CC      qapi/qapi-types-migration.o
+  CC      qapi/qapi-types-misc.o
+  CC      qapi/qapi-types-net.o
+  CC      qapi/qapi-types-qdev.o
+  CC      qapi/qapi-types-qom.o
+  CC      qapi/qapi-types-rdma.o
+  CC      qapi/qapi-types-rocker.o
+  CC      qapi/qapi-types-run-state.o
+  CC      qapi/qapi-types-sockets.o
+  CC      qapi/qapi-types-tpm.o
+  CC      qapi/qapi-types-trace.o
+  CC      qapi/qapi-types-transaction.o
+  CC      qapi/qapi-types-ui.o
+  CC      qapi/qapi-builtin-visit.o
+  CC      qapi/qapi-visit-audio.o
+  CC      qapi/qapi-visit-authz.o
+  CC      qapi/qapi-visit-block-core.o
+  CC      qapi/qapi-visit-block.o
+  CC      qapi/qapi-visit-char.o
+  CC      qapi/qapi-visit-common.o
+  CC      qapi/qapi-visit-crypto.o
+  CC      qapi/qapi-visit-dump.o
+  CC      qapi/qapi-visit-error.o
+  CC      qapi/qapi-visit-introspect.o
+  CC      qapi/qapi-visit-job.o
+  CC      qapi/qapi-visit-machine.o
+  CC      qapi/qapi-visit-migration.o
+  CC      qapi/qapi-visit-misc.o
+  CC      qapi/qapi-visit-net.o
+  CC      qapi/qapi-visit-qdev.o
+  CC      qapi/qapi-visit-qom.o
+  CC      qapi/qapi-visit-rdma.o
+  CC      qapi/qapi-visit-rocker.o
+  CC      qapi/qapi-visit-run-state.o
+  CC      qapi/qapi-visit-sockets.o
+  CC      qapi/qapi-visit-tpm.o
+  CC      qapi/qapi-visit-trace.o
+  CC      qapi/qapi-visit-transaction.o
+  CC      qapi/qapi-visit-ui.o
+  CC      qapi/qapi-emit-events.o
+  CC      qapi/qapi-events-audio.o
+  CC      qapi/qapi-events-authz.o
+  CC      qapi/qapi-events-block-core.o
+  CC      qapi/qapi-events-block.o
+  CC      qapi/qapi-events-char.o
+  CC      qapi/qapi-events-common.o
+  CC      qapi/qapi-events-crypto.o
+  CC      qapi/qapi-events-dump.o
+  CC      qapi/qapi-events-error.o
+  CC      qapi/qapi-events-introspect.o
+  CC      qapi/qapi-events-job.o
+  CC      qapi/qapi-events-machine.o
+  CC      qapi/qapi-events-migration.o
+  CC      qapi/qapi-events-misc.o
+  CC      qapi/qapi-events-net.o
+  CC      qapi/qapi-events-qdev.o
+  CC      qapi/qapi-events-qom.o
+  CC      qapi/qapi-events-rdma.o
+  CC      qapi/qapi-events-rocker.o
+  CC      qapi/qapi-events-run-state.o
+  CC      qapi/qapi-events-sockets.o
+  CC      qapi/qapi-events-tpm.o
+  CC      qapi/qapi-events-trace.o
+  CC      qapi/qapi-events-transaction.o
+  CC      qapi/qapi-events-ui.o
+  CC      qobject/qnull.o
+  CC      qobject/qnum.o
+  CC      qobject/qstring.o
+  CC      qobject/qdict.o
+  CC      qobject/qlist.o
+  CC      qobject/qbool.o
+  CC      qobject/qlit.o
+  CC      qobject/qjson.o
+  CC      qobject/qobject.o
+  CC      qobject/json-lexer.o
+  CC      qobject/json-streamer.o
+  CC      qobject/json-parser.o
+  CC      qobject/block-qdict.o
+  CC      trace/control.o
+  CC      trace/qmp.o
+  CC      util/osdep.o
+  CC      util/cutils.o
+  CC      util/unicode.o
+  CC      util/qemu-timer-common.o
+  CC      util/bufferiszero.o
+  CC      util/lockcnt.o
+  CC      util/aiocb.o
+  CC      util/async.o
+  CC      util/aio-wait.o
+  CC      util/thread-pool.o
+  CC      util/qemu-timer.o
+  CC      util/main-loop.o
+  CC      util/aio-posix.o
+  CC      util/compatfd.o
+  CC      util/event_notifier-posix.o
+  CC      util/mmap-alloc.o
+  CC      util/oslib-posix.o
+  CC      util/qemu-openpty.o
+  CC      util/memfd.o
+  CC      util/qemu-thread-posix.o
+  CC      util/envlist.o
+  CC      util/path.o
+  CC      util/module.o
+  CC      util/host-utils.o
+  CC      util/bitmap.o
+  CC      util/bitops.o
+  CC      util/hbitmap.o
+  CC      util/fifo8.o
+  CC      util/cacheinfo.o
+  CC      util/error.o
+  CC      util/qemu-error.o
+  CC      util/qemu-print.o
+  CC      util/id.o
+  CC      util/iov.o
+  CC      util/qemu-config.o
+  CC      util/qemu-sockets.o
+  CC      util/uri.o
+  CC      util/notify.o
+  CC      util/qemu-option.o
+  CC      util/qemu-progress.o
+  CC      util/keyval.o
+  CC      util/hexdump.o
+  CC      util/crc32c.o
+  CC      util/uuid.o
+  CC      util/throttle.o
+  CC      util/getauxval.o
+  CC      util/readline.o
+  CC      util/rcu.o
+  CC      util/qemu-coroutine.o
+  CC      util/qemu-coroutine-lock.o
+  CC      util/qemu-coroutine-io.o
+  CC      util/qemu-coroutine-sleep.o
+  CC      util/qemu-co-shared-resource.o
+  CC      util/coroutine-ucontext.o
+  CC      util/buffer.o
+  CC      util/timed-average.o
+  CC      util/base64.o
+  CC      util/log.o
+  CC      util/pagesize.o
+  CC      util/qdist.o
+  CC      util/qht.o
+  CC      util/qsp.o
+  CC      util/range.o
+  CC      util/stats64.o
+  CC      util/systemd.o
+  CC      util/iova-tree.o
+  CC      util/filemonitor-inotify.o
+  CC      util/vfio-helpers.o
+  CC      util/drm.o
+  CC      util/guest-random.o
+  CC      trace-root.o
+  CC      accel/kvm/trace.o
+  CC      accel/tcg/trace.o
+  CC      crypto/trace.o
+  CC      monitor/trace.o
+  CC      block/trace.o
+  CC      authz/trace.o
+  CC      io/trace.o
+  CC      nbd/trace.o
+  CC      scsi/trace.o
+  CC      chardev/trace.o
+  CC      audio/trace.o
+  CC      hw/9pfs/trace.o
+  CC      hw/acpi/trace.o
+  CC      hw/alpha/trace.o
+  CC      hw/arm/trace.o
+  CC      hw/audio/trace.o
+  CC      hw/block/dataplane/trace.o
+  CC      hw/block/trace.o
+  CC      hw/char/trace.o
+  CC      hw/dma/trace.o
+  CC      hw/hppa/trace.o
+  CC      hw/i2c/trace.o
+  CC      hw/i386/trace.o
+  CC      hw/i386/xen/trace.o
+  CC      hw/ide/trace.o
+  CC      hw/input/trace.o
+  CC      hw/intc/trace.o
+  CC      hw/isa/trace.o
+  CC      hw/mem/trace.o
+  CC      hw/mips/trace.o
+  CC      hw/misc/trace.o
+  CC      hw/misc/macio/trace.o
+  CC      hw/net/trace.o
+  CC      hw/nvram/trace.o
+  CC      hw/pci/trace.o
+  CC      hw/pci-host/trace.o
+  CC      hw/ppc/trace.o
+  CC      hw/rdma/trace.o
+  CC      hw/rdma/vmw/trace.o
+  CC      hw/rtc/trace.o
+  CC      hw/s390x/trace.o
+  CC      hw/scsi/trace.o
+  CC      hw/sd/trace.o
+  CC      hw/sparc/trace.o
+  CC      hw/timer/trace.o
+  CC      hw/sparc64/trace.o
+  CC      hw/tpm/trace.o
+  CC      hw/usb/trace.o
+  CC      hw/vfio/trace.o
+  CC      hw/virtio/trace.o
+  CC      hw/watchdog/trace.o
+  CC      hw/xen/trace.o
+  CC      hw/gpio/trace.o
+  CC      hw/riscv/trace.o
+  CC      migration/trace.o
+  CC      net/trace.o
+  CC      ui/trace.o
+  CC      hw/display/trace.o
+  CC      qapi/trace.o
+  CC      qom/trace.o
+  CC      target/arm/trace.o
+  CC      target/hppa/trace.o
+  CC      target/i386/trace.o
+  CC      target/mips/trace.o
+  CC      target/ppc/trace.o
+  CC      target/riscv/trace.o
+  CC      target/s390x/trace.o
+  CC      target/sparc/trace.o
+  CC      util/trace.o
+  CC      hw/core/trace.o
+  CC      crypto/pbkdf-stub.o
+  CC      stubs/bdrv-next-monitor-owned.o
+  CC      stubs/blk-commit-all.o
+  CC      stubs/blockdev-close-all-bdrv-states.o
+  CC      stubs/clock-warp.o
+  CC      stubs/cpu-get-clock.o
+  CC      stubs/cpu-get-icount.o
+  CC      stubs/dump.o
+  CC      stubs/error-printf.o
+  CC      stubs/fdset.o
+  CC      stubs/gdbstub.o
+  CC      stubs/get-vm-name.o
+  CC      stubs/iothread.o
+  CC      stubs/iothread-lock.o
+  CC      stubs/is-daemonized.o
+  CC      stubs/linux-aio.o
+  CC      stubs/machine-init-done.o
+  CC      stubs/migr-blocker.o
+  CC      stubs/change-state-handler.o
+  CC      stubs/monitor.o
+  CC      stubs/notify-event.o
+  CC      stubs/qtest.o
+  CC      stubs/replay.o
+  CC      stubs/replay-user.o
+  CC      stubs/runstate-check.o
+  CC      stubs/set-fd-handler.o
+  CC      stubs/sysbus.o
+  CC      stubs/tpm.o
+  CC      stubs/trace-control.o
+  CC      stubs/uuid.o
+  CC      stubs/vm-stop.o
+  CC      stubs/vmstate.o
+  CC      stubs/fd-register.o
+  CC      stubs/qmp_memory_device.o
+  CC      stubs/target-monitor-defs.o
+  CC      stubs/target-get-monitor-def.o
+  CC      stubs/pc_madt_cpu_entry.o
+  CC      stubs/vmgenid.o
+  CC      stubs/xen-common.o
+  CC      stubs/xen-hvm.o
+  CC      stubs/pci-host-piix.o
+  CC      stubs/ram-block.o
+  CC      stubs/ramfb.o
+  CC      stubs/fw_cfg.o
+  CC      stubs/semihost.o
+  CC      util/filemonitor-stub.o
+  CC      qemu-keymap.o
+  CC      ui/input-keymap.o
+  CC      contrib/elf2dmp/main.o
+  CC      contrib/elf2dmp/addrspace.o
+  CC      contrib/elf2dmp/download.o
+  CC      contrib/elf2dmp/pdb.o
+  CC      contrib/elf2dmp/qemu_elf.o
+  CC      contrib/ivshmem-client/ivshmem-client.o
+  CC      contrib/ivshmem-client/main.o
+  CC      contrib/ivshmem-server/ivshmem-server.o
+  CC      contrib/ivshmem-server/main.o
+  CC      qemu-nbd.o
+  CC      authz/base.o
+  CC      authz/simple.o
+  CC      authz/list.o
+  CC      authz/listfile.o
+  CC      block.o
+  CC      blockjob.o
+  CC      job.o
+  CC      qemu-io-cmds.o
+  CC      replication.o
+  CC      block/raw-format.o
+  CC      block/vmdk.o
+  CC      block/vpc.o
+  CC      block/qcow.o
+  CC      block/vdi.o
+  CC      block/cloop.o
+  CC      block/bochs.o
+  CC      block/vvfat.o
+  CC      block/dmg.o
+  CC      block/qcow2.o
+  CC      block/qcow2-refcount.o
+  CC      block/qcow2-cluster.o
+  CC      block/qcow2-snapshot.o
+  CC      block/qcow2-cache.o
+  CC      block/qcow2-bitmap.o
+  CC      block/qcow2-threads.o
+/home/joelwindows7/sauce/simplified/qemu-eos/block/vpc.c: In function ‘vpc_open’:
+/home/joelwindows7/sauce/simplified/qemu-eos/block/vpc.c:360:51: error: array subscript ‘VHDDynDiskHeader {aka struct vhd_dyndisk_header}[0]’ is partly outside array bounds of ‘uint8_t[512]’ {aka ‘unsigned char[512]’} [-Werror=array-bounds]
+  360 |         s->block_size = be32_to_cpu(dyndisk_header->block_size);
+      |                                                   ^~
+/home/joelwindows7/sauce/simplified/qemu-eos/block/vpc.c:223:13: note: while referencing ‘buf’
+  223 |     uint8_t buf[HEADER_SIZE];
+      |             ^~~
+/home/joelwindows7/sauce/simplified/qemu-eos/block/vpc.c:368:58: error: array subscript ‘VHDDynDiskHeader {aka struct vhd_dyndisk_header}[0]’ is partly outside array bounds of ‘uint8_t[512]’ {aka ‘unsigned char[512]’} [-Werror=array-bounds]
+  368 |         s->max_table_entries = be32_to_cpu(dyndisk_header->max_table_entries);
+      |                                                          ^~
+/home/joelwindows7/sauce/simplified/qemu-eos/block/vpc.c:223:13: note: while referencing ‘buf’
+  223 |     uint8_t buf[HEADER_SIZE];
+      |             ^~~
+/home/joelwindows7/sauce/simplified/qemu-eos/block/vpc.c:400:51: error: array subscript ‘VHDDynDiskHeader {aka struct vhd_dyndisk_header}[0]’ is partly outside array bounds of ‘uint8_t[512]’ {aka ‘unsigned char[512]’} [-Werror=array-bounds]
+  400 |         s->bat_offset = be64_to_cpu(dyndisk_header->table_offset);
+      |                                                   ^~
+/home/joelwindows7/sauce/simplified/qemu-eos/block/vpc.c:223:13: note: while referencing ‘buf’
+  223 |     uint8_t buf[HEADER_SIZE];
+      |             ^~~
+  CC      block/qed.o
+  CC      block/qed-l2-cache.o
+cc1: all warnings being treated as errors
+make: *** [/home/joelwindows7/sauce/simplified/qemu-eos/rules.mak:69: block/vpc.o] Error 1
+make: *** Waiting for unfinished jobs....
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ sha1sum ../qemu-eos/block/vpc.c
+f9ad389e82886eb53f242bde967519fac416e891  ../qemu-eos/block/vpc.c
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$
