@@ -93,6 +93,9 @@ JOELwindows7: I have this camera. I gotta get this running!
     - have `make clean` `qemu-eos-build`, try again. still failed. [log](/assets/txt/logs/attempt_ml_2022-11-22/still_not_that_working_either.log)
     - [pls clean up & redo exactly said](https://www.magiclantern.fm/forum/index.php?topic=20214.msg241010#msg241010 ). give last source that causes problem the sha1sum. [here's how](https://askubuntu.com/a/61828/64076)
     - Same Failed! [log](/assets/txt/logs/attempt_ml_2022-11_23/clear_command_fail.log) & sha1sum of `vpc.c` in `qemu-eos` repo is `f9ad389e82886eb53f242bde967519fac416e891`.
+    - [Suggested that GCC version too high](https://www.magiclantern.fm/forum/index.php?topic=20214.msg241013#msg241013). my GCC is `11.3.0` (use `gcc --version`) right now! [log](/assets/txt/logs/attempt_ml_2022-11-24/downgrade_gcc.log)
+    - Okay, package `gcc-10` exist. and `./configure` has a way to choose older GCC. [here's how](https://stackoverflow.com/a/3698487/9079640 ).
+    - ah crack. [log](/assets/txt/logs/attempt_ml_2022-11-24/retry_lan.log)
     - Dump the ROM now! (Pls wait! Waiting for my younger sister to complete her semester with Photography subject. I think about Feb to June 2023. If you can convince me that just running ROM Dumper `FIR` definitely do not brick my only camera, **I can do this now**.)
 - Reattempt porting ML.
     - Prepared the ML source
