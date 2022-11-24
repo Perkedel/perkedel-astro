@@ -1,0 +1,29 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import Midi from '@components/Elements/MidiPlayer.astro';
+import EmbedAudio from '@components/Elements/EmbedAudio.astro';
+import RandomPlayMIDIs from '@components/Elements/SparePart/RandomPlayMIDIs.astro';
+---
+<!-- Hover which paragraph! -->
+<p class="hoverSection loud-link-hover" data-sound="/sounds/{{types}}/fart_with_extra_reverb.{{types}}">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf -->
+    <!-- https://github.com/MahdiF/loud-links/blob/master/loudlinks.js -->
+    <ButtonizedLink href="https://youtu.be/hr7GyFM7pX4" target="_blank" rel="noopener noreferrer">DairyOrange's Fart</ButtonizedLink>, 
+    Download File 
+    <ButtonizedLink href="/sounds/mp3/fart_with_extra_reverb.mp3">Here (MP3)</ButtonizedLink> 
+    OR 
+    <ButtonizedLink href="/sounds/ogg/fart_with_extra_reverb.ogg">Here (OGG)</ButtonizedLink><br/>
+</p>
+<p class="hoverSection loud-link-hover" data-sound="/sounds/{{types}}/fart-reverb-origin.{{types}}">
+    Perhaps Fart Reverb Origin: 
+    <ButtonizedLink href="https://youtu.be/5VM0tQ7GDNc" target="_blank" rel="noopener noreferrer">kmlkmljkl's Hamster lmao meme</ButtonizedLink><br/>
+    Download File 
+    <ButtonizedLink href="/sounds/mp3/fart-reverb-origin.mp3">Here (MP3)</ButtonizedLink> 
+    OR 
+    <ButtonizedLink href="/sounds/ogg/fart-reverb-origin.ogg">Here (OGG)</ButtonizedLink><br/>
+</p>
+<p class="hoverSection loud-link-hover" data-sound="https://mahdif.github.io/loud-links/sounds/{{type}}/yeah-baby.{{type}}">Powered by <a href="https://mahdif.github.io/loud-links/" target="_blank" rel="noopener noreferrer">mahdif's Loud Links JS</a></p>

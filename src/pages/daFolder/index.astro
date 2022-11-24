@@ -7,6 +7,7 @@ import Emoji from 'astro-emoji';
 import Midi from '@components/Elements/MidiPlayer.astro';
 import EmbedAudio from '@components/Elements/EmbedAudio.astro';
 import RandomPlayMIDIs from '@components/Elements/SparePart/RandomPlayMIDIs.astro';
+import RandomLoudLinks from '@components/Elements/SparePart/RandomLoudLinks.astro';
 ---
 <Layout title="OTHERWISE" description="" keywords="">
     <h1>How do I supposed to import everytime?!??!?!</h1>
@@ -47,17 +48,6 @@ import RandomPlayMIDIs from '@components/Elements/SparePart/RandomPlayMIDIs.astr
             <p><Emoji symbol="🫀" label="heart organ" /></p>
     <h2>MIDI Player</h2>
         <RandomPlayMIDIs/>
-    <h2>Hover which of these paragraph bellow to play a sound the paragraph has!</h2>
-        <p class="hoverSection loud-link-hover" data-sound="fart_with_extra_reverb">
-            <!-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf -->
-            <!-- https://github.com/MahdiF/loud-links/blob/master/loudlinks.js -->
-            <ButtonizedLink href="https://youtu.be/hr7GyFM7pX4" target="_blank" rel="noopener noreferrer">DairyOrange's Fart</ButtonizedLink>, 
-            Download File 
-            <ButtonizedLink href="/sounds/mp3/fart_with_extra_reverb.mp3">Here (MP3)</ButtonizedLink> 
-            OR 
-            <ButtonizedLink href="/sounds/ogg/fart_with_extra_reverb.ogg">Here (OGG)</ButtonizedLink><br/>
-            Perhaps Origin: 
-            <ButtonizedLink href="https://youtu.be/5VM0tQ7GDNc" target="_blank" rel="noopener noreferrer">kmlkmljkl's Hamster lmao meme</ButtonizedLink>
-        </p>
-        <p class="hoverSection loud-link-hover" data-sound="https://mahdif.github.io/loud-links/sounds/{{type}}/yeah-baby.{{type}}">Powered by <a href="https://mahdif.github.io/loud-links/" target="_blank" rel="noopener noreferrer">mahdif's Loud Links JS</a></p>
+    <h2>Hover which of these paragraphs bellow to play a sound the paragraph has!</h2>
+        <RandomLoudLinks/>
 </Layout>
