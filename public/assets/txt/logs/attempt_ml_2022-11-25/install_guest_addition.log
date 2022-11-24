@@ -1,0 +1,21 @@
+magiclantern@debian-magiclantern:/media/cdrom0$ sudo sh ./VBoxLinuxAdditions.run 
+[sudo] password for magiclantern: 
+Verifying archive integrity... All good.
+Uncompressing VirtualBox 6.1.38 Guest Additions for Linux........
+VirtualBox Guest Additions installer
+Copying additional installer modules ...
+Installing additional modules ...
+VirtualBox Guest Additions: Starting.
+VirtualBox Guest Additions: Building the VirtualBox Guest Additions kernel 
+modules.  This may take a while.
+VirtualBox Guest Additions: To build modules for other installed kernels, run
+VirtualBox Guest Additions:   /sbin/rcvboxadd quicksetup <version>
+VirtualBox Guest Additions: or
+VirtualBox Guest Additions:   /sbin/rcvboxadd quicksetup all
+VirtualBox Guest Additions: Kernel headers not found for target kernel 
+5.10.0-19-amd64. Please install them and execute
+  /sbin/rcvboxadd setup
+VirtualBox Guest Additions: Running kernel modules will not be replaced until 
+the system is restarted
+magiclantern@debian-magiclantern:/media/cdrom0$ 
+

@@ -1,0 +1,5 @@
+magiclantern@debian-magiclantern:~$ lsmod | grep vboxguest
+vboxguest              49152  6
+magiclantern@debian-magiclantern:~$ ^C
+magiclantern@debian-magiclantern:~$ 
+

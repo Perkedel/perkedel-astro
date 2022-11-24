@@ -1,0 +1,177 @@
+magiclantern@debian-magiclantern:~$ pip install git+https://github.com/sibson/vncdottool.git
+bash: pip: command not found
+magiclantern@debian-magiclantern:~$ sudo apt install pip
+[sudo] password for magiclantern: 
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Note, selecting 'python3-pip' instead of 'pip'
+The following additional packages will be installed:
+  libjs-jquery libjs-sphinxdoc libjs-underscore libpython3-dev
+  libpython3.9-dev python-pip-whl python3-dev python3-wheel python3.9-dev
+The following NEW packages will be installed:
+  libjs-jquery libjs-sphinxdoc libjs-underscore libpython3-dev
+  libpython3.9-dev python-pip-whl python3-dev python3-pip python3-wheel
+  python3.9-dev
+0 upgraded, 10 newly installed, 0 to remove and 0 not upgraded.
+Need to get 7,441 kB of archives.
+After this operation, 26.0 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://deb.debian.org/debian bullseye/main amd64 libjs-jquery all 3.5.1+dfsg+~3.5.5-7 [315 kB]
+Get:2 http://deb.debian.org/debian bullseye/main amd64 libjs-underscore all 1.9.1~dfsg-3 [100 kB]
+Get:3 http://deb.debian.org/debian bullseye/main amd64 libjs-sphinxdoc all 3.4.3-2 [127 kB]
+Get:4 http://deb.debian.org/debian bullseye/main amd64 libpython3.9-dev amd64 3.9.2-1 [4,028 kB]
+Get:5 http://deb.debian.org/debian bullseye/main amd64 libpython3-dev amd64 3.9.2-3 [21.7 kB]
+Get:6 http://deb.debian.org/debian bullseye/main amd64 python-pip-whl all 20.3.4-4+deb11u1 [1,948 kB]
+Get:7 http://deb.debian.org/debian bullseye/main amd64 python3.9-dev amd64 3.9.2-1 [515 kB]
+Get:8 http://deb.debian.org/debian bullseye/main amd64 python3-dev amd64 3.9.2-3 [24.8 kB]
+Get:9 http://deb.debian.org/debian bullseye/main amd64 python3-wheel all 0.34.2-1 [24.0 kB]
+Get:10 http://deb.debian.org/debian bullseye/main amd64 python3-pip all 20.3.4-4+deb11u1 [337 kB]
+Fetched 7,441 kB in 5s (1,435 kB/s)    
+Selecting previously unselected package libjs-jquery.
+(Reading database ... 162437 files and directories currently installed.)
+Preparing to unpack .../0-libjs-jquery_3.5.1+dfsg+~3.5.5-7_all.deb ...
+Unpacking libjs-jquery (3.5.1+dfsg+~3.5.5-7) ...
+Selecting previously unselected package libjs-underscore.
+Preparing to unpack .../1-libjs-underscore_1.9.1~dfsg-3_all.deb ...
+Unpacking libjs-underscore (1.9.1~dfsg-3) ...
+Selecting previously unselected package libjs-sphinxdoc.
+Preparing to unpack .../2-libjs-sphinxdoc_3.4.3-2_all.deb ...
+Unpacking libjs-sphinxdoc (3.4.3-2) ...
+Selecting previously unselected package libpython3.9-dev:amd64.
+Preparing to unpack .../3-libpython3.9-dev_3.9.2-1_amd64.deb ...
+Unpacking libpython3.9-dev:amd64 (3.9.2-1) ...
+Selecting previously unselected package libpython3-dev:amd64.
+Preparing to unpack .../4-libpython3-dev_3.9.2-3_amd64.deb ...
+Unpacking libpython3-dev:amd64 (3.9.2-3) ...
+Selecting previously unselected package python-pip-whl.
+Preparing to unpack .../5-python-pip-whl_20.3.4-4+deb11u1_all.deb ...
+Unpacking python-pip-whl (20.3.4-4+deb11u1) ...
+Selecting previously unselected package python3.9-dev.
+Preparing to unpack .../6-python3.9-dev_3.9.2-1_amd64.deb ...
+Unpacking python3.9-dev (3.9.2-1) ...
+Selecting previously unselected package python3-dev.
+Preparing to unpack .../7-python3-dev_3.9.2-3_amd64.deb ...
+Unpacking python3-dev (3.9.2-3) ...
+Selecting previously unselected package python3-wheel.
+Preparing to unpack .../8-python3-wheel_0.34.2-1_all.deb ...
+Unpacking python3-wheel (0.34.2-1) ...
+Selecting previously unselected package python3-pip.
+Preparing to unpack .../9-python3-pip_20.3.4-4+deb11u1_all.deb ...
+Unpacking python3-pip (20.3.4-4+deb11u1) ...
+Setting up libpython3.9-dev:amd64 (3.9.2-1) ...
+Setting up python3-wheel (0.34.2-1) ...
+Setting up python3.9-dev (3.9.2-1) ...
+Setting up python-pip-whl (20.3.4-4+deb11u1) ...
+Setting up libjs-jquery (3.5.1+dfsg+~3.5.5-7) ...
+Setting up libjs-underscore (1.9.1~dfsg-3) ...
+Setting up libpython3-dev:amd64 (3.9.2-3) ...
+Setting up python3-pip (20.3.4-4+deb11u1) ...
+Setting up libjs-sphinxdoc (3.4.3-2) ...
+Setting up python3-dev (3.9.2-3) ...
+Processing triggers for man-db (2.9.4-2) ...
+magiclantern@debian-magiclantern:~$ pip install git+https://github.com/sibson/vncdottool.git
+Collecting git+https://github.com/sibson/vncdottool.git
+  Cloning https://github.com/sibson/vncdottool.git to /tmp/pip-req-build-wij0l4bm
+  Running command git clone -q https://github.com/sibson/vncdottool.git /tmp/pip-req-build-wij0l4bm
+Username for 'https://github.com': 
+Password for 'https://github.com': 
+  remote: Repository not found.
+  fatal: Authentication failed for 'https://github.com/sibson/vncdottool.git/'
+WARNING: Discarding git+https://github.com/sibson/vncdottool.git. Command errored out with exit status 128: git clone -q https://github.com/sibson/vncdottool.git /tmp/pip-req-build-wij0l4bm Check the logs for full command output.
+ERROR: Command errored out with exit status 128: git clone -q https://github.com/sibson/vncdottool.git /tmp/pip-req-build-wij0l4bm Check the logs for full command output.
+magiclantern@debian-magiclantern:~$ pip install git+git://github.com/sibson/vncdottool.git
+Collecting git+git://github.com/sibson/vncdottool.git
+  Cloning git://github.com/sibson/vncdottool.git to /tmp/pip-req-build-gllhb89d
+  Running command git clone -q git://github.com/sibson/vncdottool.git /tmp/pip-req-build-gllhb89d
+  fatal: unable to connect to github.com:
+  github.com[0: 20.205.243.166]: errno=Connection timed out
+
+WARNING: Discarding git+git://github.com/sibson/vncdottool.git. Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdottool.git /tmp/pip-req-build-gllhb89d Check the logs for full command output.
+ERROR: Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdottool.git /tmp/pip-req-build-gllhb89d Check the logs for full command output.
+magiclantern@debian-magiclantern:~$ pip install git+git://github.com/sibson/vncdottool.git
+Collecting git+git://github.com/sibson/vncdottool.git
+  Cloning git://github.com/sibson/vncdottool.git to /tmp/pip-req-build-ao9ijk9l
+  Running command git clone -q git://github.com/sibson/vncdottool.git /tmp/pip-req-build-ao9ijk9l
+  fatal: unable to connect to github.com:
+  github.com[0: 20.205.243.166]: errno=Connection timed out
+
+WARNING: Discarding git+git://github.com/sibson/vncdottool.git. Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdottool.git /tmp/pip-req-build-ao9ijk9l Check the logs for full command output.
+ERROR: Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdottool.git /tmp/pip-req-build-ao9ijk9l Check the logs for full command output.
+magiclantern@debian-magiclantern:~$ pip install git+git://github.com/sibson/vncdotool.git
+Collecting git+git://github.com/sibson/vncdotool.git
+  Cloning git://github.com/sibson/vncdotool.git to /tmp/pip-req-build-76x9a3ye
+  Running command git clone -q git://github.com/sibson/vncdotool.git /tmp/pip-req-build-76x9a3ye
+  fatal: unable to connect to github.com:
+  github.com[0: 20.205.243.166]: errno=Connection timed out
+
+WARNING: Discarding git+git://github.com/sibson/vncdotool.git. Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdotool.git /tmp/pip-req-build-76x9a3ye Check the logs for full command output.
+ERROR: Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdotool.git /tmp/pip-req-build-76x9a3ye Check the logs for full command output.
+magiclantern@debian-magiclantern:~$ pip install git+git:github.com/sibson/vncdotool
+Collecting git+git:github.com/sibson/vncdotool
+  Cloning git:///github.com/sibson/vncdotool to /tmp/pip-req-build-0mqlztsy
+  Running command git clone -q git:///github.com/sibson/vncdotool /tmp/pip-req-build-0mqlztsy
+  ssh: Could not resolve hostname git: Name or service not known
+  fatal: Could not read from remote repository.
+
+  Please make sure you have the correct access rights
+  and the repository exists.
+WARNING: Discarding git+git:github.com/sibson/vncdotool. Command errored out with exit status 128: git clone -q git:///github.com/sibson/vncdotool /tmp/pip-req-build-0mqlztsy Check the logs for full command output.
+ERROR: Command errored out with exit status 128: git clone -q git:///github.com/sibson/vncdotool /tmp/pip-req-build-0mqlztsy Check the logs for full command output.
+magiclantern@debian-magiclantern:~$ pip install git+git://github.com/sibson/vncdotool
+Collecting git+git://github.com/sibson/vncdotool
+  Cloning git://github.com/sibson/vncdotool to /tmp/pip-req-build-hxeywqx9
+  Running command git clone -q git://github.com/sibson/vncdotool /tmp/pip-req-build-hxeywqx9
+  fatal: unable to connect to github.com:
+  github.com[0: 20.205.243.166]: errno=Connection timed out
+
+WARNING: Discarding git+git://github.com/sibson/vncdotool. Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdotool /tmp/pip-req-build-hxeywqx9 Check the logs for full command output.
+ERROR: Command errored out with exit status 128: git clone -q git://github.com/sibson/vncdotool /tmp/pip-req-build-hxeywqx9 Check the logs for full command output.
+magiclantern@debian-magiclantern:~$ pip install git+git://github.com/sibson/vncdotool.git
+Collecting git+git://github.com/sibson/vncdotool.git
+  Cloning git://github.com/sibson/vncdotool.git to /tmp/pip-req-build-ebdumcx6
+  Running command git clone -q git://github.com/sibson/vncdotool.git /tmp/pip-req-build-ebdumcx6
+^CERROR: Operation cancelled by user
+magiclantern@debian-magiclantern:~$ pip install vncdotool
+Collecting vncdotool
+  Downloading vncdotool-1.0.0.tar.gz (50 kB)
+     |████████████████████████████████| 50 kB 1.6 MB/s 
+Requirement already satisfied: Pillow in /usr/lib/python3/dist-packages (from vncdotool) (8.1.2)
+Collecting Twisted
+  Downloading Twisted-22.10.0-py3-none-any.whl (3.1 MB)
+     |████████████████████████████████| 3.1 MB 1.7 MB/s 
+Collecting hyperlink>=17.1.1
+  Downloading hyperlink-21.0.0-py2.py3-none-any.whl (74 kB)
+     |████████████████████████████████| 74 kB 830 kB/s 
+Collecting incremental>=21.3.0
+  Downloading incremental-22.10.0-py2.py3-none-any.whl (16 kB)
+Collecting typing-extensions>=3.6.5
+  Downloading typing_extensions-4.4.0-py3-none-any.whl (26 kB)
+Collecting Automat>=0.8.0
+  Downloading Automat-22.10.0-py2.py3-none-any.whl (26 kB)
+Collecting attrs>=19.2.0
+  Downloading attrs-22.1.0-py2.py3-none-any.whl (58 kB)
+     |████████████████████████████████| 58 kB 1.2 MB/s 
+Collecting constantly>=15.1
+  Downloading constantly-15.1.0-py2.py3-none-any.whl (7.9 kB)
+Collecting zope.interface>=4.4.2
+  Downloading zope.interface-5.5.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (257 kB)
+     |████████████████████████████████| 257 kB 7.5 MB/s 
+Requirement already satisfied: six in /usr/lib/python3/dist-packages (from Automat>=0.8.0->Twisted->vncdotool) (1.16.0)
+Requirement already satisfied: idna>=2.5 in /usr/lib/python3/dist-packages (from hyperlink>=17.1.1->Twisted->vncdotool) (2.10)
+Requirement already satisfied: setuptools in /usr/lib/python3/dist-packages (from zope.interface>=4.4.2->Twisted->vncdotool) (52.0.0)
+Building wheels for collected packages: vncdotool
+  Building wheel for vncdotool (setup.py) ... done
+  Created wheel for vncdotool: filename=vncdotool-1.0.0-py3-none-any.whl size=31714 sha256=95271da3f83079172d3d9a9b86a6700cbb6630e4cb7a800ebc752aa73e23c835
+  Stored in directory: /home/magiclantern/.cache/pip/wheels/24/0a/60/c8779cf62b8a23459a44848caf2726632a8ce06e064fad3a85
+Successfully built vncdotool
+Installing collected packages: attrs, zope.interface, typing-extensions, incremental, hyperlink, constantly, Automat, Twisted, vncdotool
+  WARNING: The script automat-visualize is installed in '/home/magiclantern/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts cftp, ckeygen, conch, mailmail, pyhtmlizer, tkconch, trial, twist and twistd are installed in '/home/magiclantern/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts vncdo, vncdotool and vnclog are installed in '/home/magiclantern/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed Automat-22.10.0 Twisted-22.10.0 attrs-22.1.0 constantly-15.1.0 hyperlink-21.0.0 incremental-22.10.0 typing-extensions-4.4.0 vncdotool-1.0.0 zope.interface-5.5.2
+magiclantern@debian-magiclantern:~$ 
+
