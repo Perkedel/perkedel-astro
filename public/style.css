@@ -950,6 +950,18 @@ td {
     color: blue;
 }
 
+.hoverSection {
+    background-color: inherit;
+}
+
+.hoverSection:hover {
+    background-color: navy;
+}
+
+.hoverSection:active {
+    background-color: blue;
+}
+
 @media only screen and (max-width: 700px) {
     .ListGalleryStyle {
         width: 49.99999%;
