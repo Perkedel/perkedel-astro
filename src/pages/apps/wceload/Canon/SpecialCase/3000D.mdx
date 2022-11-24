@@ -96,6 +96,11 @@ JOELwindows7: I have this camera. I gotta get this running!
     - [Suggested that GCC version too high](https://www.magiclantern.fm/forum/index.php?topic=20214.msg241013#msg241013). my GCC is `11.3.0` (use `gcc --version`) right now! [log](/assets/txt/logs/attempt_ml_2022-11-24/downgrade_gcc.log)
     - Okay, package `gcc-10` exist. and `./configure` has a way to choose older GCC. [here's how](https://stackoverflow.com/a/3698487/9079640 ).
     - ah crack. [log](/assets/txt/logs/attempt_ml_2022-11-24/retry_lan.log)
+    - [Somehow GCC still stuck at here `11`](https://www.magiclantern.fm/forum/index.php?topic=20214.msg241019#msg241019 ). Sigh! you know what, let's break my WSL. we're gonna make the gcc defaults to `10`. [Found way!](https://askubuntu.com/a/26518/64076) Replace the `4.X.X` thingy with `10`!!
+    - [fail](/assets/txt/logs/attempt_ml_2022-11-24/still_somehow_same_error_despite.log)
+    - Okay, go back to GCC 9? [Fail different error](/assets/txt/logs/attempt_ml_2022-11-24/dedd_oops.log).
+    - Maybe I forgot to last step in that stack overflow? clear alternatives & update alternatives to `10` again, **do not forget configure that update alternatives!**. okay nothing happens because I only have installed 1 alternative for each.
+    - try again. [configure with `--disable-werror`](https://gitlab.com/qemu-project/qemu/-/issues/1064 ). same `-nopie` mistake error. [log](/assets/txt/logs/attempt_ml_2022-11-24/eyap_error_locks_to_different.log)
     - Dump the ROM now! (Pls wait! Waiting for my younger sister to complete her semester with Photography subject. I think about Feb to June 2023. If you can convince me that just running ROM Dumper `FIR` definitely do not brick my only camera, **I can do this now**.)
 - Reattempt porting ML.
     - Prepared the ML source
