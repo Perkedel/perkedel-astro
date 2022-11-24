@@ -49,6 +49,8 @@ import RandomPlayMIDIs from '@components/Elements/SparePart/RandomPlayMIDIs.astr
         <RandomPlayMIDIs/>
     <h2>Hover this paragraph bellow to play a sound</h2>
         <p class="loud-link-hover" data-sound="fart_with_extra_reverb">
+            <!-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf -->
+            <!-- https://github.com/MahdiF/loud-links/blob/master/loudlinks.js -->
             <ButtonizedLink href="https://youtu.be/hr7GyFM7pX4" target="_blank" rel="noopener noreferrer">DairyOrange's Fart</ButtonizedLink>, 
             Download File 
             <ButtonizedLink href="/sounds/mp3/fart_with_extra_reverb.mp3">Here (MP3)</ButtonizedLink> 
@@ -57,5 +59,5 @@ import RandomPlayMIDIs from '@components/Elements/SparePart/RandomPlayMIDIs.astr
             Perhaps Origin: 
             <ButtonizedLink href="https://youtu.be/5VM0tQ7GDNc" target="_blank" rel="noopener noreferrer">kmlkmljkl's Hamster lmao meme</ButtonizedLink>
         </p>
-        <p class="loud-link-hover" data-sound="https://mahdif.github.io/loud-links/sounds/ogg/yeah-baby.ogg">Powered by <a href="https://mahdif.github.io/loud-links/" target="_blank" rel="noopener noreferrer">mahdif's Loud Links JS</a></p>
+        <p class="loud-link-hover" data-sound="https://mahdif.github.io/loud-links/sounds/{{type}}/yeah-baby.{{type}}">Powered by <a href="https://mahdif.github.io/loud-links/" target="_blank" rel="noopener noreferrer">mahdif's Loud Links JS</a></p>
 </Layout>
