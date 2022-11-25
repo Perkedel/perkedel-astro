@@ -1,0 +1,56 @@
+magiclantern@debian-magiclantern:~/sauce/simplified/qemu-eos-build$ make -j16 && make plugins && cp tests/plugin/libmagiclantern.so arm-softmmu/plugins/
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/qemu-eos/slirp'
+
+make[1]: Nothing to be done for 'all'.
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/qemu-eos/slirp'
+
+	 LEX convert-dtsv0-lexer.lex.c
+
+	 BISON dtc-parser.tab.c
+
+	 LEX dtc-lexer.lex.c
+
+/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y:57 parser name defined to default :"parse"
+
+"/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y", line 481: invalid @-construct
+
+"/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y", line 481: $� is invalid
+
+free(): double free detected in tcache 2
+
+	 DEP convert-dtsv0-lexer.lex.c
+
+	 DEP dtc-lexer.lex.c
+
+	 BISON dtc-parser.tab.c
+
+/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y:57 parser name defined to default :"parse"
+
+"/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y", line 481: invalid @-construct
+
+"/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y", line 481: $� is invalid
+
+free(): double free detected in tcache 2
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/qemu-eos/slirp'
+
+make[1]: Nothing to be done for 'all'.
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/qemu-eos/slirp'
+
+	 BISON dtc-parser.tab.c
+
+/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y:57 parser name defined to default :"parse"
+
+"/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y", line 481: invalid @-construct
+
+"/home/magiclantern/sauce/simplified/qemu-eos/dtc/dtc-parser.y", line 481: $� is invalid
+
+free(): double free detected in tcache 2
+
+  BUILD   plugins
+
+magiclantern@debian-magiclantern:~/sauce/simplified/qemu-eos-build$ 
+

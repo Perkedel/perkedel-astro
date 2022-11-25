@@ -1,0 +1,17 @@
+https://gamebanana.com/mods/293257
+
+[quote author=names_are_hard link=topic=20214.msg241024#msg241024 date=1669303539]
+Some of those problems look pretty easy to fix, but only if you have a decent amount of C / gcc experience - I'm guessing you don't?
+
+I'd recommend not using Ubuntu, use Debian Bullseye instead.  That's the distro I use for building and I know it works.
+[/quote]
+
+[size=14pt]Yeah, I don't know how to GCC at the moment[/size]
+Look, I've recently moved on from [url=https://gamebanana.com/mods/293257]Friday Night Funkin Modding scene[/url], No, not the drama, it's a long story. I finally have.. jobs. [b]No[/b], side hustle. The task comes up every time on a regular basis around 24 hours everyday. Therefore I can't keep up maintaining my FNF mod engine.
+
+And basically, I've already had so many rabbit holes over past few years here. Wow, can't count how many, either active, deactivated, reactivated. Like Windows CE, Arduino, Raspberry Pi, Godot, Unity.. [b]AH GET THE PECK OUT![/b], C++ (oh man, the second or third semester of my college back then), Haxe (yeah already mentioned Friday Night Funkin above), 3D Models ([b]OH PLS WHERE IS DOWNLOAD LINK!!! WTF?!?!?!?[/b])
+
+[size=14pt]Okay enough backstory[/size]
+Yeah, I gave up. really give up. No more. Ubuntu indeed horrible in this scene. I know, porting stuffs to optimize for newer compiler libraries [b]is haaaaaaaaaaaaaaaaaaard!!![/b] Got it, not worth the time.
+
+That's right, I shall just get the ISO here.
