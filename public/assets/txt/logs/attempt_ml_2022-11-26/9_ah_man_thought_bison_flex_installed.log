@@ -1,0 +1,43 @@
+0 upgraded, 3 newly installed, 1 to remove and 0 not upgraded.
+Need to get 648 kB of archives.
+After this operation, 1,142 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://deb.debian.org/debian bullseye/main amd64 flex amd64 2.6.4-8 [440 kB]
+Get:2 http://deb.debian.org/debian bullseye/main amd64 libfl2 amd64 2.6.4-8 [103 kB]
+Get:3 http://deb.debian.org/debian bullseye/main amd64 libfl-dev amd64 2.6.4-8 [104 kB]
+Fetched 648 kB in 10s (68.0 kB/s)
+(Reading database ... 72214 files and directories currently installed.)
+Removing flex-old (2.5.4a-10.1) ...
+Selecting previously unselected package flex.
+(Reading database ... 72193 files and directories currently installed.)
+Preparing to unpack .../flex_2.6.4-8_amd64.deb ...
+Unpacking flex (2.6.4-8) ...
+Selecting previously unselected package libfl2:amd64.
+ldconfig: /usr/lib/wsl/lib/libcuda.so.1 is not a symbolic link
+
+joelwindows7@JOEL-ROG-GL503GE:~$ sudo apt install bison
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Suggested packages:
+  bison-doc
+The following packages will be REMOVED:
+  bison++
+The following NEW packages will be installed:
+  bison
+0 upgraded, 1 newly installed, 1 to remove and 0 not upgraded.
+Need to get 1,104 kB of archives.
+After this operation, 2,370 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://deb.debian.org/debian bullseye/main amd64 bison amd64 2:3.7.5+dfsg-1 [1,104 kB]
+Fetched 1,104 kB in 9s (127 kB/s)
+(Reading database ... 72309 files and directories currently installed.)
+Removing bison++ (1.21.11-4+b1) ...
+Selecting previously unselected package bison.
+(Reading database ... 72283 files and directories currently installed.)
+Preparing to unpack .../bison_2%3a3.7.5+dfsg-1_amd64.deb ...
+Unpacking bison (2:3.7.5+dfsg-1) ...
+Setting up bison (2:3.7.5+dfsg-1) ...
+update-alternatives: using /usr/bin/bison.yacc to provide /usr/bin/yacc (yacc) in auto mode
+Processing triggers for man-db (2.9.4-2) ...
+joelwindows7@JOEL-ROG-GL503GE:~$
