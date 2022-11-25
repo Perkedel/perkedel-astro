@@ -1,0 +1,44 @@
+joelwindows7@JOEL-ROG-GL503GE:~$ mkdir -p sauce/simplified && cd sauce/simplified
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ pip install vncdotool
+Collecting vncdotool
+  Downloading vncdotool-1.0.0.tar.gz (50 kB)
+     |████████████████████████████████| 50 kB 566 kB/s
+Requirement already satisfied: Pillow in /usr/lib/python3/dist-packages (from vncdotool) (8.1.2)
+Collecting Twisted
+  Downloading Twisted-22.10.0-py3-none-any.whl (3.1 MB)
+     |████████████████████████████████| 3.1 MB 648 kB/s
+Collecting Automat>=0.8.0
+  Downloading Automat-22.10.0-py2.py3-none-any.whl (26 kB)
+Collecting incremental>=21.3.0
+  Downloading incremental-22.10.0-py2.py3-none-any.whl (16 kB)
+Collecting hyperlink>=17.1.1
+  Downloading hyperlink-21.0.0-py2.py3-none-any.whl (74 kB)
+     |████████████████████████████████| 74 kB 1.2 MB/s
+Collecting typing-extensions>=3.6.5
+  Downloading typing_extensions-4.4.0-py3-none-any.whl (26 kB)
+Collecting constantly>=15.1
+  Downloading constantly-15.1.0-py2.py3-none-any.whl (7.9 kB)
+Collecting zope.interface>=4.4.2
+  Downloading zope.interface-5.5.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl (257 kB)
+     |████████████████████████████████| 257 kB 12.0 MB/s
+Collecting attrs>=19.2.0
+  Downloading attrs-22.1.0-py2.py3-none-any.whl (58 kB)
+     |████████████████████████████████| 58 kB 2.1 MB/s
+Requirement already satisfied: six in /usr/lib/python3/dist-packages (from Automat>=0.8.0->Twisted->vncdotool) (1.16.0)
+Requirement already satisfied: idna>=2.5 in /usr/lib/python3/dist-packages (from hyperlink>=17.1.1->Twisted->vncdotool) (2.10)
+Requirement already satisfied: setuptools in /usr/lib/python3/dist-packages (from zope.interface>=4.4.2->Twisted->vncdotool) (52.0.0)
+Building wheels for collected packages: vncdotool
+  Building wheel for vncdotool (setup.py) ... done
+  Created wheel for vncdotool: filename=vncdotool-1.0.0-py3-none-any.whl size=31714 sha256=2e12590fc0f3f087b5f68123f9792d33710313aff915d1a5109632d1c193577d
+  Stored in directory: /home/joelwindows7/.cache/pip/wheels/24/0a/60/c8779cf62b8a23459a44848caf2726632a8ce06e064fad3a85
+Successfully built vncdotool
+Installing collected packages: attrs, zope.interface, typing-extensions, incremental, hyperlink, constantly, Automat, Twisted, vncdotool
+  WARNING: The script automat-visualize is installed in '/home/joelwindows7/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts cftp, ckeygen, conch, mailmail, pyhtmlizer, tkconch, trial, twist and twistd are installed in '/home/joelwindows7/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts vncdo, vncdotool and vnclog are installed in '/home/joelwindows7/.local/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed Automat-22.10.0 Twisted-22.10.0 attrs-22.1.0 constantly-15.1.0 hyperlink-21.0.0 incremental-22.10.0 typing-extensions-4.4.0 vncdotool-1.0.0 zope.interface-5.5.2
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$

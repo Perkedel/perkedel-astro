@@ -1,0 +1,67 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ git clone https://github.com/reticulatedpines/magiclantern_simplified && git clone https://github.com/reticulatedpines/qemu-eos && cd qemu-eos; git switch qemu-eos-v4.2.1; cd ..
+Cloning into 'magiclantern_simplified'...
+remote: Enumerating objects: 95443, done.
+remote: Counting objects: 100% (6429/6429), done.
+remote: Compressing objects: 100% (1563/1563), done.
+remote: Total 95443 (delta 4923), reused 6236 (delta 4848), pack-reused 89014
+Receiving objects: 100% (95443/95443), 247.70 MiB | 1.69 MiB/s, done.
+Resolving deltas: 100% (71238/71238), done.
+Updating files: 100% (2326/2326), done.
+Cloning into 'qemu-eos'...
+remote: Enumerating objects: 581415, done.
+remote: Counting objects: 100% (373/373), done.
+remote: Compressing objects: 100% (169/169), done.
+error: RPC failed; curl 56 GnuTLS recv error (-54): Error in the pull function.
+error: 5032 bytes of body are still expected
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: index-pack failed
+fatal: not a git repository (or any of the parent directories): .git
+joelwindows7@JOEL-ROG-GL503GE:~/sauce$ cd simplified/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magiclantern_simplified
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ rm -rf magiclantern_simplified/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ git clone https://github.com/reticulatedpines/magiclantern_simplified && git clone https://github.com/reticulatedpines/qemu-eos && cd qemu-eos; git switch qemu-eos-v4.2.1; cd ..
+Cloning into 'magiclantern_simplified'...
+remote: Enumerating objects: 95443, done.
+remote: Counting objects: 100% (6429/6429), done.
+remote: Compressing objects: 100% (1563/1563), done.
+Receiving objects: 100% (95443/95443), 247.71 MiB | 1.49 MiB/s, done.
+remote: Total 95443 (delta 4923), reused 6236 (delta 4848), pack-reused 89014
+Resolving deltas: 100% (71233/71233), done.
+Updating files: 100% (2326/2326), done.
+Cloning into 'qemu-eos'...
+fatal: unable to access 'https://github.com/reticulatedpines/qemu-eos/': Failed to connect to github.com port 443: Connection timed out
+fatal: not a git repository (or any of the parent directories): .git
+joelwindows7@JOEL-ROG-GL503GE:~/sauce$ cd simplified/
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magiclantern_simplified
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ git clone https://github.com/reticulatedpines/qemu-eos && cd qemu-eos;
+ git switch qemu-eos-v4.2.1; cd ..
+Cloning into 'qemu-eos'...
+remote: Enumerating objects: 581415, done.
+remote: Counting objects: 100% (373/373), done.
+remote: Compressing objects: 100% (169/169), done.
+remote: Total 581415 (delta 189), reused 324 (delta 170), pack-reused 581042
+Receiving objects: 100% (581415/581415), 337.27 MiB | 627.00 KiB/s, done.
+Resolving deltas: 100% (473044/473044), done.
+Updating files: 100% (8706/8706), done.
+Updating files: 100% (7680/7680), done.
+Branch 'qemu-eos-v4.2.1' set up to track remote branch 'qemu-eos-v4.2.1' from 'origin'.
+Switched to a new branch 'qemu-eos-v4.2.1'
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magiclantern_simplified  qemu-eos
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ gcc --version
+gcc (Debian 10.2.1-6) 10.2.1 20210110
+Copyright (C) 2020 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ g++ --version
+g++ (Debian 10.2.1-6) 10.2.1 20210110
+Copyright (C) 2020 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$

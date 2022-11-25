@@ -1,0 +1,17 @@
+https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern
+
+git clone https://github.com/reticulatedpines/magiclantern_simplified
+git clone https://github.com/reticulatedpines/qemu-eos
+cd qemu-eos; git switch qemu-eos-v4.2.1; cd ..
+
+mkdir qemu-eos-build
+cd qemu-eos-build
+../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+make -j16
+make plugins
+cp tests/plugin/libmagiclantern.so arm-softmmu/plugins/
+
+cd ../qemu-eos/magiclantern
+./run_qemu.py --help
+
+make -j16 && make plugins && cp tests/plugin/libmagiclantern.so arm-softmmu/plugins/

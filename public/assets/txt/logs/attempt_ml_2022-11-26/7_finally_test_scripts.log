@@ -1,0 +1,25 @@
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos-build$ cd ../qemu-eos/magiclantern
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/magiclantern$ ./run_qemu.py --help
+usage: run_qemu.py [-h] [-q QEMU_BUILD_DIR] [-r ROM_DIR] [-s SOURCE_DIR] [--boot] [--gdb] [-d [D_ARGS ...]]
+                   {1000D,100D,1100D,1200D,1300D,200D,400D,40D,450D,500D,50D,550D,5D,5D2,5D3,5D3eeko,5D4,5D4AE,600D,60D,650D,6D,6D2,700D,70D,750D,760D,77D,7D,7D2,7D2S,800D,80D,850D,A1100,EOSM,EOSM10,EOSM2,EOSM3,EOSM5,EOSRP,M50,R}
+
+Script to run Qemu with EOS support.
+
+positional arguments:
+  {1000D,100D,1100D,1200D,1300D,200D,400D,40D,450D,500D,50D,550D,5D,5D2,5D3,5D3eeko,5D4,5D4AE,600D,60D,650D,6D,6D2,700D,70D,750D,760D,77D,7D,7D2,7D2S,800D,80D,850D,A1100,EOSM,EOSM10,EOSM2,EOSM3,EOSM5,EOSRP,M50,R}
+                        Name of model to emulate, required
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -q QEMU_BUILD_DIR, --qemu-build-dir QEMU_BUILD_DIR
+                        build dir for ML Qemu, default: /home/joelwindows7/sauce/simplified/qemu-eos-build
+  -r ROM_DIR, --rom-dir ROM_DIR
+                        location of roms, default: /home/joelwindows7/sauce/simplified/roms
+  -s SOURCE_DIR, --source-dir SOURCE_DIR
+                        location of Magic Lantern repo, used to find stubs etc for emulation. Default:
+                        /home/joelwindows7/sauce/simplified/magiclantern_simplified
+  --boot                attempt to run autoexec.bin from card (set cam bootflag), default: False
+  --gdb                 start Qemu suspended, until gdb connects on port 1234
+  -d [D_ARGS ...], --d-args [D_ARGS ...]
+                        space separated list of qemu '-d' arguments. See help for qemu for complete list
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/magiclantern$
