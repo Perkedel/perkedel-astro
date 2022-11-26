@@ -624,14 +624,18 @@ input:disabled {
     color: darkblue;
 }
 
-.Buttonnize.Dangerous:visited {
+a.Buttonnize.Dangerous:visited {
     background-color: purple;
     color: white;
 }
 
-.Buttonnize.Dangerous:visited:hover {
+a.Buttonnize.Dangerous:visited:hover {
     background-color: rgb(255, 0, 51);
     color: yellow;
+}
+
+.Dangerous::before {
+    content: "⚠️";
 }
 
 
