@@ -1,0 +1,118 @@
+magiclantern@debian-magiclantern:~$ sudo apt install bison flex -y
+
+[sudo] password for magiclantern: 
+
+Reading package lists... Done
+
+Building dependency tree... Done
+
+Reading state information... Done
+
+The following additional packages will be installed:
+
+  libfl-dev libfl2
+
+Suggested packages:
+
+  bison-doc flex-doc
+
+The following packages will be REMOVED:
+
+  bison++ flex-old
+
+The following NEW packages will be installed:
+
+  bison flex libfl-dev libfl2
+
+0 upgraded, 4 newly installed, 2 to remove and 0 not upgraded.
+
+Need to get 1,752 kB of archives.
+
+After this operation, 3,511 kB of additional disk space will be used.
+
+Get:1 http://deb.debian.org/debian bullseye/main amd64 flex amd64 2.6.4-8 [440 kB]
+
+Get:2 http://deb.debian.org/debian bullseye/main amd64 bison amd64 2:3.7.5+dfsg-1 [1,104 kB]
+
+Get:3 http://deb.debian.org/debian bullseye/main amd64 libfl2 amd64 2.6.4-8 [103 kB]
+
+Get:4 http://deb.debian.org/debian bullseye/main amd64 libfl-dev amd64 2.6.4-8 [104 kB]
+
+Fetched 1,752 kB in 1s (1,220 kB/s) 
+
+(Reading database ... 178776 files and directories currently installed.)
+
+Removing bison++ (1.21.11-4+b1) ...
+
+Removing flex-old (2.5.4a-10.1) ...
+
+Selecting previously unselected package flex.
+
+(Reading database ... 178729 files and directories currently installed.)
+
+Preparing to unpack .../flex_2.6.4-8_amd64.deb ...
+
+Unpacking flex (2.6.4-8) ...
+
+Selecting previously unselected package bison.
+
+Preparing to unpack .../bison_2%3a3.7.5+dfsg-1_amd64.deb ...
+
+Unpacking bison (2:3.7.5+dfsg-1) ...
+
+Selecting previously unselected package libfl2:amd64.
+
+Preparing to unpack .../libfl2_2.6.4-8_amd64.deb ...
+
+Unpacking libfl2:amd64 (2.6.4-8) ...
+
+Selecting previously unselected package libfl-dev:amd64.
+
+Preparing to unpack .../libfl-dev_2.6.4-8_amd64.deb ...
+
+Unpacking libfl-dev:amd64 (2.6.4-8) ...
+
+Setting up flex (2.6.4-8) ...
+
+Setting up libfl2:amd64 (2.6.4-8) ...
+
+Setting up bison (2:3.7.5+dfsg-1) ...
+
+update-alternatives: using /usr/bin/bison.yacc to provide /usr/bin/yacc (yacc) i
+
+n auto mode
+
+Setting up libfl-dev:amd64 (2.6.4-8) ...
+
+Processing triggers for man-db (2.9.4-2) ...
+
+Processing triggers for libc-bin (2.31-13+deb11u5) ...
+
+magiclantern@debian-magiclantern:~$ sudo apt update && sudo apt upgrade -y
+
+Hit:1 http://security.debian.org/debian-security bullseye-security InRelease
+
+Hit:2 http://deb.debian.org/debian bullseye InRelease
+
+Hit:3 http://deb.debian.org/debian bullseye-updates InRelease
+
+Reading package lists... Done
+
+Building dependency tree... Done
+
+Reading state information... Done
+
+All packages are up to date.
+
+Reading package lists... Done
+
+Building dependency tree... Done
+
+Reading state information... Done
+
+Calculating upgrade... Done
+
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+magiclantern@debian-magiclantern:~$ 
+

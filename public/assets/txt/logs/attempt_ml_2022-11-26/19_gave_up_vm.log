@@ -1,0 +1,4106 @@
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ make clean
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   t3_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ make docq
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+cd ../../doc && RST2LATEX=rst2latex.py python2 mkdoc.py
+
+[[Focus distance]]
+
+[[Cropmarks]]
+
+[[External Recorders]]
+
+[[Unbricking]]
+
+[[install]]
+
+[[HDMI recorder]]
+
+sh: 1: rst2latex.py: not found
+
+make: *** [../../Makefile.inc:58: docq] Error 1
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ cd ../..
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ make clean
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+make -C ./platform/5D3.113 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_113.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+make -C ./platform/5D3.123 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_123.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+make -C ./platform/5D2.212 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D2_212.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+make -C ./platform/5D4.133 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D4_133.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+make -C ./platform/6D.116 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D_116.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+make -C ./platform/6D2.105 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D2_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+make -C ./platform/50D.109 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   50D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+make -C ./platform/60D.111 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   60D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+make -C ./platform/77D.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+make -C ./platform/80D.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+make -C ./platform/200D.101 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   200D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+make -C ./platform/500D.111 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   500D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+make -C ./platform/550D.109 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   550D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+make -C ./platform/600D.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   600D_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+make -C ./platform/650D.104 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   650D_104.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+make -C ./platform/700D.115 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   700D_115.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+make -C ./platform/750D.110 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   750D_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+make -C ./platform/760D.100 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+make -C ./platform/850D.100 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   850D_100.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+make -C ./platform/100D.101 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   100D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+make -C ./platform/1100D.105 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   t3_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+make -C ./platform/EOSM.202 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   EOSM_202.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+make -C ./platform/M50.110 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   M50_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+make -C ./platform/R.180 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   R_180.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+make -C ./platform/RP.160 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   RP_160.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+make -C ./platform/SX740.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   SX740_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+make -C ./platform clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform'
+
+make -C ./5D3.113 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_113.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+make -C ./5D3.123 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_123.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+make -C ./5D2.212 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D2_212.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+make -C ./5D4.133 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D4_133.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+make -C ./6D.116 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D_116.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+make -C ./6D2.105 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D2_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+make -C ./50D.109 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   50D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+make -C ./60D.111 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   60D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+make -C ./77D.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+make -C ./80D.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+make -C ./200D.101 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   200D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+make -C ./500D.111 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   500D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+make -C ./550D.109 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   550D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+make -C ./600D.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   600D_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+make -C ./650D.104 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   650D_104.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+make -C ./700D.115 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   700D_115.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+make -C ./750D.110 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   750D_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+make -C ./760D.100 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+make -C ./850D.100 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   850D_100.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+make -C ./100D.101 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   100D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+make -C ./1100D.105 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   t3_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+make -C ./EOSM.202 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   EOSM_202.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+make -C ./M50.110 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   M50_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+make -C ./R.180 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   R_180.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+make -C ./RP.160 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   RP_160.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+make -C ./SX740.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   SX740_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform'
+
+[ RM dir   ]   doxygen-doc
+
+make -C modules clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make -C  ../modules/mlv_lite clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+[ RM       ]   mlv_lite.o ../mlv_rec/mlv.o mlv_lite.mo mlv_lite.sym mlv_lite.dep mlv_lite.zip module_strings.h *.o *.d *.dep *.sym
+
+[ RM       ]   raw2dng raw2dng.exe dng2raw dng2raw.exe
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+make -C  ../modules/mlv_play clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+[ RM       ]   mlv_play.o video.bmp.rsc mlv_play.mo mlv_play.sym mlv_play.dep mlv_play.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+make -C  ../modules/mlv_rec clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+[ RM       ]   mlv_rec.o mlv.o mlv_rec.mo mlv_rec.sym mlv_rec.dep mlv_rec.zip module_strings.h *.o *.d *.dep *.sym
+
+[ RM       ]   mlv_dump mlv_dump.exe lzma/7zAlloc.host.o lzma/7zBuf.host.o lzma/7zBuf2.host.o lzma/7zCrc.host.o lzma/7zCrcOpt.host.o lzma/7zDec.host.o lzma/7zFile.host.o lzma/7zIn.host.o lzma/7zStream.host.o lzma/Alloc.host.o lzma/Bcj2.host.o lzma/Bra.host.o lzma/Bra86.host.o lzma/BraIA64.host.o lzma/CpuArch.host.o lzma/Delta.host.o lzma/LzFind.host.o lzma/Lzma2Dec.host.o lzma/Lzma2Enc.host.o lzma/Lzma86Dec.host.o lzma/Lzma86Enc.host.o lzma/LzmaDec.host.o lzma/LzmaEnc.host.o lzma/LzmaLib.host.o lzma/Ppmd7.host.o lzma/Ppmd7Dec.host.o lzma/Ppmd7Enc.host.o lzma/Sha256.host.o lzma/Xz.host.o lzma/XzCrc64.host.o lzma/lib7z.a lzma/Threads.w32.o lzma/LzFindMt.w32.o lzma/MtCoder.w32.o lzma/7zAlloc.w32.o lzma/7zBuf.w32.o lzma/7zBuf2.w32.o lzma/7zCrc.w32.o lzma/7zCrcOpt.w32.o lzma/7zDec.w32.o lzma/7zFile.w32.o lzma/7zIn.w32.o lzma/7zStream.w32.o lzma/Alloc.w32.o lzma/Bcj2.w32.o lzma/Bra.w32.o lzma/Bra86.w32.o lzma/BraIA64.w32.o lzma/CpuArch.w32.o lzma/Delta.w32.o lzma/LzFind.w32.o lzma/Lzma2Dec.w32.o lzma/Lzma2Enc.w32.o lzma/Lzma86Dec.w32.o lzma/Lzma86Enc.w32.o lzma/LzmaDec.w32.o lzma/LzmaEnc.w32.o lzma/LzmaLib.w32.o lzma/Ppmd7.w32.o lzma/Ppmd7Dec.w32.o lzma/Ppmd7Enc.w32.o lzma/Sha256.w32.o lzma/Xz.w32.o lzma/XzCrc64.w32.o lzma/lib7z.w32.a 
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+make -C  ../modules/mlv_snd clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+[ RM       ]   mlv_snd.o mlv_snd.mo mlv_snd.sym mlv_snd.dep mlv_snd.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+make -C  ../modules/file_man clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+[ RM       ]   file_man.o file_man.mo file_man.sym file_man.dep file_man.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+make -C  ../modules/pic_view clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+[ RM       ]   pic_view.o pic_view.mo pic_view.sym pic_view.dep pic_view.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+make -C  ../modules/ettr clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+[ RM       ]   ettr.o ettr.mo ettr.sym ettr.dep ettr.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+make -C  ../modules/dual_iso clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+[ RM       ]   dual_iso.o dual_iso.mo dual_iso.sym dual_iso.dep dual_iso.zip module_strings.h *.o *.d *.dep *.sym
+
+[ RM       ]   cr2hdr cr2hdr.exe dcraw dcraw.c dcraw.exe exiftool.exe exiftool.tar.gz exiftool exiftool.zip cr2hdr.zip cr2hdr-win.zip cr2hdr-win_exiftool-perl-script.zip
+
+rm -rf lib
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+make -C  ../modules/silent clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+[ RM       ]   silent.o silent.mo silent.sym silent.dep silent.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+make -C  ../modules/dot_tune clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+[ RM       ]   dot_tune.o dot_tune.mo dot_tune.sym dot_tune.dep dot_tune.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+make -C  ../modules/autoexpo clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+[ RM       ]   autoexpo.o autoexpo.mo autoexpo.sym autoexpo.dep autoexpo.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+make -C  ../modules/arkanoid clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+[ RM       ]   arkanoid.o arkanoid.mo arkanoid.sym arkanoid.dep arkanoid.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+make -C  ../modules/deflick clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+[ RM       ]   deflick.o deflick.mo deflick.sym deflick.dep deflick.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+make -C  ../modules/lua clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+[ RM       ]   lua/ml-lua-shim.o lua/lapi.o lua/lcode.o lua/lctype.o lua/ldebug.o lua/ldo.o lua/ldump.o lua/lfunc.o lua/lgc.o lua/llex.o lua/lmem.o lua/lobject.o lua/lopcodes.o lua/lparser.o lua/lstate.o lua/lstring.o lua/ltable.o lua/ltm.o lua/lundump.o lua/lvm.o lua/lzio.o lua/lauxlib.o lua/lbaselib.o lua/lbitlib.o lua/lcorolib.o lua/ldblib.o lua/liolib.o lua/lmathlib.o lua/lstrlib.o lua/ltablib.o lua/lutf8lib.o lua/loadlib.o lua/linit.o lua_globals.o lua_console.o lua_camera.o lua_lv.o lua_lens.o lua_movie.o lua_display.o lua_key.o lua_menu.o lua_dryos.o lua_interval.o lua_battery.o lua_task.o lua_property.o lua_constants.o lua.o dietlibc.a umm_malloc/umm_malloc.o lua.mo lua.sym lua.dep lua.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+make -C  ../modules/bench clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+[ RM       ]   bench.o bench.mo bench.sym bench.dep bench.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+make -C  ../modules/selftest clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+[ RM       ]   selftest.o selftest.mo selftest.sym selftest.dep selftest.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+make -C  ../modules/adv_int clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+[ RM       ]   adv_int.o adv_int.mo adv_int.sym adv_int.dep adv_int.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+make -C  ../modules/edmac clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+[ RM       ]   edmac.o edmac_util.o edmac_test.o md5.o edmac.mo edmac.sym edmac.dep edmac.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+[ RM       ]   ../modules/*/*.mo ../modules/*/*.o ../modules/*/*.d ../modules/*/*.dep ../modules/*/*.sym ../modules/*/module_strings.h ../modules/*/hgstamp ../modules/*/hginfo.tmp
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+[ RM       ]   magiclantern.lds tmp.lds ./lua/*.o ./lua/.*.d ./lua/liblua.a doc/Cropmarks550D.png doc/credits.tex doc/install-body.tex doc/install.wiki doc/menuindex.txt src/menuindexentries.h doc/userguide.rst doc/INSTALL.aux doc/INSTALL.log doc/INSTALL.out doc/INSTALL.pdf doc/INSTALL.rst doc/INSTALL.tex doc/INSTALL.toc doc/UserGuide-cam.aux doc/UserGuide-cam.log doc/UserGuide-cam.out doc/UserGuide-cam.pdf doc/UserGuide-cam.tex doc/UserGuide.aux doc/UserGuide.log doc/UserGuide.out doc/UserGuide.pdf doc/UserGuide.tex doc/UserGuide.toc *.pdf 
+
+[ RM dir   ]   doc/cam
+
+[ RM dir   ]   binaries
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ cd platform/1100D.105/
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ ls
+
+cfn.c  consts.h  features.h  gui.h  include  internals.h  Makefile  Makefile.platform.default  Makefile.setup.default  ML-SETUP.FIR  stubs.S
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ make docq
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+cd ../../doc && RST2LATEX=rst2latex.py python2 mkdoc.py
+
+[[Focus distance]]
+
+[[Cropmarks]]
+
+[[External Recorders]]
+
+[[Unbricking]]
+
+[[install]]
+
+[[HDMI recorder]]
+
+sh: 1: rst2latex.py: not found
+
+make: *** [../../Makefile.inc:58: docq] Error 1
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ sudo apt install python-docutils
+
+[sudo] password for magiclantern: 
+
+Reading package lists... Done
+
+Building dependency tree... Done
+
+Reading state information... Done
+
+Package python-docutils is not available, but is referred to by another package.
+
+This may mean that the package is missing, has been obsoleted, or
+
+is only available from another source
+
+
+
+E: Package 'python-docutils' has no installation candidate
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ make zip
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+[ RM dir   ]   /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/
+
+mkdir -p /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip
+
+[ MKDIR    ]   ML directory structure...
+
+[ CPP      ]   magiclantern.lds
+
+mv tmp.lds magiclantern.lds
+
+[ AS       ]   entry.o
+
+[ AS       ]   ../../platform/1100D.105/stubs.o
+
+[ VERSION  ]   ../../platform/1100D.105/version.c
+
+../../build_tools/git_summary.py >> ../../platform/1100D.105/version.c
+
+[ CC       ]   version.o
+
+[ CC       ]   backtrace.o
+
+[ CC       ]   sgi.o
+
+[ CC       ]   cpu.o
+
+[ CC       ]   mmu_utils.o
+
+[ CC       ]   patch_mmu.o
+
+[ CC       ]   boot-d45-am.o
+
+[ CC       ]   init.o
+
+[ CC       ]   fio-ml.o
+
+[ CC       ]   mem.o
+
+[ CC       ]   ico.o
+
+[ CC       ]   edmac.o
+
+[ CC       ]   menu.o
+
+[ CC       ]   debug.o
+
+[ CC       ]   rand.o
+
+[ CC       ]   posix.o
+
+[ CC       ]   util.o
+
+[ CC       ]   imath.o
+
+[ CC       ]   electronic_level.o
+
+[ CC       ]   cfn.o
+
+[ CC       ]   gui.o
+
+[ CC       ]   picstyle.o
+
+[ CC       ]   exmem.o
+
+[ CC       ]   compositor.o
+
+[ CC       ]   bmp.o
+
+[ CC       ]   rbf_font.o
+
+[ CC       ]   config.o
+
+[ CC       ]   stdio.o
+
+../../src/stdio.c: In function 'snprintf':
+
+../../src/stdio.c:87:8: warning: nonnull argument 'fmt' compared to NULL [-Wnonnull-compare]
+
+     if (fmt == NULL)
+
+        ^
+
+[ CC       ]   bitrate.o
+
+[ CC       ]   lcdsensor.o
+
+[ CC       ]   tweaks.o
+
+[ CC       ]   tweaks-eyefi.o
+
+[ CC       ]   lens.o
+
+[ CC       ]   property.o
+
+[ CC       ]   propvalues.o
+
+[ CC       ]   gui-common.o
+
+[ CC       ]   chdk-gui_draw.o
+
+[ CC       ]   movtweaks.o
+
+[ CC       ]   menuhelp.o
+
+[ MENU IDX ]   ../../src/menuindexentries.h
+
+
+
+No menuindex.txt! The "Complete user guide" menu is empty!
+
+Run make docq to update menuindex.txt.
+
+
+
+[ CC       ]   menuindex.o
+
+[ CC       ]   af_patterns.o
+
+[ CC       ]   focus.o
+
+[ CC       ]   notify_box.o
+
+[ CC       ]   bootflags.o
+
+[ CC       ]   dialog_test.o
+
+[ CC       ]   vram.o
+
+[ CC       ]   greenscreen.o
+
+[ CC       ]   fps-engio.o
+
+[ CC       ]   shoot.o
+
+[ CC       ]   hdr.o
+
+[ CC       ]   lv-img-engio.o
+
+[ CC       ]   state-object.o
+
+[ CC       ]   tasks.o
+
+[ CC       ]   vsync-lite.o
+
+[ CC       ]   tskmon.o
+
+[ CC       ]   battery.o
+
+[ CC       ]   imgconv.o
+
+[ CC       ]   histogram.o
+
+[ CC       ]   falsecolor.o
+
+[ CC       ]   audio-ak.o
+
+[ CC       ]   zebra.o
+
+[ CC       ]   vectorscope.o
+
+[ CC       ]   beep.o
+
+[ CC       ]   crop-mode-hack.o
+
+[ CC       ]   ph_info_disp.o
+
+[ CC       ]   flexinfo.o
+
+[ CC       ]   screenshot.o
+
+[ CC       ]   fileprefix.o
+
+[ CC       ]   lvinfo.o
+
+[ CC       ]   builtin-enforcing.o
+
+[ CC       ]   powersave.o
+
+[ CC       ]   ml-cbr.o
+
+[ CC       ]   raw.o
+
+[ CC       ]   chdk-dng.o
+
+[ CC       ]   edmac-memcpy.o
+
+[ CC       ]   cache_hacks.o
+
+[ CC       ]   patch.o
+
+[ CC       ]   cache.o
+
+[ CC       ]   console.o
+
+[ CC       ]   tcc-glue.o
+
+make -C ../../tcc
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/tcc'
+
+/usr/bin/arm-none-eabi-gcc -o libtcc.o -c libtcc.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+
+libtcc.c: In function 'tcc_free':
+
+libtcc.c:203:35: warning: implicit declaration of function '__mem_free'; did you mean 'sym_free'? [-Wimplicit-function-declaration]
+
+ #define FreeMemory(buf)           __mem_free(buf)
+
+                                   ^~~~~~~~~~
+
+libtcc.c:217:14: note: in expansion of macro 'FreeMemory'
+
+     if (ptr) FreeMemory(ptr);
+
+              ^~~~~~~~~~
+
+libtcc.c: In function 'tcc_malloc':
+
+libtcc.c:202:44: warning: implicit declaration of function '__mem_malloc'; did you mean 'tcc_malloc'? [-Wimplicit-function-declaration]
+
+ #define AllocateMemory(len)         (void*)__mem_malloc(len, MEM_TEMPORARY, __FILE__, __LINE__)
+
+                                            ^~~~~~~~~~~~
+
+libtcc.c:224:11: note: in expansion of macro 'AllocateMemory'
+
+     ptr = AllocateMemory(size);
+
+           ^~~~~~~~~~~~~~
+
+In file included from libtcc.c:21:
+
+libtcc.c: In function 'tcc_error':
+
+tcc.h:1388:14: warning: implicit declaration of function '_tcc_exit'; did you mean '_exit'? [-Wimplicit-function-declaration]
+
+ #define exit _tcc_exit
+
+              ^~~~~~~~~
+
+libtcc.c:554:9: note: in expansion of macro 'exit'
+
+         exit(1);
+
+         ^~~~
+
+libtcc.c: In function 'tcc_close':
+
+tcc.h:1385:15: warning: implicit declaration of function '_tcc_close'; did you mean 'tcc_close'? [-Wimplicit-function-declaration]
+
+ #define close _tcc_close
+
+               ^~~~~~~~~~
+
+libtcc.c:599:9: note: in expansion of macro 'close'
+
+         close(bf->fd);
+
+         ^~~~~
+
+libtcc.c: In function 'tcc_open':
+
+tcc.h:1384:14: warning: implicit declaration of function '_tcc_open'; did you mean 'tcc_open'? [-Wimplicit-function-declaration]
+
+ #define open _tcc_open
+
+              ^~~~~~~~~
+
+libtcc.c:612:14: note: in expansion of macro 'open'
+
+         fd = open(filename, O_RDONLY | O_BINARY);
+
+              ^~~~
+
+libtcc.c: In function 'tcc_add_file_internal':
+
+tcc.h:1386:14: warning: implicit declaration of function '_tcc_read'; did you mean 'tcc_free'? [-Wimplicit-function-declaration]
+
+ #define read _tcc_read
+
+              ^~~~~~~~~
+
+libtcc.c:861:12: note: in expansion of macro 'read'
+
+     size = read(fd, &ehdr, sizeof(ehdr));
+
+            ^~~~
+
+tcc.h:1387:15: warning: implicit declaration of function '_tcc_lseek'; did you mean 'tcc_free'? [-Wimplicit-function-declaration]
+
+ #define lseek _tcc_lseek
+
+               ^~~~~~~~~~
+
+libtcc.c:862:5: note: in expansion of macro 'lseek'
+
+     lseek(fd, 0, SEEK_SET);
+
+     ^~~~~
+
+/usr/bin/arm-none-eabi-gcc -o tccpp.o -c tccpp.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+
+/usr/bin/arm-none-eabi-gcc -o tccgen.o -c tccgen.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+
+/usr/bin/arm-none-eabi-gcc -o tccelf.o -c tccelf.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+
+In file included from tccelf.c:21:
+
+tccelf.c: In function 'load_data':
+
+tcc.h:1387:15: warning: implicit declaration of function '_tcc_lseek'; did you mean 'tcc_free'? [-Wimplicit-function-declaration]
+
+ #define lseek _tcc_lseek
+
+               ^~~~~~~~~~
+
+tccelf.c:1618:5: note: in expansion of macro 'lseek'
+
+     lseek(fd, file_offset, SEEK_SET);
+
+     ^~~~~
+
+tcc.h:1386:14: warning: implicit declaration of function '_tcc_read'; did you mean 'tcc_free'? [-Wimplicit-function-declaration]
+
+ #define read _tcc_read
+
+              ^~~~~~~~~
+
+tccelf.c:1619:5: note: in expansion of macro 'read'
+
+     read(fd, data, size);
+
+     ^~~~
+
+tccelf.c: In function 'tcc_load_offline_section':
+
+tcc.h:1384:14: warning: implicit declaration of function '_tcc_open'; did you mean 'tcc_open'? [-Wimplicit-function-declaration]
+
+ #define open _tcc_open
+
+              ^~~~~~~~~
+
+tccelf.c:1968:14: note: in expansion of macro 'open'
+
+     int fd = open(filename, O_RDONLY | O_BINARY);
+
+              ^~~~
+
+tcc.h:1385:15: warning: implicit declaration of function '_tcc_close'; did you mean 'tcc_close'? [-Wimplicit-function-declaration]
+
+ #define close _tcc_close
+
+               ^~~~~~~~~~
+
+tccelf.c:1990:9: note: in expansion of macro 'close'
+
+         close(fd);
+
+         ^~~~~
+
+/usr/bin/arm-none-eabi-gcc -o tccasm.o -c tccasm.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+
+/usr/bin/arm-none-eabi-gcc -o tccrun.o -c tccrun.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+
+tccrun.c: In function 'tcc_relocate_ex':
+
+tccrun.c:187:29: warning: implicit declaration of function 'get_plt_got_size_for_relocate_section' [-Wimplicit-function-declaration]
+
+             int extra_ram = get_plt_got_size_for_relocate_section(s1, s);
+
+                             ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+tccrun.c:190:18: warning: #warning FIXME: why does it overflow without this extra RAM when loading the big adtg_gui? [-Wcpp]
+
+                 #warning FIXME: why does it overflow without this extra RAM when loading the big adtg_gui?
+
+                  ^~~~~~~
+
+/usr/bin/arm-none-eabi-gcc -o arm-gen.o -c arm-gen.c -DTCC_TARGET_ARM -DWITHOUT_LIBTCC -I.  -Os -fno-strict-aliasing -Wno-pointer-sign -Wno-sign-compare -Wno-unused-result
+
+arm-none-eabi-ld -r -o libtcctmp.o libtcc.o tccpp.o tccgen.o tccelf.o tccasm.o tccrun.o arm-gen.o
+
+#~ arm-none-eabi-objcopy libtcctmp.a libtcc.a --localize-symbols localsyms
+
+arm-none-eabi-objcopy libtcctmp.o libtccx.o --localize-symbols localsyms
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/tcc'
+
+[ CC       ]   module.o
+
+../../src/module.c: In function '_module_load_all':
+
+../../src/module.c:828:52: warning: cast between incompatible function types from 'unsigned int (*)(unsigned int)' to 'ml_cbr_action (*)(const char *, void *)' {aka 'enum <anonymous> (*)(const char *, void *)'} [-Wcast-function-type]
+
+                         ml_register_cbr(cbr->name, (cbr_func)cbr->handler, 0);
+
+                                                    ^
+
+../../src/module.c: In function '_module_unload_all':
+
+../../src/module.c:890:50: warning: cast between incompatible function types from 'unsigned int (*)(unsigned int)' to 'ml_cbr_action (*)(const char *, void *)' {aka 'enum <anonymous> (*)(const char *, void *)'} [-Wcast-function-type]
+
+                     ml_unregister_cbr(cbr->name, (cbr_func)cbr->handler);
+
+                                                  ^
+
+[ CC       ]   liveview.o
+
+[ CC       ]   reloc.o
+
+[ AR       ]   strrchr.o
+
+[ AR       ]   dietlibc.a
+
+[ AR       ]   lib_a-setjmp.o
+
+[ AR       ]   newlib-libc.a
+
+[ CP       ]   newlib-libm.a
+
+[ CP       ]   gcc-libgcc.a
+
+[ LD       ]   magiclantern
+
+[ SYMBOLS  ]   magiclantern.sym
+
+[ CP       ]   t3_105.sym
+
+[ CP       ]   install
+
+cp ML-SETUP.FIR /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/
+
+[ VERSION  ]   ../../platform/1100D.105/version.bin
+
+../../build_tools/git_summary.py >> ../../platform/1100D.105/version.bin
+
+[ OBJCOPY  ]   magiclantern.bin
+
+[ STAT     ]   magiclantern.bin
+
+magiclantern.bin: 462308 bytes
+
+[ CC       ]   reboot.o
+
+[ CC       ]   disp_direct.o
+
+[ CC       ]   font_direct.o
+
+[ CC       ]   footer.o
+
+[ LD       ]   autoexec
+
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+
+[ OBJCOPY  ]   autoexec.bin
+
+[ XOR_CHK  ]   autoexec.bin
+
+cp autoexec.bin /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/
+
+cp ../../data/fonts/*.rbf /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/fonts/
+
+cp ../../data/vram/*.lut /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/data/
+
+cp ../../data/cropmks/*.bmp /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/cropmks/
+
+[ SCRIPTS  ]   install_extra_data
+
+for target in  CONFIG_MODULES_install; do make $target; done
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+make -C ../../modules
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make[3]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+
+
+Building module mlv_lite...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   mlv_lite.o
+
+[ CC       ]   ../mlv_rec/mlv.o
+
+[ MODULE   ]   mlv_lite.mo
+
+[ STRIP    ]   mlv_lite.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   mlv_lite.sym
+
+0000016c raw_movie_filename
+
+00000174 raw_video_enabled
+
+0000076c raw_rec_trace_ctx
+
+00004c98 mlv_prng_lfsr
+
+00004ccc mlv_generate_guid
+
+00004d50 mlv_set_type
+
+00004d60 mlv_init_fileheader
+
+00004dac mlv_set_timestamp
+
+00004e14 mlv_fill_lens
+
+00004f14 mlv_fill_wbal
+
+00005034 mlv_fill_styl
+
+00005168 mlv_fill_expo
+
+000052bc mlv_fill_rtci
+
+00005408 mlv_fill_idnt
+
+000054e4 mlv_build_vers
+
+000055ac mlv_write_vers_blocks
+
+[ DEPENDS  ]   mlv_lite.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+
+
+Building module mlv_play...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   mlv_play.o
+
+mlv_play.c: In function 'mlv_play_task':
+
+mlv_play.c:2526:74: warning: argument to 'sizeof' in 'strncpy' call is the same expression as the source; did you mean to use the size of the destination? [-Wsizeof-pointer-memaccess]
+
+         strncpy(mlv_play_current_filename, mlv_play_next_filename, sizeof(mlv_play_next_filename));
+
+                                                                          ^
+
+mlv_play.c: In function 'mlv_play_start_fps_timer':
+
+mlv_play.c:1596:39: warning: this statement may fall through [-Wimplicit-fallthrough=]
+
+             mlv_play_frame_dividers[1]++;
+
+             ~~~~~~~~~~~~~~~~~~~~~~~~~~^~
+
+mlv_play.c:1597:9: note: here
+
+         case 1:
+
+         ^~~~
+
+mlv_play.c: In function 'mlv_play_mlv.constprop':
+
+mlv_play.c:1630:5: warning: 'memset' writing 180 bytes into a region of size 44 overflows the destination [-Wstringop-overflow=]
+
+     memset(&wavi_block, 0x00, sizeof(mlv_rawi_hdr_t));
+
+     ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[ LD       ]   video.bmp.rsc
+
+[ MODULE   ]   mlv_play.mo
+
+[ STRIP    ]   mlv_play.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   mlv_play.sym
+
+00000118 _binary_video_bmp_start
+
+00003db4 mlv_play_file
+
+00004436 _binary_video_bmp_size
+
+0000454e _binary_video_bmp_end
+
+[ DEPENDS  ]   mlv_play.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+
+
+Building module mlv_rec...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   mlv_rec.o
+
+mlv_rec.c: In function 'raw_tag_str_start':
+
+mlv_rec.c:3786:20: warning: pointer targets in passing argument 1 of 'ime_base_start' differ in signedness [-Wpointer-sign]
+
+     ime_base_start((unsigned char *)"Enter text", (unsigned char *)raw_tag_str_tmp, sizeof(raw_tag_str_tmp)-1, IME_UTF8, IME_CHARSET_ANY, NULL, raw_tag_str_done, 0, 0, 0, 0);
+
+                    ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In file included from mlv_rec.c:78:
+
+../ime_base/ime_base.h:70:31: note: expected 'char *' but argument is of type 'unsigned char *'
+
+ extern IME_WEAK(ret_0) void * ime_base_start (char *caption, char *text, int32_t max_length, int32_t codepage, int32_t charset, t_ime_update_cbr update_cbr, t_ime_done_cbr done_cbr, int32_t x, int32_t y, int32_t w, int32_t h );
+
+                               ^~~~~~~~~~~~~~
+
+mlv_rec.c:3786:51: warning: pointer targets in passing argument 2 of 'ime_base_start' differ in signedness [-Wpointer-sign]
+
+     ime_base_start((unsigned char *)"Enter text", (unsigned char *)raw_tag_str_tmp, sizeof(raw_tag_str_tmp)-1, IME_UTF8, IME_CHARSET_ANY, NULL, raw_tag_str_done, 0, 0, 0, 0);
+
+                                                   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In file included from mlv_rec.c:78:
+
+../ime_base/ime_base.h:70:31: note: expected 'char *' but argument is of type 'unsigned char *'
+
+ extern IME_WEAK(ret_0) void * ime_base_start (char *caption, char *text, int32_t max_length, int32_t codepage, int32_t charset, t_ime_update_cbr update_cbr, t_ime_done_cbr done_cbr, int32_t x, int32_t y, int32_t w, int32_t h );
+
+                               ^~~~~~~~~~~~~~
+
+[ CC       ]   mlv.o
+
+[ MODULE   ]   mlv_rec.mo
+
+[ STRIP    ]   mlv_rec.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   mlv_rec.sym
+
+00000068 mlv_block_queue
+
+00000070 mlv_video_enabled
+
+00000160 raw_rec_trace_ctx
+
+00000168 mlv_mgr_queue
+
+0000016c mlv_mgr_queue_close
+
+00000170 mlv_job_alloc_queue
+
+00000218 mlv_movie_filename
+
+00007284 mlv_rec_queue_block
+
+000072a0 mlv_rec_set_rel_timestamp
+
+000072f4 mlv_rec_get_free_slot
+
+000073c0 mlv_rec_get_slot_info
+
+00007498 mlv_rec_release_slot
+
+000074e8 mlv_prng_lfsr
+
+0000751c mlv_generate_guid
+
+000075a0 mlv_set_type
+
+000075b0 mlv_init_fileheader
+
+000075fc mlv_set_timestamp
+
+00007664 mlv_fill_lens
+
+00007764 mlv_fill_wbal
+
+00007884 mlv_fill_styl
+
+000079b8 mlv_fill_expo
+
+00007b0c mlv_fill_rtci
+
+00007c58 mlv_fill_idnt
+
+00007d34 mlv_build_vers
+
+00007dfc mlv_write_vers_blocks
+
+[ DEPENDS  ]   mlv_rec.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+
+
+Building module mlv_snd...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   mlv_snd.o
+
+[ MODULE   ]   mlv_snd.mo
+
+[ STRIP    ]   mlv_snd.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   mlv_snd.sym
+
+00000078 mlv_snd_next_buffer
+
+0000007c mlv_snd_current_buffer
+
+00000930 raw_rec_cbr_starting
+
+00000a78 raw_rec_cbr_started
+
+00000c28 raw_rec_cbr_stopping
+
+00000d50 raw_rec_cbr_mlv_block
+
+[ DEPENDS  ]   mlv_snd.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+
+
+Building module file_man...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   file_man.o
+
+[ MODULE   ]   file_man.mo
+
+[ STRIP    ]   file_man.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   file_man.sym
+
+0000225c fileman_register_type
+
+[ DEPENDS  ]   file_man.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+
+
+Building module pic_view...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   pic_view.o
+
+[ MODULE   ]   pic_view.mo
+
+[ STRIP    ]   pic_view.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   pic_view.sym
+
+[ DEPENDS  ]   pic_view.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+
+
+Building module ettr...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   ettr.o
+
+[ MODULE   ]   ettr.mo
+
+[ STRIP    ]   ettr.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   ettr.sym
+
+00003660 auto_ettr_export_correction
+
+0000368c auto_ettr_intervalometer_warning
+
+0000372c auto_ettr_intervalometer_wait
+
+[ DEPENDS  ]   ettr.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+
+
+Building module dual_iso...
+
+[ README   ]   module_strings.h
+
+Help page 1: Quick start
+
+Help page 2: Tips and tricks
+
+[ CC       ]   dual_iso.o
+
+[ MODULE   ]   dual_iso.mo
+
+[ STRIP    ]   dual_iso.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   dual_iso.sym
+
+00001748 dual_iso_calc_dr_improvement
+
+000017a0 dual_iso_set_enabled
+
+000017b4 dual_iso_is_enabled
+
+000017c4 dual_iso_is_active
+
+000017ec dual_iso_get_dr_improvement
+
+000019b4 dual_iso_get_recovery_iso
+
+000019d4 dual_iso_set_recovery_iso
+
+[ DEPENDS  ]   dual_iso.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+
+
+Building module silent...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   silent.o
+
+[ MODULE   ]   silent.mo
+
+[ STRIP    ]   silent.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   silent.sym
+
+[ DEPENDS  ]   silent.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+
+
+Building module dot_tune...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   dot_tune.o
+
+[ MODULE   ]   dot_tune.mo
+
+[ STRIP    ]   dot_tune.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   dot_tune.sym
+
+[ DEPENDS  ]   dot_tune.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+
+
+Building module autoexpo...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   autoexpo.o
+
+autoexpo.c: In function 'autoexpo_shoot_task':
+
+autoexpo.c:208:20: warning: suggest parentheses around '&&' within '||' [-Wparentheses]
+
+         (!lv || lv && autoexpo_lv) &&
+
+                 ~~~^~~~~~~~~~~~~~
+
+[ MODULE   ]   autoexpo.mo
+
+[ STRIP    ]   autoexpo.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   autoexpo.sym
+
+[ DEPENDS  ]   autoexpo.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+
+
+Building module arkanoid...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   arkanoid.o
+
+[ MODULE   ]   arkanoid.mo
+
+[ STRIP    ]   arkanoid.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   arkanoid.sym
+
+[ DEPENDS  ]   arkanoid.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+
+
+Building module deflick...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   deflick.o
+
+deflick.c: In function '__module_prophandler_deflick_0x80020000':
+
+deflick.c:201:17: warning: initialization of 'int *' from incompatible pointer type 'uint32_t *' {aka 'long unsigned int *'} [-Wincompatible-pointer-types]
+
+     int* data = buf;
+
+                 ^~~
+
+[ MODULE   ]   deflick.mo
+
+[ STRIP    ]   deflick.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   deflick.sym
+
+[ DEPENDS  ]   deflick.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+
+
+Building module lua...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   lua/ml-lua-shim.o
+
+In file included from lua/ml-lua-shim.c:9:
+
+dietlibc/include/unistd.h:72:5: warning: conflicting types for built-in function 'execl' [-Wbuiltin-declaration-mismatch]
+
+ int execl(const char *path, ...) __THROW;
+
+     ^~~~~
+
+dietlibc/include/unistd.h:73:5: warning: conflicting types for built-in function 'execle' [-Wbuiltin-declaration-mismatch]
+
+ int execle(const char *path, ...) __THROW;
+
+     ^~~~~~
+
+dietlibc/include/unistd.h:163:1: warning: ignoring attribute 'pure' because it conflicts with attribute 'const' [-Wattributes]
+
+ size_t getpagesize(void) __THROW __attribute__((__const__,__pure__));
+
+ ^~~~~~
+
+[ CC       ]   lua/lapi.o
+
+[ CC       ]   lua/lcode.o
+
+[ CC       ]   lua/lctype.o
+
+[ CC       ]   lua/ldebug.o
+
+[ CC       ]   lua/ldo.o
+
+[ CC       ]   lua/ldump.o
+
+[ CC       ]   lua/lfunc.o
+
+[ CC       ]   lua/lgc.o
+
+lua/lgc.c: In function 'freeobj':
+
+lua/lgc.c:691:7: warning: this statement may fall through [-Wimplicit-fallthrough=]
+
+       luaS_remove(L, gco2ts(o));  /* remove it from hash table */
+
+       ^~~~~~~~~~~~~~~~~~~~~~~~~
+
+lua/lgc.c:693:5: note: here
+
+     case LUA_TLNGSTR: {
+
+     ^~~~
+
+[ CC       ]   lua/llex.o
+
+[ CC       ]   lua/lmem.o
+
+[ CC       ]   lua/lobject.o
+
+[ CC       ]   lua/lopcodes.o
+
+[ CC       ]   lua/lparser.o
+
+[ CC       ]   lua/lstate.o
+
+[ CC       ]   lua/lstring.o
+
+[ CC       ]   lua/ltable.o
+
+lua/ltable.c: In function 'luaH_get':
+
+lua/ltable.c:545:23: warning: this statement may fall through [-Wimplicit-fallthrough=]
+
+     case LUA_TNUMFLT: {
+
+                       ^
+
+lua/ltable.c:551:5: note: here
+
+     default: {
+
+     ^~~~~~~
+
+[ CC       ]   lua/ltm.o
+
+[ CC       ]   lua/lundump.o
+
+[ CC       ]   lua/lvm.o
+
+[ CC       ]   lua/lzio.o
+
+[ CC       ]   lua/lauxlib.o
+
+In file included from lua/lauxlib.c:24:
+
+lua/lauxlib.c: In function 'luaL_tolstring':
+
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number' {aka 'float'} to 'double' when passing argument to function [-Wdouble-promotion]
+
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+
+                           ^~~~~~~~~~~~~~~~~~~~~~~~~
+
+lua/lauxlib.c:755:36: note: in expansion of macro 'lua_tonumber'
+
+           lua_pushfstring(L, "%f", lua_tonumber(L, idx));
+
+                                    ^~~~~~~~~~~~
+
+lua/lauxlib.c: In function 'luaL_checkversion_':
+
+lua/lauxlib.c:970:19: warning: implicit conversion from 'lua_Number' {aka 'float'} to 'double' when passing argument to function [-Wdouble-promotion]
+
+                   ver, *v);
+
+                   ^~~
+
+lua/lauxlib.c:970:24: warning: implicit conversion from 'lua_Number' {aka 'const float'} to 'double' when passing argument to function [-Wdouble-promotion]
+
+                   ver, *v);
+
+                        ^~
+
+[ CC       ]   lua/lbaselib.o
+
+In file included from lua/lbaselib.c:12:
+
+dietlibc/include/ctype.h:9:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isblank' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isblank (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:10:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isalnum' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isalnum (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:11:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isalpha' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isalpha (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:13:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isspace' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isspace (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:15:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isupper' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isupper (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:16:1: warning: ignoring attribute 'const' in declaration of a built-in function 'islower' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int islower (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:19:1: warning: ignoring attribute 'const' in declaration of a built-in function 'tolower' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int tolower(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:20:1: warning: ignoring attribute 'const' in declaration of a built-in function 'toupper' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int toupper(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:22:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isprint' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isprint(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:23:1: warning: ignoring attribute 'const' in declaration of a built-in function 'ispunct' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int ispunct(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:24:1: warning: ignoring attribute 'const' in declaration of a built-in function 'iscntrl' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int iscntrl(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:29:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isgraph' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isgraph(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+[ CC       ]   lua/lbitlib.o
+
+[ CC       ]   lua/lcorolib.o
+
+[ CC       ]   lua/ldblib.o
+
+[ CC       ]   lua/liolib.o
+
+In file included from lua/liolib.c:13:
+
+dietlibc/include/ctype.h:9:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isblank' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isblank (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:10:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isalnum' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isalnum (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:11:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isalpha' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isalpha (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:13:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isspace' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isspace (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:15:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isupper' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isupper (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:16:1: warning: ignoring attribute 'const' in declaration of a built-in function 'islower' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int islower (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:19:1: warning: ignoring attribute 'const' in declaration of a built-in function 'tolower' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int tolower(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:20:1: warning: ignoring attribute 'const' in declaration of a built-in function 'toupper' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int toupper(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:22:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isprint' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isprint(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:23:1: warning: ignoring attribute 'const' in declaration of a built-in function 'ispunct' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int ispunct(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:24:1: warning: ignoring attribute 'const' in declaration of a built-in function 'iscntrl' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int iscntrl(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:29:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isgraph' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isgraph(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+In file included from lua/liolib.c:20:
+
+lua/liolib.c: In function 'g_write':
+
+lua/lua.h:340:27: warning: implicit conversion from 'lua_Number' {aka 'float'} to 'double' when passing argument to function [-Wdouble-promotion]
+
+ #define lua_tonumber(L,i) lua_tonumberx(L,(i),NULL)
+
+                           ^~~~~~~~~~~~~~~~~~~~~~~~~
+
+lua/liolib.c:611:46: note: in expansion of macro 'lua_tonumber'
+
+                 : fprintf(f, LUA_NUMBER_FMT, lua_tonumber(L, arg));
+
+                                              ^~~~~~~~~~~~
+
+[ CC       ]   lua/lmathlib.o
+
+lua/lmathlib.c: In function 'math_random':
+
+lua/lmathlib.c:243:59: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+
+                                                           ^
+
+lua/lmathlib.c:243:38: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+
+   double r = (double)l_rand() * (1.0 / ((double)L_RANDMAX + 1.0));
+
+                                      ^
+
+lua/lmathlib.c:265:27: warning: implicit conversion from 'float' to 'double' to match other operand of binary expression [-Wdouble-promotion]
+
+   r *= (double)(up - low) + 1.0;
+
+                           ^
+
+[ CC       ]   lua/lstrlib.o
+
+In file included from lua/lstrlib.c:13:
+
+dietlibc/include/ctype.h:9:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isblank' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isblank (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:10:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isalnum' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isalnum (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:11:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isalpha' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isalpha (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:13:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isspace' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isspace (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:15:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isupper' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isupper (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:16:1: warning: ignoring attribute 'const' in declaration of a built-in function 'islower' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int islower (int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:19:1: warning: ignoring attribute 'const' in declaration of a built-in function 'tolower' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int tolower(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:20:1: warning: ignoring attribute 'const' in declaration of a built-in function 'toupper' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int toupper(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:22:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isprint' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isprint(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:23:1: warning: ignoring attribute 'const' in declaration of a built-in function 'ispunct' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int ispunct(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:24:1: warning: ignoring attribute 'const' in declaration of a built-in function 'iscntrl' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int iscntrl(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+dietlibc/include/ctype.h:29:1: warning: ignoring attribute 'const' in declaration of a built-in function 'isgraph' because it conflicts with attribute 'pure' [-Wattributes]
+
+ extern int isgraph(int c) __THROW __attribute__ ((__const__));
+
+ ^~~~~~
+
+<built-in>: note: previous declaration here
+
+lua/lstrlib.c: In function 'str_format':
+
+lua/lstrlib.c:910:44: warning: implicit conversion from 'lua_Number' {aka 'float'} to 'double' when passing argument to function [-Wdouble-promotion]
+
+           nb = snprintf(buff, 65536, form, luaL_checknumber(L, arg));
+
+                                            ^~~~~~~~~~~~~~~~~~~~~~~~
+
+In file included from lua/lstrlib.c:22:
+
+lua/lstrlib.c: In function 'str_pack':
+
+lua/lauxlib.h:151:22: warning: this statement may fall through [-Wimplicit-fallthrough=]
+
+    ((B)->b[(B)->n++] = (c)))
+
+    ~~~~~~~~~~~~~~~~~~^~~~~~
+
+lua/lstrlib.c:1252:22: note: in expansion of macro 'luaL_addchar'
+
+       case Kpadding: luaL_addchar(&b, LUA_PACKPADBYTE);  /* go through */
+
+                      ^~~~~~~~~~~~
+
+lua/lstrlib.c:1253:7: note: here
+
+       case Kpaddalign: case Knop:
+
+       ^~~~
+
+lua/lstrlib.c: In function 'match':
+
+lua/lstrlib.c:501:16: warning: this statement may fall through [-Wimplicit-fallthrough=]
+
+               s++;  /* 1 match already done */
+
+               ~^~
+
+lua/lstrlib.c:503:13: note: here
+
+             case '*':  /* 0 or more repetitions */
+
+             ^~~~
+
+[ CC       ]   lua/ltablib.o
+
+[ CC       ]   lua/lutf8lib.o
+
+[ CC       ]   lua/loadlib.o
+
+[ CC       ]   lua/linit.o
+
+[ CC       ]   lua_globals.o
+
+[ CC       ]   lua_console.o
+
+[ CC       ]   lua_camera.o
+
+[ CC       ]   lua_lv.o
+
+[ CC       ]   lua_lens.o
+
+[ CC       ]   lua_movie.o
+
+[ CC       ]   lua_display.o
+
+[ CC       ]   lua_key.o
+
+[ CC       ]   lua_menu.o
+
+[ CC       ]   lua_dryos.o
+
+lua_dryos.c: In function 'luaCB_dryos_call':
+
+lua_dryos.c:169:38: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+
+         result = call(function_name, arg);
+
+                                      ^~~
+
+[ CC       ]   lua_interval.o
+
+[ CC       ]   lua_battery.o
+
+[ CC       ]   lua_task.o
+
+[ CC       ]   lua_property.o
+
+[ CC       ]   lua_constants.o
+
+[ CC       ]   lua.o
+
+[ AR       ]   fopen.o
+
+[ AR       ]   dietlibc.a
+
+[ CC       ]   umm_malloc/umm_malloc.o
+
+[ MODULE   ]   lua.mo
+
+arm-none-eabi-ld: lua/lauxlib.o: in function `panic':
+
+/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua/lua/lauxlib.c:952: warning: warning: your code uses stdio (7+k bloat).
+
+arm-none-eabi-ld: dietlibc.a(vfprintf.o): in function `vfprintf':
+
+vfprintf.c:(.text+0x34): warning: warning: the printf functions add several kilobytes of bloat.
+
+[ STRIP    ]   lua.mo
+
+[ RM       ]  
+
+[ STRIP    ]   lua.sym
+
+[ STRIP    ]   lua.sym
+
+[ RM       ]   localsyms
+
+[ EXPORTS  ]   lua.sym
+
+[ DEPENDS  ]   lua.dep
+
+[ LUAC     ]   syntax_check.log
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+/bin/sh: 1: luac: not found
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+
+
+Building module bench...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   bench.o
+
+In file included from bench.c:23:
+
+mem_bench.c: In function 'mem_benchmark_task':
+
+mem_bench.c:228:60: warning: cast between incompatible function types from 'void * (*)(void *, const void *, size_t)' {aka 'void * (*)(void *, const void *, unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memcpy cacheable    ", &y, bufsize, (mem_bench_fun)memcpy,
+
+                                                            ^
+
+mem_bench.c:230:60: warning: cast between incompatible function types from 'void * (*)(void *, const void *, size_t)' {aka 'void * (*)(void *, const void *, unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memcpy uncacheable  ", &y, bufsize, (mem_bench_fun)memcpy,
+
+                                                            ^
+
+mem_bench.c:232:60: warning: cast between incompatible function types from 'void * (*)(void *, void *, size_t)' {aka 'void * (*)(void *, void *, unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memcpy64 cacheable  ", &y, bufsize, (mem_bench_fun)memcpy64,
+
+                                                            ^
+
+mem_bench.c:234:60: warning: cast between incompatible function types from 'void * (*)(void *, void *, size_t)' {aka 'void * (*)(void *, void *, unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memcpy64 uncacheable", &y, bufsize, (mem_bench_fun)memcpy64,
+
+                                                            ^
+
+mem_bench.c:239:64: warning: cast between incompatible function types from 'void * (*)(void *, void *, size_t)' {aka 'void * (*)(void *, void *, unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+         mem_benchmark_run("dma_memcpy cacheable", &y, bufsize, (mem_bench_fun)dma_memcpy,
+
+                                                                ^
+
+mem_bench.c:241:64: warning: cast between incompatible function types from 'void * (*)(void *, void *, size_t)' {aka 'void * (*)(void *, void *, unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+         mem_benchmark_run("dma_memcpy uncacheab", &y, bufsize, (mem_bench_fun)dma_memcpy,
+
+                                                                ^
+
+mem_bench.c:247:64: warning: cast between incompatible function types from 'void * (*)(void *, void *, size_t)' {aka 'void * (*)(void *, void *, unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+         mem_benchmark_run("edmac_memcpy        ", &y, bufsize, (mem_bench_fun)edmac_memcpy,
+
+                                                                ^
+
+mem_bench.c:253:60: warning: cast between incompatible function types from 'void * (*)(void *, int,  size_t)' {aka 'void * (*)(void *, int,  unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memset cacheable    ", &y, bufsize, (mem_bench_fun)memset,
+
+                                                            ^
+
+mem_bench.c:255:60: warning: cast between incompatible function types from 'void * (*)(void *, int,  size_t)' {aka 'void * (*)(void *, int,  unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memset uncacheable  ", &y, bufsize, (mem_bench_fun)memset,
+
+                                                            ^
+
+mem_bench.c:257:60: warning: cast between incompatible function types from 'void * (*)(void *, int,  size_t)' {aka 'void * (*)(void *, int,  unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memset64 cacheable  ", &y, bufsize, (mem_bench_fun)memset64,
+
+                                                            ^
+
+mem_bench.c:259:60: warning: cast between incompatible function types from 'void * (*)(void *, int,  size_t)' {aka 'void * (*)(void *, int,  unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("memset64 uncacheable", &y, bufsize, (mem_bench_fun)memset64,
+
+                                                            ^
+
+mem_bench.c:261:60: warning: cast between incompatible function types from 'uint32_t (*)(uint32_t *, uint32_t)' {aka 'long unsigned int (*)(long unsigned int *, long unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("read32 cacheable    ", &y, bufsize, (mem_bench_fun)mem_test_read32,
+
+                                                            ^
+
+mem_bench.c:263:60: warning: cast between incompatible function types from 'uint32_t (*)(uint32_t *, uint32_t)' {aka 'long unsigned int (*)(long unsigned int *, long unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("read32 uncacheable  ", &y, bufsize, (mem_bench_fun)mem_test_read32,
+
+                                                            ^
+
+mem_bench.c:265:60: warning: cast between incompatible function types from 'uint64_t (*)(uint64_t *, uint32_t)' {aka 'long long unsigned int (*)(long long unsigned int *, long unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("read64 cacheable    ", &y, bufsize, (mem_bench_fun)mem_test_read64,
+
+                                                            ^
+
+mem_bench.c:267:60: warning: cast between incompatible function types from 'uint64_t (*)(uint64_t *, uint32_t)' {aka 'long long unsigned int (*)(long long unsigned int *, long unsigned int)'} to 'void (*)(int,  int,  int,  int)' [-Wcast-function-type]
+
+     mem_benchmark_run("read64 uncacheable  ", &y, bufsize, (mem_bench_fun)mem_test_read64,
+
+                                                            ^
+
+In file included from bench.c:24:
+
+mem_perf.c: In function 'mem_perf_test':
+
+mem_perf.c:112:39: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+
+             plot_add(coll, block_size / 1024.0f, speed);
+
+                            ~~~~~~~~~~~^~~~~~~~~
+
+mem_perf.c:112:50: warning: implicit conversion from 'float' to 'double' when passing argument to function [-Wdouble-promotion]
+
+             plot_add(coll, block_size / 1024.0f, speed);
+
+                                                  ^~~~~
+
+[ MODULE   ]   bench.mo
+
+[ STRIP    ]   bench.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   bench.sym
+
+[ DEPENDS  ]   bench.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+
+
+Building module selftest...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   selftest.o
+
+[ MODULE   ]   selftest.mo
+
+[ STRIP    ]   selftest.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   selftest.sym
+
+[ DEPENDS  ]   selftest.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+
+
+Building module adv_int...
+
+[ README   ]   module_strings.h
+
+Help page 1: Usage
+
+Help page 2: Exposure ramping
+
+Help page 3: Focus ramping
+
+Help page 4: Misc notes
+
+Help page 5: AutoETTR compatibility
+
+[ CC       ]   adv_int.o
+
+[ MODULE   ]   adv_int.mo
+
+[ STRIP    ]   adv_int.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   adv_int.sym
+
+[ DEPENDS  ]   adv_int.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+
+
+Building module edmac...
+
+[ README   ]   module_strings.h
+
+[ CC       ]   edmac.o
+
+[ CC       ]   edmac_util.o
+
+[ CC       ]   edmac_test.o
+
+[ CC       ]   md5.o
+
+[ MODULE   ]   edmac.mo
+
+[ STRIP    ]   edmac.mo
+
+[ RM       ]  
+
+[ STRIP    ]   edmac.sym
+
+[ STRIP    ]   edmac.sym
+
+[ RM       ]   localsyms
+
+[ EXPORTS  ]   edmac.sym
+
+00001c04 edmac_format_size
+
+[ DEPENDS  ]   edmac.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+make[3]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make -C ../../modules install
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make[3]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+
+
+Building module mlv_lite...
+
+[ MODULE   ]   mlv_lite.mo
+
+[ STRIP    ]   mlv_lite.mo
+
+[ RM       ]  
+
+[ EXPORTS  ]   mlv_lite.sym
+
+0000016c raw_movie_filename
+
+00000174 raw_video_enabled
+
+0000076c raw_rec_trace_ctx
+
+00004c98 mlv_prng_lfsr
+
+00004ccc mlv_generate_guid
+
+00004d50 mlv_set_type
+
+00004d60 mlv_init_fileheader
+
+00004dac mlv_set_timestamp
+
+00004e14 mlv_fill_lens
+
+00004f14 mlv_fill_wbal
+
+00005034 mlv_fill_styl
+
+00005168 mlv_fill_expo
+
+000052bc mlv_fill_rtci
+
+00005408 mlv_fill_idnt
+
+000054e4 mlv_build_vers
+
+000055ac mlv_write_vers_blocks
+
+[ DEPENDS  ]   mlv_lite.dep
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+
+
+Building module mlv_play...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+
+
+Building module mlv_rec...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+
+
+Building module mlv_snd...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+
+
+Building module file_man...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+
+
+Building module pic_view...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+
+
+Building module ettr...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+
+
+Building module dual_iso...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+
+
+Building module silent...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+
+
+Building module dot_tune...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+
+
+Building module autoexpo...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+
+
+Building module arkanoid...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+
+
+Building module deflick...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+
+
+Building module lua...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+
+
+Building module bench...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+
+
+Building module selftest...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+
+
+Building module adv_int...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+make[4]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+
+
+Building module edmac...
+
+make[4]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+make[3]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+[ MKDIR    ]   ML directory structure...
+
+python3 copy_modules_with_satisfied_deps.py /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/modules mlv_lite mlv_play mlv_rec mlv_snd file_man pic_view ettr dual_iso silent dot_tune autoexpo arkanoid deflick lua bench selftest adv_int edmac 
+
+These modules cannot be included (not possible to meet listed deps):
+
+dot_tune 
+
+	get_afma_mode
+
+	get_afma
+
+	set_afma_mode
+
+	get_afma_max
+
+	set_afma
+
+	get_config_afma_wide_tele
+
+
+
+These modules will not be included (deps not solved):
+
+
+
+These modules will be included (deps met):
+
+mlv_snd 
+
+adv_int 
+
+autoexpo 
+
+arkanoid 
+
+deflick 
+
+lua 
+
+bench 
+
+edmac 
+
+pic_view 
+
+mlv_rec 
+
+mlv_play 
+
+silent 
+
+mlv_lite 
+
+dual_iso 
+
+ettr 
+
+selftest 
+
+file_man 
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+make -C ../../installer/1100D.105 autoexec-fir.bin
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/installer/1100D.105'
+
+[ VERSION  ]   ../../platform/1100D.105/version.bin
+
+../../build_tools/git_summary.py >> ../../platform/1100D.105/version.bin
+
+[ CPP      ]   magiclantern.lds
+
+mv tmp.lds magiclantern.lds
+
+[ AS       ]   entry.o
+
+[ CC       ]   boot-d45.o
+
+[ CC       ]   installer.o
+
+[ VERSION  ]   ../../platform/1100D.105/version.c
+
+../../build_tools/git_summary.py >> ../../platform/1100D.105/version.c
+
+[ CC       ]   version.o
+
+[ CC       ]   fio-ml.o
+
+[ CC       ]   ico.o
+
+[ CC       ]   bmp.o
+
+[ CC       ]   rbf_font.o
+
+[ CC       ]   stdio.o
+
+../../src/stdio.c: In function 'snprintf':
+
+../../src/stdio.c:87:8: warning: nonnull argument 'fmt' compared to NULL [-Wnonnull-compare]
+
+     if (fmt == NULL)
+
+        ^
+
+[ CC       ]   dialog_test.o
+
+[ CC       ]   bootflags.o
+
+[ CC       ]   mem.o
+
+[ CC       ]   util.o
+
+[ CC       ]   cache.o
+
+[ AR       ]   strrchr.o
+
+[ AR       ]   dietlibc.a
+
+[ AR       ]   lib_a-setjmp.o
+
+[ AR       ]   newlib-libc.a
+
+[ CP       ]   newlib-libm.a
+
+[ CP       ]   gcc-libgcc.a
+
+[ LD       ]   magiclantern
+
+[ OBJCOPY  ]   magiclantern.bin
+
+[ STAT     ]   magiclantern.bin
+
+magiclantern.bin: 32200 bytes
+
+[ CC       ]   reboot.o
+
+[ CC       ]   disp_direct.o
+
+[ CC       ]   font_direct.o
+
+[ CC       ]   footer.o
+
+[ LD       ]   autoexec-fir
+
+[ XOR_CHK  ]   ../../build_tools/xor_chk
+
+[ OBJCOPY  ]   autoexec-fir.bin
+
+[ XOR_CHK  ]   autoexec-fir.bin
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/installer/1100D.105'
+
+make -C ../../installer/1100D.105 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/installer/1100D.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM       ]   *.fir *.FIR
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/installer/1100D.105'
+
+mkdir -p /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/doc
+
+cp -v ../../doc/cam/* /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/doc
+
+cp: cannot stat '../../doc/cam/*': No such file or directory
+
+make: [../../Makefile.inc:63: installdoc] Error 1 (ignored)
+
+cp ../../doc/README.user /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/README
+
+cp ../../doc/INSTALL.pdf /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip || echo "warning Unable to copy INSTALL.pdf"
+
+cp: cannot stat '../../doc/INSTALL.pdf': No such file or directory
+
+warning Unable to copy INSTALL.pdf
+
+cp ../../doc/UserGuide.pdf /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip || echo "warning Unable to copy UserGuide.pdf"
+
+cp: cannot stat '../../doc/UserGuide.pdf': No such file or directory
+
+warning Unable to copy UserGuide.pdf
+
+cp ../../src/logo.bmp /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/ML/docs || echo "warning Unable to copy logo.bmp"
+
+[ RM       ]   magiclantern-Nightly.2022Nov26.1100D105.zip
+
+chmod -x /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/autoexec.bin
+
+cd /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip; zip -z ../magiclantern-Nightly.2022Nov26.1100D105.zip < \
+
+	../../../src/zip.txt -r .
+
+  adding: autoexec.bin (deflated 50%)
+
+  adding: ML-SETUP.FIR (deflated 0%)
+
+  adding: ML/ (stored 0%)
+
+  adding: ML/scripts/ (stored 0%)
+
+  adding: ML/scripts/unload.lua (deflated 54%)
+
+  adding: ML/scripts/calc.lua (deflated 69%)
+
+  adding: ML/scripts/scrnshot.lua (deflated 47%)
+
+  adding: ML/scripts/pong.lua (deflated 73%)
+
+  adding: ML/scripts/sokoban.lua (deflated 73%)
+
+  adding: ML/scripts/api_test.lua (deflated 79%)
+
+  adding: ML/scripts/menutest.lua (deflated 76%)
+
+  adding: ML/scripts/copy2m.lua (deflated 67%)
+
+  adding: ML/scripts/editor.lua (deflated 82%)
+
+  adding: ML/scripts/recdelay.lua (deflated 73%)
+
+  adding: ML/scripts/hello.lua (deflated 27%)
+
+  adding: ML/scripts/lib/ (stored 0%)
+
+  adding: ML/scripts/lib/logger.lua (deflated 70%)
+
+  adding: ML/scripts/lib/keys.lua (deflated 66%)
+
+  adding: ML/scripts/lib/config.lua (deflated 69%)
+
+  adding: ML/scripts/lib/strict.lua (deflated 54%)
+
+  adding: ML/cropmks/ (stored 0%)
+
+  adding: ML/cropmks/PhiPhoto.bmp (deflated 62%)
+
+  adding: ML/cropmks/PhiVideo.bmp (deflated 68%)
+
+  adding: ML/cropmks/CrssMtr2.bmp (deflated 94%)
+
+  adding: ML/cropmks/Passport.bmp (deflated 72%)
+
+  adding: ML/cropmks/CineSco2.bmp (deflated 87%)
+
+  adding: ML/fonts/ (stored 0%)
+
+  adding: ML/fonts/term12.rbf (deflated 64%)
+
+  adding: ML/fonts/argnor32.rbf (deflated 86%)
+
+  adding: ML/fonts/argnor28.rbf (deflated 84%)
+
+  adding: ML/fonts/arghlf22.rbf (deflated 90%)
+
+  adding: ML/fonts/argnor23.rbf (deflated 84%)
+
+  adding: ML/fonts/term20.rbf (deflated 80%)
+
+  adding: ML/docs (deflated 94%)
+
+  adding: ML/modules/ (stored 0%)
+
+  adding: ML/modules/selftest.mo (deflated 66%)
+
+  adding: ML/modules/dual_iso.mo (deflated 51%)
+
+  adding: ML/modules/mlv_play.mo (deflated 62%)
+
+  adding: ML/modules/adv_int.mo (deflated 59%)
+
+  adding: ML/modules/pic_view.mo (deflated 49%)
+
+  adding: ML/modules/autoexpo.mo (deflated 57%)
+
+  adding: ML/modules/silent.mo (deflated 54%)
+
+  adding: ML/modules/deflick.mo (deflated 54%)
+
+  adding: ML/modules/mlv_snd.mo (deflated 58%)
+
+  adding: ML/modules/edmac.mo (deflated 95%)
+
+  adding: ML/modules/mlv_lite.mo (deflated 51%)
+
+  adding: ML/modules/t3_105.sym (deflated 65%)
+
+  adding: ML/modules/ettr.mo (deflated 56%)
+
+  adding: ML/modules/bench.mo (deflated 57%)
+
+  adding: ML/modules/mlv_rec.mo (deflated 54%)
+
+  adding: ML/modules/lua.mo (deflated 61%)
+
+  adding: ML/modules/arkanoid.mo (deflated 52%)
+
+  adding: ML/modules/file_man.mo (deflated 53%)
+
+  adding: ML/README (deflated 61%)
+
+  adding: ML/doc/ (stored 0%)
+
+  adding: ML/data/ (stored 0%)
+
+  adding: ML/data/ff8p.lut (deflated 17%)
+
+  adding: ML/data/apsc8r.lut (deflated 7%)
+
+  adding: ML/data/ff8r.lut (deflated 11%)
+
+  adding: ML/data/apsc8p.lut (deflated 17%)
+
+enter new zip file comment (end with .):
+
+[ RM dir   ]   /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105/zip/
+
+
+
+Program Headers:
+
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+
+  LOAD           0x000100 0x00c80100 0x00c80100 0x70de4 0x81b14 RWE 0x100
+
+
+
+
+
+
+
+Tip: to compile faster, try one of these:
+
+    make -j3
+
+    export MAKEFLAGS='-j3'
+
+
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ 
+

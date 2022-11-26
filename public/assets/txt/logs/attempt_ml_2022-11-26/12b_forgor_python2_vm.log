@@ -1,0 +1,2063 @@
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ ls
+
+build_tools  doc       icons      Makefile            Makefile.setup            minimal    repo_rules.txt  TODO.txt
+
+contrib      Doxyfile  include    Makefile.filerules  Makefile.setup.toolchain  modules    scripts
+
+COPYING      doxygen   installer  Makefile.inc        Makefile.top              platform   src
+
+data         features  logo.png   Makefile.obsolete   Makefile.user.default     README.md  tcc
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ git pull
+
+hint: Pulling without specifying how to reconcile divergent branches is
+
+hint: discouraged. You can squelch this message by running one of the following
+
+hint: commands sometime before your next pull:
+
+hint: 
+
+hint:   git config pull.rebase false  # merge (the default strategy)
+
+hint:   git config pull.rebase true   # rebase
+
+hint:   git config pull.ff only       # fast-forward only
+
+hint: 
+
+hint: You can replace "git config" with "git config --global" to set a default
+
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+
+hint: or --ff-only on the command line to override the configured default per
+
+hint: invocation.
+
+Already up to date.
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ make clean
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+make -C ./platform/5D3.113 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_113.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+make -C ./platform/5D3.123 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_123.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+make -C ./platform/5D2.212 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D2_212.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+make -C ./platform/5D4.133 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D4_133.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+make -C ./platform/6D.116 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D_116.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+make -C ./platform/6D2.105 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D2_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+make -C ./platform/50D.109 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   50D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+make -C ./platform/60D.111 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   60D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+make -C ./platform/77D.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+make -C ./platform/80D.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+make -C ./platform/200D.101 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   200D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+make -C ./platform/500D.111 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   500D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+make -C ./platform/550D.109 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   550D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+make -C ./platform/600D.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   600D_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+make -C ./platform/650D.104 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   650D_104.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+make -C ./platform/700D.115 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   700D_115.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+make -C ./platform/750D.110 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   750D_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+make -C ./platform/760D.100 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+make -C ./platform/850D.100 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   850D_100.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+make -C ./platform/100D.101 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   100D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+make -C ./platform/1100D.105 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   t3_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+make -C ./platform/EOSM.202 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   EOSM_202.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+make -C ./platform/M50.110 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   M50_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+make -C ./platform/R.180 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   R_180.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+make -C ./platform/RP.160 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   RP_160.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+make -C ./platform/SX740.102 clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   SX740_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+make -C ./platform clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform'
+
+make -C ./5D3.113 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_113.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+make -C ./5D3.123 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D3_123.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.123'
+
+make -C ./5D2.212 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D2_212.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D2.212'
+
+make -C ./5D4.133 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   5D4_133.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D4.133'
+
+make -C ./6D.116 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D_116.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D.116'
+
+make -C ./6D2.105 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   6D2_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/6D2.105'
+
+make -C ./50D.109 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   50D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/50D.109'
+
+make -C ./60D.111 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   60D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/60D.111'
+
+make -C ./77D.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/77D.102'
+
+make -C ./80D.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/80D.102'
+
+make -C ./200D.101 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   200D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/200D.101'
+
+make -C ./500D.111 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   500D_111.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/500D.111'
+
+make -C ./550D.109 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   550D_109.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/550D.109'
+
+make -C ./600D.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   600D_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/600D.102'
+
+make -C ./650D.104 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   650D_104.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/650D.104'
+
+make -C ./700D.115 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   700D_115.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/700D.115'
+
+make -C ./750D.110 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   750D_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/750D.110'
+
+make -C ./760D.100 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/760D.100'
+
+make -C ./850D.100 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   850D_100.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/850D.100'
+
+make -C ./100D.101 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   100D_101.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/100D.101'
+
+make -C ./1100D.105 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   t3_105.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/1100D.105'
+
+make -C ./EOSM.202 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   EOSM_202.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/EOSM.202'
+
+make -C ./M50.110 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   M50_110.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/M50.110'
+
+make -C ./R.180 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   R_180.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/R.180'
+
+make -C ./RP.160 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   RP_160.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/RP.160'
+
+make -C ./SX740.102 clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+[ RM       ]   *.o *.d autoexec autoexec.bin magiclantern magiclantern.bin
+
+[ RM       ]   SX740_102.sym magiclantern.sym
+
+[ RM       ]   magiclantern.bin autoexec autoexec.map location.map tmp.lds
+
+[ RM       ]   autoexec-fir autoexec-fir.bin
+
+[ RM       ]   magiclantern.lds
+
+[ RM       ]   dietlibc.a newlib-libc.a newlib-libm.a gcc-libgcc.a
+
+[ RM       ]   version.c version.bin
+
+[ RM       ]   xor_chk xor_chk.exe
+
+[ RM dir   ]   zip
+
+[ RM       ]   *.zip
+
+[ RM       ]   sd.qcow2 cf.qcow2 guestmount.pid
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/SX740.102'
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform'
+
+[ RM dir   ]   doxygen-doc
+
+make -C modules clean
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+make -C  ../modules/mlv_lite clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+[ RM       ]   mlv_lite.o ../mlv_rec/mlv.o mlv_lite.mo mlv_lite.sym mlv_lite.dep mlv_lite.zip module_strings.h *.o *.d *.dep *.sym
+
+[ RM       ]   raw2dng raw2dng.exe dng2raw dng2raw.exe
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_lite'
+
+make -C  ../modules/mlv_play clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+[ RM       ]   mlv_play.o video.bmp.rsc mlv_play.mo mlv_play.sym mlv_play.dep mlv_play.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_play'
+
+make -C  ../modules/mlv_rec clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+[ RM       ]   mlv_rec.o mlv.o mlv_rec.mo mlv_rec.sym mlv_rec.dep mlv_rec.zip module_strings.h *.o *.d *.dep *.sym
+
+[ RM       ]   mlv_dump mlv_dump.exe lzma/7zAlloc.host.o lzma/7zBuf.host.o lzma/7zBuf2.host.o lzma/7zCrc.host.o lzma/7zCrcOpt.host.o lzma/7zDec.host.o lzma/7zFile.host.o lzma/7zIn.host.o lzma/7zStream.host.o lzma/Alloc.host.o lzma/Bcj2.host.o lzma/Bra.host.o lzma/Bra86.host.o lzma/BraIA64.host.o lzma/CpuArch.host.o lzma/Delta.host.o lzma/LzFind.host.o lzma/Lzma2Dec.host.o lzma/Lzma2Enc.host.o lzma/Lzma86Dec.host.o lzma/Lzma86Enc.host.o lzma/LzmaDec.host.o lzma/LzmaEnc.host.o lzma/LzmaLib.host.o lzma/Ppmd7.host.o lzma/Ppmd7Dec.host.o lzma/Ppmd7Enc.host.o lzma/Sha256.host.o lzma/Xz.host.o lzma/XzCrc64.host.o lzma/lib7z.a lzma/Threads.w32.o lzma/LzFindMt.w32.o lzma/MtCoder.w32.o lzma/7zAlloc.w32.o lzma/7zBuf.w32.o lzma/7zBuf2.w32.o lzma/7zCrc.w32.o lzma/7zCrcOpt.w32.o lzma/7zDec.w32.o lzma/7zFile.w32.o lzma/7zIn.w32.o lzma/7zStream.w32.o lzma/Alloc.w32.o lzma/Bcj2.w32.o lzma/Bra.w32.o lzma/Bra86.w32.o lzma/BraIA64.w32.o lzma/CpuArch.w32.o lzma/Delta.w32.o lzma/LzFind.w32.o lzma/Lzma2Dec.w32.o lzma/Lzma2Enc.w32.o lzma/Lzma86Dec.w32.o lzma/Lzma86Enc.w32.o lzma/LzmaDec.w32.o lzma/LzmaEnc.w32.o lzma/LzmaLib.w32.o lzma/Ppmd7.w32.o lzma/Ppmd7Dec.w32.o lzma/Ppmd7Enc.w32.o lzma/Sha256.w32.o lzma/Xz.w32.o lzma/XzCrc64.w32.o lzma/lib7z.w32.a 
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_rec'
+
+make -C  ../modules/mlv_snd clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+[ RM       ]   mlv_snd.o mlv_snd.mo mlv_snd.sym mlv_snd.dep mlv_snd.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/mlv_snd'
+
+make -C  ../modules/file_man clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+[ RM       ]   file_man.o file_man.mo file_man.sym file_man.dep file_man.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/file_man'
+
+make -C  ../modules/pic_view clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+[ RM       ]   pic_view.o pic_view.mo pic_view.sym pic_view.dep pic_view.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/pic_view'
+
+make -C  ../modules/ettr clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+[ RM       ]   ettr.o ettr.mo ettr.sym ettr.dep ettr.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/ettr'
+
+make -C  ../modules/dual_iso clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+[ RM       ]   dual_iso.o dual_iso.mo dual_iso.sym dual_iso.dep dual_iso.zip module_strings.h *.o *.d *.dep *.sym
+
+[ RM       ]   cr2hdr cr2hdr.exe dcraw dcraw.c dcraw.exe exiftool.exe exiftool.tar.gz exiftool exiftool.zip cr2hdr.zip cr2hdr-win.zip cr2hdr-win_exiftool-perl-script.zip
+
+rm -rf lib
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dual_iso'
+
+make -C  ../modules/silent clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+[ RM       ]   silent.o silent.mo silent.sym silent.dep silent.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/silent'
+
+make -C  ../modules/dot_tune clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+[ RM       ]   dot_tune.o dot_tune.mo dot_tune.sym dot_tune.dep dot_tune.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/dot_tune'
+
+make -C  ../modules/autoexpo clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+[ RM       ]   autoexpo.o autoexpo.mo autoexpo.sym autoexpo.dep autoexpo.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/autoexpo'
+
+make -C  ../modules/arkanoid clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+[ RM       ]   arkanoid.o arkanoid.mo arkanoid.sym arkanoid.dep arkanoid.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/arkanoid'
+
+make -C  ../modules/deflick clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+[ RM       ]   deflick.o deflick.mo deflick.sym deflick.dep deflick.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/deflick'
+
+make -C  ../modules/lua clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+[ RM       ]   lua/ml-lua-shim.o lua/lapi.o lua/lcode.o lua/lctype.o lua/ldebug.o lua/ldo.o lua/ldump.o lua/lfunc.o lua/lgc.o lua/llex.o lua/lmem.o lua/lobject.o lua/lopcodes.o lua/lparser.o lua/lstate.o lua/lstring.o lua/ltable.o lua/ltm.o lua/lundump.o lua/lvm.o lua/lzio.o lua/lauxlib.o lua/lbaselib.o lua/lbitlib.o lua/lcorolib.o lua/ldblib.o lua/liolib.o lua/lmathlib.o lua/lstrlib.o lua/ltablib.o lua/lutf8lib.o lua/loadlib.o lua/linit.o lua_globals.o lua_console.o lua_camera.o lua_lv.o lua_lens.o lua_movie.o lua_display.o lua_key.o lua_menu.o lua_dryos.o lua_interval.o lua_battery.o lua_task.o lua_property.o lua_constants.o lua.o dietlibc.a umm_malloc/umm_malloc.o lua.mo lua.sym lua.dep lua.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/lua'
+
+make -C  ../modules/bench clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+[ RM       ]   bench.o bench.mo bench.sym bench.dep bench.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/bench'
+
+make -C  ../modules/selftest clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+[ RM       ]   selftest.o selftest.mo selftest.sym selftest.dep selftest.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/selftest'
+
+make -C  ../modules/adv_int clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+[ RM       ]   adv_int.o adv_int.mo adv_int.sym adv_int.dep adv_int.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/adv_int'
+
+make -C  ../modules/edmac clean
+
+make[2]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+[ RM       ]   edmac.o edmac_util.o edmac_test.o md5.o edmac.mo edmac.sym edmac.dep edmac.zip module_strings.h *.o *.d *.dep *.sym
+
+make[2]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules/edmac'
+
+[ RM       ]   ../modules/*/*.mo ../modules/*/*.o ../modules/*/*.d ../modules/*/*.dep ../modules/*/*.sym ../modules/*/module_strings.h ../modules/*/hgstamp ../modules/*/hginfo.tmp
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/modules'
+
+[ RM       ]   magiclantern.lds tmp.lds ./lua/*.o ./lua/.*.d ./lua/liblua.a doc/Cropmarks550D.png doc/credits.tex doc/install-body.tex doc/install.wiki doc/menuindex.txt src/menuindexentries.h doc/userguide.rst doc/INSTALL.aux doc/INSTALL.log doc/INSTALL.out doc/INSTALL.pdf doc/INSTALL.rst doc/INSTALL.tex doc/INSTALL.toc doc/UserGuide-cam.aux doc/UserGuide-cam.log doc/UserGuide-cam.out doc/UserGuide-cam.pdf doc/UserGuide-cam.tex doc/UserGuide.aux doc/UserGuide.log doc/UserGuide.out doc/UserGuide.pdf doc/UserGuide.tex doc/UserGuide.toc *.pdf 
+
+[ RM dir   ]   doc/cam
+
+[ RM dir   ]   binaries
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ make zip
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+make -C ./platform/5D3.113 zip
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113'
+
+[ RM dir   ]   /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113/zip/
+
+mkdir -p /home/magiclantern/sauce/simplified/magiclantern_simplified/platform/5D3.113/zip
+
+[ MKDIR    ]   ML directory structure...
+
+[ CPP      ]   magiclantern.lds
+
+mv tmp.lds magiclantern.lds
+
+[ AS       ]   entry.o
+
+[ AS       ]   ../../platform/5D3.113/stubs.o
+
+[ VERSION  ]   ../../platform/5D3.113/version.c
+
+../../build_tools/git_summary.py >> ../../platform/5D3.113/version.c
+
+[ CC       ]   version.o
+
+[ CC       ]   backtrace.o
+
+[ CC       ]   sgi.o
+
+[ CC       ]   cpu.o
+
+[ CC       ]   mmu_utils.o
+
+[ CC       ]   patch_mmu.o
+
+[ CC       ]   boot-d45.o
+
+[ CC       ]   init.o
+
+[ CC       ]   fio-ml.o
+
+[ CC       ]   mem.o
+
+[ CC       ]   ico.o
+
+[ CC       ]   edmac.o
+
+[ CC       ]   menu.o
+
+[ CC       ]   debug.o
+
+[ CC       ]   rand.o
+
+[ CC       ]   posix.o
+
+[ CC       ]   util.o
+
+[ CC       ]   imath.o
+
+[ CC       ]   electronic_level.o
+
+[ CC       ]   cfn.o
+
+[ CC       ]   gui.o
+
+[ CC       ]   picstyle.o
+
+[ CC       ]   exmem.o
+
+[ CC       ]   compositor.o
+
+[ CC       ]   bmp.o
+
+[ CC       ]   rbf_font.o
+
+[ CC       ]   config.o
+
+[ CC       ]   stdio.o
+
+../../src/stdio.c: In function 'snprintf':
+
+../../src/stdio.c:87:8: warning: nonnull argument 'fmt' compared to NULL [-Wnonnull-compare]
+
+     if (fmt == NULL)
+
+        ^
+
+[ CC       ]   bitrate-5d3.o
+
+[ CC       ]   lcdsensor.o
+
+[ CC       ]   tweaks.o
+
+[ CC       ]   tweaks-eyefi.o
+
+[ CC       ]   lens.o
+
+[ CC       ]   property.o
+
+[ CC       ]   propvalues.o
+
+[ CC       ]   gui-common.o
+
+[ CC       ]   chdk-gui_draw.o
+
+[ CC       ]   movtweaks.o
+
+[ CC       ]   menuhelp.o
+
+[ MENU IDX ]   ../../src/menuindexentries.h
+
+
+
+No menuindex.txt! The "Complete user guide" menu is empty!
+
+Run make docq to update menuindex.txt.
+
+
+
+[ CC       ]   menuindex.o
+
+[ CC       ]   focus.o
+
+[ CC       ]   notify_box.o
+
+[ CC       ]   bootflags.o
+
+[ CC       ]   dialog_test.o
+
+[ CC       ]   vram.o
+
+[ CC       ]   greenscreen.o
+
+[ CC       ]   fps-engio.o
+
+[ CC       ]   shoot.o
+
+[ CC       ]   hdr.o
+
+[ CC       ]   lv-img-engio.o
+
+[ CC       ]   state-object.o
+
+[ CC       ]   tasks.o
+
+[ CC       ]   vsync-lite.o
+
+[ CC       ]   tskmon.o
+
+[ CC       ]   battery.o
+
+[ CC       ]   imgconv.o
+
+[ CC       ]   histogram.o
+
+[ CC       ]   falsecolor.o
+
+[ CC       ]   audio-ak.o
+
+[ CC       ]   zebra.o
+
+^Cmake[1]: *** [../../Makefile.filerules:25: zebra.o] Interrupt
+
+make: *** [Makefile:24: 5D3.113_zip] Interrupt
+
+
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ make docq
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+cd ./platform/all; make docq
+
+make[1]: Entering directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/all'
+
+../../platform/Makefile.platform.base:19: FW_VERSION for UNIFIED is not defined
+
+../../platform/Makefile.platform.base:51: *** PLATFORM_ARCH must be defined (e.g., armv5te, armv7-a).  Stop.
+
+make[1]: Leaving directory '/home/magiclantern/sauce/simplified/magiclantern_simplified/platform/all'
+
+make: *** [Makefile:117: docq] Error 2
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified$ cd platform/1100D.105/
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ make docq
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+cd ../../doc && RST2LATEX=rst2latex.py python2 mkdoc.py
+
+/bin/sh: 1: python2: not found
+
+make: *** [../../Makefile.inc:58: docq] Error 127
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ sudo apt install python2
+
+Reading package lists... Done
+
+Building dependency tree... Done
+
+Reading state information... Done
+
+The following additional packages will be installed:
+
+  libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib python2-minimal python2.7 python2.7-minimal
+
+Suggested packages:
+
+  python2-doc python-tk python2.7-doc
+
+The following NEW packages will be installed:
+
+  libpython2-stdlib libpython2.7-minimal libpython2.7-stdlib python2 python2-minimal python2.7 python2.7-minimal
+
+0 upgraded, 7 newly installed, 0 to remove and 0 not upgraded.
+
+Need to get 3,974 kB of archives.
+
+After this operation, 16.2 MB of additional disk space will be used.
+
+Do you want to continue? [Y/n] y
+
+Get:1 http://deb.debian.org/debian bullseye/main amd64 libpython2.7-minimal amd64 2.7.18-8 [396 kB]
+
+Get:2 http://deb.debian.org/debian bullseye/main amd64 python2.7-minimal amd64 2.7.18-8 [1,322 kB]
+
+Get:3 http://deb.debian.org/debian bullseye/main amd64 python2-minimal amd64 2.7.18-3 [34.2 kB]
+
+Get:4 http://deb.debian.org/debian bullseye/main amd64 libpython2.7-stdlib amd64 2.7.18-8 [1,865 kB]
+
+Get:5 http://deb.debian.org/debian bullseye/main amd64 python2.7 amd64 2.7.18-8 [311 kB]
+
+Get:6 http://deb.debian.org/debian bullseye/main amd64 libpython2-stdlib amd64 2.7.18-3 [21.2 kB]
+
+Get:7 http://deb.debian.org/debian bullseye/main amd64 python2 amd64 2.7.18-3 [24.5 kB]
+
+Fetched 3,974 kB in 3s (1,487 kB/s)     
+
+Selecting previously unselected package libpython2.7-minimal:amd64.
+
+(Reading database ... 181749 files and directories currently installed.)
+
+Preparing to unpack .../0-libpython2.7-minimal_2.7.18-8_amd64.deb ...
+
+Unpacking libpython2.7-minimal:amd64 (2.7.18-8) ...
+
+Selecting previously unselected package python2.7-minimal.
+
+Preparing to unpack .../1-python2.7-minimal_2.7.18-8_amd64.deb ...
+
+Unpacking python2.7-minimal (2.7.18-8) ...
+
+Selecting previously unselected package python2-minimal.
+
+Preparing to unpack .../2-python2-minimal_2.7.18-3_amd64.deb ...
+
+Unpacking python2-minimal (2.7.18-3) ...
+
+Selecting previously unselected package libpython2.7-stdlib:amd64.
+
+Preparing to unpack .../3-libpython2.7-stdlib_2.7.18-8_amd64.deb ...
+
+Unpacking libpython2.7-stdlib:amd64 (2.7.18-8) ...
+
+Selecting previously unselected package python2.7.
+
+Preparing to unpack .../4-python2.7_2.7.18-8_amd64.deb ...
+
+Unpacking python2.7 (2.7.18-8) ...
+
+Selecting previously unselected package libpython2-stdlib:amd64.
+
+Preparing to unpack .../5-libpython2-stdlib_2.7.18-3_amd64.deb ...
+
+Unpacking libpython2-stdlib:amd64 (2.7.18-3) ...
+
+Setting up libpython2.7-minimal:amd64 (2.7.18-8) ...
+
+Setting up python2.7-minimal (2.7.18-8) ...
+
+Linking and byte-compiling packages for runtime python2.7...
+
+Setting up python2-minimal (2.7.18-3) ...
+
+Selecting previously unselected package python2.
+
+(Reading database ... 182493 files and directories currently installed.)
+
+Preparing to unpack .../python2_2.7.18-3_amd64.deb ...
+
+Unpacking python2 (2.7.18-3) ...
+
+Setting up libpython2.7-stdlib:amd64 (2.7.18-8) ...
+
+Setting up python2.7 (2.7.18-8) ...
+
+Setting up libpython2-stdlib:amd64 (2.7.18-3) ...
+
+Setting up python2 (2.7.18-3) ...
+
+Processing triggers for desktop-file-utils (0.26-1) ...
+
+Processing triggers for gnome-menus (3.36.0-1) ...
+
+Processing triggers for man-db (2.9.4-2) ...
+
+Processing triggers for mailcap (3.69) ...
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ 
+
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ make docq
+
+Using /usr/bin/arm-none-eabi-gcc (from PATH).
+
+cd ../../doc && RST2LATEX=rst2latex.py python2 mkdoc.py
+
+sh: 1: montage: not found
+
+make: *** [../../Makefile.inc:58: docq] Error 1
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ sudo apt install montage
+
+Reading package lists... Done
+
+Building dependency tree... Done
+
+Reading state information... Done
+
+The following additional packages will be installed:
+
+  fonts-freefont-ttf libcfitsio9 libwcstools1
+
+The following NEW packages will be installed:
+
+  fonts-freefont-ttf libcfitsio9 libwcstools1 montage
+
+0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+
+Need to get 4,185 kB of archives.
+
+After this operation, 13.5 MB of additional disk space will be used.
+
+Do you want to continue? [Y/n] y
+
+Get:1 http://deb.debian.org/debian bullseye/main amd64 fonts-freefont-ttf all 20120503-10 [2,552 kB]
+
+Get:2 http://deb.debian.org/debian bullseye/main amd64 libcfitsio9 amd64 3.490-3 [554 kB]
+
+Get:3 http://deb.debian.org/debian bullseye/main amd64 libwcstools1 amd64 3.9.6-1 [333 kB]
+
+Get:4 http://deb.debian.org/debian bullseye/main amd64 montage amd64 6.0+dfsg-7+b3 [746 kB]
+
+Fetched 4,185 kB in 3s (1,593 kB/s)
+
+Selecting previously unselected package fonts-freefont-ttf.
+
+(Reading database ... 182510 files and directories currently installed.)
+
+Preparing to unpack .../fonts-freefont-ttf_20120503-10_all.deb ...
+
+Unpacking fonts-freefont-ttf (20120503-10) ...
+
+Selecting previously unselected package libcfitsio9:amd64.
+
+Preparing to unpack .../libcfitsio9_3.490-3_amd64.deb ...
+
+Unpacking libcfitsio9:amd64 (3.490-3) ...
+
+Selecting previously unselected package libwcstools1:amd64.
+
+Preparing to unpack .../libwcstools1_3.9.6-1_amd64.deb ...
+
+Unpacking libwcstools1:amd64 (3.9.6-1) ...
+
+Selecting previously unselected package montage.
+
+Preparing to unpack .../montage_6.0+dfsg-7+b3_amd64.deb ...
+
+Unpacking montage (6.0+dfsg-7+b3) ...
+
+Setting up fonts-freefont-ttf (20120503-10) ...
+
+Setting up libcfitsio9:amd64 (3.490-3) ...
+
+Setting up libwcstools1:amd64 (3.9.6-1) ...
+
+Setting up montage (6.0+dfsg-7+b3) ...
+
+Processing triggers for libc-bin (2.31-13+deb11u5) ...
+
+Processing triggers for man-db (2.9.4-2) ...
+
+Processing triggers for fontconfig (2.13.1-4.2) ...
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ ^C
+
+magiclantern@debian-magiclantern:~/sauce/simplified/magiclantern_simplified/platform/1100D.105$ 
+
