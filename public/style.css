@@ -619,7 +619,8 @@ input:disabled {
     color: yellow;
 }
 
-.Buttonnize.Dangerous:active {
+a.Buttonnize.Dangerous:active,
+a.Buttonnize.Dangerous:visited:active {
     background-color: yellow;
     color: darkblue;
 }
@@ -635,7 +636,11 @@ a.Buttonnize.Dangerous:visited:hover {
 }
 
 .Dangerous::before {
-    content: "⚠️";
+    content: "⚠️";
+}
+
+.Dangerous::after {
+    content: "⚠️";
 }
 
 
