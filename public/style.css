@@ -639,6 +639,11 @@ a.Buttonnize.Dangerous:visited:hover {
     color: yellow;
 }
 
+a.Buttonnize.Dangerous:visited:hover:active {
+    background-color: yellow;
+    color: darkblue;
+}
+
 .Dangerous::before {
     content: "⚠️";
 }
