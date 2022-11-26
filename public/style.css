@@ -629,6 +629,11 @@ input:disabled {
     color: white;
 }
 
+.Buttonnize.Dangerous:visited:hover {
+    background-color: rgb(255, 0, 51);
+    color: yellow;
+}
+
 
 /* Spoiler Alert! Discord-like spoiler class yeah! */
 
