@@ -609,22 +609,22 @@ input:disabled {
 
 /* Troubled version of it */
 
-.Buttonnize .Dangerous {
+.Buttonnize.Dangerous {
     background-color: darkred;
     color: white;
 }
 
-.Buttonnize .Dangerous:hover {
+.Buttonnize.Dangerous:hover {
     background-color: red;
     color: yellow;
 }
 
-.Buttonnize .Dangerous:active {
+.Buttonnize.Dangerous:active {
     background-color: yellow;
     color: darkblue;
 }
 
-.Buttonnize .Dangerous:visited {
+.Buttonnize.Dangerous:visited {
     background-color: purple;
     color: white;
 }
