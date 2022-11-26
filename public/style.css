@@ -607,6 +607,29 @@ input:disabled {
 }
 
 
+/* Troubled version of it */
+
+.Buttonnize .Dangerous {
+    background-color: darkred;
+    color: white;
+}
+
+.Buttonnize .Dangerous:hover {
+    background-color: red;
+    color: yellow;
+}
+
+.Buttonnize .Dangerous:active {
+    background-color: yellow;
+    color: darkblue;
+}
+
+.Buttonnize .Dangerous:visited {
+    background-color: purple;
+    color: white;
+}
+
+
 /* Spoiler Alert! Discord-like spoiler class yeah! */
 
 .Spoiler {
