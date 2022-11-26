@@ -619,7 +619,11 @@ input:disabled {
     color: yellow;
 }
 
-a.Buttonnize.Dangerous:active,
+a.Buttonnize.Dangerous:active {
+    background-color: yellow;
+    color: darkblue;
+}
+
 a.Buttonnize.Dangerous:visited:active {
     background-color: yellow;
     color: darkblue;
