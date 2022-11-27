@@ -1,0 +1,297 @@
+---
+layout: '@components/Layout/LayoutChangelogs.astro'
+# layout: '../../../../components/Layout.astro'
+title: 'How to Compile Magic Lantern 2023 Working'
+tags: ['ah','yess']
+description: |
+    How to Compile Magic Lantern 2023 Working
+    Guaranteed working (minus 1 thing) how to build Magic Lantern No fatal error!
+keywords: 'tech, fun, novelty, open source, gratis, free, MagicLantern, Canon'
+author: 'JOELwindows7'
+twitterAuthor: '@JOELwindows7'
+date: 2022-11-27
+pubDate: 2022-11-27
+dateMod: 2022-11-27
+dateExp: 9999-12-31
+thumbnail : '/assets/img/perkedelbannerrender4KDCI.png'
+thumbnailType : 'image/png'
+thumbnailWidth : 4096
+thumbnailHeight : 2160
+thumbnailAlt : 'Perkedel banner'
+thumbnailAudio: ''
+thumbnailVideo: ''
+type : 'article'
+descriptionPrefix : 'DO NOT RATIO'
+noIndex : false
+noFollow : false
+rating : ''
+favIcon: '/favicon.ico'
+favIconHD : '/Perkedel_Icon.png'
+favIconHDType : 'image/png'
+favIconHDAlt : 'Perkedel icon'
+favIconHDWidth : 600
+favIconHDHeight : 400
+charSet : 'UTF-8'
+language : 'en'
+twitterSite : '@JOELwindows7'
+twitterCard : 'summary_large_image' 
+themeColor : '#0000aa'
+ejectClarity : false
+hideInfo : false
+SauceChangelogURL: 'https://github.com/Perkedel/perkedel-astro/blob/main/src/pages/apps/wceload/Canon/Compile/MagicLantern.mdx'
+SauceChangelogURLDirect: 'https://github.com/Perkedel/perkedel-astro/raw/main/src/pages/apps/wceload/Canon/Compile/MagicLantern.mdx'
+# url: 'vv'
+url: 'MagicLantern' # wtf? the URL is no longer automatic?!?!??!?
+---
+import MessageBoxTemplate from "@components/Nessages/MessageBoxTemplate"
+
+# How to compile & install Magic Lantern (2023 Working 100% minus 1%)
+This is an instruction of how to compile &/or install Magic Lantern for your Canon EOS DSLR & Mirrorless camera (except PowerShot & EOS with PowerShot firmwares).  
+Also featuring QEMU compilation instruction Working 2023 100% minus 1%.
+{/* JOELwindows7: I have this camera. I gotta get this running! */}
+
+<p class="warning">Some URL syntax bellow uses Markdown format (<code><span>[example_link](https://example.com)</span></code>) which is without <code>🔗&#xf08e;</code> symbols next to it & won't open in new tab! <b>Be sure to always use Middle Click if you like to make sure staying here.</b></p>
+
+## Build Compile:
+### Notes
+You must use exactly **Debian 11, Bullseye**, in which this stable release has GCC & G++ `10` series which are compatible with the ML Simplified source code we will be using.  
+
+#### Using Windows Subsystem for Linux 
+<MessageBoxTemplate severity={2} headingTitle="Windows Only" detailSummary="Only for Windows">
+    <p>This feature is only available for <b>Windows atleast 10</b> & up</p>
+</MessageBoxTemplate>
+
+Download Debian WSL <a class="Buttonnize" href="https://www.microsoft.com/store/productId/9MSVKQC78PK6" target="_blank" rel="noopener noreferrer">here</a>.
+
+Once installed, simply launch `Debian` app & configure your Debian WSL for the 1st time. **Make sure you remember your username & password for this WSL**.
+
+#### Using virtual Machine / Container
+Download the latest stable build of Debian, <a class="Buttonnize" href="https://www.debian.org/download" target="_blank" rel="noopener noreferrer">here</a>  
+You only need the very top Netinst ISO file.
+
+Make sure you also provided the virtual machine / container sufficient amount of specifications, e.g.:
+- 3 Cores
+- 2048 MB / 2 GB RAM
+- 1020 x 720 display
+- 20 GB reserved virtual disk space, we recommend using Dynamic Allocation
+
+add / mount the Debian Netinst ISO you've just downloaded & boot from it. 
+Follow instructions on the virtual screen. 
+Don't forget to make your main user an admin / sudoers.
+**Make sure you remember your username & all passwords (both main user & root) for this virtual machine / container**
+
+##### `USERNAME is not in the sudoers file.  This incident will be reported.`
+If somehow that after installation your main user did not exist in the sudoers group, you can do the following to fix this problem:
+- Reboot to Recovery! 
+    - When you started your container, you will first encounter `GRUB` or described as a selection inside a rectangle with countdown at the bottom. 
+    - Immediately press arrow key to interupt the countdown.
+    - select *`Advanced Options for Debian`*. `Enter`.
+    - Pick the most recent Linux kernel version (usually on the top), and **PICK ONLY** the ones with `(recovery mode)` next to it.
+    - Why recovery you ask? We assume since your user account failed to exist in the sudoers then any root command (including `su -` or `su root`) may go completely out of function.
+    - We use this way for the best result possible.
+- Wait until a blue screen with gray selection box appears.
+- Pick *`root console`*. type your root password if asked.
+- Make sure sudo is installed by trying to install `sudo`.
+    - `apt-get install sudo -y`
+    - If the result contains `sudo is already up to date`, and does not contain fatal errors, that mean you already have `sudo` installed yey!
+- add your main user to `sudo` group by typing:
+    - `adduser username sudo`
+    - the `username` is your username, replace that with your username. 
+    - e.g. say if your username is `godette`, you then instead type **`adduser godette sudo`** etc.
+    - alternatively, you can use `usermod` command, so like `usermod -aG sudo YOUR_USERNAME`
+- Just in case, set the correct permission in the sudoers configuration file:
+    - `chmod  0440  /etc/sudoers`
+    - usually, this file should already has proper permission as you installed Debian today.
+    - unless you screwed up something including this, feel free to re-correct the permission once again just to be sure.
+- exit the root console by typing `exit`, `Enter`, and reboot the virtual machine / container.
+- Once you've came back to regular desktop, test your `sudo` first.
+    - e.g. `sudo echo ahei dasandimian`
+    - You should be able to see `ahei dasandimian` no problem if you followed this section instruction properly.
+
+Further informations: 
+<a href="https://www.linuxuprising.com/2019/09/fix-username-is-not-in-sudoers-file.html" target="_blank" rel="noopener noreferrer">https://www.linuxuprising.com/2019/09/fix-username-is-not-in-sudoers-file.html</a>
+<a href="https://unix.stackexchange.com/a/258865/390514" target="_blank" rel="noopener noreferrer">https://unix.stackexchange.com/a/258865/390514</a>
+
+### Use Source Code Edition of
+names_are_hard's Magic Lantern Simplified. <a class="Buttonnize" href="https://github.com/reticulatedpines/magiclantern_simplified" target="_blank" rel="noopener noreferrer">Here GitHub repository</a>  
+the QEMU (simulates Canon firmware) will be on a separate repository of <a class="Buttonnize" href="https://github.com/reticulatedpines/qemu-eos" target="_blank" rel="noopener noreferrer">This GitHub repository</a>
+
+#### Needed Package
+You will need the following package, as we have collected, tested, & guessed the equivalent from various instructions:
+- `git` **IMPORTANT**
+- `mercurial` optional since our ML source code edition do not use `hg`
+- `build-essential` **IMPORTANT**
+- `make`
+- `gcc`
+- `gcc-arm-none-eabi`
+- `python3-docutils`
+- `python2`
+- `bison`
+- `flex`
+- `zip`
+- `unzip`
+- `zlib1g-dev`
+- `libgtk`
+- `autoconf`
+- `libtool`
+- `libsdl-console`
+- `libgtk2.0-dev`
+- `mtools`
+- `libsdl-console-dev`
+- etc.
+
+Therefore, pls do these commands bellow:
+```bash
+sudo apt update # to update repository cache
+sudo apt upgrade -y # to upgrade all installed packaged, always confirm
+# and these packages finally:
+sudo apt install git build-essential make cmake gcc g++ gcc-arm-none-eabi zlib1g-dev libglib2.0 autoconf libtool libsdl-console flex bison libgtk2.0-dev mtools libsdl-console-dev install make gcc gcc-arm-none-eabi mercurial gcc-mingw-w64 python3-docutils zip
+```
+or use `synaptic` for graphical package management experience.  
+Simply search by those package names above, mark them for installation, & apply.
+
+### Steps:
+#### Setup
+clone these two. It is also recommended to clone them in a dedicated folder.
+```bash
+# (RECOMMENDED) make a special folder & go inside it
+cd # or `cd ~`
+mkdir -p sauce/simplified
+cd sauce/simplified
+# This to ensure you have tidy working space & clean home folder.
+
+# Clone Magic Lantern Simplified
+git clone https://github.com/reticulatedpines/magiclantern_simplified
+
+# Clone the `qemu-eos`
+git clone https://github.com/reticulatedpines/qemu-eos
+```
+
+#### Compilation
+##### Magic Lantern itself
+
+```bash
+# Use the same special folder with instruction above or whereever `magiclantern_simplified` clone folder is
+cd ~/sauce/simplified
+
+# Go to which camera model you would like to compile for
+# let's say you have 200D, so go to 200D platform folder!
+cd platform/200D
+
+# (OPTIONAL) you may need to update the documentations files
+make docq
+# PLS HELP: still failed
+
+# then just make zip to compile & zip the ML package
+make zip
+```
+
+You should see a zip file with names like this:
+```
+magiclantern-Nightly.YYYYMMMDD.MODELVERSION.zip
+```
+
+so say you have just compiled 200D firmware version 1.01 at certain date, so the file will looks like:
+```
+magiclantern-Nightly.2022Nov19.200D101.zip
+```
+<a class="Buttonnize" href="/assets/zip/magiclantern-Nightly.2022Nov19.200D101.zip" target="_blank" rel="noopener noreferrer">Download</a>
+
+###### Furthermore
+It is possible to compile & zip every single version exist in this ML repository.  
+simply `make zip` in the root ML Simplified directory, without going to which platform folder.
+```bash
+cd ~/sauce/simplified/magiclantern_simplified
+make zip
+```
+
+and as usual, the zip files will be on each platform folder.
+
+##### QEMU EOS
+Further informations:  
+<a class="Buttonnize" href="https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern" target="_blank" rel="noopener noreferrer">https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern</a>
+
+```bash
+# Use the same special folder with instruction above or whereever `magiclantern_simplified` clone folder is
+cd ~/sauce/simplified
+
+# Make sure you have cloned `magiclantern_simplified` before,
+# instruction above section
+
+# Go inside `qemu-eos` you've just cloned, switch branch to v4.2.1, & then get out of it
+cd qemu-eos; git switch qemu-eos-v4.2.1; cd ..
+# Important, since the v4.2.1 branch is atleast the most compatible with our compilation library we have.
+
+# Create separate build folder next to our QEMU called `qemu-eos-build`, then go inside it
+mkdir qemu-eos-build
+cd qemu-eos-build
+
+# Begin the configuration procedure with the following parameters
+../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+
+# Make with 16 threads. 
+# You can change how many thread you want, 
+# but be sure not to get too high than your computer specification.
+make -j16
+
+# Make the plugins
+make plugins
+
+# Copy the Magic Lantern library into our QEMU plugin folder
+cp tests/plugin/libmagiclantern.so arm-softmmu/plugins/
+
+# Done. you can now run the QEMU.
+# go back to `qemu-eos` repository & see the help for further instruction
+cd ../qemu-eos/magiclantern
+./run_qemu.py --help
+# you will now run QEMU with that `run_qemu.py` command above.
+
+# Be sure to provide your own ROM you dumped from your own Canon EOS camera!
+# Perkedel nor X0p1r4t3 will not provide neither accepting sparsdated Canon ROM firmware files 
+# due to abusive DMCA laws extradited from Earth where Canon comes from,
+# unless Canon goes bankrupt & the files becomes rare & risk disappearing.
+```
+
+If you made some changes in this QEMU EOS, don't forget to recompile & 
+make sure the Magic Lantern library is still placed properly to your QEMU EOS plugin folder
+```bash
+make -j16 && make plugins && cp tests/plugin/libmagiclantern.so arm-softmmu/plugins/
+```
+Note however, tha you may need to do cleanup (instruction bellow) for the best result OR if the recompilation fails.
+
+#### Re-compilation
+Before recompiling after either change or not or something else, make sure you have cleaned up the compilation result for the best outcome possible by doing the following:
+```bash
+# cleanup Magic Lantern
+cd path/to/magiclantern_simplified
+make clean
+
+# return home
+cd
+
+# cleanup QEMU EOS
+cd path/to/qemu-eos-build
+make clean
+```
+
+##### Magic Lantern itself
+
+##### QEMU EOS
+
+## Installation
+### Notes
+
+### Steps:
+
+## Credits
+### Stuffs
+- [ccritix's 3000D Platform folder](https://github.com/ccritix/magic-lantern/tree/branches/1300D/platform/4000D.100 ) Complete with Stubs. Lacks the Installation folder atm. OR try using libUSB method?
+- [names_are_hard's how to QEMU in Magic Lantern Simplified](https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern )
+- [`eos.c` in ccritix](https://github.com/ccritix/magic-lantern/blob/branches/1300D/contrib/qemu/eos/eos.c) Notice the `4000D` definition! Ctrl + F and take a look for `4000D` Flash ID & stuffs.
+- [`eos.c` in names_are_hard](https://github.com/reticulatedpines/qemu-eos/blob/qemu-eos-v4.2.1/hw/eos/eos.c) No 4000D definition, but `1300D` definition! Ctrl + F that too, it's in **Enumeration**. I gotta bring this `4000D` in!
+- https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern
+
+## End
+by JOELwindows7  
+Perkedel Technologies  
+CC4.0-BY-SA

@@ -1,0 +1,59 @@
+---
+
+export interface Props {
+    headingTitle: string;
+    detailSummary: string;
+    detailSay: string;
+    severity:number;
+    classe:string;
+};
+
+const{
+    headingTitle = "",
+    detailSummary = "",
+    detailSay = "",
+    severity = 0,
+    classe = "",
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- https://stackoverflow.com/a/47488174/9079640 -->
+<div class={(
+    ()=>{
+        switch(severity){
+            case 0:
+                return "info";
+            case 1: 
+                return "warning";
+            case 2:
+                return "error";
+            case 3:
+                return "busy";
+            case 4:
+                return "success";
+            default:
+                return "info";
+        }
+    }
+)() + classe}>
+    <h2>{(()=>{
+        switch(severity){
+            case 0:
+                return "";
+            case 1:
+                return "";
+            case 2:
+                return "";
+            case 3:
+                return "";
+            case 4:
+                return "";
+            default:
+                return "";
+        }
+    })() +headingTitle}</h2>
+    <details>
+        <summary>{detailSummary}</summary>
+        <p>{detailSay}</p>
+        <slot></slot>
+    </details>
+</div>
