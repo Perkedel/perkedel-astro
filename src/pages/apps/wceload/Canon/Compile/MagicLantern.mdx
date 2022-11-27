@@ -57,6 +57,7 @@ Also featuring QEMU compilation instruction Working 2023 100% minus 1%.
 You must use exactly **Debian 11, Bullseye**, in which this stable release has GCC & G++ `10` series which are compatible with the ML Simplified source code we will be using.  
 
 #### Using Windows Subsystem for Linux 
+{/* pls don't use header! */}
 <MessageBoxTemplate severity={2} headingTitle="Windows Only" detailSummary="Only for Windows">
     <p>This feature is only available for <b>Windows atleast 10</b> & up</p>
 </MessageBoxTemplate>
@@ -79,6 +80,9 @@ add / mount the Debian Netinst ISO you've just downloaded & boot from it.
 Follow instructions on the virtual screen. 
 Don't forget to make your main user an admin / sudoers.
 **Make sure you remember your username & all passwords (both main user & root) for this virtual machine / container**
+
+##### Download the virtual machine / container image
+- VHD. Coming soon
 
 ##### `USERNAME is not in the sudoers file.  This incident will be reported.`
 If somehow that after installation your main user did not exist in the sudoers group, you can do the following to fix this problem:
@@ -173,6 +177,9 @@ git clone https://github.com/reticulatedpines/qemu-eos
 ```bash
 # Use the same special folder with instruction above or whereever `magiclantern_simplified` clone folder is
 cd ~/sauce/simplified
+
+# go to your Magic Lantern Simplified folder
+cd magiclantern_simplified
 
 # Go to which camera model you would like to compile for
 # let's say you have 200D, so go to 200D platform folder!
@@ -282,6 +289,11 @@ make clean
 ### Notes
 
 ### Steps:
+
+## Further steps
+You may wanted to learn the following stuffs if you'd like to go further & perhaps contribute:
+- `C`. A programming language. Core of everything and used to program things like an Operating system, including Linux kernel, Embedded devices, etc. Many programming languages takes inspiration from `C`'s syntax.
+- [`Ghidra`](https://ghidra-sre.org). A Software Reverse Engineering framework built by researchers at National Security Agency in USA, Earth. Used to dissasemble binary files & allows deep analysis upon. You can use this to dissasemble Canon ROM files for let's say to find component addresses & help you build stubs.
 
 ## Credits
 ### Stuffs
