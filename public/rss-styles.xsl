@@ -113,7 +113,7 @@
                         
                         <li class="NavPutRight dropdown">
                             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
-                            <a class="dropbtn NavBtn" title="Open Menu">&#xf85b;</a>
+                            <a class="dropbtn NavBtn" title="Open Menu" href="#">&#xf85b;</a>
                             
                             <ul class="dropdown-content">
                                 <!-- <li><RefreshButton Classer="NavBtn"/></li> -->
