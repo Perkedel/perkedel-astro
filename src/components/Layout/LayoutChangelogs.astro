@@ -12,6 +12,7 @@ export interface Props {
   name?:string;
   title?: string;
   description?: string;
+  titlePostFix?: string;
   type?:string;
   author?: string;
   date?: string;
@@ -55,6 +56,7 @@ export interface Props {
 
 const { 
   title = 'A Perkedel NTLF+ASTR Games Changelogs v0.0.0.0', 
+  titlePostFix = 'Changelogs',
   name = title,
   author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Changelogs v0.0.0.0',
@@ -135,9 +137,9 @@ const {
   hideInfo={hideInfo}
   >
   <h1><slot name="prependTitle"/>{title} <slot name="appendTitle"/></h1>
-  <h2>Here Change:</h2>
+  <h2>Here {titlePostFix}:</h2>
     <p><a class="Buttonnize" href={SauceChangelogURL} target="_blank" rel="noopener noreferrer" style="text-overflow:ellipsis;overflow:hidden;width:75%">{SauceChangelogURL}</a></p>
-    <p><a class="Buttonnize" href={SauceChangelogURLDirect} target="_blank" rel="noopener noreferrer">&#xf6d9; Open this changelog RAW directly</a></p>
+    <p><a class="Buttonnize" href={SauceChangelogURLDirect} target="_blank" rel="noopener noreferrer">&#xf6d9; Open this {titlePostFix} RAW directly</a></p>
     <slot name="extraChangelogStuffs"/>
   <h2>Content:</h2>
   <article>
