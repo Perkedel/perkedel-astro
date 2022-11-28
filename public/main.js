@@ -425,6 +425,39 @@ getJSONF('/assets/json/funnyWords/generateWord.json', true);
 // regenerateWord();
 
 
+// Owen Wilson WOW API
+// https://owen-wilson-wow-api.onrender.com/
+// featured in Astro.build sample
+// let responseWow = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
+// let dataWow = await response.json();
+let dataWow;
+const optionsWow = { method: 'GET', headers: { accept: 'application/json' } };
+fetch('https://owen-wilson-wow-api.onrender.com/wows/random', optionsWow)
+    .then(response => response.json())
+    .then(response => console.log(response))
+    .then(response => dataWow = response.json())
+    .catch(err => console.error(err));
+let vidWow1080 = dataWow.video["1080p"];
+let vidWow720 = dataWow.video["720p"];
+let vidWow480 = dataWow.video["480p"];
+let vidWow360 = dataWow.video["360p"];
+
+async function regerenateWow() {
+    // responseWow = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
+    // dataWow = await response.json();
+    fetch('https://owen-wilson-wow-api.onrender.com/wows/random', optionsWow)
+        .then(response => response.json())
+        .then(response => console.log(response))
+        .then(response => dataWow = response.json())
+        .catch(err => console.error(err));
+    vidWow1080 = dataWow.video["1080p"];
+    vidWow720 = dataWow.video["720p"];
+    vidWow480 = dataWow.video["480p"];
+    vidWow360 = dataWow.video["360p"];
+
+    return dataWow;
+}
+
 
 /*
 Moar Dump

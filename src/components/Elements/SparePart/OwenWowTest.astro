@@ -1,0 +1,35 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro';
+import EmbedRAWHTML from '@components/EmbedRAWHTML.astro';
+import BackToTopButton from '@components/BackToTopButton.astro';
+import EmbedVideo from '@components/Elements/EmbedVideo.astro';
+import EmbedAudio from '@components/Elements/EmbedAudio.astro';
+import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+
+let response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
+let data = await response.json();
+// https://stackoverflow.com/a/4949534/9079640
+let vid1080 = data.video["1080p"];
+let vid720 = data.video["720p"];
+let vid480 = data.video["480p"];
+let vid360 = data.video["360p"];
+
+function regenerateWow(){
+    response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
+    data = await response.json();
+    return data;
+}
+---
+<p style="font-size:1.5em;font-weight:bold;">Owen Wilson wow API!</p>
+<p>This loads random wows of Owen Wilson from various movies. Basically, clipping a scene that contains saying wow e.g.</p>
+
+<MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="May contains 69420" detailSummary="Fleeting nudity"><p>Contains scene with partial / full nudity.</p></MessageBoxTemplate>
+
+<EmbedVideo src={vid1080} type='video/mp4' srcExtra={[
+    [vid720,'video/mp4'],
+    [vid480,'video/mp4'],
+    [vid360,'video/mp4'],
+]}/>
+<EmbedAudio src={data[0].audio} type='audio/mpeg'/>
+
+<p><ButtonizedLink href="https://owen-wilson-wow-api.onrender.com">More Info</ButtonizedLink></p>
