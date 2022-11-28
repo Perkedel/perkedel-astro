@@ -14,7 +14,7 @@ let vid720 = data.video["720p"];
 let vid480 = data.video["480p"];
 let vid360 = data.video["360p"];
 
-function regenerateWow(){
+async function regenerateWow(){
     response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
     data = await response.json();
     return data;
