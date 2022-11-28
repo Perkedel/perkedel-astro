@@ -9,10 +9,10 @@ import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 let response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
 let data = await response.json();
 // https://stackoverflow.com/a/4949534/9079640
-let vid1080 = data.video["1080p"];
-let vid720 = data.video["720p"];
-let vid480 = data.video["480p"];
-let vid360 = data.video["360p"];
+let vid1080 = await data.video["1080p"];
+let vid720 = await data.video["720p"];
+let vid480 = await data.video["480p"];
+let vid360 = await data.video["360p"];
 
 async function regenerateWow(){
     response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
@@ -25,10 +25,10 @@ async function regenerateWow(){
 
 <MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="May contains 69420" detailSummary="Fleeting nudity"><p>Contains scene with partial / full nudity.</p></MessageBoxTemplate>
 
-<EmbedVideo src={data.video["1080p"]} type='video/mp4' srcExtra={[
-    // [vid720,'video/mp4'],
-    // [vid480,'video/mp4'],
-    // [vid360,'video/mp4'],
+<EmbedVideo src={vid1080} type='video/mp4' srcExtra={[
+    [vid720,'video/mp4'],
+    [vid480,'video/mp4'],
+    [vid360,'video/mp4'],
 ]} poster={data.poster}/>
 <EmbedAudio src={data[0].audio} type='audio/mpeg'/>
 <p>Sauce = {data.movie} ({data.year})</p>
