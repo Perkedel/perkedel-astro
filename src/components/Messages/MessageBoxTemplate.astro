@@ -6,6 +6,7 @@ export interface Props {
     detailSay: string;
     severity:number;
     classe:string;
+    paragraphTitle:Boolean;
 };
 
 const{
@@ -14,6 +15,7 @@ const{
     detailSay = "",
     severity = 0,
     classe = "",
+    paragraphTitle = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- https://stackoverflow.com/a/47488174/9079640 -->
@@ -35,7 +37,8 @@ const{
         }
     }
 )() + classe}>
-    <h2>{(()=>{
+    {paragraphTitle?<p style="font-size:1.5em;font-weight:bold;">
+        {(()=>{
         switch(severity){
             case 0:
                 return "";
@@ -50,7 +53,39 @@ const{
             default:
                 return "";
         }
-    })() +headingTitle}</h2>
+    })() +headingTitle}
+        </p>:<h2>{(()=>{
+        switch(severity){
+            case 0:
+                return "";
+            case 1:
+                return "";
+            case 2:
+                return "";
+            case 3:
+                return "";
+            case 4:
+                return "";
+            default:
+                return "";
+        }
+    })() +headingTitle}</h2>}
+    <!-- <h2>{(()=>{
+        switch(severity){
+            case 0:
+                return "";
+            case 1:
+                return "";
+            case 2:
+                return "";
+            case 3:
+                return "";
+            case 4:
+                return "";
+            default:
+                return "";
+        }
+    })() +headingTitle}</h2> -->
     <details>
         <summary>{detailSummary}</summary>
         <p>{detailSay}</p>

@@ -43,14 +43,14 @@ SauceChangelogURLDirect: 'https://github.com/Perkedel/perkedel-astro/raw/main/sr
 # url: 'vv'
 url: 'MagicLantern' # wtf? the URL is no longer automatic?!?!??!?
 ---
-import MessageBoxTemplate from "@components/Nessages/MessageBoxTemplate"
+import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro"
 
 # How to compile & install Magic Lantern (2023 Working 100% minus 1%)
 This is an instruction of how to compile &/or install Magic Lantern for your Canon EOS DSLR & Mirrorless camera (except PowerShot & EOS with PowerShot firmwares).  
 Also featuring QEMU compilation instruction Working 2023 100% minus 1%.
 {/* JOELwindows7: I have this camera. I gotta get this running! */}
 
-<p class="warning">Some URL syntax bellow uses Markdown format (<code><span>[example_link](https://example.com)</span></code>) which is without <code>🔗&#xf08e;</code> symbols next to it & won't open in new tab! <b>Be sure to always use Middle Click if you like to make sure staying here.</b></p>
+<p class="warning">Some URL syntax below uses Markdown format (<code><span>[example_link](https://example.com)</span></code>) which is the ones without <code>🔗&#xf08e;</code> (External link) symbols next to it & won't open in new tab! <b>Be sure to always use Middle Click the URL without External Link Symbols if you like to make sure staying here.</b></p>
 
 ## Build Compile:
 ### Notes
@@ -58,7 +58,7 @@ You must use exactly **Debian 11, Bullseye**, in which this stable release has G
 
 #### Using Windows Subsystem for Linux 
 {/* pls don't use header! */}
-<MessageBoxTemplate severity={2} headingTitle="Windows Only" detailSummary="Only for Windows">
+<MessageBoxTemplate severity={2} paragraphTitle={true} headingTitle="Windows Only" detailSummary="Only for Windows">
     <p>This feature is only available for <b>Windows atleast 10</b> & up</p>
 </MessageBoxTemplate>
 
@@ -84,7 +84,7 @@ Don't forget to make your main user an admin / sudoers.
 ##### Download the virtual machine / container image
 - VHD. Coming soon
 
-##### `USERNAME is not in the sudoers file.  This incident will be reported.`
+##### ERROR: `USERNAME is not in the sudoers file.  This incident will be reported.`
 If somehow that after installation your main user did not exist in the sudoers group, you can do the following to fix this problem:
 - Reboot to Recovery! 
     - When you started your container, you will first encounter `GRUB` or described as a selection inside a rectangle with countdown at the bottom. 
@@ -182,8 +182,8 @@ cd ~/sauce/simplified
 cd magiclantern_simplified
 
 # Go to which camera model you would like to compile for
-# let's say you have 200D, so go to 200D platform folder!
-cd platform/200D
+# let's say you have 200D firmware v1.01, so go to 200D.101 platform folder!
+cd platform/200D.101
 
 # (OPTIONAL) you may need to update the documentations files
 make docq
@@ -264,31 +264,60 @@ make sure the Magic Lantern library is still placed properly to your QEMU EOS pl
 ```bash
 make -j16 && make plugins && cp tests/plugin/libmagiclantern.so arm-softmmu/plugins/
 ```
-Note however, tha you may need to do cleanup (instruction bellow) for the best result OR if the recompilation fails.
+Note however, that you may need to do cleanup (instruction below) for the best result OR if the recompilation fails.
 
 #### Re-compilation
 Before recompiling after either change or not or something else, make sure you have cleaned up the compilation result for the best outcome possible by doing the following:
 ```bash
 # cleanup Magic Lantern
-cd path/to/magiclantern_simplified
+cd ~/sauce/simplified/magiclantern_simplified
 make clean
 
 # return home
 cd
 
 # cleanup QEMU EOS
-cd path/to/qemu-eos-build
+cd ~/sauce/simplified/qemu-eos-build
 make clean
 ```
 
 ##### Magic Lantern itself
+Simple go to which platform folder you'd like & then recompile
+```bash
+# for example to recompile 200D firmware v1.01 again..
+cd ~/sauce/simplified/magiclantern
+cd platform/200D.101
+make zip
+
+# OR you can recompile all versions of ML by start 
+# compiling at the root of the repository instead of which platform
+cd ~/sauce/simplified/magiclantern
+make zip
+```
 
 ##### QEMU EOS
+You need to reconfigure the QEMU EOS again, then compile the QEMU & the plugins, 
+& recopy the ML library back to QEMU plugin folder
+```bash
+# make sure you are still in the QEMU EOS build folder
+cd ~/sauce/simplified/qemu-eos-build
+
+# reconfigure so the compiler can see installed libraries you had right now
+../qemu-eos/configure --target-list=arm-softmmu --enable-plugins --disable-docs --enable-vnc --enable-gtk
+
+# start recompilation both the QEMU & plugins
+# & recopy the ML library to the plugin folder.
+make -j16 && make plugins && cp tests/plugin/libmagiclantern.so arm-softmmu/plugins/
+
+```
 
 ## Installation
 ### Notes
 
 ### Steps:
+#### NEW INSTALL
+
+#### CURRENT INSTALL
 
 ## Further steps
 You may wanted to learn the following stuffs if you'd like to go further & perhaps contribute:
@@ -301,7 +330,7 @@ You may wanted to learn the following stuffs if you'd like to go further & perha
 - [names_are_hard's how to QEMU in Magic Lantern Simplified](https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern )
 - [`eos.c` in ccritix](https://github.com/ccritix/magic-lantern/blob/branches/1300D/contrib/qemu/eos/eos.c) Notice the `4000D` definition! Ctrl + F and take a look for `4000D` Flash ID & stuffs.
 - [`eos.c` in names_are_hard](https://github.com/reticulatedpines/qemu-eos/blob/qemu-eos-v4.2.1/hw/eos/eos.c) No 4000D definition, but `1300D` definition! Ctrl + F that too, it's in **Enumeration**. I gotta bring this `4000D` in!
-- https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern
+- [https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern](https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern)
 
 ## End
 by JOELwindows7  
