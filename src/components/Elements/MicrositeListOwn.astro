@@ -1,0 +1,27 @@
+---
+import type { MarkdownLayoutProps } from 'astro';
+import ButtonizedLink from '../ButtonizedLink.astro';
+import ListButtonizedLink from './ListButtonizedLink.astro'
+import TebengeGuy from '../Icons/TebengeGuy.astro';
+import TebengeBullet from '../Icons/TebengeBullet.astro';
+import LFMSymbol from '../Icons/LFMSymbol.astro';
+import { Icon, Sprite } from 'astro-icon';
+import MicrositeCellsSFW from './SparePart/MicrositeCellsSFW.astro';
+import MicrositeCellsNSFW from './SparePart/MicrositeCellsNSFW.astro';
+
+export interface Props{
+    enableNSFW?:boolean;
+} 
+
+const{
+    enableNSFW=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<ListButtonizedLink>
+    <!-- SFW List -->
+    <MicrositeCellsSFW/>
+
+    <!-- NSFW List -->
+    {enableNSFW?<MicrositeCellsNSFW/>:<li><a href="nsfw"><i>Show NSFW microsites as well</i></a></li>}
+
+</ListButtonizedLink>
