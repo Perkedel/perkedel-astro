@@ -25,11 +25,12 @@ async function regenerateWow(){
 
 <MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="May contains 69420" detailSummary="Fleeting nudity"><p>Contains scene with partial / full nudity.</p></MessageBoxTemplate>
 
-<EmbedVideo src={vid1080} type='video/mp4' srcExtra={[
-    [vid720,'video/mp4'],
-    [vid480,'video/mp4'],
-    [vid360,'video/mp4'],
-]}/>
+<EmbedVideo src={data.video["1080p"]} type='video/mp4' srcExtra={[
+    // [vid720,'video/mp4'],
+    // [vid480,'video/mp4'],
+    // [vid360,'video/mp4'],
+]} poster={data.poster}/>
 <EmbedAudio src={data[0].audio} type='audio/mpeg'/>
+<p>Sauce = {data.movie} ({data.year})</p>
 
 <p><ButtonizedLink href="https://owen-wilson-wow-api.onrender.com">More Info</ButtonizedLink></p>
