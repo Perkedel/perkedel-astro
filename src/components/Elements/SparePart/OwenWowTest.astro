@@ -5,6 +5,7 @@ import BackToTopButton from '@components/BackToTopButton.astro';
 import EmbedVideo from '@components/Elements/EmbedVideo.astro';
 import EmbedAudio from '@components/Elements/EmbedAudio.astro';
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+import MayContainsNSFW from '@components/Messages/MayContainsNSFW.astro';
 import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
 
 let response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
@@ -33,7 +34,7 @@ async function regenerateWow(){
 <p style="font-size:1.5em;font-weight:bold;">Owen Wilson wow API!</p>
 <p>This loads random wows of Owen Wilson from various movies. Basically, clipping a scene that contains Owen Wilson acted character saying wow e.g.</p>
 
-<MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="May contains 69420" detailSummary="Fleeting nudity"><p>May choses scene that may contains scene with partial / full nudity.</p></MessageBoxTemplate>
+<MayContainsNSFW/>
 
 <EmbedVideo width="75%" height="500px" src={vid1080} type='video/mp4' srcExtra={[
     [vid720,'video/mp4'],
