@@ -5,14 +5,24 @@ import BackToTopButton from '@components/BackToTopButton.astro';
 import EmbedVideo from '@components/Elements/EmbedVideo.astro';
 import EmbedAudio from '@components/Elements/EmbedAudio.astro';
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
 
 let response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
+// let data = await {
+//     "video":{
+//         "1080p":"",
+//         "720p":"",
+//         "480p":"",
+//         "360p":"",
+//     }
+// }
+// data = await response.json();
 let data = await response.json();
 // https://stackoverflow.com/a/4949534/9079640
-let vid1080 = await data.video["1080p"];
-let vid720 = await data.video["720p"];
-let vid480 = await data.video["480p"];
-let vid360 = await data.video["360p"];
+let vid1080:string = await data[0].video["1080p"] || await "";
+let vid720:string = await data[0].video["720p"];
+let vid480:string = await data[0].video["480p"];
+let vid360:string = await data[0].video["360p"];
 
 async function regenerateWow(){
     response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
@@ -21,16 +31,21 @@ async function regenerateWow(){
 }
 ---
 <p style="font-size:1.5em;font-weight:bold;">Owen Wilson wow API!</p>
-<p>This loads random wows of Owen Wilson from various movies. Basically, clipping a scene that contains saying wow e.g.</p>
+<p>This loads random wows of Owen Wilson from various movies. Basically, clipping a scene that contains Owen Wilson acted character saying wow e.g.</p>
 
-<MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="May contains 69420" detailSummary="Fleeting nudity"><p>Contains scene with partial / full nudity.</p></MessageBoxTemplate>
+<MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="May contains 69420" detailSummary="Fleeting nudity"><p>May choses scene that may contains scene with partial / full nudity.</p></MessageBoxTemplate>
 
-<!-- <EmbedVideo src={vid1080} type='video/mp4' srcExtra={[
+<EmbedVideo width="75%" height="500px" src={vid1080} type='video/mp4' srcExtra={[
     [vid720,'video/mp4'],
     [vid480,'video/mp4'],
     [vid360,'video/mp4'],
-]} poster={data.poster}/> -->
+]} poster={data[0].poster}/><br/>
 <EmbedAudio src={data[0].audio} type='audio/mpeg'/>
-<p>Sauce = {data.movie} ({data.year})</p>
+<p><i>{data[0].full_line}</i><br/> &ndash; {data[0].character}, {data[0].year}</p>
+<p>Sauce = {data[0].movie} ({data[0].year})</p>
+<p>Released <LocalTime date datetime={data[0].release_date}/>, <TimeAgo date datetime={data[0].release_date}/></p>
+<p>Directed by {data[0].director}</p>
+<p>Wow #{data[0].current_wow_in_movie} of {data[0].total_wows_in_movie}</p>
+<p>Film Duration = {data[0].movie_duration}</p>
 
-<p><ButtonizedLink href="https://owen-wilson-wow-api.onrender.com">More Info</ButtonizedLink></p>
+<p><ButtonizedLink href="https://owen-wilson-wow-api.onrender.com" target="_blank" rel="noopener noreferrer">More Info about Owen WOW API</ButtonizedLink></p>

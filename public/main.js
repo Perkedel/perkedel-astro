@@ -437,10 +437,10 @@ fetch('https://owen-wilson-wow-api.onrender.com/wows/random', optionsWow)
     .then(response => console.log(response))
     .then(response => dataWow = response.json())
     .catch(err => console.error(err));
-let vidWow1080 = dataWow.video["1080p"];
-let vidWow720 = dataWow.video["720p"];
-let vidWow480 = dataWow.video["480p"];
-let vidWow360 = dataWow.video["360p"];
+let vidWow1080 = dataWow[0].video["1080p"];
+let vidWow720 = dataWow[0].video["720p"];
+let vidWow480 = dataWow[0].video["480p"];
+let vidWow360 = dataWow[0].video["360p"];
 
 async function regerenateWow() {
     // responseWow = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
@@ -450,10 +450,10 @@ async function regerenateWow() {
         .then(response => console.log(response))
         .then(response => dataWow = response.json())
         .catch(err => console.error(err));
-    vidWow1080 = dataWow.video["1080p"];
-    vidWow720 = dataWow.video["720p"];
-    vidWow480 = dataWow.video["480p"];
-    vidWow360 = dataWow.video["360p"];
+    vidWow1080 = dataWow[0].video["1080p"];
+    vidWow720 = dataWow[0].video["720p"];
+    vidWow480 = dataWow[0].video["480p"];
+    vidWow360 = dataWow[0].video["360p"];
 
     return dataWow;
 }
