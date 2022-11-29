@@ -12,7 +12,7 @@ author: 'JOELwindows7'
 twitterAuthor: '@JOELwindows7'
 date: 2022-11-27
 pubDate: 2022-11-27
-dateMod: 2022-11-27
+dateMod: 2022-11-30
 dateExp: 9999-12-31
 thumbnail : '/assets/img/perkedelbannerrender4KDCI.png'
 thumbnailType : 'image/png'
@@ -314,11 +314,142 @@ make -j16 && make plugins && cp tests/plugin/libmagiclantern.so arm-softmmu/plug
 
 ## Installation
 ### Notes
+For the impatient: just follow the quick install guide from the 
+<a class="Buttonnize" href="http://builds.magiclantern.fm/" target="_blank" rel="noopener noreferrer">download page</a>. 
+For a more thorough description of the install process, including what to do when things go wrong, keep reading.
+
+### <mark class="warning">Caution & VERY IMPORTANT!!!</mark>
+<MessageBoxTemplate severity={2} paragraphTitle={true} headingTitle={"Read Carefully"} detailSummary={"May possibly damage your camera, Read instruction real carefully!"} opens={true}>
+    <img src="https://wiki.magiclantern.fm/_media/led-with-card-door-open-280.jpg" alt="LED Blinking & Card door open on the camera, pay attention!" width="25%" style="float:right"/>
+    <ul>
+        <li>Read the entire guide before performing any steps.</li>
+        <li>You are responsible for any damage done to your camera.</li>
+        <li><b style="font-size:1.4em;font-weight:bolder;">Never delete the Magic Lantern files from the card!</b> Format the card instead.</li>
+        <li>After opening the card door, 
+            <b class="error" style="font-size:1.4em;">always wait for LED confirmation</b> (or for 5 seconds) 
+            before removing the card, 
+            <mark style="font-weight:bold;font-size=1.4em;">even if your camera is turned off!!!</mark>
+            </li>
+        <li>Additionally for NEW INSTALL, there is a bug regarding to libUSB which workaround is available according to 
+            <a href="https://www.magiclantern.fm/forum/index.php?topic=17969.msg240894#msg240894" target="_blank" rel="noopener noreferrer">
+                This petabyt's thread reply
+                </a>
+            </li>
+    </ul>
+    <p>
+        Right after opening the card door, Canon firmware <b>accesses the card without turning on the LED</b> 
+        (yes, with the main switch turned off). 
+        If you remove the card too early, the camera will freeze and will drain the battery, 
+        or even cause <mark>permanent damage</mark>! You will be running random code 
+        (remember you are loading executable code from the card), 
+        and we can't do anything about it without reflashing Canon firmware with our own code.
+    </p>
+</MessageBoxTemplate>
 
 ### Steps:
-#### NEW INSTALL
+#### NEW INSTALL (Work in Progress)
+as in:
+<a class="Buttonnize" href="https://wiki.magiclantern.fm/new-install" target="_blank" rel="noopener noreferrer">This <b>NEWER</b> Install Instruction</a> 
+Please check this guide above for up to date instruction. Instructions will be syndicated here for redundancy, in event of disaster.
+
+##### Compatible for:
+Newer ML ports & relatively new camera
+- 1300D / Kiss X80 / Rebel T6
+- 4000D / 3000D / Rebel T100
+For other models, please refer to Current Install section bellow.
+
+##### Install
+1. Connect the camera to a Windows 7/10 or Linux computer with a USB cable.
+2. Download mlinstall ([https://github.com/petabyt/mlinstall](https://github.com/petabyt/mlinstall)).
+3. On Windows, extract the files and run the EXE. On Linux, you'll need to set the `.AppImage` file as executable. Here's a quick tutorial: [https://discourse.appimage.org/t/how-to-run-an-appimage/80](https://discourse.appimage.org/t/how-to-run-an-appimage/80 )
+    Here I click `Get Device Info`` to see if it can detect the device.
+    ![Result of Clicked `Get Device Info`](https://wiki.magiclantern.fm/_media/new-install:mlinstall_1.png)
+
+On first run on Windows, it should **not** work. Here's what to do:
+1. <b class="error">DO NOT USE ZADIG for now! IT'S SLOW & DESTRUCTIVE!!</b> use [mcuee's libUSB](https://github.com/mcuee/libusb-win32/releases/download/snapshot_1.2.7.3/libusb-win32-bin-1.2.7.3.zip ) instead! [Learn more in petabyt's reply](https://www.magiclantern.fm/forum/index.php?topic=17969.msg240894#msg240894 )
+2. (Backup) ~~Download and run [`Zadig`](https://zadig.akeo.ie/).~~
+3. (Backup) ~~On the Canon Camera device, replace `WinUSB` with `libusb-win32` as in this GIF: [https://github.com/petabyt/mlinstall/blob/master/assets/zadig.gif](https://github.com/petabyt/mlinstall/blob/master/assets/zadig.gif)~~
+4. (Backup) *In order to revert this change, simply repeat the steps and choose `WinUSB` instead of `libusb-win32`*. Some Windows software may fail to work if this change is not reverted.
+5. (Backup) Once you have verified that USB communication is working, click `Enable Boot Disk`.
+6. (Backup) *In order to revert the camera to factory settings, click `Disable Boot Disk`*.
+    ![Enabling Bootdisk to the camera](https://wiki.magiclantern.fm/_media/new-install:mlinstall_2.png)
+1. Unplug the camera SD card from the camera.
+2. Insert the camera SD card into your computer. You might need an adapter.
+3. Ensure that your SD card is named `EOS_DIGITAL`. mlinstall searches for a storage device named `EOS_DIGITAL` and writes to the first one it finds.
+4. In mlinstall, navigate to the `Card` tab and click `Write card boot flags`. This will write data to the SD card. It's a good idea to format the card in the camera first.
+5. *In Linux, eject / unmount the card before removing it*. Usually in your file manager left sidebar, you should see &#xf052; (Eject) Button next to `EOS_DIGITAL` media. Click the &#xf052; eject button to unmount the SD Card.
+    ![Enabled Bootflag to the SD Card](https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png )
+1. Once you have written the card flags, you will need to download a build for your camera. Make sure that the model ID and firmware version of your camera matches the build. (you can check it in the Canon menu). You might need to downgrade or upgrade.
+2. Extract the Magic Lantern release zip file contents onto the SD card. Make sure that `autoexec.bin` and the `ML` folder are at the top directory, alongside `DCIM`.
+    ![Basic folder structure of installed Magic Lantern in the SD Card](https://eggnog.theres.life/f/47-sha7lft66sci8ncxr5fu7bxeluj1s3.png)
+1. Insert SD Card into camera and turn it on. On first startup, `ROM1` and `ROM0` will be backed up. In the picture settings screen in `M` (`MANUAL`) mode, press the `Q` / `Av` button (or &#xf1f8; `DELETE/TRASH` button).
+
+##### Uninstalling Magic Lantern
+1. Format the card <b class="warning">(and back up any data first!)</b>
+2. Run mlinstall again and click `Disable Boot Disk`.
+
+> Note that mlinstall has a `Destroy Card Boot Flags` feature that can make the SD Card non-bootable. (revert it to normal setting) After you run it, you will not need to format your card.
+
+##### Troubleshooting
+###### 1300D / Kiss X80 / Rebel T6
+You may either have to downgrade or upgrade your firmware to a specific version. 
+Here are some guides showing how to downgrade your firmware: 
+- [https://magiclantern.fm/forum/index.php?topic=18941.0](https://magiclantern.fm/forum/index.php?topic=18941.0 )
+- [https://www.magiclantern.fm/forum/index.php?topic=24926.0](https://www.magiclantern.fm/forum/index.php?topic=24926.0 )
+A firmware file archive can be found here: 
+- [https://pel.hu/eoscard/](https://pel.hu/eoscard/ )
+
+> ccritix / critix: “Try to do a firmware update to version 1.1.0. (even if you have exactly this version on your device). Then you can try to test ML. This problem seems to exist on many devices. I suffered the same with my device. After an “update” to version 1.1.0, I was able to work on ML.”
+
+{/* ==========================================
+
+SEPARATE
+
+============================================= */}
 
 #### CURRENT INSTALL
+as in:
+<a class="Buttonnize" href="https://wiki.magiclantern.fm/install" target="_blank" rel="noopener noreferrer">This Install Instruction</a> 
+Please check this guide above for up to date instruction. Instructions will be syndicated here for redundancy, in event of disaster.
+
+##### Compatible for:
+Any older cameras & cameras not listed on the New install above.
+##### Get the right firmware version
+
+##### First install guide
+###### Step 1. Preparing your camera
+
+###### Step 2. Installation
+<img src="https://wiki.magiclantern.fm/_detail/new-installer.png?id=install" alt="Example of successful Magic Lantern installation" width="25%" style="float:right"/>
+
+###### Step 3. Magic Lantern first startup
+
+##### Installing Magic Lantern on other cards
+<img src="https://wiki.magiclantern.fm/_media/eoscard2.jpg" alt="Screenshot of Pelican's EOScard Utility" width="25%" style="float:right"/>
+
+##### Updating Magic Lantern
+- Simply delete your old Magic Lantern files from your card and copy the new ones.
+- You can keep your configuration files (the ML/SETTINGS directory from your card).
+
+##### Uninstalling Magic Lantern
+<MessageBoxTemplate severity={3} paragraphTitle={true} headingTitle={"DO NOT just delete the Magic Lantern files from the card!"} detailSummary={"If you do, the camera will freeze at startup and you'll have to take the battery out."} opens={true}>
+    <p>Please follow below instruction on how to properly uninstall Magic Lantern!</p>
+</MessageBoxTemplate>
+
+###### Uninstalling ML from one card
+- Format that card from the camera (select this option: *Format card*, ***remove Magic Lantern***) and reboot. Your camera will load the original firmware when you use that card.
+
+###### Uninstalling ML from the camera
+- With a Magic Lantern card, launch the **`Firmware Update`** process and follow the instructions on-screen.
+- <mark class="warning">Re-installing Canon firmware will <b>not</b> remove Magic Lantern.</mark>
+
+##### Troubleshooting
+-
+
+##### Important notes
+- <mark class="warning" style="font-size:1.4em;font-weight:bolder;">After opening the card door, always wait for LED confirmation (or for 5 seconds) before removing the card!!!</mark>
+- 
+- **And, remember that this software can damage or destroy your camera.**
 
 ## Further steps
 You may wanted to learn the following stuffs if you'd like to go further & perhaps contribute:

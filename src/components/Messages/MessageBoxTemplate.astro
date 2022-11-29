@@ -7,6 +7,7 @@ export interface Props {
     severity?:number;
     classe?:string;
     paragraphTitle?:Boolean;
+    opens?:Boolean;
 };
 
 const{
@@ -16,6 +17,7 @@ const{
     severity = 0,
     classe = "",
     paragraphTitle = false,
+    opens = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- https://stackoverflow.com/a/47488174/9079640 -->
@@ -86,7 +88,7 @@ const{
                 return "";
         }
     })() +headingTitle}</h2> -->
-    <details>
+    <details open={opens?"open":""}>
         <summary>{detailSummary}</summary>
         <p>{detailSay}</p>
         <slot></slot>
