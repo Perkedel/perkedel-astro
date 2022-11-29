@@ -22,7 +22,7 @@
         "@astrojs/prefetch": "^0.1.0",
         "@astrojs/rss": "^1.0.3",
         "@astrojs/sitemap": "^1.0.0",
-        "@github/time-elements": "^3.1.4",
+
         "@nanostores/preact": "^0.3.1",
         "@tauri-apps/api": "^1.2.0",
         "@vidstack/player": "^1.6.4",

@@ -1,11 +1,14 @@
 ---
+import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 ---
 <h2>Enter the FULL VERSION room, $0 & Permanent</h2>
-    <p class="warning"><b style="font-size:24px;">18+! ONLY</b><br/> Full version room also lists 69420 URLs! Please make sure your biological age is at & above your mature age!<br/>
-        For <i>Homo sapiens</i>, derivatives, & alike, it is <b>18 years old & up</b>.<br/>
-        The entry is intentionally insecure so archivers can easily crawl into it. You're welcome.<br/>
-        However, please have respect. You mental is very important.
-    </p>
+    <MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="18+ Only" detailSummary="Only for biologically mature audicences">
+        <p>Full version room also lists 69420 URLs! Please make sure your biological age is at & above your mature age!<br/>
+            e.g. <i>Homo sapiens</i>, derivatives, & alike, are <b>18 years old & up</b>.<br/>
+            The entry is intentionally insecure so archivers can easily crawl into it. You're welcome.<br/>
+            However, please have respect. You mental is very important.
+        </p>
+    </MessageBoxTemplate>
     <script is:inline>
         function showNSFWLinkPls(){
             let windowe = new tingle.modal({

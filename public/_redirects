@@ -1,3 +1,9 @@
+# Here are `_redirects`.
+# This file provide redirection links to maintain existence
+# & avoid 404 error due to restructurizations & other stuffs.
+# Additionally, it provides correction in event of URL mistype,
+# as well as short linking.
+
 # Discord Bouncing Videos
 /discord_bouncing_videos /apps/discord_bouncing_video
 /apps/discord_bouncing_videos /apps/discord_bouncing_video
@@ -76,3 +82,15 @@
 /fnf-sky /apps/LastFunkinMoments
 /fnf-sky-reupload /apps/LastFunkinMoments
 /fnf-better-week7 /apps/LastFunkinMoments
+
+# Cardiophilia
+/cardiophilia /apps/Cardiophile
+/cardiophile /apps/Cardiophile
+/cardiophille /apps/Cardiophile
+/cardiophillia /apps/Cardiophile
+/heartbeat /apps/Cardiophile
+/heart-beat /apps/Cardiophile
+/heart_beat /apps/Cardiophile
+/apps/cardiophilia /apps/Cardiophile
+/apps/cardiophillia /apps/Cardiophile
+/apps/cardiophille /apps/Cardiophile
