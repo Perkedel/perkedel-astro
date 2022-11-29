@@ -13,13 +13,13 @@ import Emoji from 'astro-emoji';
 import MicrositeListOwn from '@components/Elements/MicrositeListOwn.astro';
 ---
 <Layout
-    title="Microsites. List of special evens" 
+    title="Microsites. List of special evens (NSFW)" 
     description="Perkedel NTLF+ASTR. Microsites!"
-    keywords="tech, fun, novelty, open source, gratis, free, microsite, microsites"
+    keywords="tech, fun, novelty, open source, gratis, free, microsite"
     author="JOELwindows7"
+    rating="adult"
     >
-    <h1>Microsites of Special Events (SFW only)</h1>
+    <h1>Microsites of Special Events (SFW + NSFW)</h1>
         <p>This directory lists microsites for which are special events that needs somekind of homepage but obviously too small to be on its own.</p>
-        <MicrositeListOwn enableNSFW={false}/>
-        <!-- <p>List also 69420</p> -->
+        <MicrositeListOwn enableNSFW={true}/>
 </Layout>
