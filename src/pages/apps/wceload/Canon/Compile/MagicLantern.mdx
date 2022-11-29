@@ -45,6 +45,7 @@ SauceChangelogURLDirect: 'https://github.com/Perkedel/perkedel-astro/raw/main/sr
 url: 'MagicLantern' # wtf? the URL is no longer automatic?!?!??!?
 ---
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+import MagicLanternBigWarning from "@components/Messages/MagicLanternBigWarning.astro";
 
 # How to compile & install Magic Lantern (2023 Working 100% minus 1%)
 This is an instruction of how to compile &/or install Magic Lantern for your Canon EOS DSLR & Mirrorless camera (except PowerShot & EOS with PowerShot firmwares).  
@@ -319,32 +320,7 @@ For the impatient: just follow the quick install guide from the
 For a more thorough description of the install process, including what to do when things go wrong, keep reading.
 
 ### <mark class="warning">Caution & VERY IMPORTANT!!!</mark>
-<MessageBoxTemplate severity={2} paragraphTitle={true} headingTitle={"Read Carefully"} detailSummary={"May possibly damage your camera, Read instruction real carefully!"} opens={true}>
-    <img src="https://wiki.magiclantern.fm/_media/led-with-card-door-open-280.jpg" alt="LED Blinking & Card door open on the camera, pay attention!" width="25%" style="float:right"/>
-    <ul>
-        <li>Read the entire guide before performing any steps.</li>
-        <li>You are responsible for any damage done to your camera.</li>
-        <li><b style="font-size:1.4em;font-weight:bolder;">Never delete the Magic Lantern files from the card!</b> Format the card instead.</li>
-        <li>After opening the card door, 
-            <b class="error" style="font-size:1.4em;">always wait for LED confirmation</b> (or for 5 seconds) 
-            before removing the card, 
-            <mark style="font-weight:bold;font-size=1.4em;">even if your camera is turned off!!!</mark>
-            </li>
-        <li>Additionally for NEW INSTALL, there is a bug regarding to libUSB which workaround is available according to 
-            <a href="https://www.magiclantern.fm/forum/index.php?topic=17969.msg240894#msg240894" target="_blank" rel="noopener noreferrer">
-                This petabyt's thread reply
-                </a>
-            </li>
-    </ul>
-    <p>
-        Right after opening the card door, Canon firmware <b>accesses the card without turning on the LED</b> 
-        (yes, with the main switch turned off). 
-        If you remove the card too early, the camera will freeze and will drain the battery, 
-        or even cause <mark>permanent damage</mark>! You will be running random code 
-        (remember you are loading executable code from the card), 
-        and we can't do anything about it without reflashing Canon firmware with our own code.
-    </p>
-</MessageBoxTemplate>
+<MagicLanternBigWarning/>
 
 ### Steps:
 #### NEW INSTALL (Work in Progress)
@@ -420,12 +396,12 @@ Any older cameras & cameras not listed on the New install above.
 ###### Step 1. Preparing your camera
 
 ###### Step 2. Installation
-<img src="https://wiki.magiclantern.fm/_detail/new-installer.png?id=install" alt="Example of successful Magic Lantern installation" width="25%" style="float:right"/>
+<img src="https://wiki.magiclantern.fm/_media/new-installer.png?cache=" alt="Example of successful Magic Lantern installation" width="25%" style="float:right"/> aaa
 
 ###### Step 3. Magic Lantern first startup
 
 ##### Installing Magic Lantern on other cards
-<img src="https://wiki.magiclantern.fm/_media/eoscard2.jpg" alt="Screenshot of Pelican's EOScard Utility" width="25%" style="float:right"/>
+<img src="https://wiki.magiclantern.fm/_media/eoscard2.jpg" alt="Screenshot of Pelican's EOScard Utility" width="25%" style="float:right"/> aaa
 
 ##### Updating Magic Lantern
 - Simply delete your old Magic Lantern files from your card and copy the new ones.
