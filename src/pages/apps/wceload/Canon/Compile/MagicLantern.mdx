@@ -46,6 +46,7 @@ url: 'MagicLantern' # wtf? the URL is no longer automatic?!?!??!?
 ---
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 import MagicLanternBigWarning from "@components/Messages/MagicLanternBigWarning.astro";
+import Figurative from "@components/Elements/SparePart/Figurative.astro";
 
 # How to compile & install Magic Lantern (2023 Working 100% minus 1%)
 This is an instruction of how to compile &/or install Magic Lantern for your Canon EOS DSLR & Mirrorless camera (except PowerShot & EOS with PowerShot firmwares).  
@@ -339,7 +340,9 @@ For other models, please refer to Current Install section bellow.
 2. Download mlinstall ([https://github.com/petabyt/mlinstall](https://github.com/petabyt/mlinstall)).
 3. On Windows, extract the files and run the EXE. On Linux, you'll need to set the `.AppImage` file as executable. Here's a quick tutorial: [https://discourse.appimage.org/t/how-to-run-an-appimage/80](https://discourse.appimage.org/t/how-to-run-an-appimage/80 )
     Here I click `Get Device Info`` to see if it can detect the device.
-    ![Result of Clicked `Get Device Info`](https://wiki.magiclantern.fm/_media/new-install:mlinstall_1.png)
+    <Figurative figcaption="Fig. 1 - Result of Clicked <code>Get Device Info</code>">
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_1.png" alt="Fig 1 - Result of Clicked `Get Device Info`" width=".50em"/>
+    </figurative>
 
 On first run on Windows, it should **not** work. Here's what to do:
 1. <b class="error">DO NOT USE ZADIG for now! IT'S SLOW & DESTRUCTIVE!!</b> use [mcuee's libUSB](https://github.com/mcuee/libusb-win32/releases/download/snapshot_1.2.7.3/libusb-win32-bin-1.2.7.3.zip ) instead! [Learn more in petabyt's reply](https://www.magiclantern.fm/forum/index.php?topic=17969.msg240894#msg240894 )
@@ -348,16 +351,22 @@ On first run on Windows, it should **not** work. Here's what to do:
 4. (Backup) *In order to revert this change, simply repeat the steps and choose `WinUSB` instead of `libusb-win32`*. Some Windows software may fail to work if this change is not reverted.
 5. (Backup) Once you have verified that USB communication is working, click `Enable Boot Disk`.
 6. (Backup) *In order to revert the camera to factory settings, click `Disable Boot Disk`*.
-    ![Enabling Bootdisk to the camera](https://wiki.magiclantern.fm/_media/new-install:mlinstall_2.png)
+    <Figurative figcaption="Fig. 2 - Enabling Bootdisk to the camera">
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_2.png" alt="Fig. 2 - Enabling Bootdisk to the camera" width=".50em"/>
+    </figurative>
 1. Unplug the camera SD card from the camera.
 2. Insert the camera SD card into your computer. You might need an adapter.
 3. Ensure that your SD card is named `EOS_DIGITAL`. mlinstall searches for a storage device named `EOS_DIGITAL` and writes to the first one it finds.
 4. In mlinstall, navigate to the `Card` tab and click `Write card boot flags`. This will write data to the SD card. It's a good idea to format the card in the camera first.
 5. *In Linux, eject / unmount the card before removing it*. Usually in your file manager left sidebar, you should see &#xf052; (Eject) Button next to `EOS_DIGITAL` media. Click the &#xf052; eject button to unmount the SD Card.
-    ![Enabled Bootflag to the SD Card](https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png )
+    <Figurative figcaption="Fig. 3 - Enabled Bootflag to the SD Card">
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png" alt="Fig. 3 - Enabled Bootflag to the SD Card" width=".50em"/>
+    </figurative>
 1. Once you have written the card flags, you will need to download a build for your camera. Make sure that the model ID and firmware version of your camera matches the build. (you can check it in the Canon menu). You might need to downgrade or upgrade.
 2. Extract the Magic Lantern release zip file contents onto the SD card. Make sure that `autoexec.bin` and the `ML` folder are at the top directory, alongside `DCIM`.
-    ![Basic folder structure of installed Magic Lantern in the SD Card](https://eggnog.theres.life/f/47-sha7lft66sci8ncxr5fu7bxeluj1s3.png)
+    <Figurative figcaption="Fig. 4 - Basic folder structure of installed Magic Lantern in the SD Card">
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png" alt="Fig. 4 - Basic folder structure of installed Magic Lantern in the SD Card" width=".50em"/>
+    </figurative>
 1. Insert SD Card into camera and turn it on. On first startup, `ROM1` and `ROM0` will be backed up. In the picture settings screen in `M` (`MANUAL`) mode, press the `Q` / `Av` button (or &#xf1f8; `DELETE/TRASH` button).
 
 ##### Uninstalling Magic Lantern

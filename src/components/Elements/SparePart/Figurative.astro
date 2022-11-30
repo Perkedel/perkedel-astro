@@ -1,0 +1,17 @@
+---
+export interface Props{
+    figcaption?:string;
+}
+
+const{
+    figcaption = 'Fig. ??? - SAMPLE TEXT',
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<figure>
+    <slot>
+        <div style="min-height: 100px;min-width: 100%;border-style:dotted;border-radius:5px;align-content:center;text-align:center;">
+            <p><i>SAMPLE TEXT</i></p>
+        </div>
+    </slot>
+    <figcaption set:html={figcaption}/>
+</figure>
