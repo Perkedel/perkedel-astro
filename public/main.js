@@ -434,8 +434,8 @@ let dataWow;
 const optionsWow = { method: 'GET', headers: { accept: 'application/json' } };
 fetch('https://owen-wilson-wow-api.onrender.com/wows/random', optionsWow)
     .then(response => response.json())
+    .then(response => dataWow = response)
     .then(response => console.log(response))
-    .then(response => dataWow = response.json())
     .catch(err => console.error(err));
 let vidWow1080 = dataWow[0].video["1080p"];
 let vidWow720 = dataWow[0].video["720p"];
