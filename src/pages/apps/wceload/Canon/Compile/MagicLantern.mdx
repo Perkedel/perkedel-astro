@@ -1,13 +1,13 @@
 ---
 layout: '@components/Layout/LayoutChangelogs.astro'
 # layout: '../../../../components/Layout.astro'
-title: 'How to Compile Magic Lantern 2023 Working'
+title: 'How to Compile & Install Magic Lantern 2023 Working'
 titlePostFix: 'Instruction'
 tags: ['ah','yess']
 description: |
-    How to Compile Magic Lantern 2023 Working
+    How to Compile & Install Magic Lantern 2023 Working
     Guaranteed working (minus 1 thing) how to build Magic Lantern No fatal error!
-keywords: 'tech, fun, novelty, open source, gratis, free, MagicLantern, Canon'
+keywords: 'tech, fun, novelty, open source, gratis, free, MagicLantern, Canon, compile, fatal error'
 author: 'JOELwindows7'
 twitterAuthor: '@JOELwindows7'
 date: 2022-11-27
@@ -328,10 +328,11 @@ Further informations:
 
 <MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle={"Untested"} detailSummary={"Incomplete & unconfirmed instruction"} opens={true}>
     <p>
-        We are deeply apologize however, instruction below is still in progress.<br/>
-        We have compiled stuffs we could understand from many replies & article above<br/>
+        We are deeply apologize. However, instructions in this section below are still in progress.<br/>
+        We have compiled stuffs we could understand from many replies & articles above<br/>
         Proceed at your own risk!, We are currently unable to test the step & optimize 
-        the working condition due to a technical difficulties at the moment.
+        the working condition due to a technical difficulties at the moment.<br/>
+        We are working on the fix.
     </p>
 </MessageBoxTemplate>
 
@@ -363,7 +364,7 @@ Further informations:
     - 350D / Digital Rebel XT / Kiss Digital N 
     - 300D / Digital Rebel / Kiss Digital
     - 77D / 9000D (JP)
-    Fun Fictional Fact: Dasandim follows whatever Indonesian model name gets
+    - Fun Fictional Fact: Dasandim follows whatever Indonesian model name gets
 - Get the SD Card. It must be formated within regular FAT series (FAT 12, 16, or 32). <mark class="error" style="font-weight:bold;">exFAT won't work</mark>.
 - if you chose just `autoexec.bin` method, you must make the SD Card bootable, using [Pelican's EOScard](https://pel.hu/eoscard/ ) utility OR [petabyt's ML Installer](https://github.com/petabyt/mlinstall) (There is `Card` tab that also lets you modify the bootflag of the SD card).
 - It is recommended to just stick with `FIR` method instead. 
@@ -410,18 +411,18 @@ optional arguments:
                         space separated list of qemu '-d' arguments. See help for qemu for complete list
 ```
 
-say that in your workspace looks something like this:
+say that in your working folder looks something like this:
 ```bash
 joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
 magiclantern_simplified  qemu-eos  qemu-eos-build
 ```
-So then you'll need to create a directory called `roms` by typing `mkdir roms`. do make sure that folder is placed among your Magic Lantern workspace, **NOT inside any of the source code folder**.
+Therefore, you'll need to create a directory called `roms` by typing `mkdir roms`. do make sure that folder is placed among your Magic Lantern workspace, **NOT inside any of the source code folder**.
 ```bash
 joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ mkdir roms
 joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
 magiclantern_simplified  qemu-eos  qemu-eos-build  roms
 ```
-However, you can change where the rom folder would be loaded at with `-r ROM_DIR` or `--rom-dir ROM_DIR` where `ROM_DIR` if folder you choose where both of your ROM located at.
+However, you can change where the rom folder would be loaded at with `-r ROM_DIR` or `--rom-dir ROM_DIR` where `ROM_DIR` (when going to execute `run_qemu.py`) if folder you choose where both of your ROM located at.
 
 Copy the ROM files you just saved into that new `roms` folder or whereever you would later choose with `-r` argument. We recommend that you leave the setting at its default for now.
 
@@ -439,8 +440,8 @@ dd if=BOOT.BIN of=ROM1.BIN bs=64k seek=511
     Additional Notes for 3000D: Will add to simplified later.
     - change flash model ID to 0x003825C2 (1300D has 0x003925C2) (in the Stubs)
     - CURRENT_TASK 0x2F53C (in the Stubs)
-    - 0xFE1171B4 DebugMsg (in the Platform C code)
-    - 0x3888 task_create (in the Platform C code)
+    - 0xFE1171B4 DebugMsg (in the EOS C code)
+    - 0x3888 task_create (in the EOS C code)
 
 ### Step 4. Run the emulation
 Once done, you can run the emulation.
