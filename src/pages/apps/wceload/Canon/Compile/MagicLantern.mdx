@@ -46,7 +46,9 @@ url: 'MagicLantern' # wtf? the URL is no longer automatic?!?!??!?
 ---
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 import MagicLanternBigWarning from "@components/Messages/MagicLanternBigWarning.astro";
+import MagicLanternBootflagTable from "@components/Elements/SparePart/MagicLanternBootflagTable.astro"
 import Figurative from "@components/Elements/SparePart/Figurative.astro";
+import PiracyForbidden from "@components/Messages/PiracyForbidden.astro"
 
 # How to compile & install Magic Lantern (2023 Working 100% minus 1%)
 This is an instruction of how to compile &/or install Magic Lantern for your Canon EOS DSLR & Mirrorless camera (except PowerShot & EOS with PowerShot firmwares).  
@@ -314,14 +316,179 @@ make -j16 && make plugins && cp tests/plugin/libmagiclantern.so arm-softmmu/plug
 
 ```
 
+<hr/>
+
+## Preparing QEMU EOS
+Further informations:
+<ul>
+    <li><a class="Buttonnize" href="https://foss.heptapod.net/magic-lantern/magic-lantern/-/blob/branch/qemu/contrib/qemu/README.rst" target="_blank" rel="noopener noreferrer">How to QEMU</a> in Original Source code, QEMU branch</li>
+    <li><a class="Buttonnize" href="https://github.com/reticulatedpines/qemu-eos/tree/qemu-eos-v4.2.1/magiclantern" target="_blank" rel="noopener noreferrer">How to QEMU</a> in Simplified QEMU EOS repository, v4.2.1 branch</li>
+    <li><a class="Buttonnize" href="https://www.magiclantern.fm/forum/index.php?topic=23369.0" target="_blank" rel="noopener noreferrer">Canon EOS 4000D / 3000D / Rebel T100 Development</a> in ML Forum, where a1ex had attempted to emulate the camera using QEMU.</li>
+</ul>
+
+<MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle={"Untested"} detailSummary={"Incomplete & unconfirmed instruction"} opens={true}>
+    <p>
+        We are deeply apologize however, instruction below is still in progress.<br/>
+        We have compiled stuffs we could understand from many replies & article above<br/>
+        Proceed at your own risk!, We are currently unable to test the step & optimize 
+        the working condition due to a technical difficulties at the moment.
+    </p>
+</MessageBoxTemplate>
+
+### Step 1. Dump the ROM from your Canon camera!
+<PiracyForbidden piracyOn="Canon Firmware & Dumped ROM files"/>
+- Acquire the ROM Dumper. for EOS with DiG!C Between 2 through 8 (2 ≤ DIGIC ≤ 8), [use a1ex's Portable ROM Dumper](https://www.magiclantern.fm/forum/index.php?topic=16534.0).; While DiG!C more than 8 & 10 (DIGIC 8 and 10), [use srsa's technic in Canon Basic Dumper](https://www.magiclantern.fm/forum/index.php?topic=25305.0 ) which utilizes [Canon Basic](https://chdk.fandom.com/wiki/Canon_Basic)
+- For Portable ROM Dumper, we recommend that if available, use the matching `FIR` file provided. Choose the one that matches your model.
+    Note that Low end / Entry Level to Advanced DSLR Cameras [**have different model name**](https://en.wikipedia.org/wiki/List_of_Canon_products#Digital_SLR_cameras ) for specific region. Following are which model that has different names equals with:
+    - 3000D / 4000D / Rebel T100
+    - 1500D / 2000D / Rebel T7 / Kiss X90
+    - 1300D / Rebel T6 / Kiss X80 
+    - 1200D / Rebel T5 / Kiss X70 
+    - 1100D / Rebel T3 / Kiss X50
+    - 1000D / Rebel XS / Kiss F 
+    - 250D / Rebel SL3 / Kiss X10
+    - 200D / Rebel SL2 / Kiss X9
+    - 100D / Rebel SL1 / Kiss X7 
+    - 850D / Rebel T8i / Kiss X10i
+    - 800D / Rebel T7i / Kiss X9i
+    - 760D / Rebel T6s / 8000D
+    - 750D / Rebel T6i / Kiss X8i
+    - 700D / Rebel T5i / Kiss X7i 
+    - 650D / Rebel T4i / Kiss X6i
+    - 600D / Rebel T3i / Kiss X5
+    - 550D / Rebel T2i / Kiss X4 
+    - 500D / Rebel T1i / Kiss X3 
+    - 450D / Rebel XSi / Kiss X2 
+    - 400D / Digital Rebel XTi / Kiss Digital X
+    - 350D / Digital Rebel XT / Kiss Digital N 
+    - 300D / Digital Rebel / Kiss Digital
+    - 77D / 9000D (JP)
+    Fun Fictional Fact: Dasandim follows whatever Indonesian model name gets
+- Get the SD Card. It must be formated within regular FAT series (FAT 12, 16, or 32). <mark class="error" style="font-weight:bold;">exFAT won't work</mark>.
+- if you chose just `autoexec.bin` method, you must make the SD Card bootable, using [Pelican's EOScard](https://pel.hu/eoscard/ ) utility OR [petabyt's ML Installer](https://github.com/petabyt/mlinstall) (There is `Card` tab that also lets you modify the bootflag of the SD card).
+- It is recommended to just stick with `FIR` method instead. 
+    - Simply place the ROM Dumper firmware at the root of the SD Card, 
+    - **No need to make it bootable**,
+    - Insert the SD card into the camera & close the card / battery door. Wait until the card successfully read looking at the LED.
+    - Turn on & Run firmware update. The file will dump the firmware of your camera. You should see up to 4 ROM files. 2 are both the ROM files & rest 2 are each MD5
+    - Successful dump should roughly looks something like [this, on the following forum thread replies](https://www.magiclantern.fm/forum/index.php?topic=14732). Today's dumper may looks different, but most importantly ensure there is no fatal error.
+    - <mark class="warning" style="font-weight:bold;">IMPORTANT!!!</mark> Always check both ROM files MD5 checksum after successful dump. Save both MD5 checksum result somewhere safe.
+        - Windows MD5 checksum software is available using [https://www.winmd5.com/](https://www.winmd5.com/)
+        - Linux & macOS should have a program called `md5sum` (you may have this already pre-installed, or you can search up `md5sum` in your `synaptic` or `pacman`). simply type `md5sum -C *.MD5` to check all MD5 present.
+- You may need to repeat above MD5 test on the same card, then on another card & ensure the MD5 are pretty much similar.
+    - Sometimes, Some camera only has ROM1 connected, hence ROM0 contains just random noise which will may results in ROM0's MD5 mismatch. **This is normal.**
+- Safe all ROMs & MD5s in a confidential place, <mark class="error"><b>DO NOT SHARE ANY OF THE ROM PUBLICLY (even if you live in X0p1r4t3 city)</b>, as you are holding extremely proprietary Canon softwares</mark>. Remember, Earth DMCA agencies extradites across galaxies, and they have Dasandim pinpoints!
+
+### Step 2. Insert the ROMs into the emulator!
+According to `run_qemu.py` in your Simplified QEMU EOS, by default ROMs will be placed in the `roms` folder located next `qemu-eos` & `qemu-eos-build`.  
+```bash
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/magiclantern$ ls
+build_qemu_direct.py  cam_config   docker_builder  ml_tests   run_qemu.py
+build_qemu_docker.py  disk_images  ml_qemu         README.md  run_tests.py
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified/qemu-eos/magiclantern$ ./run_qemu.py --help
+usage: run_qemu.py [-h] [-q QEMU_BUILD_DIR] [-r ROM_DIR] [-s SOURCE_DIR] [--boot] [--gdb] [-d [D_ARGS ...]]
+                   {1000D,100D,1100D,1200D,1300D,200D,400D,40D,450D,500D,50D,550D,5D,5D2,5D3,5D3eeko,5D4,5D4AE,600D,60D,650D,6D,6D2,700D,70D,750D,760D,77D,7D,7D2,7D2S,800D,80D,850D,A1100,EOSM,EOSM10,EOSM2,EOSM3,EOSM5,EOSRP,M50,R}
+
+Script to run Qemu with EOS support.
+
+positional arguments:
+  {1000D,100D,1100D,1200D,1300D,200D,400D,40D,450D,500D,50D,550D,5D,5D2,5D3,5D3eeko,5D4,5D4AE,600D,60D,650D,6D,6D2,700D,70D,750D,760D,77D,7D,7D2,7D2S,800D,80D,850D,A1100,EOSM,EOSM10,EOSM2,EOSM3,EOSM5,EOSRP,M50,R}
+                        Name of model to emulate, required
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -q QEMU_BUILD_DIR, --qemu-build-dir QEMU_BUILD_DIR
+                        build dir for ML Qemu, default: /home/joelwindows7/sauce/simplified/qemu-eos-build
+  -r ROM_DIR, --rom-dir ROM_DIR
+                        location of roms, default: /home/joelwindows7/sauce/simplified/roms
+  -s SOURCE_DIR, --source-dir SOURCE_DIR
+                        location of Magic Lantern repo, used to find stubs etc for emulation. Default:
+                        /home/joelwindows7/sauce/simplified/magiclantern_simplified
+  --boot                attempt to run autoexec.bin from card (set cam bootflag), default: False
+  --gdb                 start Qemu suspended, until gdb connects on port 1234
+  -d [D_ARGS ...], --d-args [D_ARGS ...]
+                        space separated list of qemu '-d' arguments. See help for qemu for complete list
+```
+
+say that in your workspace looks something like this:
+```bash
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magiclantern_simplified  qemu-eos  qemu-eos-build
+```
+So then you'll need to create a directory called `roms` by typing `mkdir roms`. do make sure that folder is placed among your Magic Lantern workspace, **NOT inside any of the source code folder**.
+```bash
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ mkdir roms
+joelwindows7@JOEL-ROG-GL503GE:~/sauce/simplified$ ls
+magiclantern_simplified  qemu-eos  qemu-eos-build  roms
+```
+However, you can change where the rom folder would be loaded at with `-r ROM_DIR` or `--rom-dir ROM_DIR` where `ROM_DIR` if folder you choose where both of your ROM located at.
+
+Copy the ROM files you just saved into that new `roms` folder or whereever you would later choose with `-r` argument. We recommend that you leave the setting at its default for now.
+
+### Step 3. (Optional, perhaps needed) Apply patch into the ROM files.
+- For some models, you may need to apply some few patches. e.g. in a1ex attempt, he did applied the patch for the EOS 4000D / 3000D / Rebel T100 emulation.
+```bash
+# Go into the `roms` folder
+cd ~/sauce/simplified/roms
+
+# write the BOOT.BIN from ROM1.BIN & then overwrite part of the ROM1 with stuffs from BOOT.BIN just there.
+dd if=ROM1.BIN of=BOOT.BIN bs=64k skip=1 count=1
+dd if=BOOT.BIN of=ROM1.BIN bs=64k seek=511
+```
+- Additionally, ROM0 may not be needed anymore, such as above with 3000D.
+    Additional Notes for 3000D: Will add to simplified later.
+    - change flash model ID to 0x003825C2 (1300D has 0x003925C2) (in the Stubs)
+    - CURRENT_TASK 0x2F53C (in the Stubs)
+    - 0xFE1171B4 DebugMsg (in the Platform C code)
+    - 0x3888 task_create (in the Platform C code)
+
+### Step 4. Run the emulation
+Once done, you can run the emulation.
+```bash
+# Make sure you're in the QEMU-EOS Magic Lantern folder
+cd ~/sauce/simplified/qemu-eos/magiclantern
+
+# Attempt to run this
+#./run_qemu YOUR_MODEL_ACCORDING_TO_HELP
+# You must replace `YOUR_MODEL_ACCORDING_TO_HELP` (required) with available 
+# models in the run qemu help. say your model is 1000D & you had both of the ROMs, so
+./run_qemu 1000D
+
+# & if you had different ROMs in another folder, you can have that too
+./run_qemu -r ~/sauce/simplified/roms/200D 200D 
+# the model name shall be placed the last as 
+# that argument in the python script was programmed like that, to be positional.
+# note once again, you may need to have magiclantern_simplified cloned too as well.
+```
+
+Enjoy.
+{/* 
+
+SEPAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAATE
+
+ */}
+<hr/>
 ## Installation
 ### Notes
 For the impatient: just follow the quick install guide from the 
-<a class="Buttonnize" href="http://builds.magiclantern.fm/" target="_blank" rel="noopener noreferrer">download page</a>. <br/>
+<a class="Buttonnize" href="https://builds.magiclantern.fm/" target="_blank" rel="noopener noreferrer">download page</a>. <br/>
 For a more thorough description of the install process, including what to do when things go wrong, keep reading.
+
+##### Before installing Magic Lantern you need to:
+- Know how to use a computer (how to download a file, how to unzip an archive, how to browse the web and read the forum…)
+- Use your camera without ML for a few months. When you are confortable with Canon firmware, consider installing Magic Lantern.
+- Do your research. There is a lot of information available on this site. Read the user guide, the FAQ, and browse the [forum](https://magiclantern.fm/forum).
+- Be patient. Magic Lantern can overwhelm with the amount of functions added. But it is actually very easy to use once you know the basics.
 
 ### <mark class="warning">Caution & VERY IMPORTANT!!!</mark>
 <MagicLanternBigWarning/>
+
+### Get the right firmware version
+- Go to [https://builds.magiclantern.fm/](https://builds.magiclantern.fm/) and download the Magic Lantern zip file for your camera
+- Make sure you are running the right Canon firmware version, specified on the download page. Links to matching Canon firmware files are included in `Installation` and `Useful Links`.
+- You can check your firmware version by setting your mode dial to **`M` (Manual)** and looking in the Canon menu.
+- Nothing bad will happen if you try to run ML on a different firmware version. Magic Lantern checks firmware version before attempting to run. 
+    If there is a mismatch you will get an error message screen and you have to pull the battery to proceed. With older (outdated) Magic Lantern versions you will get a blinking LED instead. You still have to pull the battery.
 
 ### Steps:
 #### NEW INSTALL (Work in Progress)
@@ -341,7 +508,7 @@ For other models, please refer to Current Install section bellow.
 3. On Windows, extract the files and run the EXE. On Linux, you'll need to set the `.AppImage` file as executable. Here's a quick tutorial: [https://discourse.appimage.org/t/how-to-run-an-appimage/80](https://discourse.appimage.org/t/how-to-run-an-appimage/80 )
     Here I click `Get Device Info`` to see if it can detect the device.
     <Figurative figcaption="Fig. 1 - Result of Clicked <code>Get Device Info</code>">
-        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_1.png" alt="Fig 1 - Result of Clicked `Get Device Info`" width=".50em"/>
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_1.png" alt="Fig 1 - Result of Clicked `Get Device Info`" width="100%"/>
     </Figurative>
 
 On first run on Windows, it should **not** work. Here's what to do:
@@ -352,7 +519,7 @@ On first run on Windows, it should **not** work. Here's what to do:
 5. (Backup) Once you have verified that USB communication is working, click `Enable Boot Disk`.
 6. (Backup) *In order to revert the camera to factory settings, click `Disable Boot Disk`*.
     <Figurative figcaption="Fig. 2 - Enabling Bootdisk to the camera">
-        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_2.png" alt="Fig. 2 - Enabling Bootdisk to the camera" width=".50em"/>
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_2.png" alt="Fig. 2 - Enabling Bootdisk to the camera" width="100%"/>
     </Figurative>
 1. Unplug the camera SD card from the camera.
 2. Insert the camera SD card into your computer. You might need an adapter.
@@ -360,14 +527,14 @@ On first run on Windows, it should **not** work. Here's what to do:
 4. In mlinstall, navigate to the `Card` tab and click `Write card boot flags`. This will write data to the SD card. It's a good idea to format the card in the camera first.
 5. *In Linux, eject / unmount the card before removing it*. Usually in your file manager left sidebar, you should see &#xf052; (Eject) Button next to `EOS_DIGITAL` media. Click the &#xf052; eject button to unmount the SD Card.
     <Figurative figcaption="Fig. 3 - Enabled Bootflag to the SD Card">
-        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png" alt="Fig. 3 - Enabled Bootflag to the SD Card" width=".50em"/>
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png" alt="Fig. 3 - Enabled Bootflag to the SD Card" width="100%"/>
     </Figurative>
 1. Once you have written the card flags, you will need to download a build for your camera. Make sure that the model ID and firmware version of your camera matches the build. (you can check it in the Canon menu). You might need to downgrade or upgrade.
 2. Extract the Magic Lantern release zip file contents onto the SD card. Make sure that `autoexec.bin` and the `ML` folder are at the top directory, alongside `DCIM`.
     <Figurative figcaption="Fig. 4 - Basic folder structure of installed Magic Lantern in the SD Card">
-        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png" alt="Fig. 4 - Basic folder structure of installed Magic Lantern in the SD Card" width=".50em"/>
+        <img src="https://wiki.magiclantern.fm/_media/new-install:mlinstall_3.png" alt="Fig. 4 - Basic folder structure of installed Magic Lantern in the SD Card" width="100%"/>
     </Figurative>
-1. Insert SD Card into camera and turn it on. On first startup, `ROM1` and `ROM0` will be backed up. In the picture settings screen in `M` (`MANUAL`) mode, press the `Q` / `Av` button (or &#xf1f8; `DELETE/TRASH` button).
+1. Insert SD Card into camera and turn it on. On first startup, `ROM1` and `ROM0` will be backed up. In the picture settings screen in **`M` (Manual)** mode, press the `Q` / `Av` button (or <b style="color:dodgerblue;">&#xf1f8;</b> `DELETE/TRASH` button).
 
 ##### Uninstalling Magic Lantern
 1. Format the card <b class="warning">(and back up any data first!)</b>
@@ -391,6 +558,7 @@ A firmware file archive can be found here:
 SEPARATE
 
 ============================================= */}
+<hr/>
 
 #### CURRENT INSTALL
 as in:
@@ -399,25 +567,57 @@ Please check this guide above for up to date instruction. Instructions will be s
 
 ##### Compatible for:
 Any older cameras & cameras not listed on the New install above.
-##### Get the right firmware version
 
 ##### First install guide
 ###### Step 1. Preparing your camera
+- Use a **fully charged Canon battery** <mark style="font-size:1.7em;font-weight:bolder;">(original, NOT third party)</mark>;
+- Remove any accessories from your camera (such as battery grip or external flash);
+- Make sure you have a card reader.
+- Double-check your Canon firmware version.
+- Rotate your mode dial to **`M` (Manual)** position
+- Recommended: Restore your camera to default settings (`Clear settings`, see picture in the Big red warning above). Remember this will reset all canon settings and removes custom picture styles!
 
 ###### Step 2. Installation
-<img src="https://wiki.magiclantern.fm/_media/new-installer.png?cache=" alt="Example of successful Magic Lantern installation" width="25%" style="float:right"/> aaa
+<img src="https://wiki.magiclantern.fm/_media/new-installer.png?cache=" alt="Example of successful Magic Lantern installation" width="25%" style="float:right"/>
+- Format the card **in the camera** (<mark>low-level format</mark>).
+- Unzip **all** of the files from Magic Lantern zip archive to the **root** of your card.
+- Launch the **`Firmware Update`** process from the Canon menu and follow the messages on the screen.
+- Once you see the **green confirmation screen**, restart your camera. Done.
+- If anything goes wrong, check the **Troubleshooting** section below.
 
 ###### Step 3. Magic Lantern first startup
+{/* <b style="color:dodgerblue;">&#xf1f8;</b> `DELETE/TRASH` */}
+- Go to Canon menus and restore your preferences. Don't forget these:
+    - On 550D/60D/600D, enable manual video exposure.
+    - On 5D Mark II and 50D, enable LiveView shooting (a button right beside of your viewfinder cup).
+    - You may also have to re-install your custom picture styles
+- In LiveView, toggle the **`INFO/DISP`** button (usually north-west or up-right next to D-pad) until you see the Magic Lantern audio levels and footer bar.
+- Press the <b style="color:dodgerblue;">&#xf1f8;</b> `DELETE/TRASH` button to open ML menu and **`READ THE HELP TEXT`** that pops up.
+- Read the User Guide and start using Magic Lantern.
+- **Don't forget to wait for LED confirmation before removing the card!** (unless you use a 550D)
 
 ##### Installing Magic Lantern on other cards
-<img src="https://wiki.magiclantern.fm/_media/eoscard2.jpg" alt="Screenshot of Pelican's EOScard Utility" width="25%" style="float:right"/> aaa
+<img src="https://wiki.magiclantern.fm/_media/eoscard2.jpg" alt="Screenshot of Pelican's EOScard Utility" width="25%" style="float:right"/>
+- Simply repeat **Step 2** above on every card you would like to use Magic Lantern.
+- If you prefer to skip the firmware update step and prepare your cards from the PC, you may copy ML files on your card and make it bootable with a special utility: [EOScard](http://pel.hu/down/EOScard.exe ) for Windows, [MacBoot](http://www.zenoshrdlu.com/macboot/macboot.html ) for macOS, or [make_bootable.sh](https://foss.heptapod.net/magic-lantern/magic-lantern/-/blob/branch/unified/contrib/make-bootable/make_bootable.sh ) for macOS/Linux in command line.
+
+This table below explains where magic strings must be written depending on Filesystem type & version (done by tools above):  
+{/* |FAT version    |Volume Label = `EOS_DEVELOP`   |Bootcode+2 = `BOOTDISK`    |`SCRIPT`   |     
+|---------------|-------------------------------|---------------------------|-----------|  
+|FAT12/16   |0x2b/43    |0x40/64    |0x1f0  |  
+|FAT32   |0x47/71    |0x5c/92    |0x1f0  |  
+|ExFAT  |0x82/130    |0x7a/122    |0x1f0  |   */}
+<MagicLanternBootflagTable/>
+
+`VBR` checksums must be updated for ExFat  
+`SCRIPT` is for Canon basic.
 
 ##### Updating Magic Lantern
 - Simply delete your old Magic Lantern files from your card and copy the new ones.
 - You can keep your configuration files (the ML/SETTINGS directory from your card).
 
 ##### Uninstalling Magic Lantern
-<MessageBoxTemplate severity={3} paragraphTitle={true} headingTitle={"DO NOT just delete the Magic Lantern files from the card!"} detailSummary={"If you do, the camera will freeze at startup and you'll have to take the battery out."} opens={true}>
+<MessageBoxTemplate severity={2} paragraphTitle={true} headingTitle={"DO NOT just delete the Magic Lantern files from the card!"} detailSummary={"If you do, the camera will freeze at startup and you'll have to take the battery out."} opens={true}>
     <p>Please follow below instruction on how to properly uninstall Magic Lantern!</p>
 </MessageBoxTemplate>
 
@@ -429,12 +629,25 @@ Any older cameras & cameras not listed on the New install above.
 - <mark class="warning">Re-installing Canon firmware will <b>not</b> remove Magic Lantern.</mark>
 
 ##### Troubleshooting
--
+- **If the card LED blinks continuously AND the camera is unresponsive**, please report an issue (to [Emergency Camera Brick](https://www.magiclantern.fm/forum/index.php?board=45.0) section) and show them the LED blinking sequence (a short video will do, Recommended using [Odysee (Invite link)](https://odysee.com/$/invite/@JOELwindows7) or [YouTube (burner Gmail is okay)](https://youtube.com)). In older versions, this used to mean “`wrong firmware version`”, but new builds are now able to show a message on the screen, regardless of your Canon firmware version.
+- **If you have a different Canon firmware version**, please use the one from our [download page](http://builds.magiclantern.fm/ ) (select camera, scroll to Installation).
+- **If the screen does not turn on, but autofocus works**, remove the battery and format the card. This happens when the card is bootable, but autoexec.bin is not there.
+- **Check if all doors are closed**. The camera will not boot if any of the card or battery doors are open !
+- **If the camera does not boot** (seems dead), **remove the battery and the card**. Then put the battery back and try to boot the camera without card. Then put a formatted card in the camera and try to boot **without** Magic Lantern. Only after you are sure the camera is OK, you can try to see what's wrong with Magic Lantern.
+- **If the camera asks for a firmware update**, place Canon firmware on the card (this was a problem in older versions).
+- <b class="error" style="font-size:1.7em;">DO NOT use a bootable card without a working autoexec.bin on it!</b> If you do, remove the battery immediately, **switching the camera off is not enough !!!**
+- Check the issue tracker (both [Original Source](https://foss.heptapod.net/magic-lantern/magic-lantern/-/issues) code & [Simplified](https://github.com/reticulatedpines/magiclantern_simplified/issues)) for similar problems; if you can't find the solution, create a new issue there according to your ML edition (e.g. 200D compiles from Simplified, so create issue in simplified; others go to original source code).
+- If you get “`ML directory not found! Please copy all ML files.`” during installation → [FAQ](https://wiki.magiclantern.fm/faq#during_installation_error_message_ml_directory_not_found_please_copy_all_ml_files_appears ).
+
 
 ##### Important notes
-- <mark class="warning" style="font-size:1.4em;font-weight:bolder;">After opening the card door, always wait for LED confirmation (or for 5 seconds) before removing the card!!!</mark>
-- 
-- **And, remember that this software can damage or destroy your camera.**
+- <mark class="warning" style="font-size:1.7em;font-weight:bolder;">After opening the card door, always wait for LED confirmation (or for 5 seconds) before removing the card!!!</mark>
+- [**Early generation EyeFi cards may not work**](http://www.flickr.com/groups/magiclanternfirmware/discuss/72157627990119618/#comment72157627879367185 ); other WiFi cards may work properly.
+- **SD-to-CF adapters are not supported!**
+- If you have a bootable card and have the `BOOTDISK` flag set in the camera (which the installer does), and you do not have an `AUTOEXEC.BIN` file on the card, the camera **WILL NOT BOOT!** It will hang and not wake up until the battery is removed.
+- If you encounter a “locked up” camera, **quickly remove the battery**.
+- When in doubt, remove the battery and reboot.
+- **And, remember that this software can damage or destroy your camera.** Perkedel nor Magic Lantern will be responsible for damages due to either negligence, careless, and/or unforseen disaster / *force majeur*
 
 ## Further steps
 You may wanted to learn the following stuffs if you'd like to go further & perhaps contribute:
