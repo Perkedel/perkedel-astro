@@ -1,7 +1,13 @@
 ---
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+import TebengeGuy from '@components/Icons/TebengeGuy.astro';
+import TebengeBullet from '@components/Icons/TebengeBullet.astro';
+import LFMSymbol from '@components/Icons/LFMSymbol.astro';
+import { Icon, Sprite } from 'astro-icon';
 ---
-<h2>Enter the FULL VERSION room, $0 & Permanent</h2>
+<hr/>
+<!-- <h2>Enter the FULL VERSION room, $0 & Permanent <b style="color:red;">&#xf901;</b></h2> -->
+<h2>Enter the FULL VERSION room, $0 & Permanent <Icon style="color:red;" height="36px" name="gg:pill" /></h2>
     <MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="18+ Only" detailSummary="Only for biologically mature audicences">
         <p>Full version room also lists 69420 URLs! Please make sure your biological age is at & above your mature age!<br/>
             e.g. <i>Homo sapiens</i>, derivatives, & alike, are <b>18 years old & up</b>.<br/>
@@ -12,19 +18,35 @@ import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
     <script is:inline>
         function showNSFWLinkPls(){
             let windowe = new tingle.modal({
+                closeMethods: ['button', 'escape'],
                 footer: true,
                 onOpen: function() {
-                    console.log(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
+                    // console.log(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
+                    
                 },
                 closeLabel: "Close",
             });
-            windowe.setContent(`<h2>Are you sure?</h2><p>This will Show the NSFW Entry link.<br/>You really must be 18+ in order to enter this!</p>`);
-            windowe.addFooterBtn('OK', 'tingle-btn tingle-btn--primary', function() {
+            windowe.setContent(`<h2>⚠️ Are you sure?</h2><p>This will Show the NSFW Entry link.<br/>You really must be <mark>18+</mark> in order to enter this!<br/><i>Choose your pill wisely!</i> Your mental readiness & mental wellbeing is matter!</p>`);
+            windowe.addFooterBtn('YES', 'tingle-btn tingle-btn--danger', function() {
                 // here goes some logic
+                document.getElementById('daNSFWLinkLol').style.display = 'block';
+                document.getElementById('chooseYourPillLol').style.display = 'none';
+                windowe.close();
+            });
+            windowe.addFooterBtn('NO', 'tingle-btn tingle-btn--default tingle-btn--pull-right', function() {
+                // here goes some logic
+                document.getElementById('daNSFWLinkLol').style.display = 'none';
+                document.getElementById('chooseYourPillLol').style.display = 'block';
                 windowe.close();
             });
             windowe.open();
         }
     </script>
-    <!-- <p><a href="javascript:showNSFWLinkPls()">Show Link</a></p> -->
-    <p id="daNSFWLinkLol"><a href="enterNSFW">Enter</a></p>
+    <p id="chooseYourPillLol">
+        <a title="Show Link" href="javascript:showNSFWLinkPls()">
+            <Icon style="color:saddlebrown;" height="36px" name="ic:baseline-arrow-circle-right" />
+            <Icon style="color:red;" height="36px" name="gg:pill" />
+            <Icon style="color:gray;" height="36px" name="gg:pill" />
+            <Icon style="color:saddlebrown;" height="36px" name="ic:baseline-arrow-circle-left" /></a>
+    </p>
+    <p id="daNSFWLinkLol" style="display:none;"><a href="enterNSFW">Enter</a></p>

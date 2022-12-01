@@ -996,6 +996,36 @@ td {
     color: blue;
 }
 
+.tingle-btn--danger {
+    background-color: darkred;
+    color: white;
+}
+
+.tingle-btn--danger:hover {
+    background-color: red;
+    color: white;
+}
+
+.tingle-btn--danger:active {
+    background-color: yellow;
+    color: blue;
+}
+
+.tingle-btn--default {
+    background-color: darkgray;
+    color: black;
+}
+
+.tingle-btn--default:hover {
+    background-color: gray;
+    color: black;
+}
+
+.tingle-btn--default:active {
+    background-color: cyan;
+    color: blue;
+}
+
 .hoverSection {
     background-color: inherit;
 }
