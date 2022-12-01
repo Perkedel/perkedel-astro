@@ -31,6 +31,23 @@ import { Icon, Sprite } from 'astro-icon';
                 // here goes some logic
                 document.getElementById('daNSFWLinkLol').style.display = 'block';
                 document.getElementById('chooseYourPillLol').style.display = 'none';
+
+                // https://github.com/apvarun/toastify-js
+                // https://apvarun.github.io/toastify-js/#
+                Toastify({
+                    text: 'NSFW door link unlocked!',
+                    class: "nsfwOpenedToast",
+                    duration: 5000,
+                    gravity: "bottom",
+                    position: "left",
+                    escapeMarkup: false,
+                    close: true,
+                    style: {
+                        background: "linear-gradient(to right, #222200, #002222)",
+                    },
+                    onClick: function() {},
+                }).showToast();
+
                 windowe.close();
             });
             windowe.addFooterBtn('NO', 'tingle-btn tingle-btn--default tingle-btn--pull-right', function() {
