@@ -7,7 +7,21 @@ import Emoji from 'astro-emoji';
 import ListCells3DModelSFW from '@components/Elements/SparePart/ListCells3DModelSFW.astro';
 import SoughtAfterCells3DModelsSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsSFW.astro';
 import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DModels.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+    addDescriptions?:string;
+    addKeywords?:string;
+}
+
+const{
+    nsfw=false,
+    addDescriptions='CSS Mania',
+    addKeywords='CSS, crazy, novelty, weird, quirky'
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
+<!-- TODO: migrate this entire page to a new one & with scripts like CSS & Cardiophile -->
 <Layout 
     title="3D Models" 
     description="Perkedel NTLF+ASTR. Blendered 3D Models & Other 3D Models!"
@@ -28,29 +42,7 @@ import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DMod
                 </ul>
                 <PlsReupload3DModels/>
 
-        <h2>Enter the FULL VERSION room, $0 & Permanent</h2>
-            <p class="warning"><b style="font-size:24px;">18+! ONLY</b><br/> Full version room also lists 69420 URLs! Please make sure your biological age is at & above your mature age!<br/>
-                For <i>Homo sapiens</i>, derivatives, & alike, it is <b>18 years old & up</b>.<br/>
-                The entry is intentionally insecure so archivers can easily crawl into it. You're welcome.<br/>
-                However, please have respect. You mental is very important.
-            </p>
-            <script is:inline>
-                function showNSFWLinkPls(){
-                    let windowe = new tingle.modal({
-                        footer: true,
-                        onOpen: function() {
-                            console.log(`URL Info for:\n` + location.href + `\n\nPathname: ` + location.pathname + `\nOrigin: ` + location.origin + `\n`);
-                        },
-                        closeLabel: "Close",
-                    });
-                    windowe.setContent(`<h2>Are you sure?</h2><p>This will Show the NSFW Entry link.<br/>You really must be 18+ in order to enter this!</p>`);
-                    windowe.addFooterBtn('OK', 'tingle-btn tingle-btn--primary', function() {
-                        // here goes some logic
-                        windowe.close();
-                    });
-                    windowe.open();
-                }
-            </script>
-            <!-- <p><a href="javascript:showNSFWLinkPls()">Show Link</a></p> -->
-            <p id="daNSFWLinkLol"><a href="enterNSFW">Enter</a></p>
+        {nsfw?"":
+            <EnterNSFWButton/>
+        }
 </Layout>
