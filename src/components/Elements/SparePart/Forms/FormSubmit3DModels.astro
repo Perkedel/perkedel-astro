@@ -14,20 +14,42 @@
         value="3D Models inquiry from perkedel.netlify.app" /> -->
     <p class="hidden">
         <label>
-          Do not fill this out if you are human, good-bot, or any good-being: <input name="bot-field" />
+          Do not fill this out if you are human, good-bot, or any good-being: <input id="bot-field" name="bot-field" />
         </label>
     </p>
-    <p><label>Your Username (Any name you'd like): <input type="text" name="name" /></label></p>
+    <p class="info">Tips: Be sure to use <a href="http://odysee.com/$/invite/@JOELwindows7" target="_blank" rel="noopener noreferrer">Odysee</a> to upload huge 3D models instead!</p>
     <p>
-        <label>URLs & Keys: <textarea name="message"></textarea></label>
+        <label for="name">Your Username (Any name you'd like, or <code>anonymous</code>):<br/>  </label>
+        <input type="text" id="name" name="name" />
+    </p>
+    <p>
+        <label for="intelligence">URLs & Keys:</label><br/> 
+        <textarea id="intelligence" required name="intelligence"></textarea>
     </p>
     <p>
         <label>
-          <span>Add file (8 MB max):</span>
-          <input name="file" type="file"/>
+          <span>Add files (8 MB max):</span><br/>
+          <input required id="file" name="file" type="file"/><br/>
+          <input id="file2" name="file2" type="file"/><br/>
+          <input id="file3" name="file3" type="file"/><br/>
+          <input id="file4" name="file4" type="file"/><br/>
+          <input id="file5" name="file5" type="file"/><br/>
+          <input id="file6" name="file6" type="file"/><br/>
+          <input id="file7" name="file7" type="file"/><br/>
+          <input id="file8" name="file8" type="file"/><br/>
+          <input id="file9" name="file9" type="file"/><br/>
+          <input id="file10" name="file10" type="file"/><br/>
         </label>
     </p>
     <div data-netlify-recaptcha="true"></div>
+    <p style="font-size:.5em;">
+        By submitting, you are agree with our 
+        <a href="/terms_of_service" target="_blank" rel="noopener noreferrer">terms</a> & 
+        <a href="/privacy_policy" target="_blank" rel="noopener noreferrer">privacy policy</a>.<br/>
+        <mark class="warning">Additionally, you cannot request for deletion of the files & URLs you've uploaded</mark>. 
+        Only delete non-anonymous names (Not recommended, this may cause plagiarism accusations even name delete explicitly stated).
+    </p>
     <p><button type="submit">Send</button></p>
+    <p style="font-size:.25em;">Form submission powered by Netlify</p>
     <p class="result"></p>
 </form>
