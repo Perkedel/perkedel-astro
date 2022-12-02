@@ -812,16 +812,6 @@ dropbtn a:visited:hover,
     font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
-.samp {
-    /* https://www.w3schools.com/tags/tag_samp.asp */
-    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
-}
-
-.kbd {
-    /* https://www.w3schools.com/tags/tag_kbd.asp */
-    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
-}
-
 
 /*WHY THE PECK YOU DON'T SAY?!?!??!
   https://www.w3schools.com/tags/tag_code.asp
@@ -831,6 +821,19 @@ dropbtn a:visited:hover,
 code {
     /*https://www.w3schools.com/css/css_font.asp*/
     /*https://www.w3schools.com/tags/tag_font.asp*/
+    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+}
+
+samp {
+    /* https://www.w3schools.com/tags/tag_samp.asp */
+    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+}
+
+kbd {
+    /* https://www.w3schools.com/tags/tag_kbd.asp */
+    border-radius: 2px;
+    padding: 2px;
+    border: 1px solid;
     font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
