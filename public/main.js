@@ -211,7 +211,7 @@ class daBackTopTopButton extends HTMLElement {
 }
 
 // PLS PUT HERE INSTEAD
-function fallbackCopyTextToClipboard(text) {
+function fallbackCopyTextToClipboard(text, withNotification = false, contextSay = 'text') {
     var textArea = document.createElement("textarea");
     textArea.value = text;
 
@@ -227,23 +227,53 @@ function fallbackCopyTextToClipboard(text) {
     try {
         var successful = document.execCommand('copy');
         var msg = successful ? 'successful' : 'unsuccessful';
-        console.log('Fallback: Copying text command was ' + msg);
+        console.log('Fallback: Copying text command for ' + contextSay + ' `' + thing + '` was ' + msg);
+        if (withNotification) {
+            Toastify({
+                text: 'Copied the ' + contextSay + ' \`<code>' + text + '</code>\` to clipboard',
+                class: "copySuccessToast",
+                duration: 5000,
+                gravity: "bottom",
+                position: "left",
+                escapeMarkup: false,
+                close: true,
+                style: {
+                    background: "linear-gradient(to right, #000022, #002222)",
+                },
+                onClick: function() {},
+            }).showToast();
+        }
     } catch (err) {
-        console.error('Fallback: Oops, unable to copy', err);
+        console.error('Fallback: Oops, unable to copy ' + contextSay + ' `' + thing + '`', err);
+        if (withNotification) {
+            Toastify({
+                text: 'Failed to Copy the ' + contextSay + ' \`<code>' + text + '</code>\` to clipboard',
+                class: "copyFailToast",
+                duration: 5000,
+                gravity: "bottom",
+                position: "left",
+                escapeMarkup: false,
+                close: true,
+                style: {
+                    background: "linear-gradient(to right, #FF0000, #002222)",
+                },
+                onClick: function() {},
+            }).showToast();
+        }
     }
 
     document.body.removeChild(textArea);
 }
 
 // function plsCopyThe(thing){
-function plsCopyThe(thing) {
+function plsCopyThe(thing, withNotification = false, contextSay = 'text') {
 
     // to clipboard pls
     // Get the text field
     // var thing = location.href;
 
     if (!navigator.clipboard) {
-        fallbackCopyTextToClipboard(thing);
+        fallbackCopyTextToClipboard(thing, withNotification, contextSay);
         return;
     }
 
@@ -254,15 +284,46 @@ function plsCopyThe(thing) {
     // // Copy the text inside the text field
     // navigator.clipboard.writeText(thing.value);
     navigator.clipboard.writeText(thing).then(function() {
-        console.log('Async: Copied the `' + thing + '`');
+        console.log('Async: Copied the ' + contextSay + ' `' + thing + '`');
+        if (withNotification) {
+            Toastify({
+                text: 'Copied the ' + contextSay + ' \`<code>' + thing + '</code>\` to clipboard',
+                class: "copySuccessToast",
+                duration: 5000,
+                gravity: "bottom",
+                position: "left",
+                escapeMarkup: false,
+                close: true,
+                style: {
+                    background: "linear-gradient(to right, #000022, #002222)",
+                },
+                onClick: function() {},
+            }).showToast();
+        }
+
     }, function(err) {
-        console.error('WERROR: Async: Could not copy text `' + thing + '`: ', err);
+        console.error('WERROR: Async: Could not copy ' + contextSay + ' `' + thing + '`: ', err);
+        if (withNotification) {
+            Toastify({
+                text: 'Failed to Copy the ' + contextSay + ' \`<code>' + thing + '</code>\` to clipboard',
+                class: "copyFailToast",
+                duration: 5000,
+                gravity: "bottom",
+                position: "left",
+                escapeMarkup: false,
+                close: true,
+                style: {
+                    background: "linear-gradient(to right, #FF0000, #002222)",
+                },
+                onClick: function() {},
+            }).showToast();
+        }
     });
 
 }
 
 function plsCopyTheURL() {
-    plsCopyThe(location.href);
+    plsCopyThe(location.href, false, 'URL');
     // https://github.com/apvarun/toastify-js
     // https://apvarun.github.io/toastify-js/#
     Toastify({
@@ -289,7 +350,16 @@ function URLInfoPls() {
         },
         closeLabel: "Close",
     });
-    windowe.setContent(`<h2>URL Info</h2><p><b style="color:cyan;">` + location.href + `</b><br/><br/>Pathname: <b style="color:cyan;">` + location.pathname + `</b><br/>Origin: <b style="color:cyan;">` + location.origin + `</b><br/></p>`);
+    // windowe.setContent(`<h2>URL Info</h2><p><b style="color:cyan;"><code>` + location.href + `</code></b><br/><br/>Pathname: <b style="color:cyan;"><code>` + location.pathname + `</code></b><br/>Origin: <b style="color:cyan;"><code>` + location.origin + `</code></b><br/></p>`);
+    windowe.setContent(`
+        <h2>URL Info</h2>
+        <p>
+            <b style="color:cyan;">` + location.href + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.href + `',true,'URL')" id="copyURLButton" title="Copy URL">&#xf68e;</button>
+            <br/>
+            <br/>
+            Pathname: <b style="color:cyan;">` + location.pathname + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.pathname + `',true,'Pathname')" id="copyPathnameButton" title="Copy Pathname">&#xf68e;</button>  <br/>
+            Origin: <b style="color:cyan;">` + location.origin + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.origin + `',true,'Origin URL')" id="copyOriginButton" title="Copy Origin">&#xf68e;</button><br/>
+        </p>`);
     windowe.addFooterBtn('OK', 'tingle-btn tingle-btn--primary', function() {
         // here goes some logic
         windowe.close();

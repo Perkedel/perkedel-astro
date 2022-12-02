@@ -28,6 +28,12 @@ https://nerdfonts.com
 
 /*WHY THE PECK WON'T YOU SAVE?!?!??!?!?!?!??!?!?!*/
 
+:root {
+    /* https://youtu.be/nQzRTsjBXfQ */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme */
+    color-scheme: light dark;
+}
+
 
 /*
         Focus Visible Polyfill!
@@ -944,7 +950,7 @@ kbd {
 
 .feed-title {
     font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
+    /* color: white; */
 }
 
 .feed-desc {}
@@ -1051,6 +1057,44 @@ td {
     background-color: blue;
 }
 
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme */
+
+@media(prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+
+@media(prefers-color-scheme: light) {
+    header {
+        background-color: rgb(137, 255, 255);
+        color: white;
+    }
+    body {
+        background-color: white;
+        color: black;
+        scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189);
+    }
+    .tingle-modal-box {
+        background: rgb(101, 100, 107);
+        color: black;
+    }
+    .tingle-modal-box__footer {
+        background: rgb(54, 47, 255);
+        color: black;
+    }
+     ::-webkit-scrollbar-track {
+        background: rgb(171, 171, 222);
+        background: rgba(171, 171, 222, .25);
+    }
+     ::-webkit-scrollbar-thumb {
+        background: rgb(0, 0, 189);
+        background: rgba(0, 0, 189, .8);
+    }
+}
+
 @media only screen and (max-width: 700px) {
     .ListGalleryStyle {
         width: 49.99999%;
@@ -1112,6 +1156,9 @@ td {
         width: 100%;
     }
 }
+
+
+/* } */
 
 
 /* } */

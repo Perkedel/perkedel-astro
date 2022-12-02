@@ -59,6 +59,8 @@ export interface Props {
   twitterSite?:string;
   twitterCard?:string;
   themeColor?:string;
+  themeColorLight?:string;
+  colorScheme?:string;
   ejectClarity?:boolean;
   hideInfo?:boolean;
 }
@@ -124,6 +126,8 @@ const {
   twitterSite = twitterAuthor,
   twitterCard = 'summary_large_image' ,
   themeColor = '#0000aa',
+  themeColorLight = '#0000ff',
+  colorScheme = 'light dark',
   ejectClarity = false,
   hideInfo = false,
 // } = Astro.props as Props;
@@ -140,7 +144,9 @@ const {
   <!-- <meta name="keywords" content="tech, fun, novelty, open source, gratis, free"> -->
   <!-- <meta name="author" content="JOELwindows7"> -->
   <meta name="generator" content={Astro.generator} />
-  <meta name="theme-color" media="(prefers-color-scheme:dark)" content={themeColor} />
+  <!-- <meta name="theme-color" content={themeColor} /> -->
+  <!-- <meta name="theme-color" media="(prefers-color-scheme:dark)" content={themeColor} />
+  <meta name="theme-color" media="(prefers-color-scheme:light)" content={themeColorLight} /> -->
 
   <link rel="icon" type="image/x-icon" href={favIcon} />
   <!-- Tingle's CSS pls -->
@@ -256,7 +262,10 @@ const {
           { name: "keywords", content: keywords },
           { name: "author", content: author },
           { name: "rating", content: rating },
+          { name: "theme-color", content: themeColor },
           { name: "theme-color", media:"(prefers-color-scheme:dark)", content: themeColor },
+          { name: "theme-color", media:"(prefers-color-scheme:light)", content: themeColorLight },
+          { name: "color-scheme", content: colorScheme },
           
           // Google
         ],
