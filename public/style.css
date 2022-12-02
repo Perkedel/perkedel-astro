@@ -1057,6 +1057,14 @@ td {
     background-color: blue;
 }
 
+.hidden {
+    /* https://www.w3schools.com/tags/att_global_hidden.asp
+    alternate to `hidden` attribute as in <p hidden></p>
+    to trap & bamboozle stupid-bad-bot
+    */
+    display: none;
+}
+
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme */
 
@@ -1156,6 +1164,9 @@ td {
         width: 100%;
     }
 }
+
+
+/* } */
 
 
 /* } */

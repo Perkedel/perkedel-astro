@@ -1,0 +1,33 @@
+---
+---
+<!-- PUT ONLY IN NSFW ONLY! -->
+<!-- https://docs.netlify.com/forms/setup -->
+<!-- https://docs.netlify.com/forms/spam-filters/ -->
+<form 
+    name="3DmodelSubmit" 
+    method="POST" 
+    netlify-honeypot="bot-field"
+    data-netlify-recaptcha="true"
+    data-netlify="true"
+    >
+    <!-- <input type="hidden" name="subject" 
+        value="3D Models inquiry from perkedel.netlify.app" /> -->
+    <p class="hidden">
+        <label>
+          Do not fill this out if you are human, good-bot, or any good-being: <input name="bot-field" />
+        </label>
+    </p>
+    <p><label>Your Username (Any name you'd like): <input type="text" name="name" /></label></p>
+    <p>
+        <label>URLs & Keys: <textarea name="message"></textarea></label>
+    </p>
+    <p>
+        <label>
+          <span>Add file (8 MB max):</span>
+          <input name="file" type="file"/>
+        </label>
+    </p>
+    <div data-netlify-recaptcha="true"></div>
+    <p><button type="submit">Send</button></p>
+    <p class="result"></p>
+</form>
