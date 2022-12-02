@@ -8,41 +8,7 @@ import ListCells3DModelSFW from '@components/Elements/SparePart/ListCells3DModel
 import SoughtAfterCells3DModelsSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsSFW.astro';
 import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DModels.astro';
 import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
-
-export interface Props{
-    nsfw?:Boolean;
-    addDescriptions?:string;
-    addKeywords?:string;
-}
-
-const{
-    nsfw=false,
-    addDescriptions='CSS Mania',
-    addKeywords='CSS, crazy, novelty, weird, quirky'
-} = Astro.props.frontmatter || Astro.props as Props;
+import ThreeDModels from '@components/Page/3DModels.astro';
 ---
-<!-- TODO: migrate this entire page to a new one & with scripts like CSS & Cardiophile -->
-<Layout 
-    title="3D Models" 
-    description="Perkedel NTLF+ASTR. Blendered 3D Models & Other 3D Models!"
-    keywords="tech, fun, novelty, open source, gratis, free, 3D, models, blender, free 3d models, blend"
-    >
-    <h1>3D Models Pls (LITE VERSION)</h1>
-        <p>Blender, FBX, Humanoids, Sculpts, etc.</p>
-        <h2>What to do?</h2>
-            <h3 class="success">Available Now</h3>
-                <p>Models that are available right now</p>
-                <ul>
-                    <ListCells3DModelSFW/>
-                </ul>
-            <h3 class="error">Wanted 3D Models</h3>
-                <p>Models that are <b>gone</b> & are <b>wanted right now</b></p>
-                <ul>
-                    <SoughtAfterCells3DModelsSFW/>
-                </ul>
-                <PlsReupload3DModels/>
-
-        {nsfw?"":
-            <EnterNSFWButton/>
-        }
-</Layout>
+<!-- DONE: migrate this entire page to a new one & with scripts like CSS & Cardiophile -->
+<ThreeDModels nsfw={false}/>

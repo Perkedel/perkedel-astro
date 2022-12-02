@@ -1,0 +1,54 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import ListCells3DModelSFW from '@components/Elements/SparePart/ListCells3DModelSFW.astro';
+import ListCells3DModelNSFW from '@components/Elements/SparePart/ListCells3DModelNSFW.astro';
+import SoughtAfterCells3DModelsSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsSFW.astro';
+import SoughtAfterCells3DModelsNSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsNSFW.astro';
+import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DModels.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+    addDescriptions?:string;
+    addKeywords?:string;
+}
+
+const{
+    nsfw=false,
+    addDescriptions='3D Models',
+    addKeywords='3D, models, blender, free 3d models, blend, 3d modeling, modeling'
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- TODO: migrate this entire page to a new one & with scripts like CSS & Cardiophile -->
+<Layout 
+    title="3D Models" 
+    description="Perkedel NTLF+ASTR. Blendered 3D Models & Other 3D Models!"
+    keywords="tech, fun, novelty, open source, gratis, free, 3D, models, blender, free 3d models, blend"
+    author="JOELwindows7"
+    rating={(nsfw?"adult":"")}
+    >
+    <h1>3D Models Pls ({nsfw?"FULL":"LITE"} VERSION)</h1>
+        <p>Blender, FBX, Humanoids, Sculpts, etc.</p>
+        <h2>What to do?</h2>
+            <h3 class="success">Available Now</h3>
+                <p>Models that are available right now</p>
+                <ul>
+                    <ListCells3DModelSFW/>
+                    {nsfw?<ListCells3DModelNSFW/>:""}
+                </ul>
+            <h3 class="error">Wanted 3D Models</h3>
+                <p>Models that are <b>gone</b> & are <b>wanted right now</b></p>
+                <ul>
+                    <SoughtAfterCells3DModelsSFW/>
+                    {nsfw?<SoughtAfterCells3DModelsNSFW/>:""}
+                </ul>
+                <PlsReupload3DModels/>
+
+        {nsfw?"":
+            <EnterNSFWButton/>
+        }
+</Layout>
