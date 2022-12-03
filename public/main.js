@@ -458,7 +458,8 @@ function regenerateWord(includeNSFW = false) {
         })() :
         daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
     // document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
-    console.log("Generate with " + (includeNSFW ? "NSFW" : "SFW") + ": \n" + daWordOfIt);
+    // console.log("Generate with " + (includeNSFW ? "NSFW" : "SFW") + ": \n" + daWordOfIt);
+    // console.log("Generate with " + (includeNSFW ? "NSFW" : "SFW") + ": \n" + htmlSelectred);
     document.getElementById('generateWord').innerHTML = htmlSelectred;
 }
 
