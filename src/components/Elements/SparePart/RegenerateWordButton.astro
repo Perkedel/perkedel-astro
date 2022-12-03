@@ -1,4 +1,14 @@
 ---
+export interface Props{
+    nsfw?:Boolean;
+    addDescriptions?:string;
+    addKeywords?:string;
+}
 
+const{
+    nsfw=false,
+    addDescriptions='CSS Mania',
+    addKeywords='CSS, crazy, novelty, weird, quirky'
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
-<button onclick="regenerateWord()" id="RegenerateWordButton" class="SpecialityButton" title="Reselect the sentence from the generateWord JSON file">Regenerate</button> 
+<button onclick='regenerateWord(nsfw)' id={"RegenerateWordButton"} class="SpecialityButton" title="Reselect the sentence from the generateWord JSON file">Regenerate</button> 

@@ -3,6 +3,18 @@
 import { LocalTime, TimeAgo } from '@astro-github-elements/time';
 import PerkedelIcon from './Icons/PerkedelIcon.astro'
 import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+    addDescriptions?:string;
+    addKeywords?:string;
+}
+
+const{
+    nsfw=false,
+    addDescriptions='CSS Mania',
+    addKeywords='CSS, crazy, novelty, weird, quirky'
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- FOOTER -->
 <footer>

@@ -394,6 +394,7 @@ function getJSONP(url, success) {
 
 let kludgeringDatasoid;
 let daWordOfIt = [];
+let daWordOfItNSFW = [];
 
 
 
@@ -441,9 +442,19 @@ let miniGenWord = [
 // console.log(kludgeringDatasoid);
 
 
-function regenerateWord() {
+function regenerateWord(includeNSFW = false) {
+    // https://stackoverflow.com/a/36756480/9079640
+    htmlSelectred = includeNSFW ? () => {
+            switch (Math.random() > .5) {
+                case true:
+                    return daWordOfItNSFW[Math.floor(Math.random() * daWordOfItNSFW.length)];
+                case false:
+                    return daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
+            }
+        } :
+        daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
     // document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
-    document.getElementById('generateWord').innerHTML = daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
+    document.getElementById('generateWord').innerHTML = htmlSelectred;
 }
 
 function miniGenerate() {
@@ -456,7 +467,7 @@ function miniGenerate() {
 //         console.log(daWord);
 //     });
 // });
-function getJSONF(url, kludgeGenerateWord = false) {
+function getJSONF(url, kludgeGenerateWord = false, kludgeIncludeNSFW = true) {
     // https://www.telerik.com/blogs/what-is-json-how-to-handle-unexpected-token-error
     // https://youtu.be/C3dfjyft_m4
     // fetch(url, {
@@ -482,6 +493,7 @@ function getJSONF(url, kludgeGenerateWord = false) {
             console.log(data);
             kludgeringDatasoid = data;
             daWordOfIt = data.daWord;
+            daWordOfItNSFW = kludgeIncludeNSFW ? data.daWordNSFW : [];
             // return data;
             if (kludgeGenerateWord)
                 regenerateWord();
@@ -491,7 +503,7 @@ function getJSONF(url, kludgeGenerateWord = false) {
 // getJSONF('/generateWord.json').then(data => {
 //     regenerateWord();
 // });
-getJSONF('/assets/json/funnyWords/generateWord.json', true);
+getJSONF('/assets/json/funnyWords/generateWord.json', true, true);
 // regenerateWord();
 
 

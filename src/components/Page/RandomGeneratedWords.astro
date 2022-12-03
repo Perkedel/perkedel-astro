@@ -1,0 +1,105 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import ListCellsCardiophileSFW from '@components/Elements/SparePart/ListCellsCardiophileSFW.astro';
+import ListCellsCardiophileNSFW from '@components/Elements/SparePart/ListCellsCardiophileNSFW.astro';
+import ListCellsCSSSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSSFW.astro';
+import ListCellsCSSNSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSNSFW.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+    addDescriptions?:string;
+    addKeywords?:string;
+}
+
+const{
+    nsfw=false,
+    addDescriptions='CSS Mania',
+    addKeywords='JS, random, math random, randomized, shuffle'
+} = Astro.props.frontmatter || Astro.props as Props;
+
+let daWordOfIt:Array<string> = [];
+let daWordOfItNSFW:Array<string> = [];
+
+function getJSONF(url="", kludgeGenerateWord = false, kludgeIncludeNSFW = true) {
+    // https://www.telerik.com/blogs/what-is-json-how-to-handle-unexpected-token-error
+    // https://youtu.be/C3dfjyft_m4
+    // fetch(url, {
+    //     method: `GET`,
+    //     headers: {
+    //         "Content-Type": `application/json`,
+    //     }
+    // }).then(async response => {
+    //     try {
+    //         const data = await response.json();
+    //         console.log('response data?', data);
+    //         kludgeringDatasoid = data;
+    //         return data;
+    //     } catch (error) {
+    //         console.log('Error happened here!');
+    //         console.error(error);
+    //         return null;
+    //     }
+    // });
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            kludgeringDatasoid = data;
+            daWordOfIt = data.daWord;
+            daWordOfItNSFW = data.daWordNSFW;
+            // return data;
+            if (kludgeGenerateWord)
+                regenerateWord();
+            // idk how to pause that function above until these here complete.
+        });
+}
+getJSONF('/assets/json/funnyWords/generateWord.json', true, nsfw);
+---
+<Layout
+    title={"CSS Mania" + (nsfw?" NSFW🥵":"")}
+    description={"Perkedel NTLF+ASTR. " + addDescriptions}
+    keywords={"tech, fun, novelty, open source, gratis, free, " + addKeywords}
+    author="JOELwindows7"
+    rating={(nsfw?"adult":"")}
+    >
+    <h1>Randomly Generated Words ({nsfw?"69420":"SFW"} VERSION)</h1>
+        <p>
+            Randomly Selected sentence is installed at the bottom of this HTML.<br/>
+            click <code>Regenerate</code> to get new sentence!
+        </p>
+        <h2>List of Words</h2>
+            <ul>
+                {
+                    daWordOfIt.map(
+                    word=>(
+                        <li set:html={word}/>
+                    )
+                )
+                }
+                {nsfw?
+                    daWordOfItNSFW.map(
+                        word=>(
+                            <li set:html={word}/>
+                        )
+                    )
+                :""}
+            </ul>
+        {nsfw?"":
+            <EnterNSFWButton/>
+        }
+        <hr/>
+        <h2>Now go ahead & try below!</h2>
+            <p>Yes, it works! try it!</p>
+        
+</Layout>
