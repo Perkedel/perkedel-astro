@@ -108,7 +108,7 @@ const {
   viewSourceURL = doViewSource,
   noIndex = false,
   noFollow = false,
-  rating,
+  rating = '',
   favIcon ='/favicon.ico',
   favIconType ='image/x-icon',
   favIconAlt ='/favicon.gif',
@@ -313,7 +313,8 @@ const {
   <BackToTopButton/>
   
   <!-- FOOTER -->
-  <Footering rating={rating} nsfw={rating.includes('adult')}/>
+  <!-- <Footering rating={rating} nsfw={rating.includes('adult')}/> -->
+  <Footering rating={rating}/>
 
   <!-- SCRIPT FINALLY -->
   <!-- Toastify https://apvarun.github.io/toastify-js/ -->
