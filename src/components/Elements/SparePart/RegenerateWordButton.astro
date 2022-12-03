@@ -11,4 +11,4 @@ const{
     addKeywords='CSS, crazy, novelty, weird, quirky'
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<button onclick='regenerateWord(nsfw)' id={"RegenerateWordButton"} class="SpecialityButton" title="Reselect the sentence from the generateWord JSON file">Regenerate</button> 
+<button onclick={'regenerateWord('+nsfw+')'} id={"RegenerateWordButton"} class="SpecialityButton" title="Reselect the sentence from the generateWord JSON file">Regenerate</button> 

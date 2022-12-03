@@ -444,16 +444,21 @@ let miniGenWord = [
 
 function regenerateWord(includeNSFW = false) {
     // https://stackoverflow.com/a/36756480/9079640
-    htmlSelectred = includeNSFW ? () => {
+    htmlSelectred = includeNSFW ? (() => {
             switch (Math.random() > .5) {
                 case true:
-                    return daWordOfItNSFW[Math.floor(Math.random() * daWordOfItNSFW.length)];
+                    {
+                        return daWordOfItNSFW[Math.floor(Math.random() * daWordOfItNSFW.length)];
+                    }
                 case false:
-                    return daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
+                    {
+                        return daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
+                    }
             }
-        } :
+        })() :
         daWordOfIt[Math.floor(Math.random() * daWordOfIt.length)];
     // document.getElementById('generateWord').innerHTML = daWord[Math.floor(Math.random() * daWord.length)];
+    console.log("Generate with " + (includeNSFW ? "NSFW" : "SFW") + ": \n" + daWordOfIt);
     document.getElementById('generateWord').innerHTML = htmlSelectred;
 }
 

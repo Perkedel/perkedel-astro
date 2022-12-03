@@ -15,6 +15,7 @@ import ListCellsCardiophileSFW from '@components/Elements/SparePart/ListCellsCar
 import ListCellsCardiophileNSFW from '@components/Elements/SparePart/ListCellsCardiophileNSFW.astro';
 import ListCellsCSSSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSSFW.astro';
 import ListCellsCSSNSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSNSFW.astro';
+import generateWord from '@assets/json/funnyWords/generateWord.json';
 
 export interface Props{
     nsfw?:Boolean;
@@ -28,43 +29,40 @@ const{
     addKeywords='JS, random, math random, randomized, shuffle'
 } = Astro.props.frontmatter || Astro.props as Props;
 
-let daWordOfIt:Array<string> = [];
-let daWordOfItNSFW:Array<string> = [];
+// https://docs.astro.build/en/guides/data-fetching/
+// const response = await fetch('/assets/json/funnyWords/generateWord.json');
+// const data = await response.json();
 
-function getJSONF(url="", kludgeGenerateWord = false, kludgeIncludeNSFW = true) {
-    // https://www.telerik.com/blogs/what-is-json-how-to-handle-unexpected-token-error
-    // https://youtu.be/C3dfjyft_m4
-    // fetch(url, {
-    //     method: `GET`,
-    //     headers: {
-    //         "Content-Type": `application/json`,
-    //     }
-    // }).then(async response => {
-    //     try {
-    //         const data = await response.json();
-    //         console.log('response data?', data);
-    //         kludgeringDatasoid = data;
-    //         return data;
-    //     } catch (error) {
-    //         console.log('Error happened here!');
-    //         console.error(error);
-    //         return null;
-    //     }
-    // });
-    fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            console.log(data);
-            kludgeringDatasoid = data;
-            daWordOfIt = data.daWord;
-            daWordOfItNSFW = data.daWordNSFW;
-            // return data;
-            if (kludgeGenerateWord)
-                regenerateWord();
-            // idk how to pause that function above until these here complete.
-        });
-}
-getJSONF('/assets/json/funnyWords/generateWord.json', true, nsfw);
+// const data = await fetch('/public/assets/json/funnyWords/generateWord.json').then((response) =>
+//   response.json()
+// );
+
+// let daWordOfItD:Array<string> = data.daWordOfIt;
+// let daWordOfItNSFWD:Array<string> = data.daWordOfIt;
+
+// function getJSONFd(url="", kludgeGenerateWord = false, kludgeIncludeNSFW = true) {
+//     // https://www.telerik.com/blogs/what-is-json-how-to-handle-unexpected-token-error
+//     // https://youtu.be/C3dfjyft_m4
+//     fetch(url)
+//         .then(response => response.json())
+//         .then(data => {
+//             // console.log(data);
+//             kludgeringDatasoid = data;
+//             daWordOfItD = data.daWord;
+//             daWordOfItNSFWD = data.daWordNSFW;
+//             // return data;
+//             if (kludgeGenerateWord)
+//             {
+//                 // regenerateWord();
+//             }
+//             // idk how to pause that function above until these here complete.
+//         });
+// }
+// getJSONFd('/assets/json/funnyWords/generateWord.json', true, nsfw);
+
+// https://stackoverflow.com/questions/73757456/hide-or-show-div-according-data-json-in-astros-component
+// https://stackoverflow.com/a/73757777/9079640
+const {daWord, daWordNSFW} = generateWord;
 ---
 <Layout
     title={"CSS Mania" + (nsfw?" NSFW🥵":"")}
@@ -75,20 +73,37 @@ getJSONF('/assets/json/funnyWords/generateWord.json', true, nsfw);
     >
     <h1>Randomly Generated Words ({nsfw?"69420":"SFW"} VERSION)</h1>
         <p>
+            List of all Random words & promotions in 
+            <!-- TODO: separate JSON file between NSFW & SFW -->
+            {
+                nsfw?
+                <a href="/assets/json/funnyWords/generateWord.json" target="_blank" rel="noopener noreferrer">
+                    <code>/assets/json/funnyWords/generateWord.json</code>
+                    </a>
+                :<code>/assets/json/funnyWords/generateWord.json</code>
+            }
+            .<br/>
             Randomly Selected sentence is installed at the bottom of this HTML.<br/>
-            click <code>Regenerate</code> to get new sentence!
+            click <code>Regenerate</code> to get new sentence!<br/>
+            Additionally, it's here so all links in every promotion if exist definitely got Archived.
         </p>
+
+        <!-- <script is:inline>
+            
+            // getJSONFx('/assets/json/funnyWords/generateWord.json', true, nsfw);
+        </script> -->
+
         <h2>List of Words</h2>
             <ul>
                 {
-                    daWordOfIt.map(
+                    daWord.map(
                     word=>(
                         <li set:html={word}/>
                     )
                 )
                 }
                 {nsfw?
-                    daWordOfItNSFW.map(
+                    daWordNSFW.map(
                         word=>(
                             <li set:html={word}/>
                         )
@@ -100,6 +115,20 @@ getJSONF('/assets/json/funnyWords/generateWord.json', true, nsfw);
         }
         <hr/>
         <h2>Now go ahead & try below!</h2>
-            <p>Yes, it works! try it!</p>
+            <p>Yes, it works! try it! just scroll to very bottom & you'll see text underneath <kbd>Regenerate</kbd> button</p>
+            <p>
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+                <Icon style="color:cyan;" height="36px" name="mdi:chevron-triple-down" />
+            </p>
+<!-- IDEA: Maybe separate the JSON file because you will give the JSON to everyone. 
+    Don't let them whose unready saw those sections!!! -->
         
 </Layout>

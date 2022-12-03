@@ -5,12 +5,14 @@ import PerkedelIcon from './Icons/PerkedelIcon.astro'
 import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astro';
 
 export interface Props{
+  rating?:string;
     nsfw?:Boolean;
     addDescriptions?:string;
     addKeywords?:string;
 }
 
 const{
+  rating="",
     nsfw=false,
     addDescriptions='CSS Mania',
     addKeywords='CSS, crazy, novelty, weird, quirky'
@@ -35,7 +37,7 @@ const{
     </font>
     <p>© Perkedel Technologies, Some Rights Reserved</p>
     <!-- <br/> -->
-    <RegenerateWordButton/>
+    <RegenerateWordButton nsfw={rating.includes('adult') || nsfw}/>
     <p class="generateWord" id="generateWord"></p>
 </footer>
 
