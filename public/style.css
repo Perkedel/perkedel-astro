@@ -29,6 +29,15 @@ https://nerdfonts.com
 /*WHY THE PECK WON'T YOU SAVE?!?!??!?!?!?!??!?!?!*/
 
 :root {
+    /*
+    https://codepen.io/CarlaVamp/pen/JjRNoVo
+    https://github.com/ryanoasis/nerd-fonts#patched-fonts
+    https://www.w3schools.com/css/css_font_google.asp
+    https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css
+    https://github.com/mshaugh/nerdfont-webfonts
+    https://www.nerdfonts.com/
+    */
+    font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
     /* https://youtu.be/nQzRTsjBXfQ */
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme */
     color-scheme: light dark;
@@ -39,6 +48,14 @@ https://nerdfonts.com
     https://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=alias
     */
     cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+    /*
+    https://www.digitalocean.com/community/tutorials/css-scrollbars
+    https://css-tricks.com/almanac/properties/s/scrollbar/
+    */
+    scrollbar-width: thin;
+    /* "auto" or "thin" */
+    scrollbar-color: navy rgb(0, 0, 20);
+    /* scroll thumb and track */
 }
 
 
@@ -96,7 +113,7 @@ body {
     https://github.com/mshaugh/nerdfont-webfonts
     https://www.nerdfonts.com/
     */
-    font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
+    /* font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif; */
     background-color: black;
     color: white;
     /* margin: 0 0 450px; */
@@ -119,9 +136,9 @@ body {
     https://www.digitalocean.com/community/tutorials/css-scrollbars
     https://css-tricks.com/almanac/properties/s/scrollbar/
     */
-    scrollbar-width: thin;
+    /* scrollbar-width: thin; */
     /* "auto" or "thin" */
-    scrollbar-color: navy rgb(0, 0, 20);
+    /* scrollbar-color: navy rgb(0, 0, 20); */
     /* scroll thumb and track */
     /*https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14*/
     /*min-height: 100vh;*/
@@ -1083,6 +1100,9 @@ td {
 }
 
 @media(prefers-color-scheme: light) {
+     :root {
+        scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189);
+    }
     header {
         background-color: rgb(137, 255, 255);
         color: white;
@@ -1090,10 +1110,10 @@ td {
     body {
         background-color: white;
         color: black;
-        scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189);
+        /* scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189); */
     }
     .tingle-modal-box {
-        background: rgb(101, 100, 107);
+        background: rgb(168, 199, 225);
         color: black;
     }
     .tingle-modal-box__footer {
