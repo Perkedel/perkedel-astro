@@ -32,6 +32,13 @@ https://nerdfonts.com
     /* https://youtu.be/nQzRTsjBXfQ */
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme */
     color-scheme: light dark;
+    /*
+    https://www.w3schools.com/cssref/pr_class_cursor.asp
+    https://www.w3schools.com/cssref/css_animatable.asp
+    https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
+    https://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=alias
+    */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
 }
 
 
@@ -107,7 +114,7 @@ body {
     https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
     https://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=alias
     */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default; */
     /*
     https://www.digitalocean.com/community/tutorials/css-scrollbars
     https://css-tricks.com/almanac/properties/s/scrollbar/
