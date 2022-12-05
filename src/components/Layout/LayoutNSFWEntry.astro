@@ -24,11 +24,27 @@ const{
     rating="adult"
     >
     <h1>Are you sure to enter 69420?</h1>
+        <p>You are about to enter 69420 of <b set:html={entering} style="background-color:blue;color:white;font-size:1.5em;"></b></p>
         <p>The following room page contains NSFW 69420!<br/>
             <mark class="warning">Usually, You must be at least 18+ for most beings OR any mature age of your being.</mark>
             Please be responsible, we intentionally do not bring complicated gate meaures<br/>
             so Archivers can crawl into easily<br/>
         </p>
         <p><a href="nsfw" title="Consume the red pill you just picked">enter</a> | <ButtonizedLink href=".." title="throw away the red pill"><span style="font-size:2.2em;font-weight:bolder;">GO BACK</span></ButtonizedLink> </p>
+        <details>
+            <summary>FAQ</summary>
+                <ul>
+                    <li><b>Why not make user account system?</b> Perhaps it's an irony, unecessary, & egregious tempt to store 
+                        somebody personal data just to get it done. 
+                        Afterall, we already have mentioned that we would like to ensure every web archivers can crawl & preserve the latter page easily without disturbances. 
+                        Removing this anonimity will destroy all crawlers that do not have login bearer feature, 
+                        including but not limited to <a href="https://archive.org" target="_blank" rel="noopener noreferrer">Archive.org</a>.<br/>
+                        If in worry, you should instead try & install somekind of parental control extension for your browser that blocks any web pages with <code>rating = "adult"</code> metadata tag.
+                    </li>
+                </ul>
+        </details>
         <slot/>
+        <p>Oh yeah, btw, be sure to <a href="https://web.archive.org/save" target="_blank" rel="noopener noreferrer">Save to Archive this page</a> 
+            & that page there, just in case. thancc cool and good.
+            </p>
 </Layout>
