@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"badge-viewer.badge-links": [
+			["Netlify Status","https://api.netlify.com/api/v1/badges/faf44159-afa6-46d4-b5fe-aac959b44466/deploy-status"]
+		]
+	}
 }
