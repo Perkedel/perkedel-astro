@@ -1089,6 +1089,12 @@ td {
     display: none;
 }
 
+.hoverExpand {}
+
+.URLinfo--sauce {
+    color: cyan;
+}
+
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme */
 
@@ -1107,8 +1113,14 @@ td {
         background-color: rgb(137, 255, 255);
         color: black;
     }
+    header a,
+    header a:visited,
+    header a:hover,
+    header a:hover:visited {
+        color: black;
+    }
     body {
-        background-color: white;
+        background-color: rgb(187, 187, 221);
         color: black;
         /* scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189); */
     }
@@ -1127,6 +1139,9 @@ td {
      ::-webkit-scrollbar-thumb {
         background: rgb(0, 0, 189);
         background: rgba(0, 0, 189, .8);
+    }
+    .URLinfo--sauce {
+        color: blue;
     }
 }
 

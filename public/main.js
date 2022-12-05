@@ -354,11 +354,11 @@ function URLInfoPls() {
     windowe.setContent(`
         <h2>URL Info</h2>
         <p>
-            <b style="color:cyan;">` + location.href + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.href + `',true,'URL')" id="copyURLButton" title="Copy URL">&#xf68e;</button>
+            <b class="URLInfo--sauce">` + location.href + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.href + `',true,'URL')" id="copyURLButton" title="Copy URL">&#xf68e;</button>
             <br/>
             <br/>
-            Pathname: <b style="color:cyan;">` + location.pathname + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.pathname + `',true,'Pathname')" id="copyPathnameButton" title="Copy Pathname">&#xf68e;</button>  <br/>
-            Origin: <b style="color:cyan;">` + location.origin + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.origin + `',true,'Origin URL')" id="copyOriginButton" title="Copy Origin">&#xf68e;</button><br/>
+            Pathname: <b class="URLInfo--sauce">` + location.pathname + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.pathname + `',true,'Pathname')" id="copyPathnameButton" title="Copy Pathname">&#xf68e;</button>  <br/>
+            Origin: <b class="URLInfo--sauce">` + location.origin + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.origin + `',true,'Origin URL')" id="copyOriginButton" title="Copy Origin">&#xf68e;</button><br/>
         </p>`);
     windowe.addFooterBtn('OK', 'tingle-btn tingle-btn--primary', function() {
         // here goes some logic
