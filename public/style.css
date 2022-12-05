@@ -1089,7 +1089,21 @@ td {
     display: none;
 }
 
-.hoverExpand {}
+.hoverExpand {
+    /* https://www.w3schools.com/howto/howto_css_zoom_hover.asp 
+    https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover
+    */
+    transition: transform .2s;
+}
+
+.hoverExpand:hover {
+    -ms-transform: scale(1.5);
+    /* IE 9 */
+    -webkit-transform: scale(1.5);
+    /* Safari 3-8 */
+    transform: scale(1.5);
+    /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
 
 .URLinfo--sauce {
     color: cyan;
