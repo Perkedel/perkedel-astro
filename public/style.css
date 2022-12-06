@@ -1255,6 +1255,9 @@ td {
 
 @media only print {
     /* https://www.w3schools.com/css/css3_mediaqueries.asp */
+    body {
+        background-color: initial;
+    }
     .Buttonnize {
         background-color: default;
         color: default;
@@ -1280,13 +1283,18 @@ td {
     nav a,
     nav a:link,
     nav a:visited {
-        background-color: default;
-        color: default;
+        background-color: initial;
+        color: darkorange;
         border: 2px solid darkblue;
     }
     .ButtonizeListChildrenLinks a {
-        background-color: default;
-        color: default;
+        background-color: initial;
+        color: darkorange;
+        border: 2px solid darkorange;
+    }
+    .ButtonizeListChildrenLinks a:visited {
+        background-color: initial;
+        color: darkorange;
         border: 2px solid darkorange;
     }
 }
