@@ -10,6 +10,7 @@ import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astr
 import NoScriptMsg from './Messages/NoScript.astro';
 import UndefinedCSSCheckers from './Elements/SparePart/UndefinedCSSCheckers.astro';
 import UndefinedCheckers from './Elements/SparePart/UndefinedCheckers.astro';
+import UndefinedCheckersAfter from './Elements/SparePart/UndefinedCheckersAfter.astro';
 import MSClarity from './Elements/SparePart/Spywares/MSClarity.astro';
 // import 'https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'
 // import 'https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'
@@ -337,6 +338,9 @@ const {
 
   <!-- Loud Links https://mahdif.github.io/loud-links/ -->
   <script is:inline src="https://mahdif.github.io/loud-links/js/loudlinks.min.js"></script>
+
+  <!-- Check undefined before our script is run -->
+  <UndefinedCheckersAfter/>
 
   <!-- Lastly, the main -->
   <script is:global src="/main.js"></script>

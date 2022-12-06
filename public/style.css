@@ -1253,6 +1253,29 @@ td {
     }
 }
 
+@media only print {
+    /* https://www.w3schools.com/css/css3_mediaqueries.asp */
+    .Buttonnize {
+        background-color: default;
+        color: default;
+        border: 2px solid darkorange;
+    }
+    .SpecialityButton {
+        background-color: default;
+        /* Set a background color */
+        color: default;
+        border: 2px solid darkblue;
+        border-color: rgba(0, 0, 139, 0.5);
+    }
+    nav a,
+    nav a:link,
+    nav a:visited {
+        background-color: default;
+        color: default;
+        border: 2px solid darkblue;
+    }
+}
+
 
 /* } */
 
