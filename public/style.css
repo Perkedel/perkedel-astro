@@ -1154,6 +1154,16 @@ td {
         background: rgb(0, 0, 189);
         background: rgba(0, 0, 189, .8);
     }
+     ::-webkit-scrollbar-thumb:active {
+        background: greenyellow;
+        background: rgba(136, 255, 0, 0.8);
+    }
+     ::-webkit-scrollbar-corner {
+        background: rgb(71, 142, 0);
+    }
+     ::-webkit-resizer {
+        color: brown;
+    }
     .URLinfo--sauce {
         color: blue;
     }
