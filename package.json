@@ -22,7 +22,6 @@
         "@astrojs/prefetch": "^0.1.0",
         "@astrojs/rss": "^1.0.3",
         "@astrojs/sitemap": "^1.0.0",
-
         "@nanostores/preact": "^0.3.1",
         "@tauri-apps/api": "^1.2.0",
         "@vidstack/player": "^1.6.4",
@@ -42,6 +41,7 @@
         "focus-visible": "^5.2.0",
         "html-midi-player": "^1.5.0",
         "htmx.org": "^1.8.4",
+        "jquery": "^3.6.1",
         "leaflet": "^1.9.3",
         "lit": "^2.4.1",
         "mailtoui": "^1.0.3",

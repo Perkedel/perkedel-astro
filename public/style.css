@@ -9,11 +9,21 @@ https://nerdfonts.com
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
 @import url('https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css');
-@import url('https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css');
-@import url('https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.css');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.css');
-@import url('https://cdn.plyr.io/3.7.3/plyr.css');
+
+/* @import url('https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'); */
+
+
+/* @import url('https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css'); */
+
+
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.css'); */
+
+
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.css'); */
+
+
+/* @import url('https://cdn.plyr.io/3.7.3/plyr.css'); */
+
 
 /* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
    HTML content. To learn how to do something, just try searching Google for questions like
@@ -1109,6 +1119,11 @@ td {
     color: cyan;
 }
 
+.controls {
+    background: darkslategrey;
+    color: white;
+}
+
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme */
 
@@ -1116,9 +1131,6 @@ td {
     body {
         background-color: black;
         color: white;
-    }
-    .controls {
-        color: darkslategrey;
     }
 }
 
@@ -1172,6 +1184,10 @@ td {
     }
     a {
         color: rgb(126, 69, 0);
+    }
+    .controls {
+        background: aquamarine;
+        color: black;
     }
 }
 

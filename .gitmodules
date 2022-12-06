@@ -1,0 +1,3 @@
+[submodule "public/assets/scripts/js/tingle"]
+	path = public/assets/scripts/js/tingle
+	url = https://github.com/robinparisi/tingle.git
