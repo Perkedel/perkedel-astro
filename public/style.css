@@ -1117,6 +1117,9 @@ td {
         background-color: black;
         color: white;
     }
+    .controls {
+        color: darkslategrey;
+    }
 }
 
 @media(prefers-color-scheme: light) {
