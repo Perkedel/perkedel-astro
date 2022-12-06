@@ -13,9 +13,19 @@ import NoScriptMsg from './Messages/NoScript.astro';
 // import '../style/style.css';
 
 // https://github.com/cifkao/html-midi-player/issues/48
-import { PianoRollSVGVisualizer } from '@magenta/music/esm/core.js'; // 
+// import { PianoRollSVGVisualizer } from '@magenta/music/esm/core.js'; // 
+// import '@magenta/music/esm/core.js'; // 
 // import 'html-midi-player';
 // import Midi from '@components/Elements/MidiPlayer.astro';
+
+// HTMX https://htmx.org
+import "/node_modules/htmx.org/dist/htmx.min.js";
+
+// Tingle https://tingle.robinparisi.com/
+import "/node_modules/tingle.js/dist/tingle.min.js";
+
+// NoUISlider https://refreshless.com/nouislider/
+import "/node_modules/nouislider/dist/nouislider.min.js";
 
 // https://www.vidstack.io/docs/player/getting-started/quickstart/audio.html#select-media-provider
 import '@vidstack/player/define/vds-media.js';
@@ -179,15 +189,15 @@ const {
 
   <!-- HTMX https://htmx.org -->
   <!-- <script is:inline src="/node_modules/htmx.org/dist/htmx.min.js"></script> -->
-  <script is:inline src="https://unpkg.com/htmx.org@1.8.4"></script>
+  <!-- <script is:inline src="https://unpkg.com/htmx.org@1.8.4"></script> -->
 
   <!-- Tingle https://tingle.robinparisi.com/ -->
   <!-- <script is:inline src="/node_modules/tingle.js/dist/tingle.min.js"></script> -->
-  <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.js"></script>
+  <!-- <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.js"></script> -->
 
   <!-- NoUISlider https://refreshless.com/nouislider/ -->
   <!-- <script is:inline src="/node_modules/nouislider/dist/nouislider.min.js"></script> -->
-  <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.js"></script>
+  <!-- <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.js"></script> -->
 
   <!-- plyr (Deprecated, use Vidstack!) https://github.com/sampotts/plyr -->
   <script is:inline src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js"></script>
