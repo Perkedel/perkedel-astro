@@ -1267,12 +1267,27 @@ td {
         border: 2px solid darkblue;
         border-color: rgba(0, 0, 139, 0.5);
     }
+    #backTopButton {
+        background-color: default;
+        /* Set a background color */
+        color: default;
+        border: 2px solid darkblue;
+        border-color: rgba(0, 0, 139, 0.5);
+    }
+    nav {
+        position: static;
+    }
     nav a,
     nav a:link,
     nav a:visited {
         background-color: default;
         color: default;
         border: 2px solid darkblue;
+    }
+    .ButtonizeListChildrenLinks a {
+        background-color: default;
+        color: default;
+        border: 2px solid darkorange;
     }
 }
 
