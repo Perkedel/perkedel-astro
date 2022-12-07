@@ -711,8 +711,8 @@ a.Buttonnize.Dangerous:visited:hover:active {
 }
 
 .Spoiler:hover {
-    background-color: black;
-    color: white;
+    background-color: inherit;
+    color: inherit;
 }
 
 
@@ -1398,9 +1398,11 @@ https://youtu.be/T33NN_pPeNI
         transition: none;
         opacity: 1;
         filter: blur(0);
+        transform: translateX(0);
     }
     .showScroll {
         opacity: 1;
+        transform: translateX(0);
     }
     .fromSideScroll {
         transform: translateX(0);
@@ -1414,6 +1416,7 @@ https://youtu.be/T33NN_pPeNI
     .hiddenScroll {
         transition: none;
         filter: blur(0);
+        transform: translateX(0);
     }
     .fromSideScroll {
         transform: translateX(0);
