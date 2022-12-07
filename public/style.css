@@ -1193,6 +1193,17 @@ https://youtu.be/T33NN_pPeNI
 }
 
 
+/* AstroIcon */
+
+#astroIconLight {
+    display: none;
+}
+
+#astroIconDark {
+    display: inherit;
+}
+
+
 /* MEDIA PLS!!!! */
 
 
@@ -1265,6 +1276,12 @@ https://youtu.be/T33NN_pPeNI
     .controls {
         background: aquamarine;
         color: black;
+    }
+    #astroIconLight {
+        display: inherit;
+    }
+    #astroIconDark {
+        display: none;
     }
 }
 
