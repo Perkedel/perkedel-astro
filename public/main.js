@@ -558,7 +558,7 @@ const scrollObverser = new IntersectionObserver((entried) => {
         }
     });
 });
-const hiddenScrollers = document.querySelectorAll('.hiddenScroll');
+const hiddenScrollers = document.querySelectorAll('.hideScroll');
 hiddenScrollers.forEach((hiddenScroller) => { scrollObverser.observe(hiddenScroller); });
 
 
