@@ -1151,7 +1151,7 @@ https://youtu.be/T33NN_pPeNI
     transform: translateX(0);
 }
 
-.fromSideScroll {
+.fromLeftSideScroll {
     transform: translateX(-100);
 }
 
