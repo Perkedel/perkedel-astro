@@ -257,6 +257,7 @@
                     </font>
                     <!-- <p>© Perkedel Technologies, Some Rights Reserved</p> -->
                     <p><xsl:value-of select="/rss/channel/copyright" /></p>
+                    <button onclick='regenerateWord(false)' id="RegenerateWordButton" class="SpecialityButton" title="Reselect the sentence from the generateWord JSON file">Regenerate</button>
                     <p class="generateWord" id="generateWord"></p>
                 </footer>
 
