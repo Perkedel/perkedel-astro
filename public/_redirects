@@ -4,6 +4,18 @@
 # Additionally, it provides correction in event of URL mistype,
 # as well as short linking.
 
+# Privacy Policy
+/privacy /privacy_policy
+/privacies /privacy_policy
+/privacy_policies /privacy_policy
+
+# Terms of Service
+/terms /terms_of_service
+/term /terms_of_service
+/term_of_service /terms_of_service
+/term_of_services /terms_of_service
+/terms_of_services /terms_of_service
+
 # Discord Bouncing Videos
 /discord_bouncing_videos /apps/discord_bouncing_video
 /apps/discord_bouncing_videos /apps/discord_bouncing_video
