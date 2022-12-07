@@ -1,13 +1,24 @@
 ---
 import PerkedelWoosie from './Icons/PerkedelWoosie.astro';
 import NavBar from './Elements/NavBar.astro';
+import { Icon, Sprite } from 'astro-icon';
 export interface Props {
   viewSourceURL?: string;
+  rating?:string;
+    nsfw?:Boolean;
+    addDescriptions?:string;
+    addKeywords?:string;
 }
 // let currJustAddr = 'https://perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let currJustAddr = Astro.url.origin+'/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let doViewSource = 'view-source:' + currJustAddr;
-const {viewSourceURL = doViewSource} = Astro.props as Props;
+const {
+  viewSourceURL = doViewSource,
+  rating="",
+    nsfw=false,
+    addDescriptions='',
+    addKeywords='',
+  } = Astro.props as Props;
 ---
 <!-- HEADER & NAV
       Reusable Component pls!
@@ -23,8 +34,16 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
   <header>
     <!-- <h1><PerkedelWoosie/><a href="/">Perkedel NTLF+ASTR</a></h1> -->
     <!-- https://www.w3schools.com/tags/tag_hn.asp css of it pls -->
-    <p style="font-size: 2em; font-weight: bold;"><a href="/"><PerkedelWoosie/>Perkedel NTLF+ASTR</a></p>
+    <p style="font-size: 2em; font-weight: bold;"><a href="/"><PerkedelWoosie/>Perkedel NTLF+ASTR</a> 
+      {(rating.includes('adult') || nsfw)?
+      <Icon style="color:red;" title="You are in an NSFW page" height="48px" name="gg:pill" />:""}
+    </p>
   </header>
+  <!-- Initially we would choose icon-park-outline:breast-pump
+  But we can't connect it with Matrix Pill choice & 
+  otherwise would causes some damages we do not want.
+  maybe back again to gg:pill ?
+  -->
   <hr/>
   <NavBar viewSourceURL={viewSourceURL}/>
   <hr/>
