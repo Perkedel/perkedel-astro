@@ -518,17 +518,17 @@ getJSONF('/assets/json/funnyWords/generateWord.json', true, true);
 // featured in Astro.build sample
 // let responseWow = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
 // let dataWow = await response.json();
-let dataWow;
-const optionsWow = { method: 'GET', headers: { accept: 'application/json' } };
-fetch('https://owen-wilson-wow-api.onrender.com/wows/random', optionsWow)
-    .then(response => response.json())
-    .then(response => dataWow = response)
-    .then(response => console.log(response))
-    .catch(err => console.error(err));
-let vidWow1080 = dataWow[0].video["1080p"];
-let vidWow720 = dataWow[0].video["720p"];
-let vidWow480 = dataWow[0].video["480p"];
-let vidWow360 = dataWow[0].video["360p"];
+// let dataWow;
+// const optionsWow = { method: 'GET', headers: { accept: 'application/json' } };
+// fetch('https://owen-wilson-wow-api.onrender.com/wows/random', optionsWow)
+//     .then(response => response.json())
+//     .then(response => dataWow = response)
+//     // .then(response => console.log(response))
+//     .catch(err => console.error(err));
+// let vidWow1080 = dataWow[0].video["1080p"];
+// let vidWow720 = dataWow[0].video["720p"];
+// let vidWow480 = dataWow[0].video["480p"];
+// let vidWow360 = dataWow[0].video["360p"];
 
 async function regerenateWow() {
     // responseWow = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
