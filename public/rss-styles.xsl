@@ -53,6 +53,15 @@
 
                 <link rel="canonical" href="https://perkedel.netlify.app/rss.xml"/>
                 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+
+                <!-- https://www.geeksforgeeks.org/how-to-fallback-to-the-local-stylesheet-when-cdn-fails/
+                https://stackoverflow.com/a/52223674/9079640
+                -->
+                <!-- <link rel="stylesheet" href="cdn.css" onerror="this.onerror=null;this.href='local.css';" /> -->
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.css" onerror="this.onerror=null;this.href='/assets/scripts/js/tingle/dist/tingle.min.css';" />
+                <link rel="stylesheet" href="https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css" onerror="this.onerror=null;this.href='/assets/css/nerdfont-webfonts/nerdfont-webfonts.css';" />
+                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" onerror="this.onerror=null;this.href='/assets/scripts/js/toastify/toastify.min.css';" />
+                <link rel="stylesheet" href="https://cdn.plyr.io/3.7.3/plyr.css" onerror="this.onerror=null;this.href='/assets/scripts/js/plyr/plyr.css';" />
                 <!-- https://perkedel.netlify.app/assets/index.a862d9eb.css -->
                 <!-- <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.a862d9eb.css"/> -->
                 <!-- <link rel="stylesheet" href="https://perkedel.netlify.app/assets/index.b5c2cc52.css"/> -->
@@ -87,7 +96,30 @@
                 <!-- blazy  -->
                 <script src="https://cdn.jsdelivr.net/blazy/latest/blazy.min.js"></script>
 
-                
+                <!-- Undefined Check! make sure this works, redefine each with our local copy if each fails -->
+                <!-- https://stackoverflow.com/a/18677056/9079640 -->
+                <script >
+                    if(typeof htmx == 'undefined'){
+                    document.write(unescape("%3Cscript src='/assets/scripts/js/htmx/htmx.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    if(typeof tingle == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/tingle/dist/tingle.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    
+                    if(typeof Plyr == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/plyr/plyr.polyfilled.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    if(typeof Blazy == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/plyr/blazy.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    if(applyFocusVisiblePolyfill == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/focus-visible/focus-visible.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    if(typeof midiPlayer == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/html-midi-player/html-midi-player@1.5.0.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+
+                </script>
 
                 <!-- <script src="/main.js">
                     </script> -->
@@ -234,6 +266,23 @@
                 <script src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
                 <!-- Loud Links https://mahdif.github.io/loud-links/ -->
                 <script src="https://mahdif.github.io/loud-links/js/loudlinks.min.js"></script>
+
+                <!-- Undefined Check After! make sure this works, redefine each with our local copy if each fails -->
+                <!-- https://stackoverflow.com/a/18677056/9079640 -->
+                <script>
+                    if(typeof Toastify == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/toastify/toastify-js.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    if(typeof mailtouiApp == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/mailtoui/mailtoui-min.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    if(typeof mailtouiApp == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/mailtoui/mailtoui-min.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                    if(typeof loudlinks == 'undefined'){
+                        document.write(unescape("%3Cscript src='/assets/scripts/js/loud-links/loudlinks.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    }
+                </script>
 
                 <!-- Main script finally -->
                 <script src="/main.js">
