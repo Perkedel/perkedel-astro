@@ -546,6 +546,21 @@ async function regerenateWow() {
     return dataWow;
 }
 
+// Scroll revealer
+// https://youtu.be/T33NN_pPeNI
+const scrollObverser = new IntersectionObserver((entried) => {
+    entries.forEach((entry) => {
+        console.log(entry);
+        if (entry.isIntersecting) {
+            entry.target.classList.add('showScroll');
+        } else {
+            entry.target.classList.remove('showScroll');
+        }
+    });
+});
+const hiddenScrollers = document.querySelectorAll('.hiddenScroll');
+hiddenScrollers.forEach((hiddenScroller) => { scrollObverser.observe(hiddenScroller); });
+
 
 /*
 Moar Dump
