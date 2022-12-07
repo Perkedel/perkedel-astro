@@ -482,7 +482,8 @@ nav a:visited:active {
   
   */
 
-a[target=_blank]::after {
+a[target=_blank]::after,
+a[target=blank]::after {
     content: ' 🔗 ';
 }
 
