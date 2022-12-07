@@ -548,7 +548,7 @@ async function regerenateWow() {
 
 // Scroll revealer
 // https://youtu.be/T33NN_pPeNI
-const scrollObverser = new IntersectionObserver((entried) => {
+const scrollObverser = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
         console.log(entry);
         if (entry.isIntersecting) {
