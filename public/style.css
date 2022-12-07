@@ -1153,7 +1153,7 @@ https://youtu.be/T33NN_pPeNI
     transform: translateX(0px);
 }
 
-.fromLeftSideScroll {
+.hideScroll.fromLeftSideScroll {
     transform: translateX(-100px);
     /* transform: translate(-100, 0); */
     ;
@@ -1407,7 +1407,7 @@ https://youtu.be/T33NN_pPeNI
         opacity: 1;
         transform: none;
     }
-    .fromSideScroll {
+    .hideScroll.fromLeftSideScroll {
         transform: none;
     }
 }
@@ -1422,7 +1422,7 @@ https://youtu.be/T33NN_pPeNI
         opacity: 1;
         transform: none;
     }
-    .fromSideScroll {
+    .hideScroll.fromLeftSideScroll {
         transform: none;
     }
     .hoverExpand {
