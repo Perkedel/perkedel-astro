@@ -1143,6 +1143,7 @@ https://youtu.be/T33NN_pPeNI
     opacity: 0;
     filter: blur(5px);
     transition: all 1s;
+    transform: translateX(-100);
 }
 
 .showScroll {
