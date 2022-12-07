@@ -1143,11 +1143,11 @@ https://youtu.be/T33NN_pPeNI
     opacity: 0;
     filter: blur(5px);
     transition: all 1s;
-    /* transform: translateX(-100px); */
+    transform: translateX(-100px);
     /* transform: translate(-100, 0); */
 }
 
-.showScroll {
+.hideScroll.showScroll {
     opacity: 1;
     filter: blur(0);
     transform: translateX(0px);
@@ -1403,7 +1403,7 @@ https://youtu.be/T33NN_pPeNI
         filter: none;
         transform: none;
     }
-    .showScroll {
+    .hideScroll.showScroll {
         opacity: 1;
         transform: none;
     }
@@ -1417,6 +1417,12 @@ https://youtu.be/T33NN_pPeNI
         scroll-behavior: initial;
     }
     .hideScroll {
+        transition: none;
+        filter: blur(0);
+        opacity: 1;
+        transform: none;
+    }
+    .hideScroll.showScroll {
         transition: none;
         filter: blur(0);
         opacity: 1;
