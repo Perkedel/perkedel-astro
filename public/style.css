@@ -1227,6 +1227,7 @@ https://youtu.be/T33NN_pPeNI
     transition: all 1s;
     /* transform: translateX(-100px); */
     /* transform: translate(-100, 0); */
+    overflow-x: auto;
 }
 
 .hideScroll.showScroll {
