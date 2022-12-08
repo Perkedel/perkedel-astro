@@ -159,7 +159,7 @@
                                 <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
                                 <li><a title="Go view our RSS (link can by copy pasted to your newsreader)" href="/rss.xml" class="NavBtn" id="RSSButton" style="color:cyan;">📰 RSS &#xf143;</a></li>
                                 <li><a title="Go view our Sitemap (link can by copy pasted to your web crawler)" href="/sitemap-0.xml" class="NavBtn" id="SitemapButton" style="">🗺️ Sitemap &#xf0e8;</a></li>
-                                <li><a title="Go read our Terms of Service" href="/terms_of_service/" class="NavBtn" id="TermsOfServiceButton" style="">🏛️ Terms of Service &#xf495;</a></li>
+                                <li><a title="Go read our Terms of Service" href="/terms_of_service/" class="NavBtn" id="TermsOfServiceButton" style="">⚖️ Terms of Service &#xf495;</a></li>
                                 <li><a title="Go read our Privacy Policy" href="/privacy_policy/" class="NavBtn" id="PrivacyPolicyButton" style="">📜 Privacy Policy &#xf069;</a></li>
                                 <li><a title="Go read about us and our white paper stuffs" href="/about/" class="NavBtn" id="AboutButton" style="">📃 About &#xf05a;</a></li>
                             </ul>
