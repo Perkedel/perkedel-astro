@@ -1223,6 +1223,7 @@ https://youtu.be/T33NN_pPeNI
 .hideScroll {
     opacity: 0;
     filter: blur(5px);
+    -ms-transition: all 1s;
     transition: all 1s;
     /* transform: translateX(-100px); */
     /* transform: translate(-100, 0); */
@@ -1231,41 +1232,119 @@ https://youtu.be/T33NN_pPeNI
 .hideScroll.showScroll {
     opacity: 1;
     filter: blur(0);
-    transform: translateX(0px);
+    -ms-transform: initial;
+    transform: initial;
 }
 
 .hideScroll.fromLeftSideScroll:not(.showScroll) {
+    -ms-transform: translateX(-100px);
     transform: translateX(-100px);
     /* transform: translate(-100, 0); */
-    ;
 }
 
+.hideScroll.fromRightSideScroll:not(.showScroll) {
+    -ms-transform: translateX(100px);
+    transform: translateX(100px);
+    /* transform: translate(-100, 0); */
+}
+
+.hideScroll.fromFrontSideScroll:not(.showScroll) {
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    /* transform: translate(-100, 0); */
+}
+
+.hideScroll.fromBackSideScroll:not(.showScroll) {
+    -ms-transform: scale(0);
+    transform: scale(0);
+    /* transform: translate(-100, 0); */
+}
+
+.hideScroll.fromUpSideScroll:not(.showScroll) {
+    -ms-transform: translateY(100px);
+    transform: translateY(100px);
+}
+
+.hideScroll.fromDownSideScroll:not(.showScroll) {
+    -ms-transform: translateY(-100px);
+    transform: translateY(-100px);
+}
+
+
+/* OH */
+
+.hideScroll.fromCCWScroll:not(.showScroll) {
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.hideScroll.fromCWScroll:not(.showScroll) {
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+
+/* HEH */
+
+.hideScroll.fromSkewXRightScroll:not(.showScroll) {
+    -ms-transform: skewX(45deg);
+    transform: skewX(45deg);
+}
+
+.hideScroll.fromSkewXLeftScroll:not(.showScroll) {
+    -ms-transform: skewX(-45deg);
+    transform: skewX(-45deg);
+}
+
+
+/* GUSH */
+
+.hideScroll.fromSkewYRightScroll:not(.showScroll) {
+    -ms-transform: skewY(45deg);
+    transform: skewY(45deg);
+}
+
+.hideScroll.fromSkewYLeftScroll:not(.showScroll) {
+    -ms-transform: skewY(-45deg);
+    transform: skewY(-45deg);
+}
+
+
+/* HUH */
+
 .delayScroll:nth-child(1) {
+    -ms-transition-delay: 200ms;
     transition-delay: 200ms;
 }
 
 .delayScroll:nth-child(2) {
+    -ms-transition-delay: 400ms;
     transition-delay: 400ms;
 }
 
 .delayScroll:nth-child(3) {
+    -ms-transition-delay: 600ms;
     transition-delay: 600ms;
 }
 
 .delayScroll:nth-child(4) {
+    -ms-transition-delay: 800ms;
     transition-delay: 800ms;
 }
 
 .delayScroll:nth-child(5) {
+    -ms-transition-delay: 1000ms;
     transition-delay: 1000ms;
 }
 
 .delayScroll:nth-child(6) {
+    -ms-transition-delay: 1200ms;
     transition-delay: 1200ms;
     /* can we pls find more procedural way here?! */
 }
 
 .delayScroll:nth-child(6) {
+    -ms-transition-delay: 1400ms;
     transition-delay: 1400ms;
     /* can we pls find more procedural way here?! */
 }
@@ -1479,16 +1558,42 @@ https://youtu.be/T33NN_pPeNI
         border: 2px solid darkorange;
     }
     .hideScroll {
+        -ms-transition: none;
         transition: none;
         opacity: 1;
         filter: none;
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.showScroll {
         opacity: 1;
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromLeftSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromRightSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromFrontSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromBackSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    /* Oh */
+    .hideScroll.fromUpSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromDownSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    /* eh */
+    .hideScroll.fromCCWScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromCWScroll:not(.showScroll) {
         transform: none;
     }
 }
@@ -1512,10 +1617,42 @@ https://youtu.be/T33NN_pPeNI
     .hideScroll.fromLeftSideScroll:not(.showScroll) {
         transform: none;
     }
+    .hideScroll.fromRightSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromFrontSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromBackSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromFrontSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromBackSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    /* Oh */
+    .hideScroll.fromUpSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromDownSideScroll:not(.showScroll) {
+        transform: none;
+    }
+    /* eh */
+    .hideScroll.fromCCWScroll:not(.showScroll) {
+        transform: none;
+    }
+    .hideScroll.fromCWScroll:not(.showScroll) {
+        transform: none;
+    }
     .hoverExpand {
         transition: none;
     }
 }
+
+
+/* } */
 
 
 /* } */
