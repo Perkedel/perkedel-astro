@@ -10,6 +10,7 @@ import SoughtAfterCells3DModelsSFW from '@components/Elements/SparePart/SoughtAf
 import SoughtAfterCells3DModelsNSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsNSFW.astro';
 import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DModels.astro';
 import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -33,6 +34,7 @@ const{
     >
     <h1>3D Models Pls ({nsfw?"FULL":"LITE"} VERSION)</h1>
         <p>Blender, FBX, Humanoids, Sculpts, etc.</p>
+        <TodayBlenderVersion/>
         <h2>What to do?</h2>
             <h3 class="success">Available Now</h3>
                 <p>Models that are available right now</p>

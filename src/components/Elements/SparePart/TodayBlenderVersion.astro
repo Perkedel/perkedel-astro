@@ -1,0 +1,23 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+
+export interface Props{
+    blenderVersion?:string;
+    blenderVersionLTS?:string;
+}
+
+const{
+    blenderVersion = '3.4',
+    blenderVersionLTS = '3.3 LTS',
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<h2>Today's Blender Version is:</h2>
+    <p style="background-color:blue;color:white;font-size:2.1em;font-weight:bolder;border-radius:1px;">{blenderVersion}</p>
+    <p>& latest LTS at <b>{blenderVersionLTS}</b></p>
+    <p><ButtonizedLink href="https://blender.org" target="_blank" rel="noopener noreferrer">&#xf6d9; Get / Update Blender Now</ButtonizedLink><br/>
+        be sure to get the latest stable version!
+        </p>

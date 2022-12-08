@@ -483,8 +483,22 @@ nav a:visited:active {
   */
 
 a[target=_blank]::after,
-a[target=blank]::after {
+a[target=blank]::after,
+a[target*=blank]::after {
     content: ' 🔗 ';
+}
+
+
+/* https://www.w3schools.com/cssref/sel_attr_contain.php */
+
+a[href*='youtube.com']::before,
+a[href*='youtu.be']::before {
+    content: ' ';
+}
+
+a[href*='odysee.com']::before,
+a[href*='lbry.']::before {
+    content: ' ';
 }
 
 input {

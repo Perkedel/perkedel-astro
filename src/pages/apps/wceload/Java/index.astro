@@ -4,22 +4,38 @@ import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be i
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
+import PiracyForbidden from '@components/Messages/PiracyForbidden.astro';
 ---
 <Layout 
     title="Java! JAR things!" 
     description="Perkedel NTLF+ASTR. Arduino!"
-    keywords="tech, fun, novelty, open source, gratis, free, embedded, hacks, hack, wceload, download, custom, firmware, Java, Blu-ray, MIDP, J2ME, jar, jad, Minecraft"
+    keywords="tech, fun, novelty, open source, gratis, free, embedded, hacks, hack, wceload, download, custom, firmware, Java, Blu-ray, MIDP, J2ME, jar, jad, Minecraft, MC, Java Edition"
     >
     <h1>Java! JAR things!</h1>
-        <p>Every Java stuffs! Regular Java, Phone Java MIDP, Blu-Ray, Minecraft Java, etc. <mark class="warning">Not to be confused with JS or Android</mark></p>
+        <p>Every Java stuffs! Regular Java, Phone Java MIDP, Blu-Ray, Minecraft Java Edition, etc. <mark class="warning">Not to be confused with JS or Android</mark></p>
         <h2>What to do?</h2>
-        <ul>
-            <!-- <li><ButtonizedLink href="winCE" target="_blank" rel="noopener noreferrer">???</ButtonizedLink></li> -->
-            <li><ButtonizedLink href="https://bluemaxima.org/kahvibreak/" target="_blank" rel="noopener noreferrer">BlueMaxima's Kahvibreak</ButtonizedLink> Made by the same guy who made <a href="https://bluemaxima.org/flashpoint" target="_blank" rel="noopener noreferrer">Flashpoint</a>. Just like <code>swf</code> one, this one collects all <code>J2ME</code> <code>jars</code> & lets you play with those games! Relieve your Java phone memories!</li>
-            <li><ButtonizedLink href="https://www.blu-play.com/games" target="_blank" rel="noopener noreferrer">blu-play.com</ButtonizedLink> Blu-ray games, Java games on Blu-ray</li>
-            <li><ButtonizedLink href="https://sourceforge.net/projects/freej2me/" target="_blank" rel="noopener noreferrer">FreeJ2ME</ButtonizedLink> Phone Java emulator</li>
-            <li><ButtonizedLink href="https://www.doncaprio.com/best-3-emulators-to-run-mobile-java-jar-games-apps-on-your-windows-pc/" target="_blank" rel="noopener noreferrer">DonCaprio's J2ME collection</ButtonizedLink> 3 Java MIDP mobile jar jad file emulators!!!</li>
-            <li><ButtonizedLink href="http://j2mereversi.sourceforge.net/" target="_blank" rel="noopener noreferrer">J2ME Reversi</ButtonizedLink> Open Source Othello Java phone with Miami Vice</li>
-            <li><ButtonizedLink href="https://phoneky.com/" target="_blank" rel="noopener noreferrer">Phoneky.com</ButtonizedLink> Download J2ME free $0 jars!!!</li>
-        </ul>
+        <h2>Minecraft Java Edition</h2>
+            <PiracyForbidden piracyOn='Minecraft & bought accounts'/>
+            <p>Minecraft OG</p>
+            <ul>
+                <li><ButtonizedLink href="https://prismlauncher.org/" target="_blank" rel="noopener noreferrer">Prism Launcher</ButtonizedLink> 
+                    Comprehensive Minecraft Java launcher, featuring easier mod installers. 
+                    Source code 
+                    <a href="https://github.com/PrismLauncher/PrismLauncher" target="_blank" rel="noopener noreferrer">
+                        at this GitHub repo
+                        </a>.
+                    </li>
+            </ul>
+        <h3>MOAR JAVA</h3>
+            <p>More Java stuffs</p>
+            <ul>
+                <!-- <li><ButtonizedLink href="winCE" target="_blank" rel="noopener noreferrer">???</ButtonizedLink></li> -->
+                <li><ButtonizedLink href="https://bluemaxima.org/kahvibreak/" target="_blank" rel="noopener noreferrer">BlueMaxima's Kahvibreak</ButtonizedLink> Made by the same guy who made <a href="https://bluemaxima.org/flashpoint" target="_blank" rel="noopener noreferrer">Flashpoint</a>. Just like <code>swf</code> one, this one collects all <code>J2ME</code> <code>jars</code> & lets you play with those games! Relieve your Java phone memories!</li>
+                <li><ButtonizedLink href="https://www.blu-play.com/games" target="_blank" rel="noopener noreferrer">blu-play.com</ButtonizedLink> Blu-ray games, Java games on Blu-ray</li>
+                <li><ButtonizedLink href="https://sourceforge.net/projects/freej2me/" target="_blank" rel="noopener noreferrer">FreeJ2ME</ButtonizedLink> Phone Java emulator</li>
+                <li><ButtonizedLink href="https://www.doncaprio.com/best-3-emulators-to-run-mobile-java-jar-games-apps-on-your-windows-pc/" target="_blank" rel="noopener noreferrer">DonCaprio's J2ME collection</ButtonizedLink> 3 Java MIDP mobile jar jad file emulators!!!</li>
+                <li><ButtonizedLink href="http://j2mereversi.sourceforge.net/" target="_blank" rel="noopener noreferrer">J2ME Reversi</ButtonizedLink> Open Source Othello Java phone with Miami Vice</li>
+                <li><ButtonizedLink href="https://phoneky.com/" target="_blank" rel="noopener noreferrer">Phoneky.com</ButtonizedLink> Download J2ME free $0 jars!!!</li>
+                
+            </ul>
 </Layout>
