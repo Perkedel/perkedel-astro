@@ -554,6 +554,19 @@ a[href*='archive.org']::before {
     content: ' ';
 }
 
+a[href*='twitter.com']::before {
+    content: ' ';
+}
+
+a[href*='tumblr.com']::before {
+    /* Speaking of Tumblr, I am banned. peck you, Automattic! */
+    content: ' ';
+}
+
+a[href*='facebook.com']::before {
+    content: ' ';
+}
+
 input {
     background-color: black;
     color: white;
@@ -1221,7 +1234,7 @@ https://youtu.be/T33NN_pPeNI
     transform: translateX(0px);
 }
 
-.hideScroll.fromLeftSideScroll {
+.hideScroll.fromLeftSideScroll:not(.showScroll) {
     transform: translateX(-100px);
     /* transform: translate(-100, 0); */
     ;
@@ -1475,7 +1488,7 @@ https://youtu.be/T33NN_pPeNI
         opacity: 1;
         transform: none;
     }
-    .hideScroll.fromLeftSideScroll {
+    .hideScroll.fromLeftSideScroll:not(.showScroll) {
         transform: none;
     }
 }
@@ -1496,7 +1509,7 @@ https://youtu.be/T33NN_pPeNI
         opacity: 1;
         transform: none;
     }
-    .hideScroll.fromLeftSideScroll {
+    .hideScroll.fromLeftSideScroll:not(.showScroll) {
         transform: none;
     }
     .hoverExpand {
