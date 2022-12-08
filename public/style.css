@@ -498,7 +498,29 @@ a[href*='youtu.be']::before {
 
 a[href*='odysee.com']::before,
 a[href*='lbry.']::before {
-    content: ' ';
+    content: ' ';
+}
+
+a[href*='reddit.com']::before,
+a[href*='red.it']::before,
+a[href*='redd.it']::before {
+    content: ' ';
+}
+
+a[href*='microsoft.com']::before,
+a[href*='windows.com']::before,
+a[href*='microsoftonline.com']::before {
+    content: ' ';
+}
+
+a[href*='magiclantern.fm']::before,
+a[href*='magiclantern.fandom.com']::before {
+    content: ' ';
+}
+
+a[href*='mighty-hoernsche.de']::before,
+a[href*='chdk.fandom.com']::before {
+    content: ' ';
 }
 
 input {
