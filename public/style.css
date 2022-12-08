@@ -523,6 +523,37 @@ a[href*='chdk.fandom.com']::before {
     content: ' ';
 }
 
+a[href*='discord.com']::before,
+a[href*='discord.gg']::before {
+    content: 'ﭮ ';
+}
+
+a[href*='github.com']::before {
+    content: ' ';
+}
+
+a[href*='gitlab.com']::before {
+    content: ' ';
+}
+
+a[href*='//google.com']::before,
+a[href*='.google.com']::before,
+a[href*='//google.co.id']::before {
+    content: ' ';
+}
+
+a[href*='drive.google.com']::before {
+    content: ' ';
+}
+
+a[href*='play.google.com']::before {
+    content: ' ';
+}
+
+a[href*='archive.org']::before {
+    content: ' ';
+}
+
 input {
     background-color: black;
     color: white;
