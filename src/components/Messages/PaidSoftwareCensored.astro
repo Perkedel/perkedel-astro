@@ -1,7 +1,14 @@
 ---
+export interface Props{
+    paidSoftwareWhat?:string;
+}
+
+const{
+    paidSoftwareWhat = 'softwares',
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <div class="warning">
-    <p style="font-size:1.5em;font-weight:bold;">&#xf071;⚠️ Paid / {">"}$0 softwares won't shows here</p>
+    <p style="font-size:1.5em;font-weight:bold;">&#xf071;⚠️ Paid / {">"}$0 {paidSoftwareWhat} won't shows here</p>
     <details>
         <!-- IDEA: make it only some? -->
         <summary>Explanations</summary>

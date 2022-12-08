@@ -5,6 +5,7 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import PiracyForbidden from '@components/Messages/PiracyForbidden.astro';
+import PaidSoftwareCensoredTotal from '@components/Messages/PaidSoftwareCensoredTotal.astro';
 ---
 <Layout 
     title="Java! JAR things!" 
@@ -15,7 +16,9 @@ import PiracyForbidden from '@components/Messages/PiracyForbidden.astro';
         <p>Every Java stuffs! Regular Java, Phone Java MIDP, Blu-Ray, Minecraft Java Edition, etc. <mark class="warning">Not to be confused with JS or Android</mark></p>
         <h2>What to do?</h2>
         <h2>Minecraft Java Edition</h2>
-            <PiracyForbidden piracyOn='Minecraft & bought accounts'/>
+        <!-- Create dedicated page for Minecraft both Java & Bedrock, this allows NSFWs to be place there too! -->
+            <!-- <PiracyForbidden piracyOn='Minecraft & bought accounts'/> -->
+            <PaidSoftwareCensoredTotal piracyOn='Minecraft & bought accounts' paidSoftwareWhat={'Minecraft Mods, Modpacks, Resource Packs, Shader packs, etc. packs'}/>
             <p>Minecraft OG</p>
             <ul>
                 <li><ButtonizedLink href="https://prismlauncher.org/" target="_blank" rel="noopener noreferrer">Prism Launcher</ButtonizedLink> 

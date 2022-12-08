@@ -2,7 +2,17 @@
 import PaidSoftwareCensored from "./PaidSoftwareCensored.astro";
 import PaidSoftwareCensoredGameRelieve from "./PaidSoftwareCensoredGameRelieve.astro";
 import PiracyForbidden from "./PiracyForbidden.astro";
+
+export interface Props{
+    paidSoftwareWhat?:string;
+    piracyOn?: string;
+}
+
+const{
+    paidSoftwareWhat = 'softwares',
+    piracyOn = 'commercial proprietary software products',
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
-<PaidSoftwareCensored/>
+<PaidSoftwareCensored paidSoftwareWhat={paidSoftwareWhat}/>
 <PaidSoftwareCensoredGameRelieve/>
-<PiracyForbidden/>
+<PiracyForbidden piracyOn={piracyOn}/>
