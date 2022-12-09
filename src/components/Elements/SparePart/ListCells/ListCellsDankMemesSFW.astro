@@ -1,0 +1,32 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import PlaySoundButton from '../PlaySoundButton.astro';
+---
+<!-- <li><ButtonizedLink href={""} target="_blank" rel="noopener noreferrer">HERE</ButtonizedLink> INFO</li> -->
+<li><ButtonizedLink  href={"https://youtu.be/hr7GyFM7pX4"} target="_blank" rel="noopener noreferrer">DairyOrange Fart Extra Reverb</ButtonizedLink> 
+    fart Reverbials, which kmlkmljkl has the OG unreverbed 
+    <a 
+        href="https://youtu.be/hr7GyFM7pX4" 
+        target="_blank" rel="noopener noreferrer">
+            Here YouTube
+        </a><br/>
+    <PlaySoundButton fileName='fart_with_extra_reverb' fileTitle={'Fart Reverb'}/><br/>
+    <PlaySoundButton fileName='fart-reverb-origin' fileTitle={'Fart Origin'}/><br/>
+    <!-- <button class="SpecialityButton loud-link-click" data-sound="/assets/audio/sounds/{{type}}/fart_with_extra_reverb.{{type}}">🔊 Play Fart Reverb</button><br/> -->
+    <!-- <button class="SpecialityButton loud-link-click" data-sound="/assets/audio/sounds/{{type}}/fart-reverb-origin.{{type}}">🔊 Play Fart Origin</button><br/> -->
+</li>
+<li><ButtonizedLink href={"https://youtu.be/39_HhRkXDpQ"} target="_blank" rel="noopener noreferrer">Jackaroo100's Very loud explosion</ButtonizedLink> 
+    Shitpost explosion duar!!!<br/>
+    <PlaySoundButton fileName='Very_Loud_Explosion' fileTitle={'Very Loud Explosion'}/><br/>
+    <!-- <button class="SpecialityButton loud-link-click" data-sound="/assets/audio/sounds/{{type}}/Very_Loud_Explosion.{{type}}">🔊 Play Very Loud Explosion</button><br/> -->
+    </li>

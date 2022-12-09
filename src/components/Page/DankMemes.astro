@@ -1,0 +1,38 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import ListCellsDankMemesSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesSFW.astro';
+import ListCellsDankMemesNSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesNSFW.astro';
+import CorePage from './__CorePage.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords='Memes, Dank, Danks, Meme, lmao, lol, funny, comedy, commedy'
+    addDescriptions='Dank Memes Collections'
+    addHeaderTitle='Dank Memes 🤣🤣🤣🤣🤣🤣🤣🤣🤣'
+    addMetaTitle='Dank Memes'
+    author='JOELwindows7'
+    >
+    <h2>What to do?</h2>
+        <ul>
+            <ListCellsDankMemesSFW/>
+            {nsfw?<ListCellsDankMemesNSFW/>:""}
+        </ul>
+</CorePage>

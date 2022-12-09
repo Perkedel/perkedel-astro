@@ -1,0 +1,17 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro';
+
+export interface Props{
+    fileName?: string;
+    fileTitle?: string;
+}
+
+const{ 
+    fileName = 'fart-reverb-origin',
+    fileTitle = 'SAMPLE_TEXT',
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<button class="SpecialityButton loud-link-click" data-sound={"/assets/audio/sounds/{{type}}/"+fileName+".{{type}}"}>🔊 Play {fileTitle}</button>
+<ButtonizedLink href={"/assets/audio/sounds/ogg/"+fileName+".ogg"} download='download'>&#xf6d9; OGG</ButtonizedLink>
+<ButtonizedLink href={"/assets/audio/sounds/mp3/"+fileName+".mp3"} download='download'>&#xf6d9; MP3</ButtonizedLink>
+<ButtonizedLink href={"/assets/audio/sounds/wav/"+fileName+".wav"} download='download'>&#xf6d9; WAV</ButtonizedLink>

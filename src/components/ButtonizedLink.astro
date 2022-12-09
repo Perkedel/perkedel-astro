@@ -21,14 +21,14 @@ const {
     target = '', // where target? `_blank` is newtab
     rel = '', // relationship e.g `noopener noreferrer` to break insecure connection in new tab
     referrerpolicy,
-    download,
+    download='',
     type,
     hreflang,
     classe,
 } = Astro.props as Props;
 ---
 <!-- https://docs.astro.build/en/guides/integrations-guide/prefetch/ -->
-<a class={"Buttonnize " + classe} target={target} rel={'prefetch ' + rel} href={href} title={title}>
+<a class={"Buttonnize " + classe} target={target} rel={'prefetch ' + rel} href={href} title={title} download={download}>
     <slot name="prefix"/>
     <!-- {content != ''? content: href} -->
     {content}

@@ -567,6 +567,10 @@ a[href*='facebook.com']::before {
     content: ' ';
 }
 
+a[href*='blender.org']::before {
+    content: ' ';
+}
+
 input {
     background-color: black;
     color: white;
@@ -781,6 +785,52 @@ a.Buttonnize.Dangerous:visited:hover:active {
 
 .Dangerous::after {
     content: "⚠️";
+}
+
+
+/* Paywalled version of it */
+
+.Paywalled {
+    background-color: darkred;
+    color: white;
+}
+
+.Paywalled:hover {
+    background-color: red;
+    color: yellow;
+}
+
+.Paywalled:active {
+    background-color: yellow;
+    color: darkblue;
+}
+
+.Paywalled:visited:active {
+    background-color: yellow;
+    color: darkblue;
+}
+
+.Paywalled:visited {
+    background-color: purple;
+    color: white;
+}
+
+.Paywalled:visited:hover {
+    background-color: rgb(255, 0, 51);
+    color: yellow;
+}
+
+.Paywalled:visited:hover:active {
+    background-color: yellow;
+    color: darkblue;
+}
+
+.Paywalled::before {
+    content: "$$$";
+}
+
+.Paywalled::after {
+    content: "$$$";
 }
 
 
