@@ -583,6 +583,8 @@ function openInPageSetting() {
 
 // Show Hide Download Links
 function setDownloadLinkVisibility(into = true) {
+    // works also if the element is outside where the checkbox was.
+    // a.k.a. not next to nor descends to.
     // https://stackoverflow.com/a/19353448/9079640
     let stuffs = document.getElementsByClassName('DownloadLinks');
     console.log("Check Set visible to " + into);
