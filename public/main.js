@@ -692,5 +692,3 @@ by JOELwindows7
 Perkedel Technologies
 GNU-AGPLv3
 */
-U - AGPLv3 *
-    /
