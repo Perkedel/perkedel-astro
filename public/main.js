@@ -590,9 +590,11 @@ function setDownloadLinkVisibility(into = true) {
     console.log("Check Set visible to " + into);
     for (i = 0; i < stuffs.length; i++) {
         if (into) {
-            stuffs[i].style.display = "none";
+            // stuffs[i].style.display = "none";
+            stuffs[i].classList.add('hidden');
         } else {
-            stuffs[i].style.display = "initial";
+            // stuffs[i].style.display = "initial";
+            stuffs[i].classList.remove('hidden');
         }
     }
 
@@ -690,3 +692,5 @@ by JOELwindows7
 Perkedel Technologies
 GNU-AGPLv3
 */
+U - AGPLv3 *
+    /
