@@ -1,0 +1,30 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import DownloadShowHideListCell from './DownloadShowHideListCell.astro';
+
+export interface Props{
+    handoverTitle?:string;
+}
+
+const{
+    handoverTitle = '???',
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<a title="Open Setting dialog" id="SettingBtn" class="NavBtn" href="javascript:openInPageSetting()">⚙️ Setting &#xf992;</a>
+<div style="display: none" id="_SettingContent">
+    <h2>`<code>{handoverTitle}</code>` Setting</h2>
+    <slot>
+        <!-- <p><i>There is no setting for this page</i></p> -->
+    </slot>
+        <ul>
+            <slot name="SettingListCells"/>
+        </ul>
+    <h2>Main Setting</h2>
+        <ul>
+            <DownloadShowHideListCell/>
+        </ul>
+</div>
+<!-- see script at Main JS -->

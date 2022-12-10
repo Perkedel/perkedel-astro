@@ -308,7 +308,9 @@ const {
 </head>
 <body>
   <!-- HEADER -->
-  <Headering viewSourceURL={viewSourceURL} rating={rating}/>
+  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating}>
+    <slot name="SettingContains" slot="SettingContains"/>
+  </Headering>
 
   <!-- META INFO -->
   <NoScriptMsg/>

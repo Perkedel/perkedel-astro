@@ -4,12 +4,18 @@ import RefreshButton from './RefreshButton.astro';
 import URLInfoButton from './URLInfoButton.astro';
 import CopyToClipboardButton from './CopyToClipboardButton.astro';
 import CopyURLToClipboardButton from './CopyURLToClipboardButton.astro';
+import SettingWindow from './SparePart/Options/SettingWindow.astro';
+import HistoryNavigateArrows from './SparePart/HistoryNavigateArrows.astro';
 export interface Props {
   viewSourceURL?: string;
+  handoverTitle?:string;
 }
 let currJustAddr = 'https://perkedel.netlify.app/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let doViewSource = 'view-source:' + currJustAddr;
-const {viewSourceURL = doViewSource} = Astro.props as Props;
+const {
+    viewSourceURL = doViewSource,
+    handoverTitle = '???',
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <nav>
     <div class="addressBarYeah" style="display:none">
@@ -17,16 +23,21 @@ const {viewSourceURL = doViewSource} = Astro.props as Props;
         <hr>
     </div>
     <ul>
-        <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li>
+        <HistoryNavigateArrows/>
+        <!-- <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li> -->
         <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style={Astro.url.pathname =='/'?"color:cyan;":""}>🏠 Home &#xf015;</a></li>
         <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style={Astro.url.pathname.startsWith('/apps/')?"color:cyan;":""}>📦 Applications &#xf53a;</a></li>
         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
         
+        <slot name="CustomNav"/>
+
         <li class="NavPutRight dropdown">
             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
             <a class="dropbtn NavBtn" title="Open Menu" href='#'>&#xf85b;</a>
             
             <ul class="dropdown-content">
+                <slot name="CustomNavMore"/>
+                <li><SettingWindow handoverTitle={handoverTitle}><slot name="SettingContains"/><slot name="SettingListCelss"/></SettingWindow></li>
                 <li><RefreshButton Classer="NavBtn"/></li>
                 <!-- <li><CopyToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li> -->
                 <li><CopyURLToClipboardButton Classer="NavBtn" title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li>

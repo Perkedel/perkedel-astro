@@ -1419,6 +1419,31 @@ https://youtu.be/T33NN_pPeNI
 }
 
 
+/* Download Links */
+
+
+/* input#DownloadShowHideCheckBox:checked+.DownloadLinks {
+    display: none; */
+
+
+/* can go to none with JS */
+
+
+/* } */
+
+
+/* input#DownloadShowHideCheckBox:not(checked)+.DownloadLinks { */
+
+
+/* display: initial; */
+
+
+/* can go to none with JS */
+
+
+/* } */
+
+
 /* MEDIA PLS!!!! */
 
 
@@ -1701,6 +1726,9 @@ https://youtu.be/T33NN_pPeNI
         transition: none;
     }
 }
+
+
+/* } */
 
 
 /* } */

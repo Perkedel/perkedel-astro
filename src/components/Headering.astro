@@ -8,6 +8,7 @@ export interface Props {
     nsfw?:Boolean;
     addDescriptions?:string;
     addKeywords?:string;
+  handoverTitle?:string;
 }
 // let currJustAddr = 'https://perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let currJustAddr = Astro.url.origin+'/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
@@ -18,7 +19,8 @@ const {
     nsfw=false,
     addDescriptions='',
     addKeywords='',
-  } = Astro.props as Props;
+  handoverTitle = '???',
+  } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- HEADER & NAV
       Reusable Component pls!
@@ -45,5 +47,7 @@ const {
   maybe back again to gg:pill ?
   -->
   <hr/>
-  <NavBar viewSourceURL={viewSourceURL}/>
+  <NavBar handoverTitle={handoverTitle} viewSourceURL={viewSourceURL}>
+  <slot name="SettingContains" slot="SettingContains"/>
+  </NavBar>
   <hr/>

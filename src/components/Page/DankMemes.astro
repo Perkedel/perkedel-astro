@@ -13,6 +13,7 @@ import Emoji from 'astro-emoji';
 import ListCellsDankMemesSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesSFW.astro';
 import ListCellsDankMemesNSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesNSFW.astro';
 import CorePage from './__CorePage.astro';
+import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -30,6 +31,12 @@ const{
     addMetaTitle='Dank Memes'
     author='JOELwindows7'
     >
+    <p>Dank Memes! Funny things collections
+    </p>
+    <h2>Settings</h2>
+        <ul>
+            <DownloadShowHideListCell/>
+        </ul>
     <h2>What to do?</h2>
         <ul>
             <ListCellsDankMemesSFW/>

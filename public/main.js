@@ -561,6 +561,46 @@ const scrollObverser = new IntersectionObserver((entries) => {
 const hiddenScrollers = document.querySelectorAll('.hideScroll');
 hiddenScrollers.forEach((hiddenScroller) => { scrollObverser.observe(hiddenScroller); });
 
+// Setting Dialog
+let contenta = document.getElementById("_SettingContent").innerHTML;
+let windoweSetting = new tingle.modal({
+    footer: true,
+    onOpen: function() {
+
+    },
+    closeLabel: "Close",
+});
+windoweSetting.setContent(contenta);
+windoweSetting.addFooterBtn('OK', 'tingle-btn tingle-btn--primary', function() {
+    // document.getElementById("_SettingContent").innerHTML = contenta;
+    windoweSetting.close();
+});
+
+function openInPageSetting() {
+
+    windoweSetting.open();
+}
+
+// Show Hide Download Links
+function setDownloadLinkVisibility(into = true) {
+    // https://stackoverflow.com/a/19353448/9079640
+    let stuffs = document.getElementsByClassName('DownloadLinks');
+    console.log("Check Set visible to " + into);
+    for (i = 0; i < stuffs.length; i++) {
+        if (into) {
+            stuffs[i].style.display = "none";
+        } else {
+            stuffs[i].style.display = "initial";
+        }
+    }
+
+    // also pls itterate other CHeckboxes like this too!
+    let otherChecks = document.getElementsByClassName('DownloadShowHideCheckBoxes');
+    for (i = 0; i < otherChecks.length; i++) {
+        otherChecks[i].checked = into;
+    }
+}
+
 
 /*
 Moar Dump
