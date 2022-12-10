@@ -509,6 +509,7 @@ a[href*='redd.it']::before {
 
 a[href*='microsoft.com']::before,
 a[href*='windows.com']::before,
+a[href*='live.com']::before,
 a[href*='microsoftonline.com']::before {
     content: ' ';
 }
@@ -565,6 +566,19 @@ a[href*='tumblr.com']::before {
 
 a[href*='facebook.com']::before {
     content: ' ';
+}
+
+a[href*='instagram.com']::before {
+    content: ' ';
+}
+
+a[href*='wa.me']::before {
+    content: ' ';
+}
+
+a[href*='t.me']::before,
+a[href*='telegram.org']::before {
+    content: ' ';
 }
 
 a[href*='blender.org']::before {
