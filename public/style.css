@@ -423,6 +423,16 @@ nav .NavPutRight {
     float: right;
 }
 
+nav .NavHistoryPutLeft {
+    float: left;
+    /* display: inline-block; */
+}
+
+nav .NavHistoryPutRight {
+    float: left;
+    /* display: inline-block; */
+}
+
 nav ul {
     /*
     https://www.javatpoint.com/how-to-make-a-navigation-bar-in-html
@@ -1597,6 +1607,14 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     }
     nav .NavPutRight {
         float: none;
+    }
+    nav .NavHistoryPutLeft {
+        float: none;
+        display: inline-block;
+    }
+    nav .NavHistoryPutRight {
+        float: none;
+        display: inline-block;
     }
     .ListGalleryStyle {
         width: 100%;
