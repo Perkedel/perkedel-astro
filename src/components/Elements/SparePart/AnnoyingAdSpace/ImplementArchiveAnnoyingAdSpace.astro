@@ -1,0 +1,59 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+
+const headingTitle:Array<String> = [
+    'Will you help us?'
+]
+
+export interface Props{
+    enabled?:Boolean;
+}
+
+const{
+    enabled = true,
+} = Astro.props.frontmatter || Astro.props as Props;
+
+---
+<div id="AnnoyingAdSpace" class="AnnoyingAdSpace" style={(enabled?"":"display:none;")+" margin:0;"}>
+    <h2 style="margin:0;"><span id="AnnoyingAdTitle">Will you Help us?</span> <button onclick="closeAnnoyingAd()" class="SpecialityButton" style="float:right;">&#xf00d;</button></h2>
+        <p>Testing Annoying ad space.</p>
+        <details open>
+            <summary>Inspired from <a href="https://archive.org" target="_blank" rel="noopener noreferrer">Archive.org</a></summary>
+            <p>
+                Testing Annoying ad to temporarily grab your attention awhile as we need alot of money to keep our business afloat<br/>
+                and at best avoid implementing privacy invasive ad widgets.
+            </p>
+            <p>We are currently requires / demands:</p>
+            <ul>
+                <li>Additional Disk drives & tapes. We are not only creating stuffs but also hoard other stuffs to ensure preservation of many stuffs. 
+                    Our disks kept being filled up just like many hoarders such as photographers.
+                    </li>
+                <li>Additional Accessories. We are striving to improve our workstation, allowing for the most efficient job & workflows.
+                    We love to acquire the highest end of certain components to ensure best performance & efficiency.
+                    </li>
+                <li>Fund for certain fees to pay. We may do campaigns from time to time, and opening up job for the promoter means that we hire a system to do so.
+                    With that of course, the system shall be fed to satisfy their hunger and purpose.
+                    </li>
+            </ul>
+            <p>If together we can make this gift dumping more efficient than our people's wages & salary, 
+                we would be able to safely consider suspending such mundane job & side jobs, to maximize focus
+                on building the better world. Thancc cool and good.
+            </p>
+        </details>
+        {location.pathname = '/apps/donate'?
+        <p style="font-size:3em;font-weight:bolder;background-color:cyan;color:blue;border-radius:10px;text-align:center;padding:5px;margin:0;">
+            &#xf63b;&#xf63b;READ BELLOW!&#xf63b;&#xf63b;
+            </p>
+        :
+        <ButtonizedLink href="/apps/donate" target="_blank" rel="noopener noreferrer">Donate now!</ButtonizedLink>
+        }
+        
+    <script is:global>
+        function closeAnnoyingAd(){
+            document.getElementById("AnnoyingAdSpace").style.display = "none";
+        }
+    </script>
+</div>

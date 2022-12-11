@@ -1450,6 +1450,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     display: initial;
 } */
 
+.AnnoyingAdSpace {
+    background-color: midnightblue;
+    color: white;
+}
+
 
 /* MEDIA PLS!!!! */
 
@@ -1529,6 +1534,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     }
     #astroIconDark {
         display: none;
+    }
+    .AnnoyingAdSpace {
+        background-color: deepskyblue;
+        color: black;
     }
 }
 
