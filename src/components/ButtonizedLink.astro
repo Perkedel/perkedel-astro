@@ -11,6 +11,7 @@ export interface Props {
     referrerpolicy?:string;
     type?:string;
     classe?:string;
+    id?:string;
 }
 
 const { 
@@ -25,10 +26,11 @@ const {
     type,
     hreflang,
     classe,
+    id,
 } = Astro.props as Props;
 ---
 <!-- https://docs.astro.build/en/guides/integrations-guide/prefetch/ -->
-<a class={"Buttonnize " + classe} target={target} rel={'prefetch ' + rel} href={href} title={title} download={download}>
+<a id={id} class={"Buttonnize " + classe} target={target} rel={'prefetch ' + rel} href={href} title={title} download={download}>
     <slot name="prefix"/>
     <!-- {content != ''? content: href} -->
     {content}
