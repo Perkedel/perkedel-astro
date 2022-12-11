@@ -1611,10 +1611,16 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     nav .NavHistoryPutLeft {
         float: none;
         display: inline-block;
+        /* Make sure it does not overlap */
+        position: -webkit-sticky;
+        position: sticky;
     }
     nav .NavHistoryPutRight {
         float: none;
         display: inline-block;
+        /* Make sure it does not overlap */
+        position: -webkit-sticky;
+        position: sticky;
     }
     .ListGalleryStyle {
         width: 100%;
