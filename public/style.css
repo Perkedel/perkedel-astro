@@ -173,11 +173,11 @@ body {
 button {
     /*BUG! the button font did not inherit even placed in body. let's manually apply!*/
     font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
-    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
 }
 
 button:hover {
-    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
 }
 
 hr {

@@ -1,0 +1,17 @@
+---
+const { items } = Astro.props;
+---
+<!-- https://docs.astro.build/en/reference/api-reference/#astroself -->
+<ul class="nested-list">
+    <!-- If there is a nested data-structure we render `<Astro.self>` -->
+    <!-- and can pass props through with the recursive call -->
+    {items.map((item) => (
+    <li>
+      {Array.isArray(item) ? (
+        <Astro.self items={item} />
+      ) : (
+        item
+      )}
+    </li>
+  ))}
+</ul>
