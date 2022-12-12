@@ -1101,6 +1101,11 @@ kbd {
     /* Increase font size */
 }
 
+#backTopButton:focus-visible {
+    outline: 2px dashed cyan;
+    border-radius: 4px;
+}
+
 #backTopButton:hover {
     background-color: blue;
     /* Add a orange background on hover */
