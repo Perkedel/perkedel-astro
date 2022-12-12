@@ -31,37 +31,37 @@ export interface Props {
 }
 
 const { 
-  title = 'embedded video', 
-  description = title,
-  creditTo = 'NAME??',
-  creditURL = 'https://example.com',
-  creditToolTo = 'OIRNOIR\'s video bouncer CMD utility',
-  creditToolURL = 'https://github.com/OIRNOIR/WackyWebM',
-  creditSauceCall = 'collection',
-  creditSauceURL = 'https://example.org',
-  happenSauce = 'Collected',
-  type = 'video/webm',
-  src,
-  srcExtra,
-  width,
-  height,
-  controls='controls',
-  autoplay,
-  loop,
-  preload,
-  poster = '/assets/img/perkedelbannerrender4KDCI.png',
-  muted,
-  errorSay = 'Werror! Your browser cannot player HTML video! warm and bad! 😭',
-  isFlashing = false,
-  isLoud = false,
+    title = 'embedded video', 
+    description = title,
+    creditTo = 'NAME??',
+    creditURL = 'https://example.com',
+    creditToolTo = 'OIRNOIR\'s video bouncer CMD utility',
+    creditToolURL = 'https://github.com/OIRNOIR/WackyWebM',
+    creditSauceCall = 'collection',
+    creditSauceURL = 'https://example.org',
+    happenSauce = 'Collected',
+    type = 'video/webm',
+    src,
+    srcExtra,
+    width,
+    height,
+    controls='controls',
+    autoplay,
+    loop,
+    preload,
+    poster = '/assets/img/perkedelbannerrender4KDCI.png',
+    muted,
+    errorSay = 'Werror! Your browser cannot player HTML video! warm and bad! 😭',
+    isFlashing = false,
+    isLoud = false,
 //   keywords = 'tech, fun, novelty, open source, gratis, free',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!--
     <h3>Base</h3>
     <video controls>
-      <source src="https://example.com" type="video/webm">
-      Werror! Your browser cannot player HTML video! warm and bad! 😭
+    <source src="https://example.com" type="video/webm">
+    Werror! Your browser cannot player HTML video! warm and bad! 😭
     </video>
     <p>EXAMPLE, Ripped by <a href="https://example.com" target="_blank" rel="noopener noreferrer">EXAMPLE_YOUTUBE_CHANNEL</a> & bounced with <a href="https://github.com/OIRNOIR/WackyWebM" target="_blank" rel="noopener noreferrer">this tool</a> I think, video <a href="https://example.com" target="_blank" rel="noopener noreferrer">here</a></p>
     <p>You can copy & paste this following text <b><i>https://example.com URL CDN DISCORD VIDEO</i></b> into Discord Chat & any HTML video tags with format of <i>video/webm</i>, <a href="https://www.w3schools.com/html/html5_video.asp" target="_blank" rel="noopener noreferrer">here's how</a>. <b>Please credit EXAMPLE_USERNAME yess.</b></p>
@@ -101,7 +101,7 @@ const {
         join someone's discord as you already know you only have 100 join limits without nitro.</b>
 </p>
 <p>
-    <a class="Buttonnize" href={src} target="_blank" rel="noopener noreferrer" download>&#xf6d9; DOWNLOAD LINK (can also be copied)</a>
+    <a class="Buttonnize DownloadLinks" href={src} target="_blank" rel="noopener noreferrer" download>&#xf6d9; DOWNLOAD LINK (can also be copied)</a>
     <!-- <ButtonizedLink content="&#xf6d9; DOWNLOAD LINK (can also be copied)" href={src} target="_blank" rel="noopener noreferrer"/> -->
 </p>
 <slot/>
