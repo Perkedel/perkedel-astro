@@ -604,6 +604,7 @@ input {
 /*https://www.w3schools.com/cssref/sel_focus.asp*/
 
 input:focus {
+    outline: 2px dashed cyan;
     background-color: darkorange;
     color: navy;
 }
@@ -713,6 +714,10 @@ input:disabled {
     /*margin:20px;*/
 }
 
+.ButtonizeListChildrenLinks a:focus-visible {
+    outline: 4px dashed cyan;
+}
+
 .ButtonizeListChildrenLinks a:hover {
     background-color: orange;
     color: navy;
@@ -747,6 +752,11 @@ input:disabled {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+}
+
+.Buttonize:focus-visible {
+    outline: 4px dashed cyan;
+    border-radius: 4px;
 }
 
 .Buttonnize:hover {
