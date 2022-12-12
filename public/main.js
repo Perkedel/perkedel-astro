@@ -605,6 +605,33 @@ function setDownloadLinkVisibility(into = true) {
     }
 }
 
+function appearMoreNavMenuDialog() {
+    let contento = document.getElementById('navMoreList').innerHTML;
+    // modal https://tingle.robinparisi.com/
+    let windowe = new tingle.modal({
+        footer: true,
+        onOpen: function() {
+
+        },
+        closeLabel: "Close",
+    });
+    // windowe.setContent(`<h2>URL Info</h2><p><b style="color:cyan;"><code>` + location.href + `</code></b><br/><br/>Pathname: <b style="color:cyan;"><code>` + location.pathname + `</code></b><br/>Origin: <b style="color:cyan;"><code>` + location.origin + `</code></b><br/></p>`);
+    windowe.setContent(`
+        <h2>More Navigation Menus</h2>
+        <p>
+            Select!
+        </p>
+        <ul>
+        ` + contento + `
+        </ul>
+        `);
+    windowe.addFooterBtn('Close', 'tingle-btn tingle-btn--default', function() {
+        // here goes some logic
+        windowe.close();
+    });
+    windowe.open();
+}
+
 
 /*
 Moar Dump

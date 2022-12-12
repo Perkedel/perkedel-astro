@@ -32,11 +32,11 @@ const {
         <slot name="CustomNav"/>
 
         <!-- <li class="NavHistoryPutRight dropdown"> -->
-        <li class="NavPutRight dropdown">
+        <li id="navMoreDropdown" class="NavPutRight dropdown">
             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
             <a class="dropbtn NavBtn" title="Open Menu" href='#'>&#xf85b;</a>
             
-            <ul class="dropdown-content">
+            <ul id="navMoreList" class="dropdown-content">
                 <slot name="CustomNavMore"/>
                 <li><SettingWindow handoverTitle={handoverTitle}><slot name="SettingContains"/><slot name="SettingListCelss"/></SettingWindow></li>
                 <li><RefreshButton Classer="NavBtn"/></li>
