@@ -43,7 +43,7 @@ const {
                 <!-- <li><CopyToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li> -->
                 <li><CopyURLToClipboardButton Classer="NavBtn" title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li>
                 <li><URLInfoButton Classer="NavBtn"/></li>
-                <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li>
+                <!-- <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li> -->
                 <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
                 <li><a title="Go view our RSS (link can by copy pasted to your newsreader)" href="/rss.xml" class="NavBtn" id="RSSButton" style={Astro.url.pathname.startsWith('/rss.xml')?"color:cyan;":""}>📰 RSS &#xf143;</a></li>
                 <li><a title="Go view our Sitemap (link can by copy pasted to your web crawler)" href="/sitemap-0.xml" class="NavBtn" id="SitemapButton" style={Astro.url.pathname.startsWith('/sitemap-0.xml')?"color:cyan;":""}>🗺️ Sitemap &#xf0e8;</a></li>
