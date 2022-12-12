@@ -15,6 +15,7 @@ import ListCellsCardiophileSFW from '@components/Elements/SparePart/ListCellsCar
 import ListCellsCardiophileNSFW from '@components/Elements/SparePart/ListCellsCardiophileNSFW.astro';
 import ListCellsCardiophileDiscordSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileDiscordSFW.astro';
 import ListCellsCardiophileDiscordNSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileDiscordNSFW.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -34,6 +35,8 @@ const{
     <h1>🫀🩺💓Heartbeat Stuffs ({nsfw?"FULL":"LITE"} VERSION)</h1>
         <p>Things related to <i>Detak Jantung</i> & its fetishes around it.</p>
         <h2>What to do?</h2>
+            <p>Here heartbeat Stuffs</p>
+            <KolmoIsOverwhelmed/>
             <ul>
                 <ListCellsCardiophileSFW/>
                 {nsfw?<ListCellsCardiophileNSFW/>:""}

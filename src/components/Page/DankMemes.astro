@@ -14,6 +14,7 @@ import ListCellsDankMemesSFW from '@components/Elements/SparePart/ListCells/List
 import ListCellsDankMemesNSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesNSFW.astro';
 import CorePage from './__CorePage.astro';
 import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -33,6 +34,7 @@ const{
     >
     <p>Dank Memes! Funny things collections
     </p>
+    <KolmoIsOverwhelmed/>
     <h2>Settings</h2>
         <ul>
             <DownloadShowHideListCell/>

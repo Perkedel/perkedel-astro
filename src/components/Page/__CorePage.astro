@@ -15,6 +15,7 @@ import ListCellsCardiophileSFW from '@components/Elements/SparePart/ListCellsCar
 import ListCellsCardiophileNSFW from '@components/Elements/SparePart/ListCellsCardiophileNSFW.astro';
 import ListCellsCSSSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSSFW.astro';
 import ListCellsCSSNSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSNSFW.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -42,6 +43,7 @@ const{
     rating={(nsfw?"adult":"")}
     >
     <h1>{addHeaderTitle} ({nsfw?"FULL":"LITE"} VERSION)</h1>
+        <KolmoIsOverwhelmed/>
         <slot>
             <p class="error"><i>Empty content!!!</i></p>
         </slot>
