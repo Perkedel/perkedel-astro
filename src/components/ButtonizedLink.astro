@@ -33,9 +33,9 @@ const {
 <a id={id} class={"Buttonnize " + classe} target={target} rel={'prefetch ' + rel} href={href} title={title} download={download}>
     <slot name="prefix"/>
     <!-- {content != ''? content: href} -->
-    {content}
+    {content} 
     <slot>
-        
+        ({href})
     </slot>
     <!-- <br/>{description} -->
     <!-- TODO: add `openInNewTab` bool that preadds `target="_blank" rel="noopener noreferrer"` -->

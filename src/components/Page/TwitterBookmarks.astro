@@ -1,0 +1,62 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import ListCellsTwitterBookmarksSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksSFW.astro';
+import ListCellsTwitterBookmarksNSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksNSFW.astro';
+import CorePage from './__CorePage.astro';
+import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords='Twitter, Elon, Musk, bird, drama, cancer, twitter drama'
+    addDescriptions='Twitter Random Stuffs'
+    addHeaderTitle='Twitter Bookmarks'
+    addMetaTitle='Twitter random'
+    author='JOELwindows7'
+    >
+    <p>Add all Twitter URLs from 
+        <a href="http://twitter.com/@JOELwindows7" target="_blank" rel="noopener noreferrer">
+            @JOELwindows7's Bookmarks
+        </a> 
+        to here. Then delete that added URL here from bookmark to mark it done.<br/>
+        You can also propose to add yours by creating a 
+        <a 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        href={"https://github.com/Perkedel/perkedel-astro/issues/new?assignees=JOELwindows7&labels=enhancement&template=proposal.yml"}
+        >
+            GitHub issue in our Website repository
+        </a>. 
+        Please use <code>(Twitter)[Twitter Bookmark]</code> or just <code>(Twitter)</code> title tag!
+    </p>
+
+    <p class="warning">
+        Note: Tweets must be a <b>public user</b>! Posting private URL may anger that user into blocking!<br/>
+        This will also more burden if a user is private, as your burner account may not be accepted again.
+    </p>
+
+    <h2>What to do?</h2>
+        <h3>Bookmarks</h3>
+            <ul>
+                <ListCellsTwitterBookmarksSFW/>
+                {nsfw?<ListCellsTwitterBookmarksNSFW/>:""}
+            </ul>
+</CorePage>
