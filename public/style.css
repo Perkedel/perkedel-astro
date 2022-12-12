@@ -84,6 +84,11 @@ https://nerdfonts.com
     outline: none;
 }
 
+:focus-visible {
+    outline: 1px solid cyan;
+    border-radius: 2px;
+}
+
 
 /**{*/
 
@@ -302,6 +307,11 @@ a {
     color: orange;
 }
 
+a:focus-visible {
+    outline: 1px solid cyan;
+    border-radius: 2px;
+}
+
 a:hover {
     cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
     background-color: orange;
@@ -469,6 +479,11 @@ nav a:visited {
 
 
 /*Remember, the visited statuses are also considered as a subgroup!*/
+
+nav a:focus-visible {
+    outline: 2px dashed cyan;
+    border-radius: 5px;
+}
 
 nav a:hover,
 nav a:visited:hover {
@@ -1132,6 +1147,11 @@ kbd {
     /* Rounded corners */
     font-size: 18px;
     /* Increase font size */
+}
+
+.SpecialityButton:focus-visible {
+    outline: 2px dashed cyan;
+    border-radius: 4px;
 }
 
 .SpecialityButton:hover {
