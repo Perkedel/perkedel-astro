@@ -621,7 +621,7 @@ function appearMoreNavMenuDialog() {
         <p>
             Select!
         </p>
-        <ul>
+        <ul class="ButtonizeListChildrenLinks">
         ` + contento + `
         </ul>
         `);
