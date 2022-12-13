@@ -1666,6 +1666,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     /* Non Harry Potter print media CSS 
     Harry Potter media should use Screen Light mode 
      https://www.w3schools.com/css/css3_mediaqueries.asp */
+    header{
+        background-color: initial;
+    }
     body {
         background-color: initial;
     }
@@ -1806,6 +1809,40 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/forced-colors */
 
 @media(forced-colors:active) {
+    :root{
+        scrollbar-color: blue;
+    }
+    ::-webkit-scrollbar-track {
+        /* background: rgb(171, 171, 222); */
+        /* background: rgba(171, 171, 222, .25); */
+        border: 1px solid white;
+    }
+     ::-webkit-scrollbar-thumb {
+        /* background: rgb(0, 0, 189); */
+        /* background: rgba(0, 0, 189, .8); */
+        border: 1px solid black;
+    }
+     ::-webkit-scrollbar-thumb:active {
+        /* background: greenyellow; */
+        /* background: rgba(136, 255, 0, 0.8); */
+        border: 1px solid cyan;
+    }
+     ::-webkit-scrollbar-corner {
+        /* background: rgb(71, 142, 0); */
+        border: 1px solid brown;
+    }
+     ::-webkit-resizer {
+        /* color: brown; */
+        border: 1px solid blue;
+    }
+    a:hover,
+    a:visited:hover{
+        border: 1px dashed;
+    }
+    a:active,
+    a:visited:active{
+        border: 1px solid cyan;
+    }
     body {
         background-color: initial;
     }
@@ -1814,12 +1851,23 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         color: default;
         border: 2px solid darkorange;
     }
+    .Buttonize:hover{
+        border: 4px dashed;
+    }
     .SpecialityButton {
         background-color: default;
         /* Set a background color */
         color: default;
         border: 2px solid darkblue;
         border-color: rgba(0, 0, 139, 0.5);
+    }
+    .SpecialityButton:hover,
+    {
+        border: 2px dotted;
+    }
+    .SpecialityButton:active,
+    {
+        border: 2px solid cyan;
     }
     #backTopButton {
         background-color: default;
@@ -1828,15 +1876,28 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid darkblue;
         border-color: rgba(0, 0, 139, 0.5);
     }
-    nav {
-        position: static;
+    #backTopButton:hover{
+        border: 2px dotted;
+    }
+    #backTopButton:active{
+        border: 2px solid cyan;
     }
     nav a,
     nav a:link,
     nav a:visited {
         background-color: initial;
-        color: darkblue;
-        border: 2px solid darkblue;
+        color: blue;
+        border: 2px solid blue;
+    }
+    nav a:hover,
+    nav a:visited:hover
+    {
+        border: 2px dotted;
+    }
+    nav a:active,
+    nav a:visited:active
+    {
+        border: 2px solid cyan;
     }
     .ButtonizeListChildrenLinks a {
         background-color: initial;
@@ -1847,6 +1908,76 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         background-color: initial;
         color: darkorange;
         border: 2px solid darkorange;
+    }
+    .ButtonizeListChildrenLinks a:hover,
+    .ButtonizeListChildrenLinks a:visited:hover
+    {
+        border: 2px dotted;
+    }
+    .ButtonizeListChildrenLinks a:active,
+    .ButtonizeListChildrenLinks a:visited:active
+    {
+        border: 2px solid cyan;
+    }
+    .error{
+        border: 2px solid red;
+    }
+    .warning{
+        border: 2px solid orange;
+    }
+    .info{
+        border: 2px solid blue;
+    }
+    .success{
+        border: 2px solid green;
+    }
+    .busy{
+        border: 1px solid yellow;
+    }
+    .tingle-modal-box{
+        border: 1px solid blue;
+    }
+    .tingle-modal-box__footer{
+        border: 1px solid blue;
+    }
+    .tingle-btn {
+        border: 2px solid blue;
+    }
+    
+    .tingle-btn--primary {
+        border: 2px solid blue;
+    }
+    
+    .tingle-btn--primary:hover {
+        border: 2px dotted blue;
+    }
+    
+    .tingle-btn--primary:active {
+        border: 2px solid cyan;
+    }
+    
+    .tingle-btn--danger {
+        border: 2px solid red;
+    }
+    
+    .tingle-btn--danger:hover {
+        border: 2px dotted red;
+    }
+    
+    .tingle-btn--danger:active {
+        border: 2px solid cyan;
+    }
+    
+    .tingle-btn--default {
+        border: 2px solid white;
+    }
+    
+    .tingle-btn--default:hover {
+        border: 2px dotted white;
+    }
+    
+    .tingle-btn--default:active {
+        border: 2px solid cyan;
     }
 }
 
