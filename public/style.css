@@ -1862,12 +1862,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid darkblue;
         border-color: rgba(0, 0, 139, 0.5);
     }
-    .SpecialityButton:hover,
-    {
+    .SpecialityButton:hover {
         border: 2px dotted;
     }
-    .SpecialityButton:active,
-    {
+    .SpecialityButton:active {
         border: 2px solid cyan;
     }
     #backTopButton {
