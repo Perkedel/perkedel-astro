@@ -14,6 +14,7 @@ export interface Props {
     id?:string;
     openInNewTab?:boolean;
     allowRefererNewTab?:boolean;
+    defaultShowURL?:boolean;
 }
 
 const { 
@@ -31,6 +32,7 @@ const {
     id,
     openInNewTab = false,
     allowRefererNewTab = false,
+    defaultShowURL = false,
 } = Astro.props as Props;
 ---
 <!-- https://docs.astro.build/en/guides/integrations-guide/prefetch/ -->
@@ -46,7 +48,8 @@ const {
     <!-- {content != ''? content: href} -->
     {content} 
     <slot>
-        ({href})
+        <!-- ({href}) -->
+        {defaultShowURL? "("+href+")":""}
     </slot>
     <!-- <br/>{description} -->
     <!-- TODO: add `openInNewTab` bool that preadds `target="_blank" rel="noopener noreferrer"` -->

@@ -71,6 +71,7 @@ https://nerdfonts.com
     https://youtu.be/u4O2GKjgMlg
      */
     scroll-behavior: smooth;
+    word-wrap: break-word;
 }
 
 
@@ -1666,7 +1667,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     /* Non Harry Potter print media CSS 
     Harry Potter media should use Screen Light mode 
      https://www.w3schools.com/css/css3_mediaqueries.asp */
-    header{
+    header {
         background-color: initial;
     }
     body {
@@ -1809,10 +1810,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/forced-colors */
 
 @media(forced-colors:active) {
-    :root{
+     :root {
         scrollbar-color: blue;
     }
-    ::-webkit-scrollbar-track {
+     ::-webkit-scrollbar-track {
         /* background: rgb(171, 171, 222); */
         /* background: rgba(171, 171, 222, .25); */
         border: 1px solid white;
@@ -1836,11 +1837,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 1px solid blue;
     }
     a:hover,
-    a:visited:hover{
+    a:visited:hover {
         border: 1px dashed;
     }
     a:active,
-    a:visited:active{
+    a:visited:active {
         border: 1px solid cyan;
     }
     body {
@@ -1851,7 +1852,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         color: default;
         border: 2px solid darkorange;
     }
-    .Buttonize:hover{
+    .Buttonize:hover {
         border: 4px dashed;
     }
     .SpecialityButton {
@@ -1876,10 +1877,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid darkblue;
         border-color: rgba(0, 0, 139, 0.5);
     }
-    #backTopButton:hover{
+    #backTopButton:hover {
         border: 2px dotted;
     }
-    #backTopButton:active{
+    #backTopButton:active {
         border: 2px solid cyan;
     }
     nav a,
@@ -1890,13 +1891,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid blue;
     }
     nav a:hover,
-    nav a:visited:hover
-    {
+    nav a:visited:hover {
         border: 2px dotted;
     }
     nav a:active,
-    nav a:visited:active
-    {
+    nav a:visited:active {
         border: 2px solid cyan;
     }
     .ButtonizeListChildrenLinks a {
@@ -1910,72 +1909,61 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid darkorange;
     }
     .ButtonizeListChildrenLinks a:hover,
-    .ButtonizeListChildrenLinks a:visited:hover
-    {
+    .ButtonizeListChildrenLinks a:visited:hover {
         border: 2px dotted;
     }
     .ButtonizeListChildrenLinks a:active,
-    .ButtonizeListChildrenLinks a:visited:active
-    {
+    .ButtonizeListChildrenLinks a:visited:active {
         border: 2px solid cyan;
     }
-    .error{
+    .error {
         border: 2px solid red;
     }
-    .warning{
+    .warning {
         border: 2px solid orange;
     }
-    .info{
+    .info {
         border: 2px solid blue;
     }
-    .success{
+    .success {
         border: 2px solid green;
     }
-    .busy{
+    .busy {
         border: 1px solid yellow;
     }
-    .tingle-modal-box{
+    .tingle-modal-box {
         border: 1px solid blue;
     }
-    .tingle-modal-box__footer{
+    .tingle-modal-box__footer {
         border: 1px solid blue;
     }
     .tingle-btn {
         border: 2px solid blue;
     }
-    
     .tingle-btn--primary {
         border: 2px solid blue;
     }
-    
     .tingle-btn--primary:hover {
         border: 2px dotted blue;
     }
-    
     .tingle-btn--primary:active {
         border: 2px solid cyan;
     }
-    
     .tingle-btn--danger {
         border: 2px solid red;
     }
-    
     .tingle-btn--danger:hover {
         border: 2px dotted red;
     }
-    
     .tingle-btn--danger:active {
         border: 2px solid cyan;
     }
-    
     .tingle-btn--default {
         border: 2px solid white;
     }
-    
     .tingle-btn--default:hover {
         border: 2px dotted white;
     }
-    
     .tingle-btn--default:active {
         border: 2px solid cyan;
     }
