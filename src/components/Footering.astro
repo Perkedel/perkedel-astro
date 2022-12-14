@@ -6,16 +6,18 @@ import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astr
 
 export interface Props{
   rating?:string;
-    nsfw?:Boolean;
-    addDescriptions?:string;
-    addKeywords?:string;
+  nsfw?:Boolean;
+  addDescriptions?:string;
+  addKeywords?:string;
+  nsfwConfirmation?:Boolean;
 }
 
 const{
   rating="",
-    nsfw=false,
-    addDescriptions='',
-    addKeywords='',
+  nsfw=false,
+  addDescriptions='',
+  addKeywords='',
+  nsfwConfirmation = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- FOOTER -->
@@ -37,7 +39,10 @@ const{
     </font>
     <p>© Perkedel Technologies, Some Rights Reserved</p>
     <!-- <br/> -->
-    <RegenerateWordButton nsfw={rating.includes('adult') || nsfw}/>
+    <RegenerateWordButton nsfw={(rating.includes('adult') || nsfw) && !nsfwConfirmation}/>
+    <!-- the NSFW confirmation must be false, do not promote NSFW just yet until it's all confirmed. 
+      like while during entryNSFW, 
+      those maybe who violates the warning. -->
     <p class="generateWord" id="generateWord"></p>
 </footer>
 

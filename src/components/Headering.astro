@@ -5,9 +5,9 @@ import { Icon, Sprite } from 'astro-icon';
 export interface Props {
   viewSourceURL?: string;
   rating?:string;
-    nsfw?:Boolean;
-    addDescriptions?:string;
-    addKeywords?:string;
+  nsfw?:Boolean;
+  addDescriptions?:string;
+  addKeywords?:string;
   handoverTitle?:string;
   nsfwConfirmation?:Boolean;
 }
@@ -17,9 +17,9 @@ let doViewSource = 'view-source:' + currJustAddr;
 const {
   viewSourceURL = doViewSource,
   rating="",
-    nsfw=false,
-    addDescriptions='',
-    addKeywords='',
+  nsfw=false,
+  addDescriptions='',
+  addKeywords='',
   handoverTitle = '???',
   nsfwConfirmation = false,
   } = Astro.props.frontmatter || Astro.props as Props;
