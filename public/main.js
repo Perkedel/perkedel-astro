@@ -675,6 +675,11 @@ function appearMoreNavMenuDialog() {
     windowe.open();
 }
 
+function PoosayClin(poosayFresh = '') {
+    // TODO: remove `enterNSFW/nsfw` or `enterNSFW` from URL path & then go to it!
+    // poosayFresh = handover URL with that `enterNSFW/nsfw`
+}
+
 
 /*
 Moar Dump

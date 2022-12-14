@@ -6,6 +6,7 @@ export interface Props{
 const{ inConfirmation = false} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- Make the Poop button / return to SFW modular to be reusable on everything. -->
+<!-- TODO: advanced detector of `enterNSFW/nsfw` & then throw that away thing -->
 <a title={inConfirmation?"Throw the red pill to the toilet & then flush it":"Return to SFW version of this page"} href={inConfirmation?"..":"../.."} class="NavBtn" id="PoopButton" style={""} set:html={"🚽 &#xe20e;"}></a>
 <!-- I'm confused now!
 - I think holding poop is discouraged! But then
