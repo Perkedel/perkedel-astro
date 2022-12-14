@@ -9,6 +9,7 @@ export interface Props {
     addDescriptions?:string;
     addKeywords?:string;
   handoverTitle?:string;
+  nsfwConfirmation?:Boolean;
 }
 // let currJustAddr = 'https://perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let currJustAddr = Astro.url.origin+'/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
@@ -20,6 +21,7 @@ const {
     addDescriptions='',
     addKeywords='',
   handoverTitle = '???',
+  nsfwConfirmation = false,
   } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- HEADER & NAV
