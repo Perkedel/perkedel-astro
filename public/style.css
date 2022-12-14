@@ -424,7 +424,18 @@ nav {
     /*wtf, Neocities?! the position works! OH, wait, not all browser. but.. eh idk*/
     top: 0;
     margin: 0;
+    /* https://css.glass/ */
+    background: rgba(0, 0, 0, .25);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+    border-radius: 30px;
 }
+
+
+/* #navMoreDropdown {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+} */
 
 nav .NavPutLeft {
     float: left;
@@ -1533,6 +1544,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     header a:hover,
     header a:hover:visited {
         color: black;
+    }
+    nav {
+        background: rgba(255, 255, 255, .25);
     }
     body {
         background-color: rgb(187, 187, 221);
