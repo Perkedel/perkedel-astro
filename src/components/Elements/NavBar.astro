@@ -6,15 +6,18 @@ import CopyToClipboardButton from './CopyToClipboardButton.astro';
 import CopyURLToClipboardButton from './CopyURLToClipboardButton.astro';
 import SettingWindow from './SparePart/Options/SettingWindow.astro';
 import HistoryNavigateArrows from './SparePart/HistoryNavigateArrows.astro';
+import BerakSekarang from './SparePart/NavBtn/BerakSekarang.astro';
 export interface Props {
   viewSourceURL?: string;
   handoverTitle?:string;
+  rating?:string;
 }
 let currJustAddr = 'https://perkedel.netlify.app/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let doViewSource = 'view-source:' + currJustAddr;
 const {
     viewSourceURL = doViewSource,
     handoverTitle = '???',
+    rating = '',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <nav>
@@ -28,6 +31,12 @@ const {
         <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style={Astro.url.pathname =='/'?"color:cyan;":""}>🏠 Home &#xf015;</a></li>
         <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style={Astro.url.pathname.startsWith('/apps/')?"color:cyan;":""}>📦 Applications &#xf53a;</a></li>
         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
+
+        <!-- Poop button -->
+        {(rating.includes('adult'))?
+        <BerakSekarang/>
+        :
+        ""}
         
         <slot name="CustomNav"/>
 
