@@ -76,7 +76,7 @@ for (var i = 0; i < entireCounts; i++) {
             break;
 
         case 'pointer':
-            entireSelect[i].style.cursor = "url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer";
+            entireSelect[i].style.cursor = "url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer";
             break;
             /*
             default:
