@@ -25,5 +25,10 @@
     if(typeof scrollEventSource == 'undefined'){
       document.write(unescape("%3Cscript src='/assets/scripts/js/scroll-timeline/scroll-timeline.js' type='text/javascript'%3E%3C/script%3E"));
     }
+    if(typeof imgDataToDataURL == 'undefined'){
+      document.write(unescape("%3Clink rel='prefetch' href='https://niutech.github.io/jxl.js/jxl_dec.js' fetchpriority='high'%3E%3C/link%3E"));
+      document.write(unescape("%3Clink rel='prefetch' href='https://niutech.github.io/jxl.js/jxl_dec.wasm' fetchpriority='high'%3E%3C/link%3E"));
+      document.write(unescape("%3Cscript src='/assets/scripts/js/jxl/jxl.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
 
   </script>

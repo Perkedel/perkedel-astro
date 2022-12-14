@@ -1,3 +1,6 @@
 [submodule "public/assets/scripts/js/tingle"]
 	path = public/assets/scripts/js/tingle
 	url = https://github.com/robinparisi/tingle.git
+[submodule "public/assets/scripts/js/jxljs"]
+	path = public/assets/scripts/js/jxljs
+	url = https://github.com/niutech/jxl.js.git
