@@ -11,6 +11,7 @@ export interface Props {
     referrerpolicy?:string;
     type?:string;
     classe?:string;
+    style?:string;
     id?:string;
     openInNewTab?:boolean;
     allowRefererNewTab?:boolean;
@@ -29,6 +30,7 @@ const {
     type,
     hreflang,
     classe,
+    style,
     id,
     openInNewTab = false,
     allowRefererNewTab = false,
@@ -37,7 +39,9 @@ const {
 ---
 <!-- https://docs.astro.build/en/guides/integrations-guide/prefetch/ -->
 <a 
-    id={id} class={"Buttonnize " + classe} 
+    id={id} 
+    style={style}
+    class={"Buttonnize " + classe} 
     target={(openInNewTab?"_blank ":"")+target} 
     rel={'prefetch ' + rel + (openInNewTab?(allowRefererNewTab?"":" noopener noreferrer"): "")} 
     href={href} 
