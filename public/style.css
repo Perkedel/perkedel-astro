@@ -658,7 +658,7 @@ input:disabled {
 }
 
 .error a:visited {
-    color: black;
+    color: gray;
 }
 
 .warning {
@@ -1583,7 +1583,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         color: blue;
     }
     a {
-        color: rgb(126, 69, 0);
+        color: darkblue;
     }
     .controls {
         background: aquamarine;
@@ -1716,6 +1716,26 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         color: darkblue;
         border: 2px solid darkblue;
     }
+    .error {
+        background-color: initial;
+        border: 2px solid red;
+    }
+    .warning {
+        background-color: initial;
+        border: 2px solid orange;
+    }
+    .info {
+        background-color: initial;
+        border: 2px solid blue;
+    }
+    .success {
+        background-color: initial;
+        border: 2px solid green;
+    }
+    .busy {
+        background-color: initial;
+        border: 2px solid yellow;
+    }
     .ButtonizeListChildrenLinks a {
         background-color: initial;
         color: darkorange;
@@ -1764,6 +1784,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     }
     .hideScroll.fromCWScroll:not(.showScroll) {
         transform: none;
+    }
+    .SpecialityButton {
+        background-color: initial;
     }
 }
 
@@ -1941,7 +1964,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid green;
     }
     .busy {
-        border: 1px solid yellow;
+        border: 2px solid yellow;
     }
     .tingle-modal-box {
         border: 1px solid blue;
