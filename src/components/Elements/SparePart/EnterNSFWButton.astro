@@ -6,6 +6,9 @@ import LFMSymbol from '@components/Icons/LFMSymbol.astro';
 import { Icon, Sprite } from 'astro-icon';
 ---
 <hr/>
+<details>
+<summary>Upgrade to Full version (Show 69420), $0 / Free, Permanent!</summary>
+
 <!-- <h2>Enter the FULL VERSION room, $0 & Permanent <b style="color:red;">&#xf901;</b></h2> -->
 <h2>Enter the FULL VERSION room, $0 & Permanent <Icon style="color:red;" height="36px" name="gg:pill" /></h2>
     <MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="18+ Only" detailSummary="Only for biologically mature audicences">
@@ -26,7 +29,14 @@ import { Icon, Sprite } from 'astro-icon';
                 },
                 closeLabel: "Close",
             });
-            windowe.setContent(`<h2>⚠️ Are you sure?</h2><p>This will Show the NSFW Entry link.<br/>You really must be <mark>18+</mark> in order to enter this!<br/><i>Choose your pill wisely!</i> Your mental readiness & mental wellbeing is matter!</p>`);
+            windowe.setContent(`
+            <h2>⚠️ Are you sure?</h2>
+                <p>
+                    This will Show the NSFW Entry link.<br/>
+                    You really must be <mark>18+</mark> in order to enter this!<br/>
+                    <i>Choose your pill wisely!</i> Your mental readiness & mental wellbeing is matter!
+                </p>
+            `);
             windowe.addFooterBtn('YES', 'tingle-btn tingle-btn--danger', function() {
                 // here goes some logic
                 document.getElementById('daNSFWLinkLol').style.display = 'block';
@@ -67,3 +77,5 @@ import { Icon, Sprite } from 'astro-icon';
             <Icon style="color:saddlebrown;" height="36px" name="ic:baseline-arrow-circle-left" /></a>
     </p>
     <p id="daNSFWLinkLol" style="display:none;"><a href="enterNSFW">Enter</a></p>
+
+</details>
