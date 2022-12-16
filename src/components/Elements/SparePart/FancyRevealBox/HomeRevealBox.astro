@@ -4,13 +4,13 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 ---
-<div class="hideScroll fromBackSideScroll" style="display:block;">
-    <h2>Welcome to Perkedel NTLF+ASTR</h2>
-        <p>Begin your tech journey!</p>
-        <p style="text-align:center;">
+<div class="hideScroll fromBackSideScroll delayScroll" style="display:block;">
+    <h2 style="text-align:center;" class="hideScroll">Welcome to Perkedel NTLF+ASTR</h2>
+        <p style="text-align:center;" class="hideScroll fromUpSideScroll">Begin your tech journey!</p>
+        <p style="text-align:center;" class="hideScroll fromBackSideScroll">
             <ButtonizedLink style="font-size:2em;" href='/apps'>📦 Applications &#xf53a;</ButtonizedLink>
         </p>
-        <p style="display:block;text-align:center;">
+        <p style="display:block;text-align:center;" class="hideScroll fromDownSideScroll delayScroll">
             <!-- <ul style="list-style-type: none; text-align:center;">
                 <li> <ButtonizedLink style="float:left;" href="/about">📃 About &#xf05a;</ButtonizedLink> </li>
                 <li> <ButtonizedLink style="float:left;" href="/terms_of_service">⚖️ Terms of Service &#xf495;</ButtonizedLink> </li>
