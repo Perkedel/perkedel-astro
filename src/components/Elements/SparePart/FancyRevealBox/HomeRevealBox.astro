@@ -4,20 +4,20 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 ---
-<div class="hideScroll fromBackSideScroll delayScroll" style="display:block;">
-    <h2 style="text-align:center;" class="hideScroll">Welcome to Perkedel NTLF+ASTR</h2>
-        <p style="text-align:center;" class="hideScroll fromUpSideScroll">Begin your tech journey!</p>
-        <p style="text-align:center;" class="hideScroll fromBackSideScroll">
+<div class="hideScroll fromBackSideScroll" style="display:block;">
+    <h2 style="text-align:center;" class="hideScroll delayScroll">Welcome to Perkedel NTLF+ASTR</h2>
+        <p style="text-align:center;" class="hideScroll fromUpSideScroll delayScroll">Begin your tech journey!</p>
+        <p style="text-align:center;" class="hideScroll fromBackSideScroll delayScroll">
             <ButtonizedLink style="font-size:2em;" href='/apps'>📦 Applications &#xf53a;</ButtonizedLink>
         </p>
-        <p style="display:block;text-align:center;" class="hideScroll fromDownSideScroll delayScroll">
+        <p style="display:block;text-align:center;">
             <!-- <ul style="list-style-type: none; text-align:center;">
                 <li> <ButtonizedLink style="float:left;" href="/about">📃 About &#xf05a;</ButtonizedLink> </li>
                 <li> <ButtonizedLink style="float:left;" href="/terms_of_service">⚖️ Terms of Service &#xf495;</ButtonizedLink> </li>
                 <li> <ButtonizedLink style="float:left;" href="/privacy_policy">📜 Privacy Policy &#xf069;</ButtonizedLink> </li>
             </ul> -->
-            <ButtonizedLink href="/about">📃 About &#xf05a;</ButtonizedLink> 
-            <ButtonizedLink href="/terms_of_service">⚖️ Terms of Service &#xf495;</ButtonizedLink> 
-            <ButtonizedLink href="/privacy_policy">📜 Privacy Policy &#xf069;</ButtonizedLink>
+            <ButtonizedLink href="/about" classe="hideScroll fromDownSideScroll delayScroll">📃 About &#xf05a;</ButtonizedLink> 
+            <ButtonizedLink href="/terms_of_service" classe="hideScroll fromDownSideScroll delayScroll">⚖️ Terms of Service &#xf495;</ButtonizedLink> 
+            <ButtonizedLink href="/privacy_policy" classe="hideScroll fromDownSideScroll delayScroll">📜 Privacy Policy &#xf069;</ButtonizedLink>
         </p>
 </div>
