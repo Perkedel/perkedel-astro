@@ -41,6 +41,7 @@
         "focus-visible": "^5.2.0",
         "html-midi-player": "^1.5.0",
         "htmx.org": "^1.8.4",
+        "ie-polyfill": "^1.0.2",
         "jquery": "^3.6.1",
         "leaflet": "^1.9.3",
         "lit": "^2.4.1",

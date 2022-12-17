@@ -9,45 +9,45 @@ import type { MarkdownLayoutProps } from 'astro';
 
 type Props = MarkdownLayoutProps<{
   // Define frontmatter props here
-  title?: string;
-  type?:string;
-  author?: string;
-  date?: string;
-  dateMod?: string;
-  dateExp?: string;
-  description?: string;
-  keywords?: string;
-  hideInfo?: boolean;
-  thumbnail?:string;
-  thumbnailType?:string;
-  thumbnailWidth?:number;
-  thumbnailHeight?:number;
-  thumbnailAlt?:string;
-  thumbnailAudio?:string;
-  thumbnailVideo?:string;
-  noIndex?:boolean;
-  noFollow?:boolean;
-  rating?:string;
-  favIcon?:string;
-  favIconType?:string;
-  favIconAlt?:string;
-  favIconAltType?:string;
-  favIconHD?:string;
-  favIconHDType?:string;
-  favIconHDAlt?:string;
-  favIconHDWidth?:number;
-  favIconHDHeight?:number;
-  charSet?:string;
-  language?:string;
-  twitterAuthor?:string;
-  twitterSite?:string;
-  twitterCard?:string;
-  themeColor?:string;
+    title?: string;
+    type?:string;
+    author?: string;
+    date?: string;
+    dateMod?: string;
+    dateExp?: string;
+    description?: string;
+    keywords?: string;
+    hideInfo?: boolean;
+    thumbnail?:string;
+    thumbnailType?:string;
+    thumbnailWidth?:number;
+    thumbnailHeight?:number;
+    thumbnailAlt?:string;
+    thumbnailAudio?:string;
+    thumbnailVideo?:string;
+    noIndex?:boolean;
+    noFollow?:boolean;
+    rating?:string;
+    favIcon?:string;
+    favIconType?:string;
+    favIconAlt?:string;
+    favIconAltType?:string;
+    favIconHD?:string;
+    favIconHDType?:string;
+    favIconHDAlt?:string;
+    favIconHDWidth?:number;
+    favIconHDHeight?:number;
+    charSet?:string;
+    language?:string;
+    twitterAuthor?:string;
+    twitterSite?:string;
+    twitterCard?:string;
+    themeColor?:string;
 }>;
 const { frontmatter, 
         url,
         // hideInfo = 'false',
- } = Astro.props;
+} = Astro.props;
 
 // let handoverHideInfo = frontmatter.hideInfo;
 //  if(frontmatter.hideInfo){
@@ -130,7 +130,7 @@ const { frontmatter,
                 <tr>
                     <td>Author</td>
                     <td>{frontmatter.author} (
-                        <a target="_blank" rel="noopener noreferrer" href={'https://twitter.com/'+frontmatter.twitterAuthor}>&#xf099; {frontmatter.twitterAuthor}</a>;
+                        <a target="_blank" rel="noopener noreferrer" href={'https://twitter.com/'+(frontmatter.twitterAuthor || '@' + frontmatter.author)}>&#xf099; {frontmatter.twitterAuthor || '@' + frontmatter.author}</a>;
 
                         )</td>
                 </tr>
