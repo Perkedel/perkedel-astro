@@ -1,0 +1,47 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import ListCellsTwitterBookmarksSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksSFW.astro';
+import ListCellsTwitterBookmarksNSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksNSFW.astro';
+import CorePage from '../__CorePage.astro';
+import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+    username:string;
+    photoURL?:string;
+    links?:Array<Array<String>>;
+}
+
+// Add these yourself!
+const bioLinks = [
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', 'ICON']
+]
+// end Add these yourself
+
+const{
+    nsfw=false,
+    username = '',
+    photoURL = '',
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords={'linktree, biolink, link in bio, ' + username + ','}
+    addDescriptions='Link Bio Tree of USER'
+    addHeaderTitle={'@'+username + ' BioLinks'}
+    addMetaTitle={'@'+username + ' BioLinks'}
+    author={username}
+    >
+
+</CorePage>
