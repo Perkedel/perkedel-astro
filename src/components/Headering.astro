@@ -49,6 +49,10 @@ const {
   maybe back again to gg:pill ?
   -->
   <hr/>
+  <div class="addressBarYeah" style="">
+    <p style="margin:0;">{Astro.url.href}</p>
+    <hr/>
+  </div>
   <NavBar handoverTitle={handoverTitle} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation}>
   <slot name="SettingContains" slot="SettingContains"/>
   </NavBar>
