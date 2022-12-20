@@ -23,9 +23,9 @@ const {
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <nav>
-    <div class="addressBarYeah" style="" media="print">
+    <div class="addressBarYeah" style="">
         <p style="margin:0;">{Astro.url.href}</p>
-        <hr>
+        <hr/>
     </div>
     <ul>
         <HistoryNavigateArrows/>
