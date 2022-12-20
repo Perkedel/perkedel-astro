@@ -57,6 +57,8 @@ const{
         {links.map(datas =>(
             <li>
                 <ButtonizedLink 
+                    classe="BioLinks"
+                    style="width:75%;"
                     href={datas[0]} 
                     set:html={datas[3]+" "+datas[1]+""} 
                     target="_blank" 
@@ -68,6 +70,8 @@ const{
         {nsfw?linksNSFW.map(datas =>(
             <li>
                 <ButtonizedLink 
+                    classe="BioLinks BioLinksNSFW"
+                    style="width:75%;"
                     href={datas[0]} 
                     set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"} 
                     target="_blank" 

@@ -4,6 +4,10 @@
 # Additionally, it provides correction in event of URL mistype,
 # as well as short linking.
 
+# Home
+/home /
+/index /
+
 # Privacy Policy
 /privacy /privacy_policy
 /privacies /privacy_policy
@@ -106,3 +110,10 @@
 /apps/cardiophilia /apps/Cardiophile
 /apps/cardiophillia /apps/Cardiophile
 /apps/cardiophille /apps/Cardiophile
+
+# Profiles
+/@* /apps/profile/@:splat
+/linktree/* /apps/profile/@:splat
+/user/* /apps/profile/@:splat
+/users/* /apps/profile/@:splat
+/u/* /apps/profile/@:splat
