@@ -24,6 +24,7 @@ export interface Props{
     addHeaderTitle?:string;
     addMetaTitle?:string;
     author?:string;
+    disableOverwhelmStatement?:boolean;
 }
 
 const{
@@ -33,6 +34,7 @@ const{
     addHeaderTitle='HEADER_TITLE',
     addMetaTitle='META_TITLE',
     author = 'JOELwindows7',
+    disableOverwhelmStatement = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <Layout
@@ -43,7 +45,7 @@ const{
     rating={(nsfw?"adult":"")}
     >
     <h1>{addHeaderTitle} ({nsfw?"FULL":"LITE"} VERSION)</h1>
-        <KolmoIsOverwhelmed/>
+        {disableOverwhelmStatement?"":<KolmoIsOverwhelmed/>}
         <slot>
             <p class="error"><i>Empty content!!!</i></p>
         </slot>

@@ -1,5 +1,22 @@
 ---
+import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 ---
+<MessageBoxTemplate
+    headingTitle={"Please note below for which currencies are usable in real life!"}
+    detailSummary={"Usable & Unusable currencies"}
+    detailSay={"The following are list of usable & unusable currencies. At the moment, <b>we are prioritizing on usable currencies</b> that we can immediately use them to pay up some fees.<br/>Therefore, do make sure that you donate to us with usable currencies beforehand. Thancc cool and good."}
+    opens={true}
+    severity={0}
+    >
+    <p style="font-size:1.5em;" class="success">Usable:</p>
+        <ul>
+            <li>Centralized / Classic money. In any currencies across galaxies that should be tangible or in a classic bank such as USD, IDR, JPY, (DSB) Kiblonz. Your transfer broker should be able & shall exchange them to our country's currency (IDR).</li>
+        </ul>
+    <p style="font-size:1.5em;" class="error">Unusable:</p>
+        <ul>
+            <li>Any Cryptocurrency. In any cryptocurrency across galaxies that are stored digitally through a complex algorithm such as ETH, BTC, (Kvz) Kivrontz. We are having difficulty to send back these coins to a classic currencies nor encountering so many merchants that willing to accept crypto around our area of business which is unfortunate.</li>
+        </ul>
+</MessageBoxTemplate>
 <ul>
     <li><a href="https://odysee.com/$/invite/@JOELwindows7" target="_blank" rel="noopener noreferrer">(International, SFW) Odysee (you can also pay with <i>real</i> / centralized money! Well, if you don't want crypto, but hey you can directly now!)</a></li>
     <li><a href="https://sociabuzz.com/joelwindows7/tribe" target="_blank" rel="noopener noreferrer">(Indonesia, SFW) Sociabuzz</a></li>

@@ -23,7 +23,7 @@ const {
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <nav>
-    <div class="addressBarYeah" style="display:none">
+    <div class="addressBarYeah" style="" media="print">
         <p style="margin:0;">{Astro.url.href}</p>
         <hr>
     </div>

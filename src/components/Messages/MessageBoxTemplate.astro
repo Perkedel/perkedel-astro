@@ -89,8 +89,8 @@ const{
         }
     })() +headingTitle}</h2> -->
     <details open={opens?"open":""}>
-        <summary>{detailSummary}</summary>
-        <p>{detailSay}</p>
+        <summary set:html={detailSummary}></summary>
+        <p set:html={detailSay}></p>
         <slot></slot>
     </details>
 </div>

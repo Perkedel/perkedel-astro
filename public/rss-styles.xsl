@@ -223,6 +223,14 @@
                                         <xsl:value-of select="image/url"/>
                                     </xsl:attribute>
                                 </img> -->
+                                <embed width="30%">
+                                    <xsl:attribute name="src">
+                                        <xsl:value-of select="enclosure/url"/>
+                                    </xsl:attribute>
+                                    <xsl:attribute name="type">
+                                        <xsl:value-of select="enclosure/type"/>
+                                    </xsl:attribute>
+                                </embed>
                                 <p style="font-size:12px">in: <xsl:value-of select="category" /></p>
                                 <p style="font-size:12px">by: <xsl:value-of select="author" /></p>
                                 <!-- <p style="font-size:12px">lang: <xsl:value-of select="language" /></p> -->

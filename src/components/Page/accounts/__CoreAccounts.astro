@@ -10,22 +10,25 @@ import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be i
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
-import ListCellsTwitterBookmarksSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksSFW.astro';
-import ListCellsTwitterBookmarksNSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksNSFW.astro';
 import CorePage from '../__CorePage.astro';
-import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
-import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 
 export interface Props{
     nsfw?:Boolean;
     username:string;
     photoURL?:string;
     links?:Array<Array<String>>;
+    linksNSFW?:Array<Array<String>>;
+    thirdPartyEdit?:Boolean;
+    disableOverwhelmStatement?:boolean;
+    addKeywords?:string;
 }
 
 // Add these yourself!
 const bioLinks = [
-    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', 'ICON']
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;']
+]
+const bioLinksNSFW = [
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;']
 ]
 // end Add these yourself
 
@@ -33,15 +36,51 @@ const{
     nsfw=false,
     username = '',
     photoURL = '',
+    links = bioLinks, // & assign your variable there like `links = your_biolinks_array` in your `<USERNAMELINK>` stuff like that
+    linksNSFW = bioLinksNSFW, // Don't forget the NSFW links too if you had it. don't dare you cheat! you must be at biological mature age of your being!
+    thirdPartyEdit = false, // Admin will raise this flag if it was the other admin that created the Biolinks, not the author themselves.
+    disableOverwhelmStatement = true, // This time shall be true to prevent non-rabbit hole explorer to see that plea at an unexpected time.
+    addKeywords = '',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <CorePage
     nsfw={nsfw}
-    addKeywords={'linktree, biolink, link in bio, ' + username + ','}
-    addDescriptions='Link Bio Tree of USER'
+    addKeywords={'linktree, biolink, link in bio, ' + username + ', linktree, cointree, better, ' + addKeywords + ', '}
+    addDescriptions={'@'+username + ' BioLinks. Link Bio Tree of @'+username}
     addHeaderTitle={'@'+username + ' BioLinks'}
     addMetaTitle={'@'+username + ' BioLinks'}
     author={username}
+    disableOverwhelmStatement={disableOverwhelmStatement}
     >
-
+    <h2 style="text-align:center;">Biolinks</h2>
+    <ul>
+        {links.map(datas =>(
+            <li>
+                <ButtonizedLink 
+                    href={datas[0]} 
+                    set:html={datas[3]+" "+datas[1]+""} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    >
+                </ButtonizedLink>
+            </li>
+        ))}
+        {nsfw?linksNSFW.map(datas =>(
+            <li>
+                <ButtonizedLink 
+                    href={datas[0]} 
+                    set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    >
+                </ButtonizedLink>
+            </li>
+        )):""}
+    </ul>
+    <h2>About & More</h2>
+    <slot>
+        <p>Hello, my name is {username}!</p>
+    </slot>
+    <!-- <h2 slot="afterNSFWBar">Misc</h2> -->
+    <slot slot="afterNSFWBar"/>
 </CorePage>
