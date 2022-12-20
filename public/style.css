@@ -1722,22 +1722,27 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     }
     .error {
         background-color: initial;
+        color: initial;
         border: 2px solid red;
     }
     .warning {
         background-color: initial;
+        color: initial;
         border: 2px solid orange;
     }
     .info {
         background-color: initial;
+        color: initial;
         border: 2px solid blue;
     }
     .success {
         background-color: initial;
+        color: initial;
         border: 2px solid green;
     }
     .busy {
         background-color: initial;
+        color: initial;
         border: 2px solid yellow;
     }
     .ButtonizeListChildrenLinks a {
@@ -1959,18 +1964,28 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid cyan;
     }
     .error {
+        /* background-color: initial;
+        color: initial; */
         border: 2px solid red;
     }
     .warning {
+        /* background-color: initial;
+        color: initial; */
         border: 2px solid orange;
     }
     .info {
+        /* background-color: initial;
+        color: initial; */
         border: 2px solid blue;
     }
     .success {
+        /* background-color: initial;
+        color: initial; */
         border: 2px solid green;
     }
     .busy {
+        /* background-color: initial;
+        color: initial; */
         border: 2px solid yellow;
     }
     .tingle-modal-box {
