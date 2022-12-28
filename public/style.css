@@ -1533,6 +1533,22 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     display:none;
 }
 
+.BioLinksList{
+    /* use:
+    - Listnostyle
+    - ListNoPadding
+    - center
+    */
+    list-style-type: none;
+    margin: 2px;
+    text-align: center;
+    padding:0;
+}
+
+.BioLinks{
+    width:75%;
+}
+
 
 /* MEDIA PLS!!!! */
 
@@ -1694,6 +1710,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         position: sticky;
     }
     .ListGalleryStyle {
+        width: 100%;
+    }
+    .BioLinks{
         width: 100%;
     }
 }

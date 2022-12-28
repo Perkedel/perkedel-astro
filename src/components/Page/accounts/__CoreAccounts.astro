@@ -53,12 +53,11 @@ const{
     disableOverwhelmStatement={disableOverwhelmStatement}
     >
     <h2 style="text-align:center;">Biolinks</h2>
-    <ul class="ListNoStyle ListCenterContent ListNoPadding">
+    <ul class="BioLinksList">
         {links.map(datas =>(
             <li>
                 <ButtonizedLink 
                     classe="BioLinks"
-                    style="width:75%;"
                     href={datas[0]} 
                     set:html={datas[3]+" "+datas[1]+""} 
                     target="_blank" 
@@ -72,7 +71,6 @@ const{
             <li>
                 <ButtonizedLink 
                     classe="BioLinks BioLinksNSFW"
-                    style="width:75%;"
                     href={datas[0]} 
                     set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"} 
                     target="_blank" 
