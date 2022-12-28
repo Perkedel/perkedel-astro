@@ -1,3 +1,16 @@
 ---
+import ProfileList from '@components/Page/accounts/ProfileList.astro';
+
 const profiles = await Astro.glob('./*/*.astro'); // <- & this too, VERY IMPORTANT.
+
+let profSays:Array<Array<string|undefined>> = [
+    ["",""]
+];
+for(let i=0; i < profiles.length; i++){
+    profSays[i] = [
+        profiles[i].url,
+        profiles[i].url,
+    ]
+}
 ---
+<ProfileList profiles={profSays}/>

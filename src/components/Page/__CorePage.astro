@@ -19,6 +19,7 @@ import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 
 export interface Props{
     nsfw?:Boolean;
+    noNeedNSFW?:Boolean; // USE THIS SPARINGLY, E.G. ALL USERS LIST PAGE, NOT TOPIC ENDPOINT PAGE
     addDescriptions?:string;
     addKeywords?:string;
     addHeaderTitle?:string;
@@ -29,6 +30,7 @@ export interface Props{
 
 const{
     nsfw=false,
+    noNeedNSFW=false,
     addDescriptions='???',
     addKeywords='template, empty, null, wow',
     addHeaderTitle='HEADER_TITLE',
@@ -44,13 +46,15 @@ const{
     author={author}
     rating={(nsfw?"adult":"")}
     >
-    <h1>{addHeaderTitle} ({nsfw?"FULL":"LITE"} VERSION)</h1>
+    <h1>{addHeaderTitle} {noNeedNSFW?"":"("+(nsfw?"FULL":"LITE")+" VERSION)"}</h1>
         {disableOverwhelmStatement?"":<KolmoIsOverwhelmed/>}
         <slot>
             <p class="error"><i>Empty content!!!</i></p>
         </slot>
-        {nsfw?"":
+        {noNeedNSFW?"":(
+            nsfw?"":
             <EnterNSFWButton/>
+            )
         }
         <slot name="afterNSFWBar"/>
 </Layout>

@@ -689,6 +689,23 @@ input:disabled {
     margin: 2px;
 }
 
+.ListDisplayTable {
+    /* https://stackoverflow.com/a/30720612/9079640 */
+    display:table;
+}
+
+.ListCenterContent {
+    text-align: center;
+}
+
+.ListNoPadding{
+    padding:0;
+}
+
+.ListLiNoPadding li {
+    padding:0;
+}
+
 
 /*
   https://www.w3schools.com/css/css_image_gallery.asp

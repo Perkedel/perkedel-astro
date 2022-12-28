@@ -10,33 +10,37 @@ import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be i
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
-import CoreAccounts from './__CoreAccounts.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import CorePage from '../__CorePage.astro';
 
 export interface Props{
-    nsfw?:boolean;
+    nsfw?:Boolean;
+    profiles:Array<Array<string|undefined>>;
 }
 
-const bioLinks:Array<Array<string>> = [
-    ['https://perkedel.netlify.app', 'Perkedel NTLF+ASTR Website', '', '&#xeb01;'],
-    ['https://cointr.ee/joelwindows7', '(Legacy) Cointree', '', '&#xeb01;'],
-    ['https://linktr.ee/joelwindows7', '(Legacy) linktree', '', '&#xeb01;'],
-    ['https://sociabuzz.com/joelwindows7', '(Legacy) (Indonesia) Sociabuzz', '', '&#xeb01;']
-]
-const bioLinksNSFW:Array<Array<string>> = [
-    ['https://lbry.bcow.xyz/@JOELwindows7', 'LBRY on Librarian instance at lbry.bcow.xyz', '', '&#xeb01;']
-]
+//const profiles = await Astro.glob('./*/*.astro'); // <- & this too, VERY IMPORTANT.
 
 const{
-    nsfw = false,
+    nsfw=false,
+    profiles=[[".","Empty"]]
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<CoreAccounts
+<CorePage
     nsfw={nsfw}
-    username="JOELwindows7"
-    links = {bioLinks}
-    linksNSFW = {bioLinksNSFW}
+    addKeywords={'linktree, biolink, link in bio, linktree, cointree, better, '}
+    addDescriptions={'List of BioLinks'}
+    addHeaderTitle={'List of BioLinks'}
+    addMetaTitle={'List of BioLinks'}
+    disableOverwhelmStatement={true}
+    noNeedNSFW={true}
     >
-    <p>wow</p>
-    <h3>YEY</h3>
-        <p>Cool and good</p>
-</CoreAccounts>
+    <p>Here List</p>
+    <ul>
+        {
+            profiles.map(profile=>(
+                <li><ButtonizedLink href={profile[0]}>{profile[1]}</ButtonizedLink></li>
+            )
+            )
+        }
+    </ul>
+</CorePage>
