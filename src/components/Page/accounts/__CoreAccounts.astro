@@ -43,6 +43,11 @@ const{
     addKeywords = '',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
+<!-- 
+
+set:html={datas[3]+" "+datas[1]+""} 
+set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"}
+-->
 <CorePage
     nsfw={nsfw}
     addKeywords={'linktree, biolink, link in bio, ' + username + ', linktree, cointree, better, ' + addKeywords + ', '}
@@ -59,7 +64,7 @@ const{
                 <ButtonizedLink 
                     classe="BioLinks"
                     href={datas[0]} 
-                    // set:html={datas[3]+" "+datas[1]+""} 
+                    
                     target="_blank" 
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
@@ -73,7 +78,6 @@ const{
                 <ButtonizedLink 
                     classe="BioLinks BioLinksNSFW"
                     href={datas[0]} 
-                    // set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"} 
                     target="_blank" 
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
@@ -89,5 +93,5 @@ const{
     </slot>
     <!-- <h2 slot="afterNSFWBar">Misc</h2> -->
     <hr slot="afterNSFWBar"/>
-    <slot slot="afterNSFWBar"/>
+    <slot name="afterNSFWBar" slot="afterNSFWBar">{""}</slot>
 </CorePage>
