@@ -16,19 +16,19 @@ export interface Props{
     nsfw?:Boolean;
     username:string;
     photoURL?:string;
-    links?:Array<Array<String>>;
-    linksNSFW?:Array<Array<String>>;
+    links?:Array<Array<String | boolean>>;
+    linksNSFW?:Array<Array<String | boolean>>;
     thirdPartyEdit?:Boolean;
     disableOverwhelmStatement?:boolean;
     addKeywords?:string;
 }
 
 // Add these yourself!
-const bioLinks = [
-    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;']
+const bioLinks:Array<Array<string | boolean>> = [
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;', false]
 ]
-const bioLinksNSFW = [
-    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;']
+const bioLinksNSFW:Array<Array<string | boolean>> = [
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;', false]
 ]
 // end Add these yourself
 
@@ -63,6 +63,7 @@ const{
                     set:html={datas[3]+" "+datas[1]+""} 
                     target="_blank" 
                     rel="noopener noreferrer"
+                    openInNewTab={!(datas[4] || true)}
                     >
                 </ButtonizedLink>
             </li>
@@ -76,6 +77,7 @@ const{
                     set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"} 
                     target="_blank" 
                     rel="noopener noreferrer"
+                    openInNewTab={!(datas[4] || true)}
                     >
                 </ButtonizedLink>
             </li>

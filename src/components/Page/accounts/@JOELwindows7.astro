@@ -16,14 +16,14 @@ export interface Props{
     nsfw?:boolean;
 }
 
-const bioLinks:Array<Array<string>> = [
-    ['https://perkedel.netlify.app', 'Perkedel NTLF+ASTR Website', '', '&#xeb01;'],
+const bioLinks:Array<Array<string | boolean>> = [
+    ['https://perkedel.netlify.app', 'Perkedel NTLF+ASTR Website', '', '&#xeb01;', true],
     ['https://cointr.ee/joelwindows7', '(Legacy) Cointree', '', '&#xeb01;'],
-    ['https://linktr.ee/joelwindows7', '(Legacy) linktree', '', '&#xeb01;'],
     ['https://sociabuzz.com/joelwindows7', '(Legacy) (Indonesia) Sociabuzz', '', '&#xeb01;']
 ]
-const bioLinksNSFW:Array<Array<string>> = [
-    ['https://lbry.bcow.xyz/@JOELwindows7', 'LBRY on Librarian instance at lbry.bcow.xyz', '', '&#xeb01;']
+const bioLinksNSFW:Array<Array<string | boolean>> = [
+    ['https://lbry.bcow.xyz/@JOELwindows7', 'LBRY on Librarian instance at lbry.bcow.xyz', '', '&#xeb01;'],
+    ['https://linktr.ee/joelwindows7', '(Legacy) linktree', '', '&#xeb01;'],
 ]
 
 const{
