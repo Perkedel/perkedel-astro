@@ -64,7 +64,7 @@ const{
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
-                {datas[3]} {datas[1]}
+                <b set:html={datas[3]}></b> {datas[1]}
                 </ButtonizedLink>
             </li>
         ))}
@@ -78,7 +78,7 @@ const{
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
-                {datas[3]} {datas[1]} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
+                <b set:html={datas[3]}></b> {datas[1]} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
                 </ButtonizedLink>
             </li>
         )):""}
