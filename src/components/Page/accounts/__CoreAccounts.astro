@@ -59,11 +59,12 @@ const{
                 <ButtonizedLink 
                     classe="BioLinks"
                     href={datas[0]} 
-                    set:html={datas[3]+" "+datas[1]+""} 
+                    // set:html={datas[3]+" "+datas[1]+""} 
                     target="_blank" 
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
+                {datas[3]} {datas[1]}
                 </ButtonizedLink>
             </li>
         ))}
@@ -72,11 +73,12 @@ const{
                 <ButtonizedLink 
                     classe="BioLinks BioLinksNSFW"
                     href={datas[0]} 
-                    set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"} 
+                    // set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"} 
                     target="_blank" 
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
+                {datas[3]} {datas[1]} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
                 </ButtonizedLink>
             </li>
         )):""}
