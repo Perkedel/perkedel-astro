@@ -1541,6 +1541,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     */
     list-style-type: none;
     margin: 0;
+    margin-bottom: 4px;
     text-align: center;
     padding:0;
 }
