@@ -114,6 +114,7 @@
 # Profiles
 /@* /apps/profile/@:splat
 /linktree/* /apps/profile/@:splat
+/biolinks/* /apps/profile/@:splat
 /user/* /apps/profile/@:splat
 /users/* /apps/profile/@:splat
 /u/* /apps/profile/@:splat

@@ -1540,7 +1540,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     - center
     */
     list-style-type: none;
-    margin: 2px;
+    margin: 0;
     text-align: center;
     padding:0;
 }
@@ -1713,7 +1713,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         width: 100%;
     }
     .BioLinks{
-        width: 100%;
+        /* width: 100%; */
     }
 }
 

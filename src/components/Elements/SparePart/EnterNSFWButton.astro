@@ -4,6 +4,14 @@ import TebengeGuy from '@components/Icons/TebengeGuy.astro';
 import TebengeBullet from '@components/Icons/TebengeBullet.astro';
 import LFMSymbol from '@components/Icons/LFMSymbol.astro';
 import { Icon, Sprite } from 'astro-icon';
+
+export interface Props{
+    detachedGenital?:boolean;
+}
+
+const{
+    detachedGenital=false,
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <hr/>
 <details>
@@ -42,6 +50,13 @@ import { Icon, Sprite } from 'astro-icon';
                 document.getElementById('daNSFWLinkLol').style.display = 'block';
                 document.getElementById('chooseYourPillLol').style.display = 'none';
 
+                // Genital Detached. only render when said yes
+                // destroys crawlers. perfect for bad crawler like Meta's Instagram.
+                if(document.getElementById('daNSFWLinkLol').innerHTML.trim() == "") {
+                    document.getElementById('daNSFWLinkLol').innerHTML = "<a href='enterNSFW'>Enter</a>";
+                }
+                
+
                 // https://github.com/apvarun/toastify-js
                 // https://apvarun.github.io/toastify-js/#
                 Toastify({
@@ -76,6 +91,11 @@ import { Icon, Sprite } from 'astro-icon';
             <Icon style="color:gray;" height="36px" name="gg:pill" />
             <Icon style="color:saddlebrown;" height="36px" name="ic:baseline-arrow-circle-left" /></a>
     </p>
+    {detachedGenital?
+    <p id="daNSFWLinkLol" style="display:none;"></p>
+    :
     <p id="daNSFWLinkLol" style="display:none;"><a href="enterNSFW">Enter</a></p>
+    }
+    
 
 </details>
