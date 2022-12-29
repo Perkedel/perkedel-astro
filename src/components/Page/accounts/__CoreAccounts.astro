@@ -25,10 +25,10 @@ export interface Props{
 
 // Add these yourself!
 const bioLinks:Array<Array<string | boolean>> = [
-    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;', false]
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xfa9e;', false]
 ]
 const bioLinksNSFW:Array<Array<string | boolean>> = [
-    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xeb01;', false]
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xfa9e;', false]
 ]
 // end Add these yourself
 
@@ -70,7 +70,7 @@ set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
-                <b set:html={datas[3]}></b> {datas[1]}
+                <b set:html={datas[3] || "&#xfa9e"}></b> {datas[1]}
                 </ButtonizedLink>
             </li>
         ))}
@@ -83,7 +83,7 @@ set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;
                     rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
-                <b set:html={datas[3]}></b> {datas[1]} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
+                <b set:html={datas[3] || "&#xfa9e"}></b> {datas[1]} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
                 </ButtonizedLink>
             </li>
         )):""}
