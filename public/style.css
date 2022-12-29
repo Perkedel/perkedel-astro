@@ -1549,6 +1549,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     width:75%;
 }
 
+.genitalDetachedAlert{
+    /* for non-included enter link */
+    font-size:.5em;
+}
 
 /* MEDIA PLS!!!! */
 
