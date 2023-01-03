@@ -5,12 +5,17 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import SFWExtraLinks from '../../../components/Elements/SFWExtraLinks.astro';
+import ThirdPartyLinks from '@components/Page/ThirdPartyLinks.astro';
 ---
-<Layout title="External Links">
+<!-- <Layout title="External Links">
     <h1>[SFW] External Links</h1>
         <p>Following are links to 3rd party websites that Perkedel recommends checking out.<br>
         Note, only prominently SFW (Safe for work, no / less lewd) links are contained, because here we have visitors underneath biologically / legally mature age.
         </p>
+        <h2>SFW</h2>
         <SFWExtraLinks/>
+        <h2>NSFW</h2>
         <p>Other 😏😏😏😏😏 links coming soon.</p>
-</Layout>
+        <h2>Dump Links</h2>
+</Layout> -->
+<ThirdPartyLinks nsfw={false}/>
