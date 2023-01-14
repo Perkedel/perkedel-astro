@@ -12,6 +12,8 @@ import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
 import CorePage from './__CorePage.astro';
+import ListCellsRetroGadgetsSFW from '@components/Elements/SparePart/ListCells/ListCellsRetroGadgetsSFW.astro';
+import ListCellsRetroGadgetsNSFW from '@components/Elements/SparePart/ListCells/ListCellsRetroGadgetsNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -33,9 +35,10 @@ const{
     <p>Purchase software game / tool <ButtonizedLink href="https://store.steampowered.com/app/1730260/Retro_Gadgets/" target="_blank" rel="noopener noreferrer" classe="Paywalled">Here Steam</ButtonizedLink></p>
     <h2>Workshop Playlists</h2>
     <!-- TODO: Complete this -->
-        <p>pls build playlist! <a href="https://steamcommunity.com/id/perkedeltech/myworkshopfiles/?appid=1730260">my workshops</a></p>
+        <!-- <p>pls build playlist! <a href="https://steamcommunity.com/id/perkedeltech/myworkshopfiles/?appid=1730260">my workshops</a></p> -->
         <ul>
-
+            <ListCellsRetroGadgetsSFW/>
+            {nsfw?<ListCellsRetroGadgetsNSFW/>:""}
         </ul>
 
 </CorePage>
