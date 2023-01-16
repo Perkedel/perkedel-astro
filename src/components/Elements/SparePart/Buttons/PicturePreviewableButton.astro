@@ -17,6 +17,6 @@ const{
     alt = null,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<a href={`javascript:openFullImage(${src},${title || alt || src},${alt})`} title={alt || title || src}>
-    <img height="20px" src={src} title={title} alt={alt || title}/>
+<a href={`javascript:openFullImage('${src}','${title || alt || src}','${alt}')`} title={alt || title || src}>
+    <img class="hoverExpand" height="100px" src={src} title={title} alt={alt || title}/>
 </a>
