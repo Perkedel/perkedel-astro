@@ -41,8 +41,20 @@ const{
         <li><ButtonizedLink href="https://odysee.com/@JOELwindows7:a/youtube-playlist-strike-again:9" openInNewTab={true}>YouTube Playlist strike strikes back (Part 1)</ButtonizedLink></li>
         <li><ButtonizedLink href="https://odysee.com/@JOELwindows7:a/youtube-playlist-strike-again-2:6" openInNewTab={true}>I'M TIRED OF THIS!!! Youtube Playlist strike strikes back (Part 2)</ButtonizedLink></li>
         <li><ButtonizedLink href="https://odysee.com/@JOELwindows7:a/Playlist_strike_bad:e" openInNewTab={true}>I never get it what measure anymore to not get Playlist Strike from YouTube!!!</ButtonizedLink></li>
+        <li><ButtonizedLink href="https://odysee.com/@JOELwindows7:a/Komparasion-LBRY-vs-YouTube:6" openInNewTab={true}>Komparison</ButtonizedLink></li>
     </ul>
-    <p style="font-size:small;">PSST! This message text changes depending on the Work Safety mode! try to change your work safety mode to see what changed!<br/>
-        <mark class="warning">&#xf071;⚠️ Requires you to be biologically mature first!</mark>
+    <p style="font-size:small;">
+        {nsfw?
+        'Now you have seen it yey!'
+        :
+        'PSST! This message text changes depending on the Work Safety mode! try to change your work safety mode to see what changed!'}
+        <br/>
+        <mark class="warning">&#xf071;⚠️ 
+            {nsfw?
+            'I am serious! you must be mature biologically!!! Click flush toilet button above to get out of NSFW!'
+            :
+            'Requires you to be biologically mature first!'
+            }
+        </mark>
     </p>
 </MessageBoxTemplate>
