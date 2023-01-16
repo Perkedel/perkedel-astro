@@ -1,0 +1,40 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro';
+import EmbedRAWHTML from '@components/EmbedRAWHTML.astro';
+import BackToTopButton from '@components/BackToTopButton.astro';
+import EmbedVideo from '@components/Elements/EmbedVideo.astro';
+import EmbedAudio from '@components/Elements/EmbedAudio.astro';
+import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+import PicturePreviewableButton from '@components/Elements/SparePart/Buttons/PicturePreviewableButton.astro';
+
+export interface Props{
+    nsfw?:boolean;
+}
+
+const{
+    nsfw=false,
+}= Astro.props.frontmatter || Astro.props as Props;
+---
+<MessageBoxTemplate 
+    severity={0}
+    paragraphTitle={true} 
+    headingTitle={`We have been ${nsfw?'harrased':'flagged'} by YouTube AI community guideline strike again!`} 
+    detailSummary={`This time, for a ${nsfw?'fucking bullshit & motherfucking':'nonsense & prepostorous'} violation reason`} 
+    opens={true}
+    >
+    <p>
+        <PicturePreviewableButton src="/assets/img/youtube_strike/meme_flagged_1.png" title="We got Guideline strike for playlist Meme Made by People!"/>
+        <PicturePreviewableButton src="/assets/img/youtube_strike/meme_flagged_2.png" title={`It was this Borzoi dog song! ${nsfw?'WHAT THE FUCK':'SERIOUSLY'}?!`}/>
+        <PicturePreviewableButton src="/assets/img/youtube_strike/meme_flagged_3.png" title={`Appeal sent! not sure if ${nsfw?'this FUCKING MORON':'YouTube'} would review this carefully & forgive us.`}/>
+    </p>
+    <p>
+        So, we've once again been unfairly striked by YouTube AI Community Guidelines. Had this so many times before for other reason which supposedly should remove that original video instead,
+        But that's YouTube. they love to {nsfw?'harrass & murder':'strike & takedown'} consumers, not just creators.<br/>
+        The video that makes the AI think is a <b>Hate Speech</b>, was <ButtonizedLink href="https://youtu.be/taMWR_8k96c" >this Borzoi dog song</ButtonizedLink>! 
+        <b>{nsfw?'What the FUCK':'REALLY'}?!</b><br/>
+        The appeal has been sent. Very pesimist whether this would be reviewed "<i>carefully</i>"" & be forgiven, considering the history of YouTube, being YouTube of today.
+    </p>
+    <p style="font-size:small;">PSST! This message text changes depending on the Work Safety mode! try to change your work safety mode to see what changed!<br/>
+        <mark class="warning">&#xf071;⚠️ Requires you to be biologically mature first!</mark>
+    </p>
+</MessageBoxTemplate>

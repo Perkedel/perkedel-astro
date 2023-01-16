@@ -676,10 +676,31 @@ function appearMoreNavMenuDialog() {
 }
 
 function PoosayClin(poosayFresh = '') {
-    // TODO: remove `enterNSFW/nsfw` or `enterNSFW` from URL path & then go to it!
+    // DONE: remove `enterNSFW/nsfw` or `enterNSFW` from URL path & then go to it!
     // poosayFresh = handover URL with that `enterNSFW/nsfw`
 }
 
+
+function openFullImage(at = '', withTitle = '', andAlt = null) {
+    let windowe = new tingle.modal({
+        footer: true,
+        onOpen: function() {
+
+        },
+        closeLabel: "Close",
+    });
+    // windowe.setContent(`<h2>URL Info</h2><p><b style="color:cyan;"><code>` + location.href + `</code></b><br/><br/>Pathname: <b style="color:cyan;"><code>` + location.pathname + `</code></b><br/>Origin: <b style="color:cyan;"><code>` + location.origin + `</code></b><br/></p>`);
+    windowe.setContent(`
+        <h2>Image "${withTitle}"</h2>
+        <p><a href="${at}" class="Buttonnize" download>Download this image</a></p>
+        <p><img src="${at}" title="${withTitle}" alt="${andAlt || withTitle}"/></p>
+        `);
+    windowe.addFooterBtn('Close', 'tingle-btn tingle-btn--default', function() {
+        // here goes some logic
+        windowe.close();
+    });
+    windowe.open();
+}
 
 /*
 Moar Dump
