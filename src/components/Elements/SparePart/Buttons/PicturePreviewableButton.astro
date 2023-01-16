@@ -9,14 +9,16 @@ export interface Props{
     src?:string;
     title?:string;
     alt?:string;
+    height?:string;
 }
 
 const{
     src = '',
     title = null,
     alt = null,
+    height='150px',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <a href={`javascript:openFullImage('${src}','${title || alt || src}','${alt}')`} title={alt || title || src}>
-    <img class="hoverExpand" height="100px" src={src} title={title} alt={alt || title}/>
+    <img class="hoverExpand" height={height} src={src} title={title} alt={alt || title}/>
 </a>

@@ -9,10 +9,12 @@ import PicturePreviewableButton from '@components/Elements/SparePart/Buttons/Pic
 
 export interface Props{
     nsfw?:boolean;
+    
 }
 
 const{
     nsfw=false,
+    
 }= Astro.props.frontmatter || Astro.props as Props;
 ---
 <MessageBoxTemplate 
