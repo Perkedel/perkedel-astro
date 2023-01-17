@@ -1,8 +1,80 @@
 ---
+const Filler:Array<Array<any>> = [
+    ["Title",
+        [
+            'https://example.com',
+            'https://example.org',
+            'https://example.gov',
+        ]
+    ],
+    ["Hid the code html",
+        [
+            'https://youtu.be/msdymgkhePo',
+            'https://github.com/PwnFunction/Blank-Rick-Roll',
+        ]
+    ],
+    ["Pagerified of <code>more</code> command",
+        [
+            'https://youtu.be/szQ-563D0kM',
+            'https://github.com/walles/moar',
+        ]
+    ],
+    ["Dac",
+        [
+            'https://hackaday.com/2022/12/11/a-straightforward-old-fashioned-dac/',
+        ]
+    ],
+    ["Pls check downloadability for Pop MIDI Indonesia",
+        [
+            'https://sites.google.com/site/midiuntukkamu/lagu-pop-midi',
+            'https://youtu.be/xk4Gs4RRYMk',
+        ]
+    ],
+    ["Midi, Pass scattered in video, pls decrypt",
+        [
+            'https://drive.google.com/file/d/1R0aCEFLdedh8vlXyeKYvZtz35_jvUn5H/view',
+            'https://youtu.be/7EpmorX64E8',
+        ]
+    ],
+    ["Yamaha file icon, Only PDF accessible, app version unable find. Maybe need account",
+        [
+            'https://youtu.be/dshIzeAkR-Q',
+        ]
+    ],
+    ["JPEG XL. Chromium yeeted it right away 💀💀💀💀💀💀💀💀🤡🤡🤡🤡🤡🤡",
+        [
+            'https://github.com/niutech/jxl.js',
+            'https://youtu.be/Jyk87VVfh9s',
+        ]
+    ],
+    ["macOS classic in browser",
+        [
+            'https://youtu.be/bXBsJA8Wbj4',
+        ]
+    ],
+    ["Win95 js",
+        [
+            'https://github.com/felixrieseberg/windows95',
+            'https://youtu.be/wFlFtqwb-6s',
+            'https://youtu.be/lFF9EYYaLi0',
+        ]
+    ],
+]
 ---
 <ul>
     <li>Odysee, an LBRY instance. <a href="http://www.odysee.com/" target="_blank" rel="noopener noreferrer">http://www.odysee.com</a></li>
     <li>Archive.org, archive anything! web, files, stuffs <a href="https://archive.org" target="_blank" rel="noopener noreferrer">https://archive.org</a></li>
     <li>Sony Rolly fan site <a href="http://www.sonyrolly.net/" target="_blank" rel="noopener noreferrer">http://www.sonyrolly.net</a></li>
     <li>Accidentally <a href="https://joelwindows7.tumblr.com/post/181835795358/accidentally" target="_blank" rel="noopener noreferrer">https://joelwindows7.tumblr.com/post/181835795358/accidentally</a>. Joel's original story</li>
+    <li>Electric dice <a href="https://hackaday.io/project/183938-circuit-golf-electronic-dice-edition/log/203213-006-dice555-3-end-game" target="_blank" rel="noopener noreferrer">Hackaday</a>, <a href="https://hackaday.com/2022/12/11/ne555-based-electronic-dice/" target="_blank" rel="noopener noreferrer">Article</a>.</li>
+    <li>powerpoint os <a href="https://youtu.be/ky2V7_fbUsY" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
+    <li>Pls evaluate featured services this video description. Which one can atleast be used for $0? <a href="https://youtu.be/SPsuVmCiwVQ" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
+    <li>CGGeek tutorial how to destroy stuff in Blender <a href="https://youtu.be/5PxUhCcodes" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
+    {Filler.map(link=>(
+        <li><span set:html={link[0]}></span> 
+            {link[1].map(sauces=>(
+                <a href={sauces} target="_blank" rel="noopener noreferrer">{sauces}</a> 
+            ))}    
+        </li>
+    ))}
 </ul>

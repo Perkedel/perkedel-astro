@@ -647,6 +647,10 @@ a[href*='godotengine.org']::before {
     content: ' ';
 }
 
+a[href*='tiktok.com']::before {
+    content: url('https://api.iconify.design/logos/tiktok-icon.svg'),' ';
+}
+
 
 input {
     background-color: black;
