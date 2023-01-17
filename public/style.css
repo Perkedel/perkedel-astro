@@ -535,7 +535,7 @@ a[href*='youtu.be']::before {
 
 a[href*='odysee.com']::before,
 a[href*='lbry.']::before {
-    content: ' ';
+    content: url('https://api.iconify.design/simple-icons/odysee.svg') ,' ';
 }
 
 a[href*='reddit.com']::before,
@@ -598,6 +598,7 @@ a[href*='twitter.com']::before {
 
 a[href*='tumblr.com']::before {
     /* Speaking of Tumblr, I am banned. peck you, Automattic! */
+    /* Edit: No longer banned yey! */
     content: ' ';
 }
 
@@ -621,6 +622,31 @@ a[href*='telegram.org']::before {
 a[href*='blender.org']::before {
     content: ' ';
 }
+
+a[href*='spotify.com']::before {
+    content: ' ';
+}
+
+a[href*='soundcloud.com']::before {
+    content: ' ';
+}
+
+a[href*='bandcamp.com']::before {
+    content: 'ﭳ ';
+}
+
+a[href*='steampowered.com']::before {
+    content: ' ';
+}
+
+a[href*='steamcommunity.com']::before {
+    content: ' ';
+}
+
+a[href*='godotengine.org']::before {
+    content: ' ';
+}
+
 
 input {
     background-color: black;
