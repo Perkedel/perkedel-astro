@@ -692,7 +692,10 @@ function openFullImage(at = '', withTitle = '', andAlt = null) {
     // windowe.setContent(`<h2>URL Info</h2><p><b style="color:cyan;"><code>` + location.href + `</code></b><br/><br/>Pathname: <b style="color:cyan;"><code>` + location.pathname + `</code></b><br/>Origin: <b style="color:cyan;"><code>` + location.origin + `</code></b><br/></p>`);
     windowe.setContent(`
         <h2>Image "<i>${withTitle}</i>"</h2>
-        <p><a href="${at}" class="Buttonnize" download>&#xf6d9; Download this image</a></p>
+        <p>
+            <a href="${at}" class="Buttonnize" download>&#xf6d9; Download this image</a>
+            <a href="${at}" class="Buttonnize" target="blank" rel="noopener noreferrer">Open in New Tab</a>
+        </p>
         <p style="overflow-x:scroll;"><img src="${at}" title="${withTitle}" alt="${andAlt || withTitle}"/></p>
         `);
     windowe.addFooterBtn('Close', 'tingle-btn tingle-btn--default', function() {
@@ -701,6 +704,9 @@ function openFullImage(at = '', withTitle = '', andAlt = null) {
     });
     windowe.open();
 }
+
+// TODO: open full image packs like above but next button
+
 
 /*
 Moar Dump
