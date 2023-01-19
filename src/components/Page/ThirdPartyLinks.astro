@@ -27,11 +27,17 @@ const{
     author='JOELwindows7'
     >
     <!-- <h1>[SFW] External Links</h1> -->
-        <p>Following are links to 3rd party websites that Perkedel recommends checking out.<br>
-        Note, only prominently SFW (Safe for work, no / less lewd) links are contained, because here we have visitors underneath biologically / legally mature age.
+        <p>
+            Following are links to 3rd party websites that Perkedel recommends checking out.<br/>
+            {nsfw?
+            "You are in NSFW version! Now includes NSFW Links!"
+            :
+            "Note, only prominently SFW (Safe for work, no / less lewd) links are contained, because here we have visitors underneath biologically / legally mature age."
+            }
         </p>
+
         <h2>SFW</h2>
-        <SFWExtraLinks/>
+        <SFWExtraLinks nsfw={nsfw}/>
         {nsfw?
         <h2>NSFW</h2>
         <NSFWExtraLinks/>

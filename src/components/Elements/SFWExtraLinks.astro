@@ -1,4 +1,14 @@
 ---
+export interface Props{
+    nsfw?:boolean;
+    
+}
+
+const{
+    nsfw=false,
+    
+}= Astro.props.frontmatter || Astro.props as Props;
+
 const Filler:Array<Array<any>> = [
     ["Title",
         [
@@ -59,6 +69,154 @@ const Filler:Array<Array<any>> = [
             'https://youtu.be/lFF9EYYaLi0',
         ]
     ],
+    ["Title.wma origin",
+        [
+            'https://youtu.be/dvMOil5BLQY',
+            'https://soundcloud.com/stanlepard/1996-internet-starter-kit-velkommen-original-mix?ref=clipboard&p=a&c=0&si=c5f8dc68fa3244ea95e838d0983d6a7f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing',
+        ]
+    ],
+    ["Rust cheatsheet",
+        [
+            'https://cheats.rs/',
+        ]
+    ],
+    ["Simple 2d drawing lifehack. Gold shade with just 2 colors & varying opacity",
+        [
+            'https://youtube.com/shorts/9FMfixyaJtU?feature=share',
+            'https://youtube.com/@riana_terbalik',
+        ]
+    ],
+    ["Divinekids one of the CD Issue. pls traverse the DivineKids website to Archive at the old time, before massive transformation. Hope find game download that broke.",
+        [
+            'https://archive.org/details/pcgame-divinekids',
+            'https://divinekids.com ',
+        ]
+    ],
+    ["CSS glow",
+        [
+            'https://cssbud.com/css-generator/css-glow-generator/',
+            'https://youtube.com/shorts/myicOVUBiJA?feature=share',
+        ]
+    ],
+    ["Esp32 OTA",
+        [
+            'https://hackaday.com/2022/12/13/push-esp32-over-the-air-updates-from-github/',
+            'https://github.com/Fishwaldo/esp_ghota',
+        ]
+    ],
+    ["Clean camera sensor",
+        [
+            'https://youtube.com/shorts/MeCtI4mYYw4?feature=share',
+        ]
+    ],
+    ["Quick dirty tennis ball. Blender tutorial",
+        [
+            'https://youtube.com/shorts/PEqiF7MV3r0?feature=share',
+        ]
+    ],
+    ["Pewdiepie jabba the hut. Pls all Pewdiepie song MEME",
+        [
+            'https://youtu.be/lxw3C5HJ2XU',
+        ]
+    ],
+    ["Jimmy neutron GBA ripped 3D model 3D MODEL",
+        [
+            'https://twitter.com/jacko_tc/status/1596425015695925249?s=46&t=eJiukVfMwFrD3-1FgtgIxg%29made',
+            'https://youtu.be/rzzWVtNT5aA',
+            'https://twitter.com/jacko_tc/status/1596425015695925249?s=20&t=QtKGTAmuvH_traYnJAJlLg',
+            'https://drive.google.com/drive/folders/1iaXcpFTl9R85kxNRa592qUkyld-XueI4',
+        ]
+    ],
+    [`Another <code>${nsfw?"tolol":"8888"}</code> cat RAW`,
+        [
+            'https://youtu.be/ssS47veyAwA',
+        ]
+    ],
+    [`Pls find exposed nerve prank sauce again`,
+        [
+            'https://youtu.be/uFmeR9Dy2z4',
+        ]
+    ],
+    [`Pls check <code>ma</code> downloadability. Whew, I thought it was gone forever. Scene available. Must download, archive unfriendly. Search keyword <code>sophie</code>`,
+        [
+            'https://www.behance.net/gallery/152382097/SOONSANG-WORLD-3D-Fan-art',
+            'https://help.autodesk.com/view/ARNOL/ENU/?guid=arnold_for_maya_toon_am_Making_of_Sophie_html',
+        ]
+    ],
+    [`Song foe denise (Wide Putin) MEME`,
+        [
+            'https://youtu.be/stdyhfeYxxI',
+        ]
+    ],
+    [`E-y-e-s spells MEME`,
+        [
+            'https://youtu.be/P4ramoioWnw',
+        ]
+    ],
+    [`Auto rigging by Autocore. More detailed than Adobe's Mixamo. & is $0. Nah fam, this too good to be true, right? Pls explore! 3D MODEL`,
+        [
+            'https://actorcore.reallusion.com/auto-rig',
+        ]
+    ],
+    [`ICQ messenger notification uh oh MEME`,
+        [
+            'https://youtu.be/RhGHerssyk4',
+        ]
+    ],
+    [`Blender Diffusion AI. Pls pls find 3D MODEL`,
+        [
+            'https://youtu.be/7bCwgiS4rNc',
+            'https://github.com/carson-katri/dream-textures',
+        ]
+    ],
+    [`Blender Diffusion AI Texture (& modeling too?). Pls pls find 3D MODEL`,
+        [
+            'https://youtu.be/7bCwgiS4rNc',
+            'https://github.com/carson-katri/dream-textures',
+        ]
+    ],
+    [`Android multi tool. Pass in video WCELOAD ANDROID`,
+        [
+            'https://youtu.be/5s4dTt2PEHY',
+            'https://mega.nz/file/vCAgya4B#LZXzRBRAje_-jexyCiSzgjA410w6fB-0ub8ay5uJGu4',
+        ]
+    ],
+    [`Finally Zerahypt GitHubbed. Pls other zerahypt files and Syrsa a whole`,
+        [
+            'https://github.com/Xzyckon/Zerahypt',
+        ]
+    ],
+    [`3D print challenges 3D MODEL`,
+        [
+            'https://fullcontrol.xyz/#/models',
+        ]
+    ],
+    [`Blender how to hologram material 1 minute 3D MODEL`,
+        [
+            'https://youtube.com/shorts/BXXDycnKN88?feature=share',
+        ]
+    ],
+    [`Legacy update Windows old WCELOAD WIN32`,
+        [
+            'https://youtu.be/5faA4ph4Fo8',
+            'https://legacyupdate.net/',
+            'https://github.com/kirb/LegacyUpdate',
+        ]
+    ],
+    [`Learn MMD. Pls check active. Works 3D MODEL`,
+        [
+            'https://learnmmd.com/',
+            'https://learnmmd.com/http:/learnmmd.com/rio-carnival-miku-is-my-latest-mmd-model-adoration-slideshow-video/',
+            'https://learnmmd.com/http:/learnmmd.com/epxort-import-mmd-using-blender/',
+            'https://www.deviantart.com/shiro-nekovocaloid/art/TDA-Miku-Haku-Luka-Rio-Carnival-DOWNLOAD-881928453',
+            'https://youtu.be/NZXupCgFn0o',
+        ]
+    ],
+    [`Linux color picker WCELOAD LINUX`,
+        [
+            'https://youtu.be/grs-kLwuyVk',
+        ]
+    ],
 ]
 ---
 <ul>
@@ -71,10 +229,12 @@ const Filler:Array<Array<any>> = [
     <li>Pls evaluate featured services this video description. Which one can atleast be used for $0? <a href="https://youtu.be/SPsuVmCiwVQ" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
     <li>CGGeek tutorial how to destroy stuff in Blender <a href="https://youtu.be/5PxUhCcodes" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
     {Filler.map(link=>(
-        <li><span set:html={link[0]}></span> 
-            {link[1].map(sauces=>(
-                <a href={sauces} target="_blank" rel="noopener noreferrer">{sauces}</a> 
-            ))}    
-        </li>
-    ))}
+            <li><span set:html={link[0]}></span> 
+                {link[1].map(sauces=>(
+                    <a href={sauces} target="_blank" rel="noopener noreferrer">{sauces}</a> 
+                ))}    
+            </li>
+            )
+        )
+    }
 </ul>
