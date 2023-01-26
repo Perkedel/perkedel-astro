@@ -31,18 +31,18 @@ old
 <body>
   <script src="/main.js"></script>
   <da-header></da-header>
-  
+
   ..your content here..
-  
+
   <da-footer>/da-footer>
 </body>
 ```
 new
 ```
 <body>
-  
+
   ..your content here..
-  
+
   <script src="/main.js"></script>
 </body>
 ```
@@ -111,22 +111,22 @@ class daHeader extends HTMLElement {
         <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn">🏠 Home &#xf015;</a></li>
         <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps" class="NavBtn">📦 Applications &#xf53a;</a></li>
         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href=".." class="NavBtn">&#xf049; BACK &#xf9d4;</a></li>-->
-        
-        
+
+
         <li class="NavPutRight dropdown">
           <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a>
-          
+
           <div class="dropdown-content">
             <a title="View this page source" href="view-source://." class="NavBtn">View Source &#xe771;</a>
           </div>
         </li>
         <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li>
         <li class="NavPutRight"><a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a></li>
-        
+
       </ul>
     </nav>
     <hr>
-    `;  
+    `;
     // this.innerHTML = '<object type="text/html" data="/__header.html" ></object>';
   }
 }
@@ -138,7 +138,7 @@ class daFooter extends HTMLElement {
       <hr>
       <p><img width="50em" src="/Perkedel Icon.png"/> <font size = "12">Perkedel Technologies</font></p>
       <p>Powered by <a href="https://neocities.org" target="_blank" rel="noopener noreferrer">Neocities</a></p>
-      <font size=2><p>DISCLAIMER:</p> 
+      <font size=2><p>DISCLAIMER:</p>
         <ul>
           <li><b>Neocities never put watermark</b>, I just write my own just to let you know how, yeah.</li>
           <li>This website like many is stored on regular centralized system, specifically static cloud type whatever Neocities said. Therefore we do not endorse using such service other than for clout purpose<br>With that of course, there is already as usual high risk of DMCA attacks & abuse. </li>
@@ -150,7 +150,7 @@ class daFooter extends HTMLElement {
       </font>
       <p>© Perkedel Technologies, Some Rights Reserved</p>
     </footer>
-    `;  
+    `;
     // this.innerHTML = '<object type="text/html" data="/__footer.html" ></object>'; // not working! it put those inside a box!
   }
 }
@@ -401,7 +401,7 @@ function URLInfoPls() {
         <ul>
             <li><a class="Buttonnize" href="javascript:BrowserInfoPls()">&#xf488; Browser Info &#xf7fb;</a> <b>Local statuses</b> such as cookies enabled, browser version, user agent, OS, etc.</li>
         </ul>
-        
+
         `);
     windowe.addFooterBtn('OK', 'tingle-btn tingle-btn--primary', function() {
         // here goes some logic
@@ -554,6 +554,16 @@ function getJSONF(url, kludgeGenerateWord = false, kludgeIncludeNSFW = true) {
 // });
 getJSONF('/assets/json/funnyWords/generateWord.json', true, true);
 // regenerateWord();
+
+function fillJSONF(url){
+  fetch(url)
+      .then(response => response.json())
+      .then(data => {
+          console.log(data);
+          return data;
+          // idk how to pause that function above until these here complete.
+      });
+}
 
 
 // Owen Wilson WOW API

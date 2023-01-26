@@ -18,15 +18,15 @@ import ImplementArchiveAnnoyingAdSpace from './Elements/SparePart/AnnoyingAdSpac
 // import '../style/style.css';
 
 // https://github.com/cifkao/html-midi-player/issues/48
-// import { PianoRollSVGVisualizer } from '@magenta/music/esm/core.js'; // 
-// import '@magenta/music/esm/core.js'; // 
+// import { PianoRollSVGVisualizer } from '@magenta/music/esm/core.js'; //
+// import '@magenta/music/esm/core.js'; //
 // import 'html-midi-player';
 // import Midi from '@components/Elements/MidiPlayer.astro';
 
 // jQuery without Google
 //     https://releases.jquery.com/
 //     https://jquery.com/
-//     
+//
 // import "jquery.dist/jquery.min.js";
 
 // HTMX https://htmx.org
@@ -109,9 +109,9 @@ let doViewSource = 'view-source:' + currJustAddr;
 //   keywords?: string;
 // }>;
 
-const { 
+const {
   siteName = 'Perkedel Technologies Division NTLF+ASTR',
-  title = 'Perkedel NTLF+ASTR', 
+  title = 'Perkedel NTLF+ASTR',
   date,
   dateMod,
   dateExp,
@@ -242,7 +242,7 @@ const {
       }} -->
   <SEO
       title={title + ` | ` + siteName}
-      description={description} 
+      description={description}
       noindex={noIndex}
       nofollow={noIndex}
       extend={{
@@ -272,7 +272,7 @@ const {
           { name: "twitter:site", content: twitterSite },
           { name: "twitter:card", content: twitterCard },
           { name: "twitter:url", content: Astro.url.href },
-          
+
           // OpenGraph https://ogp.me/
           { name: "og:title", content: title + ` | ` + siteName },
           { name: "og:description", content: descriptionPrefix + ' | ' + description },
@@ -295,7 +295,7 @@ const {
           { name: "og:article:modified_time", content: dateMod },
           { name: "og:article:expiration_time", content: dateExp },
           { name: "og:article:tag ", content: keywords },
-          
+
 
           // Basics
           // { name: "description", content: description },
@@ -306,19 +306,19 @@ const {
           { name: "theme-color", media:"(prefers-color-scheme:dark)", content: themeColor },
           { name: "theme-color", media:"(prefers-color-scheme:light)", content: themeColorLight },
           { name: "color-scheme", content: colorScheme },
-          
+
           // Google
         ],
       }}
       />
   <!-- YAY COMPREHENSIVE SEO -->
-  
+
   <!-- <meta name="description" content={description}> -->
   <!-- <meta name="keywords" content={keywords}> -->
   <!-- <meta name="author" content={author}> -->
 
   <MSClarity ejectClarity={ejectClarity}/>
-  
+
 </head>
 <body>
   <!-- HEADER -->
@@ -343,7 +343,7 @@ const {
 
   <!-- BACK TO TOP BUTTON -->
   <BackToTopButton/>
-  
+
   <!-- FOOTER -->
   <!-- <Footering rating={rating} nsfw={rating.includes('adult')}/> -->
   <Footering rating={rating} nsfwConfirmation={nsfwConfirmation}/>
@@ -365,6 +365,7 @@ const {
   <script is:global src="/main.js"></script>
   <!-- <script is:inline src="/extra.js">
   </script> -->
+  <slot name="afterMainScript"/>
 
 </body>
 </html>
@@ -373,7 +374,7 @@ const {
 
 </style> -->
 
-<!-- 
+<!--
 Dump link
 - https://docs.astro.build/en/core-concepts/endpoints/
 - https://docs.astro.build/en/reference/configuration-reference/

@@ -37,14 +37,32 @@ const{
       <ListCellsYDKJSFW nsfw={nsfw}/>
       {nsfw?<ListCellsYDKJNSFW nsfw={nsfw}/>:""}
     </ul>
-    <script is:inline>
+    <script is:inline slot="afterMainScript">
       const sayHit = [
         'Alright hit me up with a category.',
         'Pick your Jack pls!',
         `Where Jack's you wanna go?`,
+        `Kay hit me up whenever you need a category.`,
+        `Right hit me up whenever you need a category.`,
+        `Select your Jack!`,
+        `Pick your poison. Make sure it's the saltiest ones.`,
       ];
+      const sayHitNSFW = this.dataset.nsfw? fillJSONF('/assets/json/funnyWords/generateJackCategoryNSFW.json').sayHit : ['',];
 
-      let yoSelected = sayHit[Math.floor(Math.random() * sayHit.length)];
+      //let yoSelected = sayHit[Math.floor(Math.random() * sayHit.length)];
+      let yoSelected = this.dataset.nsfw ? (() => {
+              switch (Math.random() > .5) {
+                  case true:
+                      {
+                          return sayHit[Math.floor(Math.random() * sayHit.length)];
+                      }
+                  case false:
+                      {
+                          return sayHitNSFW[Math.floor(Math.random() * sayHitNSFW.length)];
+                      }
+              }
+          })() :
+          sayHit[Math.floor(Math.random() * sayHit.length)];
       document.getElementById('hitMeUpWithCategory').innerHTML = yoSelected;
     </script>
 </CorePage>
