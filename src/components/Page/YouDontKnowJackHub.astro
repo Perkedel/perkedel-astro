@@ -1,0 +1,50 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CorePage from './__CorePage.astro';
+import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
+import ListCellsYDKJSFW from '@components/Elements/SparePart/ListCells/ListCellsYDKJSFW';
+import ListCellsYDKJNSFW from '@components/Elements/SparePart/ListCells/ListCellsYDKJNSFW';
+
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords={`ydkj, you, dont, know, jack, trivia, salty, cookie, masterson, candy, barre` + (nsfw?`, titcrack, sex`:``)}
+    addDescriptions={"You Dont Know Jack. a funny trivia game where questions are jumbles but answers are serious."}
+    addHeaderTitle={`You Don't Know Jack`}
+    addMetaTitle={`You Don't Know Jack`}
+    author={'JOELwindows7'}
+    >
+    <p id="hitMeUpWithCategory">Where Jack's you wanna go?</p>
+    <ul>
+      <ListCellsYDKJSFW nsfw={nsfw}/>
+      {nsfw?<ListCellsYDKJNSFW nsfw={nsfw}/>:""}
+    </ul>
+    <script>
+      const sayHit = [
+        'Alright hit me up with a category.',
+        'Pick your Jack pls!',
+        `Where Jack's you wanna go?`,
+      ];
+
+      let yoSelected = sayHit[Math.floor(Math.random() * sayHit.length)];
+      document.getElementById('hitMeUpWithCategory').innerHTML = yoSelected;
+    </script>
+</CorePage>

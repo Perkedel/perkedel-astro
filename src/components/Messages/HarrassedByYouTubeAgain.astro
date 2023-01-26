@@ -9,20 +9,20 @@ import PicturePreviewableButton from '@components/Elements/SparePart/Buttons/Pic
 
 export interface Props{
     nsfw?:boolean;
-    
+
 }
 
 const{
     nsfw=false,
-    
+
 }= Astro.props.frontmatter || Astro.props as Props;
 ---
-<MessageBoxTemplate 
+<MessageBoxTemplate
     severity={0}
-    paragraphTitle={true} 
-    headingTitle={`We have been ${nsfw?'harrased':'flagged'} by YouTube AI community guideline strike again!`} 
-    detailSummary={`This time, for a ${nsfw?'fucking bullshit & motherfucking':'nonsense & prepostorous'} violation reason`} 
-    opens={true}
+    paragraphTitle={true}
+    headingTitle={`We have been ${nsfw?'harrased':'flagged'} by YouTube AI community guideline strike again!`}
+    detailSummary={`This time, for a ${nsfw?'fucking bullshit & motherfucking':'nonsense & prepostorous'} violation reason`}
+    opens={false}
     >
     <p>
         <PicturePreviewableButton src="/assets/img/youtube_strike/meme_flagged_1.png" title="We got Guideline strike for playlist Meme Made by People!"/>
@@ -32,10 +32,11 @@ const{
     <p>
         So, we've once again been unfairly striked by YouTube AI Community Guidelines. Had this so many times before for other reason which supposedly should remove that original video instead,
         But that's YouTube. they love to {nsfw?'harrass & bully':'strike & takedown'} consumers, not just creators.<br/>
-        The video that makes the AI think is a <b>Hate Speech</b>, was <ButtonizedLink href="https://youtu.be/taMWR_8k96c" openInNewTab={true}>this Borzoi dog song</ButtonizedLink>! 
+        The video that makes the AI think is a <b>Hate Speech</b>, was <ButtonizedLink href="https://youtu.be/taMWR_8k96c" openInNewTab={true}>this Borzoi dog song</ButtonizedLink>!
         <b>{nsfw?'What the FUCK':'REALLY'}?!</b> {nsfw?"This AI is the one you can call moron & ratio instead of those Art AIs":"Google didn't fix this AI to this day"}!<br/>
         The appeal has been sent. Very pesimist whether this would be reviewed "<i>carefully</i>" & be forgiven, considering the history of YouTube, being YouTube of today.<br/>
-        <b>NOPE!</b> I have to complain to <ButtonizedLink href={"https://twitter.com/JOELwindows7/status/1615359338708860932?t=UOSpuJmcGH6viq4KR9OdRQ&s=19"} openInNewTab={true}>their Twitter!</ButtonizedLink>. They saw it, see if it's the real human, not that robot again.
+        <b>NOPE!</b> I have to complain to <ButtonizedLink href={"https://twitter.com/JOELwindows7/status/1615359338708860932?t=UOSpuJmcGH6viq4KR9OdRQ&s=19"} openInNewTab={true}>their Twitter!</ButtonizedLink>. They saw it, see if it's the real human, not that robot again.<br/>
+        Welp, <b class='error'>they ghosted us</b>. You know what? let's not care anymore, I'm tired of this {nsfw?'shit':'poop'}. No more Playlisting. I already stopped lewd playlisting because instead it hits me than the uploader, now that Borzoi song is a speech you said, and still hit me? {nsfw?'fuck':'peck'} you, Susan! You let this rogue AI {nsfw?'harrasses':'attacks'} us.<br/>
     </p>
     <p>Related Posts:</p>
     <ul>
@@ -50,7 +51,7 @@ const{
         :
         'PSST! This message text changes depending on the Work Safety mode! try to change your work safety mode to see what changed!'}
         <br/>
-        <mark class="warning">&#xf071;⚠️ 
+        <mark class="warning">&#xf071;⚠️
             {nsfw?
             'I am serious! you must be mature biologically!!! Click flush toilet button above to get out of NSFW!'
             :
