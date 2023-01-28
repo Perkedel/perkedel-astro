@@ -3,7 +3,7 @@ import rss from '@astrojs/rss';
 
 export const get = () => rss({
     // `<title>` field in output xml
-    title: "Perkedel NTLF+ASTR",
+    title: "Perkedel NTLF+ASTR | RSS",
     // `<description>` field in output xml
     description: 'Perkedel Technologies Division NTLF+ASTR',
     // base URL for RSS <item> links
