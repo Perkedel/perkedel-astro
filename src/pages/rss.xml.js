@@ -5,7 +5,7 @@ export const get = () => rss({
     // `<title>` field in output xml
     title: "Perkedel NTLF+ASTR | RSS",
     // `<description>` field in output xml
-    description: 'Perkedel Technologies Division NTLF+ASTR',
+    description: 'Perkedel Technologies Division NTLF+ASTR. Our RSS feeds',
     // base URL for RSS <item> links
     // SITE will use "site" from your project's astro.config.
     site: import.meta.env.SITE,
