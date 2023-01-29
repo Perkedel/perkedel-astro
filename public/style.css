@@ -66,7 +66,7 @@ https://nerdfonts.com
     /* "auto" or "thin" */
     scrollbar-color: navy rgb(0, 0, 20);
     /* scroll thumb and track */
-    /* 
+    /*
     https://www.w3schools.com/cssref/pr_scroll-behavior.php
     https://youtu.be/u4O2GKjgMlg
      */
@@ -123,7 +123,7 @@ html {
     min-height: 100%;
     position: relative;
     margin: 0;
-    /* 
+    /*
     https://www.w3schools.com/cssref/pr_scroll-behavior.php
     https://youtu.be/u4O2GKjgMlg
      */
@@ -516,7 +516,7 @@ nav a:visited:active {
   https://www.fileformat.info/info/unicode/char/29c9/index.htm
   'TWO JOINED SQUARES' (U+29C9)
   https://dafoster.net/articles/2018/11/24/why-isnt-the-external-link-symbol-in-unicode/
-  
+
   */
 
 a[target=_blank]::after,
@@ -969,7 +969,7 @@ a.Buttonnize.Dangerous:visited:hover:active {
     position: relative;
     display: inline-block;
   }
-  
+
   .dropdown-content {
     background-color: navy;
     outline: none;
@@ -986,7 +986,7 @@ a.Buttonnize.Dangerous:visited:hover:active {
     padding: 12px 16px;
     z-index: 1;
   }
-  
+
   .dropdown:hover .dropdown-content {
     display: block;
   }*/
@@ -1104,7 +1104,7 @@ dropbtn a:visited:hover,
 
 /*WHY THE PECK YOU DON'T SAY?!?!??!
   https://www.w3schools.com/tags/tag_code.asp
-  
+
   */
 
 code {
@@ -1233,7 +1233,7 @@ kbd {
 }
 
 
-/*RSS generator CSS for 
+/*RSS generator CSS for
   https://rss.bloople.net/
   */
 
@@ -1359,7 +1359,7 @@ td {
 }
 
 .hoverExpand {
-    /* https://www.w3schools.com/howto/howto_css_zoom_hover.asp 
+    /* https://www.w3schools.com/howto/howto_css_zoom_hover.asp
     https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover
     */
     transition: transform .2s;
@@ -1384,7 +1384,7 @@ td {
 }
 
 
-/* SCROLL REVEAL PLS 
+/* SCROLL REVEAL PLS
 https://youtu.be/T33NN_pPeNI
 */
 
@@ -1537,7 +1537,7 @@ https://youtu.be/T33NN_pPeNI
 }
 
 
-/* Download Links 
+/* Download Links
 https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 */
 
@@ -1585,6 +1585,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     font-size:.5em;
 }
 
+.SpecialityImageWide{
+  /* https://jpegxl.info/art/
+  yoin the CSS lol
+   */
+  max-width: 98vw;
+  margin: 2em 0;
+  max-height: 100vh;
+}
+
 /* MEDIA PLS!!!! */
 
 
@@ -1598,8 +1607,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 }
 
 @media(prefers-color-scheme: light) {
-    /* Light mode & Harry Potter print media 
-    for Harry Potter print media, 
+    /* Light mode & Harry Potter print media
+    for Harry Potter print media,
     please disable the background to save ink!
     We colored the background away from white
     to prevent burning eyes like with full white!
@@ -1753,8 +1762,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 }
 
 @media only print {
-    /* Non Harry Potter print media CSS 
-    Harry Potter media should use Screen Light mode 
+    /* Non Harry Potter print media CSS
+    Harry Potter media should use Screen Light mode
      https://www.w3schools.com/css/css3_mediaqueries.asp */
     header {
         background-color: initial;
