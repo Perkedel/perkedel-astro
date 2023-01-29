@@ -1600,6 +1600,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 
 .hideOverflowsSide{
   overflow-x: hidden;
+  overflow-y: visible;
 }
 
 /* MEDIA PLS!!!! */
