@@ -1598,6 +1598,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
   overflow:hidden;
 }
 
+.hideOverflowsSide{
+  overflow-x: hidden;
+}
+
 /* MEDIA PLS!!!! */
 
 
