@@ -1594,6 +1594,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
   max-height: 100vh;
 }
 
+.hideOverflows{
+  overflow:hidden;
+}
+
 /* MEDIA PLS!!!! */
 
 
