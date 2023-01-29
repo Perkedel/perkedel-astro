@@ -1599,7 +1599,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 }
 
 .hideOverflowsSide{
-  overflow-x: hidden;
+  overflow-x: visible;
   overflow-y: initial;
 }
 
