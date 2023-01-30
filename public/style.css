@@ -1749,14 +1749,14 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         float: none;
     }
     nav .NavHistoryPutLeft {
-        float: none;
+        float: left;
         display: inline-block;
         /* Make sure it does not overlap */
         position: -webkit-sticky;
         position: sticky;
     }
     nav .NavHistoryPutRight {
-        float: none;
+        float: right;
         display: inline-block;
         /* Make sure it does not overlap */
         position: -webkit-sticky;
