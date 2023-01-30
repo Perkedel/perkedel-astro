@@ -451,7 +451,7 @@ nav .NavHistoryPutLeft {
 }
 
 nav .NavHistoryPutRight {
-    float: left;
+    float: right;
     /* display: inline-block; */
 }
 

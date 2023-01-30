@@ -7,4 +7,4 @@ export interface Props{
 const{ inConfirmation = false} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- Flush NSFW. Return to SFW version. for us we go back 2 times (enterNSFW then regular sfw) -->
-<li class="NavPutLeft"><BerakButton inConfirmation={inConfirmation}/></li>
+<li class="NavHistoryPutLeft"><BerakButton inConfirmation={inConfirmation}/></li>
