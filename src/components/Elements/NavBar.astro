@@ -30,7 +30,7 @@ const {
     <ul>
         <HistoryNavigateArrows/>
         <!-- <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li> -->
-        <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style={Astro.url.pathname =='/'?"color:cyan;":""}>🏠 Home &#xf015;</a></li>
+        <li class="NavHistoryPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style={Astro.url.pathname =='/'?"color:cyan;":""}>&#xf015;</a></li>
         <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style={Astro.url.pathname.startsWith('/apps/')?"color:cyan;":""}>📦 Applications &#xf53a;</a></li>
         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
 
@@ -39,14 +39,14 @@ const {
         <BerakSekarang inConfirmation={nsfwConfirmation}/>
         :
         ""}
-        
+
         <slot name="CustomNav"/>
 
         <!-- <li class="NavHistoryPutRight dropdown"> -->
         <li id="navMoreDropdown" class="NavPutRight dropdown">
             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
             <a class="dropbtn NavBtn" title="Open Menu" href='javascript:appearMoreNavMenuDialog()'>&#xf85b;</a>
-            
+
             <ul id="navMoreList" class="dropdown-content">
                 <slot name="CustomNavMore"/>
                 <li><SettingWindow handoverTitle={handoverTitle}><slot name="SettingContains"/><slot name="SettingListCells"/></SettingWindow></li>
@@ -65,7 +65,7 @@ const {
         </li>
         <!-- <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li> -->
         <!-- <li class="NavPutRight"><a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a></li> -->
-        
+
     </ul>
 </nav>
 
@@ -111,5 +111,5 @@ const {
 
     }:
     } */
-    
+
 </style>
