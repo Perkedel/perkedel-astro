@@ -1595,12 +1595,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 }
 
 .hideOverflows{
-  overflow:hidden;
+  overflow:clip;
 }
 
 .hideOverflowsSide{
-  overflow-x: hidden;
-  overflow-y: visible;
+  overflow-x: clip;
+  /* overflow-y: visible; */
 }
 
 /* MEDIA PLS!!!! */
