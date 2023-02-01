@@ -189,6 +189,7 @@
                         </a>
                     <hr/>
                     <h2>Recent Items</h2>
+                        <!-- TODO: how to supposedly filter NSFW?!??!?! -->
                         <xsl:for-each select="/rss/channel/item">
                             <h3 class="mb-0">
                                 <a target="_blank" rel="noopener noreferrer">

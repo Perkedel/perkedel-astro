@@ -1587,10 +1587,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 
 .SpecialityImageWide{
   /* https://jpegxl.info/art/
-  yoin the CSS lol
+  yoink the CSS lol
    */
   max-width: 98vw;
-  margin: 2em 0;
+  /* margin: 2em 0; */
   max-height: 100vh;
 }
 
