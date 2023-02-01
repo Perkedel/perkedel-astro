@@ -38,13 +38,13 @@
                 <meta content="4096" name="og:image:width"/>
                 <meta content="2160" name="og:image:height"/>
                 <meta content="Perkedel banner" name="og:image:alt"/>
-                
+
                 <meta content="/Perkedel_Icon.png" name="og:image:url"/>
                 <meta content="image/png" name="og:image:type"/>
                 <meta content="600" name="og:image:width"/>
                 <meta content="400" name="og:image:height"/>
                 <meta content="Perkedel icon" name="og:image:alt"/>
-                
+
                 <meta name="og:article:published_time"/>
                 <meta name="og:article:modified_time"/>
                 <meta name="og:article:expiration_time"/>
@@ -98,27 +98,7 @@
 
                 <!-- Undefined Check! make sure this works, redefine each with our local copy if each fails -->
                 <!-- https://stackoverflow.com/a/18677056/9079640 -->
-                <script >
-                    if(typeof htmx == 'undefined'){
-                    document.write(unescape("%3Cscript src='/assets/scripts/js/htmx/htmx.min.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    if(typeof tingle == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/tingle/dist/tingle.min.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    
-                    if(typeof Plyr == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/plyr/plyr.polyfilled.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    if(typeof Blazy == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/plyr/blazy.min.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    if(applyFocusVisiblePolyfill == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/focus-visible/focus-visible.min.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    if(typeof midiPlayer == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/html-midi-player/html-midi-player@1.5.0.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-
+                <script src="/undefined.js">
                 </script>
 
                 <!-- <script src="/main.js">
@@ -145,11 +125,11 @@
                         <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style="">🏠 Home &#xf015;</a></li>
                         <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style="">📦 Applications &#xf53a;</a></li>
                         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
-                        
+
                         <li class="NavPutRight dropdown">
                             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
                             <a class="dropbtn NavBtn" title="Open Menu" href="#">&#xf85b;</a>
-                            
+
                             <ul class="dropdown-content">
                                 <!-- <li><RefreshButton Classer="NavBtn"/></li> -->
                                 <li><a title="Reload the page" class="NavBtn" href="javascript:window.location.href=window.location.href">🔄️ Refresh Page &#xf94f;</a></li>
@@ -169,7 +149,7 @@
                         </li>
                         <!-- <li class="NavPutRight"><a title="Go read our Privacy Policy" href="/privacy_policy" class="NavBtn">📜 Privacy Policy &#xf069;</a></li> -->
                         <!-- <li class="NavPutRight"><a title="Go read about us & our white paper stuffs" href="/about" class="NavBtn">📃 About &#xf05a;</a></li> -->
-                        
+
                     </ul>
                 </nav>
                 <hr/>
@@ -204,7 +184,7 @@
                         </a>
                         <br/>
                         <a href="https://perkedel.netlify.app/rss.xml" class="subscribe_link Buttonnize">
-                            <img width="36" height="14" src="https://www.w3schools.com/xml/pic_rss.gif"/> 
+                            <img width="36" height="14" src="https://www.w3schools.com/xml/pic_rss.gif"/>
                             Subscribe, $0 (Copy this link and paste to your newsreader!)
                         </a>
                     <hr/>
@@ -250,14 +230,14 @@
                         </ul>
                 </main>
 
-                <button onclick="topFunction()" id="backTopButton" title="Back To Top">&#xf63e; 🔝 TOP 👆 &#xf148;</button> 
+                <button onclick="topFunction()" id="backTopButton" title="Back To Top">&#xf63e; 🔝 TOP 👆 &#xf148;</button>
 
                 <footer>
                     <hr/>
                     <!-- <p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->
                     <p><img alt="Perkedel Icon" width="50em" src="/Perkedel_Icon.png"/> <font size = "12">Perkedel Technologies</font></p>
                     <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro</a></p>
-                    <font size="2"><p>DISCLAIMER:</p> 
+                    <font size="2"><p>DISCLAIMER:</p>
                     <ul>
                         <li><b>Netlify nor Astro never put watermark (except in context of domain for the Netflify free domain we had)</b>, I just write my own just to let you know how, yeah.</li>
                         <li>This website like many is stored on regular centralized system (GitHub for Source Code, Netflify for result), specifically static cloud type whatever Netflify or GitHub said. Therefore we do not endorse using such service other than for clout purpose<br/>With that of course, there is already as usual high risk of DMCA attacks and abuse. </li>
@@ -282,19 +262,7 @@
 
                 <!-- Undefined Check After! make sure this works, redefine each with our local copy if each fails -->
                 <!-- https://stackoverflow.com/a/18677056/9079640 -->
-                <script>
-                    if(typeof Toastify == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/toastify/toastify-js.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    if(typeof mailtouiApp == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/mailtoui/mailtoui-min.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    if(typeof mailtouiApp == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/mailtoui/mailtoui-min.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
-                    if(typeof loudlinks == 'undefined'){
-                        document.write(unescape("%3Cscript src='/assets/scripts/js/loud-links/loudlinks.min.js' type='text/javascript'%3E%3C/script%3E"));
-                    }
+                <script src="/undefined-after.js">
                 </script>
 
                 <!-- Main script finally -->
