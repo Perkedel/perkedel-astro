@@ -122,7 +122,7 @@
                         <li class="NavHistoryPutLeft"><a title="Go forward to future visited page" href="javascript:history.go(1)" class="NavBtn" id="NextButton">&#xf63d;</a></li>
                         <li class="NavHistoryPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf077;</a></li>
                         <!-- <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li> -->
-                        <li class="NavPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style="">🏠 Home &#xf015;</a></li>
+                        <li class="NavHistoryPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style="">&#xf015;</a></li>
                         <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style="">📦 Applications &#xf53a;</a></li>
                         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
 

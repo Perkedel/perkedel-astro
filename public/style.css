@@ -345,14 +345,14 @@ a:visited:active {
 
 header {
     color: white;
-    display: flex;
+    /* display: flex; */
     flex-direction: row;
     width: auto;
     height: auto;
     background-color: rgb(0, 35, 100);
     justify-content: flex-start;
     align-items: center;
-    padding: 20px;
+    padding:1em;
     margin: 0;
 }
 
@@ -780,7 +780,7 @@ input:disabled {
     background-color: darkorange;
     outline: none;
     color: black;
-    padding: 1em 1.5em;
+    padding: 1em 1em;
     border-radius: 30px;
     text-align: center;
     text-decoration: none;
@@ -821,7 +821,7 @@ input:disabled {
     background-color: darkorange;
     outline: none;
     color: black;
-    padding: 1em 1.5em;
+    padding: 1em 1em;
     border-radius: 30px;
     text-align: center;
     text-decoration: none;
