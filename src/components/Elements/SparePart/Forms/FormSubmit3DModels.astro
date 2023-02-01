@@ -3,14 +3,14 @@
 <!-- PUT ONLY IN NSFW ONLY! -->
 <!-- https://docs.netlify.com/forms/setup -->
 <!-- https://docs.netlify.com/forms/spam-filters/ -->
-<form 
-    name="3DmodelSubmit" 
-    method="POST" 
+<form
+    name="3DmodelSubmit"
+    method="POST"
     netlify-honeypot="bot-field"
     data-netlify-recaptcha="true"
     data-netlify="true"
     >
-    <!-- <input type="hidden" name="subject" 
+    <!-- <input type="hidden" name="subject"
         value="3D Models inquiry from perkedel.netlify.app" /> -->
     <p class="hidden">
         <label>
@@ -23,13 +23,13 @@
         <input type="text" id="name" name="name" />
     </p>
     <p>
-        <label for="intelligence">URLs & Keys:</label><br/> 
+        <label for="intelligence">URLs & Keys:</label><br/>
         <textarea id="intelligence" required name="intelligence"></textarea>
     </p>
     <p>
         <label>
             <span>Add files (8 MB max):</span><br/>
-            <input required id="file" name="file" type="file"/><br/>
+            <input id="file" name="file" type="file"/><br/>
             <input id="file2" name="file2" type="file"/><br/>
             <input id="file3" name="file3" type="file"/><br/>
             <input id="file4" name="file4" type="file"/><br/>
@@ -43,10 +43,10 @@
     </p>
     <div data-netlify-recaptcha="true"></div>
     <p style="font-size:.9em;">
-        By submitting, you are agree with our 
-        <a href="/terms_of_service" target="_blank" rel="noopener noreferrer">terms</a> & 
+        By submitting, you are agree with our
+        <a href="/terms_of_service" target="_blank" rel="noopener noreferrer">terms</a> &
         <a href="/privacy_policy" target="_blank" rel="noopener noreferrer">privacy policy</a>.<br/>
-        <mark class="warning">Additionally, you cannot request for deletion of the files & URLs you've uploaded</mark>. 
+        <mark class="warning">Additionally, you cannot request for deletion of the files & URLs you've uploaded</mark>.
         Only delete non-anonymous names (Not recommended, this may cause plagiarism accusations even name delete explicitly stated).
     </p>
     <p><button class="SpecialityButton" type="submit">Send</button></p>

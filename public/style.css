@@ -482,7 +482,7 @@ nav a:visited {
     background-color: navy;
     outline: none;
     color: white;
-    padding: 1em 1.5em;
+    padding: 1em 1em;
     border-radius: 30px;
     text-align: center;
     text-decoration: none;
@@ -1205,11 +1205,11 @@ kbd {
     /* Text color */
     cursor: pointer;
     /* Add a mouse pointer on hover */
-    padding: 15px;
+    padding: 1em;
     /* Some padding */
     border-radius: 30px;
     /* Rounded corners */
-    font-size: 18px;
+    font-size: 1.2em;
     /* Increase font size */
 }
 
