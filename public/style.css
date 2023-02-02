@@ -1721,9 +1721,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     /*
     https://www.w3schools.com/Css/tryit.asp?filename=trycss_navbar_horizontal_responsive
     */
-    nav {
+    /* nav {
         position: static;
-    }
+    } */
     nav ul {
         list-style-type: none;
         margin: 0;

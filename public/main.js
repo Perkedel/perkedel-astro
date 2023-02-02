@@ -174,6 +174,11 @@ customElements.define('da-footer', daFooter);
 let myBackTopbutton = document.getElementById("backTopButton");
 let myNavBtnClass = document.getElementsByClassName("NavBtn");
 let myNavBar = document.getElementsByTagName("nav");
+// big nav button
+let navPutLeft = document.getElementsByTagName("NavPutLeft");
+let navPutRight = document.getElementsByTagName("NavPutRight");
+// match media
+let isMobileMedia = window.matchMedia(`screen and (max-width: 600px)`);
 
 function scrollFunction() {
     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
@@ -182,6 +187,25 @@ function scrollFunction() {
         for (let thingy of myNavBtnClass) {
             thingy.style.opacity = 0.8;
         }
+
+        for (let biggie of navPutLeft) {
+          if (isMobileMedia.matches){
+            biggie.style.display = 'none';
+          } else {
+            if(biggie.style.display.trim() == 'none'){
+              biggie.style.display = 'inline-block';
+            }
+          }
+        }
+        for (let biggie of navPutRight) {
+          if (isMobileMedia.matches){
+            biggie.style.display = 'none';
+          } else {
+            if(biggie.style.display.trim() == 'none'){
+              biggie.style.display = 'inline-block';
+            }
+          }
+        }
     } else {
         myBackTopbutton.style.display = "none";
         // myNavBtnClass.stule.opacity = 1;
@@ -189,6 +213,25 @@ function scrollFunction() {
         for (let thingy of myNavBtnClass) {
             thingy.style.opacity = 1;
         }
+        for (let biggie of navPutLeft) {
+          if (isMobileMedia.matches){
+            biggie.style.display = 'inline-block';
+          } else {
+            if(biggie.style.display.trim() == 'none'){
+              biggie.style.display = 'inline-block';
+            }
+          }
+        }
+        for (let biggie of navPutRight) {
+          if (isMobileMedia.matches){
+            biggie.style.display = 'inline-block';
+          } else {
+            if(biggie.style.display.trim() == 'none'){
+              biggie.style.display = 'inline-block';
+            }
+          }
+        }
+
     }
 }
 
