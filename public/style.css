@@ -1756,7 +1756,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         position: sticky;
     }
     nav .NavHistoryPutRight {
-        float: none;
+        float: right;
         display: inline-block;
         /* Make sure it does not overlap */
         position: -webkit-sticky;
