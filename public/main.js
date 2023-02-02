@@ -175,8 +175,8 @@ let myBackTopbutton = document.getElementById("backTopButton");
 let myNavBtnClass = document.getElementsByClassName("NavBtn");
 let myNavBar = document.getElementsByTagName("nav");
 // big nav button
-let navPutLeft = document.getElementsByTagName("NavPutLeft");
-let navPutRight = document.getElementsByTagName("NavPutRight");
+let navPutLeft = document.getElementsByClassName("NavPutLeft");
+let navPutRight = document.getElementsByClassName("NavPutRight");
 // match media
 // let isMobileMedia = window.matchMedia(`(max-width: 600px)`) && window.matchMedia(`screen`);
 let isMobileMedia = window.matchMedia(`(max-width: 600px)`);
