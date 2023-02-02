@@ -20,8 +20,8 @@ export interface Props {
     errorSay?: string;
 }
 
-const { 
-  title = 'embedded picture', 
+const {
+  title = 'embedded picture',
   type = 'image/png',
   src,
   media,
@@ -43,7 +43,7 @@ const {
 ---
 <!-- https://www.w3schools.com/tags/tag_picture.asp -->
 <!-- https://www.w3schools.com/html/html_images_picture.asp -->
-<picture>
+<picture class="SpecialityImageWide">
     <source media={media} type={type} srcset={src}>
     {srcExtra.map((sauce)=>(
         <source srcset={sauce[0]} type={sauce[1]} media={sauce[2]}/>

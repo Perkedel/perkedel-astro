@@ -1752,15 +1752,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         float: none;
         display: inline-block;
         /* Make sure it does not overlap */
-        position: -webkit-sticky;
-        position: sticky;
+        /* position: -webkit-sticky;
+        position: sticky; */
     }
     nav .NavHistoryPutRight {
         float: right;
         display: inline-block;
         /* Make sure it does not overlap */
-        position: -webkit-sticky;
-        position: sticky;
+        /* position: -webkit-sticky;
+        position: sticky; */
     }
     .ListGalleryStyle {
         width: 100%;
