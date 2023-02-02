@@ -1,4 +1,5 @@
 ---
+import ButtonizedLink from '@components/ButtonizedLink.astro'
 // import '../style/style.css'; // No, let themselve have their own CSS, idk..
 
 export interface Props {
@@ -16,43 +17,194 @@ export interface Props {
     referrerPolicy?:string;
     sandbox?:string;
     errorSay?:string;
+    noPreload?:boolean;
 }
 
 const{
     title = 'EmbedRAWHTML',
-    src,
+    src="",
     srcDoc,
-    height = '500px',
+    height = '100vh',
     width = '100%',
     style = 'border:none;',
-    name,
+    name="",
     allow,
-    allowFullScreen,
+    allowFullScreen=true,
     allowPaymentRequest,
-    loading,
+    loading="",
     referrerPolicy,
     sandbox,
-    errorSay = '&#xea87; WERROR! &#xebde; Your browser does not support <code>iframe</code>, warm and bad! 😭😭😭😭😭😭😭 '
+    errorSay = '&#xea87; WERROR! &#xebde; Your browser does not support <code>iframe</code>, warm and bad! 😭😭😭😭😭😭😭 ',
+    noPreload = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- https://www.w3schools.com/tags/tag_iframe.asp -->
 <!-- https://www.w3schools.com/tags/att_iframe_srcdoc.asp -->
+<script is:global>
+  /*
+  interface EmbedSpec = {
+    src?:string;
+    srcdoc?:string;
+    width?:string;
+    height?:string;
+    name?:string;
+    title?:string;
+    allowfullscreen?:boolean;
+    allow?:boolean;
+    referrerpolicy?:string;
+    sandbox?:string;
+  };
+  */
+  /*
+  function startLoadingEmbed(args){
+    document.getElementById('embedderIframe').innerHTML = `
+    <iframe
+      src="${args.src}"
+      srcdoc="${args.srcdoc}"
+      width="${args.width}"
+      height="${args.height}"
+      style="${args.style}"
+      name="${args.name}"
+      title="${args.title}"
+      allowfullscreen="${args.allowFullScreen}"
+      allow="${args.allow}"
+      referrerpolicy="${args.referrerPolicy}"
+      sandbox="${args.sandbox}"
+      >
+        <p class="error">{errorSay}</p>
+      <slot name="errorSayExtra"/>
+  </iframe>
+    `;
+  }
+  */
+  /*
+  function startLoadingEmbed(
+      src="",
+      srddoc="",
+      width="",
+      height="",
+      style="",
+      name="",
+      title="",
+      allowfullscreen=true,
+      allow=true,
+      referrerpolicy="",
+      sandbox="",
+      errorSay="",
+    ){
+    document.getElementById('embedderIframe').innerHTML = `
+    <iframe
+      src="${src}"
+      srcdoc="${srcdoc}"
+      width="${width}"
+      height="${height}"
+      style="${style}"
+      name="${name}"
+      title="${title}"
+      allowfullscreen="${allowFullScreen}"
+      allow="${allow}"
+      referrerpolicy="${referrerPolicy}"
+      sandbox="${sandbox}"
+      >
+        <p class="error">${errorSay}</p>
+  </iframe>
+    `;
+  }
+  */
+  function startLoadingEmbed(src=""){
+    document.getElementById('mainIframe').src = src;
+    document.getElementById('loadEmbedNowButton').style="display:none;";
+  }
+</script>
 
-<iframe 
-    src={src} 
+<!--
+<button onclick={`startLoadingEmbed(`
+  +
+  {
+    "src":src,
+    "srcdoc":srcDoc,
+    "width":width,
+    "height":height,
+    "style":style,
+    "title":title,
+    "allowfullscreen":allowFullScreen,
+    "allow":allow,
+    "referrerpolicy":referrerPolicy,
+    "sandbox":sandbox
+  }.toString()
+  +
+  `)`} id="loadEmbedNowButton" title="Load embed HTML now">Play</button>
+
+  <button onclick={`startLoadingEmbed(
+      '${src}',
+      '${srcDoc}',
+      '${width}',
+      '${height}',
+      '${style}',
+      '${title}',
+      ${allowFullScreen},
+      ${allow},
+      '${referrerPolicy}',
+      '${sandbox}'
+    )`} id="loadEmbedNowButton" title="Load embed HTML now">Play</button>
+-->
+<!--
+<div id="embedderIframe" class="embedderIframe">
+{noPreload?
+  <ButtonizedLink href={`javascript:startLoadingEmbed(
+      '${src}',
+      '${srcDoc}',
+      '${width}',
+      '${height}',
+      '${style}',
+      '${title}',
+      ${allowFullScreen},
+      ${allow},
+      '${referrerPolicy}',
+      '${sandbox}'
+    )`}>
+    Play
+    </ButtonizedLink>
+  <slot/>
+  <slot name="errorSayExtra"/>
+  :
+  <iframe
+    src={src}
     srcdoc={srcDoc}
-    width={width} 
-    height={height} 
-    style={style} 
-    name={name} 
-    title={title} 
-    allowfullscreen={allowFullScreen} 
+    width={width}
+    height={height}
+    style={style}
+    name={name}
+    title={title}
+    allowfullscreen={allowFullScreen}
     allow={allow}
     referrerpolicy={referrerPolicy}
-    sandbox={sandbox} 
+    sandbox={sandbox}
     >
     <slot>
         <p class="error">{errorSay}</p>
     </slot>
     <slot name="errorSayExtra"/>
+</iframe>}
+</div>
+-->
+<button id="loadEmbedNowButton" onClick={`startLoadingEmbed('`+src+`')`} class="SpecialityButton" style={noPreload?"":"display:none;"}>Play</button>
+<iframe
+  id="mainIframe"
+  src={noPreload?"/rawHtml/noPreload/index.html":src}
+  srcdoc={srcDoc}
+  width={width}
+  height={height}
+  style={style}
+  name={name}
+  title={title}
+  allowfullscreen={allowFullScreen}
+  allow={allow}
+  referrerpolicy={referrerPolicy}
+  sandbox={sandbox}
+  >
+  <slot>
+      <p class="error">{errorSay}</p>
+  </slot>
+  <slot name="errorSayExtra"/>
 </iframe>
