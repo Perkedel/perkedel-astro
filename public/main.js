@@ -178,7 +178,8 @@ let myNavBar = document.getElementsByTagName("nav");
 let navPutLeft = document.getElementsByTagName("NavPutLeft");
 let navPutRight = document.getElementsByTagName("NavPutRight");
 // match media
-let isMobileMedia = window.matchMedia(`screen and (max-width: 600px)`);
+// let isMobileMedia = window.matchMedia(`(max-width: 600px)`) && window.matchMedia(`screen`);
+let isMobileMedia = window.matchMedia(`(max-width: 600px)`);
 
 function scrollFunction() {
     if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
