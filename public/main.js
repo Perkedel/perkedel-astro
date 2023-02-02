@@ -216,7 +216,7 @@ function scrollFunction() {
         }
         for (let biggie of navPutLeft) {
           if (isMobileMedia.matches){
-            biggie.style.display = 'inline-block';
+            biggie.style.display = 'block';
           } else {
             if(biggie.style.display.trim() == 'none'){
               biggie.style.display = 'inline-block';
@@ -225,7 +225,7 @@ function scrollFunction() {
         }
         for (let biggie of navPutRight) {
           if (isMobileMedia.matches){
-            biggie.style.display = 'inline-block';
+            biggie.style.display = 'block';
           } else {
             if(biggie.style.display.trim() == 'none'){
               biggie.style.display = 'inline-block';
