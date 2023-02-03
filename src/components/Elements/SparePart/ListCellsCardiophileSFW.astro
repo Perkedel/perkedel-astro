@@ -7,6 +7,7 @@ import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounce
 import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
 import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
 import EmbedPicture from '@components/Elements/EmbedPicture.astro';
+import Figurative from '@components/Elements/SparePart/Figurative.astro';
 import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
@@ -27,10 +28,12 @@ import Emoji from 'astro-emoji';
 <li><ButtonizedLink href={"https://github.com/GrazedAnkle/SHR-SKSE64"} target="_blank" rel="noopener noreferrer">Skyrim Heart rate mod</ButtonizedLink> Introduced by HBObsession from Ichor Mongrel's server</li>
 <li><ButtonizedLink href={"https://heart2h.com"} target="_blank" rel="noopener noreferrer">Heart2h.com website</ButtonizedLink> <b class="error">Majority of function requires account, not archive friendly!</b> Video & Forum</li>
 <li><ButtonizedLink href={"https://www.deviantart.com/joelwindows7/art/My-Laptop-is-extremely-laggy-let-s-cardiophile-806144320"} target="_blank" rel="noopener noreferrer">A Hat in Time steth moment</ButtonizedLink> Because my laptop is laaaaaaaaaaaaaaggy.
-  <div style="overflow-x:auto;">
-  <!--<EmbedPicture src="https://github.com/Perkedel/After-Church/raw/master/RAW%20files/ImageScan/AhitHeartbeatSteth.png" title='Graffiti image featuring Hat Kid & Bow Kid stething their own heart.'/>-->
-  <img class="SpecialityImageWide" style="max-width=90vw;" title="Graffiti image featuring Hat Kid & Bow Kid stething their own heart." src="https://github.com/Perkedel/After-Church/raw/master/RAW%20files/ImageScan/AhitHeartbeatSteth.png" alt="Ahit_Steth" />
-  </div>
+  <Figurative figcaption="Graffiti image featuring Hat Kid & Bow Kid stething their own heart.">
+    <div style="overflow-x:auto;">
+    <!--<EmbedPicture src="https://github.com/Perkedel/After-Church/raw/master/RAW%20files/ImageScan/AhitHeartbeatSteth.png" title='Graffiti image featuring Hat Kid & Bow Kid stething their own heart.'/>-->
+    <img class="SpecialityImageWide" style="max-width=90vw;" title="Graffiti image featuring Hat Kid & Bow Kid stething their own heart." src="https://github.com/Perkedel/After-Church/raw/master/RAW%20files/ImageScan/AhitHeartbeatSteth.png" alt="Ahit_Steth" />
+    </div>
+  </Figurative>
   <br/>
   <a href="https://github.com/Perkedel/After-Church/blob/master/RAW%20files/ImageScan/AhitHeartbeatSteth.png" target="_blank" rel="noopener noreferrer">Original File</a>
 </li>
