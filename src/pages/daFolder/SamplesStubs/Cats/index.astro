@@ -14,15 +14,20 @@ import HoverExpandTest from '@components/Elements/SparePart/Experiments/HoverExp
 import ScrollRevealTest from '@components/Elements/SparePart/Experiments/ScrollRevealTest.astro';
 import JPEGXLTest from '@components/Elements/SparePart/Experiments/JPEGXLTest.astro';
 import YearOnNetlify from '@components/Elements/SparePart/Experiments/YearOnNetlify.astro';
+
+const posts = await Astro.glob('./*.astro');
 ---
-<Layout title={"Cat Selext"} description={"Meows"} keywords={`experiment, test, sample, examples, meow`}>
+<Layout title={"Cat Select"} description={"Meows"} keywords={`experiment, test, sample, examples, meow`}>
     <h1>Cats</h1>
         <p>Select Cat!</p>
         <ul>
+            <!--
             <li><ButtonizedLink href="shadow" openInNewTab={false}>shadow</ButtonizedLink></li>
             <li><ButtonizedLink href="lemon" openInNewTab={false}>lemon</ButtonizedLink></li>
             <li><ButtonizedLink href="stripe" openInNewTab={false}>stripe</ButtonizedLink></li>
             <li><ButtonizedLink href="calico" openInNewTab={false}>calico</ButtonizedLink></li>
+            -->
+            {posts.map(post => <li><ButtonizedLink href={post.url} openInNewTab={false}>{post.url}</ButtonizedLink></li>)}
         <ul>
         <ButtonizedLink href="https://docs.astro.build/en/core-concepts/routing/#static-ssg-mode" openInNewTab={true}>More about Static SSG Routes</ButtonizedLink>
 </Layout>
