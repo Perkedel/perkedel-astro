@@ -20,11 +20,15 @@ export function getStaticPaths() {
     {params: {cat: 'shadow'}},
     {params: {cat: 'lemon'}},
     {params: {cat: 'stripe'}},
-    {params: {cat: 'stripe/gray/calico'}},
-    {params: {cat: 'stripe/gray'}},
+
     {params: {cat: undefined }},
   ];
 }
+
+/*
+{params: {cat: 'stripe/gray/calico'}},
+{params: {cat: 'stripe/gray'}},
+ */
 
 const { cat } = Astro.params;
 ---

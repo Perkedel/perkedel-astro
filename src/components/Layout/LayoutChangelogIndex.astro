@@ -54,8 +54,8 @@ export interface Props {
 //https://howtodoinjava.com/typescript/maps/
 //https://stackoverflow.com/a/73526781/9079640
 
-const { 
-  title = 'A Perkedel NTLF+ASTR Games Changelogs v0.0.0.0', 
+const {
+  title = 'A Perkedel NTLF+ASTR Games Changelogs v0.0.0.0',
   titlePostFix = 'Changelogs',
   name = title,
   author = 'JOELwindows7',
@@ -99,14 +99,15 @@ const {
   appName = 'YOUR_APP_NAME',
   file,
   url,
+  nsfw,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- This is Changelog index that hubs all changelogs in every app -->
 <Layout
-    title={title} 
-    author={author} 
-    description={description} 
+    title={title}
+    author={author}
+    description={description}
     keywords={keywords}
     date={date}
     dateMod={dateMod}
@@ -136,6 +137,7 @@ const {
     twitterCard={twitterCard || 'summary_large_image'}
     themeColor={themeColor || 'navy'}
     hideInfo={hideInfo}
+    nsfw={nsfw}
     >
     <!-- https://docs.astro.build/en/guides/markdown-content/ -->
     <h1>{appName} {titlePostFix}</h1>
