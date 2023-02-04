@@ -1,6 +1,6 @@
 ---
-import Layout from '../../components/Layout.astro';
-import ButtonizedLink from '../../components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
@@ -25,6 +25,7 @@ import YearOnNetlify from '@components/Elements/SparePart/Experiments/YearOnNetl
         <!-- <a class="Buttonnize" href="./innerDaFolder">Beflon</a> -->
         <ButtonizedLink content="Beflon" href="./innerDaFolder"/>
         <ButtonizedLink content="404 Test" href="/404"/>
+        <ButtonizedLink content="Experiment & Sample Stubs" href="./SampleStubs"/>
     <h2>The <ButtonizedLink content="ICON" href="https://github.com/natemoo-re/astro-icon" target="_blank" rel="noopener noreferrer"/></h2>
         <!-- https://github.com/natemoo-re/astro-icon#readme -->
         <h3>Automatically fetches and inlines Material Design Icon's "account" SVG</h3>
