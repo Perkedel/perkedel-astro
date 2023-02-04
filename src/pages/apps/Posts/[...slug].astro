@@ -15,6 +15,7 @@ import Cardiophilia from '@components/Page/Cardiophilia.astro';
 export interface Props{
     title?:string;
     text?:string;
+    nsfw?:boolean;
 }
 
 export function getStaticPaths() {
@@ -23,20 +24,22 @@ export function getStaticPaths() {
         slug: undefined,
         title: "Posts",
         text: "Welcome to the BlogMachine!",
+        nsfw:false,
       },
       {
         slug: "enterNSFW/nsfw",
         title: "Posts NSFW",
         text: "Welcome to the BlogMachine!",
+        nsfw:true,
       },
     ];
-    return pages.map(({ slug, title, text }) => {
+    return pages.map(({ slug, title, text, nsfw }) => {
       return {
         params: { slug },
-        props: { title, text },
+        props: { title, text, nsfw },
       };
     });
 }
 
-const { title, text } = Astro.props.frontmatter || Astro.props as Props;
+const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
 ---

@@ -14,28 +14,15 @@ import HoverExpandTest from '@components/Elements/SparePart/Experiments/HoverExp
 import ScrollRevealTest from '@components/Elements/SparePart/Experiments/ScrollRevealTest.astro';
 import JPEGXLTest from '@components/Elements/SparePart/Experiments/JPEGXLTest.astro';
 import YearOnNetlify from '@components/Elements/SparePart/Experiments/YearOnNetlify.astro';
-
-export function getStaticPaths() {
-  return [
-    {params: {cat: 'shadow'}},
-    {params: {cat: 'lemon'}},
-    {params: {cat: 'stripe'}},
-    {params: {cat: 'calico'}},
-
-  ];
-}
-
-/*
-{params: {cat: 'stripe/gray/calico'}},
-{params: {cat: 'stripe/gray'}},
-{params: {cat: undefined }},
-{params: {cat: '' }},
- */
-
-const { cat } = Astro.params;
 ---
-<Layout title={"Cat " + cat} description={"Meow " + cat} keywords={`experiment, test, sample, examples, meow, ${cat}`}>
-    <h1>Cat {cat}</h1>
-        <p>Meow meow, {cat}!</p>
+<Layout title={"Cat Selext"} description={"Meows"} keywords={`experiment, test, sample, examples, meow`}>
+    <h1>Cats</h1>
+        <p>Select Cat!</p>
+        <ul>
+            <li><ButtonizedLink href="shadow" openInNewTab={false}>shadow</ButtonizedLink></li>
+            <li><ButtonizedLink href="lemon" openInNewTab={false}>lemon</ButtonizedLink></li>
+            <li><ButtonizedLink href="stripe" openInNewTab={false}>stripe</ButtonizedLink></li>
+            <li><ButtonizedLink href="calico" openInNewTab={false}>calico</ButtonizedLink></li>
+        <ul>
         <ButtonizedLink href="https://docs.astro.build/en/core-concepts/routing/#static-ssg-mode" openInNewTab={true}>More about Static SSG Routes</ButtonizedLink>
 </Layout>
