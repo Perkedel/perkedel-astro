@@ -1,5 +1,5 @@
 ---
-import Layout from '../../../../components/Layout/LayoutChangelogIndex.astro'; // <- Pls put this here.
+import Layout from '@components/Layout/LayoutChangelogIndex.astro'; // <- Pls put this here.
 const posts = await Astro.glob('./*.mdx'); // <- & this too, VERY IMPORTANT.
 
 export interface Props {
@@ -46,8 +46,8 @@ export interface Props {
   appName?:string;
 }
 
-const { 
-  title = 'Last Funkin Moments Changelogs', 
+const {
+  title = 'Last Funkin Moments Changelogs',
   name = title,
   author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Changelogs List of Last Funkin Moments',
@@ -90,15 +90,16 @@ const {
   appName = 'Last Funkin Moments',
   file,
   url,
+  nsfw,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <Layout
-    title={title} 
+    title={title}
     name={name}
     type={type}
-    author={author} 
-    description={description} 
+    author={author}
+    description={description}
     descriptionPrefix={descriptionPrefix}
     keywords={keywords}
     date={date}
@@ -134,6 +135,7 @@ const {
     appName={appName}
     SauceChangelogURL={SauceChangelogURL}
     SauceChangelogURLDirect={SauceChangelogURLDirect}
+    nsfw={nsfw}
     >
     <!-- & then Pls put this bellow VVVVVV on your changelog index -->
     {posts.map(post => <li slot="fillTheListNow"><a href={post.frontmatter.url}>{post.frontmatter.title}</a></li>)}
