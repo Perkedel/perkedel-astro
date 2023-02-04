@@ -50,12 +50,13 @@ export interface Props {
   ejectClarity?:boolean;
   SauceChangelogURL?:string;
   SauceChangelogURLDirect?:string;
+  nsfw?:boolean;
 }
 //https://howtodoinjava.com/typescript/maps/
 //https://stackoverflow.com/a/73526781/9079640
 
-const { 
-  title = 'A Perkedel NTLF+ASTR Games Changelogs v0.0.0.0', 
+const {
+  title = 'A Perkedel NTLF+ASTR Games Changelogs v0.0.0.0',
   titlePostFix = 'Changelogs',
   name = title,
   author = 'JOELwindows7',
@@ -98,14 +99,15 @@ const {
   SauceChangelogURLDirect = 'https://github.com/Perkedel/After-Church/raw/master/Documents/Misc/lfm-changelog-2022.05.md',
   file,
   url,
+  nsfw,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- This is individual Changelog article. -->
-<Layout 
-  title={title} 
-  author={author} 
-  description={description} 
+<Layout
+  title={title}
+  author={author}
+  description={description}
   keywords={keywords}
   date={date}
   dateMod={dateMod}
@@ -135,6 +137,7 @@ const {
   twitterCard={twitterCard || 'summary_large_image'}
   themeColor={themeColor || 'navy'}
   hideInfo={hideInfo}
+  nsfw={nsfw}
   >
   <h1><slot name="prependTitle"/>{title} <slot name="appendTitle"/></h1>
   <h2>Here {titlePostFix}:</h2>
@@ -153,21 +156,21 @@ const {
   <h2 style="font-size:18px"><i>Markdown / Article Info</i></h2>
   <div class="MDXInfo" id="MDXInfo" style="overflow-x:auto;">
           <!-- <p style="font-size:12px;">
-              Title: {frontmatter.title}<br>
-              Author: {frontmatter.author}<br>
-              Description: {frontmatter.description}<br>
-              Date: {frontmatter.date}<br>
-              keywords: {frontmatter.keywords}<br>
+              Title: {title}<br>
+              Author: {author}<br>
+              Description: {description}<br>
+              Date: {date}<br>
+              keywords: {keywords}<br>
           </p> -->
           <!-- https://www.w3schools.com/html/html_tables.asp -->
           <table style="font-size:12px">
               <tr>
                   <th>Info</th>
-                  <th>Value</th>       
+                  <th>Value</th>
               </tr>
               <tr>
                   <td>Title</td>
-                  <td>{title}</td>        
+                  <td>{title}</td>
               </tr>
               <tr>
                   <td>Author</td>
@@ -183,7 +186,7 @@ const {
               <tr>
                   <td>Date</td>
                   <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
-                  <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td> 
+                  <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td>
               </tr>
               <tr>
                   <td>Keywords</td>
@@ -196,6 +199,10 @@ const {
               <tr>
                   <td>URL</td>
                   <td>{url}</td>
+              </tr>
+              <tr>
+                  <td>Mature Content?</td>
+                  <td>{nsfw?"YES":"NO"}</td>
               </tr>
           </table>
   </div>

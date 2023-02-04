@@ -39,11 +39,12 @@ export interface Props{
   hideInfo?:boolean;
   file?:string;
   url?:string;
+  nsfw?:boolean;
 }
 
 const {
     siteName = 'Perkedel Technologies Division NTLF+ASTR',
-  title = 'Perkedel NTLF+ASTR', 
+  title = 'Perkedel NTLF+ASTR',
   date,
   dateMod,
   dateExp,
@@ -96,11 +97,11 @@ const {
         <table style="font-size:12px">
             <tr>
                 <th>Info</th>
-                <th>Value</th>       
+                <th>Value</th>
             </tr>
             <tr>
                 <td>Title</td>
-                <td>{title}</td>        
+                <td>{title}</td>
             </tr>
             <tr>
                 <td>Author</td>
@@ -116,7 +117,7 @@ const {
             <tr>
                 <td>Date</td>
                 <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
-                <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td> 
+                <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td>
             </tr>
             <tr>
                 <td>Keywords</td>
@@ -129,6 +130,10 @@ const {
             <tr>
                 <td>URL</td>
                 <td>{url}</td>
+            </tr>
+            <tr>
+                <td>Mature Content?</td>
+                <td>{nsfw?"YES":"NO"}</td>
             </tr>
         </table>
 </div>

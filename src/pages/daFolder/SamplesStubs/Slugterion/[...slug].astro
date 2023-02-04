@@ -1,0 +1,50 @@
+---
+import Layout from '../../components/Layout.astro';
+import ButtonizedLink from '../../components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import Midi from '@components/Elements/MidiPlayer.astro';
+import EmbedAudio from '@components/Elements/EmbedAudio.astro';
+import RandomPlayMIDIs from '@components/Elements/SparePart/RandomPlayMIDIs.astro';
+import RandomLoudLinks from '@components/Elements/SparePart/RandomLoudLinks.astro';
+import OwenWowTest from '@components/Elements/SparePart/OwenWowTest.astro';
+import IncredibleQuips from '@components/Elements/SparePart/IncredibleQuips.astro';
+import HoverExpandTest from '@components/Elements/SparePart/Experiments/HoverExpandTest.astro';
+import ScrollRevealTest from '@components/Elements/SparePart/Experiments/ScrollRevealTest.astro';
+import JPEGXLTest from '@components/Elements/SparePart/Experiments/JPEGXLTest.astro';
+import YearOnNetlify from '@components/Elements/SparePart/Experiments/YearOnNetlify.astro';
+
+export function getStaticPaths() {
+    const pages = [
+      {
+        slug: undefined,
+        title: "Slugterion",
+        text: "Welcome to the Slugterion!",
+      },
+      {
+        slug: "Stuff",
+        title: "Slugterion stuffs",
+        text: "We have lots of stuffs for you",
+      },
+      {
+        slug: "Stuffs/slug-handbook",
+        title: "The ultimate Slugterion handbook",
+        text: "If you want to learn Slug, you must read this book.",
+      },
+    ];
+    return pages.map(({ slug, title, text }) => {
+      return {
+        params: { slug },
+        props: { title, text },
+      };
+    });
+}
+
+const { title, text } = Astro.props;
+---
+<Layout title={"Slugterion " + title} description={"Meow " + text} keywords={`experiment, test, sample, examples, meow, ${title}`}>
+    <h1>Slug {title}</h1>
+        <p>{text}</p>
+        <ButtonizedLink href="https://docs.astro.build/en/core-concepts/routing/#example-dynamic-pages-at-multiple-levels" openInNewTab={true}>More about Static SSG Slug Routes</ButtonizedLink>
+</Layout>

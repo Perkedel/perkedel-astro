@@ -43,9 +43,11 @@ type Props = MarkdownLayoutProps<{
     twitterSite?:string;
     twitterCard?:string;
     themeColor?:string;
+    nsfw?:boolean;
 }>;
-const { frontmatter, 
+const { frontmatter,
         url,
+        nsfw,
         // hideInfo = 'false',
 } = Astro.props;
 
@@ -57,9 +59,9 @@ const { frontmatter,
 //     document.getElementById('MDXInfo').style.display = 'block';
 // }
 ---
-<Layout 
-    title={frontmatter.title} 
-    description={frontmatter.description} 
+<Layout
+    title={frontmatter.title}
+    description={frontmatter.description}
     keywords={frontmatter.keywords}
     date={frontmatter.date}
     dateMod={frontmatter.dateMod}
@@ -89,6 +91,7 @@ const { frontmatter,
     twitterCard={frontmatter.twitterCard || 'summary_large_image'}
     themeColor={frontmatter.themeColor || 'navy'}
     hideInfo={frontmatter.hideInfo}
+    nsfw={frontmatter.nsfw}
     >
     <slot name="beginOfIt">
 
@@ -121,11 +124,11 @@ const { frontmatter,
             <table style="font-size:12px">
                 <tr>
                     <th>Info</th>
-                    <th>Value</th>       
+                    <th>Value</th>
                 </tr>
                 <tr>
                     <td>Title</td>
-                    <td>{frontmatter.title}</td>        
+                    <td>{frontmatter.title}</td>
                 </tr>
                 <tr>
                     <td>Author</td>
@@ -154,6 +157,10 @@ const { frontmatter,
                 <tr>
                     <td>URL</td>
                     <td>{frontmatter.url}</td>
+                </tr>
+                <tr>
+                    <td>Mature Content?</td>
+                    <td>{frontmatter.nsfw?"YES":"NO"}</td>
                 </tr>
             </table>
     </div>
