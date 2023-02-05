@@ -9,21 +9,22 @@ import NoZeronet from '../components/Messages/NoZeronet.astro';
 import PerkedelIconSmallest from '../components/Icons/PerkedelIconSmallest.astro';
 import AstroIcon from '@components/Icons/AstroIcon.astro';
 import HomeRevealBox from '@components/Elements/SparePart/FancyRevealBox/HomeRevealBox.astro';
+import { HelloAstro } from "hello-astro";
 
 // console.log('Welcome to Perkedel NTLF+ASTR yeah cool and good');
 ---
 <!-- <Debug {'Welcome to Perkedel NTLF+ASTR. Cool and good.'}/> -->
 <Layout title="Perkedel NTLF+ASTR" description="Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework" keywords="tech, fun, novelty, open source, gratis, free">
-  <h1>Perkedel NTLF+ASTR. 
-    Welcome to <PerkedelIconSmallest/> Perkedel Technologies Website on Netlify.com 
+  <h1>Perkedel NTLF+ASTR.
+    Welcome to <PerkedelIconSmallest/> Perkedel Technologies Website on Netlify.com
     <!-- <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" /> </a> -->
-    <img height="30px" src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" title="Netlify"/> 
+    <img height="30px" src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="Deploys by Netlify" title="Netlify"/>
     <!-- ft. <img height="30px" src="https://astro.build/assets/press/full-logo-dark.svg" alt="Astro framework" /> -->
     ft. <AstroIcon/>
   </h1>
   <HomeRevealBox/>
   <NoZeronet/>
-  <p>Here's our website hosted in Netlify, built with Astro. Netlify is a versatile & flexible Git powered web hosting that is also Open Source (<a href="https://github.com/netlify/cli" target="_blank" rel="noopener noreferrer">maybe?</a>) beside being $0*<br>
+  <p><HelloAstro />! Here's our website hosted in Netlify, built with Astro. Netlify is a versatile & flexible Git powered web hosting that is also Open Source (<a href="https://github.com/netlify/cli" target="_blank" rel="noopener noreferrer">maybe?</a>) beside being $0*<br>
     Netlify does not provide framework on their own, only the hosting. However, they support deploying sites with various framework, as well as providing templates to quickly get started.<br>
     And for that, we use Astro framework to build our website.<br>
     Again, thanks to Netlify for also providing us the <a href="https://github.com/netlify-templates/astro-quickstart" target="_blank" rel="noopener noreferrer">template</a> in order for us to kickstart our migration from Neocities much faster<br>

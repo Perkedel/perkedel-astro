@@ -1268,8 +1268,12 @@ kbd {
 
 table,
 th,
-td {
+td,
+.table,
+.th,
+.td {
     border: 1px solid blue;
+    /* What an idiot! div, instead of proper table tags?!?!??! */
 }
 
 
