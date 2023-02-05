@@ -6,7 +6,7 @@ import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
 import partytown from "@astrojs/partytown";
 import robotsTxt from 'astro-robots-txt';
-import embeds from 'astro-embed/integration';
+// import embeds from 'astro-embed/integration';
 import remarkMermaid from 'astro-diagram/remark-mermaid';
 
 // https://astro.build/config
@@ -16,7 +16,7 @@ export default defineConfig({
         // image({
         //     serviceEntryPoint: '@astrojs/image/sharp',
         // }),
-        sitemap(), prefetch(), partytown(), embeds(), robotsTxt(
+        sitemap(), prefetch(), partytown(), , robotsTxt(
             {
                 sitemap: 'https://perkedel.netlify.app/sitemap-0.xml',
                 transform(content) {
@@ -24,6 +24,7 @@ export default defineConfig({
                 },
             }
         ),
+        //embeds(),
     ],
     markdown: {
         remarkPlugins: [
@@ -35,7 +36,5 @@ export default defineConfig({
             // ...
         ],
     },
-    legacy: {
-        astroFlavoredMarkdown: false,
-    },
+
 });
