@@ -27,7 +27,7 @@ export default defineConfig({
             },
         }),
         //embeds(),
-        webmanifest(
+        webmanifest({
             // https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest#readme
             /**
                 * required
@@ -53,9 +53,9 @@ export default defineConfig({
                     description: 'Perkedel ASTR+NTLF. Website Resmi Perkedel Technologies',
                     lang: 'id-ID',
                     start_url: '/',
-                }
-            }
-        ),
+                },
+            },
+        }),
     ],
     markdown: {
         remarkPlugins: [
