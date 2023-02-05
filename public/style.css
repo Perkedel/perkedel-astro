@@ -541,7 +541,7 @@ a[href*='//odysee.com']::before,
 a[href*='odysee.com']::before,
 a[href*='https://odysee.com']::before,
 a[href*='https://odysee.tv']::before,
-a[href*='https://help.odysee.tv']::before,
+a[href*='https://help.odysee.tv']::before
 {
     content: url('https://api.iconify.design/simple-icons/odysee.svg') ,' ';
 }

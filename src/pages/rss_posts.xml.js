@@ -4,9 +4,7 @@ import { getCollection } from "astro:content";
 
 // was export const get = () => rss({})
 export async function get() {
-    let metaGlob = await import.meta.glob('./**/*.mdx');
     let posts = await getCollection('posts');
-    let mergo = {...metaGlob, ... posts};
     let installPost = posts.map((post) => ({
         title: post.data.title,
         pubDate: post.data.pubDate,
@@ -14,13 +12,11 @@ export async function get() {
         link: `/posts/${post.slug}/`,
     }));
     // https://stackoverflow.com/a/171256/9079640
-    //let mergen = {...metaGlob,...installPost};
-    //let mergen = Object.assign({}, metaGlob, installPost);
     return rss({
         // `<title>` field in output xml
-        title: "Perkedel NTLF+ASTR | RSS",
+        title: "Perkedel NTLF+ASTR | RSS Blog",
         // `<description>` field in output xml
-        description: 'Perkedel Technologies Division NTLF+ASTR. Our RSS feeds',
+        description: 'Perkedel Technologies Division NTLF+ASTR. Our RSS Blog feeds',
         // base URL for RSS <item> links
         // SITE will use "site" from your project's astro.config.
         site: import.meta.env.SITE,
@@ -28,7 +24,7 @@ export async function get() {
         // simple example: generate items for every md file in /src/pages
         // see "Generating items" section for required frontmatter and advanced use cases
         //items: import.meta.glob('./**/*.mdx'),
-        items: metaGlob,
+        items: installPost,
         // (optional) inject custom xml
         customData: `
             <language>en-us</language>

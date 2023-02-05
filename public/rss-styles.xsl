@@ -141,6 +141,7 @@
                                 <!-- <li><a title="View this page source" href={viewSourceURL} class="NavBtn" id="ViewSourceButton" style="display:none;">🩻 View Source &#xf1c9;</a></li> -->
                                 <!-- View source by button is forbidden by browsers of the world. WARM & BAD-->
                                 <li><a title="Go view our RSS (link can by copy pasted to your newsreader)" href="/rss.xml" class="NavBtn" id="RSSButton" style="color:cyan;">📰 RSS &#xf143;</a></li>
+                                <!-- <li><a title="Go view our RSS Blog (link can by copy pasted to your newsreader)" href="/rss_posts.xml" class="NavBtn" id="RSSBlogButton" style="color:cyan;">📰 RSS Blog &#xf143;</a></li> -->
                                 <li><a title="Go view our Sitemap (link can by copy pasted to your web crawler)" href="/sitemap-0.xml" class="NavBtn" id="SitemapButton" style="">🗺️ Sitemap &#xf0e8;</a></li>
                                 <li><a title="Go read our Terms of Service" href="/terms_of_service/" class="NavBtn" id="TermsOfServiceButton" style="">⚖️ Terms of Service &#xf495;</a></li>
                                 <li><a title="Go read our Privacy Policy" href="/privacy_policy/" class="NavBtn" id="PrivacyPolicyButton" style="">📜 Privacy Policy &#xf069;</a></li>
@@ -186,6 +187,11 @@
                         <a href="https://perkedel.netlify.app/rss.xml" class="subscribe_link Buttonnize">
                             <img width="36" height="14" src="https://www.w3schools.com/xml/pic_rss.gif"/>
                             Subscribe, $0 (Copy this link and paste to your newsreader!)
+                        </a>
+                        <br/>
+                        <a href="https://perkedel.netlify.app/rss_posts.xml" class="subscribe_link Buttonnize">
+                            <img width="36" height="14" src="https://www.w3schools.com/xml/pic_rss.gif"/>
+                            Subscribe Blog, $0 (Copy this link and paste to your newsreader!)
                         </a>
                     <hr/>
                     <h2>Recent Items</h2>

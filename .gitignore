@@ -23,3 +23,7 @@ pnpm-debug.log*
 .netlify
 public/assets/audio/sf2/ColomboGMGS2.sf2
 public/assets/audio/MIDIConvertAudio/Twenty One Pilots - Heathens (Dawn314 cover) (FalcoSoft).wav
+
+# markdown collection cache
+.astro
+# https://github.com/mzaini30/astro-github#readme

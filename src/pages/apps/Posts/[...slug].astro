@@ -1,4 +1,6 @@
 ---
+import { getCollection } from 'astro:content';
+import LayoutMDX from '@components/LayoutMDX.astro';
 import Layout from '@components/Layout.astro';
 import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
 import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
@@ -12,34 +14,17 @@ import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import Cardiophilia from '@components/Page/Cardiophilia.astro';
 
-export interface Props{
-    title?:string;
-    text?:string;
-    nsfw?:boolean;
+
+export async function getStaticPaths() {
+    const blogEntries = await getCollection('posts');
+    return blogEntries.map(entry => ({
+        params: { slug: entry.slug }, props: { entry },
+    }));
 }
 
-export function getStaticPaths() {
-    const pages = [
-      {
-        slug: undefined,
-        title: "Posts",
-        text: "Welcome to the BlogMachine!",
-        nsfw:false,
-      },
-      {
-        slug: "enterNSFW/nsfw",
-        title: "Posts NSFW",
-        text: "Welcome to the BlogMachine!",
-        nsfw:true,
-      },
-    ];
-    return pages.map(({ slug, title, text, nsfw }) => {
-      return {
-        params: { slug },
-        props: { title, text, nsfw },
-      };
-    });
-}
-
-const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
+const { entry, nsfw } = Astro.props;
+const { Content } = await entry.render();
 ---
+<LayoutMDX frontmatter={entry.data} nsfw={false}>
+  <Content />
+</LayoutMDX>
