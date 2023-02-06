@@ -29,14 +29,14 @@ export async function getStaticPaths() {
     ]
     return blogEntries.map(entry => ({
         params: { slug: entry.slug },
-        props: { entry, nsfw, isNSFW },
+        props: { entry },
     }));
 }
 
 const { entry, nsfw=false, isNSFW } = Astro.props;
 const { Content } = await entry.render();
 ---
-<LayoutMDX frontmatter={entry.data} nsfw={false}>
+<LayoutMDX frontmatter={entry.data} nsfw={nsfw}>
     {nsfw?
         <Content />
         :
