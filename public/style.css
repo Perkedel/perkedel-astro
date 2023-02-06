@@ -1275,10 +1275,10 @@ div.table
     border-spacing:2px;
     border-color:gray;
 }
-div.thead{ 
-    display:table-header-group;
-    vertical-align:middle;
-    border-color:inherit;
+div.thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
 }
 div.tbody {
     display: table-row-group;
