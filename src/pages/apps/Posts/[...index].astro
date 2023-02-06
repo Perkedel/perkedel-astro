@@ -13,6 +13,7 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import Cardiophilia from '@components/Page/Cardiophilia.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
 
 export interface Props{
     title?:string;
@@ -68,4 +69,5 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
                 <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title}</ButtonizedLink></li>
             ))}
         </ul>
+    <EnterNSFWButton detachedGenital={false}/>
 </Layout>

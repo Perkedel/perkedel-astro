@@ -35,7 +35,7 @@ export async function getStaticPaths() {
     }));
 }
 
-const { entry, nsfw=false, isNSFW } = Astro.props;
+const { entry, nsfw=true, isNSFW } = Astro.props;
 const { Content } = await entry.render();
 ---
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw}>
@@ -48,5 +48,6 @@ const { Content } = await entry.render();
             <Content />
         }
     }
-
+    <
+    <EnterNSFWButton slot={'endOfIt'}/>
 </LayoutMDX>
