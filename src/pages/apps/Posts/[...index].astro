@@ -52,6 +52,7 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
     description="Perkedel NTLF+ASTR. BlogMachine. Blogs & Random Posts"
     keywords="tech, fun, novelty, open source, gratis, free, blog, post"
     nsfw={nsfw}
+    rating={nsfw?"adult":""}
     >
     <h1>{title} {nsfw?"NSFW":""}</h1>
         <p>{text}</p>

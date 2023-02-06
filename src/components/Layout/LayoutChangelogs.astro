@@ -6,7 +6,8 @@ import EmbedRAWHTML from '../EmbedRAWHTML.astro';
 import BackToTopButton from '../BackToTopButton.astro';
 import Layout from '../Layout.astro';
 import MarkdownInfo from '../Elements/MarkdownInfo.astro';
-import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
+//import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
+import { Time } from '@astro-github-elements/time';
 
 export interface Props {
   name?:string;
@@ -188,7 +189,8 @@ const {
               <tr>
                   <td>Date</td>
                   <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
-                  <td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td>
+                  <!--<td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td>-->
+                  <td>{date?(<Time format="datetime" datetime={date}/><span>,</span> <Time format="relative" datetime={date}/>):(<Time format="datetime" now/><span>,</span> <Time format="relative" now/>)}  (Edited <Time format="datetime" datetime={dateMod}/>, <Time format="relative" datetime={dateMod}/>; Expires in <Time format="datetime" datetime={dateExp}/>, <Time format="relative" datetime={dateExp}/> )</td>
               </tr>
               <tr>
                   <td>Keywords</td>

@@ -1,6 +1,6 @@
 ---
 //https://github.com/BryceRussell/astro-github-elements/tree/main/packages/time#readme
-import { LocalTime, TimeAgo } from '@astro-github-elements/time';
+import { Time } from '@astro-github-elements/time';
 import PerkedelIcon from './Icons/PerkedelIcon.astro'
 import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astro';
 
@@ -24,10 +24,11 @@ const{
 <footer class="footering" id="footering">
     <hr class="footeringHr"/>
     <!-- <p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->
-    <p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/></p>
+    <!--<p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/></p>-->
+    <p title="(Static) Website compiled at datetime of..">&#xf5ef; <Time format="datetime" now/>, <Time format="relative" now/></p>
     <p><PerkedelIcon/> <font size = "12">Perkedel Technologies</font></p>
     <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
-    <font size="2"><p>DISCLAIMER:</p> 
+    <font size="2"><p>DISCLAIMER:</p>
       <ul>
         <li><b>Netlify nor Astro never put watermark (except in context of domain for the Netlify free domain we had)</b>, I just write my own just to let you know how, yeah.</li>
         <li>This website like many is stored on regular centralized system (GitHub for Source Code, Netflify for result), specifically static cloud type whatever Netflify or GitHub said. Therefore we do not endorse using such service other than for clout purpose<br>With that of course, there is already as usual high risk of DMCA attacks & abuse. </li>
@@ -40,9 +41,8 @@ const{
     <p>© Perkedel Technologies, Some Rights Reserved</p>
     <!-- <br/> -->
     <RegenerateWordButton nsfw={(rating.includes('adult') || nsfw) && !nsfwConfirmation}/>
-    <!-- the NSFW confirmation must be false, do not promote NSFW just yet until it's all confirmed. 
-      like while during entryNSFW, 
+    <!-- the NSFW confirmation must be false, do not promote NSFW just yet until it's all confirmed.
+      like while during entryNSFW,
       those maybe who violates the warning. -->
     <p class="generateWord" id="generateWord"></p>
 </footer>
-

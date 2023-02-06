@@ -3,10 +3,14 @@
 // https://mdxjs.com/guides/frontmatter/
 import Layout from './Layout.astro';
 import MarkdownInfo from './Elements/MarkdownInfo.astro';
-import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
+//import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
+import { Time } from '@astro-github-elements/time';
 // import { * } from '@github/time-elements';
 import type { MarkdownLayoutProps } from 'astro';
 
+export interface Props {
+    nsfw?:boolean;
+}
 type Props = MarkdownLayoutProps<{
   // Define frontmatter props here
     title?: string;
@@ -50,7 +54,7 @@ const { frontmatter,
         url,
         nsfw,
         // hideInfo = 'false',
-} = Astro.props;
+} = Astro.props as Props;
 
 // let handoverHideInfo = frontmatter.hideInfo;
 //  if(frontmatter.hideInfo){
@@ -92,7 +96,8 @@ const { frontmatter,
     twitterCard={frontmatter.twitterCard || 'summary_large_image'}
     themeColor={frontmatter.themeColor || 'navy'}
     hideInfo={frontmatter.hideInfo}
-    nsfw={nsfw}
+    rating={nsfw || frontmatter.nsfw?"adult":""}
+    nsfw={nsfw || frontmatter.nsfw}
     >
     <slot name="beginOfIt">
 
@@ -145,7 +150,8 @@ const { frontmatter,
                 <tr>
                     <td>Date</td>
                     <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
-                    <td><LocalTime datetime={frontmatter.date} date/>, <TimeAgo datetime={frontmatter.date}/> (Edited <LocalTime datetime={frontmatter.dateMod} date/>, <TimeAgo datetime={frontmatter.dateMod}/>; Expires in <LocalTime datetime={frontmatter.dateExp} date/>, <RelativeTime datetime={frontmatter.dateExp}/>)</td>
+                    <!--<td><LocalTime datetime={frontmatter.date} date/>, <TimeAgo datetime={frontmatter.date}/> (Edited <LocalTime datetime={frontmatter.dateMod} date/>, <TimeAgo datetime={frontmatter.dateMod}/>; Expires in <LocalTime datetime={frontmatter.dateExp} date/>, <RelativeTime datetime={frontmatter.dateExp}/>)</td>-->
+                    <td>{frontmatter.date?(<Time format="datetime" datetime={frontmatter.date}/><span>,</span> <Time format="relative" datetime={frontmatter.date}/>):(<Time format="datetime" now/><span>,</span> <Time format="relative" now/>)}  (Edited <Time format="datetime" datetime={frontmatter.dateMod}/>, <Time format="relative" datetime={frontmatter.dateMod}/>; Expires in <Time format="datetime" datetime={frontmatter.dateExp}/>, <Time format="relative" datetime={frontmatter.dateExp}/> )</td>
                 </tr>
                 <tr>
                     <td>Keywords</td>

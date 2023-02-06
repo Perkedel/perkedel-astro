@@ -17,13 +17,14 @@
         "prettier-plugin-astro": "^0.5.0"
     },
     "dependencies": {
-        "@astro-github-elements/time": "^0.0.5",
+        "@astro-github-elements/time": "^0.1.1",
         "@astrojs/mdx": "^0.11.4",
         "@astrojs/partytown": "^1.0.1",
         "@astrojs/prefetch": "^0.1.0",
         "@astrojs/rss": "^1.0.3",
         "@astrojs/sitemap": "^1.0.0",
         "@astropub/flow": "^0.3.6",
+        "@github/relative-time-element": "^4.2.0",
         "@nanostores/preact": "^0.3.1",
         "@tauri-apps/api": "^1.2.0",
         "@vidstack/player": "^1.6.4",
