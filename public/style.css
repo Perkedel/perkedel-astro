@@ -1304,8 +1304,8 @@ div.td{ 
 }
 div.tr{  
     display: table-row;
-    vertical-align: inherit;
-    border-color: inherit;
+    vertical-align:inherit;
+    border-color:inherit;
 }
 
 table,
@@ -1316,6 +1316,7 @@ div.th,
 div.td {
     border: 1px solid blue;
     /* What an idiot! div, instead of proper table tags?!?!??! */
+    word-wrap: break-word;
 }
 
 /* td a:visited, */
