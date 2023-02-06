@@ -56,7 +56,7 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
         <p>{text}</p>
         <ul>
             {allPosts.map((post) => (
-                {nsfw?
+                <!--{nsfw?
                     <ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title}</ButtonizedLink>
                     :
                     {post.data.isNSFW?
@@ -64,7 +64,8 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
                         :
                         <ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title}</ButtonizedLink>
                     }
-                }
+                }-->
+                <ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title}</ButtonizedLink>
 
             ))}
         </ul>
