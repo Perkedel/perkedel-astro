@@ -160,7 +160,7 @@ const { frontmatter,
                 </tr>
                 <tr>
                     <td>Mature Content?</td>
-                    <td>{frontmatter.nsfw?"YES":"NO"}</td>
+                    <td>{frontmatter.nsfw || frontmatter.isNSFW?"YES":"NO"}</td>
                 </tr>
             </table>
     </div>

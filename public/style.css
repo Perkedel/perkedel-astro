@@ -1276,6 +1276,46 @@ td,
     /* What an idiot! div, instead of proper table tags?!?!??! */
 }
 
+/* YOU IMBECILE!!! DIV DOES NOT HAVE ANYTHING!!! */
+/* https://www.w3schools.com/tags/tag_table.asp */
+.table{
+    display: table;  
+    border-collapse: separate; 
+    border-spacing: 2px; 
+    border-color: gray;
+}
+.tbody 
+{ 
+    display: table-row-group; 
+    vertical-align: middle; 
+    border-color: inherit;
+}
+.tbody 
+{ 
+    display: table-footer-group; 
+    vertical-align: middle; 
+    border-color: inherit;
+}
+.th {  
+    display: table-cell; 
+    vertical-align: inherit; 
+    font-weight: bold; 
+    text-align: center;
+}
+.td { 
+    display: table-cell;  
+    vertical-align: inherit;
+}
+.thead { 
+    display: table-header-group; 
+    vertical-align: middle; 
+    border-color: inherit;
+}
+.tr {  
+    display: table-row; 
+    vertical-align: inherit; 
+    border-color: inherit;
+}
 
 /* td a:visited, */
 
