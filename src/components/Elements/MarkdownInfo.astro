@@ -122,7 +122,7 @@ const {
                 <td>Date</td>
                 <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
                 <!--<td><LocalTime datetime={date} date/>, <TimeAgo datetime={date}/> (Edited <LocalTime datetime={dateMod} date/>, <TimeAgo datetime={dateMod}/>; Expires in <LocalTime datetime={dateExp} date/>, <RelativeTime datetime={dateExp}/>)</td>-->
-                <td>{date?(<Time format="datetime" datetime={date}/><span>,</span> <Time format="relative" datetime={date}/>):(<Time format="datetime" now/><span>,</span> <Time format="relative" now/>)}  (Edited <Time format="datetime" datetime={dateMod}/>, <Time format="relative" datetime={dateMod}/>; Expires in <Time format="datetime" datetime={dateExp}/>, <Time format="relative" datetime={dateExp}/> )</td>
+                <td>{date?(<Time format="datetime" datetime={date}/><span>,</span> <Time format="relative" datetime={date}/>):(<Time format="datetime" now/><span>,</span> <Time format="relative" now/>)}  (Edited <Time format="datetime" datetime={dateMod}/>, <Time format="relative" datetime={dateMod}/>; Expires in <Time format="datetime" datetime={dateExp}/>, <Time format="relative" datetime={dateExp}/>, <Time format="duration" datetime={dateExp} )</td>
             </tr>
             <tr>
                 <td>Keywords</td>

@@ -151,7 +151,7 @@ const { frontmatter,
                     <td>Date</td>
                     <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
                     <!--<td><LocalTime datetime={frontmatter.date} date/>, <TimeAgo datetime={frontmatter.date}/> (Edited <LocalTime datetime={frontmatter.dateMod} date/>, <TimeAgo datetime={frontmatter.dateMod}/>; Expires in <LocalTime datetime={frontmatter.dateExp} date/>, <RelativeTime datetime={frontmatter.dateExp}/>)</td>-->
-                    <td>{frontmatter.date?(<Time format="datetime" datetime={frontmatter.date}/><span>,</span> <Time format="relative" datetime={frontmatter.date}/>):(<Time format="datetime" now/><span>,</span> <Time format="relative" now/>)}  (Edited <Time format="datetime" datetime={frontmatter.dateMod}/>, <Time format="relative" datetime={frontmatter.dateMod}/>; Expires in <Time format="datetime" datetime={frontmatter.dateExp}/>, <Time format="relative" datetime={frontmatter.dateExp}/> )</td>
+                    <td>{frontmatter.date?(<Time format="datetime" datetime={frontmatter.date}/><span>,</span> <Time format="relative" datetime={frontmatter.date}/>):(<Time format="datetime" now/><span>,</span> <Time format="relative" now/>)}  (Edited <Time format="datetime" datetime={frontmatter.dateMod}/>, <Time format="relative" datetime={frontmatter.dateMod}/>; Expires in <Time format="datetime" datetime={frontmatter.dateExp}/>, <Time format="relative" datetime={frontmatter.dateExp}/>, <Time format="duration" datetime={frontmatter.dateExp}/>)</td>
                 </tr>
                 <tr>
                     <td>Keywords</td>

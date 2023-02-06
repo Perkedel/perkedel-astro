@@ -6,7 +6,8 @@ import EmbedVideo from '@components/Elements/EmbedVideo.astro';
 import EmbedAudio from '@components/Elements/EmbedAudio.astro';
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 import MayContainsNSFW from '@components/Messages/MayContainsNSFW.astro';
-import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
+//import { LocalTime, RelativeTime, TimeAgo } from '@astro-github-elements/time';
+import { Time } from '@astro-github-elements/time';
 
 let response = await fetch('https://owen-wilson-wow-api.onrender.com/wows/random');
 // let data = await {
@@ -44,7 +45,8 @@ async function regenerateWow(){
 <EmbedAudio src={data[0].audio} type='audio/mpeg'/>
 <p><i>{data[0].full_line}</i><br/> &ndash; {data[0].character}, {data[0].year}</p>
 <p>Sauce = {data[0].movie} ({data[0].year})</p>
-<p>Released <LocalTime date datetime={data[0].release_date}/>, <TimeAgo date datetime={data[0].release_date}/></p>
+//<p>Released <LocalTime date datetime={data[0].release_date}/>, <TimeAgo date datetime={data[0].release_date}/></p>
+<p>Released <Time format="datetime" datetime={data[0].release_date}/>, <Time datetime={data[0].release_date}/></p>
 <p>Directed by {data[0].director}</p>
 <p>Wow #{data[0].current_wow_in_movie} of {data[0].total_wows_in_movie}</p>
 <p>Film Duration = {data[0].movie_duration}</p>
