@@ -1280,11 +1280,10 @@ div.thead{ 
     vertical-align:middle;
     border-color:inherit;
 }
-div.tbody
-{ 
-    display:table-row-group;
-    vertical-align:middle;
-    border-color:inherit;
+div.tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
 }
 div.tfoot
 { 
@@ -1292,20 +1291,20 @@ div.tfoot
     vertical-align:middle;
     border-color:inherit;
 }
-div.th{  
-    display:table-cell;
-    vertical-align:inherit;
-    font-weight:bold;
-    text-align:center;
+div.th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: center;
 }
-div.td{ 
-    display:table-cell;
-    vertical-align:inherit;
+div.td {
+    display: table-cell;
+    vertical-align: inherit;
 }
-div.tr{  
-    display:table-row;
-    vertical-align:inherit;
-    border-color:inherit;
+div.tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
 }
 
 table,
