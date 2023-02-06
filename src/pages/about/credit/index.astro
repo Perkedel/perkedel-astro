@@ -14,14 +14,16 @@ import { LicensesReport } from 'astro-licenses-report';
         <p>The following are raw credits everything involved developing this website & other stuffs</p>
         <h2>Licenses of Packages</h2>
         <!--https://code.juliancataldo.com/component/astro-licenses-report/-->
-            <LicensesReport
-                useDevDependencies={true}
-                depth={2}
-                nameText={'Name'}
-                authorText={'Author'}
-                licenseText={'License'}
-                linkText={'Sauce URL'}
-            />
+            <div style="overflow-x:auto;">
+                <LicensesReport
+                    useDevDependencies={true}
+                    depth={2}
+                    nameText={'Name'}
+                    authorText={'Author'}
+                    licenseText={'License'}
+                    linkText={'Sauce URL'}
+                />
+            </div>
             <!--WHAT AN IDIOT!!! Div instead of Table tags?!?!?!??!?!?-->
         <h2>Plugins used</h2>
             <PluginsUsed/>

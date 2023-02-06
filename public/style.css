@@ -1270,41 +1270,41 @@ kbd {
 /* https://www.w3schools.com/tags/tag_table.asp */
 div.table
 {
-    display:table;  
-    border-collapse:separate; 
-    border-spacing:2px; 
+    display:table;
+    border-collapse:separate;
+    border-spacing:2px;
     border-color:gray;
 }
-div.thead { 
-    display:table-header-group; 
-    vertical-align:middle; 
+div.thead{ 
+    display:table-header-group;
+    vertical-align:middle;
     border-color:inherit;
 }
-div.tbody 
+div.tbody
 { 
-    display:table-row-group; 
-    vertical-align:middle; 
+    display:table-row-group;
+    vertical-align:middle;
     border-color:inherit;
 }
 div.tfoot
 { 
-    display:table-footer-group; 
-    vertical-align:middle; 
+    display:table-footer-group;
+    vertical-align:middle;
     border-color:inherit;
 }
-div.th {  
-    display:table-cell; 
-    vertical-align:inherit; 
-    font-weight:bold; 
+div.th{  
+    display:table-cell;
+    vertical-align:inherit;
+    font-weight:bold;
     text-align:center;
 }
-div.td { 
-    display:table-cell;  
+div.td{ 
+    display:table-cell;
     vertical-align:inherit;
 }
-div.tr {  
-    display: table-row; 
-    vertical-align: inherit; 
+div.tr{  
+    display: table-row;
+    vertical-align: inherit;
     border-color: inherit;
 }
 
