@@ -9,7 +9,7 @@ export async function get() {
         title: post.data.title,
         pubDate: post.data.pubDate,
         description: post.data.description,
-        link: `/posts/${post.slug}/`,
+        link: `/apps/posts/${post.slug}/`,
     }));
     // https://stackoverflow.com/a/171256/9079640
     return rss({
