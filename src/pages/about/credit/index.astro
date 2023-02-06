@@ -12,21 +12,21 @@ import { LicensesReport } from 'astro-licenses-report';
     >
     <h1>Credits</h1>
         <p>The following are raw credits everything involved developing this website & other stuffs</p>
-        <h2>Licenses of Packages</h2>
+        <h2 id="Sauces">Licenses & Sauces of the Packages</h2>
         <!--https://code.juliancataldo.com/component/astro-licenses-report/-->
             <div style="overflow-x:auto;">
                 <LicensesReport
                     useDevDependencies={true}
                     depth={2}
-                    nameText={'Name'}
+                    nameText={'Package'}
                     authorText={'Author'}
                     licenseText={'License'}
                     linkText={'Sauce URL'}
                 />
             </div>
             <!--WHAT AN IDIOT!!! Div instead of Table tags?!?!?!??!?!?-->
-        <h2>Plugins used</h2>
+        <h2 id="Plugins">Plugins used</h2>
             <PluginsUsed/>
-        <h2>Dump links</h2>
+        <h2 id="DumpLinks">Dump links</h2>
             <DumpLinks/>
 </Layout>
