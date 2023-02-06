@@ -1266,55 +1266,56 @@ kbd {
     https://www.w3schools.com/tags/tag_thead.asp
     */
 
-table,
-th,
-td,
-.table,
-.th,
-.td {
-    border: 1px solid blue;
-    /* What an idiot! div, instead of proper table tags?!?!??! */
-}
-
 /* YOU IMBECILE!!! DIV DOES NOT HAVE ANYTHING!!! */
 /* https://www.w3schools.com/tags/tag_table.asp */
-.table{
-    display: table;  
-    border-collapse: separate; 
-    border-spacing: 2px; 
-    border-color: gray;
+div.table
+{
+    display:table;  
+    border-collapse:separate; 
+    border-spacing:2px; 
+    border-color:gray;
 }
-.tbody 
+div.thead { 
+    display:table-header-group; 
+    vertical-align:middle; 
+    border-color:inherit;
+}
+div.tbody 
 { 
-    display: table-row-group; 
-    vertical-align: middle; 
-    border-color: inherit;
+    display:table-row-group; 
+    vertical-align:middle; 
+    border-color:inherit;
 }
-.tbody 
+div.tfoot
 { 
-    display: table-footer-group; 
-    vertical-align: middle; 
-    border-color: inherit;
+    display:table-footer-group; 
+    vertical-align:middle; 
+    border-color:inherit;
 }
-.th {  
-    display: table-cell; 
-    vertical-align: inherit; 
-    font-weight: bold; 
-    text-align: center;
+div.th {  
+    display:table-cell; 
+    vertical-align:inherit; 
+    font-weight:bold; 
+    text-align:center;
 }
-.td { 
-    display: table-cell;  
-    vertical-align: inherit;
+div.td { 
+    display:table-cell;  
+    vertical-align:inherit;
 }
-.thead { 
-    display: table-header-group; 
-    vertical-align: middle; 
-    border-color: inherit;
-}
-.tr {  
+div.tr {  
     display: table-row; 
     vertical-align: inherit; 
     border-color: inherit;
+}
+
+table,
+th,
+td,
+div.table,
+div.th,
+div.td {
+    border: 1px solid blue;
+    /* What an idiot! div, instead of proper table tags?!?!??! */
 }
 
 /* td a:visited, */

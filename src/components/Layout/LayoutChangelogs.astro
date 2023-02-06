@@ -51,6 +51,7 @@ export interface Props {
   SauceChangelogURL?:string;
   SauceChangelogURLDirect?:string;
   nsfw?:boolean;
+  isNSFW?:boolean;
 }
 //https://howtodoinjava.com/typescript/maps/
 //https://stackoverflow.com/a/73526781/9079640
@@ -100,6 +101,7 @@ const {
   file,
   url,
   nsfw,
+  isNSFW,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -202,7 +204,7 @@ const {
               </tr>
               <tr>
                   <td>Mature Content?</td>
-                  <td>{nsfw?"YES":"NO"}</td>
+                  <td>{nsfw || isNSFW?"YES":"NO"}</td>
               </tr>
           </table>
   </div>

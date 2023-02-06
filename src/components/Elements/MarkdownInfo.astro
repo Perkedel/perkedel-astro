@@ -40,6 +40,7 @@ export interface Props{
   file?:string;
   url?:string;
   nsfw?:boolean;
+  isNSFW?:boolean;
 }
 
 const {
@@ -78,7 +79,9 @@ const {
   ejectClarity = false,
   hideInfo = false,
   file,
-  url
+  url,
+  nsfw,
+  isNSFW,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- You know what, never hide info. -->
@@ -133,7 +136,7 @@ const {
             </tr>
             <tr>
                 <td>Mature Content?</td>
-                <td>{nsfw?"YES":"NO"}</td>
+                <td>{nsfw || isNSFW?"YES":"NO"}</td>
             </tr>
         </table>
 </div>
