@@ -59,15 +59,15 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
         <ul>
             {allPosts.map((post) => (
                 <!--{nsfw?
-                    <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title}</ButtonizedLink></li>
+                    <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
                     :
                     {post.data.isNSFW?
                         ""
                         :
-                        <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title}</ButtonizedLink></li>
+                        <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
                     }
                 }-->
-                <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title}</ButtonizedLink></li>
+                <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
             ))}
         </ul>
     <EnterNSFWButton detachedGenital={false}/>
