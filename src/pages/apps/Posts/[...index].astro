@@ -70,5 +70,11 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
                 <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
             ))}
         </ul>
-    <EnterNSFWButton detachedGenital={false}/>
+    {nsfw?
+        ""
+        :
+        <EnterNSFWButton detachedGenital={false}/>
+        )
+    }
+
 </Layout>
