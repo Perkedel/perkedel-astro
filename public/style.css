@@ -1013,7 +1013,7 @@ a.Buttonnize.Dangerous:visited:hover:active {
     border-radius: 30px;
     /*text-align: center;*/
     /*text-decoration: none;*/
-    /*display: inline-block;*/
+    display: inline-block;
 }
 
 .dropbtn:active,
