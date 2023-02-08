@@ -1639,20 +1639,21 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 }
 
 .SpecialityImageWide{
-  /* https://jpegxl.info/art/
-  yoink the CSS lol
-   */
-  max-width: 98vw;
-  /* margin: 2em 0; */
-  max-height: 100vh;
+    /* https://jpegxl.info/art/
+    yoink the CSS lol
+    */
+    max-width: 98vw;
+    /* margin: 2em 0; */
+    max-height: 100vh;
+    /* lint */
 }
 
 .hideOverflows{
-  overflow:clip;
+    overflow:clip;
 }
 
 .hideOverflowsSide{
-  overflow-x: clip;
+    overflow-x: clip;
   /* overflow-y: visible; */
 }
 
