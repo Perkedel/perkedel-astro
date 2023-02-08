@@ -51,14 +51,25 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
     title={title}
     description="Perkedel NTLF+ASTR. BlogMachine. Blogs & Random Posts"
     keywords="tech, fun, novelty, open source, gratis, free, blog, post"
-    nsfw={nsfw}
     rating={nsfw?"adult":""}
     >
     <h1>{title} {nsfw?"NSFW":""}</h1>
         <p>{text}</p>
         <ul>
             {allPosts.map((post) => (
-                <!--{nsfw?
+                <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
+            ))}
+        </ul>
+    {nsfw?
+        ""
+        :
+        <EnterNSFWButton detachedGenital={false}/>
+        
+    }
+
+</Layout>
+
+<!--{nsfw?
                     <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
                     :
                     {post.data.isNSFW?
@@ -67,14 +78,3 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
                         <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
                     }
                 }-->
-                <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
-            ))}
-        </ul>
-    {nsfw?
-        ""
-        :
-        <EnterNSFWButton detachedGenital={false}/>
-        )
-    }
-
-</Layout>
