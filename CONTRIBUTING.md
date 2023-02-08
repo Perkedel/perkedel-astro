@@ -1,4 +1,6 @@
 # Contributing for Perkedel NTLF+ASTR
+
+**Contributing file has been moved to https://perkedel.netlify.app/terms_of_service**
 ## DISCLAIMER
 Please still contribute anyway despite your discrepancies with your background checks such as Paywallism (>$0), Proprietarism (No PSD, No Download Link), and/or Partialism (DLC >$0). Kaorfa may still accept intresting articles, tips, files, etc. etc. Usually, he is about lenient and accept everything that intrests him and/or provides usefulness towards all gamers. 
 

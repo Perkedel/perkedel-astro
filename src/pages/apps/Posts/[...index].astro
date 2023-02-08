@@ -56,6 +56,7 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
     <h1>{title} {nsfw?"NSFW":""}</h1>
         <p>{text}</p>
         <ul>
+          <!-- TODO: hide option if NSFW pls! -->
             {allPosts.map((post) => (
                 <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
             ))}

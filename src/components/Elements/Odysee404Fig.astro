@@ -9,13 +9,16 @@ export interface Props {
 
 const{
     werror404LBRYEmbed = "https://odysee.com/$/embed/404",
-    werror404LBRYEmbedStyle = "width:100%;height:50vw;",
+    werror404LBRYEmbedStyle = "max-width:98vw;max-height:100vh",
     werror404LBRYURL = "https://open.lbry.com/404",
     werror404LBRYProtocolURL = "lbry://404",
     inviteOdyseeURL = "https://odysee.com/$/invite/@JOELwindows7",
 } = Astro.props.frontmatter || Astro.props as Props;
+
+// width:100%;height:50vw;
 ---
 <figure>
+    <!-- TODO: randomly select URL claim from list -->
     <iframe id="odysee-iframe" src={werror404LBRYEmbed} style={werror404LBRYEmbedStyle}></iframe>
     <figcaption>Fig.1 - highest staking claim at address of <a href={werror404LBRYURL}>{werror404LBRYProtocolURL}</a></figcaption>
 </figure>
