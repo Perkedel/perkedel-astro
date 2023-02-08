@@ -21,12 +21,12 @@ export async function getStaticPaths() {
     const blogEntries = await getCollection('posts');
     const paths = [
         {
-          path: undefined,
-          nsfw:false,
+            path: undefined,
+            nsfw:false,
         },
         {
-          path: "enterNSFW/nsfw",
-          nsfw:true,
+            path: "enterNSFW/nsfw",
+            nsfw:true,
         },
     ]
     return blogEntries.map(entry => ({
@@ -42,18 +42,18 @@ const { Content } = await entry.render();
     {nsfw?
         <Content />
         :
-        {entry.data.isNSFW?
+        (entry.data.isNSFW?
             <MaturePostCantShowHere/>
             :
             <Content />
-        }
+        )
     }
     <Fragment slot={'endOfIt'}>
-    {nsfw?
+    <!-- {nsfw?
         ""
         :
         <EnterNSFWButton detachedGenital={false}/>
-        )
-    }
+        
+    } -->
     </Fragment>
 </LayoutMDX>

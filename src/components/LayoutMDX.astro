@@ -8,9 +8,9 @@ import { Time } from '@astro-github-elements/time';
 // import { * } from '@github/time-elements';
 import type { MarkdownLayoutProps } from 'astro';
 
-export interface Props {
-    nsfw?:boolean;
-}
+// export interface Propse {
+//     nsfw?:boolean;
+// }
 type Props = MarkdownLayoutProps<{
   // Define frontmatter props here
     title?: string;
@@ -54,7 +54,7 @@ const { frontmatter,
         url,
         nsfw,
         // hideInfo = 'false',
-} = Astro.props as Props;
+} = Astro.props ;
 
 // let handoverHideInfo = frontmatter.hideInfo;
 //  if(frontmatter.hideInfo){
@@ -80,7 +80,7 @@ const { frontmatter,
     thumbnailVideo={frontmatter.thumbnailVideo}
     noIndex={frontmatter.noIndex}
     noFollow={frontmatter.noFollow}
-    rating={frontmatter.rating}
+    rating={nsfw? 'adult':''|| frontmatter.rating}
     favIcon={frontmatter.favIcon}
     favIconType={frontmatter.favIconType}
     favIconAlt={frontmatter.favIconAlt}
@@ -96,8 +96,6 @@ const { frontmatter,
     twitterCard={frontmatter.twitterCard || 'summary_large_image'}
     themeColor={frontmatter.themeColor || 'navy'}
     hideInfo={frontmatter.hideInfo}
-    rating={nsfw || frontmatter.nsfw?"adult":""}
-    nsfw={nsfw || frontmatter.nsfw}
     >
     <slot name="beginOfIt">
 
