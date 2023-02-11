@@ -1664,8 +1664,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme */
 
 @media(prefers-color-scheme: dark) {
-    body {
+     :root {
         background-color: black;
+    }
+    body {
+        /* background-color: black; */
         color: white;
     }
 }
@@ -1679,6 +1682,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     */
      :root {
         scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189);
+        /* background-color: rgb(187, 187, 221); */
+        background-color: white;
     }
     header {
         background-color: rgb(137, 255, 255);
@@ -1694,7 +1699,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         background: rgba(255, 255, 255, .25);
     }
     body {
-        background-color: rgb(187, 187, 221);
+        /* background-color: rgb(187, 187, 221); */
         color: black;
         /* scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189); */
     }
