@@ -9,6 +9,18 @@ import robotsTxt from 'astro-robots-txt';
 import remarkMermaid from 'astro-diagram/remark-mermaid';
 import webmanifest from "astro-webmanifest";
 
+const robotTxtExtraSays = `
+# Wello\n
+# Wow\n
+# \n
+#   ███████████   ████   ████  ████   █  █ ████ ████  ████ █   \n
+#  ██████▒██████  █   █  █     █   █  █ █  █    █   █ █    █   \n
+# █████▒▒▒▒▒█████ ████   ████  ████   ██   ████ █   █ ████ █   \n
+#  ██████▒██████  █      █     █ █    █ █  █    █   █ █    █   \n
+#   ███████████   █      ████  █  █   █  █ ████ ████  ████ ████\n
+#\n
+`
+
 // https://astro.build/config
 export default defineConfig({
     site: 'https://perkedel.netlify.app',
@@ -23,20 +35,20 @@ export default defineConfig({
         robotsTxt({
             sitemap: 'https://perkedel.netlify.app/sitemap-0.xml',
             transform(content) {
-                return `# Robots.txt for Perkedel ASTR.\n# use https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme to generate this.\n#by JOELwindows7\n#PerkedelTechnologies\n#GNU GPL v3\n\n${content}`;
+                return `# Robots.txt for Perkedel ASTR.\n# use https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme to generate this.\n#by JOELwindows7\n#PerkedelTechnologies\n#GNU GPL v3\n#\n#${robotTxtExtraSays}\n\n${content}`;
             },
         }),
         //embeds(),
         webmanifest({
             // https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest#readme
             /**
-                * required
-            **/
+             * required
+             **/
             name: 'Perkedel ASTR',
 
             /**
-                * optional
-            **/
+             * optional
+             **/
             //icon: 'src/images/your-icon.svg', // source for favicon & icons
 
             short_name: 'Perkedel',
@@ -46,7 +58,7 @@ export default defineConfig({
             background_color: '#000000',
             display: 'standalone',
             lang: 'en-US',
-            locales:{
+            locales: {
                 id: {
                     name: 'Perkedel ASTR',
                     short_name: 'Perkedel',
