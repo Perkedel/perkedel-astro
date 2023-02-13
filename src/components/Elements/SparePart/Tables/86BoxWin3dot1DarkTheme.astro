@@ -2,10 +2,33 @@
 // https://youtu.be/O_zh9L8Hvtk
 
 const Tabling = [
-    
+    // Screen Element - Red, Green, Blue
+    ['Application Workspace', 48, 48, 48],
+    ['Window Background', 255, 255, 255],
+    ['Window Text', 0, 0, 0],
+    ['Menu Bar', 192, 192, 192],
 ]
 ---
+<div style='overflow-x:auto;'>
 <table>
-
+    <thead>
+        <tr>
+            <th>Screen Element</th>
+            <th>Color</th>
+            <th>Preview</th>
+        </tr>
+    </thead>
+    <tbody>
+        {Tabling.map((thing)=>(
+            <tr>
+                <td>{thing[0]}</td>
+                <td>{thing[1]}, {thing[2]}, {thing[3]}</td>
+                <td style={'background-color: rgb('+thing[1]+','+thing[2]+','+thing[3]+';min-height:3vh'}>
+                    
+                </td>
+            </tr>
+        ))}
+    </tbody>
 </table>
+</div>
 <p>Source: <a href="https://youtu.be/O_zh9L8Hvtk" target="_blank" rel="noopener noreferrer">DARK MODE IN WINDOWS 3.1 - INFORMATIONAL TAPE 001, 86Box</a></p>
