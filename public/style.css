@@ -1699,7 +1699,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         background: rgba(255, 255, 255, .25);
     }
     body {
-        background-color: rgb(187, 187, 221);
+        /* background-color: rgb(187, 187, 221); */
+        background-color: white;
         color: black;
         /* scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189); */
     }
