@@ -190,22 +190,22 @@ function scrollFunction() {
         }
 
         for (let biggie of navPutLeft) {
-          if (isMobileMedia.matches){
-            biggie.style.display = 'none';
-          } else {
-            if(biggie.style.display.trim() == 'none'){
-              biggie.style.display = 'inline-block';
+            if (isMobileMedia.matches) {
+                biggie.style.display = 'none';
+            } else {
+                if (biggie.style.display.trim() == 'none') {
+                    biggie.style.display = 'inline-block';
+                }
             }
-          }
         }
         for (let biggie of navPutRight) {
-          if (isMobileMedia.matches){
-            biggie.style.display = 'none';
-          } else {
-            if(biggie.style.display.trim() == 'none'){
-              biggie.style.display = 'inline-block';
+            if (isMobileMedia.matches) {
+                biggie.style.display = 'none';
+            } else {
+                if (biggie.style.display.trim() == 'none') {
+                    biggie.style.display = 'inline-block';
+                }
             }
-          }
         }
     } else {
         myBackTopbutton.style.display = "none";
@@ -215,22 +215,22 @@ function scrollFunction() {
             thingy.style.opacity = 1;
         }
         for (let biggie of navPutLeft) {
-          if (isMobileMedia.matches){
-            biggie.style.display = 'block';
-          } else {
-            if(biggie.style.display.trim() == 'none'){
-              biggie.style.display = 'inline-block';
+            if (isMobileMedia.matches) {
+                biggie.style.display = 'block';
+            } else {
+                if (biggie.style.display.trim() == 'none') {
+                    biggie.style.display = 'inline-block';
+                }
             }
-          }
         }
         for (let biggie of navPutRight) {
-          if (isMobileMedia.matches){
-            biggie.style.display = 'block';
-          } else {
-            if(biggie.style.display.trim() == 'none'){
-              biggie.style.display = 'inline-block';
+            if (isMobileMedia.matches) {
+                biggie.style.display = 'block';
+            } else {
+                if (biggie.style.display.trim() == 'none') {
+                    biggie.style.display = 'inline-block';
+                }
             }
-          }
         }
 
     }
@@ -441,9 +441,10 @@ function URLInfoPls() {
             Pathname: <b class="URLinfo--sauce">` + location.pathname + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.pathname + `',true,'Pathname')" id="copyPathnameButton" title="Copy Pathname">&#xf68e;</button>  <br/>
             Origin: <b class="URLinfo--sauce">` + location.origin + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.origin + `',true,'Origin URL')" id="copyOriginButton" title="Copy Origin">&#xf68e;</button><br/>
         </p>
-        <h3>Additional Infos</h3>
+        <h3>Additional Infos & Actions</h3>
         <ul>
             <li><a class="Buttonnize" href="javascript:BrowserInfoPls()">&#xf488; Browser Info &#xf7fb;</a> <b>Local statuses</b> such as cookies enabled, browser version, user agent, OS, etc.</li>
+            <li><a class="Buttonnize" href="https://web.archive.org/save/${location.href}" target="_blank" rel="noopener noreferrer">&#xf488; Archive.org Now! &#xf7fb;</a> <b>Save this page to Wayback Machine</b></li>
         </ul>
 
         `);
@@ -599,14 +600,14 @@ function getJSONF(url, kludgeGenerateWord = false, kludgeIncludeNSFW = true) {
 getJSONF('/assets/json/funnyWords/generateWord.json', true, true);
 // regenerateWord();
 
-function fillJSONF(url){
-  fetch(url)
-      .then(response => response.json())
-      .then(data => {
-          console.log(data);
-          return data;
-          // idk how to pause that function above until these here complete.
-      });
+function fillJSONF(url) {
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            return data;
+            // idk how to pause that function above until these here complete.
+        });
 }
 
 
