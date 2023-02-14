@@ -2,7 +2,9 @@
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 ---
 <MessageBoxTemplate severity={2} paragraphTitle={true} headingTitle={"Read Carefully"} detailSummary={"May possibly damage your camera, Read instruction real carefully!"} opens={true}>
-    <img src="https://wiki.magiclantern.fm/_media/led-with-card-door-open-280.jpg" alt="LED Blinking & Card door open on the camera, pay attention!" style="float:right; max-width:15em;"/>
+    <a href={`javascript:openFullImage("https://wiki.magiclantern.fm/_media/led-with-card-door-open-280.jpg","LED Blinking & Card door open on the camera, pay attention!")`}>
+        <img src="https://wiki.magiclantern.fm/_media/led-with-card-door-open-280.jpg" alt="LED Blinking & Card door open on the camera, pay attention!" style="float:right; max-width:15em;"/>
+    </a>
     <ul>
         <li>Read the entire guide before performing any steps.</li>
         <li>You are responsible for any damage done to your camera.</li>

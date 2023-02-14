@@ -87,7 +87,9 @@ Don't forget to make your main user an admin / sudoers.
 **Make sure you remember your username & all passwords (both main user & root) for this virtual machine / container**
 
 ##### Download the virtual machine / container image
-- VHD. Coming soon
+- VHD. Coming soon. username = `magiclantern`, pass = `magiclantern`.
+
+Tips: Please go to Recompilation section below to clean up the compilation first for the best result.
 
 ##### ERROR: `USERNAME is not in the sudoers file.  This incident will be reported.`
 If somehow that after installation your main user did not exist in the sudoers group, you can do the following to fix this problem:
@@ -580,7 +582,9 @@ Any older cameras & cameras not listed on the New install above.
 - Recommended: Restore your camera to default settings (`Clear settings`, see picture in the Big red warning above). Remember this will reset all canon settings and removes custom picture styles!
 
 ###### Step 2. Installation
+<a href={`javascript:openFullImage("https://wiki.magiclantern.fm/_media/new-installer.png?cache=","Example of successful Magic Lantern installation")`}>
 <img src="https://wiki.magiclantern.fm/_media/new-installer.png?cache=" alt="Example of successful Magic Lantern installation" width="25%" style="float:right"/>
+</a>
 - Format the card **in the camera** (<mark>low-level format</mark>).
 - Unzip **all** of the files from Magic Lantern zip archive to the **root** of your card.
 - Launch the **`Firmware Update`** process from the Canon menu and follow the messages on the screen.
@@ -599,7 +603,9 @@ Any older cameras & cameras not listed on the New install above.
 - **Don't forget to wait for LED confirmation before removing the card!** (unless you use a 550D)
 
 ##### Installing Magic Lantern on other cards
+<a href={`javascript:openFullImage("https://wiki.magiclantern.fm/_media/eoscard2.jpg","Screenshot of Pelican's EOScard Utility")`}>
 <img src="https://wiki.magiclantern.fm/_media/eoscard2.jpg" alt="Screenshot of Pelican's EOScard Utility" width="25%" style="float:right"/>
+</a>
 - Simply repeat **Step 2** above on every card you would like to use Magic Lantern.
 - If you prefer to skip the firmware update step and prepare your cards from the PC, you may copy ML files on your card and make it bootable with a special utility: [EOScard](http://pel.hu/down/EOScard.exe ) for Windows, [MacBoot](http://www.zenoshrdlu.com/macboot/macboot.html ) for macOS, or [make_bootable.sh](https://foss.heptapod.net/magic-lantern/magic-lantern/-/blob/branch/unified/contrib/make-bootable/make_bootable.sh ) for macOS/Linux in command line.
 
