@@ -16,16 +16,24 @@ export interface Props{
     nsfw?:boolean;
 }
 
-const bioLinks:Array<Array<string | boolean>> = [
+// URL, Title, Unused atm, Icon, Stay in this tab
+const bioLinks:Array<Array<string | boolean | number>> = [
     ['https://perkedel.netlify.app', 'Perkedel NTLF+ASTR Website', '', '&#xfa9e;', true],
-    ['https://cointr.ee/joelwindows7', '(Legacy) Cointree', '', '&#xfa9e;'],
-    ['https://sociabuzz.com/joelwindows7', '(Legacy) (Indonesia) Sociabuzz', '', '&#xfa9e;'],
-    ['https://YouTube.com/@JOELwindows7', 'YouTube', '', '&#xf16a;'],
+    ['https://odysee.com/$/invite/@JOELwindows7', 'Join Odysee now!', '', '&#xfa9e;', false],
+    ['https://cointr.ee/joelwindows7', '(Legacy) Cointree', '', '&#xfa9e;', false],
+    ['https://sociabuzz.com/joelwindows7', '(Legacy) (Indonesia) Sociabuzz', '', '&#xfa9e;', false],
+    ['https://YouTube.com/@JOELwindows7', 'YouTube', '', '&#xf16a;', false],
+    ['https://www.tiktok.com/@joelwindows7', 'TikTok', '', '&#xfa9e;', false],
+    ['https://vimeo.com/joelwindows7', 'Vimeo', '', '&#xfa9e;', false],
+    
 ]
-const bioLinksNSFW:Array<Array<string | boolean>> = [
+const bioLinksNSFW:Array<Array<string | boolean | number>> = [
     ['https://lbry.bcow.xyz/@JOELwindows7', 'LBRY on Librarian instance at lbry.bcow.xyz', '', '&#xfa9e;'],
+    ['https://lbry.projectsegfau.lt/@JOELwindows7', 'LBRY on Librarian instance at lbry.projectsegfau.lt', '', '&#xfa9e;'],
     ['https://linktr.ee/joelwindows7', '(Legacy) linktree', '', '&#xfa9e;'],
     ['https://thisvid.com/members/2229865/', 'ThisVid', '', '&#xfa9e;'],
+    ['https://Twitter.com/@JOELwindows7', 'Twitter', '', '&#xfa9e;'],
+    ['https://joelwindows7.tumblr.com', 'Tumblr', '', '&#xfa9e;'],
 ]
 
 const{

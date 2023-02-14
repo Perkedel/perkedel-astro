@@ -16,8 +16,8 @@ export interface Props{
     nsfw?:Boolean;
     username:string;
     photoURL?:string;
-    links?:Array<Array<String | boolean>>;
-    linksNSFW?:Array<Array<String | boolean>>;
+    links?:Array<Array<String | boolean | number>>;
+    linksNSFW?:Array<Array<String | boolean | number>>;
     thirdPartyEdit?:Boolean;
     disableOverwhelmStatement?:boolean;
     addKeywords?:string;
@@ -48,6 +48,10 @@ const{
 set:html={datas[3]+" "+datas[1]+""} 
 set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>"}
 -->
+<!-- 
+target="_blank" 
+rel="noopener noreferrer"
+ -->
 <CorePage
     nsfw={nsfw}
     detachedGenital={true}
@@ -63,11 +67,8 @@ set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;
         {links.map(datas =>(
             <li>
                 <ButtonizedLink 
-                    classe="BioLinks"
+                    classe="BioLinks BioLinksSFW"
                     href={datas[0]} 
-                    
-                    target="_blank" 
-                    rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
                 <b set:html={datas[3] || "&#xfa9e"}></b> {datas[1]}
@@ -79,8 +80,6 @@ set:html={datas[3]+" "+datas[1]+" <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;
                 <ButtonizedLink 
                     classe="BioLinks BioLinksNSFW"
                     href={datas[0]} 
-                    target="_blank" 
-                    rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
                 <b set:html={datas[3] || "&#xfa9e"}></b> {datas[1]} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
