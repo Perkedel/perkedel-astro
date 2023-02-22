@@ -1,0 +1,47 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import PlaySoundButton from '../PlaySoundButton.astro';
+import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
+// import { Time } from '@astro-github-elements/time';
+
+const dumpQuik:Array<Array<string>> = [
+    // Sauce URL, Button Label, Author, Info
+    [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
+    [`https://youtu.be/ArJe--CGatg`,`Momiji plays flute`,`Daniel Renard`, `oh yess, this cute one.`],
+    [`https://youtu.be/82R3FH-n7-Y`,`Giancarlo will face you now. Far Cry 6`,`Ubisoft`, `HAHAHAH!! I was acting. <b class='error'>or was I?</b>`],
+    [`https://youtu.be/1xhz2BR7SVY`,`Submerge Tylenol Rapid Release Gel tablet into a bowl of water`,`What Happens`, ``],
+    [`https://youtube.com/shorts/PGThll6-i08?feature=share`,`LEGO used to help mold a concrete bed foundation`,`HomeMadeModern`, ``],
+    [`https://youtu.be/jBktddQX47U`,`Fully Operational huh? Clip Flap jacksdflkjasdkfklasdkf`,`kraklp0p`, ``],
+    [`https://youtube.com/shorts/O64iobAfWD4?feature=share`,`Alicia & boyfriend tries a cinema in Zurich, it is very uncomfortable & tiring`,`AliciaMillennium`, `They tried a cinema somewhere in Zurich. The situation is baffling as the size of one theater is really small, narrow legroom, and other discomforts. So much in the middle of film has 10 minutes break. Well, I agree to people said in the comments, XXI (& every theaters in Indonesia pretty much) is way better than everyone else. It's luxurious, wide legroom, big size, best sound & visuals, and best & hygienic facilities, also best Snacks & beverages. and since is way comfortable, there is no break needed at all!`],
+    [`https://youtu.be/77fAMqoYPPM`,`Dolby Spheres 7.1 intro (double D)`,`Dolby`, `the famous intro for Surround sound 7.1 Speakered theatre`],
+    [`https://youtu.be/t4G9wSjNyjk`,`Dolby Spheres 7.1 intro (7.1)`,`Dolby`, `the famous intro for Surround sound 7.1 Speakered theatre`],
+    [`https://youtu.be/H46Kil1k-m8`,`Dolby Escape animation`,`Dolby`, ``],
+    [`https://youtu.be/KA6azZALMiE`,`Dolby Silent animation`,`Dolby`, ``],
+    [`https://youtu.be/pd_6WN9GVtQ`,`Dolby Conductor intro`,`Dolby`, `for Atmos speakered theatre`],
+    [`https://youtu.be/3TOlN9dLpi8`,`Dolby Horizon trailer`,`Dolby`, `for Atmos speakered theatre`],
+    [`https://youtu.be/AcJ3jPh_294`,`Dolby 3D Glasses PSA`,`Dolby`, `for Dolby 3D powered theatre`],
+    [`https://en.wikipedia.org/wiki/Roundhay_Garden_Scene?wprov=sfla1`,`Roundhay Garden Scene Wikipedia article`,``, `one of the 1st or earliest ever film.`],
+    [`https://en.wikipedia.org/wiki/The_Horse_in_Motion#%3A%7E%3Atext%3DThe_Horse_in_Motion_is%2Cthe_photographs_in_June_1878.?wprov=sfla1`,`The Horse in Motion Wikipedia article`,``, `Very first ever film`],
+    [`https://youtu.be/Fve_lHIPa-I`,`Unravel`,`pls jp name`, `Tokyo Ghoul song`],
+    [`https://youtube.com/@ScrubDaddyOfficial`,`Scrub Daddy YouTube Channel`,``, `Scrub Daddy is a series of kitchen cleaning product, famous for their all-effective sponge called <code>Scrub Daddy</code>`],
+    [`https://youtu.be/DEXDDyb6t2o`,`Secondhand Serenade - Fall For You`,``, `Because tonight will be the night I will fall for you`],
+    [`https://youtube.com/shorts/o4cTO-jfxnM?feature=share`,`pls tape balloon`,`y._.y`, `Balloon made out of nano tape`],
+    [`https://youtu.be/a_3UQYo599g`,`I made a poo poo, <b>AEAE</b>`,`KirillKa2D`, ``],
+    [`https://youtu.be/IxE1txIgwdA`,`Mighty Eagle No.`,`clip by dog man`, ``],
+]
+---
+{
+    dumpQuik.map(stuff => (
+    <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <span set:html={stuff[2]}>. </span><span set:html={stuff[3]}></span></li>
+    ))
+}
