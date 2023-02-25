@@ -14,6 +14,16 @@ import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
 
+export interface Props{
+    nsfw?:boolean;
+
+}
+
+const{
+    nsfw=false,
+
+}= Astro.props.frontmatter || Astro.props as Props;
+
 const dumpQuik:Array<Array<string>> = [
     // Sauce URL, Button Label, Author, Info
     [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
@@ -104,10 +114,63 @@ const dumpQuik:Array<Array<string>> = [
     [`https://vt.tiktok.com/ZS8HLHFu9/`,`Tutorial How to Sit`, `Angry Emo Fish`, `Low Quality Meme`],
     [`https://vt.tiktok.com/ZS8HLBe72/`,`Tutorial How to Call`, `Angry Emo Fish`, `Low Quality Meme`],
     [`https://www.tiktok.com/@angry_emo_fish?_t=8a9XqZe7U4f&_r=1`,`Angry Emo Fish TikTok channel`, ``, `Low Quality Meme`],
+    [`https://vt.tiktok.com/ZS8HDm1Qe/`,`China Lore pls this weird lmao`, `BAKU`, ``],
+    [`https://youtu.be/fG7qz66Ty48`,`EEEEEEEE, it's in the game`, `Electro`, ``],
+    [`https://youtu.be/9Mby6_RFlKk`,`Why are These People Allowed TO Have Children?!`, `MaximBrady`, `<i>Ladies & Gentlemen. I I.., I think my brain has commited suicide.</i>`],
+    [`https://youtu.be/9t3qXXJSaKk`,`Bababooey full clip`, `reuploaded by Codex`, ``],
+    [`https://youtu.be/Qskm9MTz2V4`,`Sheet Music Boss - RUSH E`, ``, ``],
+    [`https://youtu.be/w9CMqN04b38`,`Stan Twitter: Animoji head turning to Mask by Dream`, `Ethan Teehee`, ``],
+    [`https://youtu.be/enBlo_KiRTk`,`Markiplier plays horror game & shout <i>triple k</i>`, `clip No Context Markiplier`, ``],
+    [`https://youtu.be/LLJzwktdOFI`,`Among Us theme Indian`, `Dairomold`, ``],
+    [`https://youtu.be/FWgfBWKUP_o`,`Animated 3D Valiant Hero Henry Stickmin`, `Victor is Bored (victor_summery)`, ``],
+    [`https://youtu.be/X9fFMUJ9bUQ`,`all dna production logo outro <i>Hi, I'm Paul!</i>`, `clip collected by Random YouTube Crap`, ``],
+    [`https://youtu.be/H9sOkH8bhGA`,`I DEFY YOU HEARTMAN, Spongebob clip`, `ImmaPatrick2`, ``],
+    [`https://youtu.be/sE8pQqv5JQg`,`Jink is angy`, `Empty cat 🦇`, ``],
+    [`https://youtu.be/Dq_jcUgBzt8`,`EA Sport famous intro`, `recorded by Jolan Agbuya`, `E, A, Sports. it's in the game.`],
+    [`https://youtu.be/74qsaPK6TCc`,`EEEEEEEEEEEEEEEE`, `Meme edit VIRTUAL ESSENCE`, ``],
+    [`https://youtu.be/ThJapGxptKw`,`EEEEEEEEEEEEEEEE blackhole`, `Meme edit VIRTUAL ESSENCE`, ``],
+    [`https://youtu.be/npaR8g-jdFU`,`EEEEEEEEEEEEEEEE enters & leaves`, `Meme edit VIRTUAL ESSENCE`, ``],
+    [`https://youtube.com/@Blippi`,`Blippi YouTube Channel`, ``, `Educational videos for Kids. Explores stuffs around the world featuring Blippi (& sometimes Meekah).`],
+    [`https://youtube.com/@PrinceEa`,`Prince Ea YouTube Channel`, ``, `Motivational Film Speech`],
+    [`https://youtu.be/eIlT52j3lSo`,`What is that Rushed Vent`, `⚡S4MMY⭐`, ``],
+    [`https://youtu.be/8lks80dbMUQ`,`Avenged Sevenfold - Natural Born Killer`, ``, ``],
+    [`https://youtu.be/Jp02zEGc3cM`,`Feddy`, `Mechas`, ``],
+    [`https://youtube.com/@rocketjump`,`fredieww / Rocket Jump YouTube Channel`, ``, `funny CGI film`],
+    [`https://youtu.be/H6T1FW7qMxA`,`Hello mother`+(nsfw?`fucker`:`pecker`), `reuploaded by OMGBERAW`, ``],
+    [`https://youtu.be/Qr3GAFsXX_I`,`Look at this dude`, `reuploaded by PewDiePie Pie (not PewDiePie)`, ``],
+    [`https://youtube.com/@angethegreat`,`Ange the Great YouTube Channel`, ``, `Engine Audio Simulator`],
+    [`https://github.com/Engine-Simulator/engine-sim-community-edition`,`Engine Simulator Community Edition (Empty source code)`, `Ange the Great`, `Engine Audio Simulator`],
+    [`https://github.com/ange-yaghi/engine-sim`,`Engine Simulator Original Source code`, `Ange the Great`, `Engine Audio Simulator`],
+    [`https://youtu.be/XgNI_haDmAA`,`Sonic eats lemon & dies`, `Oliver Teesdale`, ``],
+    [`https://youtu.be/MCP8_DP52yo`,`Paimon eats lemon & dies`, `Syn`, ``],
+    [`https://youtu.be/fQOmAT457_A`,`Paul Wilbur - For Your Name Is Holy (Sebab namaMu Kudus)`, ``, ``],
+    [`https://youtu.be/WRLjNzTAT-M`,`Unovans Be Like`, `Animated by PEAR, ft. _R0ACH__`, ``],
+    [`https://twitter.com/TheCappuccino04/status/1331828511238201349?s=20`,`Unovans Be Like`, `TheCappuccino04`, ``],
+    [`https://youtube.com/@engineerguyvideo`,`Engineer Guy YouTube Channel`, ``, `Pls, where has he been? no uploads anymore!`],
+    [`https://youtu.be/PdCgmL1EocU`,`Give Me Rent!; You get your rent WHEN YOU FIX THIS DAMN DOOR!!`, `Clark Kent's clip (not Superman one)`, ``],
+    [`https://youtu.be/39UDZMgPg5k`,`Was ist dein Lieblingsfach`, `Levon`, ``],
+    [`https://youtu.be/sLgz57tguKo`,`Måneskin - Beggin'`, ``, ``],
+    [`https://youtu.be/tyYwOEKKcZc`,`Troye Sivan - Angel Baby`, ``, ``],
+    [`https://youtube.com/playlist?list=PLMJCbUcidpbqoaR6VGgynUMWdMeuvpfkG`,`Subway Surfers Animated Series`, `SYBO TV`, ``],
+    [`https://youtu.be/6WIaOj5YLH8`,`Bocchi the Apex Legend`, `reuploaded by pls Mandarin name`, `parody the Apex Legend`],
+    [`https://m.bilibili.com/video/BV1Wy4y1X7W1?ts=1677340283&spmid=333.401.click.share&h5_buvid=2D8D7CAA-AA37-DAA5-4C4A-2013DB6CE39367928infoc&unique_k=&bsource=&openid=&wxfid=&page=0`,`Bocchi the Apex Legend`, `ZhYiyii`, `parody the Apex Legend`],
+    [`https://youtu.be/3CxKzbuTZbA`,`Play the music with telephone keypad tone`, `pls jp name`, ``],
+    [`https://youtu.be/drYe1He5YfI`,`Flight React ception`, `turtle999`, ``],
+    [`https://youtu.be/9CwyJXnJWwM`,`flightreacts gets scared for 8 minutes`, `clip FTC Productions`, ``],
+    [`https://youtu.be/jO8o5LLmpR8`,`flightreacts scream greenscreen`, `clip greenscreened Joseph Tolmes`, ``],
+    [`https://youtu.be/yxvijbVlr4o`,`oh the floor cracked, I believe I might fall`, `VerticalPlug`, `<b class='warning'>Profanity</b>`],
+    [`https://youtube.com/shorts/kt4JnEnsUZE?feature=share`,`Attempt catch Pikachu went wrong Critical`, `SQUiNK`, `<b class='warning'>Fantasy gore</b>`],
+    [`https://vt.tiktok.com/ZS8HfFgpj/`,`slap mannequin head bonk`, `Washoma`, ``],
+    [`https://vt.tiktok.com/ZS8HfSpTP/`,`Carl don't feel so good Lady Gaga bad romance`, `reupload Glamrock_Freddy`, ``],
+    [`https://vt.tiktok.com/ZS8HfY7MD/`,`Five Knights at Freddy's FNAF edit fantasy`, `80'sDarkfantasy`, ``],
+    [`https://vt.tiktok.com/ZS8HfhCS6/`,`Love you So tiktok sound`, `The King Khan & BBQ Show`, ``],
+    [`https://youtu.be/2owaKucyU1Y`,`Horrible Windows 95 Commercial [Retro 90's Ad]`, `reuploaded by Atombombmother`, ``],
+    [`https://youtu.be/Ci28GVh5_Bs`,`Amen Break Sample 136 BPM`, `Clipped by tavolga`, ``],
+    [`https://youtu.be/DGWmt-KEbV4`,`Bocchi holds A-Site, Counter Strike`, `tenshii`, ``],
 ]
 ---
 {
     dumpQuik.map(stuff => (
-    <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <span set:html={stuff[2]}>. </span><span set:html={stuff[3]}></span></li>
+    <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3]}></Fragment></li>
     ))
 }
