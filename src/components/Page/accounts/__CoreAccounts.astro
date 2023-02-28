@@ -71,7 +71,7 @@ rel="noopener noreferrer"
                     href={datas[0]} 
                     openInNewTab={!(datas[4] || false)}
                     >
-                <b set:html={datas[3] || "&#xfa9e"}></b> {datas[1]}
+                <Fragment set:html={datas[3] || "&#xfa9e"}></Fragment> {datas[1]}
                 </ButtonizedLink>
             </li>
         ))}
@@ -82,7 +82,7 @@ rel="noopener noreferrer"
                     href={datas[0]} 
                     openInNewTab={!(datas[4] || false)}
                     >
-                <b set:html={datas[3] || "&#xfa9e"}></b> {datas[1]} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
+                <Fragment set:html={datas[3] || "&#xfa9e"}></Fragment> {datas[1]} {`| ${datas[2]}`|``} <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
                 </ButtonizedLink>
             </li>
         )):""}
