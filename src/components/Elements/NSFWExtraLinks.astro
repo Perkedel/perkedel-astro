@@ -13,10 +13,10 @@ const Filler:Array<Array<any>> = [
 <ul>
     <!-- <li>Odysee, an LBRY instance. <a href="http://www.odysee.com/" target="_blank" rel="noopener noreferrer">http://www.odysee.com</a></li> -->
     {Filler.map(link=>(
-        <li>{link[0]} 
-            {link[1].map(sauces=>(
-                <a href={sauces} target="_blank" rel="noopener noreferrer">{sauces}</a>
-            ))}    
+        <li><Fragment set:html={link[0]}></Fragment> 
+                {link[1].map(sauces=>(
+                    <a href={sauces} target="_blank" rel="noopener noreferrer">{sauces}</a> 
+                ))}    
         </li>
     ))}
 </ul>

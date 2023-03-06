@@ -228,6 +228,21 @@ const Filler:Array<Array<any>> = [
             'https://github.com/DvorakDwarf/Infinite-Storage-Glitch',
         ]
     ],
+    [`X-Play Racist Review clips`,
+        [
+            'https://twitter.com/TarksGauntlet/status/1631809089385660416?t=0R040fnCseXJoaNPP4O2ag&s=19',
+            'https://twitter.com/AdamSessler/status/1632078967216959489?t=0R040fnCseXJoaNPP4O2ag&s=19',
+            'https://twitter.com/TarksGauntlet/status/1632100797390389248?t=0R040fnCseXJoaNPP4O2ag&s=19',
+        ]
+    ],
+    [`Japanese people, here's what you need to know what the hell is <i>Proship</i> & how Twitter Freaks harrass you for this, & perhaps ways to get rid of them. thancc Rev!`,
+        [
+            'https://twitter.com/maromi_ika/status/1627281520343015424?t=0R040fnCseXJoaNPP4O2ag&s=19',
+            'https://youtu.be/I9rKTbe9r5M',
+            'https://twitter.com/MissFaves/status/1572380517193990144?s=20',
+            
+        ]
+    ],
 ]
 ---
 <ul>
@@ -240,7 +255,7 @@ const Filler:Array<Array<any>> = [
     <li>Pls evaluate featured services this video description. Which one can atleast be used for $0? <a href="https://youtu.be/SPsuVmCiwVQ" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
     <li>CGGeek tutorial how to destroy stuff in Blender <a href="https://youtu.be/5PxUhCcodes" target="_blank" rel="noopener noreferrer">YouTube</a>.</li>
     {Filler.map(link=>(
-            <li><span set:html={link[0]}></span> 
+            <li><Fragment set:html={link[0]}></Fragment> 
                 {link[1].map(sauces=>(
                     <a href={sauces} target="_blank" rel="noopener noreferrer">{sauces}</a> 
                 ))}    
