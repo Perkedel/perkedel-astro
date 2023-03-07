@@ -345,6 +345,7 @@ const dumpQuik:Array<Array<string>> = [
     [`https://youtube.com/shorts/4xzpdkORoxA?feature=share`,`DOn't touch wire nah nope`, `JuiceyMonae clip`, ``],
     [`https://youtube.com/shorts/B7Pnla4hX20?feature=share`,`Somebody used to know just the voice meme`, `musicdiary0812 clip`, ``],
     [`https://youtu.be/3DSvkXxgNC0`,`Miku eat lemon and dies, animated`, `Sleepycandie0.x cover`, ``],
+    [`https://youtu.be/pd6dCUiqo2w`,`Miku eat lemon and dies`, `Official Staircase`, ``],
     [`https://youtu.be/_yTWEXyYa1s`,`Among us Chinese letter remix`, `The Fellow Weirdos reupload`, ``],
     [`https://youtube.com/shorts/d1ZvEqv7z_c?feature=share`,`My Booty don't jiggle jiggle, it's firm`, `youshortsforanimal reupload`, ``],
     [`https://youtube.com/shorts/iRZj57DkDds?feature=share`,`Someone give question answer in chat`, `NutshellAnimation`, ``],
@@ -471,11 +472,29 @@ const dumpQuik:Array<Array<string>> = [
     [`https://youtu.be/neOQ8s60sHU`,`TWISTED - WORTH NOTHING (ft. Oliver Tree)`, ``, `Never miss you again`],
     [`https://youtu.be/5t0e5Sw4Ar8`,`Biser King - Dom Dom Yes Yes Remix`, ``, `remix of dancing belly man song`],
     [`https://youtube.com/shorts/wdJEo9iN-qA?feature=share`,`CD Under Microscope`, `Oneminmicro`, `You will see the lines at 1000x. These lines are groves, like Vynil, bytes of data that was baked into it. These will be read with red laser illuminated data reading sensor. This particular CD had some contaminants too as well, which may explain difficulty reading & skips on some cheap players.`],
+    [`https://billwurtz.com/`,`bill wurtz website`, ``, `surreal Jazz animated songs`],
+    [`https://youtube.com/playlist?list=PL5-WT4DlkvgqOCJ0hwDQ_csV2iVHwfOfg`,`The Living Tombstone songs Playlist`, `The Living Tombstone`, `every TLT songs ever composed. FNAF songs, cat song, meme song`],
+    [`https://youtu.be/bSsVxOsnpqA`,`Jon: DID YOU REALLY THINK YOU COULD DEFEAT ME YOU WRETCHED FOOL?!`, `Prip`, `Jon Arbuckle from Garfield goes gamer`],
+    [`https://youtu.be/LylpKIYh4vY`,`Jon: DID YOU REALLY THINK YOU COULD DEFEAT ME YOU WRETCHED FOOL?! FULL CONTEXT EPISODE`, `7dovn sux`, `Jon Arbuckle from Garfield goes gamer`],
+    [`https://twitter.com/EmojiMashupBot/status/1556097822407237634?t=a6n7-J9FvtBpbZmX8euyJw&s=19`,`😈 demon-smiling + 🤔 thinking =`, `Emoji Mashup Bot`, `lmao, <a href='https://twitter.com/JOELwindows7/status/1556181448797089792?t=a6n7-J9FvtBpbZmX8euyJw&s=19' target="_blank" rel="noopener noreferrer">tidy glasses</a>!`],
+    [`https://youtube.com/@NCHProductions`,`NCHProductions YouTube Channel`,``, `Animation 2D`],
+    [`https://youtube.com/@Berd`,`Berd YouTube Channel`,``, `Pencil birbs funny animation tweening`],
+    [`https://youtube.com/@rerez`,`Rerez YouTube Channel`,``, `Pencil birbs funny animation tweening`],
+    [`https://youtu.be/BgHL9H6fA6U`,`GYLT (Google Stadia) Game Longplay`,`World of Longplays`, `Played by Spazbo4. Note, <mark class='error'>Google Stadia has already died</mark>. Expect Steam or whatever game store release, or.. yeah.`],
+    [`https://twitter.com/jack/status/20?t=rZNQC9QJNigKCfUF1SobEQ&s=19`,`Twitter first ever post`,`Jack Dorsey`, ``],
+    [`https://youtu.be/wBqM2ytqHY4`,`Late for Meeting`,`David Lewandownski`, ``],
+    [`https://youtu.be/iRT4bUl2iFA`,`Guys, this miranda`,`brombo`, `She's one of the boys!!`],
+    [`https://youtu.be/PDHB_pbY-Js`,`Guys, this miranda 2`,`brombo`, `WHY DID YOU DO THAT?!`],
+    [`https://youtu.be/xD8IWQY0IOM`,`Therapiss`,`brombo`, ``],
+    [`https://youtube.com/@brombo`,`brombo YouTube Channel`,``, `mouse drawn ms paint animation`],
+    [`https://youtube.com/playlist?list=PLAEth7SjO4L1sWqllzQkrWhE84M5h-7y-`,`Pet Russian Saga`,`Gen Scinmore`, ``],
+    [`http://www.bearbrick.com/`,`Bearbrick website`,`Bearbrick`, `This bear standing hard plastic doll collection`],
+    
     
 ]
 ---
 {
     dumpQuik.map(stuff => (
-    <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3]}></Fragment></li>
+    <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
 }
