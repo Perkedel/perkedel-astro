@@ -12,6 +12,17 @@ import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be i
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
+import ListCellsCardiophileDumpQuickSFW from './ListCells/ListCellsCardiophileDumpQuickSFW.astro';
+
+export interface Props{
+    nsfw?:boolean;
+
+}
+
+const{
+    nsfw=false,
+
+}= Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- <li><ButtonizedLink href={""} target="_blank" rel="noopener noreferrer">HERE</ButtonizedLink> INFO</li> -->
 <li><ButtonizedLink href={"https://odysee.com/@JOELwindows7:a/Joel-is-Cardiophile-confirmed:0"} target="_blank" rel="noopener noreferrer">Joel's devlog of heartbeat emulator experiment in Godot Engine</ButtonizedLink> with
@@ -126,6 +137,8 @@ HBSNS community of <code>HBSNS総合コミュニティ</code> (<code>b2cd2d33d7d
 <li><ButtonizedLink href={"http://pie.med.utoronto.ca/CA/CA_content/CA_cardiacPhys_contractility.html"} target="_blank" rel="noopener noreferrer">Cardiac Anesthesiology</ButtonizedLink> PIE Med. thancc opopopppoi!</li>
 <li><ButtonizedLink href={"https://youtu.be/AXFBwPIw7V4"} target="_blank" rel="noopener noreferrer">Axe ad 2003, Doctor</ButtonizedLink> reupload by Vincent VHS tape. </li>
 <li><ButtonizedLink href={"https://youtube.com/playlist?list=PLLpZCwsaiK2_dpLGBJl_MT43x6X8Eznrk"} target="_blank" rel="noopener noreferrer">Heartbeat Scene Playlist</ButtonizedLink> Collected by Blackheart2016 (Hibachi). </li>
+<li><ButtonizedLink href={"https://youtube.com/playlist?list=PLLpZCwsaiK2-V-F2iofzAMICeyXlnBY0O"} target="_blank" rel="noopener noreferrer">Asian heartbeat Playlist</ButtonizedLink> Collected by Blackheart2016 (Hibachi). </li>
+<li><ButtonizedLink href={"https://youtube.com/playlist?list=PLLpZCwsaiK29aBt2cTYx_lYSa3k5hoBa7"} target="_blank" rel="noopener noreferrer">Stething heartbeat Playlist</ButtonizedLink> Collected by Blackheart2016 (Hibachi). </li>
 <li><ButtonizedLink href={"https://youtube.com/@Ramen_Hibachi"} target="_blank" rel="noopener noreferrer">Blackheart2016 (Hibachi) YouTube channel</ButtonizedLink> Heartbeat related collections. </li>
 <li><ButtonizedLink href={"https://youtu.be/_hW21kvBB78"} target="_blank" rel="noopener noreferrer">My Heartbeat 27</ButtonizedLink> Hearing heartbeat </li>
 <li><ButtonizedLink href={"https://www.instagram.com/p/ClW-8jCSuvr/?igshid=OTJlNzQ0NWM="} target="_blank" rel="noopener noreferrer">Heartbeat annoying so I took it off, The nice Stalker Pt. 5</ButtonizedLink> lttlysamp </li>
@@ -161,3 +174,15 @@ HBSNS community of <code>HBSNS総合コミュニティ</code> (<code>b2cd2d33d7d
 <li><ButtonizedLink href={"https://youtu.be/rKN71_pwMaA"} target="_blank" rel="noopener noreferrer">hUhhhhhhhhhhh?</ButtonizedLink> JzBoy. Yes, I swear, it's him.</li>
 <li><ButtonizedLink href={"https://youtube.com/@bellialfegora1478"} target="_blank" rel="noopener noreferrer">belphegor YouTube Channel</ButtonizedLink> 3D Animation heart po4unding out of chest baboom baboom</li>
 <li style='display:none;'><ButtonizedLink href={"https://youtube.com/@nassermachado9937"} target="_blank" rel="noopener noreferrer">Nasser Machado YouTube Channel</ButtonizedLink> Heartbeat edit furry</li>
+<li ><ButtonizedLink href={"https://youtu.be/kTvQUkUWI5g"} target="_blank" rel="noopener noreferrer">Racing Heartbeat around 200 BPM</ButtonizedLink> myra Q</li>
+<li ><ButtonizedLink href={"https://youtu.be/L75hShQV-KI"} target="_blank" rel="noopener noreferrer">tachycardio fast heartbeat 200 BPM</ButtonizedLink> M Heart</li>
+<li ><ButtonizedLink href={"https://youtu.be/mTlzQ4OIwUs"} target="_blank" rel="noopener noreferrer">visible heartbeat fast & very fast</ButtonizedLink> thumpingdemon / emofreako</li>
+<li ><ButtonizedLink href={"https://youtu.be/eDyhpcmUlis"} target="_blank" rel="noopener noreferrer">210 BPM very fast heartbeat</ButtonizedLink> Mall Heartbeat</li>
+<li ><ButtonizedLink href={"https://youtu.be/L63c4SrzBRM"} target="_blank" rel="noopener noreferrer">What if your heart beats at the speed of light</ButtonizedLink> Meet Arnold</li>
+<li ><ButtonizedLink href={"https://youtu.be/93RNPdCQoi4"} target="_blank" rel="noopener noreferrer">Insanely fast heartbeat 200 BPM</ButtonizedLink> Happy Heartbeat</li>
+<li ><ButtonizedLink href={"https://youtu.be/U5tImvTM6YQ"} target="_blank" rel="noopener noreferrer">crazy visible heartbeat</ButtonizedLink> visibleHB</li>
+<li ><ButtonizedLink href={"https://youtu.be/Xe--hgPX5xw"} target="_blank" rel="noopener noreferrer">Avatar 2, heartbeat</ButtonizedLink> Avatar. Heartbeat control is essential in diving</li>
+<!-- <li ><ButtonizedLink href={"https://youtube.com/playlist?list=PLPFfy5FZLDdv3UYDAeourtOEuQ5xSioB4"} target="_blank" rel="noopener noreferrer">Queen Heartbeat YouTube Channel</ButtonizedLink> </li> -->
+<li ><ButtonizedLink href={"https://youtube.com/@QueenHeartbeat"} target="_blank" rel="noopener noreferrer">Queen Heartbeat YouTube Channel</ButtonizedLink> </li>
+<li ><ButtonizedLink href={"https://youtu.be/_6xkUB3oPpM"} target="_blank" rel="noopener noreferrer">I love you</ButtonizedLink> DarkGunmon5353</li>
+<ListCellsCardiophileDumpQuickSFW nsfw={nsfw}/>

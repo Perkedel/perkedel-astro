@@ -1,0 +1,34 @@
+---
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import PlaySoundButton from '../PlaySoundButton.astro';
+import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
+// import { Time } from '@astro-github-elements/time';
+
+export interface Props{
+    nsfw?:boolean;
+
+}
+
+const{
+    nsfw=false,
+
+}= Astro.props.frontmatter || Astro.props as Props;
+
+const dumpQuik:Array<Array<string>> = [
+    // [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
+]
+---
+{
+    dumpQuik.map(stuff => (
+    <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
+    ))
+}
