@@ -5,6 +5,17 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import { Time } from '@astro-github-elements/time';
+import ListCells3DModelsSoughtAfterDumpQuikSFW from './ListCells/ListCells3DModelsSoughtAfterDumpQuikSFW.astro';
+
+export interface Props{
+    nsfw?:boolean;
+
+}
+
+const{
+    nsfw=false,
+
+}= Astro.props.frontmatter || Astro.props as Props;
 ---
 <li><a href="https://www.deviantart.com/joelwindows7/journal/Maya-Putri-MMD-3D-Model-situation-928109950" target="_blank" rel="noopener noreferrer">Maya Putri</a>. <a href="https://web.archive.org/web/20190823202407/http://maya-putri.com/download/" target="_blank" rel="noopener noreferrer">Gone</a>, nobody will give us download to obey copyright to a file that no longer exist. egregious! <a href='https://virtualyoutuber.fandom.com/wiki/Maya_Putri' target="_blank" rel="noopener noreferrer">Wikia</a></li>
 <li><a href="" target="_blank" rel="noopener noreferrer">EFK-san's Equestria Girl edit</a>. I was late to get that MEGA link and it's gone too. basically, it's <a href="https://www.deviantart.com/creatorofpony" target="_blank" rel="noopener noreferrer">CreatorOfPony</a>'s Equestria girls 3d models, edited to wear somekind of metalic shinny Iron-man-like suit.<br/>
@@ -14,3 +25,4 @@ import { Time } from '@astro-github-elements/time';
     </ul>
     </li>
 <li>Mighty Magisword. Nobody attempted, ones that shares both characters & every Magiswords. There was some, did <b class='error'>has no download link</b>, checked serveral. Attempted search <code>Mighty Magisword 3d model</code> as of <Time format="datetime" date="2023-02-07T00:13:21+00:00"/></li>
+<ListCells3DModelsSoughtAfterDumpQuikSFW nsfw={nsfw}/>
