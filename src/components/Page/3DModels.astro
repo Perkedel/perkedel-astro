@@ -1,5 +1,6 @@
 ---
 import Layout from '@components/Layout.astro';
+import CorePage from './__CorePage.astro';
 import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
@@ -25,15 +26,21 @@ const{
     addKeywords='3D, models, blender, free 3d models, blend, 3d modeling, modeling'
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<!-- DONE: migrate this entire page to a new one & with scripts like CSS & Cardiophile -->
-<Layout 
-    title="3D Models" 
+<!-- title="3D Models" 
     description="Perkedel NTLF+ASTR. Blendered 3D Models & Other 3D Models!"
     keywords="tech, fun, novelty, open source, gratis, free, 3D, models, blender, free 3d models, blend"
     author="JOELwindows7"
-    rating={(nsfw?"adult":"")}
+    rating={(nsfw?"adult":"")} -->
+<!-- DONE: migrate this entire page to a new one & with scripts like CSS & Cardiophile -->
+<CorePage
+    nsfw={nsfw}
+    addKeywords='3D, models, blender, free 3d models, blend'
+    addDescriptions='Blendered 3D Models & Other 3D Models!'
+    addHeaderTitle='3D Models Pls'
+    addMetaTitle='3D Models'
+    author='JOELwindows7'
     >
-    <h1>3D Models Pls ({nsfw?"FULL":"LITE"} VERSION)</h1>
+    <!-- <h1>3D Models Pls ({nsfw?"FULL":"LITE"} VERSION)</h1> -->
         <p>Blender, FBX, Humanoids, Sculpts, etc.</p>
         <TodayBlenderVersion/>
         <h2>What to do?</h2>
@@ -42,18 +49,18 @@ const{
             <h3 class="success">Available Now</h3>
                 <p>Models that are available right now</p>
                 <ul>
-                    <ListCells3DModelSFW/>
+                    <ListCells3DModelSFW nsfw={nsfw}/>
                     {nsfw?<ListCells3DModelNSFW/>:""}
                 </ul>
             <h3 class="error">Wanted 3D Models</h3>
                 <p>Models that are <b>gone</b> &/or are <b>wanted right now</b> &/or <b>is not $0 & not found the same or better quality for $0</b> <Fragment set:html={nsfw?"&/or <b><mark>Exists but is kamatussa (lacks bare skin parts especially reproductives like nipples & vagina) as well as inner organs</mark></b>":""}></Fragment></p>
                 <ul>
-                    <SoughtAfterCells3DModelsSFW/>
+                    <SoughtAfterCells3DModelsSFW nsfw={nsfw}/>
                     {nsfw?<SoughtAfterCells3DModelsNSFW/>:""}
                 </ul>
                 <PlsReupload3DModels nsfw={nsfw}/>
 
-        {nsfw?"":
+        <!-- {nsfw?"":
             <EnterNSFWButton/>
-        }
-</Layout>
+        } -->
+</CorePage>
