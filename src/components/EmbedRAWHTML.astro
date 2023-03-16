@@ -188,7 +188,8 @@ const{
 </iframe>}
 </div>
 -->
-<button id="loadEmbedNowButton" onClick={`startLoadingEmbed('`+src+`')`} class="SpecialityButton" style={noPreload?"":"display:none;"}>Play</button>
+<button id="loadEmbedNowButton" onClick={`startLoadingEmbed('`+src+`')`} class="SpecialityButton" style={noPreload?"":"display:none;"}>Play Now</button>
+
 <iframe
   id="mainIframe"
   src={noPreload?"/rawHtml/noPreload/index.html":src}
@@ -208,3 +209,9 @@ const{
   </slot>
   <slot name="errorSayExtra"/>
 </iframe>
+
+<details id='openInNewTabDetails'>
+  <summary>Open this app in New Tab</summary>
+  <a href={src} id='openGameInNewTab' class='Buttonize' target="_blank" rel="noopener noreferrer">Open in New Tab: <code>{src}</code></a>
+  <!-- style={noPreload?"":"display:none;"} -->
+</details>

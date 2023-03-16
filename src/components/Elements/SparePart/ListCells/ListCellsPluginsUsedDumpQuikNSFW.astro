@@ -13,20 +13,8 @@ import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
 
-export interface Props{
-    nsfw?:boolean;
-
-}
-
-const{
-    nsfw=false,
-
-}= Astro.props.frontmatter || Astro.props as Props;
-
 const dumpQuik:Array<Array<string>> = [
     // [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
-    [`https://vt.tiktok.com/ZS84ubgnK/`,`tried Stemoscope Pro`,`Hearbeat Texas`,``],
-    [`https://youtu.be/Wc9msdwasnc`,`Karra's heart`,`TenebrisDaWriter`,``],
 ]
 ---
 {

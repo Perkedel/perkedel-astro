@@ -3,6 +3,18 @@ import PluginUsedMDX from './PluginsUsed.mdx'
 import { Icon } from 'astro-icon'
 import { Sprite } from 'astro-icon'
 import Github from "astro-github";
+import ListCellsPluginsUsedDumpQuikSFW from './Elements/SparePart/ListCells/ListCellsPluginsUsedDumpQuikSFW.astro';
+import ListCellsPluginsUsedDumpQuikNSFW from './Elements/SparePart/ListCells/ListCellsPluginsUsedDumpQuikNSFW.astro';
+
+export interface Props{
+    nsfw?:boolean;
+
+}
+
+const{
+    nsfw=false,
+
+}= Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- <PluginUsedMDX></PluginUsedMDX> -->
 <ul>
@@ -71,4 +83,6 @@ import Github from "astro-github";
     <li><a href="https://github.com/astro-community/flow" target="_blank" rel="noopener noreferrer">Astro Flow. Data Flow kit. Itteration Components such as <code>For</code> to itterate these data something.</a></li>
     <li><a href="https://www.npmjs.com/package/hello-astro" target="_blank" rel="noopener noreferrer">Hello Astro. <code>Hello</code> greeting in multiple language selected randomly.</a></li>
     <li><a href="https://github.com/mzaini30/astro-github#readme" target="_blank" rel="noopener noreferrer">Astro GitHub Badge. GitHub badge!</a> <Github repo="mzaini30/astro-github" /></li>
+    <ListCellsPluginsUsedDumpQuikSFW nsfw={nsfw}/>
+    {nsfw?<ListCellsPluginsUsedDumpQuikNSFW/>:``}
 </ul>
