@@ -8,6 +8,10 @@
 /home /
 /index /
 
+# Netlify Functions pls
+/api/* /.netlify/functions/:splat 200
+# https://www.netlify.com/blog/2021/12/13/setting-up-redirects-on-netlify/?_ga=2.91490522.1329802670.1678997221-1584211976.1671138634#main
+
 # Privacy Policy
 /privacy /privacy_policy
 /privacies /privacy_policy
