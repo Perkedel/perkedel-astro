@@ -4,4 +4,14 @@ import ButtonizedLink from "@components/ButtonizedLink.astro";
 const name:String = 'Dasandimian';
 ---
 <!-- pls button hello world -->
+<p>These sends API request to our Netlify functions <code>hello-world</code> with argument <code>name</code> filled with whatever name you like</p>
+<p>URL = <code>{Astro.url.origin}/api/hello-world?name=YOUR_NAME</code></p>
+<h3>Fixed Button</h3>
 <ButtonizedLink href={`/api/hello-world?name=${name}`}>Hello, {name}</ButtonizedLink>
+<h3>Customize</h3>
+<form action='/api/hello-world' method='post'>
+    <label for="name">Enter your Name:</label>
+    <input type='text' name='name' id='name'/>
+    <br/>
+    <input type='submit' value="Submit"/>
+</form>
