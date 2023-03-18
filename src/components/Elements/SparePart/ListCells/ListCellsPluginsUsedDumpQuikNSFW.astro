@@ -12,13 +12,15 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
+import DumpQuikRealizer from './DumpQuikRealizer.astro';
 
 const dumpQuik:Array<Array<string>> = [
     // [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
 ]
 ---
-{
+<!-- {
     dumpQuik.map(stuff => (
     <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
-}
+} -->
+<DumpQuikRealizer dumpQuik={dumpQuik} nsfw={true}/>

@@ -13,6 +13,7 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
+import DumpQuikRealizer from './DumpQuikRealizer.astro';
 
 export interface Props{
     nsfw?:boolean;
@@ -987,12 +988,59 @@ const dumpQuik:Array<Array<string>> = [
     [`https://youtu.be/6d5651XSuh0`,`Crash Bandicoot unused Cartoon cutscene`,`David Siller`,``], 
     [`https://youtu.be/18s7UGpHKj4`,`Friends | Crash Bandicoot 4 animation`,`Dr. Disappointment`,``], 
     [`https://youtu.be/p--N1gnSjbg`,`Pay it Forward`,`YouTube Film`,`<mark class='Paywalled'>PAYWALLED ASSET</mark>`], 
+    [`https://youtube.com/playlist?list=PLY4-sQjRYPBJdupXG-wfuos5yuWUZ1Ueh`,`HOLD ON TIM FOLLIN, IT'S JUST A VIDEO GAME MAN!!! | Playlist`,`Extreme Wreck 2000`,``], 
+    [`https://youtube.com/playlist?list=PLIeoKuc27VXUseoN9-6VGIQKps457EkpQ`,`The Best of Tim Follin | Playlist`,`SinedKMK`,``], 
+    [`https://youtube.com/@sora_sakurai_en`,`Masahiro Sakurai EN YouTube Channel`,``,`Videos about video games & aspects of each, both internal & external works.`], 
+    [`https://youtube.com/@sora_sakurai_jp`,`Masahiro Sakurai JP YouTube Channel`,``,`Videos about video games & aspects of each, both internal & external works.`], 
+    [`https://www.youtube.com/live/pYutA8gUu-E?feature=share`,`Gura's first ever 3D Showcase`,`Gawr Gura`,`Gura finally got 3D avatar yey!`], 
+    [`https://youtu.be/w_-TXC_UytE`,`I'm Gawr Gura & you're watching on Gura Channel.`,`Kuromi clip`,`Draw Disney but Hololive triangle.`], 
+    [`https://youtu.be/w_-TXC_UytE`,`Hungry Pumpkin game`,`shaliek`,``], 
+    [`https://youtu.be/TeRLBf0NJMw`,`Windows 10 x Intel Commercial`,`reupload XXP_XxW1ndows7_Xx`,``], 
+    [`https://youtube.com/@searme`,`Sariel.pl YouTube Channel`,``,`LEGO bricks ft. hamster`], 
+    [`https://youtu.be/TRSqLPyCnfg`,`LEGO Pneumatic Air storage Air tank`,`Builderdude35`,``], 
+    [`https://en.wikipedia.org/wiki/Djimon_Hounsou?wprov=sfla1`,`Djimon Hounsou (Reza Kecap) Wikipedia`,``,``], 
+    [`https://youtu.be/1Dq9n83_9bs`,`Vexento - Never Letting Go`,``,``], 
+    [`https://youtu.be/R9LrSuGqQRo`,`ANGELPLAYA - PSYCHOPATHIC [NCS Release]`,``,``], 
+    [`https://youtu.be/anOApXWUS4I`,`Mark's Pizzeria! Did you know, Ca ca ca arjkhgjlksdhgflkjsdfjlk`,`premno`,``], 
+    [`https://youtu.be/JF3137IRxME`,`Mark's Pizzeria! Did you know, Ca ca ca arjkhgjlksdhgflkjsdfjlk Spamton`,`Gooseworx`,`Spamton Unintelligible`], 
+    [`https://youtu.be/89FJlrdBttg`,`Mark's Pizzeria! Did you know, Ca ca ca arjkhgjlksdhgflkjsdfjlk 2022`,`BACKUPCHANGER`,``], 
+    [`https://youtu.be/FZdTPrJ-3r4`,`Mark's Pizzeria! Did you know, Ca ca ca arjkhgjlksdhgflkjsdfjlk HD`,`ptolemist`,``], 
+    [`https://youtu.be/5JDEii2FZtY`,`Mark's Pizzeria New Commercial`,`Mark's Pizzeria`,``], 
+    [`https://youtu.be/_pe-q2UaDG0`,`Mark's Pizzeria Vintage Commercial`,`Mark's Pizzeria`,``], 
+    [`https://youtu.be/dKLLa72DERY`,`azumanga daioh oh my gah CRT`,`Salvatore La Porta`,``], 
+    [`https://youtu.be/nlLhw1mtCFA`,`azumanga daioh oh my gah`,`Brolita`,``], 
+    [`https://youtu.be/7JTv1PJ8WU8`,`azumanga daioh best moments`,`obama the 16th`,``], 
+    [`https://youtube.com/@MicroChargers`,`MicroChargers YouTube Channel`,``,`MicroChargers is a tiny car that races when charged using the charger. There are 2 types: Race (Blue Bottom), & Stunt (Red Bottom). The car gets fully charged in about 10 second thanks to its capacitor that stores the energy. Onces charged, the car always runs until the energy ran out. Each full charge can run up to about 8 laps.`], 
+    [`https://youtu.be/nC-bVtpIMd4`,`Leaf & Optie - Mope Mope`,``,`<mark class='warning'>HORROR TWISTED CREEPY</mark> Kid unfriendly horror twisted flower dance song`], 
+    [`https://gamebanana.com/mods/310282`,`FNF Mod vs. Mope Mope`,`Sector03`,`<mark class='warning'>HORROR TWISTED CREEPY</mark> Kid unfriendly horror twisted flower dance song`], 
+    [`https://youtu.be/24yPYT5reo0`,`Bingky`,`Vash`,``], 
+    [`https://youtu.be/xw4NUpLTbSE`,`Korone Hololive x Yokai Watch, Doko steal`,`TR-AX`,``], 
+    [`https://youtu.be/lTw20-gAL2U`,`Korone got jumpscared by SOAP`,`Kamitsurugi`,``], 
+    [`https://youtube.com/shorts/zk1E6tyTU2M?feature=share`,`Korone tracing her contours`,`hololivetodayholoiveclips7249`,``], 
+    [`https://youtu.be/6RgRggOFmIQ`,`Korone said WHAT!?!?!?`,`Haki`,`<i>i am dji ${nsfw?`AAS`:`888`}</i>`], 
+    [`https://youtu.be/EjamOu91BlU`,`Korone wat teh faq wtf, Valhalla ending reaction`,`Auris Ch.`,``], 
+    [`https://youtu.be/m00S8DSgrx4`,`Korone wat teh faq wtf, Valhalla ending reaction ZOOMED IN`,`Just Shark`,``], 
+    [`https://youtu.be/A0bemVGKSwg`,`Korone, Subaru, Pekora, Marine voiced mecha anime`,`JShay translations`,``], 
+    [`https://youtu.be/z6GDAPH8es4`,`Korone, Subaru, Pekora, Marine voiced mecha anime`,`LEVEL5Ch`,``], 
+    [`https://youtu.be/GSSLFXGp6FE`,`Ayunda Risu $1000 Donation alert evolution 2021 to 2023`,`Ninja Shark clip`,``], 
+    [`https://youtu.be/YpASqpjQUIc`,`Hololive members reaction to their own special skills in Holocure game`,`SuiVirus CH`,``], 
+    [`https://youtu.be/5HIAbc0cqx0`,`Star Wars Hololive Moona vs. Kiara, ft. Pekora`,`pls jp name`,``], 
+    [`https://youtu.be/aS5yT9dnu7I`,`jerma clips to show my dad`,`Tired Clemont`,``], 
+    [`https://youtu.be/EsRUQx4RNTg`,`Asobi Asobase Best Funny Moments Pt. 1`,`Fujiwara Kun`,``], 
+    [`https://youtube.com/@AiAngel`,`Ai Angel (Angelica) YouTube Channel`,``,`Vtuber 3D high poly avatar, She/Her/It/Angelica.exe`], 
+    [`https://youtu.be/Fty3Nzc-oiY`,`The Chordettes Live Show, Lollipop & Mr. Sandman`,`NRRArchives`,``], 
+    [`https://youtu.be/A58XxvjrMkg`,`The Cordettes - Lollipop`,``,``], 
+    [`https://youtu.be/3rYoRaxgOE0`,`The Cordettes - Lollipop, Karaoke`,`rockomotive`,``], 
+    [`https://youtu.be/kvazBqAlx58`,`Paul Anka - Put Your Head On My Shoulder`,``,``], 
+    [`https://youtu.be/8Nzy1cfnKh4`,`Vera Lynn - We'll Meet Again`,``,``], 
+    [`https://youtu.be/tTY5rCEPvlI`,`Pay it Forward, Trevor's death scene`,`Charles L. McGill`,`<mark class='warning'>SHOCKING TRAUMATIC</mark>`], 
     
     
 ]
 ---
-{
+<!-- {
     dumpQuik.map(stuff => (
     <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
-}
+} -->
+<DumpQuikRealizer dumpQuik={dumpQuik} nsfw={nsfw}/>

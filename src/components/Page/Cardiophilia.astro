@@ -17,6 +17,7 @@ import ListCellsCardiophileDiscordSFW from '@components/Elements/SparePart/ListC
 import ListCellsCardiophileDiscordNSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileDiscordNSFW.astro';
 import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 import CardiophileQuality from '@components/Elements/SparePart/Tables/CardiophileQuality.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -52,7 +53,7 @@ const{
             <KolmoIsOverwhelmed/>
             <ul>
                 <ListCellsCardiophileSFW nsfw={nsfw}/>
-                {nsfw?<ListCellsCardiophileNSFW/>:""}
+                {nsfw?<BeginningOfNSFW/><ListCellsCardiophileNSFW/>:""}
             </ul>
         <h2>Psst! Got more heart beat stuff gamers can download?</h2>
             <p>
@@ -119,7 +120,7 @@ const{
             </p>
                 <ul>
                     <ListCellsCardiophileDiscordSFW/>
-                    {nsfw?<ListCellsCardiophileDiscordNSFW/>:""}
+                    {nsfw?<BeginningOfNSFW/><ListCellsCardiophileDiscordNSFW/>:""}
                     <li>Have some arts & videos too stingy to share & force gamers to join your Discord server? Or maybe have a place to just wanna hang out & share heartbeat live to each other? <a href={'https://github.com/Perkedel/perkedel-astro/issues/new?assignees=JOELwindows7&labels=enhancement&template=proposal.yml'} target="_blank" rel="noopener noreferrer">Propose here!</a> use this keywords in the title: <code>Discord Invite</code>
                     <br/>
                     <span style='font-size:small;'>Sir, you are not <a href={'https://twitter.com/dbrand'} target="_blank" rel="noopener noreferrer">dbrand</a>! Pls, do not insult exclusive people!</span>

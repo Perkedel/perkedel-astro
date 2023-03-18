@@ -50,6 +50,7 @@ export default defineConfig({
              * optional
              **/
             //icon: 'src/images/your-icon.svg', // source for favicon & icons
+            icon: 'public/assets/svg/Perkedel_ASTR_logo.svg', // source for favicon & icons
 
             short_name: 'Perkedel',
             description: 'Perkedel ASTR+NTLF. Perkedel Technologies Official Website',

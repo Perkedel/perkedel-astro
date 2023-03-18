@@ -15,6 +15,7 @@ import ListCellsCardiophileSFW from '@components/Elements/SparePart/ListCellsCar
 import ListCellsCardiophileNSFW from '@components/Elements/SparePart/ListCellsCardiophileNSFW.astro';
 import ListCellsCSSSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSSFW.astro';
 import ListCellsCSSNSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSNSFW.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -40,7 +41,7 @@ const{
         <h2>What to do?</h2>
         <ul>
             <ListCellsCSSSFW/>
-            {nsfw?<ListCellsCSSNSFW/>:""}
+            {nsfw?<BeginningOfNSFW/><ListCellsCSSNSFW/>:""}
         </ul>
 
         {nsfw?"":

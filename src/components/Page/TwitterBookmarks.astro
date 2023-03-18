@@ -15,6 +15,7 @@ import ListCellsTwitterBookmarksNSFW from '@components/Elements/SparePart/ListCe
 import CorePage from './__CorePage.astro';
 import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
 import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -57,6 +58,6 @@ const{
         <h3>Bookmarks</h3>
             <ul>
                 <ListCellsTwitterBookmarksSFW/>
-                {nsfw?<ListCellsTwitterBookmarksNSFW/>:""}
+                {nsfw?<BeginningOfNSFW/><ListCellsTwitterBookmarksNSFW/>:""}
             </ul>
 </CorePage>

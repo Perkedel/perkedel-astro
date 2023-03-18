@@ -11,6 +11,7 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import CorePage from '../__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -76,6 +77,7 @@ rel="noopener noreferrer"
                 </ButtonizedLink>
             </li>
         ))}
+        {nsfw?<BeginningOfNSFW/>:``}
         {nsfw?linksNSFW.map(datas =>(
             <li>
                 <ButtonizedLink 

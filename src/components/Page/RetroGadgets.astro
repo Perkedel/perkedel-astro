@@ -14,6 +14,7 @@ import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astr
 import CorePage from './__CorePage.astro';
 import ListCellsRetroGadgetsSFW from '@components/Elements/SparePart/ListCells/ListCellsRetroGadgetsSFW.astro';
 import ListCellsRetroGadgetsNSFW from '@components/Elements/SparePart/ListCells/ListCellsRetroGadgetsNSFW.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -38,7 +39,7 @@ const{
         <!-- <p>pls build playlist! <a href="https://steamcommunity.com/id/perkedeltech/myworkshopfiles/?appid=1730260">my workshops</a></p> -->
         <ul>
             <ListCellsRetroGadgetsSFW/>
-            {nsfw?<ListCellsRetroGadgetsNSFW/>:""}
+            {nsfw?<BeginningOfNSFW/><ListCellsRetroGadgetsNSFW/>:""}
         </ul>
 
 </CorePage>

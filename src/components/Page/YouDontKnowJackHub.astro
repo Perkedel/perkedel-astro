@@ -15,6 +15,7 @@ import DownloadShowHideListCell from '@components/Elements/SparePart/Options/Dow
 import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 import ListCellsYDKJSFW from '@components/Elements/SparePart/ListCells/ListCellsYDKJSFW.astro';
 import ListCellsYDKJNSFW from '@components/Elements/SparePart/ListCells/ListCellsYDKJNSFW.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -35,7 +36,7 @@ const{
     <p id="hitMeUpWithCategory">Where Jack's you wanna go?</p>
     <ul>
         <ListCellsYDKJSFW nsfw={nsfw}/>
-        {nsfw?<ListCellsYDKJNSFW nsfw={nsfw}/>:""}
+        {nsfw?<BeginningOfNSFW/><ListCellsYDKJNSFW nsfw={nsfw}/>:""}
     </ul>
     <script is:inline slot="afterMainScript">
         const sayHit = [

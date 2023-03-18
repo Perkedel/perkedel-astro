@@ -12,6 +12,7 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
+import DumpQuikRealizer from './DumpQuikRealizer.astro';
 
 export interface Props{
     nsfw?:boolean;
@@ -27,10 +28,13 @@ const dumpQuik:Array<Array<string>> = [
     // [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
     [`https://vt.tiktok.com/ZS84ubgnK/`,`tried Stemoscope Pro`,`Hearbeat Texas`,``],
     [`https://youtu.be/Wc9msdwasnc`,`Karra's heart`,`TenebrisDaWriter`,``],
+    [`https://youtu.be/2LPboySOSvo`,`Multi-scale Multi-physics Heart Simulator UT-Heart`,`SCLS`,``],
+    [`https://youtu.be/-qLKaEKTj8I`,`MHA My Hero Academia Jirou Kyoka moments`,`Cosplay-FTW 2 Clips`,`Jirou Kyoka. Quirks: Headphone Jack <span style='font-size:small;'>(not to be confused with <b>HEADPHONE JACK</b> technology in OpenCX devices)</span>. This quirks does: Boosted listen peeping, Audio boosting (rumbles & destroys attack area). Name of the skill involves <i>Heartbeat</i>`],
 ]
 ---
-{
+<!-- {
     dumpQuik.map(stuff => (
     <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
-}
+} -->
+<DumpQuikRealizer dumpQuik={dumpQuik} nsfw={nsfw}/>

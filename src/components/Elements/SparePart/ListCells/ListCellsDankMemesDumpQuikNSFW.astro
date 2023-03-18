@@ -13,6 +13,7 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
+import DumpQuikRealizer from './DumpQuikRealizer.astro';
 
 const dumpQuik:Array<Array<string>> = [
     // Sauce URL, Button Label, Author, Info
@@ -104,11 +105,13 @@ const dumpQuik:Array<Array<string>> = [
     [`https://twitter.com/kvxart/status/1635463112072785920?s=20`,`Vtuber hotdog sucking Live2D model Marin Kitagawa`,`kvxart`,`<mark class='Paywalled'>PAYWALLED ASSET</mark>, Patreon <a href='https://www.patreon.com/Kvxart' target="_blank" rel="noopener noreferrer">kvxart</a>`], 
     [`https://youtu.be/GjI0Iv2CX98`,`Gus Fring buff`,`Daniel Ahisar`,`actor Giancarlo is indeed buff`], 
     [`https://id.scribd.com/document/486162037/Doujinesia-Fall-Out-Angel`,`(Doujinesia) Fall Out Angel`,`reupload thok inc`,`pls archive all images`], 
+    [`https://youtu.be/s9Fo-4JJuQI`,`FROM 90 to 180 AN ANGLE IS OBTUSE (sudut tumpul)`,`reupload Amrmans2`,`Butt`], 
     
 ]
 ---
-{
+<!-- {
     dumpQuik.map(stuff => (
     <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <span set:html={stuff[2]}>. </span><span set:html={stuff[3]}></span></li>
     ))
-}
+} -->
+<DumpQuikRealizer dumpQuik={dumpQuik} nsfw={true}/>

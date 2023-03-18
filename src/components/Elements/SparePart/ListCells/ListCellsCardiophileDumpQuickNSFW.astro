@@ -12,13 +12,18 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
+import DumpQuikRealizer from './DumpQuikRealizer.astro';
 
 const dumpQuik:Array<Array<string>> = [
     // [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
+    [`https://drive.google.com/drive/folders/11ZzLQsDjgMHRoEMhW7xg0xIHW0rY7Biq`,`IchorMongrel's Heart Community Folder`,`Ichor Mongrel`,``, `display:none;`],
+    [`https://www.dropbox.com/scl/fo/0iz5pnypr8j8sdmnwhqyk/h?dl=0&rlkey=z1yl30o8v1qxh1c9qeno6h5yn`,`luna ssaki's Heart Community Folder`,`luna ssaki`,``, `display:none;`],
+    [`https://www.dropbox.com/sh/hi7uqdubgmgpvf9/AACsYjAsFAHua3udGwhsjguha?dl=0`,`A.Y's Heart Collection Folder`,`A.Y`,`<mark>PLS PRESERVE ALL!!!</mark>`, `display:none;`],
 ]
 ---
-{
+<!-- {
     dumpQuik.map(stuff => (
     <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
-}
+} -->
+<DumpQuikRealizer dumpQuik={dumpQuik} nsfw={true}/>

@@ -12,7 +12,7 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
-
+import DumpQuikRealizer from './DumpQuikRealizer.astro';
 export interface Props{
     nsfw?:boolean;
 
@@ -29,8 +29,9 @@ const dumpQuik:Array<Array<string>> = [
     [`https://decamarks.neocities.org/spamton`,`Spamton Blender Rig`,`Decamarks`,`& it's $0! Go check it out!!!`],
 ]
 ---
-{
+<!-- {
     dumpQuik.map(stuff => (
     <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
-}
+} -->
+<DumpQuikRealizer dumpQuik={dumpQuik} nsfw={nsfw}/>

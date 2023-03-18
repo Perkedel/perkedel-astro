@@ -13,6 +13,7 @@ import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DMod
 import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
 import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
 import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -50,13 +51,13 @@ const{
                 <p>Models that are available right now</p>
                 <ul>
                     <ListCells3DModelSFW nsfw={nsfw}/>
-                    {nsfw?<ListCells3DModelNSFW/>:""}
+                    {nsfw?<BeginningOfNSFW/><ListCells3DModelNSFW/>:""}
                 </ul>
             <h3 class="error">Wanted 3D Models</h3>
                 <p>Models that are <b>gone</b> &/or are <b>wanted right now</b> &/or <b>is not $0 & not found the same or better quality for $0</b> <Fragment set:html={nsfw?"&/or <b><mark>Exists but is kamatussa (lacks bare skin parts especially reproductives like nipples & vagina) as well as inner organs</mark></b>":""}></Fragment></p>
                 <ul>
                     <SoughtAfterCells3DModelsSFW nsfw={nsfw}/>
-                    {nsfw?<SoughtAfterCells3DModelsNSFW/>:""}
+                    {nsfw?<BeginningOfNSFW/><SoughtAfterCells3DModelsNSFW/>:""}
                 </ul>
                 <PlsReupload3DModels nsfw={nsfw}/>
 

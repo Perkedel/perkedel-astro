@@ -16,7 +16,7 @@ import CorePage from './__CorePage.astro';
 import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
 import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 import HarrassedByYouTubeAgain from '@components/Messages/HarrassedByYouTubeAgain.astro';
-
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 export interface Props{
     nsfw?:Boolean;
 }
@@ -44,6 +44,6 @@ const{
     <h2>What to do?</h2>
         <ul>
             <ListCellsDankMemesSFW nsfw={nsfw}/>
-            {nsfw?<ListCellsDankMemesNSFW/>:""}
+            {nsfw?<BeginningOfNSFW/><ListCellsDankMemesNSFW/>:""}
         </ul>
 </CorePage>

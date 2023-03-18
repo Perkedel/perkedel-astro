@@ -12,15 +12,22 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
-import DumpQuikRealizer from './DumpQuikRealizer.astro';
 
-const dumpQuik:Array<Array<string>> = [
-    // [`https://youtube.com/playlist?list=PLoenwhUTF1kFzQ8rggbQDLCmLLiOJTpSR`,`Joel's Memes YouTube Playlist`,`JOELwindows7`,`Yes, my meme!`],
-]
+export interface Props{
+    nsfw?:boolean;
+    dumpQuik:Array<Array<String>>;
+}
+
+const{
+    nsfw=false,
+    dumpQuik = [
+        // Sauce URL, Button Label, Author, Info, list style, list class, button style, button class
+        [`https://example.com`,`Example`,`Author`,`Info`, ``, ``, ``, ``]
+    ],
+}= Astro.props.frontmatter || Astro.props as Props;
 ---
-<!-- {
+{
     dumpQuik.map(stuff => (
-    <li><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" set:html={stuff[1]}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
+    <li style={stuff[4]} class={stuff[5]}><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" style={stuff[6]} classe={stuff[7]} set:html={stuff[1] + ` ` + (nsfw?`<mark class='warning'>🥵 NSFW</mark>`:``)}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
-} -->
-<DumpQuikRealizer dumpQuik={dumpQuik} nsfw={true}/>
+}
