@@ -481,9 +481,11 @@ function getJSONP(url, success) {
 }
 
 let kludgeringDatasoid;
+let kludgeringDatasoidNSFW;
 let daWordOfIt = [];
 let daWordOfItNSFW = [];
-
+let loaded = false
+let loadedNSFW = false
 
 
 // Generate Word pls
@@ -594,11 +596,67 @@ function getJSONF(url, kludgeGenerateWord = false, kludgeIncludeNSFW = true) {
             // idk how to pause that function above until these here complete.
         });
 }
+
+function getJSONG(url, kludgeGenerateWord = false, forNSFW = false) {
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            kludgeringDatasoid = data;
+            if (forNSFW) {
+                daWordOfItNSFW = data.daWord;
+                loaded = true
+            } else {
+                daWordOfIt = data.daWord;
+                loadedNSFW = true
+            }
+            if (kludgeGenerateWord)
+                regenerateWord();
+            // idk how to pause that function above until these here complete.
+        });
+}
+
+function getJSONH(url, urlNSFW, kludgeGenerateWord = false, forNSFW = false) {
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+            kludgeringDatasoid = data;
+            daWordOfIt = data.daWord;
+            fetch(urlNSFW)
+                .then(response => response.json())
+                .then(dataNSFW => {
+                    console.log(dataNSFW);
+                    kludgeringDatasoidNSFW = dataNSFW;
+                    daWordOfItNSFW = kludgeIncludeNSFW ? dataNSFW.daWord : [];
+                    // return data;
+                    if (kludgeGenerateWord)
+                        regenerateWord();
+                    // idk how to pause that function above until these here complete.
+                });
+            // idk how to pause that function above until these here complete.
+        });
+}
 // getJSONF('/generateWord.json').then(data => {
 //     regenerateWord();
 // });
 getJSONF('/assets/json/funnyWords/generateWord.json', true, true);
 // regenerateWord();
+function initGenerateWord() {
+    loaded = false
+    loadedNSFW = false
+    getJSONG('/assets/json/funnyWords/generateWord.json', false, false);
+    getJSONG('/assets/json/funnyWords/generateWordNSFW.json', false, true);
+    while (!(loaded || loadedNSFW)) {
+
+        if (loaded && loadedNSFW) {
+
+            regenerateWord();
+            break;
+        }
+    }
+}
+// initGenerateWord();
 
 function fillJSONF(url) {
     fetch(url)
@@ -849,3 +907,5 @@ by JOELwindows7
 Perkedel Technologies
 GNU-AGPLv3
 */
+U - AGPLv3 *
+    /
