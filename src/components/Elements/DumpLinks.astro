@@ -1,4 +1,12 @@
 ---
+import axios from "axios";
+import cheerio from "cheerio";
+
+type saucing = {
+    title: string | undefined | null;
+    url:string | undefined | null;
+}
+
 const linksDumped:Array<string>=[
     ' https://docs.astro.build/en/core-concepts/endpoints/',
     ' https://docs.astro.build/en/reference/configuration-reference/',
@@ -589,11 +597,70 @@ const linksDumped:Array<string>=[
     'https://beritadiy.pikiran-rakyat.com/?_gl=1*1pwe7q0*_ga*WkFJZkFXeW5EdXVKVU5yUXlyMlVFNjBDSFZrWktHd1VQamV5bWx4Rmt2U1YwX1FycFhKLVJ6dlhMbUZ6VEtvMg..',
     'https://html.spec.whatwg.org/',
     'https://www.w3schools.com/html/html_quotation_elements.asp',
+    'https://royalcentral.co.uk/uk/queen/the-queens-secret-handbag-code-77573/',
+    'https://stackoverflow.com/a/35649085/9079640',
+    'https://destiner.io/blog/post/astro-extracting-common-meta-tags-into-a-separate-file/',
+    'https://heads0rtai1s.github.io/2020/01/23/rvest-intro-astro/',
+    'https://github.com/scrapinghub/extruct',
+    'https://stackoverflow.com/a/73216022/9079640',
+    'https://stackoverflow.com/a/73192869/9079640',
+    'https://stackoverflow.com/questions/73191546/get-only-html-head-from-url',
+    'https://www.excel-medical.com/why-taking-a-deep-breath-when-the-doctor-uses-a-stethoscope-is-important/#:~:text=When%20a%20stethoscope%20is%20placed,better%20listen%20to%20the%20lungs.',
+    'https://www.standard.co.uk/insider/royals/the-secret-meaning-behind-the-queen-s-handbag-signals-a4085511.html',
 ]
+
+let sauceInfos:Array<Array<string | null | undefined>> = [];
+// let sauceJson:{[key: number]: Partial<saucing>} = [{}]
+let sauceJson:[{[key: string]: Partial<saucing>}];
+
+for (let i=0; i < linksDumped.length; i++){
+    sauceInfos[i] = [``,``];
+    sauceInfos[i][1] = linksDumped[i];
+
+    // https://stackoverflow.com/a/73192869/9079640
+    axios.get(linksDumped[i])
+    .then(html => {
+        const document = html.data
+
+        // get the start index and the end index of the head
+        const startHead = document.indexOf("<head>")
+        const endHead = document.indexOf("</head>") + 7
+
+        //get the head as a string
+        const head = document.slice(startHead, endHead)
+        
+        // load cheerio
+        const cheeriog = cheerio.load(head)
+
+        // get the title from the head which is loaded into cheerio
+        // console.log(cheeriog("title").html())
+        
+        // no, put the title & stuff in this special sauceInfo variables
+        // sauceInfos[i] = 
+        // [
+        // cheeriog("title").html(),
+        // linksDumped[i],
+        // ]
+        sauceInfos[i][0] = cheeriog("title").html();
+        // sauceJson[i] = {
+        //     title: cheeriog("title").html(),
+        //     url: linksDumped[i],
+        // }
+    })
+    .catch(e => console.log(e));
+    // BUG: pls fix, not working! make the same but without async like above!
+}
 ---
 <ul>
-    {linksDumped.map(link => (
-        <li><a href={link} target="_blank" rel="noopener noreferrer">{link}</a></li>
+    <!-- {linksDumped.map(link => (
+        <li><a href={link} target="_blank" rel="noopener noreferrer">{link}</a> </li>
+    ))} -->
+    <!-- {sauceJson.map(link => (
+        <li><a href={link} target="_blank" rel="noopener noreferrer">{link}</a> </li>
+    ))} -->
+    {sauceInfos.map(link => (
+        // <li><a href={link[1]} target="_blank" rel="noopener noreferrer">{link[0] || link[1]}</a> </li>
+        <li><a href={link[1]} target="_blank" rel="noopener noreferrer">{link[1]}</a> {link[0]}</li>
     ))}
 </ul>
 
