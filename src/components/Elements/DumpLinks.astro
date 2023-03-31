@@ -1,6 +1,8 @@
 ---
 import axios from "axios";
 import cheerio from "cheerio";
+import DOMParser from 'dom-parser';
+const parser = new DOMParser();
 
 type saucing = {
     title: string | undefined | null;
@@ -607,6 +609,37 @@ const linksDumped:Array<string>=[
     'https://stackoverflow.com/questions/73191546/get-only-html-head-from-url',
     'https://www.excel-medical.com/why-taking-a-deep-breath-when-the-doctor-uses-a-stethoscope-is-important/#:~:text=When%20a%20stethoscope%20is%20placed,better%20listen%20to%20the%20lungs.',
     'https://www.standard.co.uk/insider/royals/the-secret-meaning-behind-the-queen-s-handbag-signals-a4085511.html',
+    'https://atomiks.github.io/tippyjs/',
+    'https://cops.usdoj.gov/bluealert',
+    'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in',
+    'https://www.tutorialspoint.com/How-to-delay-a-JavaScript-function-call-using-JavaScript#:~:text=To%20provide%20delay%20in%20JavaScript,things%20of%20setTimeout()%20function.',
+    'https://www.npmjs.com/package/fast-html-dom-parser',
+    'https://stackoverflow.com/questions/7524585/how-do-i-get-the-information-from-a-meta-tag-with-javascript',
+    'https://developer.mozilla.org/en-US/docs/Web/API/DOMParser',
+    'https://stackoverflow.com/questions/154059/how-do-i-check-for-an-empty-undefined-null-string-in-javascript',
+    'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality',
+    'https://gomakethings.com/getting-html-with-fetch-in-vanilla-js/',
+    'https://stackoverflow.com/questions/36631762/returning-html-with-fetch',
+    'https://code-boxx.com/get-html-content-javascript-fetch/',
+    'https://www.w3schools.com/jsref/met_document_queryselector.asp',
+    'https://www.w3schools.com/jsref/api_fetch.asp',
+    'https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch',
+    'https://www-cnbcindonesia-com.cdn.ampproject.org/v/s/www.cnbcindonesia.com/news/20230330033306-4-425652/kronologi-ri-batal-tuan-rumah-u-20-pernyataan-lengkap-fifa/amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_ct=1680252893045&amp_tf=Dari%20%251%24s&aoh=16802528797632&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.cnbcindonesia.com%2Fnews%2F20230330033306-4-425652%2Fkronologi-ri-batal-tuan-rumah-u-20-pernyataan-lengkap-fifa',
+    'https://www-cnbcindonesia-com.cdn.ampproject.org/v/s/www.cnbcindonesia.com/news/20230330092601-4-425726/apa-penyebab-ri-batal-jadi-tuan-rumah-u-20-ini-kata-fifa/amp?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_ct=1680253068689&amp_tf=Dari%20%251%24s&aoh=16802528797632&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.cnbcindonesia.com%2Fnews%2F20230330092601-4-425726%2Fapa-penyebab-ri-batal-jadi-tuan-rumah-u-20-ini-kata-fifa',
+    'https://owen-wilson-wow-api.onrender.com/',
+    'https://astro-i18next.yassinedoghri.com/fr/',
+    'https://github.com/yassinedoghri/astro-i18next',
+    'https://mediaini.com/branding-promosi/2020/08/24/35595/perjalanan-sour-sally-sukses-hingga-pasar-mancanegara/?amp=1',
+    'https://fileformats.fandom.com/wiki/SubStation_Alpha',
+    'https://medium.com/seeds-for-the-future/tricking-chatgpt-do-anything-now-prompt-injection-a0f65c307f6b',
+    'https://www.wikiwand.com/',
+    'https://getliner.com/en',
+    'https://www.manualslib.com/manual/196284/Yamaha-Portable-Grand-Dgx-305.html?page=97#manual',
+    'https://bard.google.com/',
+    'https://boilingsteam.com/time-to-stop-using-and-recommending-solus/',
+    'https://developer.samsung.com/galaxy-store/galaxy-store-developer-api.html',
+    'https://developer.samsung.com/mobile/galaxy-sdk-getting-started.html',
+    'https://afkgaming-com.cdn.ampproject.org/v/s/afkgaming.com/amp/story/esports/news/7053-what-does-omegalul-mean-in-twitch-chat-and-where-did-it-originate?amp_gsa=1&amp_js_v=a9&usqp=mq331AQIUAKwASCAAgM%3D#amp_tf=Dari%20%251%24s&aoh=16798423970797&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fafkgaming.com%2Fesports%2Fnews%2F7053-what-does-omegalul-mean-in-twitch-chat-and-where-did-it-originate',
 ]
 
 let sauceInfos:Array<Array<string | null | undefined>> = [];
@@ -616,8 +649,14 @@ let sauceJson:[{[key: string]: Partial<saucing>}];
 for (let i=0; i < linksDumped.length; i++){
     sauceInfos[i] = [``,``];
     sauceInfos[i][1] = linksDumped[i];
+    // let response = await fetch(linksDumped[i]);
+    // let data = await response.text();
+    // let doc = parser.parseFromString(data,'text/html');
+    // sauceInfos[i][0] = doc.getElementsByTagName('title')[0];
+    // sauceInfos[i][0] = 'hello';
 
     // https://stackoverflow.com/a/73192869/9079640
+    /*
     axios.get(linksDumped[i])
     .then(html => {
         const document = html.data
@@ -648,6 +687,7 @@ for (let i=0; i < linksDumped.length; i++){
         // }
     })
     .catch(e => console.log(e));
+    */
     // BUG: pls fix, not working! make the same but without async like above!
 }
 ---

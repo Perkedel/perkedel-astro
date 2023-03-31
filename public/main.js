@@ -820,6 +820,17 @@ function openFullImage(at = '', withTitle = '', andAlt = null) {
 
 // TODO: open full image packs like above but next button
 
+// TODO: HiddenDisappear class, contents inside tag with this class deletes itself in few second
+let disappearsInMs = 60000;
+
+function hiddenDisappear() {
+    setTimeout(() => {
+        for (const thingy in document.getElementsByClassName('HiddenDisappear')) {
+            thingy.innerHTML = '';
+        }
+    }, disappearsInMs)
+}
+hiddenDisappear();
 
 /*
 Moar Dump

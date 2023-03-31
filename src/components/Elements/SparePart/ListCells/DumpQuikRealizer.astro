@@ -12,11 +12,19 @@ import Emoji from 'astro-emoji';
 import PlaySoundButton from '../PlaySoundButton.astro';
 import SpotifyContainsDRM from '@components/Messages/SpotifyContainsDRM.astro';
 // import { Time } from '@astro-github-elements/time';
+// import {DOMParser} from "dom-parser";
+import DOMParser from 'dom-parser';
+const parser = new DOMParser();
 
 export interface Props{
     nsfw?:boolean;
-    dumpQuik:Array<Array<String>>;
+    dumpQuik:Array<Array<string | undefined>>;
 }
+
+let dumpQuikAdd:Array<Array<string | undefined>> = [
+    [`https://example.com`,`Example`,`Author`,`Info`, ``, ``, ``, ``]
+];
+
 
 const{
     nsfw=false,
@@ -25,9 +33,25 @@ const{
         [`https://example.com`,`Example`,`Author`,`Info`, ``, ``, ``, ``]
     ],
 }= Astro.props.frontmatter || Astro.props as Props;
+
+for (let i=0;i<dumpQuik.length;i++){
+    dumpQuikAdd[i] = dumpQuik[i];
+    // let response = await fetch(dumpQuik[i][0]);
+    // let data = await response.text();
+    // let doc = parser.parseFromString(data,'text/html');
+
+    // // let's prepare just in case
+    // // let title = doc.querySelector('title');
+    // // let author = doc.querySelector('author');
+    // let title = doc.getElementsByTagName('title')[0];
+    // let author = doc.getElementsByName('author')[0];
+
+    // dumpQuikAdd[i][1] = dumpQuik[i][1] && dumpQuik[i][1] !== ''? dumpQuik[i][1] : title;
+    // dumpQuikAdd[i][2] = dumpQuik[i][2] && dumpQuik[i][2] !== ''? dumpQuik[i][2] : author;
+}
 ---
 {
     dumpQuik.map(stuff => (
-    <li style={stuff[4]} class={stuff[5]}><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" style={stuff[6]} classe={stuff[7]} set:html={stuff[1] + ` ` + (nsfw?`<mark class='warning'>🥵 NSFW</mark>`:``)}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
+    <li style={stuff[4]} class={stuff[5]}><ButtonizedLink href={stuff[0]} target="_blank" rel="noopener noreferrer" style={stuff[6]} classe={stuff[7]} set:html={(stuff[1] || stuff[0]) + ` ` + (nsfw?`<mark class='warning'>🥵 NSFW</mark>`:``)}></ButtonizedLink> <Fragment set:html={stuff[2]}> </Fragment>. <Fragment set:html={stuff[3] || ``}></Fragment></li>
     ))
 }
