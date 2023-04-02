@@ -1,0 +1,78 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import CorePage from './__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords={`fckdrm, digital rights management, drm, digital restriction management, cyberpunk, GOG, GOG.com, Good Ol' Games, Good Old Games, CD Projekt Red, CDPR`}
+    addDescriptions='FCKDRM'
+    addHeaderTitle='FCKDRM'
+    addMetaTitle='FCKDRM, the truth of DRMs'
+    author='JOELwindows7'
+    >
+    <!-- https://web.archive.org/web/20210126175016/https://fckdrm.com/ -->
+    <!-- fckdrm.com died -->
+    <p>Did you know that there's a killswitch in yourgames: books, music, movies, apps? It's called <b class='error' style='font-size:large;'>DRM</b>, and it can <u>block your access to the things you bought</u>. You can still take control by choosing DRM-free sources.<br/>
+    <!-- https://web.archive.org/web/20210126175016/https://twitter.com/share?ref_src=twsrc%5Etfw -->
+    <ButtonizedLink href='https://twitter.com/share?ref_src=twsrc%5Etfw' openInNewTab={true}>Tweet!</ButtonizedLink>
+    </p>
+
+    <h2>Quotes</h2>
+        <h3>Valve, (2008)</h3>
+            <div class='row QuoteFckDrm'>
+                <div class='column colLeft'>
+                    <img width="98%" class="" class='' src='/assets/img/fckdrm/newell_forbes.jpg'/>
+                </div>
+                <div class='column colVertCenter'>
+                    <p><q>As far as DRM goes, most DRM strategies are just dumb. The goal should be to create greater value for customers through service value (...), not by decreasing the value of a product</q> — <a target="_blank" rel="noopener noreferrer" href= 'https://arstechnica.com/gaming/2008/12/valve-calls-drm-stupid-microsoft-still-doesnt-get-it/'>Gabe Newell</a></p>
+                </div>
+            </div>
+            
+        <h3>Number None, creator of Braid and The Witness (2016)</h3>
+        <h3>Flying Wild Hog, creators of Shadow Warrior 2</h3>
+        <h3>Double Fine</h3>
+        <h3>Squad, creator of Kerbal Space Program</h3>
+        <h3>CD PROJEKT RED</h3>
+        <h3>Perkedel Technologies</h3>
+        <!-- <h3>Flying Wild Hog, creators of Shadow Warrior 2</h3> -->
+        <!-- <h3>Flying Wild Hog, creators of Shadow Warrior 2</h3> -->
+    <h2>About DRM</h2>
+        <h3>What is DRM?</h3>
+            <p>
+                Digital Rights Management, DRM, is a really broad term for tech that controls how, and when, digital content can be used - like your games, music, video, or books.
+            </p>
+            <p>
+                Games with DRM include a layer of software or code on top of what's needed to just play the game. Nowadays DRM will send your information to an online server, it could run checks to see if you touched any files, or outright refuse access unless you're logged in somewhere.
+            </p>
+            <p>
+                In other words, DRM is there to question <mark class='warning'>what you're doing every step of the way</mark>.
+            </p>
+        <h3>Why should you care about DRM?</h3>
+            <p>
+                Because there is a <strong class='error'>killswitch</strong> built into your games. Sure, DRM might not affect you right now, but corporations hold the key and they'll only let you in as long as you can <strong class='error'>repeatedly prove ownership</strong>. As long as <u>you're connected to the internet</u>. As long as their DRM works without fault. As long <u>they're still around</u>.
+            </p>
+        <h3>What's important about DRM-free?</h3>
+    <h2>Support DRM-Free</h2>
+        <h3>Support the cause and stay informed with these initiatives:</h3>
+        <h3>You have options! There are numerous sources of DRM-free art and media, including:</h3>
+</CorePage>

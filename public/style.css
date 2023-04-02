@@ -1673,6 +1673,43 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
   /* overflow-y: visible; */
 }
 
+/* ROW & COLLUMN PLS */
+
+.row:after, .Row:after{
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.column, .Column{
+    display: table-cell;
+    float:left;
+    width: 50%;
+    height:100%;
+}
+
+.colLeft, .ColLeft{
+    width:25%
+}
+
+.colRight, .ColRight{
+    width:75%
+}
+
+.colVertCenter, .ColVertCenter{
+    /* margin: 0;
+    position: absolute;
+    top: 50%; */
+    /* -ms-transform: translateY(-50%) !important;
+    transform: translateY(-50%) !important; */
+    /* -ms-transform: translateY(-50%) ;
+    transform: translateY(-50%) ; */
+    margin: auto;
+    /* width: 50%; */
+    height: 50%;
+    padding: 10px;
+}
+
 /* MEDIA PLS!!!! */
 
 
@@ -1843,6 +1880,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     }
     .BioLinks{
         /* width: 100%; */
+    }
+
+    .column, .Column, .colLeft, .ColLeft, .colRight, .ColRight{
+        width: 100%;
     }
 }
 
@@ -2190,6 +2231,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid cyan;
     }
 }
+
 
 
 /* } */
