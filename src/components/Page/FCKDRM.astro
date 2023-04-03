@@ -13,6 +13,10 @@ import Emoji from 'astro-emoji';
 import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
 import CorePage from './__CorePage.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import FCKDRMIcon from '@components/Icons/FCKDRMIcon.astro';
+import EFFIcon from '@components/Icons/EFFIcon.astro';
+import DeffectiveByDesignIcon from '@components/Icons/DeffectiveByDesignIcon.astro';
+import DRMCompare from '@components/Elements/SparePart/Tables/DRMCompare.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -29,9 +33,11 @@ const{
     addHeaderTitle='FCKDRM'
     addMetaTitle='FCKDRM, the truth of DRMs'
     author='JOELwindows7'
+    disableOverwhelmStatement={true}
     >
     <!-- https://web.archive.org/web/20210126175016/https://fckdrm.com/ -->
     <!-- fckdrm.com died -->
+    <Fragment slot='TitlePre'><FCKDRMIcon/> </Fragment>
     <p>Did you know that there's a killswitch in yourgames: books, music, movies, apps? It's called <b class='error' style='font-size:large;'>DRM</b>, and it can <u>block your access to the things you bought</u>. You can still take control by choosing DRM-free sources.<br/>
     <!-- https://web.archive.org/web/20210126175016/https://twitter.com/share?ref_src=twsrc%5Etfw -->
     <ButtonizedLink href='https://twitter.com/share?ref_src=twsrc%5Etfw' openInNewTab={true}>Tweet!</ButtonizedLink>
@@ -41,7 +47,7 @@ const{
         <h3>Valve, (2008)</h3>
             <div class='row QuoteFckDrm'>
                 <div class='column colLeft'>
-                    <img width="98%" class="" class='' src='/assets/img/fckdrm/newell_forbes.jpg'/>
+                    <img width="75%" class="SpecialityImageWide" class='' src='/assets/img/fckdrm/newell_forbes.jpg'/>
                 </div>
                 <div class='column colVertCenter'>
                     <p><q>As far as DRM goes, most DRM strategies are just dumb. The goal should be to create greater value for customers through service value (...), not by decreasing the value of a product</q> — <a target="_blank" rel="noopener noreferrer" href= 'https://arstechnica.com/gaming/2008/12/valve-calls-drm-stupid-microsoft-still-doesnt-get-it/'>Gabe Newell</a></p>
@@ -72,7 +78,68 @@ const{
                 Because there is a <strong class='error'>killswitch</strong> built into your games. Sure, DRM might not affect you right now, but corporations hold the key and they'll only let you in as long as you can <strong class='error'>repeatedly prove ownership</strong>. As long as <u>you're connected to the internet</u>. As long as their DRM works without fault. As long <u>they're still around</u>.
             </p>
         <h3>What's important about DRM-free?</h3>
+            <DRMCompare/>
     <h2>Support DRM-Free</h2>
         <h3>Support the cause and stay informed with these initiatives:</h3>
-        <h3>You have options! There are numerous sources of DRM-free art and media, including:</h3>
+            <ul>
+                <li><ButtonizedLink href={`https://www.defectivebydesign.org/`} openInNewTab={true}><DeffectiveByDesignIcon/> Deffective By Design</ButtonizedLink></li>
+                <li><ButtonizedLink href={`https://www.eff.org/issues/drm`} openInNewTab={true}><EFFIcon/> EFF</ButtonizedLink></li>
+            </ul>
+        <h3>You have options! There are numerous sources of DRM-free art and media, including*:</h3>
+            <ul>
+                <li>Music:
+                    <ul>
+                        <li><ButtonizedLink href={`https://bandcamp.com/`} openInNewTab={true}>Bandcamp</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://www.7digital.com/`} openInNewTab={true}>7Digital</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://www.emusic.com/`} openInNewTab={true}>emusic</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://www.jamendo.com/`} openInNewTab={true}>Jamendo</ButtonizedLink></li>
+                    </ul>
+                </li>
+                <li>Gaming:
+                    <ul>
+                        <li><ButtonizedLink href={`https://www.gog.com/`} openInNewTab={true}>GOG.com</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://itch.io/`} openInNewTab={true}>Itch.io</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`http://fireflowergames.com/`} openInNewTab={true}>FireFlower Games</ButtonizedLink></li>
+                    </ul>
+                </li>
+                <li>Books:
+                    <ul>
+                        <li><ButtonizedLink href={`https://www.gutenberg.org/`} openInNewTab={true}>Project Gutenberg</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://openlibra.com/en/`} openInNewTab={true}>OpenLibra</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://wikisource.org/`} openInNewTab={true}>WikiSource</ButtonizedLink></li>
+                    </ul>
+                </li>
+                <li>Video:
+                    <ul>
+                        <li><ButtonizedLink href={`https://odysee.com`} openInNewTab={true}>Odysee LBRY</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://archive.org/details/movies`} openInNewTab={true}>Moving Image Archive</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://vimeo.com/ondemand`} openInNewTab={true}>Vimeo On Demand</ButtonizedLink></li>
+                    </ul>
+                </li>
+                <li>Audiobooks:
+                    <ul>
+                        <li><ButtonizedLink href={`https://librivox.org/`} openInNewTab={true}>Librivox</ButtonizedLink></li>
+                    </ul>
+                </li>
+                <li>Assets:
+                    <ul>
+                        <li><ButtonizedLink href={`https://sketchfab.com`} openInNewTab={true}>Sketchfab</ButtonizedLink></li>
+                        <li><ButtonizedLink href={`https://open3Dlab.com`} openInNewTab={true}>Open3DLab</ButtonizedLink></li>
+                        {nsfw?
+                        <Fragment>
+                            <li><ButtonizedLink href={`https://smutba.se`} openInNewTab={true}>Smutbase</ButtonizedLink></li>
+                            <li><ButtonizedLink href={`https://sfmlab.com`} openInNewTab={true}>SFMLab</ButtonizedLink></li>
+                        </Fragment>
+                        :``}
+                    </ul>
+                </li>
+            </ul>
+            <p style='font-size:x-small;'>
+                * Disclaimer:
+                <ul>
+                    <li>Does not include obvious pirate / sparsdat site nor site designed for piracy / sparsdat submissions</li>
+                    <li>May contains softwares & assets that are non-free both in beer & freedom</li>
+                </ul>
+            </p>
+    <p><s>FCK DRM is an initiative by GOG.COM to promote DRM-free art and media. If you're the owner of a 100% DRM-free source and would like to be featured here, please reach out to <a href='mailto:iwantto@fckdrm.com'>iwantto@fckdrm.com</a>.</s> Initiative deactivated. Now is fan reinitiative. Please create proposal issue in our GitHub Issues instead.</p>
 </CorePage>

@@ -1,0 +1,39 @@
+---
+import FCKDRMCorrect from "@components/Icons/FCKDRMCorrect.astro";
+import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
+
+const Tabling = [
+    // Features, Description, DRM-FREE, DRM
+    [`Backup, copy, use anywhere`, `No one else gets a say in how you store and access your media. You bought it, you own it.`, true, false],
+    [`Access offline`, `Don't rely on your internet connection. If not on principle, then for stability and convenience.`, true, false],
+    [`Keep your consumer rights`, `Don’t hand your rights over to corporations that wouldn't trust you. Some relationships are based on trust, others on control and suspicion.`, true, false],
+    [`Support digital preservation`, `By choosing the right sources, you know that the content you bought will remain with you — no matter when it was created or for what hardware.`, true, false],
+    [`Lose all access, just like that`, `Online ownership checks can, and do, fail. Scheduled downtime, technical issues, and corporations shutting down are just everyday facts of life.`, false, true],
+]
+
+// ALT + (0, 1, 5, 1) = `—` LONG DASH
+---
+<table id='DRMComparison'>
+    <thead>
+        <th></th>
+        <th class='success'>DRM-FREE</th>
+        <th>DRM</th>
+    </thead>
+    <tbody>
+        {Tabling.map((thing)=>(
+            <tr>
+                <td>
+                    <span set:html={thing[0]} style='font-size:x-large;font-weight: bold;'></span>
+                    <br/>
+                    <Fragment set:html={thing[1]}/>
+                </td>
+                <td>
+                    {thing[2]?<FCKDRMCorrect/>:<FCKDRMWrong/>}
+                </td>
+                <td>
+                    {thing[3]?<FCKDRMCorrect/>:<FCKDRMWrong/>}
+                </td>
+            </tr>
+        ))}
+    </tbody>
+</table>
