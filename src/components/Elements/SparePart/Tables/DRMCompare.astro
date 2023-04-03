@@ -13,27 +13,29 @@ const Tabling = [
 
 // ALT + (0, 1, 5, 1) = `—` LONG DASH
 ---
-<table id='DRMComparison'>
-    <thead>
-        <th></th>
-        <th class='success'>DRM-FREE</th>
-        <th>DRM</th>
-    </thead>
-    <tbody>
-        {Tabling.map((thing)=>(
-            <tr>
-                <td>
-                    <span set:html={thing[0]} style='font-size:x-large;font-weight: bold;'></span>
-                    <br/>
-                    <Fragment set:html={thing[1]}/>
-                </td>
-                <td>
-                    {thing[2]?<FCKDRMCorrect/>:<FCKDRMWrong/>}
-                </td>
-                <td>
-                    {thing[3]?<FCKDRMCorrect/>:<FCKDRMWrong/>}
-                </td>
-            </tr>
-        ))}
-    </tbody>
-</table>
+<div style='overflow-x:auto;'>
+    <table id='DRMComparison'>
+        <thead>
+            <th></th>
+            <th class='success'>DRM-FREE</th>
+            <th>DRM</th>
+        </thead>
+        <tbody>
+            {Tabling.map((thing)=>(
+                <tr>
+                    <td>
+                        <span set:html={thing[0]} style='font-size:x-large;font-weight: bold;'></span>
+                        <br/>
+                        <Fragment set:html={thing[1]}/>
+                    </td>
+                    <td>
+                        {thing[2]?<FCKDRMCorrect/>:<FCKDRMWrong/>}
+                    </td>
+                    <td>
+                        {thing[3]?<FCKDRMCorrect/>:<FCKDRMWrong/>}
+                    </td>
+                </tr>
+            ))}
+        </tbody>
+    </table>
+</div>

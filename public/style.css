@@ -1885,6 +1885,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     .column, .Column, .colLeft, .ColLeft, .colRight, .ColRight{
         width: 100%;
     }
+    .colVertCenter, .ColVertCenter{
+        margin: 0;
+        padding: 0;
+    }
 }
 
 @media only print {
