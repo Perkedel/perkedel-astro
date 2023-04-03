@@ -49,7 +49,7 @@ const{
     rating={(nsfw?"adult":"")}
     >
     <!-- <h1>{addHeaderTitle} {noNeedNSFW?"":"("+(nsfw?"FULL":"LITE")+" VERSION)"}</h1> -->
-    <h1><slot name='TitlePre'/><Fragment set:html={addHeaderTitle + (noNeedNSFW?"":" ("+(nsfw?"FULL":"LITE")+" VERSION)")}></Fragment> <slot name='TitleExtra'/></h1>
+    <h1><slot name='TitlePre'/><Fragment set:html={addHeaderTitle}/><slot name='TitleExtra'/><Fragment set:html={(noNeedNSFW?"":" ("+(nsfw?"FULL":"LITE")+" VERSION)")}/><slot name='TitleAfter'/></h1>
         {disableOverwhelmStatement?"":<KolmoIsOverwhelmed/>}
         <slot>
             <p class="error"><i>Empty content!!!</i></p>
