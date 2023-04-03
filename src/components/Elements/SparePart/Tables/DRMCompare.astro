@@ -25,10 +25,10 @@ const Tabling = [
                 <tr>
                     <td>
                         <span set:html={thing[0]} style='font-size:x-large;font-weight: bold;'></span>
-                        <br/>
+                        <br/><br/>
                         <Fragment set:html={thing[1]}/>
                     </td>
-                    <td>
+                    <td class='info'>
                         {thing[2]?<FCKDRMCorrect/>:<FCKDRMWrong/>}
                     </td>
                     <td>
