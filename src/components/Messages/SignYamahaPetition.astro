@@ -1,0 +1,20 @@
+---
+import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+import ButtonizedLink from "@components/ButtonizedLink.astro";
+---
+<MessageBoxTemplate
+        severity={0}
+        paragraphTitle={true}
+        headingTitle={"Help us send message to Yamaha so they make Genos Soundfont! Sign the Petition NOW!"}
+        detailSummary={"Important announcement from Admiral Zumi & Kolmorolotzzet department"}
+        opens={false}>
+    <p>
+        <mark style='font-weight:bolder;'>Yamaha Genos is too expensive ($5000 / 6000 Kvz / IDR 60 Juta)!!!</mark> Beyond anyone could buy. But that keyboard is the most essential for the highest quality ASMR Compliant MIDI player ever.<br/>
+        Will you help us? Pls read below, sign, & share. Thancc!
+    </p>
+    <p><ButtonizedLink href={`https://www.change.org/YamahaGenosSoundfont`} openInNewTab={true}>Learn more, Sign this petition, & Share now!</ButtonizedLink></p>
+    <p>
+        We seriously need you help! If we can get the number of sign reaches multiple threshold, chances of Yamaha hearing this will increase & <b>hopefully will make Yamaha create Genos in a Soundfont VSTi!</b> Digitally, & for everyone. We can do this! But not alone.<br/>
+        C'mon, people! Yamaha shall not gate us from this.
+    </p>
+</MessageBoxTemplate>
