@@ -61,6 +61,7 @@
         "leaflet": "^1.9.3",
         "lit": "^2.4.1",
         "mailtoui": "^1.0.3",
+        "marked": "^4.3.0",
         "mermaid": "^9.1.7",
         "nanostores": "^0.7.0",
         "node-fetch": "^3.3.1",
