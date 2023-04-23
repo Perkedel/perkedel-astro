@@ -1,0 +1,41 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import ListCellsDankMemesSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesSFW.astro';
+import ListCellsDankMemesNSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesNSFW.astro';
+import CorePage from './__CorePage.astro';
+import DownloadShowHideListCell from '@components/Elements/SparePart/Options/DownloadShowHideListCell.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
+import HarrassedByYouTubeAgain from '@components/Messages/HarrassedByYouTubeAgain.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import DetailSummary from '@components/Elements/SparePart/De'
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords='sauce, dump, links, url, all, random'
+    addDescriptions='Everything Dump links'
+    addHeaderTitle='Dump Links'
+    addMetaTitle='Dump Links'
+    author='JOELwindows7'
+    >
+    <p>
+        All Links there is to it. Too lazy to sort or even label. Pls Archive anyways.
+    </p>
+
+</CorePage>
