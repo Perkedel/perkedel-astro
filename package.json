@@ -64,6 +64,7 @@
         "marked": "^4.3.0",
         "mermaid": "^9.1.7",
         "nanostores": "^0.7.0",
+        "netlify-cli": "^14.2.1",
         "node-fetch": "^3.3.1",
         "nouislider": "^15.6.1",
         "sharp": "^0.31.1",

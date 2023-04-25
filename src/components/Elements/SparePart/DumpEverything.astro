@@ -1,0 +1,134 @@
+---
+import MDXDumpsSFW from '@components/Elements/SparePart/MDX/MDXDumpsSFW.mdx';
+import { marked } from 'marked';
+import DumpAllSFW from '@assets/txt/md/DumpAllSFW.md';
+import ListCells3DModelSFW from '@components/Elements/SparePart/ListCells3DModelSFW.astro';
+import ListCells3DModelNSFW from '@components/Elements/SparePart/ListCells3DModelNSFW.astro';
+import ListCellsCardiophileSFW from '@components/Elements/SparePart/ListCellsCardiophileSFW.astro';
+import ListCellsCardiophileNSFW from '@components/Elements/SparePart/ListCellsCardiophileNSFW.astro';
+import ListCellsCardiophileDiscordSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileDiscordSFW.astro';
+import ListCellsCardiophileDiscordNSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileDiscordNSFW.astro';
+import ListCellsCSSSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSSFW.astro';
+import ListCellsCSSNSFW from '@components/Elements/SparePart/ListCells/ListCellsCSSNSFW.astro';
+import ListCellsDankMemesSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesSFW.astro';
+import ListCellsDankMemesNSFW from '@components/Elements/SparePart/ListCells/ListCellsDankMemesNSFW.astro';
+import ListCellsTwitterBookmarksSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksSFW.astro';
+import ListCellsTwitterBookmarksNSFW from '@components/Elements/SparePart/ListCells/ListCellsTwitterBookmarksNSFW.astro';
+import ListCellsYDKJSFW from '@components/Elements/SparePart/ListCells/ListCellsYDKJSFW.astro';
+import ListCellsYDKJNSFW from '@components/Elements/SparePart/ListCells/ListCellsYDKJNSFW.astro';
+import SFWExtraLinks from '@components/Elements/SFWExtraLinks.astro';
+import NSFWExtraLinks from '@components/Elements/NSFWExtraLinks.astro';
+import DumpLinks from '@components/Elements/DumpLinks.astro';
+import PluginsUsed from '@components/PluginsUsed.astro';
+import { LicensesReport } from 'astro-licenses-report';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+
+const response = await fetch('https://raw.githubusercontent.com/wiki/adam-p/markdown-here/Markdown-Cheatsheet.md');
+const markdown = await response.text();
+const content = marked.parse(markdown);
+
+// const sfwRes = await fetch('@assets/txt/md/DumpAllSFW.md');
+// const sfwMd = await sfwRes.text();
+// const sfwContent = marked.parse(sfwMd);
+
+// not working at all. you must after-church
+// mdx does not interpret bare url, don't know how to fix
+
+const sfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/After-Church/master/Documents/ReadFromFile/DumpLinks/DumpLinksSFW.md');
+const sfwMd = await sfwRes.text();
+const sfwContent = marked.parse(sfwMd);
+
+const nsfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/After-Church/master/Documents/ReadFromFile/DumpLinks/DumpLinksNSFW.md');
+const nsfwMd = await nsfwRes.text();
+const nsfwContent = marked.parse(nsfwMd);
+
+
+export interface Props{
+    nsfw?:boolean;
+
+}
+
+const{
+    nsfw=false,
+
+}= Astro.props.frontmatter || Astro.props as Props;
+---
+<!-- TODO: link to such rabbit hole. formula is URL+`enterNSFW/nsfw`+#headerWhich -->
+<h3>Dank Memes</h3>
+    <ul>
+        <ListCellsDankMemesSFW nsfw={nsfw}/>
+        {nsfw?<BeginningOfNSFW/><ListCellsDankMemesNSFW/>:""}
+    </ul>
+<h3>Cardiophile</h3>
+    <h4>Heartbeat Sauces</h4>
+        <ul>
+            <ListCellsCardiophileSFW nsfw={nsfw}/>
+            {nsfw?<BeginningOfNSFW/><ListCellsCardiophileNSFW/>:""}
+        </ul>
+    <h4>Heartbeat Discord</h4>
+        <ul>
+            <ListCellsCardiophileDiscordSFW/>
+            {nsfw?<BeginningOfNSFW/><ListCellsCardiophileDiscordNSFW/>:""}
+        </ul>
+<h3>3D Models</h3>
+    <ul>
+        <ListCells3DModelSFW nsfw={nsfw}/>
+        {nsfw?<BeginningOfNSFW/><ListCells3DModelNSFW/>:""}
+    </ul>
+<h3>You Don't Know Jack</h3>
+    <ul>
+        <ListCellsYDKJSFW nsfw={nsfw}/>
+        {nsfw?<BeginningOfNSFW/><ListCellsYDKJNSFW nsfw={nsfw}/>:""}
+    </ul>
+<h3>CSS Mania</h3>
+    <ul>
+        <ListCellsCSSSFW/>
+        {nsfw?<BeginningOfNSFW/><ListCellsCSSNSFW/>:""}
+    </ul>
+<h3>Internal Credits</h3>
+    <h4>Licenses & Sauces of the Packages</h4>
+        <div style="overflow-x:auto;">
+            <LicensesReport
+                useDevDependencies={true}
+                depth={2}
+                nameText={'Package'}
+                authorText={'Author'}
+                licenseText={'License'}
+                linkText={'Sauce URL'}
+            />
+        </div>
+    <h4 id="Plugins">Plugins used</h4>
+        <PluginsUsed/>
+    <h4 id="DumpLinks">Dump links</h4>
+        <DumpLinks/>
+<h3>Twitter Bookmarks</h3>
+    <ul>
+        <ListCellsTwitterBookmarksSFW/>
+        {nsfw?<BeginningOfNSFW/><ListCellsTwitterBookmarksNSFW/>:""}
+    </ul>
+<h3>Third Party</h3>
+    <h4>SFW 3rd Party</h4>
+        <SFWExtraLinks nsfw={nsfw}/>
+    {nsfw?
+        <h4>NSFW 3rd Party</h4>
+            <NSFWExtraLinks/>
+            // <!-- <p>Other 😏😏😏😏😏 links coming soon.</p> -->
+    :""}
+<h3>Just Dump All Markdown</h3>
+    <!-- <h4>[TEST] Markdown Cheatsheet from Adam P.</h4>
+        <p><a href='https://raw.githubusercontent.com/wiki/adam-p/markdown-here/Markdown-Cheatsheet.md' target="_blank" rel="noopener noreferrer">See sauce</a></p>
+        <Fragment set:html={content}/> -->
+    <h4>Dumps SFW</h4>
+    <!-- <MDXDumpsSFW/> -->
+    <Fragment set:html={sfwContent}/>
+    <!-- <div set:html={sfwContent}/> -->
+
+    {
+    nsfw?<Fragment>
+        <h4>Dumps NSFW</h4>
+        <Fragment set:html={nsfwContent}/>
+    </Fragment>
+    :
+    ``
+    }
+

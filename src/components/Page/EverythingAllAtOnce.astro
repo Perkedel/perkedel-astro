@@ -17,7 +17,9 @@ import DownloadShowHideListCell from '@components/Elements/SparePart/Options/Dow
 import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 import HarrassedByYouTubeAgain from '@components/Messages/HarrassedByYouTubeAgain.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
-import DetailSummary from '@components/Elements/SparePart/De'
+// import DetailSummary from '@components/Elements/SparePart/DetailSummary';
+import DumpEverything from '@components/Elements/SparePart/DumpEverything.astro';
+
 export interface Props{
     nsfw?:Boolean;
 }
@@ -37,5 +39,13 @@ const{
     <p>
         All Links there is to it. Too lazy to sort or even label. Pls Archive anyways.
     </p>
+    <h2>Begin Dumps</h2>
+    <details>
+        <summary>Click here to toggle open/close</summary>
+        <DumpEverything nsfw={nsfw}/>
+    </details>
+    <h2>End Dumps</h2>
+    <p>We apologize for inconveniences. Due to sheer amounts of sauces coming right up, we are unable to review each sauce & properly label them accordingly. Thank you for your understanding.</p>
+    
 
 </CorePage>

@@ -25,7 +25,9 @@ const robotTxtExtraSays = `
 export default defineConfig({
     site: 'https://perkedel.netlify.app',
     integrations: [
-        mdx(),
+        mdx({
+
+        }),
         // image({
         //     serviceEntryPoint: '@astrojs/image/sharp',
         // }),
@@ -71,6 +73,9 @@ export default defineConfig({
         }),
     ],
     markdown: {
+        shikiConfig: {
+            wrap: true,
+        },
         remarkPlugins: [
             // for astro-diagram..
             // remarkGfm,
