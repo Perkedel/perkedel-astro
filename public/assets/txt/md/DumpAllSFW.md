@@ -2264,3 +2264,5 @@
 - https://youtu.be/nET3GzmOZDk
 - https://twitter.com/charlessilver_/status/1631476345082617856
 - https://youtu.be/YdcH57vTiOk
+- kombucha sensei
+- https://youtu.be/5O3UfBlzuTU Il  love you subaru kun & d
