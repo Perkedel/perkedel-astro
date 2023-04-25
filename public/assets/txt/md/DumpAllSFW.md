@@ -2265,4 +2265,9 @@
 - https://twitter.com/charlessilver_/status/1631476345082617856
 - https://youtu.be/YdcH57vTiOk
 - kombucha sensei
-- https://youtu.be/5O3UfBlzuTU Il  love you subaru kun & d
+- https://youtu.be/5O3UfBlzuTU I love you subaru kun & ded RAM
+- Plead to God for Harddisk External. read this script together. all religion. ends with Amen.
+- https://youtube.com/@JalanSesama Sesame Street ID            
+- https://inet.detik.com/games-news/d-6687333/penimbun-ps5-merugi-netizen-jangan-dikasihani
+- https://youtu.be/tyYwOEKKcZc Troye Sivan - Angel Bab
+- https://youtu.be/ud1JXqGWPvU boneless pizza
