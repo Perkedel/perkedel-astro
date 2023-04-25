@@ -34,11 +34,13 @@ const content = marked.parse(markdown);
 // not working at all. you must after-church
 // mdx does not interpret bare url, don't know how to fix
 
-const sfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/After-Church/master/Documents/ReadFromFile/DumpLinks/DumpLinksSFW.md');
+// const sfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/After-Church/master/Documents/ReadFromFile/DumpLinks/DumpLinksSFW.md');
+const sfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/perkedel-astro/main/public/assets/txt/md/DumpAllSFW.md');
 const sfwMd = await sfwRes.text();
 const sfwContent = marked.parse(sfwMd);
 
-const nsfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/After-Church/master/Documents/ReadFromFile/DumpLinks/DumpLinksNSFW.md');
+// const nsfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/After-Church/master/Documents/ReadFromFile/DumpLinks/DumpLinksNSFW.md');
+const nsfwRes = await fetch('https://raw.githubusercontent.com/Perkedel/perkedel-astro/main/public/assets/txt/md/DumpAllNSFW.md');
 const nsfwMd = await nsfwRes.text();
 const nsfwContent = marked.parse(nsfwMd);
 
