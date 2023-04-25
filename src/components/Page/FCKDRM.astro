@@ -17,6 +17,7 @@ import FCKDRMIcon from '@components/Icons/FCKDRMIcon.astro';
 import EFFIcon from '@components/Icons/EFFIcon.astro';
 import DeffectiveByDesignIcon from '@components/Icons/DeffectiveByDesignIcon.astro';
 import DRMCompare from '@components/Elements/SparePart/Tables/DRMCompare.astro';
+import DRMFreeQuote from '@components/Elements/SparePart/DRMFreeQuote.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -45,27 +46,38 @@ const{
 
     <h2>Quotes</h2>
         <h3>Valve, (2008)</h3>
-            <div class='row QuoteFckDrm'>
+            <!-- <div class='row QuoteFckDrm'>
                 <div class='column colLeft'>
                     <img width="75%" class="SpecialityImageWide" class='' src='/assets/img/fckdrm/newell_forbes.jpg'/>
                 </div>
                 <div class='column colVertCenter'>
                     <p><q>As far as DRM goes, most DRM strategies are just dumb. The goal should be to create greater value for customers through service value (...), not by decreasing the value of a product</q> — <a target="_blank" rel="noopener noreferrer" href= 'https://arstechnica.com/gaming/2008/12/valve-calls-drm-stupid-microsoft-still-doesnt-get-it/'>Gabe Newell</a></p>
                 </div>
-            </div>
-            
+            </div> -->
+            <DRMFreeQuote author={`Gabe Newell`} authorSauce={`https://arstechnica.com/gaming/2008/12/valve-calls-drm-stupid-microsoft-still-doesnt-get-it/`} authorImgSrc={`/assets/img/fckdrm/newell_forbes.jpg`} nsfw={nsfw}>
+                As far as DRM goes, most DRM strategies are just dumb. The goal should be to create greater value for customers through service value (...), not by decreasing the value of a product
+            </DRMFreeQuote>
         <h3>Number None, creator of Braid and The Witness (2016)</h3>
-            
+            <DRMFreeQuote author={``} authorSauce={``} authorImgSrc={``} nsfw={nsfw}>
+            </DRMFreeQuote>
         <h3>Flying Wild Hog, creators of Shadow Warrior 2</h3>
-
+            <DRMFreeQuote author={``} authorSauce={``} authorImgSrc={``} nsfw={nsfw}>
+            </DRMFreeQuote>
         <h3>Double Fine</h3>
-
+            <DRMFreeQuote author={``} authorSauce={``} authorImgSrc={``} nsfw={nsfw}>
+            </DRMFreeQuote>
         <h3>Squad, creator of Kerbal Space Program</h3>
-
+            <DRMFreeQuote author={``} authorSauce={``} authorImgSrc={``} nsfw={nsfw}>
+            </DRMFreeQuote>
         <h3>CD PROJEKT RED</h3>
-
+            <DRMFreeQuote author={``} authorSauce={``} authorImgSrc={``} nsfw={nsfw}>
+            </DRMFreeQuote>
         <h3>Perkedel Technologies</h3>
-        
+            <DRMFreeQuote author={`JOELwindows7`} authorSauce={``} authorImgSrc={``} nsfw={nsfw}>
+                You're not buying the product if it has Digital Restriction Management. That's technically still theirs instead of now yours. <b>You've been scammed!</b>
+                <br/>
+                Also, pls don't be ironic y'all gamers. Especially you! What the hell? you were supposed to despise that streaming platform, but so suddenly put the show there & not on any that is DRM-free, what the peck? traitor..
+            </DRMFreeQuote>
         <!-- <h3>Flying Wild Hog, creators of Shadow Warrior 2</h3> -->
         <!-- <h3>Flying Wild Hog, creators of Shadow Warrior 2</h3> -->
     <h2>About DRM</h2>

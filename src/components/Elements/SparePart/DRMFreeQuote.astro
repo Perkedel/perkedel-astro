@@ -1,0 +1,23 @@
+---
+export interface Props{
+    nsfw?:boolean;
+    author?:string;
+    authorSauce?:string;
+    authorImgSrc?:string;
+}
+
+const{
+    nsfw=false,
+    author='???',
+    authorSauce='https://example.com',
+    authorImgSrc='/assets/img/png/mavrickle.png',
+}= Astro.props.frontmatter || Astro.props as Props;
+---
+<div class='row QuoteFckDrm'>
+    <div class='column colLeft'>
+        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc}/>
+    </div>
+    <div class='column colVertCenter'>
+        <p><q><slot>YOUR QUOTE HERE</slot></q> — <a target="_blank" rel="noopener noreferrer" href={authorSauce} set:html={author}></a></p>
+    </div>
+</div>
