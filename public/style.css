@@ -1460,11 +1460,15 @@ https://youtu.be/T33NN_pPeNI
 .hideScroll {
     opacity: 0;
     filter: blur(5px);
-    -ms-transition: all 1s;
-    transition: all 1s;
+    -ms-transition: transform 1s;
+    transition: transform 1s;
     /* transform: translateX(-100px); */
     /* transform: translate(-100, 0); */
     /* overflow-x: auto; */
+}
+
+.hideScroll:hover{
+    transition: transform .25s;
 }
 
 .hideScroll.showScroll {
@@ -1966,12 +1970,16 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         border: 2px solid darkorange;
     }
     .hideScroll {
-        -ms-transition: none;
-        transition: none;
+        -ms-transition: none !important;
+        transition: none !important;
         opacity: 1;
         filter: none;
         -ms-transform: none;
         transform: none;
+    }
+    .hideScroll:hover {
+        -ms-transition: none !important;
+        transition: none !important;
     }
     .hideScroll.showScroll {
         opacity: 1;
@@ -2017,10 +2025,14 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         scroll-behavior: initial;
     }
     .hideScroll {
-        transition: none;
+        transition: none !important;
+        transform: none !important;
         filter: blur(0);
         opacity: 1;
-        transform: none;
+    }
+    .hideScroll:hover {
+        -ms-transition: none !important;
+        transition: none !important;
     }
     .hideScroll.showScroll {
         transition: none;
