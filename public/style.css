@@ -1460,15 +1460,16 @@ https://youtu.be/T33NN_pPeNI
 .hideScroll {
     opacity: 0;
     filter: blur(5px);
-    -ms-transition: transform 1s;
-    transition: transform 1s;
+    -ms-transition: transform 1s, opacity 1s;
+    transition: transform 1s, opacity 1s;
     /* transform: translateX(-100px); */
     /* transform: translate(-100, 0); */
     /* overflow-x: auto; */
 }
 
 .hideScroll:hover{
-    transition: transform .25s;
+    -ms-transition: none, opacity .25s;
+    transition: none, opacity .25s;
 }
 
 .hideScroll.showScroll {
