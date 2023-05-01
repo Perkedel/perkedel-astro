@@ -1468,8 +1468,8 @@ https://youtu.be/T33NN_pPeNI
 }
 
 .hideScroll:hover{
-    -ms-transition: none, opacity .25s;
-    transition: none, opacity .25s;
+    -ms-transition: opacity .25s;
+    transition: opacity .25s;
 }
 
 .hideScroll.showScroll {
