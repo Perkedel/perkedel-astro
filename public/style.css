@@ -663,6 +663,18 @@ a[href*='tiktok.com']::before {
     content: url('https://api.iconify.design/logos/tiktok-icon.svg'),'';
 }
 
+/* Aside pls
+https://www.w3schools.com/tags/tag_aside.asp
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_aside2
+*/
+aside{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    background-color: rgba(0,0,50,.5)
+}
+
 
 input {
     background-color: black;
@@ -1468,8 +1480,8 @@ https://youtu.be/T33NN_pPeNI
 }
 
 .hideScroll:hover{
-    -ms-transition: background-color .25s;
-    transition: background-color .25s;
+    -ms-transition: background-color .1s, color .1s;
+    transition: background-color .1s, color .1s;
 }
 
 .hideScroll.showScroll {
@@ -1807,6 +1819,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         background-color: deepskyblue;
         color: black;
     }
+    aside {
+        background-color: rgba(0,200,200,.5);
+    }
 }
 
 @media only screen and (max-width: 700px) {
@@ -1893,6 +1908,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     .colVertCenter, .ColVertCenter{
         margin: 0;
         padding: 0;
+    }
+}
+
+@media screen and (max-width: 100px) {
+    aside {
+        width: 100%;
+        padding-left: none;
+        margin-left: none;
+        float: initial;
     }
 }
 
@@ -2018,6 +2042,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     }
     .addressBarYeah{
         display: initial;
+    }
+    aside {
+        background-color: clear;
+        border: solid 1px lightgray;
     }
 }
 
