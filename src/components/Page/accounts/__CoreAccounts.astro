@@ -73,7 +73,7 @@ rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
                 {datas[2] && datas[2] != ``?<Fragment><img src={datas[2]} class='SpecialityImageWide'/><br/></Fragment>:``}
-                <Fragment set:html={datas[3] || "&#xfa9e"}></Fragment> {datas[1]}
+                <Fragment set:html={datas[3] || "&#xfa9e"}></Fragment> <Fragment set:html={datas[1]}/>
                 </ButtonizedLink>
             </li>
         ))}
@@ -86,7 +86,7 @@ rel="noopener noreferrer"
                     openInNewTab={!(datas[4] || false)}
                     >
                 {datas[2] && datas[2] != ``?<Fragment><img src={datas[2]} class='SpecialityImageWide'/><br/></Fragment>:``}
-                <Fragment set:html={datas[3] || "&#xfa9e"}></Fragment> {datas[1]}  <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
+                <Fragment set:html={datas[3] || "&#xfa9e"}></Fragment> <Fragment set:html={datas[1]}/>  <b class='warning'>(🥵 NSFW &#xfa8b;&#xf421;)</b>
                 </ButtonizedLink>
             </li>
         )):""}
