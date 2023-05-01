@@ -10,12 +10,12 @@ const{
     nsfw=false,
     author='???',
     authorSauce='https://example.com',
-    authorImgSrc=`${Astro.url.origin}/assets/img/mavrickle.png`,
+    authorImgSrc=`/assets/img/mavrickle.png`,
 }= Astro.props.frontmatter || Astro.props as Props;
 ---
 <div class='row QuoteFckDrm'>
     <div class='column colLeft'>
-        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc}/>
+        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={`${author}'s photo'`}/>
     </div>
     <div class='column colVertCenter'>
         <p><q><slot>YOUR QUOTE HERE</slot></q> — <a target="_blank" rel="noopener noreferrer" href={authorSauce} set:html={author}></a></p>
