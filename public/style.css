@@ -1484,6 +1484,11 @@ https://youtu.be/T33NN_pPeNI
     transition: background-color .1s, color .1s;
 }
 
+.hideScroll:focus-visible{
+    -ms-transition: none;
+    transition: none;
+}
+
 .hideScroll.showScroll {
     opacity: 1;
     filter: blur(0);
