@@ -10,6 +10,8 @@ export interface Props {
   addKeywords?:string;
   handoverTitle?:string;
   nsfwConfirmation?:Boolean;
+  skipHeader?:boolean;
+  skipNav?:boolean;
 }
 // let currJustAddr = 'https://perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let currJustAddr = Astro.url.origin+'/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
@@ -22,6 +24,8 @@ const {
   addKeywords='',
   handoverTitle = '???',
   nsfwConfirmation = false,
+  skipHeader = false,
+  skipFooter = false,
   } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- HEADER & NAV
@@ -35,25 +39,37 @@ const {
     - https://stackoverflow.com/questions/1347675/html-img-scaling
     - https://www.w3schools.com/tags/att_img_width.asp
   -->
-  <header class="headering" id="headering">
-    <!-- <h1><PerkedelWoosie/><a href="/">Perkedel NTLF+ASTR</a></h1> -->
-    <!-- https://www.w3schools.com/tags/tag_hn.asp css of it pls -->
-    <p style="font-size: 2em; font-weight: bold;"><a href="/"><PerkedelWoosie/>Perkedel NTLF+ASTR</a> 
-      {(rating.includes('adult') || nsfw)?
-      <Icon style="color:red;" title="You are in an NSFW page" height="48px" name="gg:pill" />:""}
-    </p>
-  </header>
   <!-- Initially we would choose icon-park-outline:breast-pump
   But we can't connect it with Matrix Pill choice & 
   otherwise would causes some damages we do not want.
   maybe back again to gg:pill ?
   -->
-  <hr class="headeringHr"/>
-  <div class="addressBarYeah" id="addressBarYeah" style="">
-    <p style="margin:0;">{Astro.url.href}</p>
-    <hr class="headeringHr"/>
-  </div>
-  <NavBar handoverTitle={handoverTitle} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation}>
-  <slot name="SettingContains" slot="SettingContains"/>
-  </NavBar>
-  <hr class="headeringHr"/>
+  {skipHeader?"":
+    <Fragment>
+      <header class="headering" id="headering">
+        <!-- <h1><PerkedelWoosie/><a href="/">Perkedel NTLF+ASTR</a></h1> -->
+        <!-- https://www.w3schools.com/tags/tag_hn.asp css of it pls -->
+        <p style="font-size: 2em; font-weight: bold;"><a href="/"><PerkedelWoosie/>Perkedel NTLF+ASTR</a> 
+          {(rating.includes('adult') || nsfw)?
+          <Icon style="color:red;" title="You are in an NSFW page" height="48px" name="gg:pill" />:""}
+        </p>
+      </header>
+      <Fragment> 
+        <hr class="headeringHr"/>
+        <div class="addressBarYeah" id="addressBarYeah" style="">
+          <p style="margin:0;">{Astro.url.href}</p>
+          <hr class="headeringHr"/>
+        </div>
+      </Fragment>
+    </Fragment>
+  }
+  
+  {skipNav?"":
+    <Fragment>
+      <NavBar handoverTitle={handoverTitle} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation}>
+        <slot name="SettingContains" slot="SettingContains"/>
+      </NavBar>
+      <hr class="headeringHr"/>
+    </Fragment>
+  }
+  

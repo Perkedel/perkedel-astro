@@ -27,6 +27,9 @@ export interface Props{
     addMetaTitle?:string;
     author?:string;
     disableOverwhelmStatement?:boolean;
+    skipHeader?:boolean;
+    skipNav?:boolean;
+    skipFooter?:boolean;
 }
 
 const{
@@ -39,6 +42,9 @@ const{
     addMetaTitle='META_TITLE',
     author = 'JOELwindows7',
     disableOverwhelmStatement = false,
+    skipHeader = false,
+    skipNav = false,
+    skipFooter = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <Layout
@@ -47,6 +53,9 @@ const{
     keywords={"tech, fun, novelty, open source, gratis, free, " + addKeywords}
     author={author}
     rating={(nsfw?"adult":"")}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
     >
     <!-- <h1>{addHeaderTitle} {noNeedNSFW?"":"("+(nsfw?"FULL":"LITE")+" VERSION)"}</h1> -->
     <h1><slot name='TitlePre'/><Fragment set:html={addHeaderTitle}/><slot name='TitleExtra'/><Fragment set:html={(noNeedNSFW?"":" ("+(nsfw?"FULL":"LITE")+" VERSION)")}/><slot name='TitleAfter'/></h1>

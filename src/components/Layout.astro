@@ -85,6 +85,9 @@ export interface Props {
   ejectClarity?:boolean;
   hideInfo?:boolean;
   nsfwConfirmation?:boolean;
+  skipHeader?:boolean;
+  skipNav?:boolean;
+  skipFooter?:boolean;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -153,6 +156,9 @@ const {
   ejectClarity = false,
   hideInfo = false,
   nsfwConfirmation = false,
+  skipHeader = false,
+  skipNav = false,
+  skipFooter = false,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -364,7 +370,7 @@ const {
 <!-- BODY AT BELOW -->
 <body>
   <!-- HEADER -->
-  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation}>
+  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav}>
     <slot name="SettingContains" slot="SettingContains"/>
   </Headering>
 
@@ -407,7 +413,12 @@ const {
 
   <!-- FOOTER -->
   <!-- <Footering rating={rating} nsfw={rating.includes('adult')}/> -->
-  <Footering rating={rating} nsfwConfirmation={nsfwConfirmation}/>
+  {skipFooter?"":
+    <Fragment>
+      <Footering rating={rating} nsfwConfirmation={nsfwConfirmation}/>
+    </Fragment>
+  }
+  
 
   <!-- SCRIPT FINALLY -->
   <!-- Toastify https://apvarun.github.io/toastify-js/ -->

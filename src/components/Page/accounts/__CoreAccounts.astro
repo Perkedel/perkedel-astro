@@ -22,6 +22,9 @@ export interface Props{
     thirdPartyEdit?:Boolean;
     disableOverwhelmStatement?:boolean;
     addKeywords?:string;
+    skipHeader?:boolean;
+    skipNav?:boolean;
+    skipFooter?:boolean;
 }
 
 // Add these yourself!
@@ -42,6 +45,9 @@ const{
     thirdPartyEdit = false, // Admin will raise this flag if it was the other admin that created the Biolinks, not the author themselves.
     disableOverwhelmStatement = true, // This time shall be true to prevent non-rabbit hole explorer to see that plea at an unexpected time.
     addKeywords = '',
+    skipHeader = false,
+    skipNav = false,
+    skipFooter = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- 
@@ -62,6 +68,9 @@ rel="noopener noreferrer"
     addMetaTitle={'@'+username + ' BioLinks'}
     author={username}
     disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
     >
     <h2 style="text-align:center;">BioLinks</h2>
     <ul class="BioLinksList">
