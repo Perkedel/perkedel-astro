@@ -167,8 +167,11 @@ const {
 <html lang={language}>
 <head>
   <!--https://www.w3schools.com/tags/tag_meta.asp-->
-	<meta charset={charSet}>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- make sure the X UA Compatible -->
+  <!-- https://stackoverflow.com/a/6771584/9079640 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+	<meta charset={charSet}/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <!-- <meta name="description" content="Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework"> -->
   <!-- <meta name="keywords" content="tech, fun, novelty, open source, gratis, free"> -->
   <!-- <meta name="author" content="JOELwindows7"> -->
