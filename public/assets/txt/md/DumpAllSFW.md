@@ -4296,6 +4296,7 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtu.be/CKTrEWxsg5k
 - https://www.w3schools.com/tags/tag_sup.asp
 - An keyes
-- 
+- https://developer.mozilla.org/en-US/docs/Glossary/HTTP_header
+- https://docs.netlify.com/routing/headers/#app
 
 
