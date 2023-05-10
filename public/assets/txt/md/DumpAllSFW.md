@@ -4298,5 +4298,25 @@ https://www.pixiv.net/en/artworks/94794810
 - An keyes
 - https://developer.mozilla.org/en-US/docs/Glossary/HTTP_header
 - https://docs.netlify.com/routing/headers/#app
-
-
+- https://youtu.be/JxiYO3lAGpU
+- https://youtu.be/iOcA5jrbV4Y
+- https://youtu.be/mMeeJtCiCgQ
+- https://www.youtube.com/watch?v=anjTd9mraeA&pp=ygUpdGhhbmsgeW91IGZvciBzdW5zaGluZSB0aGFuayB5b3UgZm9yIHJhaW4%3D thank you for sunshine thank you for rain remix
+- https://www.youtube.com/watch?v=j1ykEw42xCk&pp=ygUpdGhhbmsgeW91IGZvciBzdW5zaGluZSB0aGFuayB5b3UgZm9yIHJhaW4%3D its a beautiful day lofi??
+- https://youtu.be/nX0QpTqIaMM
+- https://youtu.be/IwW6Cb6yPmg
+- https://www.youtube.com/watch?v=4aeETEoNfOg&list=PLPOWV6o5RnRV1rLyjarWTjlWoAYv_07LH
+- https://youtu.be/YoFs_jBxcKA
+- meozek
+- Hear me out. I think adopting homestuck, we'll put them on interpol, uh.. 
+- busting up criminals on social media
+- e.g. who uhm..
+- harrassing innocent vtubers, vice versa other case, etc.
+- yeah. Twitter.
+- Look at the MsPaint Adventure Wiki here.
+- they noted that Troll was a name-after internet trolls, and these trolls
+- do something bad to the humans.
+- same with real life.
+- as you can see, Troll is now just a being.
+- there are more things that are matter.
+- what matter now is this.
