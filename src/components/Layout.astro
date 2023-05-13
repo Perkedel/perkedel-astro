@@ -88,6 +88,7 @@ export interface Props {
   skipHeader?:boolean;
   skipNav?:boolean;
   skipFooter?:boolean;
+  legacyMarkdown?:boolean;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -159,6 +160,7 @@ const {
   skipHeader = false,
   skipNav = false,
   skipFooter = false,
+  legacyMarkdown? = false,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -197,19 +199,24 @@ const {
     https://jquery.com/
     -->
   <script is:inline src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
-  <!--Mermaid for diagram
+
+  <!-- Mermaid for diagram
     mermaid-js.github.io
     https://mermaid-js.github.io/mermaid/#/n00b-gettingStarted?id=requirements-for-the-mermaid-api
     -->
-  <!-- <script defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script> -->
-    <!--zero-md
+  <!--zero-md
     https://zerodevx.github.io/
     -->
-  <!-- <script
-    type="module"
-    src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
-  >
-  </script> -->
+  {legacyMarkdown?<Fragment>
+    <script defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script
+      type="module"
+      src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+    >
+    </script>
+    </Fragment>
+  :``}
+  
   <script is:inline src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
 
   <!-- HTMX https://htmx.org -->
