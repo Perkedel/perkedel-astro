@@ -721,7 +721,11 @@ a[href*='tiktok.com']::before {
 }
 
 a[href*='homestuck.com']::before, a[href*='mspa.com']::before {
-    content: url('/assets/img/steal/HS.png'),'🏡';
+    content: url('/assets/img/steal/Homestuck/HS.png'),'🏡';
+}
+
+a[href*='homestuck.com/epilogues']::before {
+    content: url('/assets/img/steal/Homestuck/Epilogues.png'),'🏡';
 }
 
 /* Aside pls
