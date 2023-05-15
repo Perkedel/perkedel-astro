@@ -187,39 +187,54 @@ body {
     counter-reset: section;
 }
 
+
+
 h1{
     /* what???? */
 }
 
 h2{
     /* idk.. */
-    counter-reset: subsection;
+    /* counter-reset: subsection; */
 }
 
 h3{
+    /* counter-increment: section; */
+}
+
+/* COUNTER!!! */
+
+h2.CountPls{
+    /* idk.. */
+    counter-reset: subsection;
+}
+
+h3.CountPls{
     counter-increment: section;
 }
 
-h2::before{
+h2.CountPls::before{
     /* Yess, counter */
     counter-increment: section;
     content: counter(section) ". "
 }
 
-h3::before{
+h3.CountPls::before{
     counter-increment: subsection;
     content: counter(section) "." counter(subsection) ". ";
 }
 
-ol {
+ol.CountPls {
     counter-reset: orderedListSection;
     list-style-type: none;
 }
 
-ol > li::before {
+ol.CountPls > li::before {
     counter-increment: orderedListSection;
     content: counters(section,".") ". ";
 }
+
+/* End counter */
 
 button {
     /*BUG! the button font did not inherit even placed in body. let's manually apply!*/
@@ -585,9 +600,9 @@ a[href*='lbry.']::before {
 
 a[href*='//odysee.com']::before,
 a[href*='odysee.com']::before,
-a[href*='https://odysee.com']::before,
-a[href*='https://odysee.tv']::before,
-a[href*='https://help.odysee.tv']::before
+a[href|='https://odysee.com']::before,
+a[href|='https://odysee.tv']::before,
+a[href|='https://help.odysee.tv']::before
 {
     content: url('https://api.iconify.design/simple-icons/odysee.svg') ,' ';
 }
@@ -705,6 +720,10 @@ a[href*='tiktok.com']::before {
     content: url('https://api.iconify.design/logos/tiktok-icon.svg'),'';
 }
 
+a[href*='homestuck.com']::before, a[href*='mspa.com']::before {
+    content: url('/assets/img/steal/HS.png'),'🏡';
+}
+
 /* Aside pls
 https://www.w3schools.com/tags/tag_aside.asp
 https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_aside2
@@ -736,6 +755,18 @@ input:disabled {
     background-color: darkgray;
     color: gray;
 }
+
+/* Target
+Highlight clicked header URLs
+https://www.w3schools.com/cssref/tryit.php?filename=trycss3_target
+https://www.w3schools.com/cssref/sel_target.php
+*/
+:target{
+    border: 2px solid navy;
+    background-color: blue;
+}
+
+/* Status yo */
 
 .error {
     /*
@@ -1819,6 +1850,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         background-color: white;
         color: black;
         /* scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189); */
+    }
+    :target{
+        border: 2px solid blue;
+        background-color: cyan;
     }
     .tingle-modal-box {
         background: rgb(168, 199, 225);
