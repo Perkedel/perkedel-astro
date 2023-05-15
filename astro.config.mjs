@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
 import partytown from "@astrojs/partytown";
 import robotsTxt from 'astro-robots-txt';
-// import embeds from 'astro-embed/integration';
+import embeds from 'astro-embed/integration';
 import remarkMermaid from 'astro-diagram/remark-mermaid';
 import webmanifest from "astro-webmanifest";
 
@@ -23,7 +23,7 @@ const robotTxtExtraSays = `
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://perkedel.netlify.app',
+    site: 'https://perkedel.netlify.app/',
     integrations: [
         mdx({
 
@@ -37,10 +37,10 @@ export default defineConfig({
         robotsTxt({
             sitemap: 'https://perkedel.netlify.app/sitemap-0.xml',
             transform(content) {
-                return `# Robots.txt for Perkedel ASTR.\n# use https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme to generate this.\n#by JOELwindows7\n#PerkedelTechnologies\n#GNU GPL v3\n#\n#${robotTxtExtraSays}\n\n${content}`;
+                return `# Robots.txt for Perkedel ASTR.\n# use https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme to generate this.\n#by JOELwindows7\n#PerkedelTechnologies\n#GNU AGPL v3\n#\n#${robotTxtExtraSays}\n\n${content}`;
             },
         }),
-        //embeds(),
+        embeds(),
         webmanifest({
             // https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest#readme
             /**

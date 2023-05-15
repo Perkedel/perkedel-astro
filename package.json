@@ -34,6 +34,7 @@
         "asciinema-player": "^3.0.1",
         "astro-diagram": "^0.6.1",
         "astro-div": "^0.0.1",
+        "astro-embed": "^0.2.1",
         "astro-emoji": "^1.1.0",
         "astro-geo-map": "^2.0.0",
         "astro-github": "^0.0.2",
