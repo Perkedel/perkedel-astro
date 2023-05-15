@@ -40,7 +40,7 @@ export default defineConfig({
                 return `# Robots.txt for Perkedel ASTR.\n# use https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme to generate this.\n#by JOELwindows7\n#PerkedelTechnologies\n#GNU AGPL v3\n#\n#${robotTxtExtraSays}\n\n${content}`;
             },
         }),
-        embeds(),
+        // embeds(),
         webmanifest({
             // https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest#readme
             /**
