@@ -177,6 +177,48 @@ body {
     /*display: grid;*/
     /*grid-template-rows: 1fr auto;*/
     word-wrap: break-word;
+
+    /* Oh boy counter
+    https://www.w3schools.com/css/tryit.asp?filename=trycss_counters1
+    https://www.w3schools.com/css/css_counters.asp
+    https://www.w3schools.com/css/tryit.asp?filename=trycss_counters2
+    https://www.w3schools.com/css/tryit.asp?filename=trycss_counters3
+     */
+    counter-reset: section;
+}
+
+h1{
+    /* what???? */
+}
+
+h2{
+    /* idk.. */
+    counter-reset: subsection;
+}
+
+h3{
+    counter-increment: section;
+}
+
+h2::before{
+    /* Yess, counter */
+    counter-increment: section;
+    content: counter(section) ". "
+}
+
+h3::before{
+    counter-increment: subsection;
+    content: counter(section) "." counter(subsection) ". ";
+}
+
+ol {
+    counter-reset: orderedListSection;
+    list-style-type: none;
+}
+
+ol > li::before {
+    counter-increment: orderedListSection;
+    content: counters(section,".") ". ";
 }
 
 button {

@@ -1,0 +1,92 @@
+/* 
+Homestuck CSS
+
+Style to enhance Homestuck dialoging in HTML & its compatible derivatives.
+
+You can now easily dialog faster & focus more to the dialog. With Lazy wrap, simply type your dialog inside, ensuring you typed the type followed by name correctly inside the class.
+
+Only JOELwindows7 & commonly known by username & easy to know character name will this be called. or does it?
+
+Icon before the name is not supported due to the limitation with CSS (e.g. `💢 Angery: ...`). We are currently working around this. Sorry, people, no fancy logo for now.
+
+by JOELwindows7
+Perkedel Technologies
+GNU AGPL v3
+*/
+
+/* Root */
+/* HOW TO USE:
+This area is to store values for below use.
+Put your color, bg color, font, etc. here.
+You can further make crazy with below classes
+*/
+:root {
+    /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies */
+    --HS-JOELwindows7-color: rgba(125,255,255,1);
+    --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
+    --HS-JOELwindows7-prefix: "JOELwindows7: ";
+
+    /* d */
+
+}
+
+/* Names */
+/* HOW TO USE:
+```html
+Install empty span with class `HS-Name` followed with character name.
+<span class='HS-Name JOELwindows7'/>: ...
+```
+*/
+
+HS-Name {
+
+}
+
+HS-Name JOELwindows7 {
+    /* Joel Robert Justiawan. Founder of Perkedel Technologies */
+}
+
+/* Dialog */
+/* HOW TO USE:
+Wrap your dialog text inside span with class `HS-Dialog` followed by character name.
+```html
+<span class='HS-Name JOELwindows7'/>: <span class='HS-Dialog JOELwindows7>Ahei, Dasandimian!</span>
+```
+
+Full Sample
+```html
+<span class='HS-Name JOELwindows7'/>: <span class='HS-Dialog JOELwindows7>Ahei, Dasandimian!</span> (some action if need be) <span class='HS-Dialog JOELwindows7>It's time!</span>
+<br/>
+<span class='HS-Name NepetaLeijon'/>: <span class='HS-Dialog NepetaLeijon>M33AAAAAAAAAAAAAAAAAAAAAUW!</span>
+```
+*/
+
+HS-Dialog {
+
+}
+
+HS-Dialog JOELwindows7 {
+
+}
+
+/* Lazy Line */
+/* HOW TO USE:
+Lazily wrap entire dialog line in a span with class `HS` followed with character name
+```html
+<span class='HS JOELwindows7'>Ahei, Dasandimian!</span>
+<br/>
+<span class='HS NepetaLeijon'>Ahei, Joel!</span>
+```
+*/
+
+HS, Homestuck, MsPaintAdventure {
+
+}
+
+HS JOELwindows7{
+    color: var(--HS-JOELwindows7-color);
+    background-color: var(--HS-JOELwindows7-bgColor);
+}
+HS JOELwindows7::before {
+    content: var(--HS-JOELwindows7-prefix);
+}
