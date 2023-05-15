@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
 import partytown from "@astrojs/partytown";
 import robotsTxt from 'astro-robots-txt';
-import embeds from 'astro-embed/integration';
+// import embeds from 'astro-embed/integration';
 import remarkMermaid from 'astro-diagram/remark-mermaid';
 import webmanifest from "astro-webmanifest";
 
