@@ -4,7 +4,7 @@ export interface Props{
 }
 
 const{
-    size='64px',
+    size='11%',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<img alt="Perkedel Woosie" src="/favicon_1024.gif" height={size}/>
+<img alt="Perkedel Woosie" src="/favicon_1024.gif" width={size}/>
