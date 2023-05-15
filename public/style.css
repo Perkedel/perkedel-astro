@@ -1227,6 +1227,7 @@ samp {
     font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
+/* Keyboard button & pretty much button pls!! */
 kbd {
     /* https://www.w3schools.com/tags/tag_kbd.asp */
     border-radius: 2px;
