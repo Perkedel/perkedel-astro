@@ -400,7 +400,8 @@ a:visited {
 }
 
 a:visited:hover {
-    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
     background-color: orange;
     color: navy;
 }
@@ -1463,7 +1464,8 @@ div.td {
 
 .tingle-btn {
     border-radius: 30px;
-    cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
 }
 
 .tingle-btn--primary {
