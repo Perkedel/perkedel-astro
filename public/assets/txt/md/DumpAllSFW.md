@@ -4322,3 +4322,4 @@ https://www.pixiv.net/en/artworks/94794810
 - what matter now is this.
 - https://github.com/soofka/netlify-plugin-chromium
 - https://github.com/soofka/coronavirus-tracker
+- https://github.com/netlify-labs/netlify-plugin-sitemap#readme
