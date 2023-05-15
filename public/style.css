@@ -4,6 +4,8 @@
 /* FONT PLS
 https://askubuntu.com/questions/16556/embed-ubuntu-font-on-any-web-page
 https://nerdfonts.com
+https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_source=lighthouse&utm_medium=node
+https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_source=lighthouse&utm_medium=node#how-to-avoid-showing-invisible-text
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
@@ -239,11 +241,13 @@ ol.CountPls > li::before {
 button {
     /*BUG! the button font did not inherit even placed in body. let's manually apply!*/
     font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
-    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
 }
 
 button:hover {
-    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
 }
 
 hr {
@@ -364,7 +368,8 @@ main {
 /*linkre*/
 
 a {
-    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
     color: orange;
     word-wrap: break-word;
 }
@@ -375,7 +380,8 @@ a:focus-visible {
 }
 
 a:hover {
-    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
     background-color: orange;
     color: navy;
     border-radius: 10px;
@@ -388,7 +394,8 @@ a:active {
 }
 
 a:visited {
-    cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
     color: darkmagenta;
 }
 
@@ -1845,7 +1852,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
         background-color: white;
     }
     header {
-        background-color: rgb(137, 255, 255);
+        /* background-color: rgb(137, 255, 255); */
+        background-color: default;
         color: black;
     }
     header a,

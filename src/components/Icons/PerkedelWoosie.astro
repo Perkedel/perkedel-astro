@@ -1,3 +1,10 @@
 ---
+export interface Props{
+    size?:string;
+}
+
+const{
+    size:'25%';
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
-<img alt="Perkedel Woosie" src="/favicon.gif"/>
+<img alt="Perkedel Woosie" src="/favicon_1024.gif" height={size}/>
