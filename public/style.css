@@ -720,12 +720,14 @@ a[href*='tiktok.com']::before {
     content: url('https://api.iconify.design/logos/tiktok-icon.svg'),'';
 }
 
-a[href*='homestuck.com']::before, a[href*='mspa.com']::before {
+a[href*='homestuck.com']::before, 
+a[href*='mspa.com']::before,
+a[href|='https://homestuck.com']::before {
     content: url('/assets/img/steal/Homestuck/HS.png'),'🏡';
 }
 
 a[href*='homestuck.com/epilogues']::before {
-    content: url('/assets/img/steal/Homestuck/Epilogues.png'),'🏡';
+    content: url('/assets/img/steal/Homestuck/Epilogues.png'),'🏘️';
 }
 
 /* Aside pls
