@@ -61,12 +61,19 @@
 #     ]
 
 # https://github.com/erezrokah/netlify-plugin-is-website-vulnerable#readme
-[[plugins]]
-package = "netlify-plugin-is-website-vulnerable"
+# [[plugins]]
+# package = "netlify-plugin-is-website-vulnerable"
 
 # https://github.com/pagewatchdev/netlify-plugin-pagewatch#readme PAGEWATCH IS FULL OF PAYWALLS
 # [[plugins]]
 #   package = "netlify-plugin-pagewatch"
+
+# https://github.com/netlify-labs/netlify-plugin-sitemap
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
 
 # https://github.com/cdeleeuwe/netlify-plugin-submit-sitemap#readme (public build pls)
 [[plugins]]

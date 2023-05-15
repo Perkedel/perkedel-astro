@@ -4320,3 +4320,5 @@ https://www.pixiv.net/en/artworks/94794810
 - as you can see, Troll is now just a being.
 - there are more things that are matter.
 - what matter now is this.
+- https://github.com/soofka/netlify-plugin-chromium
+- https://github.com/soofka/coronavirus-tracker
