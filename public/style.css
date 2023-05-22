@@ -620,110 +620,114 @@ a[href|='https://help.odysee.tv']::before
 a[href*='reddit.com']::before,
 a[href*='red.it']::before,
 a[href*='redd.it']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='microsoft.com']::before,
 a[href*='windows.com']::before,
 a[href*='live.com']::before,
 a[href*='microsoftonline.com']::before {
-    content: ' ';
+    content: ' ' / "";
+}
+
+a[href*='fandom.com']::before{
+    content: '📙 ' / "";
 }
 
 a[href*='magiclantern.fm']::before,
 a[href*='magiclantern.fandom.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='mighty-hoernsche.de']::before,
 a[href*='chdk.fandom.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='discord.com']::before,
 a[href*='discord.gg']::before {
-    content: 'ﭮ ';
+    content: 'ﭮ ' / "";
 }
 
 a[href*='github.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='gitlab.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='//google.com']::before,
 a[href*='.google.com']::before,
 a[href*='//google.co.id']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='drive.google.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='play.google.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='archive.org']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='twitter.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='tumblr.com']::before {
     /* Speaking of Tumblr, I am banned. peck you, Automattic! */
     /* Edit: No longer banned yey! */
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='facebook.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='instagram.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='wa.me']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='t.me']::before,
 a[href*='telegram.org']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='blender.org']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='spotify.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='soundcloud.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='bandcamp.com']::before {
-    content: 'ﭳ ';
+    content: 'ﭳ ' / "";
 }
 
 a[href*='steampowered.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='steamcommunity.com']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='godotengine.org']::before {
-    content: ' ';
+    content: ' ' / "";
 }
 
 a[href*='tiktok.com']::before {
@@ -779,6 +783,11 @@ a[href*='hs.hiveswap.com/paradoxspace']::before {
     /* https://css-tricks.com/almanac/properties/c/content/ */
     content: '❇️ ' / "";
     content: url('/assets/img/steal/Homestuck/PXS_icon.webp') / "";
+}
+
+a[href*='mspaintadventures.fandom.com']{
+    content: '🧩 ' / "";
+    content: url('/assets/img/steal/Homestuck/mspa-wiki-favicon.ico') / "";
 }
 
 /* Aside pls
@@ -983,7 +992,7 @@ https://www.w3schools.com/cssref/sel_target.php
     color: blue;
 }
 
-.Buttonnize {
+.Buttonnize, .Buttonize {
     background-color: darkorange;
     outline: none;
     color: black;
@@ -994,23 +1003,23 @@ https://www.w3schools.com/cssref/sel_target.php
     display: inline-block;
 }
 
-.Buttonize:focus-visible {
+.Buttonize:focus-visible, .Buttonize:focus-visible {
     outline: 4px dashed cyan;
     border-radius: 4px;
 }
 
-.Buttonnize:hover {
+.Buttonnize:hover, .Buttonize:hover {
     border-radius: 30px;
     background-color: orange;
     color: navy;
 }
 
-.Buttonnize:visited {
+.Buttonnize:visited, .Buttonize:visited {
     background-color: darkmagenta;
     color: white;
 }
 
-.Buttonnize:active {
+.Buttonnize:active, .Buttonize:active {
     background-color: cyan;
     color: blue;
 }
@@ -1018,37 +1027,37 @@ https://www.w3schools.com/cssref/sel_target.php
 
 /* Troubled version of it */
 
-.Buttonnize.Dangerous {
+.Buttonnize.Dangerous, .Buttonize.Dangerous {
     background-color: darkred;
     color: white;
 }
 
-.Buttonnize.Dangerous:hover {
+.Buttonnize.Dangerous:hover, .Buttonize.Dangerous:hover {
     background-color: red;
     color: yellow;
 }
 
-a.Buttonnize.Dangerous:active {
+a.Buttonnize.Dangerous:active, a.Buttonize.Dangerous:active {
     background-color: yellow;
     color: darkblue;
 }
 
-a.Buttonnize.Dangerous:visited:active {
+a.Buttonnize.Dangerous:visited:active, a.Buttonize.Dangerous:visited:active {
     background-color: yellow;
     color: darkblue;
 }
 
-a.Buttonnize.Dangerous:visited {
+a.Buttonnize.Dangerous:visited, a.Buttonize.Dangerous:visited {
     background-color: purple;
     color: white;
 }
 
-a.Buttonnize.Dangerous:visited:hover {
+a.Buttonnize.Dangerous:visited:hover, a.Buttonize.Dangerous:visited:hover {
     background-color: rgb(255, 0, 51);
     color: yellow;
 }
 
-a.Buttonnize.Dangerous:visited:hover:active {
+a.Buttonnize.Dangerous:visited:hover:active, a.Buttonize.Dangerous:visited:hover:active {
     background-color: yellow;
     color: darkblue;
 }
