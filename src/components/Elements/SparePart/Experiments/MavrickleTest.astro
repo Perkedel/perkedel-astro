@@ -1,3 +1,10 @@
 ---
+import Mavrickle from '@components/Icons/Mavrickle.astro';
+import ButtonizedLink from '../ButtonizedLink.astro';
 ---
-<img src={"/assets/img/mavrickle.png"} alt="Mavrickle" title="Mavrickle" width="99%"/>
+<!-- <img src={"/assets/img/mavrickle.png"} alt="Mavrickle" title="Mavrickle" width="99%"/> -->
+<Mavrickle size={'99%'}/>
+<p>
+    <ButtonizedLink href='/assets/img/mavrickle.png' download={'download'} openInNewTab={true}>&#xf6d9; Download PNG</ButtonizedLink>, 
+    <ButtonizedLink href='https://github.com/Perkedel/After-Church/blob/master/RAW%20files/Inkscape/Mavrickle_Contained.svg' openInNewTab={true}>View sauce SVG</ButtonizedLink>
+</p>

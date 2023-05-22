@@ -1,0 +1,10 @@
+---
+export interface Props{
+    size?:string;
+}
+
+const{
+    size='99%',
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<img src={"/assets/img/mavrickle.png"} alt="Mavrickle" title="Mavrickle" width={size}/>
