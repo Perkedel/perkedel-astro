@@ -743,10 +743,42 @@ a[href|='https://www.homestuck.com']::before {
     content: url('/assets/img/steal/Homestuck/HS.png') / "";
 }
 
+a[href*='homestuck2.com']::before,
+a[href|='https://homestuck2.com']::before,
+a[href|='https://www.homestuck2.com']::before
+{
+    content: '🏡(2) ' / "";
+    content: url('/assets/img/steal/Homestuck/HS2.png') / "";
+}
+
 a[href*='homestuck.com/epilogues']::before {
     /* https://css-tricks.com/almanac/properties/c/content/ */
     content: '🏘️ ' / "";
     content: url('/assets/img/steal/Homestuck/Epilogues.png') / "";
+}
+
+a[href*='homestuck.com/epilogues/candy']::before {
+    /* https://css-tricks.com/almanac/properties/c/content/ */
+    content: '🍬 ' / "";
+    content: url('/assets/img/steal/Homestuck/Candy.webp') / "";
+}
+
+a[href*='homestuck.com/epilogues/meat']::before {
+    /* https://css-tricks.com/almanac/properties/c/content/ */
+    content: '🥩 ' / "";
+    content: url('/assets/img/steal/Homestuck/Meat.webp') / "";
+}
+
+a[href*='hiveswap.com/']::before {
+    /* https://css-tricks.com/almanac/properties/c/content/ */
+    content: '🌌 ' / "";
+    /* content: url('/assets/img/steal/Homestuck/PXS_icon.webp') / ""; */
+}
+
+a[href*='hs.hiveswap.com/paradoxspace']::before {
+    /* https://css-tricks.com/almanac/properties/c/content/ */
+    content: '❇️ ' / "";
+    content: url('/assets/img/steal/Homestuck/PXS_icon.webp') / "";
 }
 
 /* Aside pls

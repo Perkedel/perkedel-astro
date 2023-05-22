@@ -9650,6 +9650,10 @@ https://www.pixiv.net/en/artworks/94794810
 - https://mspaintadventures.fandom.com/wiki/Stelsa_Sezyat/Dubiously_Canon
 - Oh wait divorce turns mate to kissmes okeh.. Jake & Jane.
 - Hehe
+- https://mspaintadventures.fandom.com/wiki/Problem_Sleuth
+- https://mspaintadventureswiki.tumblr.com/post/716638923015815168/if-you-like-the-mspa-wiki-maybe-you-like-finding
+- https://mspaintadventures.fandom.com/wiki/Rose_Lalonde_(post-scratch)/Dubiously_Canon
+- https://mspaintadventures.fandom.com/wiki/Gamzee_Makara/Dubiously_Canon
 
 
 
