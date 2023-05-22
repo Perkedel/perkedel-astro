@@ -24,23 +24,25 @@ You can further make crazy with below classes
     /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies */
     --HS-JOELwindows7-color: rgba(125,255,255,1);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
-    --HS-JOELwindows7-prefix: "JOELwindows7: ";
+    --HS-JOELwindows7-prefix: "JOELwindows7: " / "Joel Robert Justiawan says, ";
 
     /* Vriska Serket. */
     --HS-VriskaSerket-color: #005682;
     --HS-VriskaSerket-bgColor: rgba(0,0,0,0);
-    --HS-VriskaSerket-prefix: "♏ Vriska Serket: ";
+    --HS-VriskaSerket-prefix: "♏ Vriska Serket: " / "Vriska Serket says, ";
 
     /* Terezi Pyrope */
     --HS-TereziPyrope-color: #008282;
     --HS-TereziPyrope-bgColor: rgba(0,0,0,0);
-    --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: ";
+    --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: " / "Terezi Pyrope says, "
 
     /* Nepeta Leijon */
     --HS-NepetaLeijon-color: #416600;
     --HS-NepetaLeijon-bgColor: rgba(0,0,0,0);
-    --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: :33 ⬅️";
+    --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: :33 ⬅️ " / "Nepeta Leijon says, ";
     /* TODO: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD` */
+
+    /* TODO: Pls more! Lord English ones is rather complicated! */
 
     /* d */
 
@@ -51,6 +53,8 @@ You can further make crazy with below classes
 ```html
 Install empty span with class `HS-Name` followed with character name.
 <span class='HS-Name JOELwindows7'/>: ...
+
+OR better, put each line in each paragraph, since by default, paragraph line space has been decided, unlike with <br/> (Break line) which do not have space.
 ```
 */
 
@@ -93,6 +97,15 @@ Lazily wrap entire dialog line in a span with class `HS` followed with character
 <br/>
 <span class='HS NepetaLeijon'>Ahei, Joel!</span>
 ```
+
+OR better, put each line in each paragraph, since by default, paragraph line space has been decided, unlike with <br/> (Break line) which do not have space.
+```html
+<p class='HS JOELwindows7'>Ahei, Dasandimian!</p>
+
+<p class='HS NepetaLeijon'>Ahei, Joel!</p>
+```
+
+Note, this will not work viably in Markdown, to ensure text editor compability & pretty much every compatiblity. use above one by one styling instead.
 */
 
 .HS, .Homestuck, .MsPaintAdventure {
