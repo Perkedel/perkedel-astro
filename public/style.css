@@ -1580,8 +1580,8 @@ https://youtu.be/T33NN_pPeNI
 }
 
 .hideScroll:hover{
-    -ms-transition: background-color .1s, color .1s;
-    transition: background-color .1s, color .1s;
+    -ms-transition: background-color .05s, color .05s;
+    transition: background-color .05s, color .05s;
 }
 
 .hideScroll:focus-visible{
