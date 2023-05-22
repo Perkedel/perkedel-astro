@@ -26,6 +26,22 @@ You can further make crazy with below classes
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: "JOELwindows7: ";
 
+    /* Vriska Serket. */
+    --HS-VriskaSerket-color: #005682;
+    --HS-VriskaSerket-bgColor: rgba(0,0,0,0);
+    --HS-VriskaSerket-prefix: "♏ Vriska Serket: ";
+
+    /* Terezi Pyrope */
+    --HS-TereziPyrope-color: #008282;
+    --HS-TereziPyrope-bgColor: rgba(0,0,0,0);
+    --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: ";
+
+    /* Nepeta Leijon */
+    --HS-NepetaLeijon-color: #416600;
+    --HS-NepetaLeijon-bgColor: rgba(0,0,0,0);
+    --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: :33 ⬅️";
+    /* TODO: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD` */
+
     /* d */
 
 }
@@ -38,11 +54,11 @@ Install empty span with class `HS-Name` followed with character name.
 ```
 */
 
-HS-Name {
+.HS-Name {
 
 }
 
-HS-Name JOELwindows7 {
+.HS-Name.JOELwindows7 {
     /* Joel Robert Justiawan. Founder of Perkedel Technologies */
 }
 
@@ -61,11 +77,11 @@ Full Sample
 ```
 */
 
-HS-Dialog {
+.HS-Dialog {
 
 }
 
-HS-Dialog JOELwindows7 {
+.HS-Dialog.JOELwindows7 {
 
 }
 
@@ -79,14 +95,42 @@ Lazily wrap entire dialog line in a span with class `HS` followed with character
 ```
 */
 
-HS, Homestuck, MsPaintAdventure {
+.HS, .Homestuck, .MsPaintAdventure {
 
 }
 
-HS JOELwindows7{
+/* JOELwindows7 */
+.HS.JOELwindows7{
     color: var(--HS-JOELwindows7-color);
     background-color: var(--HS-JOELwindows7-bgColor);
 }
-HS JOELwindows7::before {
+.HS.JOELwindows7::before {
     content: var(--HS-JOELwindows7-prefix);
+}
+
+/* Vriska Serket */
+.HS.VriskaSerket{
+    color: var(--HS-VriskaSerket-color);
+    background-color: var(--HS-VriskaSerket-bgColor);
+}
+.HS.VriskaSerket::before {
+    content: var(--HS-VriskaSerket-prefix);
+}
+
+/* Terezi Pyrope */
+.HS.TereziPyrope{
+    color: var(--HS-TereziPyrope-color);
+    background-color: var(--HS-TereziPyrope-bgColor);
+}
+.HS.TereziPyrope::before {
+    content: var(--HS-TereziPyrope-prefix);
+}
+
+/* Nepeta Leijon */
+.HS.NepetaLeijon{
+    color: var(--HS-NepetaLeijon-color);
+    background-color: var(--HS-NepetaLeijon-bgColor);
+}
+.HS.NepetaLeijon::before {
+    content: var(--HS-NepetaLeijon-prefix);
 }

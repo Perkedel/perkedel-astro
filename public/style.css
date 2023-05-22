@@ -603,7 +603,8 @@ a[href*='youtu.be']::before {
 }
 
 a[href*='lbry.']::before {
-    content: url('https://api.iconify.design/simple-icons/lbry.svg') ,' ';
+    content: ' ' / "";
+    content: url('https://api.iconify.design/simple-icons/lbry.svg') / "";
 }
 
 a[href*='//odysee.com']::before,
@@ -612,7 +613,8 @@ a[href|='https://odysee.com']::before,
 a[href|='https://odysee.tv']::before,
 a[href|='https://help.odysee.tv']::before
 {
-    content: url('https://api.iconify.design/simple-icons/odysee.svg') ,' ';
+    content: ' ' / "";
+    content: url('https://api.iconify.design/simple-icons/odysee.svg') / "";
 }
 
 a[href*='reddit.com']::before,
@@ -721,11 +723,12 @@ a[href*='steamcommunity.com']::before {
 }
 
 a[href*='godotengine.org']::before {
-    content: '';
+    content: ' ';
 }
 
 a[href*='tiktok.com']::before {
-    content: url('https://api.iconify.design/logos/tiktok-icon.svg'),'';
+    content: ' ' / "";
+    content: url('https://api.iconify.design/logos/tiktok-icon.svg') / "";
 }
 
 /* PLS WORK LAH!!!! */
@@ -736,11 +739,14 @@ a[href*='https://www.homestuck.com']::before,
 a[href*='mspa.com']::before,
 a[href|='https://homestuck.com']::before,
 a[href|='https://www.homestuck.com']::before {
-    content: url('/assets/img/steal/Homestuck/HS.png'),'🏡';
+    content: '🏡 ' / "";
+    content: url('/assets/img/steal/Homestuck/HS.png') / "";
 }
 
 a[href*='homestuck.com/epilogues']::before {
-    content: url('/assets/img/steal/Homestuck/Epilogues.png'),'🏘️';
+    /* https://css-tricks.com/almanac/properties/c/content/ */
+    content: '🏘️ ' / "";
+    content: url('/assets/img/steal/Homestuck/Epilogues.png') / "";
 }
 
 /* Aside pls
@@ -1697,7 +1703,7 @@ https://youtu.be/T33NN_pPeNI
     /* can we pls find more procedural way here?! */
 }
 
-.delayScroll:nth-child(6) {
+.delayScroll:nth-child(7) {
     -ms-transition-delay: 1400ms;
     transition-delay: 1400ms;
     /* can we pls find more procedural way here?! */
