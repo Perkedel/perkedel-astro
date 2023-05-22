@@ -24,7 +24,7 @@ You can further make crazy with below classes
     /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies */
     --HS-JOELwindows7-color: rgba(125,255,255,1);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
-    --HS-JOELwindows7-prefix: "JOELwindows7: " / "Joel Robert Justiawan says, ";
+    --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
 
     /* Vriska Serket. */
     --HS-VriskaSerket-color: #005682;
