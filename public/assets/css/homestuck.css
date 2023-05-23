@@ -288,11 +288,27 @@ You can further make crazy with below classes
     --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: ＼(=^..^)/ ⬅️ " / "Meulin Leijon says, ";
     /* TODO: Fore real, Meulin literally emotes her prefix emoji! try to have default, copy with if has attribute. */
 
-    /* Boldir Lamati. */
-    --HS-MeulinLeijon-color: var(--HS-Hemospectrum-OliveBright);
-    --HS-MeulinLeijon-bgColor: rgba(0,0,0,0);
-    --HS-MeulinLeijon-prefix: "🕵️‍♀️ Boldir Lamati: (" / "Boldir Lamati says, ";
-    --HS-MeulinLeijon-postfix: ")" / "";
+    /* Will Smith Alternia. No, serious. Blame Hussie & all contributors involved in this, not me, not us. Not to be confused with real life Will Smith, that's different. */
+    --HS-WillSmithAlternia-color: var(--HS-Hemospectrum-Olive);
+    --HS-WillSmithAlternia-bgColor: rgba(0,0,0,0);
+    --HS-WillSmithAlternia-prefix: "🤴 Alternian Will Smith: " / "Alternian Will Smith says, ";
+
+    /* Boldir Lamati. She encloses her line inside a parenthesis, & triple the `?` in a question.*/
+    --HS-BoldirLamati-color: var(--HS-Hemospectrum-OliveBright);
+    --HS-BoldirLamati-bgColor: rgba(0,0,0,0);
+    --HS-BoldirLamati-prefix: "🕵️‍♀️ Boldir Lamati: (" / "Boldir Lamati says, ";
+    --HS-BoldirLamati-postfix: ")" / "";
+
+    /* Konyyl Okimaw. */
+    --HS-KonyylOkimaw-color: var(--HS-Hemospectrum-OliveBright);
+    --HS-KonyylOkimaw-bgColor: rgba(0,0,0,0);
+    --HS-KonyylOkimaw-prefix: " Konyyl Okimaw:" / "Konyyl Okimaw says, ";
+
+    /* Polypa Goezee. Polipa.. Gizi?? sorry. She throws her sentence / line like a shuriken into a wall. use asterisk to separate clause * like a comma. *🧱 */
+    --HS-PolypaGoezee-color: var(--HS-Hemospectrum-OliveBright);
+    --HS-PolypaGoezee-bgColor: rgba(0,0,0,0);
+    --HS-PolypaGoezee-prefix: "🔥⭐ Polypa Goezee:" / "Polypa Goezee says, ";
+    --HS-PolypaGoezee-postfix: " *🧱" / "";
 
     /* TODO: Pls more! Lord English ones is rather complicated! */
 
