@@ -21,23 +21,111 @@ Put your color, bg color, font, etc. here.
 You can further make crazy with below classes
 */
 :root {
-    /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies */
+    /* Hemospectrums. List of Blood Colors according to Alternia
+    as fans whose collected the intels here 
+    https://mspaintadventures.fandom.com/wiki/Hemospectrum
+    also more intels:
+    - https://en.wikipedia.org/wiki/Web_colors
+    - https://www.w3schools.com/tags/ref_colornames.asp
+    - https://www.w3.org/wiki/CSS/Properties/color/keywords
+
+    It appears the original comic did not explicitly use color name,
+    rather, they *hand drew* them.
+    */
+    --HS-Hemospectrum-Rust: #a10000; /* So.. is this basically same as iron / zat besi in *Homo sapiens*? Text color for Aradia Megido, HS2 Ruthie. */
+    /*  */
+    --HS-Hemospectrum-RustBright: #bb0000; /* Hiveswap Xefros Tritoh text color. */
+    /*  */
+    --HS-Hemospectrum-RustBrighter: #f42123; /* Hiveswap other character text color. */
+    /*  */
+    --HS-Hemospectrum-CandyRed: #ff0000; /* Red Cherub such as Cherub father, & Calliborn */
+    /*  */
+    --HS-Hemospectrum-Bronze: #a25203;
+    /*  */
+    --HS-Hemospectrum-BronzeBright: #b25900; /* Dammek Hiveswap text color. */
+    /*  */
+    --HS-Hemospectrum-BronzeBrighter: #cd7f32; /* Other Hiveswap Bronze character text color. */
+    /*  */
+    --HS-Hemospectrum-BronzeDim: #a15000; /* Tavros Text color. */
+    /*  */
+    --HS-Hemospectrum-Silver: #c0c0c0; /* No Silver 😭.. Silver Bell?? */
+    /*  */
+    --HS-Hemospectrum-Gold: #a1a100;
+    /*  */
+    --HS-Hemospectrum-Lime: #658200; /* This is rare, Karkat's ♋ sign however looks grayer */
+    --HS-Hemospectrum-LimeBright: #2ed73a; /* Lime Cherub such as Cherub mother, Calamity, Calliope not Hololive */
+    /*  */
+    --HS-Hemospectrum-Olive: #416600; /* also text color for Nepeta */
+    /*  */
+    --HS-Hemospectrum-OliveBright: #71a020; /* Text color for Hivewap */
+    /*  */
+    --HS-Hemospectrum-Jade: #078446;
+    /*  */
+    --HS-Hemospectrum-JadeBright: #008141; /* Text color for Kanaya Maryam */
+    /*  */
+    --HS-Hemospectrum-JadeBrighter: #2caa6b; /* Text color for Hiveswap Jade characters, not to be confused with Jade Harley */
+    /*  */
+    --HS-Hemospectrum-JadeGreener: #4ac925; /* a.k.a. Radioactive. Jade Harley's text color */
+    /*  */
+    --HS-Hemospectrum-Teal: #008282;
+    /*  */
+    --HS-Hemospectrum-TealBright: #26baba; /* Hiveswap text color. */
+    /*  */
+    --HS-Hemospectrum-Blue: #004182;
+    /*  */
+    --HS-Hemospectrum-BlueGreener: #005682; /* Who's error here, this is Vriska's & some other's blood color. */
+    /*  */
+    --HS-Hemospectrum-BlueBright: #3796c6; /* Many Blue characters featured in Hiveswap had this text color. */
+    /*  */
+    --HS-Hemospectrum-BlueParrot: #0049ff; /* Mierfa Durgas (Epilogue Universe C) had this text color. */
+    /*  */
+    --HS-Hemospectrum-BlueBluer: #0715cd; /* a.k.a. Blue pen. John Egbert text color */
+    /*  */
+    --HS-Hemospectrum-Indigo: #0021cb;
+    /*  */
+    --HS-Hemospectrum-IndigoDim: #000056; /* Use this for text color e.g. Equius Zahhak, Aradia but bot, etc. */
+    /*  */
+    --HS-Hemospectrum-IndigoBright: #6464ff; /* Hiveswap Indigo characters uses this text color. */
+    /*  */
+    --HS-Hemospectrum-Purple: #440a7f; /* pls no more discrepancies */
+    /*  */
+    --HS-Hemospectrum-PurpleDim: #2b0057; /* Oh, C'mon!! Gamzee Makara */
+    /*  */
+    --HS-Hemospectrum-PurpleBright: #a954ff; /* PROPAN, THE PAINT SPECIALIST!! Stop.. pls..; Hiveswap. */
+    /*  */
+    --HS-Hemospectrum-PurplePurpler: #B536DA; /* Rose Lalonde text color. */
+    /*  */
+    --HS-Hemospectrum-Violet: #6a006a; /* Yes, Violet is different. Text color, Eridan Ampora, cars like Maybach. */
+    /*  */
+    --HS-Hemospectrum-VioletBright: #791a79; /* Hiveswap text color. Fiamet. */
+    /*  */
+    --HS-Hemospectrum-Fuschia: #99004d; /* Highest of all. Feferi Peixes, Meenah Peixes, Betty Crocker / Condesce. also Google Nest Hub because OS Fuschia, cars like Rolls Royce. I & my descendants must control this because they tend to enslave everyone's beneath this color like pretty much arrogant leaders of galaxies. */
+    /*  */
+    --HS-Hemospectrum-FuschiaDim: #77003c; /* Text color for Feferi, Meenah, & Betty. */
+    /*  */
+    --HS-Hemospectrum-FuschiaDimmer: #6e003c; /* Text color for Hiveswap Trizza Tethis. */
+    /*  */
+    --HS-Hemospectrum-GrayTrue: #626262; /* Karkat's text color is this, not using his candy-red blood color. */
+    
+    /* end homospectrum */
+
+    /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies, 1st Kaorfa of Perkedel Cinematic Universe. */
     --HS-JOELwindows7-color: rgba(125,255,255,1);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
 
     /* Vriska Serket. */
-    --HS-VriskaSerket-color: #005682;
+    --HS-VriskaSerket-color: var(--HS-Hemospectrum--BlueGreener);
     --HS-VriskaSerket-bgColor: rgba(0,0,0,0);
     --HS-VriskaSerket-prefix: "♏ Vriska Serket: " / "Vriska Serket says, ";
 
-    /* Terezi Pyrope */
-    --HS-TereziPyrope-color: #008282;
+    /* Terezi Pyrope. */
+    --HS-TereziPyrope-color: var(--HS-Hemospectrum-Teal);
     --HS-TereziPyrope-bgColor: rgba(0,0,0,0);
     --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: " / "Terezi Pyrope says, ";
 
-    /* Nepeta Leijon */
-    --HS-NepetaLeijon-color: #416600;
+    /* Nepeta Leijon. */
+    --HS-NepetaLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-NepetaLeijon-bgColor: rgba(0,0,0,0);
     --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: :33 ⬅️ " / "Nepeta Leijon says, ";
     /* TODO: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD` */
@@ -146,4 +234,9 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 }
 .HS.NepetaLeijon::before {
     content: var(--HS-NepetaLeijon-prefix);
+}
+
+/* In case you need to compensate contrast level depending on the color mode */
+@media(prefers-color-scheme: light){
+    /* All colors should be optimized for dark mode 1st, then this light mode 2nd */
 }
