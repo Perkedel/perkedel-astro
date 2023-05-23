@@ -7,7 +7,8 @@ You can now easily dialog faster & focus more to the dialog. With Lazy wrap, sim
 
 Only JOELwindows7 & commonly known by username & easy to know character name will this be called. or does it?
 
-Icon before the name is not supported due to the limitation with CSS (e.g. `💢 Angery: ...`). We are currently working around this. Sorry, people, no fancy logo for now.
+~~Icon before the name is not supported due to the limitation with CSS (e.g. `💢 Angery: ...`). We are currently working around this. Sorry, people, no fancy logo for now.~~ 
+They work, but other interpreting does not. use CSS syntax, the space equals `+` in many programming language string concatenations, so it's like `url(https:://example.com/example.png) " Example: ..."`. There still few syntax only, e.g. lacks italic or bold syntax like `italic("bla bla bla")`.
 
 by JOELwindows7
 Perkedel Technologies
@@ -32,7 +33,7 @@ You can further make crazy with below classes
     It appears the original comic did not explicitly use color name,
     rather, they *hand drew* them.
     */
-    --HS-Hemospectrum-Rust: #a10000; /* So.. is this basically same as iron / zat besi in *Homo sapiens*? Text color for Aradia Megido, HS2 Ruthie. */
+    --HS-Hemospectrum-Rust: #a10000; /* So.. is this basically same as iron / zat besi in *Homo sapiens*? Text color for Aradia Megido, HS2 Ruthie. Not to be confused with 🦀 Rust language, which is orange. */
     /*  */
     --HS-Hemospectrum-RustBright: #bb0000; /* Hiveswap Xefros Tritoh text color. */
     /*  */
@@ -50,9 +51,12 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-Silver: #c0c0c0; /* No Silver 😭.. Silver Bell?? */
     /*  */
-    --HS-Hemospectrum-Gold: #a1a100;
+    --HS-Hemospectrum-Gold: #a1a100; /* also Sollux Captor text color */
+    /*  */
+    --HS-Hemospectrum-GoldBright: #abab1a; /* Hiveswap Gold character & Sewu families text color. */
     /*  */
     --HS-Hemospectrum-Lime: #658200; /* This is rare, Karkat's ♋ sign however looks grayer */
+    /*  */
     --HS-Hemospectrum-LimeBright: #2ed73a; /* Lime Cherub such as Cherub mother, Calamity, Calliope not Hololive */
     /*  */
     --HS-Hemospectrum-Olive: #416600; /* also text color for Nepeta */
@@ -119,10 +123,158 @@ You can further make crazy with below classes
     --HS-VriskaSerket-bgColor: rgba(0,0,0,0);
     --HS-VriskaSerket-prefix: "♏ Vriska Serket: " / "Vriska Serket says, ";
 
+    /* Vrissy Maryam-Lalonde Serket. Daughter 1. */
+    --HS-SidoSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-SidoSerket-bgColor: rgba(0,0,0,0);
+    --HS-SidoSerket-prefix: "♏ Vriska Maryam-Lalonde Serket: " / "Vrissy Serket says, ";
+
+    /* Sido Serket. Daughter 2. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably. Infact that system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's hope come true, hence this her name. Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
+    --HS-SidoSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-SidoSerket-bgColor: rgba(0,0,0,0);
+    --HS-SidoSerket-prefix: "♏ Sido Serket: " / "Sido Serket says, ";
+
     /* Terezi Pyrope. */
     --HS-TereziPyrope-color: var(--HS-Hemospectrum-Teal);
     --HS-TereziPyrope-bgColor: rgba(0,0,0,0);
     --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: " / "Terezi Pyrope says, ";
+
+    /* Aradia Megido. */
+    --HS-AradiaMegido-color: var(--HS-Hemospectrum-Rust);
+    --HS-AradiaMegido-bgColor: rgba(0,0,0,0);
+    --HS-AradiaMegido-prefix: "♈ Aradia Megido: " / "Aradia Megido says, ";
+
+    /* Damara Megido. */
+    --HS-AradiaMegido-color: var(--HS-Hemospectrum-Rust);
+    --HS-AradiaMegido-bgColor: rgba(0,0,0,0);
+    --HS-AradiaMegido-prefix: "♈🥵 Damara Megido: " / "Damara Megido says, ";
+
+    /* Xefros Tritoh. */
+    --HS-XefrosTritoh-color: var(--HS-Hemospectrum-RustBright);
+    --HS-XefrosTritoh-bgColor: rgba(0,0,0,0);
+    --HS-XefrosTritoh-prefix: "🦎 Xefros Tritoh: " / "Xefros Tritoh says, ";
+
+    /* Diemen Xicali. */
+    --HS-DiemenXicali-color: var(--HS-Hemospectrum-RustBrighter);
+    --HS-DiemenXicali-bgColor: rgba(0,0,0,0);
+    --HS-DiemenXicali-prefix: "🐃 Diemen Xicali: " / "Diemen Xicali says, ";
+
+    /* Marsti Houtek. */
+    --HS-MarstiHoutek-color: var(--HS-Hemospectrum-RustBrighter);
+    --HS-MarstiHoutek-bgColor: rgba(0,0,0,0);
+    --HS-MarstiHoutek-prefix: "🧑‍🚀 Marsti Houtek: " / "Marsti Houtek says, ";
+
+    /* Ruthie. */
+    --HS-Ruthie-color: var(--HS-Hemospectrum-RustBrighter);
+    --HS-Ruthie-bgColor: rgba(0,0,0,0);
+    --HS-Ruthie-prefix: "🍟 Ruthie: " / "Ruthie says, ";
+
+    /* Tavros Nitram, */
+    --HS-TavrosNitram-color: var(--HS-Hemospectrum-BronzeDim);
+    --HS-TavrosNitram-bgColor: rgba(0,0,0,0);
+    --HS-TavrosNitram-prefix: "♉ Tavros Nitram: " / "Tavros Nitram says, ";
+
+    /* Rufioh Nitram, */
+    --HS-RufiohNitram-color: var(--HS-Hemospectrum-BronzeDim);
+    --HS-RufiohNitram-bgColor: rgba(0,0,0,0);
+    --HS-RufiohNitram-prefix: "♉🔥 Rufioh Nitram: " / "Rufioh Nitram says, ";
+
+    /* Dammek. */
+    --HS-Dammek-color: var(--HS-Hemospectrum-BronzeBright);
+    --HS-Dammek-bgColor: rgba(0,0,0,0);
+    --HS-Dammek-prefix: "🗝️ Dammek: " / "Dammek says, ";
+
+    /* Chixie Roixmr. */
+    --HS-ChixieRoixmr-color: var(--HS-Hemospectrum-BronzeBrighter);
+    --HS-ChixieRoixmr-bgColor: rgba(0,0,0,0);
+    --HS-ChixieRoixmr-prefix: "⚙️ Chixie Roixmr: " / "Chixie Roixmr says, ";
+
+    /* Skylla Koriga. */
+    --HS-SkyllaKoriga-color: var(--HS-Hemospectrum-BronzeBrighter);
+    --HS-SkyllaKoriga-bgColor: rgba(0,0,0,0);
+    --HS-SkyllaKoriga-prefix: "🤠 Skylla Koriga: " / "Skylla Koriga says, ";
+
+    /* Treyaf. */
+    --HS-Treyaf-color: var(--HS-Hemospectrum-BronzeBrighter);
+    --HS-Treyaf-bgColor: rgba(0,0,0,0);
+    --HS-Treyaf-prefix: "❔ Treyaf: " / "Treyaf says, ";
+
+    /* Sollux Captor. */
+    --HS-SolluxCaptor-color: var(--HS-Hemospectrum-Gold);
+    --HS-SolluxCaptor-bgColor: rgba(0,0,0,0);
+    --HS-SolluxCaptor-prefix: "♊ Sollux Captor: " / "Sollux Captor says, ";
+
+    /* Mituna Captor. */
+    --HS-MitunaCaptor-color: var(--HS-Hemospectrum-Gold);
+    --HS-MitunaCaptor-bgColor: rgba(0,0,0,0);
+    --HS-MitunaCaptor-prefix: "♊🥽 Mituna Captor: " / "Mituna Captor says, ";
+
+    /* Azdaja Knelax. */
+    --HS-AzdajaKnelax-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-AzdajaKnelax-bgColor: rgba(0,0,0,0);
+    --HS-AzdajaKnelax-prefix: "👁️ Azdaja Knelax: " / "Azdaja Knelax says, ";
+
+    /* Cirava Hermod. */
+    --HS-CiravaHermod-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-CiravaHermod-bgColor: rgba(0,0,0,0);
+    --HS-CiravaHermod-prefix: "📐 Cirava Hermod: " / "Cirava Hermod says, ";
+
+    /* Folykl Darane. un-necessary   spa c e. */
+    --HS-FolyklDarane-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-FolyklDarane-bgColor: rgba(0,0,0,0);
+    --HS-FolyklDarane-prefix: "🐞 Folykl Darane: " / "Folykl Darane says, ";
+
+    /* Kuprum Maxlol. */
+    --HS-KuprumMaxlol-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-KuprumMaxlol-bgColor: rgba(0,0,0,0);
+    --HS-KuprumMaxlol-prefix: "🎒 Kuprum Maxlol: " / "Kuprum Maxlol says, ";
+
+    /* Pulo Sewu. Following Sewu trolls are OC from Perkedel Technologies. Son 1. Thousand Island. during times in Jakarta for short, this unnamed descendant got his name while visiting off shore mini island in Jakarta with similar name, kepulauan Seribu / Thousand isle. */
+    --HS-PuloSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-PuloSewu-bgColor: rgba(0,0,0,0);
+    --HS-PuloSewu-prefix: "🏝️ Pulo Sewu: " / "Pulo Sewu says, ";
+
+    /* Lawang Sewu. Son 2. Thousand Door. A defunct now museum Dutch era train station in Semarang. While visiting this place after immigrated for good to Semarang due to 98 May Chaos (Kerusuhan Mei 1998), the ancestor (mom / mama) saved this idea for later this second descendant. */
+    --HS-LawangSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-LawangSewu-bgColor: rgba(0,0,0,0);
+    --HS-LawangSewu-prefix: "🚪 Lawang Sewu: " / "Lawang Sewu says, ";
+
+    /* Malam Sewu CG. Son 3. Arabian Night / 1001 Malam. Somehow Arabian night got translated to 1001 night instead in Indonesian. Note though, Sewu families are Christian, only mama got interested in this quite bizzare name. The CG was later added by mama & Malam himself to complete the pun, as Siji in Java means Number 1. */
+    --HS-MalamSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-MalamSewu-bgColor: rgba(0,0,0,0);
+    --HS-MalamSewu-prefix: "🌙 Malam Sewu CG: " / "Malam Sewu CG says, ";
+
+    /* Konco Sewu. Son 4. Thousand Friends. Mama wished all families has *Thousand Friends*, philosophically meaning have lots of friends and as few as enemies as possible. Konco in Java means friend. */
+    --HS-KoncoSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-KoncoSewu-bgColor: rgba(0,0,0,0);
+    --HS-KoncoSewu-prefix: "👥 Konco Sewu: " / "Konco Sewu says, ";
+
+    /* Tumbuh Sewu. Son 5. Grows Thousands. Named after famous quote "Per once death, grows thousands" / "Mati satu, tumbuh seribu". */
+    --HS-TumbuhSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-TumbuhSewu-bgColor: rgba(0,0,0,0);
+    --HS-TumbuhSewu-prefix: "🌱 Tumbuh Sewu: " / "Tumbuh Sewu says, ";
+
+    /* Sikil Sewu. Son 6. Thousand Legs / Caterpillar Milipede. Named after a worm, that called thousand legs in Indonesian, which is just a milipede. Sikil in Java means Leg. */
+    --HS-SikilSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-SikilSewu-bgColor: rgba(0,0,0,0);
+    --HS-SikilSewu-prefix: "👣 Sikil Sewu: " / "Sikil Sewu says, ";
+
+    /* Ambarawa Sewu. Mom of Sewu family. Originally, Ambarawa had no last name, but since she likes number 1000, she added that one herself. Remember, Sewu in Java means One thousand. Coincidentally, the mama lusus (a Komodo) that named her Ambarawa, matches a town name in Semarang, like it was fated to be it. Please note, Ambarawa act a human shaped mother figure, while the real mother here is that mother lusus, a Komodo. And it appears we have lost tracked who is who, the matesprite was, coz the Drone didn't tell us, It just knocked random ones & filled random ones also. */
+    --HS-AmbarawaSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-AmbarawaSewu-bgColor: rgba(0,0,0,0);
+    --HS-AmbarawaSewu-prefix: "♟️ Ambarawa Sewu: " / "Ambarawa Sewu says, ";
+    /* Oh I know! it was.. Dlavem Ketrejim, who sat on one date night. wait this one hatches Pulo to Sikil. And oh yeah, that's the guy sitting watching TV every night, it's him, Papa. So, what's on the Night News (World News / Berita dalam Dunia) here on TVRI?
+    the Grandpa wow, hold on a sec. No grandpa neither grandma, sort of, the... Komodo hatch Beforoviparly (because previous mom lusus died, Maryam disect egg and hatch it this). Then a Drone filled up from random Matesprites couple to this Komodo, and there's that Ambarawa. Pls wait, we are designing her siblings! Yeah Sewu aunties / Tante2 Sewu.
+    */
+
+    /* Karkat Vantas. Karkat was supposedly Lime, but yeah you see, exterminations. So it's rare. Luckily, the Dolorosa saved him & raised him. OMG, Dolorosa, lol what?! No.. that... okay yeah. */
+    --HS-KarkatVantas-color: var(--HS-Hemospectrum-GrayTrue);
+    --HS-KarkatVantas-bgColor: rgba(0,0,0,0);
+    --HS-KarkatVantas-prefix: "♋ Karkat Vantas: " / "Karkat Vantas says, ";
+
+    /* Dlavem Ketrejim. Also hear me out, let's add one too that got lucky. He's too afraid to protest, all his friend & family died in this extermination. I gotta make them alive again & move them to Dasandim, claim them in Sorrow city. Now you see, Ambarawa found some interesting trait that no other Alternian had back then. That's how she got him. He's alone, but got courage which unfortunately had to be told cryptically. I hope he don't fell overpolitical like my dad is. Watch contents carefully folks! */
+    --HS-KarkatVantas-color: var(--HS-Hemospectrum-Lime);
+    --HS-KarkatVantas-bgColor: rgba(0,0,0,0);
+    --HS-KarkatVantas-prefix: "🏴‍☠️ Dlavem Ketrejim: " / "Dlavem Ketrejim says, ";
 
     /* Nepeta Leijon. */
     --HS-NepetaLeijon-color: var(--HS-Hemospectrum-Olive);
@@ -130,7 +282,26 @@ You can further make crazy with below classes
     --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: :33 ⬅️ " / "Nepeta Leijon says, ";
     /* TODO: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD` */
 
+    /* Meulin Leijon. */
+    --HS-MeulinLeijon-color: var(--HS-Hemospectrum-Olive);
+    --HS-MeulinLeijon-bgColor: rgba(0,0,0,0);
+    --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: ＼(=^..^)/ ⬅️ " / "Meulin Leijon says, ";
+    /* TODO: Fore real, Meulin literally emotes her prefix emoji! try to have default, copy with if has attribute. */
+
+    /* Boldir Lamati. */
+    --HS-MeulinLeijon-color: var(--HS-Hemospectrum-OliveBright);
+    --HS-MeulinLeijon-bgColor: rgba(0,0,0,0);
+    --HS-MeulinLeijon-prefix: "🕵️‍♀️ Boldir Lamati: (" / "Boldir Lamati says, ";
+    --HS-MeulinLeijon-postfix: ")" / "";
+
     /* TODO: Pls more! Lord English ones is rather complicated! */
+
+    /* IDEA: maybe add character whose icon changes depending on media selection. e.g. light is ☀️, dark is 🌙 idk.. */
+
+    /* Unknown */
+    /* --HS-Unknown-color: var(--HS-Hemospectrum-RustBrighter); */
+    --HS-Unknown-bgColor: rgba(0,0,0,0);
+    --HS-Unknown-prefix: "❔ ???: " / "Unknown person says, ";
 
     /* d */
 
@@ -196,8 +367,12 @@ OR better, put each line in each paragraph, since by default, paragraph line spa
 Note, this will not work viably in Markdown, to ensure text editor compability & pretty much every compatiblity. use above one by one styling instead.
 */
 
-.HS, .Homestuck, .MsPaintAdventure {
+/* Unknown Character */
+.HS, .Homestuck, .MsPaintAdventure, .HS.Unknown {
 
+}
+.HS::before, .HS.Unknown::before {
+    content: var(--HS-Unknown-prefix),
 }
 
 /* JOELwindows7 */
@@ -236,7 +411,12 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-NepetaLeijon-prefix);
 }
 
-/* In case you need to compensate contrast level depending on the color mode */
+/* 
+Light mode compensators
+
+In case you need to compensate contrast level depending on the color mode 
+
+*/
 @media(prefers-color-scheme: light){
     /* All colors should be optimized for dark mode 1st, then this light mode 2nd */
 }

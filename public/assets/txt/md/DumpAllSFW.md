@@ -9656,6 +9656,7 @@ https://www.pixiv.net/en/artworks/94794810
 - https://mspaintadventures.fandom.com/wiki/Gamzee_Makara/Dubiously_Canon
 - https://stackoverflow.com/questions/13211206/html5-link-rel-shortcut-icon
 - http://mspaintadventures.fandom.com/wiki/Mizzlebip
+- https://mspaintadventures.fandom.com/wiki/Majyyk
 
 
 
