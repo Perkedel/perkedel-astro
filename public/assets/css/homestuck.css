@@ -113,31 +113,15 @@ You can further make crazy with below classes
     
     /* end homospectrum */
 
+    /* DEFINE VARIABLES */
+
+    /* UNIVERSE OWNERS */
     /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies, 1st Kaorfa of Perkedel Cinematic Universe. */
     --HS-JOELwindows7-color: rgba(125,255,255,1);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
 
-    /* Vriska Serket. */
-    --HS-VriskaSerket-color: var(--HS-Hemospectrum--BlueGreener);
-    --HS-VriskaSerket-bgColor: rgba(0,0,0,0);
-    --HS-VriskaSerket-prefix: "♏ Vriska Serket: " / "Vriska Serket says, ";
-
-    /* Vrissy Maryam-Lalonde Serket. Daughter 1. */
-    --HS-SidoSerket-color: var(--HS-Hemospectrum--BlueGreener);
-    --HS-SidoSerket-bgColor: rgba(0,0,0,0);
-    --HS-SidoSerket-prefix: "♏ Vriska Maryam-Lalonde Serket: " / "Vrissy Serket says, ";
-
-    /* Sido Serket. Daughter 2. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably. Infact that system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's hope come true, hence this her name. Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
-    --HS-SidoSerket-color: var(--HS-Hemospectrum--BlueGreener);
-    --HS-SidoSerket-bgColor: rgba(0,0,0,0);
-    --HS-SidoSerket-prefix: "♏ Sido Serket: " / "Sido Serket says, ";
-
-    /* Terezi Pyrope. */
-    --HS-TereziPyrope-color: var(--HS-Hemospectrum-Teal);
-    --HS-TereziPyrope-bgColor: rgba(0,0,0,0);
-    --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: " / "Terezi Pyrope says, ";
-
+    /* RUST BLOODED */
     /* Aradia Megido. */
     --HS-AradiaMegido-color: var(--HS-Hemospectrum-Rust);
     --HS-AradiaMegido-bgColor: rgba(0,0,0,0);
@@ -168,6 +152,7 @@ You can further make crazy with below classes
     --HS-Ruthie-bgColor: rgba(0,0,0,0);
     --HS-Ruthie-prefix: "🍟 Ruthie: " / "Ruthie says, ";
 
+    /* BRONZE BLOODED */
     /* Tavros Nitram, */
     --HS-TavrosNitram-color: var(--HS-Hemospectrum-BronzeDim);
     --HS-TavrosNitram-bgColor: rgba(0,0,0,0);
@@ -198,6 +183,9 @@ You can further make crazy with below classes
     --HS-Treyaf-bgColor: rgba(0,0,0,0);
     --HS-Treyaf-prefix: "❔ Treyaf: " / "Treyaf says, ";
 
+    /* SILVER BLOODED */
+
+    /* GOLD BLOODED */
     /* Sollux Captor. */
     --HS-SolluxCaptor-color: var(--HS-Hemospectrum-Gold);
     --HS-SolluxCaptor-bgColor: rgba(0,0,0,0);
@@ -266,23 +254,25 @@ You can further make crazy with below classes
     the Grandpa wow, hold on a sec. No grandpa neither grandma, sort of, the... Komodo hatch Beforoviparly (because previous mom lusus died, Maryam disect egg and hatch it this). Then a Drone filled up from random Matesprites couple to this Komodo, and there's that Ambarawa. Pls wait, we are designing her siblings! Yeah Sewu aunties / Tante2 Sewu.
     */
 
+    /* LIME BLOODED */
     /* Karkat Vantas. Karkat was supposedly Lime, but yeah you see, exterminations. So it's rare. Luckily, the Dolorosa saved him & raised him. OMG, Dolorosa, lol what?! No.. that... okay yeah. */
     --HS-KarkatVantas-color: var(--HS-Hemospectrum-GrayTrue);
     --HS-KarkatVantas-bgColor: rgba(0,0,0,0);
     --HS-KarkatVantas-prefix: "♋ Karkat Vantas: " / "Karkat Vantas says, ";
 
-    /* Dlavem Ketrejim. Also hear me out, let's add one too that got lucky. He's too afraid to protest, all his friend & family died in this extermination. I gotta make them alive again & move them to Dasandim, claim them in Sorrow city. Now you see, Ambarawa found some interesting trait that no other Alternian had back then. That's how she got him. He's alone, but got courage which unfortunately had to be told cryptically. I hope he don't fell overpolitical like my dad is. Watch contents carefully folks! */
+    /* Dlavem Ketrejim. Also hear me out, let's add one too that got lucky. He's too afraid to protest, all his friend & family died in this extermination. I gotta make them alive again & move them to Dasandim, claim them in Sorrow city, same city where Dasandim Intergalactic Law Enforcement Alliance is. Now you see, Ambarawa found some interesting trait that no other Alternian had back then. That's how she got him. He's alone, but got courage which unfortunately had to be told cryptically. I hope he don't fell overpolitical like my dad is. Watch contents carefully folks! */
     --HS-KarkatVantas-color: var(--HS-Hemospectrum-Lime);
     --HS-KarkatVantas-bgColor: rgba(0,0,0,0);
     --HS-KarkatVantas-prefix: "🏴‍☠️ Dlavem Ketrejim: " / "Dlavem Ketrejim says, ";
 
+    /* OLIVE BLOODED */
     /* Nepeta Leijon. */
     --HS-NepetaLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-NepetaLeijon-bgColor: rgba(0,0,0,0);
     --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: :33 ⬅️ " / "Nepeta Leijon says, ";
     /* TODO: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD` */
 
-    /* Meulin Leijon. */
+    /* Meulin Leijon. Mom. */
     --HS-MeulinLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-MeulinLeijon-bgColor: rgba(0,0,0,0);
     --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: ＼(=^..^)/ ⬅️ " / "Meulin Leijon says, ";
@@ -310,9 +300,192 @@ You can further make crazy with below classes
     --HS-PolypaGoezee-prefix: "🔥⭐ Polypa Goezee:" / "Polypa Goezee says, ";
     --HS-PolypaGoezee-postfix: " *🧱" / "";
 
+    /* JADE BLOODED */
+    /* Kanaya Maryam. */
+    --HS-KanayaMaryam-color: var(--HS-Hemospectrum-JadeBright);
+    --HS-KanayaMaryam-bgColor: rgba(0,0,0,0);
+    --HS-KanayaMaryam-prefix: "♍ Kanaya Maryam:" / "KanayaMaryam says, ";
+
+    /* Porrim Maryam. Mom. Oh my God, the Dolorosa redirects to this Dolorosa & the title is also Porrim Maryam. People, uhh.. we set that Alternians will be different entity, while humans are merged. */
+    --HS-PorrimMaryam-color: var(--HS-Hemospectrum-JadeBright);
+    --HS-PorrimMaryam-bgColor: rgba(0,0,0,0);
+    --HS-PorrimMaryam-prefix: "♍ Porrim Maryam:" / "Porrim Maryam says, ";
+
+    /* (DEPRECATED, IS MERGED TO PORRIM) Dolorosa Maryam. Screw this poop! rename giant Porrim to Dolorosa!!! ahflijshljkghsejlkghsjlkhfzslid!!!. What the hell, Andrew?!?!?!?!?!??!?!?!?! Luckily she's okay with it, coz Signless doesn't care with names too much, including her. UGH!!!! Piece of poop! 🤯🤯🤯🤯🤯🤯🤯 I am confused right now!!! Diluar nalar coy!!!! */
+    /* --HS-DolorosaMaryam-color: var(--HS-Hemospectrum-JadeBright);
+    --HS-DolorosaMaryam-bgColor: rgba(0,0,0,0);
+    --HS-DolorosaMaryam-prefix: "♍ Dolorosa Maryam:" / "Dolorosa Maryam says, "; */
+
+    /* Swifer Eggmop. These are the Earth C's new Jade Alternians. */
+    --HS-SwiferEggmop-color: var(--HS-Hemospectrum-JadeBright);
+    --HS-SwiferEggmop-bgColor: rgba(0,0,0,0);
+    --HS-SwiferEggmop-prefix: "🧹 Swifer Eggmop:" / "Swifer Eggmop says, ";
+
+    /* Clipper Borden. & this. */
+    --HS-CliperBorden-color: var(--HS-Hemospectrum-JadeBright);
+    --HS-CliperBorden-bgColor: rgba(0,0,0,0);
+    --HS-CliperBorden-prefix: "🖇️ Cliper Borden:" / "Cliper Borden says, ";
+
+    /* Bronya Ursama. Now, Jade Hivewswaps. */
+    --HS-BronyaUrsama-color: var(--HS-Hemospectrum-JadeBrighter);
+    --HS-BronyaUrsama-bgColor: rgba(0,0,0,0);
+    --HS-BronyaUrsama-prefix: "🐈‍⬛ Bronya Ursama:" / "Bronya Ursama says, ";
+
+    /* Daraya Jonjet. */
+    --HS-DarayaJonjet-color: var(--HS-Hemospectrum-JadeBrighter);
+    --HS-DarayaJonjet-bgColor: rgba(0,0,0,0);
+    --HS-DarayaJonjet-prefix: " Daraya Jonjet:" / "Daraya Jonjet says, ";
+
+    /* Lanque Bombyx. */
+    --HS-LanqueBombyx-color: var(--HS-Hemospectrum-JadeBrighter);
+    --HS-LanqueBombyx-bgColor: rgba(0,0,0,0);
+    --HS-LanqueBombyx-prefix: " Lanque Bombyx:" / "Lanque Bombyx says, ";
+
+    /* Wanshi Adyata. */
+    --HS-WanshiAdyata-color: var(--HS-Hemospectrum-JadeBrighter);
+    --HS-WanshiAdyata-bgColor: rgba(0,0,0,0);
+    --HS-WanshiAdyata-prefix: " Wanshi Adyata:" / "Wanshi Adyata says, ";
+
+    /* Actias. */
+    --HS-Actias-color: var(--HS-Hemospectrum-JadeBrighter);
+    --HS-Actias-bgColor: rgba(0,0,0,0);
+    --HS-Actias-prefix: " Actias:" / "Actias says, ";
+
+    /* TEAL BLOODED */
+    /* Terezi Pyrope. Thancc for helping us testing it this. Cool and good. She likes to L33T1FY & C4P1T4L1Z3 her lines */
+    --HS-TereziPyrope-color: var(--HS-Hemospectrum-Teal);
+    --HS-TereziPyrope-bgColor: rgba(0,0,0,0);
+    --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: " / "Terezi Pyrope says, ";
+
+    /* Latula Pyrope. Tell you what? Redglare give this girl name same, Redglare becomes just redglare. How about that? aslkdjflksjad. */
+    --HS-LatulaPyrope-color: var(--HS-Hemospectrum-Teal);
+    --HS-LatulaPyrope-bgColor: rgba(0,0,0,0);
+    --HS-LatulaPyrope-prefix: "♎ Latula Pyrope: " / "Latula Pyrope says, ";
+
+    /* (DEPRECATED, IS MERGED TO LATULA) Redglare Pyrope. This is the original ancestor, remember that. Pls discuss whether this should change to also merge 2 of these into 1 just like for Humans will. We only have few years before this fork becomes canon here in Perkedel Cinematic Universe. */
+    /* --HS-RedglarePyrope-color: var(--HS-Hemospectrum-Teal);
+    --HS-RedglarePyrope-bgColor: rgba(0,0,0,0);
+    --HS-RedglarePyrope-prefix: "♎ Redglare Pyrope: " / "Redglare Pyrope says, "; */
+
+    /* Stelsa Sezyat. I think we should all agree, above post & pre scratches were time travel differences, much like for Humans. Anybody object here? */
+    --HS-StelsaSezyat-color: var(--HS-Hemospectrum-TealBright);
+    --HS-StelsaSezyat-bgColor: rgba(0,0,0,0);
+    --HS-StelsaSezyat-prefix: " Stelsa Sezyat: " / "Stelsa Sezyat says, ";
+
+    /* Tagora Gorjek. No, not Gojek! It's different. Also, what about "Betty Crocker" / Condesce? Oh.. like this. Meenah saw her future self that she's a... bad person. idk. */
+    --HS-TagoraGorjek-color: var(--HS-Hemospectrum-TealBright);
+    --HS-TagoraGorjek-bgColor: rgba(0,0,0,0);
+    --HS-TagoraGorjek-prefix: " Tagora Gorjek: " / "Tagora Gorjek says, ";
+
+    /* Tegiri Kalbur. */
+    --HS-TegiriKalbur-color: var(--HS-Hemospectrum-TealBright);
+    --HS-TegiriKalbur-bgColor: rgba(0,0,0,0);
+    --HS-TegiriKalbur-prefix: " Tegiri Kalbur: " / "Tegiri Kalbur says, ";
+
+    /* Tyzias Entykk. */
+    --HS-TyziasEntykk-color: var(--HS-Hemospectrum-TealBright);
+    --HS-TyziasEntykk-bgColor: rgba(0,0,0,0);
+    --HS-TyziasEntykk-prefix: " Tyzias Entykk: " / "Tyzias Entykk says, ";
+
+    /* Idarat Catlaz. */
+    --HS-IdaratCatlaz-color: var(--HS-Hemospectrum-TealBright);
+    --HS-IdaratCatlaz-bgColor: rgba(0,0,0,0);
+    --HS-IdaratCatlaz-prefix: " Idarat Catlaz: " / "Idarat Catlaz says, ";
+
+    /* Tiagon. */
+    --HS-Tiagon-color: var(--HS-Hemospectrum-TealBright);
+    --HS-Tiagon-bgColor: rgba(0,0,0,0);
+    --HS-Tiagon-prefix: " Tiagon: " / "Tiagon says, ";
+
+    /* Journo. */
+    --HS-Journo-color: var(--HS-Hemospectrum-TealBright);
+    --HS-Journo-bgColor: rgba(0,0,0,0);
+    --HS-Journo-prefix: " Journo: " / "Journo says, ";
+
+    /* Nufren. "=see you around never=", yeah, No friend, literally. How pitiful. */
+    --HS-Nufren-color: var(--HS-Hemospectrum-TealBright);
+    --HS-Nufren-bgColor: rgba(0,0,0,0);
+    --HS-Nufren-prefix: " Nufren: =" / "Nufren says, ";
+    --HS-Nufren-postfix: "=" / "";
+
+    /* BLUE BLOODED */
+    /* Vriska Serket. */
+    --HS-VriskaSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-VriskaSerket-bgColor: rgba(0,0,0,0);
+    --HS-VriskaSerket-prefix: "♏ Vriska Serket: " / "Vriska Serket says, ";
+
+    /* Aranea Serket. Mom. You know what? fine. let's merge them each. These minds are merging just like that astronaut of Zathura film merged upon it revealed, the wished boy that came back was his young brother, on an alternate timeline to which there he did wished he gone, and regreted it, later we all see the main boy wished him back. Yeah you know. */
+    --HS-AraneaSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-AraneaSerket-bgColor: rgba(0,0,0,0);
+    --HS-AraneaSerket-prefix: "♏ Aranea Serket: " / "Aranea Serket says, ";
+
+    /* Vrissy Maryam-Lalonde Serket. Daughter 1, from Vriska. */
+    --HS-VrissySerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-VrissySerket-bgColor: rgba(0,0,0,0);
+    --HS-VrissySerket-prefix: "♏ Vriska Maryam-Lalonde Serket: " / "Vrissy Serket says, ";
+
+    /* Sido Serket. Daughter 2, from Vriska. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably. Infact that system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's hope come true, hence this her name. Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
+    --HS-SidoSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-SidoSerket-bgColor: rgba(0,0,0,0);
+    --HS-SidoSerket-prefix: "♏ Sido Serket: " / "Sido Serket says, ";
+    /* IDEA: Hey, pls regex that changes every occurences of `B`, & `b` into `8`. This has to be new CSS spec, will ya!!! */
+
+    /* Mierfa Durgas. */
+    --HS-MierfaDurgas-color: var(--HS-Hemospectrum--BlueParrot);
+    --HS-MierfaDurgas-bgColor: rgba(0,0,0,0);
+    --HS-MierfaDurgas-prefix: " Mierfa Durgas: " / "Mierfa Durgas says, ";
+
+    /* Ardata Carmia. not ADATA!!! */
+    --HS-ArdataCarmia-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-ArdataCarmia-bgColor: rgba(0,0,0,0);
+    --HS-ArdataCarmia-prefix: " Ardata Carmia: " / "Ardata Carmia says, ";
+
+    /* Elwurd. */
+    --HS-Elwurd-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-Elwurd-bgColor: rgba(0,0,0,0);
+    --HS-Elwurd-prefix: " ?????? Elwurd: " / "Unknown Elwurd says, ";
+
+    /* Remele Namaaq. */
+    --HS-RemeleNamaaq-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-RemeleNamaaq-bgColor: rgba(0,0,0,0);
+    --HS-RemeleNamaaq-prefix: " Remele Namaaq: " / "Remele Namaaq says, ";
+
+    /* Mallek Adalov. */
+    --HS-MallekAdalov-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-MallekAdalov-bgColor: rgba(0,0,0,0);
+    --HS-MallekAdalov-prefix: " Mallek Adalov: " / "Mallek Adalov says, ";
+
+    /* Carla Zabji Ziem. an OC Alternian of Perkedel Technologies, not to be confused with Carlie Lamitiemd. She likes to wrap her line between lightnings just like her horn. She has electrocution abilities. She can even Defib ones heart, & hug ones to pacemaker 🫀. like Nepeta, she is a cardiophile. in fact, that's was my idea to tell Carla to buy Nepeta a stethoscope, lol! */
+    --HS-CarlaZabjiZiem-color: var(--HS-Hemospectrum-BlueBright);
+    --HS-CarlaZabjiZiem-bgColor: rgba(0,0,0,0);
+    --HS-CarlaZabjiZiem-prefix: "⚡ Carla Zabji Ziem:" / "Carla Zabji Ziem says, ";
+    --HS-CarlaZabjiZiem-postfix: " ⚡" / "";
+
+    /* INDIGO BLOODED */
+    /* Equius Zahhak. */
+    --HS-EquiusZahhak-color: var(--HS-Hemospectrum-IndigoDim);
+    --HS-EquiusZahhak-bgColor: rgba(0,0,0,0);
+    --HS-EquiusZahhak-prefix: "♐ Equius Zahhak: 🏹" / "Equius Zahhak says, ";
+
+    /* Horus Zahhak. Dad. Okay, keep in mind, some Universe D / Fanfic writers decided not to merge scratches. pls separate between like `Horrus` & `huh who`? like that on the before & after. Wait, still use this same class, and uh, we'll figure out the filler CSS attributing later, just have `(post)`, `(pre)` something like that for now, idk. */
+    --HS-HorussZahhak-color: var(--HS-Hemospectrum-IndigoDim);
+    --HS-HorussZahhak-bgColor: rgba(0,0,0,0);
+    --HS-HorussZahhak-prefix: "♐ Horuss Zahhak: 🏹" / "Horuss Zahhak says, ";
+
+    /* (Deprecated) Aradia bot. */
+    --HS-AradiaBot-color: var(--HS-Hemospectrum-IndigoDim);
+    --HS-AradiaBot-bgColor: rgba(0,0,0,0);
+    --HS-AradiaBot-prefix: "♐ Equius Zahhak: 🏹" / "Equius Zahhak says, ";
+
     /* TODO: Pls more! Lord English ones is rather complicated! */
 
     /* IDEA: maybe add character whose icon changes depending on media selection. e.g. light is ☀️, dark is 🌙 idk.. */
+
+    /* TODO: Pls template variables! Name Full, Call Name, "says" word
+
+    /* IDEA: Who's character constantly shifts numbers?! so when 1 2 3 4 5, that person goes ! @ # $ % . Who? */
+    
+    */
 
     /* Unknown */
     /* --HS-Unknown-color: var(--HS-Hemospectrum-RustBrighter); */
@@ -322,6 +495,44 @@ You can further make crazy with below classes
     /* d */
 
 }
+
+/* COLOR OVERRIDENINGS */
+/* What's this:
+
+First, install text color basically. the prefix should be later.
+
+*/
+
+/* Unknown Character */
+.HS, .HS.Unknown, .HS-Name, .HS-Dialog, .MsPaintAdventure, .HS.Unknown {
+    /* no color */
+}
+
+/* JOELwindows7 */
+.HS.JOELwindows7, .HS-Name.JOELwindows7, .HS-Dialog.JOELwindows7 {
+    color: var(--HS-JOELwindows7-color);
+    background-color: var(--HS-JOELwindows7-bgColor);
+}
+
+/* Vriska Serket */
+.HS.VriskaSerket, .HS-Name.VriskaSerket, .HS-Dialog.VriskaSerket {
+    color: var(--HS-VriskaSerket-color);
+    background-color: var(--HS-VriskaSerket-bgColor);
+}
+
+/* Terezi Pyrope */
+.HS.TereziPyrope, .HS-Name.TereziPyrope, .HS-Dialog.TereziPyrope {
+    color: var(--HS-TereziPyrope-color);
+    background-color: var(--HS-TereziPyrope-bgColor);
+}
+
+/* Nepeta Leijon */
+.HS.NepetaLeijon, .HS-Name.NepetaLeijon, .HS-Dialog.NepetaLeijon {
+    color: var(--HS-NepetaLeijon-color);
+    background-color: var(--HS-NepetaLeijon-bgColor);
+}
+
+/* End Color overridenings */
 
 /* Names */
 /* HOW TO USE:
@@ -384,45 +595,26 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 */
 
 /* Unknown Character */
-.HS, .Homestuck, .MsPaintAdventure, .HS.Unknown {
-
-}
 .HS::before, .HS.Unknown::before {
     content: var(--HS-Unknown-prefix),
 }
 
 /* JOELwindows7 */
-.HS.JOELwindows7{
-    color: var(--HS-JOELwindows7-color);
-    background-color: var(--HS-JOELwindows7-bgColor);
-}
 .HS.JOELwindows7::before {
     content: var(--HS-JOELwindows7-prefix);
 }
 
 /* Vriska Serket */
-.HS.VriskaSerket{
-    color: var(--HS-VriskaSerket-color);
-    background-color: var(--HS-VriskaSerket-bgColor);
-}
 .HS.VriskaSerket::before {
     content: var(--HS-VriskaSerket-prefix);
 }
 
 /* Terezi Pyrope */
-.HS.TereziPyrope{
-    color: var(--HS-TereziPyrope-color);
-    background-color: var(--HS-TereziPyrope-bgColor);
-}
 .HS.TereziPyrope::before {
     content: var(--HS-TereziPyrope-prefix);
 }
 
 /* Nepeta Leijon */
-.HS.NepetaLeijon{
-    color: var(--HS-NepetaLeijon-color);
-    background-color: var(--HS-NepetaLeijon-bgColor);
-}
 .HS.NepetaLeijon::before {
     content: var(--HS-NepetaLeijon-prefix);
 }
@@ -436,3 +628,5 @@ In case you need to compensate contrast level depending on the color mode
 @media(prefers-color-scheme: light){
     /* All colors should be optimized for dark mode 1st, then this light mode 2nd */
 }
+
+/* IDEA: will Denizen now? Rachel something, Joshua White.. */
