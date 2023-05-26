@@ -477,6 +477,38 @@ You can further make crazy with below classes
     --HS-AradiaBot-bgColor: rgba(0,0,0,0);
     --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, ";
 
+    /* Amisia Erdehn. */
+    --HS-AmisiaErdehn-color: var(--HS-Hemospectrum-IndigoBright);
+    --HS-AmisiaErdehn-bgColor: rgba(0,0,0,0);
+    --HS-AmisiaErdehn-prefix: " Amisia Erdehn: " / "Amisia Erdehn says, ";
+
+    /* Galekh Xigisi. */
+    --HS-GalekhXigisi-color: var(--HS-Hemospectrum-IndigoBright);
+    --HS-GalekhXigisi-bgColor: rgba(0,0,0,0);
+    --HS-GalekhXigisi-prefix: " Galekh Xigisi: " / "Galekh Xigisi says, ";
+
+    /* Nihkee Moolah. */
+    --HS-NihkeeMoolah-color: var(--HS-Hemospectrum-IndigoBright);
+    --HS-NihkeeMoolah-bgColor: rgba(0,0,0,0);
+    --HS-NihkeeMoolah-prefix: " Nihkee Moolah: " / "Nihkee Moolah says, ";
+
+    /* Zebruh Codakk. */
+    --HS-ZebruhCodakk-color: var(--HS-Hemospectrum-IndigoBright);
+    --HS-ZebruhCodakk-bgColor: rgba(0,0,0,0);
+    --HS-ZebruhCodakk-prefix: " Zebruh Codakk: " / "Zebruh Codakk says, ";
+
+    /* Onhors. */
+    --HS-Onhors-color: var(--HS-Hemospectrum-IndigoBright);
+    --HS-Onhors-bgColor: rgba(0,0,0,0);
+    --HS-Onhors-prefix: " Onhors: " / "Onhors says, ";
+
+    /* Motter Ataxia. */
+    --HS-MotterAtaxia-color: var(--HS-Hemospectrum-IndigoDim);
+    --HS-MotterAtaxia-bgColor: rgba(0,0,0,0);
+    --HS-MotterAtaxia-prefix: " Motter Ataxia: " / "Motter Ataxia says, ";
+
+    /* PURPLE BLOODED */
+
     /* TODO: Pls more! Lord English ones is rather complicated! */
 
     /* IDEA: maybe add character whose icon changes depending on media selection. e.g. light is ☀️, dark is 🌙 idk.. */
