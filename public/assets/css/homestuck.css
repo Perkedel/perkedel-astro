@@ -410,12 +410,12 @@ You can further make crazy with below classes
 
     /* BLUE BLOODED */
     /* Vriska Serket. */
-    --HS-VriskaSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-VriskaSerket-color: var(--HS-Hemospectrum-BlueGreener);
     --HS-VriskaSerket-bgColor: rgba(0,0,0,0);
     --HS-VriskaSerket-prefix: "♏ Vriska Serket: " / "Vriska Serket says, ";
 
     /* Aranea Serket. Mom. You know what? fine. let's merge them each. These minds are merging just like that astronaut of Zathura film merged upon it revealed, the wished boy that came back was his young brother, on an alternate timeline to which there he did wished he gone, and regreted it, later we all see the main boy wished him back. Yeah you know. */
-    --HS-AraneaSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-AraneaSerket-color: var(--HS-Hemospectrum-BlueGreener);
     --HS-AraneaSerket-bgColor: rgba(0,0,0,0);
     --HS-AraneaSerket-prefix: "♏ Aranea Serket: " / "Aranea Serket says, ";
 
@@ -425,33 +425,33 @@ You can further make crazy with below classes
     --HS-VrissySerket-prefix: "♏ Vriska Maryam-Lalonde Serket: " / "Vrissy Serket says, ";
 
     /* Sido Serket. Daughter 2, from Vriska. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably. Infact that system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's hope come true, hence this her name. Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
-    --HS-SidoSerket-color: var(--HS-Hemospectrum--BlueGreener);
+    --HS-SidoSerket-color: var(--HS-Hemospectrum-BlueGreener);
     --HS-SidoSerket-bgColor: rgba(0,0,0,0);
     --HS-SidoSerket-prefix: "♏ Sido Serket: " / "Sido Serket says, ";
     /* IDEA: Hey, pls regex that changes every occurences of `B`, & `b` into `8`. This has to be new CSS spec, will ya!!! */
 
     /* Mierfa Durgas. */
-    --HS-MierfaDurgas-color: var(--HS-Hemospectrum--BlueParrot);
+    --HS-MierfaDurgas-color: var(--HS-Hemospectrum-BlueParrot);
     --HS-MierfaDurgas-bgColor: rgba(0,0,0,0);
     --HS-MierfaDurgas-prefix: " Mierfa Durgas: " / "Mierfa Durgas says, ";
 
     /* Ardata Carmia. not ADATA!!! */
-    --HS-ArdataCarmia-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-ArdataCarmia-color: var(--HS-Hemospectrum-BlueBright);
     --HS-ArdataCarmia-bgColor: rgba(0,0,0,0);
     --HS-ArdataCarmia-prefix: " Ardata Carmia: " / "Ardata Carmia says, ";
 
     /* Elwurd. */
-    --HS-Elwurd-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-Elwurd-color: var(--HS-Hemospectrum-BlueBright);
     --HS-Elwurd-bgColor: rgba(0,0,0,0);
     --HS-Elwurd-prefix: " ?????? Elwurd: " / "Unknown Elwurd says, ";
 
     /* Remele Namaaq. */
-    --HS-RemeleNamaaq-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-RemeleNamaaq-color: var(--HS-Hemospectrum-BlueBright);
     --HS-RemeleNamaaq-bgColor: rgba(0,0,0,0);
     --HS-RemeleNamaaq-prefix: " Remele Namaaq: " / "Remele Namaaq says, ";
 
     /* Mallek Adalov. */
-    --HS-MallekAdalov-color: var(--HS-Hemospectrum--BlueBright);
+    --HS-MallekAdalov-color: var(--HS-Hemospectrum-BlueBright);
     --HS-MallekAdalov-bgColor: rgba(0,0,0,0);
     --HS-MallekAdalov-prefix: " Mallek Adalov: " / "Mallek Adalov says, ";
 
