@@ -132,8 +132,10 @@ You can further make crazy with below classes
     --HS-Hemospectrum-Black: #000000; /* Roxy Lalonde (karen, pre-scratch), Dirk Strider (karen, pre-scratch). */
     /*  */
     --HS-Hemospectrum-CyanCyanner: #00d5f2; /* Jane Egbert. */
+    --HS-Hemospectrum-CyanSky: #71daff; /* Joey Claire. */
     /*  */
     --HS-Hemospectrum-OrangeOranger: #f2a400; /* Dirk Strider. */
+    --HS-Hemospectrum-Creme: #d3ff8f; /* Jude Harley. */
     
     /* end homospectrum */
 
@@ -186,6 +188,11 @@ You can further make crazy with below classes
     --HS-DirkStrider-prefix: "🧢 Dirk Strider: " / "Dirk Strider says, ";
     /* Okay right. Dirk to Roxy. good. hokeh. we're getting there. Overall intertwines like a DNA 🧬 */
 
+    /* Dad Egbert / Crocker. */
+    --HS-DadEgbert-color: var(--HS-Hemospectrum-GrayGrayer);
+    --HS-DadEgbert-bgColor: rgba(0,0,0,0);
+    --HS-DadEgbert-prefix: " Dad Egbert: " / "Dad Egbert says, ";
+
     /* Jake Harley / English. to Claire. Papa of John & Jade & Joey & Jude. */
     --HS-JakeHarley-color: var(--HS-Hemospectrum-GreenGreener);
     --HS-JakeHarley-bgColor: rgba(0,0,0,0);
@@ -206,10 +213,15 @@ You can further make crazy with below classes
     https://www.homestuck.com/story/4441
     */
 
-    /* Dad Egbert / Crocker. */
-    --HS-DadEgbert-color: var(--HS-Hemospectrum-GrayGrayer);
-    --HS-DadEgbert-bgColor: rgba(0,0,0,0);
-    --HS-DadEgbert-prefix: " Dad Egbert: " / "Dad Egbert says, ";
+    /* Joey Claire. to Xefros. daugther 1 of A. Claire. */
+    --HS-JoeyClaire-color: var(--HS-Hemospectrum-CyanSky);
+    --HS-JoeyClaire-bgColor: rgba(0,0,0,1);
+    --HS-JoeyClaire-prefix: "☀️ Joey Claire: " / "Joey Claire says, ";
+
+    /* Jude Harley. to Xefros. daugther 1 of A. Claire. */
+    --HS-JudeHarley-color: var(--HS-Hemospectrum-Creme);
+    --HS-JudeHarley-bgColor: rgba(0,0,0,1);
+    --HS-JudeHarley-prefix: "🛸 Jude Harley: " / "Jude Harley says, ";
 
     /* RUST BLOODED */
     /* Aradia Megido. */
@@ -737,7 +749,7 @@ You can further make crazy with below classes
     --HS-Caliborn-prefix: "⛎💀👦 Caliborn: " / "Caliborn says, ";
     --HS-Caliborn-postfix: "" / "";
 
-    /* Calliope. daughter 2. */
+    /* Calliope. daughter 2. She speaks British. Bo'oh'o'wo'ah. */
     --HS-Calliope-color: var(--HS-Hemospectrum-GrayCandy);
     --HS-Calliope-bgColor: rgba(0,0,0,0);
     --HS-Calliope-prefix: "☤💀👧 Calliope: " / "Calliope says, ";
