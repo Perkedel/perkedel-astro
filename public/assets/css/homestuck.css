@@ -10,6 +10,8 @@ Only JOELwindows7 & commonly known by username & easy to know character name wil
 ~~Icon before the name is not supported due to the limitation with CSS (e.g. `💢 Angery: ...`). We are currently working around this. Sorry, people, no fancy logo for now.~~ 
 They work, but other interpreting does not. use CSS syntax, the space equals `+` in many programming language string concatenations, so it's like `url(https:://example.com/example.png) " Example: ..."`. There still few syntax only, e.g. lacks italic or bold syntax like `italic("bla bla bla")`.
 
+Big shout out to fans who collected so much intels at https://mspaintadventures.fandom.com yey cool and good thancc.
+
 by JOELwindows7
 Perkedel Technologies
 GNU AGPL v3
@@ -39,7 +41,9 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-RustBrighter: #f42123; /* Hiveswap other character text color. */
     /*  */
-    --HS-Hemospectrum-CandyRed: #ff0000; /* Red Cherub such as Cherub father, & Calliborn */
+    --HS-Hemospectrum-RedCandy: #ff0000; /* Red Cherub such as Cherub father, & Calliborn */
+    /*  */
+    --HS-Hemospectrum-RedRedder: #e00707; /* Dave Strider */
     /*  */
     --HS-Hemospectrum-Bronze: #a25203;
     /*  */
@@ -57,7 +61,7 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-Lime: #658200; /* This is rare, Karkat's ♋ sign however looks grayer */
     /*  */
-    --HS-Hemospectrum-LimeBright: #2ed73a; /* Lime Cherub such as Cherub mother, Calamity, Calliope not Hololive */
+    --HS-Hemospectrum-LimeBright: #2ed73a; /* Lime Cherub such as Cherub mother, Calamity, Calliope not Hololive. no Calliope is gray, Caliborn is this color! */
     /*  */
     --HS-Hemospectrum-Olive: #416600; /* also text color for Nepeta */
     /*  */
@@ -70,6 +74,7 @@ You can further make crazy with below classes
     --HS-Hemospectrum-JadeBrighter: #2caa6b; /* Text color for Hiveswap Jade characters, not to be confused with Jade Harley */
     /*  */
     --HS-Hemospectrum-JadeGreener: #4ac925; /* a.k.a. Radioactive. Jade Harley's text color */
+    --HS-Hemospectrum-GreenGreener: #1f9400; /* Jake Harley / English */
     /*  */
     --HS-Hemospectrum-Teal: #008282;
     /*  */
@@ -101,6 +106,8 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-Violet: #6a006a; /* Yes, Violet is different. Text color, Eridan Ampora, cars like Maybach. */
     /*  */
+    --HS-Hemospectrum-VioletVioleter: #8b008b; /* Fantroll Nektan Whelan. */
+    /*  */
     --HS-Hemospectrum-VioletBright: #791a79; /* Hiveswap text color. Fiamet. */
     /*  */
     --HS-Hemospectrum-Fuschia: #99004d; /* Highest of all. Feferi Peixes, Meenah Peixes, Betty Crocker / Condesce. also Google Nest Hub because OS Fuschia, cars like Rolls Royce. I & my descendants must control this because they tend to enslave everyone's beneath this color like pretty much arrogant leaders of galaxies. */
@@ -109,7 +116,24 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-FuschiaDimmer: #6e003c; /* Text color for Hiveswap Trizza Tethis. */
     /*  */
+    --HS-Hemospectrum-Magenta: #ff00ff; /* Text color for Jase & Pyworth */
+    /*  */
+    --HS-Hemospectrum-MagentaBright: #ff55ff; /* Text color for Hiveswap */
+    /*  */
+    --HS-Hemospectrum-MagentaDim: #fe00fe; /* Text color for idk.. */
+    /*  */
+    --HS-Hemospectrum-PinkPinker: #ff6ff2; /* Roxy Lalonde */
+    /*  */
     --HS-Hemospectrum-GrayTrue: #626262; /* Karkat's text color is this, not using his candy-red blood color. */
+    /*  */
+    --HS-Hemospectrum-GrayGrayer: #4b4b4b; /* Dad Egbert. */
+    --HS-Hemospectrum-GrayCandy: #929292; /* Calliope. */
+    /*  */
+    --HS-Hemospectrum-Black: #000000; /* Roxy Lalonde (karen, pre-scratch), Dirk Strider (karen, pre-scratch). */
+    /*  */
+    --HS-Hemospectrum-CyanCyanner: #00d5f2; /* Jane Egbert. */
+    /*  */
+    --HS-Hemospectrum-OrangeOranger: #f2a400; /* Dirk Strider. */
     
     /* end homospectrum */
 
@@ -120,6 +144,72 @@ You can further make crazy with below classes
     --HS-JOELwindows7-color: rgba(125,255,255,1);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
+
+    /* OTHER HUMANS */
+
+    /* John Egbert. to Rose. */
+    --HS-JohnEgbert-color: var(--HS-Hemospectrum-BlueBluer);
+    --HS-JohnEgbert-bgColor: rgba(0,0,0,0);
+    --HS-JohnEgbert-prefix: "👻 John Egbert: " / "John Egbert says, ";
+
+    /* Rose Lalonde. to John. */
+    --HS-RoseLalonde-color: var(--HS-Hemospectrum-PurplePurpler);
+    --HS-RoseLalonde-bgColor: rgba(0,0,0,0);
+    --HS-RoseLalonde-prefix: "🦑 Rose Lalonde: " / "Rose Lalonde says, ";
+    /* Sorry gamers, we gotta add some rumbles to the wires a bit, because that official wires fits only to an unofficial verification. Yeah, we only endorse main verifications. */
+
+    /* Dave Strider. to Jade (official). */
+    --HS-DaveStrider-color: var(--HS-Hemospectrum-RedRedder);
+    --HS-DaveStrider-bgColor: rgba(0,0,0,0);
+    --HS-DaveStrider-prefix: "💿 Dave Strider: " / "Dave Strider says, ";
+    /* Perfect. trade marry their sisters. Wow, very tough, but I believe we got it correct. */
+
+    /* Jade Harley. to Dave (official), John's sister. Right, label Jade younger than John. Young sister. Okay. */
+    --HS-JadeHarley-color: var(--HS-Hemospectrum-JadeGreener);
+    --HS-JadeHarley-bgColor: rgba(0,0,0,0);
+    --HS-JadeHarley-prefix: "🐶 Jade Harley: " / "Jade Harley says, ";
+
+    /* Jane Egbert / Crocker. Mama of John & Jade & Dad. How's the face like you were having back in the day? Yeah, indeed, you're welcome. Yes, we made her younger again, from the existing point merging every duplicates. */
+    --HS-JaneEgbert-color: var(--HS-Hemospectrum-CyanSprite);
+    --HS-JaneEgbert-bgColor: rgba(0,0,0,0);
+    --HS-JaneEgbert-prefix: "👵 Jane Egbert: " / "Jane Egbert says, ";
+    /* Wow, we're getting into complicated stuffs here. Bear with me, take the officially genetic of. */
+
+    /* Roxy Lalonde. Mama of Rose & Dave. */
+    --HS-RoxyLalonde-color: var(--HS-Hemospectrum-PinkPinker);
+    --HS-RoxyLalonde-bgColor: rgba(0,0,0,0);
+    --HS-RoxyLalonde-prefix: "🍸 Roxy Lalonde: " / "Roxy Lalonde says, ";
+
+    /* Dirk Strider. Papa of Rose & Dave. */
+    --HS-DirkStrider-color: var(--HS-Hemospectrum-OrangeOranger);
+    --HS-DirkStrider-bgColor: rgba(0,0,0,0);
+    --HS-DirkStrider-prefix: "🧢 Dirk Strider: " / "Dirk Strider says, ";
+    /* Okay right. Dirk to Roxy. good. hokeh. we're getting there. Overall intertwines like a DNA 🧬 */
+
+    /* Jake Harley / English. to Claire. Papa of John & Jade & Joey & Jude. */
+    --HS-JakeHarley-color: var(--HS-Hemospectrum-GreenGreener);
+    --HS-JakeHarley-bgColor: rgba(0,0,0,0);
+    --HS-JakeHarley-prefix: "🔫 Jake Harley: " / "Jake Harley says, ";
+
+    /* A. Claire. to Jake. Mama of Joey & Jude. */
+    --HS-AClaire-color: var(--HS-Hemospectrum-GreenGreener);
+    --HS-AClaire-bgColor: rgba(0,0,0,0);
+    --HS-AClaire-prefix: " Anna Claire: " / "Anna Claire says, ";
+    /* TODO: unabbreviate the A. */
+    /* after she died, go to Jane / nanna, have John & Jade.. ouch okay. Death is buthole.
+    NO no, first go to Jane / Nanna (adoptive sister), to help destroy Condesce / Meenah Peixes. But then Jake run away to home for new adventure, and reassures Jane he believes in her. That's it, disconnected. And then go to A. Claire. born Joey, born Jude, & she died.
+    Yep, This is is tough & so much. Let's just Resurrect her without further a do..
+    Fan speculated it's Anna or something. look at her
+    https://mspaintadventures.fandom.com/wiki/A._Claire
+    https://homestuck.com/story/4440 wow who graffiti the book?! Well I would do something like this when I was a kid.. I just.. idk..
+    Oh, Dirk?!
+    https://www.homestuck.com/story/4441
+    */
+
+    /* Dad Egbert / Crocker. */
+    --HS-DadEgbert-color: var(--HS-Hemospectrum-GrayGrayer);
+    --HS-DadEgbert-bgColor: rgba(0,0,0,0);
+    --HS-DadEgbert-prefix: " Dad Egbert: " / "Dad Egbert says, ";
 
     /* RUST BLOODED */
     /* Aradia Megido. */
@@ -260,7 +350,7 @@ You can further make crazy with below classes
     --HS-KarkatVantas-bgColor: rgba(0,0,0,0);
     --HS-KarkatVantas-prefix: "♋ Karkat Vantas: " / "Karkat Vantas says, ";
 
-    /* Dlavem Ketrejim. Also hear me out, let's add one too that got lucky. He's too afraid to protest, all his friend & family died in this extermination. I gotta make them alive again & move them to Dasandim, claim them in Sorrow city, same city where Dasandim Intergalactic Law Enforcement Alliance is. Now you see, Ambarawa found some interesting trait that no other Alternian had back then. That's how she got him. He's alone, but got courage which unfortunately had to be told cryptically. I hope he don't fell overpolitical like my dad is. Watch contents carefully folks! */
+    /* Dlavem Ketrejim. Father of Sewu family. Also hear me out, let's add one too that got lucky. He's too afraid to protest, all his friend & family died in this extermination. I gotta make them alive again & move them to Dasandim, claim them in Sorrow city, same city where Dasandim Intergalactic Law Enforcement Alliance is. Now you see, Ambarawa found some interesting trait that no other Alternian had back then. That's how she got him. He's alone, but got courage which unfortunately had to be told cryptically. I hope he don't fell overpolitical like my dad is. Watch contents carefully folks! */
     --HS-KarkatVantas-color: var(--HS-Hemospectrum-Lime);
     --HS-KarkatVantas-bgColor: rgba(0,0,0,0);
     --HS-KarkatVantas-prefix: "🏴‍☠️ Dlavem Ketrejim: " / "Dlavem Ketrejim says, ";
@@ -288,17 +378,29 @@ You can further make crazy with below classes
     --HS-BoldirLamati-bgColor: rgba(0,0,0,0);
     --HS-BoldirLamati-prefix: "🕵️‍♀️ Boldir Lamati: (" / "Boldir Lamati says, ";
     --HS-BoldirLamati-postfix: ")" / "";
+    /* Boldir: (What is CSS???)
+    Joel: uhh CSS, abbreviation of Cascading Styling Sheet, is a script for a website used to you know, style website. make the bland old looking website into more colorful & stylish.
+    Boldir: (Oh.. Wow this sheet is so long here eh???)
+    Joel: Yep. lotsa more.
+    Boldir: (And who is that handsome.. wait that's you???)
+    Joel: Ahei! it's me! Yes, I am here!
+    Boldir: (Oh wow, I've been looked at.. (blush)...)
+    Joel: Say hi to the gamers!
+    Boldir: (uh... (nervous & shy) hai???)
+    (gamer): (form look is adult woman) Wow you look big & tall now! Cool!!
+    Boldir: ((felt appreciated, blush very olive) Oh my gosh...)
+    */
 
     /* Konyyl Okimaw. */
     --HS-KonyylOkimaw-color: var(--HS-Hemospectrum-OliveBright);
     --HS-KonyylOkimaw-bgColor: rgba(0,0,0,0);
     --HS-KonyylOkimaw-prefix: " Konyyl Okimaw:" / "Konyyl Okimaw says, ";
 
-    /* Polypa Goezee. Polipa.. Gizi?? sorry. She throws her sentence / line like a shuriken into a wall. use asterisk to separate clause * like a comma. *🧱 */
+    /* Polypa Goezee. Polipa.. Gizi?? sorry. She throws her sentence / line like a shuriken into a wall. use asterisk to separate clause * like a comma. *🪵 */
     --HS-PolypaGoezee-color: var(--HS-Hemospectrum-OliveBright);
     --HS-PolypaGoezee-bgColor: rgba(0,0,0,0);
     --HS-PolypaGoezee-prefix: "🔥⭐ Polypa Goezee:" / "Polypa Goezee says, ";
-    --HS-PolypaGoezee-postfix: " *🧱" / "";
+    --HS-PolypaGoezee-postfix: " *🪵" / "";
 
     /* JADE BLOODED */
     /* Kanaya Maryam. */
@@ -356,11 +458,18 @@ You can further make crazy with below classes
     --HS-TereziPyrope-color: var(--HS-Hemospectrum-Teal);
     --HS-TereziPyrope-bgColor: rgba(0,0,0,0);
     --HS-TereziPyrope-prefix: "♎ Terezi Pyrope: " / "Terezi Pyrope says, ";
+    /* 
+    Terezi: OHH LOOK, 1 4M 1N CR3D1T!
+    Joel: You're welcome!
+    */
 
     /* Latula Pyrope. Tell you what? Redglare give this girl name same, Redglare becomes just redglare. How about that? aslkdjflksjad. */
     --HS-LatulaPyrope-color: var(--HS-Hemospectrum-Teal);
     --HS-LatulaPyrope-bgColor: rgba(0,0,0,0);
     --HS-LatulaPyrope-prefix: "♎ Latula Pyrope: " / "Latula Pyrope says, ";
+    /* 
+    Terezi: MOM!!! *1M F4MOUS!!!* 😂😂😂, oh God, why, h3h..
+    */
 
     /* (DEPRECATED, IS MERGED TO LATULA) Redglare Pyrope. This is the original ancestor, remember that. Pls discuss whether this should change to also merge 2 of these into 1 just like for Humans will. We only have few years before this fork becomes canon here in Perkedel Cinematic Universe. */
     /* --HS-RedglarePyrope-color: var(--HS-Hemospectrum-Teal);
@@ -455,7 +564,7 @@ You can further make crazy with below classes
     --HS-MallekAdalov-bgColor: rgba(0,0,0,0);
     --HS-MallekAdalov-prefix: " Mallek Adalov: " / "Mallek Adalov says, ";
 
-    /* Carla Zabji Ziem. an OC Alternian of Perkedel Technologies, not to be confused with Carlie Lamitiemd. She likes to wrap her line between lightnings just like her horn. She has electrocution abilities. She can even Defib ones heart, & hug ones to pacemaker 🫀. like Nepeta, she is a cardiophile. in fact, that's was my idea to tell Carla to buy Nepeta a stethoscope, lol! */
+    /* Carla Zabji Ziem. an OC Alternian of Perkedel Technologies, not to be confused with Carlie Lamitiemd. She likes to wrap her line between lightnings just like her horn. She has electrocution abilities. She can even Defib ones heart, & hug ones to transcutaneous pacemaker 🫀. like Nepeta, she is a cardiophile. in fact, that's was my idea to tell Carla to buy Nepeta a stethoscope, lol! */
     --HS-CarlaZabjiZiem-color: var(--HS-Hemospectrum-BlueBright);
     --HS-CarlaZabjiZiem-bgColor: rgba(0,0,0,0);
     --HS-CarlaZabjiZiem-prefix: "⚡ Carla Zabji Ziem:" / "Carla Zabji Ziem says, ";
@@ -508,6 +617,146 @@ You can further make crazy with below classes
     --HS-MotterAtaxia-prefix: " Motter Ataxia: " / "Motter Ataxia says, ";
 
     /* PURPLE BLOODED */
+
+    /* Gamzee Makara */
+    --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-GamzeeMakara-bgColor: rgba(0,0,0,0);
+    --HS-GamzeeMakara-prefix: "♑ Gamzee Makara: " / "Gamzee says, ";
+
+    /* Kurloz Makara. Dad */
+    --HS-KurlozMakara-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-KurlozMakara-bgColor: rgba(0,0,0,0);
+    --HS-KurlozMakara-prefix: "♑ Kurloz Makara: " / "Kurloz says, ";
+
+    /* Barzum Soleil. */
+    --HS-BarzumSoleil-color: var(--HS-Hemospectrum-PurpleBright);
+    --HS-BarzumSoleil-bgColor: rgba(0,0,0,0);
+    --HS-BarzumSoleil-prefix: "🎭⤴️ Barzum Soleil: " / "Barzum Soleil says, ";
+
+    /* Baizli Soleil. */
+    --HS-BaizliSoleil-color: var(--HS-Hemospectrum-PurpleBright);
+    --HS-BaizliSoleil-bgColor: rgba(0,0,0,0);
+    --HS-BaizliSoleil-prefix: "🎭⤵️ Baizli Soleil: " / "Baizli Soleil says, ";
+
+    /* Chahut Meenad. Tips (because of her big horn), drop her from above roof. Tested with Tavros' Jeep with tarp opens, and works. Or lie her down in the board both middle seat collapsed & tie chain BD.. na na na, just kidding 🤣🤣🤣🤣. But pls careful, don't tear the seat! Just in case you forgot or got them stuck. */
+    --HS-ChahutMeenad-color: var(--HS-Hemospectrum-PurpleBright);
+    --HS-ChahutMeenad-bgColor: rgba(0,0,0,0);
+    --HS-ChahutMeenad-prefix: " Chahut Meenad: " / "Chahut Meenad says, ";
+
+    /* Karako Pierot. */
+    --HS-KarakoPierot-color: var(--HS-Hemospectrum-PurpleBright);
+    --HS-KarakoPierot-bgColor: rgba(0,0,0,0);
+    --HS-KarakoPierot-prefix: " Karako Pierot: " / "Karako Pierot says, ";
+
+    /* Marvus Xoloto. Oh... you. what again? I shall take a look again. */
+    --HS-MarvusXoloto-color: var(--HS-Hemospectrum-PurpleBright);
+    --HS-MarvusXoloto-bgColor: rgba(0,0,0,0);
+    --HS-MarvusXoloto-prefix: " Marvus Xoloto: " / "Marvus Xoloto says, ";
+
+    /* VIOLET BLOODED */
+    /* Hey, I am Aquarius you know! but haven't tested yet what sub-zodiac am I atm. */
+
+    /* Cronus Ampora. Dad. No smoking in Perkedel Cinematic Universe pls. */
+    --HS-CronusAmpora-color: var(--HS-Hemospectrum-Violet);
+    --HS-CronusAmpora-bgColor: rgba(0,0,0,0);
+    --HS-CronusAmpora-prefix: "♒ Cronus Ampora: " / "Cronus Ampora says, ";
+
+    /* Eridan Ampora. Son 1. */
+    --HS-EridanAmpora-color: var(--HS-Hemospectrum-Violet);
+    --HS-EridanAmpora-bgColor: rgba(0,0,0,0);
+    --HS-EridanAmpora-prefix: "♒ Eridan Ampora: " / "Eridan Ampora says, ";
+
+    /* Nektan Whelan. Fantroll. Jesus Christ, Andrew wtf?! You mad just because that bonus 100K donate didn't reached & then tell Caliborn & Caliope's dad to destroy them next panel?! & EVEN DISWISHED "1 MILLION TIER AS VERY IMPORTANT"?!?!?! UGH, that gut. Yeah I know, put them in Universe C, but have a little more respect pls, to the ones who were excited that their characters got in officially, I guess.. idk.. You know what, screw this. My fanfics going to give them more for these, just watch. You don't need to pay me, thancc for donate, but that does not affect anything, look at this. Yess, this is one of the 3 that prevented Ofaiedehn from reproprietarizing the BLACK-VOID after Vriska & friends with Ofaiedehn help successfully convinced the COLOR-WISE to give away the BLACK-VOID patent. */
+    --HS-NektanWhelan-color: var(--HS-Hemospectrum-VioletVioleter);
+    --HS-NektanWhelan-bgColor: rgba(0,0,0,0);
+    --HS-NektanWhelan-prefix: " Nektan Whelan: " / "Nektan Whelan says, ";
+
+    /* Crides Jeevik. */
+    --HS-CridesJeevik-color: var(--HS-Hemospectrum-VioletBright);
+    --HS-CridesJeevik-bgColor: rgba(0,0,0,0);
+    --HS-CridesJeevik-prefix: " Crides Jeevik: " / "Crides Jeevik says, ";
+
+    /* Fiamet. */
+    --HS-Fiamet-color: var(--HS-Hemospectrum-VioletBright);
+    --HS-Fiamet-bgColor: rgba(0,0,0,0);
+    --HS-Fiamet-prefix: " Fiamet: " / "Fiamet says, ";
+
+    /* Jerann. */
+    --HS-Jerann-color: var(--HS-Hemospectrum-VioletBright);
+    --HS-Jerann-bgColor: rgba(0,0,0,0);
+    --HS-Jerann-prefix: " Jerann: " / "Jerann says, ";
+
+    /* Sugih Yanto. A rich businesman. established, owned, & acquired in total about 120 busineses, & merged those duplicates into 1 each branding for each matching purpose. Yeah, a conglomerate guy. Sugih in Javanese means rich. */
+    --HS-SugihYanto-color: var(--HS-Hemospectrum-VioletBright);
+    --HS-SugihYanto-bgColor: rgba(0,0,0,0);
+    --HS-SugihYanto-prefix: "💰 Sugih Yanto: " / "Sugih Yanto says, ";
+    --HS-SugihYanto-postfix: "| 💸💸💸💸💸" / "";
+
+    /* FUSCHIA BLOODED */
+
+    /* Meenah Peixes. Mom. */
+    --HS-MeenahPeixes-color: var(--HS-Hemospectrum-Fuschia);
+    --HS-MeenahPeixes-bgColor: rgba(0,0,0,0);
+    --HS-MeenahPeixes-prefix: "♓ Meenah Peixes: " / "Meenah Peixes says, ";
+
+    /* Feferi Peixes. Daughter 1. */
+    --HS-FeferiPeixes-color: var(--HS-Hemospectrum-Fuschia);
+    --HS-FeferiPeixes-bgColor: rgba(0,0,0,0);
+    --HS-FeferiPeixes-prefix: "♓ Feferi Peixes: " / "Feferi Peixes says, ";
+
+    /* Trizza Tethis. Heiress to Meenah Peixes. What is that PDA, btw?! I'm jealous! you got PDA that works like modern smartphone, in 1990s?!?!? HOW!??!! Our PDA at that time is just basically... uhh ugly color screen, fat, Windows CE sluggish, and camera is not even built in, only 1 camera at that time each expansion. Oh my God!! Did the Goldblood made that for you?!?! Do you secretely lobbied IBM to do this?! */
+    --HS-TrizzaTethis-color: var(--HS-Hemospectrum-Fuschia);
+    --HS-TrizzaTethis-bgColor: rgba(0,0,0,0);
+    --HS-TrizzaTethis-prefix: "🕎 Trizza Tethis: " / "Trizza Tethis says, ";
+
+    /* MAGENTA BLOODED. The 13th Zodiac, does not exist in official Homestuck, ever! Pinkest pink, Semple Pink. */
+    /* By 69420ing or any usage with these character you agree that you despise what Anish do & remove any friendship with him. */
+
+    /* Jase Sancha Ofaiedehn. Son 1. the `Ofaiedehn` does not linked to any common language, but pretty sure it's close to the zodiac name itself, Ofiuchus / Ofiukus, so by the early 2024, Dasandim adopted this to their language. Ofaiedehn family runs a scrap-made planet, much like ones with City of Thousand Planets in Valerian film. They are the rulers of this very planet. Now this celestrial troll here, is a prince. */
+    --HS-JaseOfaiedehn-color: var(--HS-Hemospectrum-Magenta);
+    --HS-JaseOfaiedehn-bgColor: rgba(0,0,0,0);
+    --HS-JaseOfaiedehn-prefix: "⛎ Jase S. Ofaiedehn: " / "Jase Sancha Ofaiedehn says, ";
+    --HS-JaseOfaiedehn-postfix: " 🐍SSSSSS!" / "";
+
+    /* Pyworth Anaconda Ofaidehn. Dad. This guy currently sits on the throne of this scrap-made planet. Yes, a King. And he was born form a celestial lusus 7 Earth days after Jesus born (although he did not see the entire moment at all unfortunately. Birth to ascension, nada). Oh wow, now there exist space lusus & space mama lusus? I thought it was a thing only in Alternia planet huh? Not just a king, he's a father figure to all Ofaiedehns incoming below. */
+    --HS-PyworthOdaiedehn-color: var(--HS-Hemospectrum-Magenta);
+    --HS-PyworthOdaiedehn-bgColor: rgba(0,0,0,0);
+    --HS-PyworthOdaiedehn-prefix: "⛎ Pyworth A. Ofaiedehn: " / "Pyworth Anaconda Ofaiedehn says, ";
+    --HS-PyworthOdaiedehn-postfix: " 🐍ZZZZZZZ!" / "";
+    /* By the way, these two above & some other Magenta-bloodeds borns from a celestial mama lusus named.. no name. it looks like that snake found in Slither.io so we named her Slitherion, that's what you gonna call this giant white bright pipe snake.
+    Hmm, sounds like this gave me idea about last time I talked about Vriska & friends astralled to Blender Surreal Meme World. They ask this kingdom help to reclaim BLACK-VOID. Blackest black, that somehow Anish Kapoor acquired and proprietarizing it from us. Why is that? There's related Semple colors, the Pink. and Semple is extremely disappointed with what Anish did to all of us. Yeah, peck Anish & his silver bean. Pls don't vandalize the bean irl tho, just do it in simulations.
+    */
+
+    /* CHERUBS */
+
+    /* Uh wait a pecking second. the Ophiuchus is already the Cherubs. ummm. well uh.. that's... I thought this hadn't been. SSss, oh wow. */
+
+    /* Caliborn. son 1. */
+    --HS-Caliborn-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-Caliborn-bgColor: rgba(0,0,0,0);
+    --HS-Caliborn-prefix: "⛎💀👦 Caliborn: " / "Caliborn says, ";
+    --HS-Caliborn-postfix: "" / "";
+
+    /* Calliope. daughter 2. */
+    --HS-Calliope-color: var(--HS-Hemospectrum-GrayCandy);
+    --HS-Calliope-bgColor: rgba(0,0,0,0);
+    --HS-Calliope-prefix: "☤💀👧 Calliope: " / "Calliope says, ";
+    --HS-Calliope-postfix: "" / "";
+
+    /* Calamity. mom. */
+    --HS-Calamity-color: var(--HS-Hemospectrum-GrayCandy);
+    --HS-Calamity-bgColor: rgba(0,0,0,0);
+    --HS-Calamity-prefix: "☤💀👩 Calamity: " / "Calamity says, ";
+    --HS-Calamity-postfix: "" / "";
+
+    /* Catastrophy. dad. Peck this! What am I supposed to label this unnamed Cherub father with?!?!?! */
+    --HS-Catastrophy-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-Catastrophy-bgColor: rgba(0,0,0,0);
+    --HS-Catastrophy-prefix: "⛎💀👨 Catastrophy: " / "Catastrophy says, ";
+    --HS-Catastrophy-postfix: "" / "";
+
+    /* Okay, here's the deal. what about.. manifest Slitherion, after Lord English succed to the blackhole & radiates everything? like this few bits goes to the past in Perkedel Cinematic Universe. heuh... help. */
+
 
     /* TODO: Pls more! Lord English ones is rather complicated! */
 
@@ -661,6 +910,9 @@ In case you need to compensate contrast level depending on the color mode
 */
 @media(prefers-color-scheme: light){
     /* All colors should be optimized for dark mode 1st, then this light mode 2nd */
+    :root{
+        
+    }
 }
 
 /* IDEA: will Denizen now? Rachel something, Joshua White.. */
