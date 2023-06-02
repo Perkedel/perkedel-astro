@@ -1087,7 +1087,7 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 }
 
 /* Lord English */
-.HS.DocScratch::before {
+.HS.LordEnglish::before {
     content: var(--HS-LordEnglish-prefix);
 }
 
