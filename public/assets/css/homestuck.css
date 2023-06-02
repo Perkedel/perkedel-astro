@@ -805,8 +805,9 @@ You can further make crazy with below classes
 
     /* Doc Scratch */
     --HS-DocScratch-color: var(--HS-Hemospectrum-white);
-    --HS-DocScratch-textShadow: 0px 0px 50px 17px rgba(255,255,255,1);
-    --HS-DocScratch-bgColor: rgba(255,255,255,.2);
+    --HS-DocScratch-textShadow: 0px 0px 20px rgba(255,255,255,1);
+    --HS-DocScratch-boxShadow: 0px 0px 50px 17px rgba(255,255,255,1);
+    --HS-DocScratch-bgColor: rgba(255,255,255,.5);
     --HS-DocScratch-prefix: "⚪ Doc Scratch: " / "Doctor Scratch says, ";
 
     /* Unknown */
@@ -858,7 +859,8 @@ First, install text color basically. the prefix should be later.
 /* Doc Scratch */
 .HS.DocScratch, .HS-Name.DocScratch, .HS-Dialog.DocScratch {
     color: var(--HS-DocScratch-color);
-    textShadow: var(--HS-DocScratch-textShadow);
+    text-shadow: var(--HS-DocScratch-textShadow);
+    box-shadow: var(--HS-DocScratch-boxShadow);
     background-color: var(--HS-DocScratch-bgColor);
 }
 
