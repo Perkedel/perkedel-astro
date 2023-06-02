@@ -154,6 +154,7 @@ You can further make crazy with below classes
     /* UNIVERSE OWNERS */
     /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies, 1st Kaorfa of Perkedel Cinematic Universe. */
     --HS-JOELwindows7-color: var(--HS-Hemospectrum-CyanKaorfa);
+    --HS-JOELwindows7-textShadow: 0px 0px 5px var(--HS-Hemospectrum-CyanKaorfa);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
 
@@ -805,8 +806,8 @@ You can further make crazy with below classes
 
     /* Doc Scratch */
     --HS-DocScratch-color: var(--HS-Hemospectrum-white);
-    --HS-DocScratch-textShadow: 0px 0px 20px rgba(255,255,255,1);
-    --HS-DocScratch-boxShadow: 0px 0px 50px 5px rgba(255,255,255,1);
+    --HS-DocScratch-textShadow: 0px 0px 5px rgba(255,255,255,1);
+    --HS-DocScratch-boxShadow: 0px 0px 20px 10px rgba(255,255,255,1);
     --HS-DocScratch-bgColor: rgba(255,255,255,.5);
     --HS-DocScratch-prefix: "⚪ Doc Scratch: " / "Doctor Scratch says, ";
 
@@ -835,6 +836,7 @@ First, install text color basically. the prefix should be later.
 /* JOELwindows7 */
 .HS.JOELwindows7, .HS-Name.JOELwindows7, .HS-Dialog.JOELwindows7 {
     color: var(--HS-JOELwindows7-color);
+    text-shadow: var(--HS-JOELwindows7-textShadow);
     background-color: var(--HS-JOELwindows7-bgColor);
 }
 
