@@ -43,7 +43,11 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-RedCandy: #ff0000; /* Red Cherub such as Cherub father, & Calliborn */
     /*  */
+    --HS-Hemospectrum-RedGreenish: #ff3300; /* Rita Matahualar */
+    /*  */
     --HS-Hemospectrum-RedRedder: #e00707; /* Dave Strider */
+    /*  */
+    --HS-Hemospectrum-RedHound: #D00009; /* Yiffy Longstocking */
     /*  */
     --HS-Hemospectrum-Bronze: #a25203;
     /*  */
@@ -79,6 +83,8 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-GreenGreener: #1f9400; /* Jake Harley / English */
     /*  */
+    --HS-Hemospectrum-GreenBright: #71D666; /* Silas P Beauregard III */
+    /*  */
     --HS-Hemospectrum-Teal: #008282;
     /*  */
     --HS-Hemospectrum-TealBright: #26baba; /* Hiveswap text color. */
@@ -93,6 +99,8 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-BlueBluer: #0715cd; /* a.k.a. Blue pen. John Egbert text color */
     /*  */
+    --HS-Hemospectrum-BlueScarf: #0671cd; /* Harry Anderson Egbert */
+    /*  */
     --HS-Hemospectrum-Indigo: #0021cb;
     /*  */
     --HS-Hemospectrum-IndigoDim: #000056; /* Use this for text color e.g. Equius Zahhak, Aradia but bot, etc. */
@@ -101,7 +109,7 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-Purple: #440a7f; /* pls no more discrepancies */
     /*  */
-    --HS-Hemospectrum-PurpleDim: #2b0057; /* Oh, C'mon!! Gamzee Makara */
+    --HS-Hemospectrum-PurpleDim: #2b0057; /* Oh, C'mon!! Gamzee Makara, Tavros Crocker. */
     /*  */
     --HS-Hemospectrum-PurpleBright: #a954ff; /* PROPAN, THE PAINT SPECIALIST!! Stop.. pls..; Hiveswap. */
     /*  */
@@ -145,6 +153,8 @@ You can further make crazy with below classes
     --HS-Hemospectrum-CyanKaorfa: rgba(125,255,255,1); /* Joel Robert Justiawan. */
     /*  */
     --HS-Hemospectrum-OrangeOranger: #f2a400; /* Dirk Strider. */
+    --HS-Hemospectrum-YellowOrange: #FFC600; /* Avril Thorpe. */
+    /*  */
     --HS-Hemospectrum-Creme: #d3ff8f; /* Jude Harley. */
     
     /* end homospectrum */
@@ -234,15 +244,79 @@ You can further make crazy with below classes
     --HS-JudeHarley-bgColor: rgba(0,0,0,1);
     --HS-JudeHarley-prefix: "🛸 Jude Harley: " / "Jude Harley says, ";
 
+    /* Harry Anderson Egbert. son 1 of John & Rose. Officially, it was John & RoXy, but since we have merged the scratches hence have painstakingly rewired all of the connection, we'll go to Rose & make this descendant Back to the Same (lmao, Back to the Future Pt. 2 reference). */
+    --HS-HarryEgbert-color: var(--HS-Hemospectrum-BlueScarf);
+    --HS-HarryEgbert-bgColor: rgba(0,0,0,0);
+    --HS-HarryEgbert-prefix: "🧣 Harry A. Egbert: " / "Harry Anderson Egbert says, ";
+
+    /* Tavros Crocker. son 1 of ??? & ???. to Sido?. Officially, it was Jane & Jake, but since we have merged the scratches hence have painstakingly rewired all of the connection, we'll go to ??? & make this descendant Back to the Same (lmao, Back to the Future Pt. 2 reference). */
+    --HS-TavrosCrocker-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-TavrosCrocker-bgColor: rgba(0,0,0,0);
+    --HS-TavrosCrocker-prefix: "🤵‍♂️ Tavros Crocker: " / "Tavros says, ";
+
+    /* Yiffy Longstocking. daughter 1 of Dave & Jade. ♾️🌈. Don't worry, we have stabilizied her mental at least. We don't take it off because it's dangerous & risky, so... just stabilize. */
+    --HS-YiffyLongstocking-color: var(--HS-Hemospectrum-RedHound);
+    --HS-YiffyLongstocking-bgColor: rgba(0,0,0,0);
+    --HS-YiffyLongstocking-prefix: "🐕 Yiffy Longstocking: " / "Yiffy Longstocking says, ";
+
+    /* Imode Kurita. Emoji person 😀, just like Mr. Emoji a.k.a. Shigetaka Kurita 😁. Offical pronouns is They/Them, but since neo-pronouns in Perkedel Technologies is 3rd party mod & unendorsed (hence cause compatibility issues with many aspects), we scanned them and found that it appears to be a female, so She/Her, just like Frisk, not Kris. She (They) often abbreviates certain word with Emoji. 👍 this, of course based on context rather than raw words, such as 🔥 hot 🍜 (Flaming Hot Ramen) 🌀ed with Rendang (mixed with rendang). be sure to wrap abbreviated words into emoji with abbr tag, & add title attribute what does (do) she (they) meant. */
+    --HS-ImodeKurita-color: var(--HS-Hemospectrum-RedHound);
+    --HS-ImodeKurita-bgColor: rgba(0,0,0,0);
+    --HS-ImodeKurita-prefix: "😀💙🔵🟦 Imode Kurita: " / "Imode Kurita says, ";
+    /* 
+    https://en.m.wikipedia.org/wiki/Shigetaka_Kurita
+    Also pls tell me how many ratio did I got! screenshot their username as well. Quickly, before they go private due to regret, shame, & solidarity revenge. The *deserve some special treatment* (menacing 😏 negatively) here in Perkedel Technologies 😀👍.
+    */
+
+    /* Silas P Beauregard III. speak Southern Belle & commonly apostrophe. */
+    --HS-SilasPBeauregardThird-color: var(--HS-Hemospectrum-GreenBright);
+    --HS-SilasPBeauregardThird-bgColor: rgba(0,0,0,0);
+    --HS-SilasPBeauregardThird-prefix: " Silas P. Beauregard III: " / "Silas Paula Beauregard the third says, ";
+
+    /* Dallas Beauregard II. Dad. await for official name! */
+    --HS-PaBeauregardSecond-color: var(--HS-Hemospectrum-GreenBright);
+    --HS-PaBeauregardSecond-bgColor: rgba(0,0,0,0);
+    --HS-PaBeauregardSecond-prefix: " Silas P. (Dallas) Beauregard II: " / "Silas Peter Beauregard the second a.k.a. Dallas says, ";
+
+    /* Clara Beauregard II. Mom. Pls name character quickly lah! Perkedel expect that you have names in hand immediately! */
+    --HS-MaBeauregardSecond-color: var(--HS-Hemospectrum-GreenBright);
+    --HS-MaBeauregardSecond-bgColor: rgba(0,0,0,0);
+    --HS-MaBeauregardSecond-prefix: " Clara Beauregard II: " / "Clara Beauregard the second says, ";
+
+    /* Avril Thorpe. Yes, it's a guy, it's possible for guy to have long hair, alot!. adds #ashtags to #important words, because he is social media addict & hungry for clouts. */
+    --HS-AvrilThorpe-color: var(--HS-Hemospectrum-YellowOrange);
+    --HS-AvrilThorpe-bgColor: rgba(0,0,0,0);
+    --HS-AvrilThorpe-prefix: " Avril Thorpe: " / "Avril Thorpe says, ";
+
     /* Quinzor Matahualar. Presenter. graduated from Binus University, idk what DKV major it is, basically broadcasting ones. OC of Perkedel Technologies. */
-    --HS-JakeHarley-color: var(--HS-Hemospectrum-Cyan);
-    --HS-JakeHarley-bgColor: rgba(0,0,0,.25);
-    --HS-JakeHarley-prefix: "📰 Quinzor Matahualar: " / "Quinzor Matahualar says, ";
+    --HS-QuinzorMatahualar-color: var(--HS-Hemospectrum-Cyan);
+    --HS-QuinzorMatahualar-bgColor: rgba(0,0,0,.25);
+    --HS-QuinzorMatahualar-prefix: "📰 Quinzor Matahualar: " / "Quinzor Matahualar says, ";
 
     /* Jokinever Matahualar. young brother of Quinzor Matahualar. Comedian. also graduated from Binus University same major. OC of Perkedel Technologies. */
-    --HS-JakeHarley-color: var(--HS-Hemospectrum-Green);
-    --HS-JakeHarley-bgColor: rgba(0,0,0,.25);
-    --HS-JakeHarley-prefix: "🤣 Jokinever Matahualar: " / "Jokinever Matahualar says, ";
+    --HS-JokineverMatahualar-color: var(--HS-Hemospectrum-Green);
+    --HS-JokineverMatahualar-bgColor: rgba(0,0,0,.25);
+    --HS-JokineverMatahualar-prefix: "🤣 Jokinever Matahualar: " / "Jokinever Matahualar says, ";
+
+    /* Rita Matahualar. mom. Actress. She is so sexy & thicc & won Deddy's heart. */
+    --HS-RitaMatahualar-color: var(--HS-Hemospectrum-RedGreenish);
+    --HS-RitaMatahualar-bgColor: rgba(0,0,0,.25);
+    --HS-RitaMatahualar-prefix: "👠 Rita Matahualar: " / "Rita Matahualar says, ";
+
+    /* Deddy Matahualar. dad. Head of a news redaction (Ketua Redaksi). */
+    --HS-DeddyMatahualar-color: var(--HS-Hemospectrum-Cyan);
+    --HS-DeddyMatahualar-bgColor: rgba(0,0,0,.25);
+    --HS-DeddyMatahualar-prefix: "👨‍💼 Deddy Matahualar: " / "Deddy Matahualar says, ";
+
+    /* Puella Willys Prescott / Hat Kid. A Hat in Time, Gears for Breakfast. */
+    --HS-HatKid-color: var(--HS-Hemospectrum-Purple);
+    --HS-HatKid-bgColor: rgba(255,255,255,.75);
+    --HS-HatKid-prefix: "🎩 Puella W. Prescott (Hat Kid): " / "Puella Willys Prescott a.k.a. Hat Kid says, ";
+
+    /* Nelly Tartanzi / Moustache Kid. Yes, a girl with mustache. ask Gears for Breakfast about this. She speaks British. BO'O'WO'AH. Okay that's enough. */
+    --HS-MoustacheKid-color: var(--HS-Hemospectrum-Red);
+    --HS-MoustacheKid-bgColor: rgba(255,255,255,.75);
+    --HS-MoustacheKid-prefix: "🥸♀️ Nelly Tartanzi (Moustache Kid): " / "Nelly Tartanzi a.k.a. Mustache Kid says, ";
 
     /* RUST BLOODED */
     /* Aradia Megido. */
@@ -752,10 +826,10 @@ You can further make crazy with below classes
     --HS-JaseOfaiedehn-postfix: " 🐍SSSSSS!" / "";
 
     /* Pyworth Anaconda Ofaidehn. Dad. This guy currently sits on the throne of this scrap-made planet. Yes, a King. And he was born form a celestial lusus 7 Earth days after Jesus born (although he did not see the entire moment at all unfortunately. Birth to ascension, nada). Oh wow, now there exist space lusus & space mama lusus? I thought it was a thing only in Alternia planet huh? Not just a king, he's a father figure to all Ofaiedehns incoming below. */
-    --HS-PyworthOdaiedehn-color: var(--HS-Hemospectrum-Magenta);
-    --HS-PyworthOdaiedehn-bgColor: rgba(0,0,0,0);
-    --HS-PyworthOdaiedehn-prefix: "⛎ Pyworth A. Ofaiedehn: " / "Pyworth Anaconda Ofaiedehn says, ";
-    --HS-PyworthOdaiedehn-postfix: " 🐍ZZZZZZZ!" / "";
+    --HS-PyworthOfaiedehn-color: var(--HS-Hemospectrum-Magenta);
+    --HS-PyworthOfaiedehn-bgColor: rgba(0,0,0,0);
+    --HS-PyworthOfaiedehn-prefix: "⛎ Pyworth A. Ofaiedehn: " / "Pyworth Anaconda Ofaiedehn says, ";
+    --HS-PyworthOfaiedehn-postfix: " 🐍ZZZZZZZ!" / "";
     /* By the way, these two above & some other Magenta-bloodeds borns from a celestial mama lusus named.. no name. it looks like that snake found in Slither.io so we named her Slitherion, that's what you gonna call this giant white bright pipe snake.
     Hmm, sounds like this gave me idea about last time I talked about Vriska & friends astralled to Blender Surreal Meme World. They ask this kingdom help to reclaim BLACK-VOID. Blackest black, that somehow Anish Kapoor acquired and proprietarizing it from us. Why is that? There's related Semple colors, the Pink. and Semple is extremely disappointed with what Anish did to all of us. Yeah, peck Anish & his silver bean. Pls don't vandalize the bean irl tho, just do it in simulations.
     */
@@ -789,10 +863,14 @@ You can further make crazy with below classes
     --HS-Catastrophy-prefix: "⛎💀👨 Catastrophy: " / "Catastrophy says, ";
     --HS-Catastrophy-postfix: "" / "";
 
-    /* Okay, here's the deal. what about.. manifest Slitherion, after Lord English succed to the blackhole & radiates everything? like this few bits goes to the past in Perkedel Cinematic Universe. heuh... help. */
-
-
+    /* (DEPRECATED, use Caliborn instead for Universe D Caliborn Maximum level) Lord English. maximum level Caliborn. */
+    --HS-LordEnglish-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-LordEnglish-bgColor: rgba(0,0,0,0);
+    --HS-LordEnglish-prefix: "⛎💀👦 L" url('https://perkedel.netlify.app/assets/img/steal/Homestuck/EnglishO.gif') "rd English: " / "Lord English says, ";
+    --HS-LordEnglish-postfix: "" / "";
     /* TODO: Pls more! Lord English ones is rather complicated! */
+
+    /* Okay, here's the deal. what about.. manifest Slitherion, after Lord English succed to the blackhole & radiates everything? like this few bits goes to the past in Perkedel Cinematic Universe. heuh... help. */
 
     /* IDEA: maybe add character whose icon changes depending on media selection. e.g. light is ☀️, dark is 🌙 idk.. */
 
