@@ -201,6 +201,9 @@ You can further make crazy with below classes
         -1px 1px 0 #000,
         1px 1px 0 #000;
 
+    /* No Shadow */
+    --HS-TextShadow-None: 0px 0px 0 #000;
+
     /* End Extra Stuff */
 
     /* DEFINE VARIABLES */
@@ -313,7 +316,7 @@ You can further make crazy with below classes
     --HS-HarryEgbert-prefix: "🧣 Harry A. Egbert: " / "Harry Anderson Egbert says, ";
 
     /* Tavros Crocker. son 1 of ??? & ???. to Sido?. Officially, it was Jane & Jake, but since we have merged the scratches hence have painstakingly rewired all of the connection, we'll go to ??? & make this descendant Back to the Same (lmao, Back to the Future Pt. 2 reference). Restart Claire?!??!? no. um... kdshflighsldf */
-    --HS-TavrosCrocker-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-TavrosCrocker-color: var(--HS-Hemospectrum-PurpleBitBright);
     --HS-TavrosCrocker-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-TavrosCrocker-prefix: "🤵‍♂️ Tavros Crocker: " / "Tavros says, ";
     /* Here listen. how about we yoink up to Homestuck 1 whatever until.. 2018 time points. after this, we start our own branch of timeline, mirroring some aspect if compatible. Universe D, that's it. */
@@ -795,13 +798,13 @@ You can further make crazy with below classes
     /* PURPLE BLOODED */
 
     /* Gamzee Makara */
-    --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleBitBright);
     --HS-GamzeeMakara-textShadow: var(--HS-TextShadow-Stroke);
-    --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite);
+    --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-GamzeeMakara-prefix: "♑ Gamzee Makara: " / "Gamzee says, ";
 
     /* Kurloz Makara. Dad */
-    --HS-KurlozMakara-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-KurlozMakara-color: var(--HS-Hemospectrum-PurpleBitBright);
     --HS-KurlozMakara-textShadow: var(--HS-TextShadow-Stroke);
     --HS-KurlozMakara-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-KurlozMakara-prefix: "♑ Kurloz Makara: " / "Kurloz says, ";
@@ -1373,6 +1376,14 @@ In case you need to compensate contrast level depending on the color mode
         /* Gamzee Makara */
         --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleDim);
         --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-Clear);
+
+        /* Kurloz Makara */
+        --HS-KurlozMakara-color: var(--HS-Hemospectrum-PurpleDim);
+        --HS-KurlozMakara-bgColor: var(--HS-Hemospectrum-Clear);
+
+        /* Tavros Crocker */
+        --HS-TavrosCrocker-color: var(--HS-Hemospectrum-PurpleDim);
+        --HS-TavrosCrocker-bgColor: var(--HS-Hemospectrum-Clear);
     }
 }
 
