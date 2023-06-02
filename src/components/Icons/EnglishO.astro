@@ -1,0 +1,12 @@
+---
+// https://mspaintadventures.fandom.com/wiki/Lord_English
+
+export interface Props{
+    sizeBig?:boolean;
+}
+
+const {
+    sizeBig = false,
+}
+---
+<img src={sizeBig?'/assets/img/steal/homestuck/EnglishO_infobox.webp':'/assets/img/steal/homestuck/EnglishO.gif'} alt='o' title='o'/>
