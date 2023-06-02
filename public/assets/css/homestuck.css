@@ -178,6 +178,31 @@ You can further make crazy with below classes
     
     /* end homospectrum */
 
+    /* Extra Stuffs */
+
+    /* Text Stroke
+    https://stackoverflow.com/questions/4919076/outline-effect-to-text
+    https://css-tricks.com/adding-stroke-to-web-text/
+    */
+    --HS-TextShadow-Stroke: -1px -1px 0 #fff,  
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        1px 1px 0 #fff;
+
+    /* Text Stroke White */
+    --HS-TextShadow-StrokeWhite: -1px -1px 0 #fff,  
+        1px -1px 0 #fff,
+        -1px 1px 0 #fff,
+        1px 1px 0 #fff;
+    
+    /* Text Stroke Black */
+    --HS-TextShadow-StrokeWhite: -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+
+    /* End Extra Stuff */
+
     /* DEFINE VARIABLES */
 
     /* UNIVERSE OWNERS */
@@ -771,11 +796,13 @@ You can further make crazy with below classes
 
     /* Gamzee Makara */
     --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-GamzeeMakara-textShadow: var(--HS-TextShadow-Stroke);
     --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite);
     --HS-GamzeeMakara-prefix: "♑ Gamzee Makara: " / "Gamzee says, ";
 
     /* Kurloz Makara. Dad */
     --HS-KurlozMakara-color: var(--HS-Hemospectrum-PurpleDim);
+    --HS-KurlozMakara-textShadow: var(--HS-TextShadow-Stroke);
     --HS-KurlozMakara-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-KurlozMakara-prefix: "♑ Kurloz Makara: " / "Kurloz says, ";
 
@@ -1032,6 +1059,7 @@ First, install text color basically. the prefix should be later.
 /* Gamzee Makara */
 .HS.GamzeeMakara, .HS-Name.GamzeeMakara, .HS-Dialog.GamzeeMakara {
     color: var(--HS-GamzeeMakara-color);
+    text-shadow: var(--HS-GamzeeMakara-textShadow);
     background-color: var(--HS-GamzeeMakara-bgColor);
 }
 
@@ -1336,6 +1364,12 @@ In case you need to compensate contrast level depending on the color mode
 @media(prefers-color-scheme: light){
     /* All colors should be optimized for dark mode 1st, then this light mode 2nd */
     :root{
+        /* Text Stroke */
+        --HS-TextShadow-Stroke: -1px -1px 0 #000,  
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+
         /* Gamzee Makara */
         --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleDim);
         --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-Clear);
