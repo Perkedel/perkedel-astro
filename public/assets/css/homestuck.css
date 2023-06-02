@@ -962,7 +962,7 @@ You can further make crazy with below classes
     /* EXTRA COLORED */
 
     /* Doc Scratch */
-    --HS-DocScratch-color: var(--HS-Hemospectrum-white);
+    --HS-DocScratch-color: var(--HS-Hemospectrum-White);
     --HS-DocScratch-textShadow: 0px 0px 5px rgba(255,255,255,1);
     --HS-DocScratch-boxShadow: 0px 0px 20px 10px rgba(255,255,255,1);
     --HS-DocScratch-bgColor: rgba(255,255,255,.5);
