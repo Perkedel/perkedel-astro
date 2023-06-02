@@ -1176,6 +1176,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-JOELwindows7-prefix);
 }
 
+/* Dirk Strider */
+.HS.DirkStrider::before {
+    content: var(--HS-DirkStrider-prefix);
+}
+
 /* Vriska Serket */
 .HS.VriskaSerket::before {
     content: var(--HS-VriskaSerket-prefix);
