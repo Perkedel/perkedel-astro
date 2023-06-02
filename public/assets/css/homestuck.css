@@ -104,6 +104,7 @@ You can further make crazy with below classes
     --HS-Hemospectrum-Indigo: #0021cb;
     /*  */
     --HS-Hemospectrum-IndigoDim: #000056; /* Use this for text color e.g. Equius Zahhak, Aradia but bot, etc. */
+    --HS-Hemospectrum-IndigoBitBright: #2121ac; /* Use this for text color e.g. Equius Zahhak, Aradia but bot, etc. */
     /*  */
     --HS-Hemospectrum-IndigoBright: #6464ff; /* Hiveswap Indigo characters uses this text color. */
     /*  */
@@ -751,19 +752,19 @@ You can further make crazy with below classes
 
     /* INDIGO BLOODED */
     /* Equius Zahhak. */
-    --HS-EquiusZahhak-color: var(--HS-Hemospectrum-IndigoDim);
-    --HS-EquiusZahhak-textShadow: var(--HS-TextShadow-Stroke);
+    --HS-EquiusZahhak-color: var(--HS-Hemospectrum-IndigoBitBright);
+    --HS-EquiusZahhak-textShadow: var(--HS-TextShadow-None);
     --HS-EquiusZahhak-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-EquiusZahhak-prefix: "♐ Equius Zahhak: 🏹" / "Equius Zahhak says, ";
 
     /* Horuss Zahhak. Dad. Okay, keep in mind, some Universe D / Fanfic writers decided not to merge scratches. pls separate between like `Horrus` & `huh who`? like that on the before & after. Wait, still use this same class, and uh, we'll figure out the filler CSS attributing later, just have `(post)`, `(pre)` something like that for now, idk. */
-    --HS-HorussZahhak-color: var(--HS-Hemospectrum-IndigoDim);
-    --HS-HorussZahhak-textShadow: var(--HS-TextShadow-Stroke);
+    --HS-HorussZahhak-color: var(--HS-Hemospectrum-IndigoBitBright);
+    --HS-HorussZahhak-textShadow: var(--HS-TextShadow-None);
     --HS-HorussZahhak-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-HorussZahhak-prefix: "♐ Horuss Zahhak: 🏹" / "Horuss Zahhak says, ";
 
     /* (Deprecated) Aradia bot. */
-    --HS-AradiaBot-color: var(--HS-Hemospectrum-IndigoDim);
+    --HS-AradiaBot-color: var(--HS-Hemospectrum-IndigoBitBright);
     --HS-AradiaBot-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, ";
 
@@ -801,7 +802,7 @@ You can further make crazy with below classes
 
     /* Gamzee Makara */
     --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleBitBright);
-    --HS-GamzeeMakara-textShadow: var(--HS-TextShadow-Stroke);
+    --HS-GamzeeMakara-textShadow: var(--HS-TextShadow-None);
     --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-GamzeeMakara-prefix: "♑ Gamzee Makara: " / "Gamzee says, ";
 
@@ -1083,7 +1084,7 @@ First, install text color basically. the prefix should be later.
 /* Equius Zahhak */
 .HS.EquiusZahhak, .HS-Name.EquiusZahhak, .HS-Dialog.EquiusZahhak {
     color: var(--HS-EquiusZahhak-color);
-    text-shadow: var(--HS-EquiusZahhak-textShadow);
+    text-shadow: var(--HS-EquiusZahhak-None);
     background-color: var(--HS-EquiusZahhak-bgColor);
 }
 
@@ -1399,6 +1400,23 @@ In case you need to compensate contrast level depending on the color mode
         /* Tavros Crocker */
         --HS-TavrosCrocker-color: var(--HS-Hemospectrum-PurpleDim);
         --HS-TavrosCrocker-bgColor: var(--HS-Hemospectrum-Clear);
+
+        /* Equius Zahhak. */
+        --HS-EquiusZahhak-color: var(--HS-Hemospectrum-IndigoDim);
+        --HS-EquiusZahhak-textShadow: var(--HS-TextShadow-Stroke);
+        --HS-EquiusZahhak-bgColor: var(--HS-Hemospectrum-Clear);
+        --HS-EquiusZahhak-prefix: "♐ Equius Zahhak: 🏹" / "Equius Zahhak says, ";
+
+        /* Horuss Zahhak. Dad. Okay, keep in mind, some Universe D / Fanfic writers decided not to merge scratches. pls separate between like `Horrus` & `huh who`? like that on the before & after. Wait, still use this same class, and uh, we'll figure out the filler CSS attributing later, just have `(post)`, `(pre)` something like that for now, idk. */
+        --HS-HorussZahhak-color: var(--HS-Hemospectrum-IndigoDim);
+        --HS-HorussZahhak-textShadow: var(--HS-TextShadow-Stroke);
+        --HS-HorussZahhak-bgColor: var(--HS-Hemospectrum-Clear);
+        --HS-HorussZahhak-prefix: "♐ Horuss Zahhak: 🏹" / "Horuss Zahhak says, ";
+
+        /* (Deprecated) Aradia bot. */
+        --HS-AradiaBot-color: var(--HS-Hemospectrum-IndigoDim);
+        --HS-AradiaBot-bgColor: var(--HS-Hemospectrum-Clear);
+        --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, ";
     }
 }
 
