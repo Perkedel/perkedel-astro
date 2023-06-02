@@ -111,6 +111,8 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-PurpleDim: #2b0057; /* Oh, C'mon!! Gamzee Makara, Tavros Crocker. */
     /*  */
+    --HS-Hemospectrum-PurpleBitBright: #5f00a0; /* Oh, C'mon!! Gamzee Makara, Tavros Crocker. */
+    /*  */
     --HS-Hemospectrum-PurpleBright: #a954ff; /* PROPAN, THE PAINT SPECIALIST!! Stop.. pls..; Hiveswap. */
     /*  */
     --HS-Hemospectrum-PurplePurpler: #B536DA; /* Rose Lalonde text color. */
@@ -769,7 +771,7 @@ You can further make crazy with below classes
 
     /* Gamzee Makara */
     --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleDim);
-    --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite);
     --HS-GamzeeMakara-prefix: "♑ Gamzee Makara: " / "Gamzee says, ";
 
     /* Kurloz Makara. Dad */
@@ -1095,6 +1097,30 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-DocScratch-bgColor);
 }
 
+/* Caliborn */
+.HS.Caliborn, .HS-Name.Caliborn, .HS-Dialog.Caliborn {
+    color: var(--HS-Caliborn-color);
+    background-color: var(--HS-Caliborn-bgColor);
+}
+
+/* Calliope */
+.HS.Calliope, .HS-Name.Calliope, .HS-Dialog.Calliope {
+    color: var(--HS-Calliope-color);
+    background-color: var(--HS-Calliope-bgColor);
+}
+
+/* Calamity */
+.HS.Calamity, .HS-Name.Calamity, .HS-Dialog.Calamity {
+    color: var(--HS-Calamity-color);
+    background-color: var(--HS-Calamity-bgColor);
+}
+
+/* Catastrophy */
+.HS.Catastrophy, .HS-Name.Catastrophy, .HS-Dialog.Catastrophy {
+    color: var(--HS-Catastrophy-color);
+    background-color: var(--HS-Catastrophy-bgColor);
+}
+
 /* Lord English */
 .HS.LordEnglish, .HS-Name.LordEnglish, .HS-Dialog.LordEnglish {
     color: var(--HS-LordEnglish-color);
@@ -1167,23 +1193,23 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 
 /* Unknown Character */
 .HS::before, .HS.Unknown::before {
-    content: var(--HS-Unknown-prefix),
+    content: var(--HS-Unknown-prefix);
 }
 
 /* Audio Info */
 .HS.AudioInfo::before {
-    content: var(--HS-AudioInfo-prefix),
+    content: var(--HS-AudioInfo-prefix);
 }
 .HS.AudioInfo::after {
-    content: var(--HS-AudioInfo-postfix),
+    content: var(--HS-AudioInfo-postfix);
 }
 
 /* Info */
 .HS.Info::before {
-    content: var(--HS-Info-prefix),
+    content: var(--HS-Info-prefix);
 }
 .HS.Info::after {
-    content: var(--HS-Info-postfix),
+    content: var(--HS-Info-postfix);
 }
 
 /* JOELwindows7 */
@@ -1276,6 +1302,26 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-DocScratch-prefix);
 }
 
+/* Caliborn */
+.HS.Caliborn::before {
+    content: var(--HS-Caliborn-prefix);
+}
+
+/* Calliope */
+.HS.Calliope::before {
+    content: var(--HS-Calliope-prefix);
+}
+
+/* Calamity */
+.HS.Calamity::before {
+    content: var(--HS-Calamity-prefix);
+}
+
+/* Catastrophy */
+.HS.Catastrophy::before {
+    content: var(--HS-Catastrophy-prefix);
+}
+
 /* Lord English */
 .HS.LordEnglish::before {
     content: var(--HS-LordEnglish-prefix);
@@ -1290,7 +1336,9 @@ In case you need to compensate contrast level depending on the color mode
 @media(prefers-color-scheme: light){
     /* All colors should be optimized for dark mode 1st, then this light mode 2nd */
     :root{
-        
+        /* Gamzee Makara */
+        --HS-GamzeeMakara-color: var(--HS-Hemospectrum-PurpleDim);
+        --HS-GamzeeMakara-bgColor: var(--HS-Hemospectrum-Clear);
     }
 }
 
