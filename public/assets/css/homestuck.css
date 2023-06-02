@@ -1045,6 +1045,12 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-KarkatVantas-bgColor);
 }
 
+/* Equius Zahhak */
+.HS.EquiusZahhak, .HS-Name.EquiusZahhak, .HS-Dialog.EquiusZahhak {
+    color: var(--HS-EquiusZahhak-color);
+    background-color: var(--HS-EquiusZahhak-bgColor);
+}
+
 /* Aradia Megido */
 .HS.AradiaMegido, .HS-Name.AradiaMegido, .HS-Dialog.AradiaMegido {
     color: var(--HS-AradiaMegido-color);
@@ -1199,6 +1205,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Gamzee Makara */
 .HS.GamzeeMakara::before {
     content: var(--HS-GamzeeMakara-prefix);
+}
+
+/* Equius Zahhak */
+.HS.EquiusZahhak::before {
+    content: var(--HS-EquiusZahhak-prefix);
 }
 
 /* Nepeta Leijon */
