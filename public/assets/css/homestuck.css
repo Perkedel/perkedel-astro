@@ -1051,6 +1051,12 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-EquiusZahhak-bgColor);
 }
 
+/* Kanaya Maryam */
+.HS.KanayaMaryam, .HS-Name.KanayaMaryam, .HS-Dialog.KanayaMaryam {
+    color: var(--HS-KanayaMaryam-color);
+    background-color: var(--HS-KanayaMaryam-bgColor);
+}
+
 /* Aradia Megido */
 .HS.AradiaMegido, .HS-Name.AradiaMegido, .HS-Dialog.AradiaMegido {
     color: var(--HS-AradiaMegido-color);
@@ -1185,6 +1191,21 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-JOELwindows7-prefix);
 }
 
+/* Arn */
+.HS.Arn::before {
+    content: var(--HS-Arn-prefix);
+}
+
+/* Yab */
+.HS.Yab::before {
+    content: var(--HS-Yab-prefix);
+}
+
+/* Tab */
+.HS.Tab::before {
+    content: var(--HS-Tab-prefix);
+}
+
 /* Dirk Strider */
 .HS.DirkStrider::before {
     content: var(--HS-DirkStrider-prefix);
@@ -1213,6 +1234,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Equius Zahhak */
 .HS.EquiusZahhak::before {
     content: var(--HS-EquiusZahhak-prefix);
+}
+
+/* Kanaya Maryam */
+.HS.KanayaMaryam::before {
+    content: var(--HS-KanayaMaryam-prefix);
 }
 
 /* Nepeta Leijon */
