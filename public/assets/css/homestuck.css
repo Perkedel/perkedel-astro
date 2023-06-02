@@ -74,6 +74,9 @@ You can further make crazy with below classes
     --HS-Hemospectrum-JadeBrighter: #2caa6b; /* Text color for Hiveswap Jade characters, not to be confused with Jade Harley */
     /*  */
     --HS-Hemospectrum-JadeGreener: #4ac925; /* a.k.a. Radioactive. Jade Harley's text color */
+    /*  */
+    --HS-Hemospectrum-Green: #00ff00; /* Jokinever */
+    /*  */
     --HS-Hemospectrum-GreenGreener: #1f9400; /* Jake Harley / English */
     /*  */
     --HS-Hemospectrum-Teal: #008282;
@@ -131,8 +134,15 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-Black: #000000; /* Roxy Lalonde (karen, pre-scratch), Dirk Strider (karen, pre-scratch). */
     /*  */
+    --HS-Hemospectrum-White: #ffffff; /* Doc scratch */
+    /*  */
+    --HS-Hemospectrum-CyanCyanner: #00ffff; /* Quinzor Matahualar. */
+    /*  */
     --HS-Hemospectrum-CyanCyanner: #00d5f2; /* Jane Egbert. */
+    /*  */
     --HS-Hemospectrum-CyanSky: #71daff; /* Joey Claire. */
+    /*  */
+    --HS-Hemospectrum-CyanKaorfa: rgba(125,255,255,1); /* Joel Robert Justiawan. */
     /*  */
     --HS-Hemospectrum-OrangeOranger: #f2a400; /* Dirk Strider. */
     --HS-Hemospectrum-Creme: #d3ff8f; /* Jude Harley. */
@@ -143,7 +153,7 @@ You can further make crazy with below classes
 
     /* UNIVERSE OWNERS */
     /* JOELwindows7. Joel Robert Justiawan. Founder of Perkedel Technologies, 1st Kaorfa of Perkedel Cinematic Universe. */
-    --HS-JOELwindows7-color: rgba(125,255,255,1);
+    --HS-JOELwindows7-color: var(--HS-Hemospectrum-CyanKaorfa);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
 
@@ -199,12 +209,12 @@ You can further make crazy with below classes
     --HS-JakeHarley-prefix: "🔫 Jake Harley: " / "Jake Harley says, ";
 
     /* A. Claire. to Jake. Mama of Joey & Jude. */
-    --HS-AClaire-color: var(--HS-Hemospectrum-GreenGreener);
-    --HS-AClaire-bgColor: rgba(0,0,0,0);
-    --HS-AClaire-prefix: " Anna Claire: " / "Anna Claire says, ";
-    /* TODO: unabbreviate the A. */
+    --HS-AClaire-color: var(--HS-Hemospectrum-MagentaBright);
+    --HS-AClaire-bgColor: rgba(0,0,0,1);
+    --HS-AClaire-prefix: "🩰 Anna Claire: " / "Anna Claire says, ";
+    /* DONE: unabbreviate the A., We decide to take Anna. */
     /* after she died, go to Jane / nanna, have John & Jade.. ouch okay. Death is buthole.
-    NO no, first go to Jane / Nanna (adoptive sister), to help destroy Condesce / Meenah Peixes. But then Jake run away to home for new adventure, and reassures Jane he believes in her. That's it, disconnected. And then go to A. Claire. born Joey, born Jude, & she died.
+    NO no, first go to Jane / Nanna (adoptive sister), to help destroy Condesce / Meenah Peixes (& have John & Jade somwhere). But then Jake run away to home for new adventure, and reassures Jane he believes in her. Yep can have her with him, coz.. Butterwitch. That's it, disconnected. And then go to A. Claire. born Joey, born Jude, & she died.
     Yep, This is is tough & so much. Let's just Resurrect her without further a do..
     Fan speculated it's Anna or something. look at her
     https://mspaintadventures.fandom.com/wiki/A._Claire
@@ -222,6 +232,16 @@ You can further make crazy with below classes
     --HS-JudeHarley-color: var(--HS-Hemospectrum-Creme);
     --HS-JudeHarley-bgColor: rgba(0,0,0,1);
     --HS-JudeHarley-prefix: "🛸 Jude Harley: " / "Jude Harley says, ";
+
+    /* Quinzor Matahualar. Presenter. graduated from Binus University, idk what DKV major it is, basically broadcasting ones. OC of Perkedel Technologies. */
+    --HS-JakeHarley-color: var(--HS-Hemospectrum-Cyan);
+    --HS-JakeHarley-bgColor: rgba(0,0,0,.25);
+    --HS-JakeHarley-prefix: "📰 Quinzor Matahualar: " / "Quinzor Matahualar says, ";
+
+    /* Jokinever Matahualar. young brother of Quinzor Matahualar. Comedian. also graduated from Binus University same major. OC of Perkedel Technologies. */
+    --HS-JakeHarley-color: var(--HS-Hemospectrum-Green);
+    --HS-JakeHarley-bgColor: rgba(0,0,0,.25);
+    --HS-JakeHarley-prefix: "🤣 Jokinever Matahualar: " / "Jokinever Matahualar says, ";
 
     /* RUST BLOODED */
     /* Aradia Megido. */
@@ -741,13 +761,14 @@ You can further make crazy with below classes
 
     /* CHERUBS */
 
-    /* Uh wait a pecking second. the Ophiuchus is already the Cherubs. ummm. well uh.. that's... I thought this hadn't been. SSss, oh wow. */
+    /* Uh wait a pecking second. the Ophiuchus is already the Cherubs. ummm. well uh.. that's... I thought this hadn't been. 😬 SSss (pun unintended 🐍), oh wow. */
 
     /* Caliborn. son 1. */
     --HS-Caliborn-color: var(--HS-Hemospectrum-LimeBright);
     --HS-Caliborn-bgColor: rgba(0,0,0,0);
     --HS-Caliborn-prefix: "⛎💀👦 Caliborn: " / "Caliborn says, ";
     --HS-Caliborn-postfix: "" / "";
+    /* This is before Lord English! maybe use this? */
 
     /* Calliope. daughter 2. She speaks British. Bo'oh'o'wo'ah. */
     --HS-Calliope-color: var(--HS-Hemospectrum-GrayCandy);
@@ -755,7 +776,7 @@ You can further make crazy with below classes
     --HS-Calliope-prefix: "☤💀👧 Calliope: " / "Calliope says, ";
     --HS-Calliope-postfix: "" / "";
 
-    /* Calamity. mom. */
+    /* Calamity. mom. No, fans have found Skaianet docs, it's Calamity. According to what that doc says. */
     --HS-Calamity-color: var(--HS-Hemospectrum-GrayCandy);
     --HS-Calamity-bgColor: rgba(0,0,0,0);
     --HS-Calamity-prefix: "☤💀👩 Calamity: " / "Calamity says, ";
@@ -778,9 +799,15 @@ You can further make crazy with below classes
 
     /* IDEA: Who's character constantly shifts numbers?! so when 1 2 3 4 5, that person goes ! @ # $ % . Who? */
     
-    */
+    /* */
 
     /* EXTRA COLORED */
+
+    /* Doc Scratch */
+    --HS-DocScratch-color: var(--HS-Hemospectrum-white);
+    --HS-DocScratch-textShadow: 0px 0px 50px 17px rgba(255,255,255,1);
+    --HS-DocScratch-bgColor: rgba(255,255,255,.2);
+    --HS-DocScratch-prefix: "⚪ Doc Scratch: " / "Doctor Scratch says, ";
 
     /* Unknown */
     /* --HS-Unknown-color: var(--HS-Hemospectrum-RustBrighter); */
@@ -789,6 +816,7 @@ You can further make crazy with below classes
 
     /* d */
 
+    /* Did you know, Alternian birth system still births the egg, much like the original mama lusus. This is because Alternian has horn & to prevent wounding the womb system, the egg still unhatched unlike most humanoid which when going to birth, the placenta will break. The egg spherical design will give bearing allowing much smoother extrusion, at the cost of chance of tearing the output due to larger compensating size that is larger than most humanoid no placenta just head body legs came out. Although, the umbilical system and be safely dispatched & salvaged just like normal way most humanoid is. */
 }
 
 /* COLOR OVERRIDENINGS */
@@ -825,6 +853,13 @@ First, install text color basically. the prefix should be later.
 .HS.NepetaLeijon, .HS-Name.NepetaLeijon, .HS-Dialog.NepetaLeijon {
     color: var(--HS-NepetaLeijon-color);
     background-color: var(--HS-NepetaLeijon-bgColor);
+}
+
+/* Doc Scratch */
+.HS.DocScratch, .HS-Name.DocScratch, .HS-Dialog.DocScratch {
+    color: var(--HS-DocScratch-color);
+    textShadow: var(--HS-DocScratch-textShadow);
+    background-color: var(--HS-DocScratch-bgColor);
 }
 
 /* End Color overridenings */
@@ -912,6 +947,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Nepeta Leijon */
 .HS.NepetaLeijon::before {
     content: var(--HS-NepetaLeijon-prefix);
+}
+
+/* Doc Scratch */
+.HS.DocScratch::before {
+    content: var(--HS-DocScratch-prefix);
 }
 
 /* 
