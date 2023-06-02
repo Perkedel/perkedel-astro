@@ -142,6 +142,7 @@ You can further make crazy with below classes
     /*  */
     --HS-Hemospectrum-GrayGrayer: #4b4b4b; /* Dad Egbert. */
     --HS-Hemospectrum-GrayCandy: #929292; /* Calliope. */
+    --HS-Hemospectrum-GrayBright: #aaaaaa; /* Calliope. */
     /*  */
     --HS-Hemospectrum-Black: #000000; /* Roxy Lalonde (karen, pre-scratch), Dirk Strider (karen, pre-scratch). */
     /*  */
@@ -1419,7 +1420,7 @@ In case you need to compensate contrast level depending on the color mode
         --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, ";
 
         /* Doc Scratch */
-        --HS-DocScratch-color: var(--HS-Hemospectrum-Gray);
+        --HS-DocScratch-color: var(--HS-Hemospectrum-GrayBright);
     }
 }
 
