@@ -864,12 +864,14 @@ You can further make crazy with below classes
     --HS-Catastrophy-prefix: "⛎💀👨 Catastrophy: " / "Catastrophy says, ";
     --HS-Catastrophy-postfix: "" / "";
 
-    /* (DEPRECATED, use Caliborn instead for Universe D Caliborn Maximum level) Lord English. maximum level Caliborn. */
+    /* (DEPRECATED, use Caliborn instead for Universe D Caliborn Maximum level) Lord English. maximum level Caliborn, are composition of Caliborn + Doc Scratch (body) + Gamzee + Equius Dave combine spirit + Lil Hal doll (body) + B2 Jack Noir. We have already separated these. */
     --HS-LordEnglish-color: var(--HS-Hemospectrum-LimeBright);
     --HS-LordEnglish-bgColor: rgba(0,0,0,0);
-    --HS-LordEnglish-prefix: "⛎💀👦 L" url('https://perkedel.netlify.app/assets/img/steal/Homestuck/EnglishO.gif') "rd English: " / "Lord English says, ";
+    --HS-DocScratch-textShadow: 0px 0px 5px rgba(0,255,0,1);
+    --HS-DocScratch-boxShadow: 0px 0px 20px 10px rgba(0,255,0,.5);
+    --HS-LordEnglish-prefix: "⛎💀👦⚪💿♑♐♠️ L" url('https://perkedel.netlify.app/assets/img/steal/Homestuck/EnglishO.gif') "rd English: " / "Lord English says, ";
     --HS-LordEnglish-postfix: "" / "";
-    /* TODO: Pls more! Lord English ones is rather complicated! */
+    /* DONE: Pls more! Lord English ones is rather complicated! */
 
     /* Okay, here's the deal. what about.. manifest Slitherion, after Lord English succed to the blackhole & radiates everything? like this few bits goes to the past in Perkedel Cinematic Universe. heuh... help. */
 
@@ -894,6 +896,18 @@ You can further make crazy with below classes
     /* --HS-Unknown-color: var(--HS-Hemospectrum-RustBrighter); */
     --HS-Unknown-bgColor: rgba(0,0,0,0);
     --HS-Unknown-prefix: "❔ ???: " / "Unknown person says, ";
+
+    /* Audio Info. meta statusoids */
+    /* --HS-AudioInfo-color: var(--HS-Hemospectrum-RustBrighter); */
+    /* --HS-AudioInfo-bgColor: rgba(0,0,0,0); */
+    --HS-AudioInfo-prefix: "(" / "";
+    --HS-AudioInfo-postfix: ")" / "";
+
+    /* Info. Explain details */
+    --HS-Info-color: var(--HS-Hemospectrum-White);
+    --HS-Info-bgColor: rgba(0,0,255,1);
+    --HS-Info-prefix: "ℹ️ INFO: " / "";
+    --HS-Info-postfix: " ℹ️" / "";
 
     /* d */
 
@@ -1010,6 +1024,14 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Unknown Character */
 .HS::before, .HS.Unknown::before {
     content: var(--HS-Unknown-prefix),
+}
+
+/* Audio Info */
+.HS.AudioInfo::before {
+    content: var(--HS-AudioInfo-prefix),
+}
+.HS.AudioInfo::after {
+    content: var(--HS-AudioInfo-postfix),
 }
 
 /* JOELwindows7 */
