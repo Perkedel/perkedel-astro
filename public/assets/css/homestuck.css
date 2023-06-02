@@ -168,6 +168,25 @@ You can further make crazy with below classes
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
 
+    /* MODERATORS / SAOFA */
+    /* Arn. */
+    --HS-Arn-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-Arn-textShadow: 0px 0px 5px var(--HS-Hemospectrum-LimeBright);
+    --HS-Arn-bgColor: rgba(0,50,0,.5);
+    --HS-Arn-prefix: "🛡️ Arn: " / "Arn says, ";
+
+    /* Yab. */
+    --HS-Yab-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-Yab-textShadow: 0px 0px 5px var(--HS-Hemospectrum-LimeBright);
+    --HS-Yab-bgColor: rgba(0,50,0,.5);
+    --HS-Yab-prefix: "🛡️ Yab: " / "Yab says, ";
+
+    /* Tab. */
+    --HS-Tab-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-Tab-textShadow: 0px 0px 5px var(--HS-Hemospectrum-LimeBright);
+    --HS-Tab-bgColor: rgba(0,50,0,.5);
+    --HS-Tab-prefix: "🛡️ Tab: " / "Tab says, ";
+
     /* OTHER HUMANS */
 
     /* John Egbert. to Rose. */
@@ -864,7 +883,7 @@ You can further make crazy with below classes
     --HS-Catastrophy-prefix: "⛎💀👨 Catastrophy: " / "Catastrophy says, ";
     --HS-Catastrophy-postfix: "" / "";
 
-    /* (DEPRECATED, use Caliborn instead for Universe D Caliborn Maximum level) Lord English. maximum level Caliborn, are composition of Caliborn + Doc Scratch (body) + Gamzee + Equius Dave combine spirit + Lil Hal doll (body) + B2 Jack Noir. We have already separated these. */
+    /* (DEPRECATED, use Caliborn instead for Universe D Caliborn Maximum level) Lord English. maximum level Caliborn, are composition of Caliborn + Doc Scratch (body) + Gamzee + Equius Dirk combine spirit + Lil Hal doll (body) + B2 Jack Noir. We have already separated these. */
     --HS-LordEnglish-color: var(--HS-Hemospectrum-LimeBright);
     --HS-LordEnglish-bgColor: rgba(0,0,0,0);
     --HS-LordEnglish-textShadow: 0px 0px 5px rgba(0,255,0,1);
