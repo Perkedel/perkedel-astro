@@ -968,7 +968,7 @@ First, install text color basically. the prefix should be later.
 }
 
 /* Audio Info */
-.HS.Info, .HS-Name.Info, .HS-Dialog.Info {
+.HS.AudioInfo, .HS-Name.AudioInfo, .HS-Dialog.AudioInfo {
     color: var(--HS-AudioInfo-color);
     /* text-shadow: var(--HS-AudioInfo-textShadow); */
     background-color: var(--HS-AudioInfo-bgColor);
@@ -1173,8 +1173,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 }
 
 /* Info */
-.HS.AudioInfo::before {
+.HS.Info::before {
     content: var(--HS-Info-prefix),
+}
+.HS.Info::after {
+    content: var(--HS-Info-postfix),
 }
 
 /* JOELwindows7 */
