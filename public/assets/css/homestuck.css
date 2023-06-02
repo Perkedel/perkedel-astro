@@ -1417,6 +1417,9 @@ In case you need to compensate contrast level depending on the color mode
         --HS-AradiaBot-color: var(--HS-Hemospectrum-IndigoDim);
         --HS-AradiaBot-bgColor: var(--HS-Hemospectrum-Clear);
         --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, ";
+
+        /* Doc Scratch */
+        --HS-DocScratch-color: var(--HS-Hemospectrum-Gray);
     }
 }
 
