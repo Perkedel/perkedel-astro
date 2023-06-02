@@ -867,8 +867,8 @@ You can further make crazy with below classes
     /* (DEPRECATED, use Caliborn instead for Universe D Caliborn Maximum level) Lord English. maximum level Caliborn, are composition of Caliborn + Doc Scratch (body) + Gamzee + Equius Dave combine spirit + Lil Hal doll (body) + B2 Jack Noir. We have already separated these. */
     --HS-LordEnglish-color: var(--HS-Hemospectrum-LimeBright);
     --HS-LordEnglish-bgColor: rgba(0,0,0,0);
-    --HS-DocScratch-textShadow: 0px 0px 5px rgba(0,255,0,1);
-    --HS-DocScratch-boxShadow: 0px 0px 20px 10px rgba(0,255,0,.5);
+    --HS-LordEnglish-textShadow: 0px 0px 5px rgba(0,255,0,1);
+    --HS-LordEnglish-boxShadow: 0px 0px 20px 10px rgba(0,255,0,.5);
     --HS-LordEnglish-prefix: "⛎💀👦⚪💿♑♐♠️ L" url('https://perkedel.netlify.app/assets/img/steal/Homestuck/EnglishO.gif') "rd English: " / "Lord English says, ";
     --HS-LordEnglish-postfix: "" / "";
     /* DONE: Pls more! Lord English ones is rather complicated! */
@@ -898,8 +898,8 @@ You can further make crazy with below classes
     --HS-Unknown-prefix: "❔ ???: " / "Unknown person says, ";
 
     /* Audio Info. meta statusoids */
-    /* --HS-AudioInfo-color: var(--HS-Hemospectrum-RustBrighter); */
-    /* --HS-AudioInfo-bgColor: rgba(0,0,0,0); */
+    --HS-AudioInfo-color: var(--HS-Hemospectrum-Gray);
+    --HS-AudioInfo-bgColor: rgba(0,0,0,0);
     --HS-AudioInfo-prefix: "(" / "";
     --HS-AudioInfo-postfix: ")" / "";
 
@@ -924,6 +924,20 @@ First, install text color basically. the prefix should be later.
 /* Unknown Character */
 .HS, .HS.Unknown, .HS-Name, .HS-Dialog, .MsPaintAdventure, .HS.Unknown {
     /* no color */
+}
+
+/* Audio Info */
+.HS.Info, .HS-Name.Info, .HS-Dialog.Info {
+    color: var(--HS-AudioInfo-color);
+    /* text-shadow: var(--HS-AudioInfo-textShadow); */
+    background-color: var(--HS-AudioInfo-bgColor);
+}
+
+/* Info */
+.HS.Info, .HS-Name.Info, .HS-Dialog.Info {
+    color: var(--HS-Info-color);
+    /* text-shadow: var(--HS-Info-textShadow); */
+    background-color: var(--HS-Info-bgColor);
 }
 
 /* JOELwindows7 */
@@ -957,6 +971,14 @@ First, install text color basically. the prefix should be later.
     text-shadow: var(--HS-DocScratch-textShadow);
     box-shadow: var(--HS-DocScratch-boxShadow);
     background-color: var(--HS-DocScratch-bgColor);
+}
+
+/* Lord English */
+.HS.LordEnglish, .HS-Name.LordEnglish, .HS-Dialog.LordEnglish {
+    color: var(--HS-LordEnglish-color);
+    text-shadow: var(--HS-LordEnglish-textShadow);
+    box-shadow: var(--HS-LordEnglish-boxShadow);
+    background-color: var(--HS-LordEnglish-bgColor);
 }
 
 /* End Color overridenings */
@@ -1034,6 +1056,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-AudioInfo-postfix),
 }
 
+/* Info */
+.HS.AudioInfo::before {
+    content: var(--HS-Info-prefix),
+}
+
 /* JOELwindows7 */
 .HS.JOELwindows7::before {
     content: var(--HS-JOELwindows7-prefix);
@@ -1057,6 +1084,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Doc Scratch */
 .HS.DocScratch::before {
     content: var(--HS-DocScratch-prefix);
+}
+
+/* Lord English */
+.HS.DocScratch::before {
+    content: var(--HS-LordEnglish-prefix);
 }
 
 /* 
