@@ -752,11 +752,13 @@ You can further make crazy with below classes
     /* INDIGO BLOODED */
     /* Equius Zahhak. */
     --HS-EquiusZahhak-color: var(--HS-Hemospectrum-IndigoDim);
+    --HS-EquiusZahhak-textShadow: var(--HS-TextShadow-Stroke);
     --HS-EquiusZahhak-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-EquiusZahhak-prefix: "♐ Equius Zahhak: 🏹" / "Equius Zahhak says, ";
 
-    /* Horus Zahhak. Dad. Okay, keep in mind, some Universe D / Fanfic writers decided not to merge scratches. pls separate between like `Horrus` & `huh who`? like that on the before & after. Wait, still use this same class, and uh, we'll figure out the filler CSS attributing later, just have `(post)`, `(pre)` something like that for now, idk. */
+    /* Horuss Zahhak. Dad. Okay, keep in mind, some Universe D / Fanfic writers decided not to merge scratches. pls separate between like `Horrus` & `huh who`? like that on the before & after. Wait, still use this same class, and uh, we'll figure out the filler CSS attributing later, just have `(post)`, `(pre)` something like that for now, idk. */
     --HS-HorussZahhak-color: var(--HS-Hemospectrum-IndigoDim);
+    --HS-HorussZahhak-textShadow: var(--HS-TextShadow-Stroke);
     --HS-HorussZahhak-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-HorussZahhak-prefix: "♐ Horuss Zahhak: 🏹" / "Horuss Zahhak says, ";
 
@@ -1081,7 +1083,15 @@ First, install text color basically. the prefix should be later.
 /* Equius Zahhak */
 .HS.EquiusZahhak, .HS-Name.EquiusZahhak, .HS-Dialog.EquiusZahhak {
     color: var(--HS-EquiusZahhak-color);
+    text-shadow: var(--HS-EquiusZahhak-textShadow);
     background-color: var(--HS-EquiusZahhak-bgColor);
+}
+
+/* Horuss Zahhak */
+.HS.HorussZahhak, .HS-Name.HorussZahhak, .HS-Dialog.HorussZahhak {
+    color: var(--HS-HorussZahhak-color);
+    text-shadow: var(--HS-HorussZahhak-textShadow);
+    background-color: var(--HS-HorussZahhak-bgColor);
 }
 
 /* Kanaya Maryam */
@@ -1291,6 +1301,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Equius Zahhak */
 .HS.EquiusZahhak::before {
     content: var(--HS-EquiusZahhak-prefix);
+}
+
+/* Horuss Zahhak */
+.HS.HorussZahhak::before {
+    content: var(--HS-HorussZahhak-prefix);
 }
 
 /* Kanaya Maryam */
