@@ -7,6 +7,6 @@ export interface Props{
 
 const {
     sizeBig = false,
-}
+} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <img src={sizeBig?'/assets/img/steal/homestuck/EnglishO_infobox.webp':'/assets/img/steal/homestuck/EnglishO.gif'} alt='o' title='o'/>
