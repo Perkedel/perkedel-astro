@@ -12,6 +12,10 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
 @import url('https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css');
 
+/* Built in Homestuck CSS import */
+@import url('https://perkedel.netlify.app/assets/css/homestuck.css'); 
+
+
 /* @import url('https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'); */
 
 

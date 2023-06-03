@@ -1,6 +1,8 @@
 /* 
 Homestuck CSS
 
+Sauce: https://perkedel.netlify.app/assets/css/homestuck.css
+
 Style to enhance Homestuck dialoging in HTML & its compatible derivatives.
 
 You can now easily dialog faster & focus more to the dialog. With Lazy wrap, simply type your dialog inside, ensuring you typed the type followed by name correctly inside the class.
@@ -21,9 +23,13 @@ GNU AGPL v3
 /* HOW TO USE:
 This area is to store values for below use.
 Put your color, bg color, font, etc. here.
-You can further make crazy with below classes
+You can further make crazy the style with below classes
 */
 :root {
+    /* INIT */
+    color-scheme: light dark;
+    word-wrap: break-word;
+
     /* Hemospectrums. List of Blood Colors according to Alternia
     as fans whose collected the intels here 
     https://mspaintadventures.fandom.com/wiki/Hemospectrum
@@ -198,7 +204,7 @@ You can further make crazy with below classes
         1px 1px 0 #fff;
     
     /* Text Stroke Black */
-    --HS-TextShadow-StrokeWhite: -1px -1px 0 #000,  
+    --HS-TextShadow-StrokeBlack: -1px -1px 0 #000,  
         1px -1px 0 #000,
         -1px 1px 0 #000,
         1px 1px 0 #000;
@@ -549,6 +555,21 @@ You can further make crazy with below classes
     --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: ＼(=^..^)/ ⬅️ " / "Meulin Leijon says, ";
     /* TODO: Fore real, Meulin literally emotes her prefix emoji! try to have default, copy with if has attribute. */
 
+    /* Siamese Leijon. Daughter 1 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). the 2nd ever daughter born with new womb birth system. */
+    --HS-SiameseLeijon-color: var(--HS-Hemospectrum-Olive);
+    --HS-SiameseLeijon-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-SiameseLeijon-prefix: "♌🐈 Siamese Leijon: :33 ⬅️ " / "Siamese Leijon says, ";
+
+    /* Ragdoll Leijon. Son 2 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. */
+    --HS-RagdollLeijon-color: var(--HS-Hemospectrum-Olive);
+    --HS-RagdollLeijon-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-RagdollLeijon-prefix: "♌🦥 Ragdoll Leijon: :33 ⬅️ " / "Ragdoll Leijon says, ";
+
+    /* Kara Leijon. Daughter 3 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. basically named after Karkat & Caracal, Karakal cat lol. */
+    --HS-KaraLeijon-color: var(--HS-Hemospectrum-Olive);
+    --HS-KaraLeijon-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-KaraLeijon-prefix: "♌💪 Kara Leijon: :33 ⬅️ " / "Kara Leijon says, ";
+
     /* Will Smith Alternia. No, serious. Blame Hussie & all contributors involved in this, not me, not us. Not to be confused with real life Will Smith, that's different. */
     --HS-WillSmithAlternia-color: var(--HS-Hemospectrum-Olive);
     --HS-WillSmithAlternia-bgColor: var(--HS-Hemospectrum-Clear);
@@ -897,13 +918,13 @@ You can further make crazy with below classes
     /* MAGENTA BLOODED. The 13th Zodiac, does not exist in official Homestuck, ever! Pinkest pink, Semple Pink. */
     /* By 69420ing or any usage with these character you agree that you despise what Anish do & remove any friendship with him. */
 
-    /* Jase Sancha Ofaiedehn. Son 1. the `Ofaiedehn` does not linked to any common language, but pretty sure it's close to the zodiac name itself, Ofiuchus / Ofiukus, so by the early 2024, Dasandim adopted this to their language. Ofaiedehn family runs a scrap-made planet, much like ones with City of Thousand Planets in Valerian film. They are the rulers of this very planet. Now this celestrial troll here, is a prince. */
+    /* Jase Sancha Ofaiedehn. Son 1. the `Ofaiedehn` does not linked to any common language, but pretty sure it's close to the zodiac name itself, Ofiuchus / Ofiukus, so by the early 2024, Dasandim adopted this to their language. Ofaiedehn family runs a scrap-made planet, much like ones with City of Thousand Planets in Valerian film. They are the rulers of this very planet. Now this celestrial troll here, is a prince. He has third eye on forehead. This eye allows extra visioning beyond typical visible wavelengths, both infra & gamma, as well as 😏 other types of "xray", color xray some sort. lol. */
     --HS-JaseOfaiedehn-color: var(--HS-Hemospectrum-Magenta);
     --HS-JaseOfaiedehn-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-JaseOfaiedehn-prefix: "⛎ Jase S. Ofaiedehn: " / "Jase Sancha Ofaiedehn says, ";
     --HS-JaseOfaiedehn-postfix: " 🐍SSSSSS!" / "";
 
-    /* Pyworth Anaconda Ofaidehn. Dad. This guy currently sits on the throne of this scrap-made planet. Yes, a King. And he was born form a celestial lusus 7 Earth days after Jesus born (although he did not see the entire moment at all unfortunately. Birth to ascension, nada). Oh wow, now there exist space lusus & space mama lusus? I thought it was a thing only in Alternia planet huh? Not just a king, he's a father figure to all Ofaiedehns incoming below. */
+    /* Pyworth Anaconda Ofaidehn. Dad. This guy currently sits on the throne of this scrap-made planet. Yes, a King. And he was born form a celestial lusus 7 Earth days after Jesus born (although he did not see the entire moment at all unfortunately. Birth to ascension, nada). Oh wow, now there exist space lusus & space mama lusus? I thought it was a thing only in Alternia planet huh? Not just a king, he's a father figure to all Ofaiedehns incoming below. he also has third eye on forehead. basically Ofaiedehns have 3rd eye, which is why females are wearing lead armours when Ofaiedehn present. No Ofaiedehns resist the temptations. */
     --HS-PyworthOfaiedehn-color: var(--HS-Hemospectrum-Magenta);
     --HS-PyworthOfaiedehn-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-PyworthOfaiedehn-prefix: "⛎ Pyworth A. Ofaiedehn: " / "Pyworth Anaconda Ofaiedehn says, ";
@@ -969,10 +990,13 @@ You can further make crazy with below classes
     --HS-DocScratch-bgColor: rgba(255,255,255,.5);
     --HS-DocScratch-prefix: "⚪ Doc Scratch: " / "Doctor Scratch says, ";
 
-    /* Unknown */
+    /* Unknown. Character undefined in this CSS, or explicitly chosen. You may call these intentionally unnamed character (not explicit Unknown before reveal) "Cooling Fan" or "Kipas Angin" (you can even add honorary prefix like "Mr. / Bapak / Pak" & "Mrs. / Ms. / Ibu / Nyonya / Mbak"). I don't care you laughed either jokingly or an insult (like I did discussed somewhere around AHiT community way long time ago..), but I am serious. NAME YOUR CHARACTER, LAH!! */
     /* --HS-Unknown-color: var(--HS-Hemospectrum-RustBrighter); */
     --HS-Unknown-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-Unknown-prefix: "❔ ???: " / "Unknown person says, ";
+    /* Tips! before you label them Cooling fan, ensure you give chance for them to have name. E.g., "47" is not a name. But this label "47", happens to make sense in the context of secretive operation, therefore his name becomes "Agent 47" (although of course for the purpose of expectancy on some services he had alt name "Tobias Reaper" but you got the idea). If even in the discussion name could not be agreed at all or even the franchise owner despises any names, or any outcome that this is beyond salvation, you may punish that owner with "Cooling Fan". Again, please come with beautiful / handsome name FIRST at least just for this Perkedel Cinematic Universe. 
+    Cooling Fan. Because you refuse to write your name, I am angery.
+     */
 
     /* Audio Info. meta statusoids */
     --HS-AudioInfo-color: var(--HS-Hemospectrum-Gray);
@@ -989,6 +1013,8 @@ You can further make crazy with below classes
     /* d */
 
     /* Did you know, Alternian birth system still births the egg, much like the original mama lusus. This is because Alternian has horn & to prevent wounding the womb system, the egg still unhatched unlike most humanoid which when going to birth, the placenta will break. The egg spherical design will give bearing allowing much smoother extrusion, at the cost of chance of tearing the output due to larger compensating size that is larger than most humanoid no placenta just head body legs came out. Although, the umbilical system and be safely dispatched & salvaged just like normal way most humanoid is. */
+
+    /* Please name your character lah, do you really want I label them "Mr. Cooling Fan" & "Mrs. Cooling Fan"?!, heuh, do you mind??!! That's why, eeeeuhhh!!!.... you lazy undetailful game designer!! */
 }
 
 /* COLOR OVERRIDENINGS */
@@ -1130,6 +1156,18 @@ First, install text color basically. the prefix should be later.
 .HS.DirkStrider, .HS-Name.DirkStrider, .HS-Dialog.DirkStrider {
     color: var(--HS-DirkStrider-color);
     background-color: var(--HS-DirkStrider-bgColor);
+}
+
+/* Dave Strider */
+.HS.DaveStrider, .HS-Name.DaveStrider, .HS-Dialog.DaveStrider {
+    color: var(--HS-DaveStrider-color);
+    background-color: var(--HS-DaveStrider-bgColor);
+}
+
+/* John Egbert */
+.HS.JohnEgbert, .HS-Name.JohnEgbert, .HS-Dialog.JohnEgbert {
+    color: var(--HS-JohnEgbert-color);
+    background-color: var(--HS-JohnEgbert-bgColor);
 }
 
 /* Doc Scratch */
@@ -1280,6 +1318,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-DirkStrider-prefix);
 }
 
+/* Dave Strider */
+.HS.DaveStrider::before {
+    content: var(--HS-DaveStrider-prefix);
+}
+
 /* Vriska Serket */
 .HS.VriskaSerket::before {
     content: var(--HS-VriskaSerket-prefix);
@@ -1305,14 +1348,14 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-EquiusZahhak-prefix);
 }
 
-/* Horuss Zahhak */
-.HS.HorussZahhak::before {
-    content: var(--HS-HorussZahhak-prefix);
-}
-
 /* Kanaya Maryam */
 .HS.KanayaMaryam::before {
     content: var(--HS-KanayaMaryam-prefix);
+}
+
+/* Horuss Zahhak */
+.HS.HorussZahhak::before {
+    content: var(--HS-HorussZahhak-prefix);
 }
 
 /* Nepeta Leijon */
