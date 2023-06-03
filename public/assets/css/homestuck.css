@@ -286,7 +286,7 @@ You can further make crazy the style with below classes
     /* Dad Egbert / Crocker. */
     --HS-DadEgbert-color: var(--HS-Hemospectrum-GrayGrayer);
     --HS-DadEgbert-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-DadEgbert-prefix: " Dad Egbert: " / "Dad Egbert says, ";
+    --HS-DadEgbert-prefix: "👨 Dad Egbert: " / "Dad Egbert says, ";
 
     /* Jake Harley / English. to Claire. Papa of John & Jade & Joey & Jude. */
     --HS-JakeHarley-color: var(--HS-Hemospectrum-GreenGreener);
@@ -340,7 +340,7 @@ You can further make crazy the style with below classes
     --HS-ImodeKurita-prefix: "😀💙🔵🟦 Imode Kurita: " / "Imode Kurita says, ";
     /* 
     https://en.m.wikipedia.org/wiki/Shigetaka_Kurita
-    Also pls tell me how many ratio did I got! screenshot their username as well. Quickly, before they go private due to regret, shame, & solidarity revenge. The *deserve some special treatment* (menacing 😏 negatively) here in Perkedel Technologies 😀👍.
+    Also pls tell me how many ratio did I got! screenshot their username as well. Quickly, before they go private due to regret, shame, & solidarity revenge. The *deserve some special treatment* (menacing 😏 ➖ly) here in Perkedel Technologies 😀👍.
     */
 
     /* Silas P Beauregard III. speak Southern Belle & commonly apostrophe. */
@@ -404,12 +404,12 @@ You can further make crazy the style with below classes
     --HS-AradiaMegido-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AradiaMegido-prefix: "♈ Aradia Megido: " / "Aradia Megido says, ";
 
-    /* Damara Megido. */
+    /* Damara Megido. Mom. This mama speaks fake Translate JP from EN. She is also notorious for uttering lewd sentences along her talking. things like k888l, t888t, t8888k, etc. */
     --HS-AradiaMegido-color: var(--HS-Hemospectrum-Rust);
     --HS-AradiaMegido-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AradiaMegido-prefix: "♈🥵 Damara Megido: " / "Damara Megido says, ";
 
-    /* Xefros Tritoh. */
+    /* Xefros Tritoh. to Joey. */
     --HS-XefrosTritoh-color: var(--HS-Hemospectrum-RustBright);
     --HS-XefrosTritoh-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-XefrosTritoh-prefix: "🦎 Xefros Tritoh: " / "Xefros Tritoh says, ";
@@ -435,12 +435,12 @@ You can further make crazy the style with below classes
     --HS-TavrosNitram-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-TavrosNitram-prefix: "♉ Tavros Nitram: " / "Tavros Nitram says, ";
 
-    /* Rufioh Nitram, */
+    /* Rufioh Nitram, Dad, */
     --HS-RufiohNitram-color: var(--HS-Hemospectrum-BronzeDim);
     --HS-RufiohNitram-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-RufiohNitram-prefix: "♉🔥 Rufioh Nitram: " / "Rufioh Nitram says, ";
 
-    /* Dammek. */
+    /* Dammek. Pls Hiveswap sequel lah! want to see his side. */
     --HS-Dammek-color: var(--HS-Hemospectrum-BronzeBright);
     --HS-Dammek-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-Dammek-prefix: "🗝️ Dammek: " / "Dammek says, ";
@@ -546,29 +546,35 @@ You can further make crazy the style with below classes
     /* Nepeta Leijon. */
     --HS-NepetaLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-NepetaLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: :33 ⬅️ " / "Nepeta Leijon says, ";
-    /* TODO: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD` */
+    --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Nepeta Leijon says, ";
+    /* DONE: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD`. use html attribute `prefix-emoji`, fill with string. */
 
     /* Meulin Leijon. Mom. */
     --HS-MeulinLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-MeulinLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: ＼(=^..^)/ ⬅️ " / "Meulin Leijon says, ";
-    /* TODO: Fore real, Meulin literally emotes her prefix emoji! try to have default, copy with if has attribute. */
+    --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: " var(attr(prefix-emoji),'＼(=^..^)/') " ⬅️ " / "Meulin Leijon says, ";
+    /* DONE: Fore real, Meulin literally emotes her prefix emoji! try to have default, copy with if has attribute. also use `prefix-emoji` html attribute fill with string. */
 
     /* Siamese Leijon. Daughter 1 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). the 2nd ever daughter born with new womb birth system. */
     --HS-SiameseLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-SiameseLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-SiameseLeijon-prefix: "♌🐈 Siamese Leijon: :33 ⬅️ " / "Siamese Leijon says, ";
+    --HS-SiameseLeijon-prefix: "♌🐈 Siamese Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Siamese Leijon says, ";
 
     /* Ragdoll Leijon. Son 2 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. */
     --HS-RagdollLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-RagdollLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-RagdollLeijon-prefix: "♌🦥 Ragdoll Leijon: :33 ⬅️ " / "Ragdoll Leijon says, ";
+    --HS-RagdollLeijon-prefix: "♌🦥 Ragdoll Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Ragdoll Leijon says, ";
 
-    /* Kara Leijon. Daughter 3 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. basically named after Karkat & Caracal, Karakal cat lol. */
+    /* Kara Leijon. Daughter 3 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. Basically named after Karkat & Caracal, Karakal cat lol. She is muscular, not just Thicc. */
     --HS-KaraLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-KaraLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-KaraLeijon-prefix: "♌💪 Kara Leijon: :33 ⬅️ " / "Kara Leijon says, ";
+    --HS-KaraLeijon-prefix: "♌💪 Kara Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Kara Leijon says, ";
+
+    /* Maine Leijon. Son 4 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. Basically Maine Coon. Like Kara, he is Macho! */
+    --HS-MaineLeijon-color: var(--HS-Hemospectrum-Olive);
+    --HS-MaineLeijon-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-MaineLeijon-prefix: "♌🚨 Maine Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Maine Leijon says, ";
+    /* Pecking hell, where is Whistle emoji!?!? */
 
     /* Will Smith Alternia. No, serious. Blame Hussie & all contributors involved in this, not me, not us. Not to be confused with real life Will Smith, that's different. */
     --HS-WillSmithAlternia-color: var(--HS-Hemospectrum-Olive);
@@ -698,7 +704,7 @@ You can further make crazy the style with below classes
     --HS-TyziasEntykk-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-TyziasEntykk-prefix: " Tyzias Entykk: " / "Tyzias Entykk says, ";
 
-    /* Idarat Catlaz. */
+    /* Idarat Catlaz. Fan troll, Hiveswap. */
     --HS-IdaratCatlaz-color: var(--HS-Hemospectrum-TealBright);
     --HS-IdaratCatlaz-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-IdaratCatlaz-prefix: " Idarat Catlaz: " / "Idarat Catlaz says, ";
@@ -730,12 +736,12 @@ You can further make crazy the style with below classes
     --HS-AraneaSerket-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AraneaSerket-prefix: "♏ Aranea Serket: " / "Aranea Serket says, ";
 
-    /* Vrissy Maryam-Lalonde Serket. Daughter 1, from Vriska. */
+    /* Vrissy Serket. Daughter 1, from Vriska & Tavros. idk what official was, but no matter what this still her. Official name was Vriska Maryam-Lalonde Serket where the C's Mama Vriska act like she don't care. Born (ovipar) from the same mama lusus Vriska were egg & hatched at. */
     --HS-VrissySerket-color: var(--HS-Hemospectrum--BlueGreener);
     --HS-VrissySerket-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-VrissySerket-prefix: "♏ Vriska Maryam-Lalonde Serket: " / "Vrissy Serket says, ";
+    --HS-VrissySerket-prefix: "♏ Vrissy Serket: " / "Vrissy Serket says, ";
 
-    /* Sido Serket. Daughter 2, from Vriska. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably. Infact that system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's hope come true, hence this her name. Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
+    /* Sido Serket. Daughter 2, from Vriska & Tavros. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe (Joel's Universe D) wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably & seamlessly. Infact that conventional system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's dream come true, hence this her name. She has Tavros' horn but the ends like Vriska. Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
     --HS-SidoSerket-color: var(--HS-Hemospectrum-BlueGreener);
     --HS-SidoSerket-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-SidoSerket-prefix: "♏ Sido Serket: " / "Sido Serket says, ";
@@ -785,7 +791,7 @@ You can further make crazy the style with below classes
     --HS-HorussZahhak-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-HorussZahhak-prefix: "♐ Horuss Zahhak: 🏹" / "Horuss Zahhak says, ";
 
-    /* (Deprecated) Aradia bot. */
+    /* (Deprecated) Aradia bot. This is a clone of Aradia, taking Aradia's soul into it while she was dead. The blood uses Indigo instead of her Rust since this is the only tier close by. in Perkedel Cinematic Universe, this item has been restored & museumized. the conciousness is also gone since Aradia has been alive again since on the original she's re-alive as a God tier, hence it wouldn't work anymore. */
     --HS-AradiaBot-color: var(--HS-Hemospectrum-IndigoBitBright);
     --HS-AradiaBot-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, ";
@@ -886,6 +892,7 @@ You can further make crazy the style with below classes
     --HS-Fiamet-color: var(--HS-Hemospectrum-VioletBright);
     --HS-Fiamet-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-Fiamet-prefix: " Fiamet: " / "Fiamet says, ";
+    /* Eel emoji missing! what is that tail? */
 
     /* Jerann. */
     --HS-Jerann-color: var(--HS-Hemospectrum-VioletBright);
@@ -900,7 +907,7 @@ You can further make crazy the style with below classes
 
     /* FUSCHIA BLOODED */
 
-    /* Meenah Peixes. Mom. */
+    /* Meenah Peixes. Mom. She is the ruler of Alternia, to this day. */
     --HS-MeenahPeixes-color: var(--HS-Hemospectrum-Fuschia);
     --HS-MeenahPeixes-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-MeenahPeixes-prefix: "♓ Meenah Peixes: " / "Meenah Peixes says, ";
@@ -913,7 +920,8 @@ You can further make crazy the style with below classes
     /* Trizza Tethis. Heiress to Meenah Peixes. What is that PDA, btw?! I'm jealous! you got PDA that works like modern smartphone, in 1990s?!?!? HOW!??!! Our PDA at that time is just basically... uhh ugly color screen, fat, Windows CE sluggish, and camera is not even built in, only 1 camera at that time each expansion. Oh my God!! Did the Goldblood made that for you?!?! Do you secretely lobbied IBM to do this?! */
     --HS-TrizzaTethis-color: var(--HS-Hemospectrum-Fuschia);
     --HS-TrizzaTethis-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-TrizzaTethis-prefix: "🕎 Trizza Tethis: " / "Trizza Tethis says, ";
+    --HS-TrizzaTethis-prefix: "🔱 Trizza Tethis: " / "Trizza Tethis says, ";
+    /* triden emoji! the Psi letter is difficult to get, you may use this trident emoji to replace `W` if you want. */
 
     /* MAGENTA BLOODED. The 13th Zodiac, does not exist in official Homestuck, ever! Pinkest pink, Semple Pink. */
     /* By 69420ing or any usage with these character you agree that you despise what Anish do & remove any friendship with him. */
@@ -1321,6 +1329,16 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Dave Strider */
 .HS.DaveStrider::before {
     content: var(--HS-DaveStrider-prefix);
+}
+
+/* John Egbert */
+.HS.JohnEgbert::before {
+    content: var(--HS-JohnEgbert-prefix);
+}
+
+/* Rose Lalonde */
+.HS.RoseLalonde::before {
+    content: var(--HS-RoseLalonde-prefix);
 }
 
 /* Vriska Serket */
