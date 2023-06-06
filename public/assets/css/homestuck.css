@@ -147,7 +147,9 @@ You can further make crazy the style with below classes
     --HS-Hemospectrum-GrayTrue: #626262; /* Karkat's text color is this, not using his candy-red blood color. */
     /*  */
     --HS-Hemospectrum-GrayGrayer: #4b4b4b; /* Dad Egbert. */
+    /*  */
     --HS-Hemospectrum-GrayCandy: #929292; /* Calliope. */
+    /*  */
     --HS-Hemospectrum-GrayBright: #aaaaaa; /* Calliope. */
     /*  */
     --HS-Hemospectrum-Black: #000000; /* Roxy Lalonde (karen, pre-scratch), Dirk Strider (karen, pre-scratch). */
@@ -531,8 +533,13 @@ You can further make crazy the style with below classes
     the Grandpa wow, hold on a sec. No grandpa neither grandma, sort of, the... Komodo hatch Beforoviparly (because previous mom lusus died, Maryam disect egg and hatch it this). Then a Drone filled up from random Matesprites couple to this Komodo, and there's that Ambarawa. Pls wait, we are designing her siblings! Yeah Sewu aunties / Tante2 Sewu.
     */
 
+    /* Meneng Sewu Boso. Son 7. Silent 1000 Language / Diam Seribu Bahasa. Oh there's another one. This is the 3rd ever baby born through new system, from Ambarawa & Dlavem also. He does not talk at all, but that does not mean he has mute syndrome, thankfully. I mean literally, after he came out of Ambarawa, he only cries for 2 minutes, and then silent. That's it. Just like Frisk & Kris & and any other Toby Fox style protagonist it would be. also he lacks interest doing motions unlike others, just like his name. Meneng in Java means Silence or Well sat (Anteng), & Boso in Java means Language. Additionally terms `Diam 1000 Basasa` in Indonesia means Speechless, in context where you surprised & ran out of idea what should you say in effect. */
+    --HS-MenengSewu-color: var(--HS-Hemospectrum-GoldBright);
+    --HS-MenengSewu-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-MenengSewu-prefix: "🔇 Meneng Sewu Boso: " / "Meneng Sewu Boso says, ";
+
     /* LIME BLOODED */
-    /* Karkat Vantas. Karkat was supposedly Lime, but yeah you see, exterminations. So it's rare. Luckily, the Dolorosa saved him & raised him. OMG, Dolorosa, lol what?! No.. that... okay yeah. */
+    /* Karkat Vantas. Karkat was supposedly Lime, but yeah you see, exterminations. So it's rare. Luckily, the Dolorosa / Porrim saved him & raised him. OMG, Dolorosa, lol what?! No.. that... okay yeah. */
     --HS-KarkatVantas-color: var(--HS-Hemospectrum-GrayTrue);
     --HS-KarkatVantas-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-KarkatVantas-prefix: "♋ Karkat Vantas: " / "Karkat Vantas says, ";
