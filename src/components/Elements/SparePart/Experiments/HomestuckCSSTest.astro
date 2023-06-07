@@ -175,7 +175,7 @@ import EmbedVideo from '@components/Elements/EmbedVideo.astro';
 </details>
 <details>
     <summary>Alternian Sun</summary>
-    <!-- <div style='background-color:cyan; background-color:color(prophoto-rgb 1 1 1);'>
+    <div style='background-color:cyan; background-color:color(prophoto-rgb 1 1 1); filter: brightness(200); -webkit-backdrop-filter: brightness(1); backdrop-filter: brightness(1);'>
         <br/>
         <br/>
         <br/>
@@ -193,8 +193,8 @@ import EmbedVideo from '@components/Elements/EmbedVideo.astro';
         <br/>
         <br/>
     </div>
-    <p>If you see cyan, that mean your browser does not support <code>color()</code> CSS function as the value.</p> -->
-    <p style='filter: brightness(10); -webkit-backdrop-filter: brightness(1); backdrop-filter: brightness(1);'>White Text yoink from kidi!</p>
+    <p>If you see cyan, that mean your browser does not support <code>color()</code> CSS function as the value.</p>
+    <p style='filter: brightness(200); -webkit-backdrop-filter: brightness(1); backdrop-filter: brightness(1);'>White Text yoink from kidi!</p>
     <EmbedVideo 
         title='the Whiter white' 
         src='/assets/video/steal/white1.webm' 
@@ -207,6 +207,8 @@ import EmbedVideo from '@components/Elements/EmbedVideo.astro';
         width='100%'
         >
     </EmbedVideo>
+    <p>Play the video to simulate Terezi looking at the bright sun. If the white is similar with above white, that mean your monitor is junk!, no HDR support.</p>
+    <p>Additionally, phones that claim to have HDR support but in reality is using max brightness when playing HDR YouTube video in the APK, that mean your phone does not support HDR, it's fake HDR!!!</p>
 </details>
 <ul>
     <li><a href='https://developer.chrome.com/articles/high-definition-css-color-guide/' target="_blank" rel="noopener noreferrer">Chrome dev HD CSS Color guide</a></li>
@@ -216,9 +218,10 @@ import EmbedVideo from '@components/Elements/EmbedVideo.astro';
     <li><a href='https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color' target="_blank" rel="noopener noreferrer">MDN CSS Color function</a></li>
     <li><a href='https://en.wikipedia.org/wiki/Munsell_color_system' target="_blank" rel="noopener noreferrer">Wikipeda, Munsell color system</a></li>
     <li><a href='https://habr.com/en/articles/715084/' target="_blank" rel="noopener noreferrer">CSS & HDR Display</a></li>
-    <li><a href='https://kidi.ng/wanna-see-a-whiter-white/' target="_blank" rel="noopener noreferrer">kidi's CSS HDR bug exploit</a>Put an HDR video. somewhere, add a text with this style: 
+    <li><a href='https://kidi.ng/wanna-see-a-whiter-white/' target="_blank" rel="noopener noreferrer">kidi's CSS HDR bug exploit</a>Put an HDR video. somewhere before video, add a text with this style: 
         <code>
             filter: brightness(10); -webkit-backdrop-filter: brightness(1); backdrop-filter: brightness(1);
-        </code>
+        </code> <br/>
+        Yeah basically... brightness beyond <code>1</code>, okay.
     </li>
 </ul>
