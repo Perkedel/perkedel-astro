@@ -1042,6 +1042,7 @@ First, install text color basically. the prefix should be later.
 /* Unknown Character */
 .HS, .HS.Unknown, .HS-Name, .HS-Dialog, .MsPaintAdventure, .HS.Unknown {
     /* no color */
+    color: initial;
 }
 
 /* Audio Info */
@@ -1237,13 +1238,13 @@ OR better, put each line in each paragraph, since by default, paragraph line spa
 ```
 */
 
-.HS-Name {
+/* .HS-Name {
 
-}
+} */
 
-.HS-Name.JOELwindows7 {
+/* .HS-Name.JOELwindows7 { */
     /* Joel Robert Justiawan. Founder of Perkedel Technologies */
-}
+/* } */
 
 /* Dialog */
 /* HOW TO USE:
@@ -1260,13 +1261,13 @@ Full Sample
 ```
 */
 
-.HS-Dialog {
+/* .HS-Dialog {
+    color: initial;
+} */
 
-}
+/* .HS-Dialog.JOELwindows7 {
 
-.HS-Dialog.JOELwindows7 {
-
-}
+} */
 
 /* Lazy Line */
 /* HOW TO USE:
@@ -1493,3 +1494,5 @@ In case you need to compensate contrast level depending on the color mode
 }
 
 /* IDEA: will Denizen now? Rachel something, Joshua White.. */
+
+/* hehi */

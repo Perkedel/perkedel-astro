@@ -118,7 +118,15 @@
 # Profiles
 /@* /apps/profile/@:splat
 /linktree/* /apps/profile/@:splat
+/profile/* /apps/profile/@:splat
+/profiles/* /apps/profile/@:splat
 /biolinks/* /apps/profile/@:splat
 /user/* /apps/profile/@:splat
 /users/* /apps/profile/@:splat
 /u/* /apps/profile/@:splat
+
+# daFolder Lab test. Newer place!!!
+/daFolder/* /apps/daFolder/:splat
+/another/* /apps/another/:splat
+/another_folder/* /apps/another_folder/:splat
+/no_script/* /apps/no_script
