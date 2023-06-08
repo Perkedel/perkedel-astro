@@ -246,18 +246,18 @@ You can further make crazy the style with below classes
 
     /* OTHER HUMANS */
 
-    /* John Egbert. to Rose. */
+    /* John Egbert. to Rose (official was to Post / alt Roxy & break?). */
     --HS-JohnEgbert-color: var(--HS-Hemospectrum-BlueBluer);
     --HS-JohnEgbert-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-JohnEgbert-prefix: "👻 John Egbert: " / "John Egbert says, ";
 
-    /* Rose Lalonde. to John. */
+    /* Rose Lalonde. to John (official was to Kanaya). from Dirk & Roxy (official was paradox). */
     --HS-RoseLalonde-color: var(--HS-Hemospectrum-PurplePurpler);
     --HS-RoseLalonde-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-RoseLalonde-prefix: "🦑 Rose Lalonde: " / "Rose Lalonde says, ";
     /* Sorry gamers, we gotta add some rumbles to the wires a bit, because that official wires fits only to an unofficial verification. Yeah, we only endorse main verifications. */
 
-    /* Dave Strider. to Jade (official). */
+    /* Dave Strider. to Jade (official). from Dirk & Roxy. */
     --HS-DaveStrider-color: var(--HS-Hemospectrum-RedRedder);
     --HS-DaveStrider-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-DaveStrider-prefix: "💿 Dave Strider: " / "Dave Strider says, ";
@@ -274,7 +274,7 @@ You can further make crazy the style with below classes
     --HS-JaneEgbert-prefix: "👵 Jane Egbert: " / "Jane Egbert says, ";
     /* Wow, we're getting into complicated stuffs here. Bear with me, take the officially genetic of. */
 
-    /* Roxy Lalonde. Mama of Rose & Dave. */
+    /* Roxy Lalonde. Mama of Rose & Dave (official was paradox & ectobiological). */
     --HS-RoxyLalonde-color: var(--HS-Hemospectrum-PinkPinker);
     --HS-RoxyLalonde-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-RoxyLalonde-prefix: "🍸 Roxy Lalonde: " / "Roxy Lalonde says, ";
@@ -309,13 +309,14 @@ You can further make crazy the style with below classes
     Oh, Dirk?!
     https://www.homestuck.com/story/4441
     */
+    /* IDEA: replace some official to dubious?! */
 
     /* Joey Claire. to Xefros. daugther 1 of A. Claire. */
     --HS-JoeyClaire-color: var(--HS-Hemospectrum-CyanSky);
     --HS-JoeyClaire-bgColor: var(--HS-Hemospectrum-Black);
     --HS-JoeyClaire-prefix: "☀️ Joey Claire: " / "Joey Claire says, ";
 
-    /* Jude Harley. to Xefros. daugther 1 of A. Claire. */
+    /* Jude Harley. to Xefros. son 2 of A. Claire. */
     --HS-JudeHarley-color: var(--HS-Hemospectrum-Creme);
     --HS-JudeHarley-bgColor: var(--HS-Hemospectrum-Black);
     --HS-JudeHarley-prefix: "🛸 Jude Harley: " / "Jude Harley says, ";
@@ -325,7 +326,7 @@ You can further make crazy the style with below classes
     --HS-HarryEgbert-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-HarryEgbert-prefix: "🧣 Harry A. Egbert: " / "Harry Anderson Egbert says, ";
 
-    /* Tavros Crocker. son 1 of ??? & ???. to Sido?. Officially, it was Jane & Jake, but since we have merged the scratches hence have painstakingly rewired all of the connection, we'll go to ??? & make this descendant Back to the Same (lmao, Back to the Future Pt. 2 reference). Restart Claire?!??!? no. um... kdshflighsldf */
+    /* Tavros Crocker. son 1 of ??? & ??? (try John & Rose??). to Sido?. Officially, it was Jane & Jake, but since we have merged the scratches hence have painstakingly rewired all of the connection, we'll go to ??? & make this descendant Back to the Same (lmao, Back to the Future Pt. 2 reference). Restart Claire?!??!? no. um... kdshflighsldf */
     --HS-TavrosCrocker-color: var(--HS-Hemospectrum-PurpleBitBright);
     --HS-TavrosCrocker-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-TavrosCrocker-prefix: "🤵‍♂️ Tavros Crocker: " / "Tavros says, ";
@@ -336,7 +337,7 @@ You can further make crazy the style with below classes
     --HS-YiffyLongstocking-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-YiffyLongstocking-prefix: "🐕 Yiffy Longstocking: " / "Yiffy Longstocking says, ";
 
-    /* Imode Kurita. Emoji person 😀, just like Mr. Emoji a.k.a. Shigetaka Kurita 😁. Offical pronouns is They/Them, but since neo-pronouns in Perkedel Technologies is 3rd party mod & unendorsed (hence cause compatibility issues with many aspects), we scanned them and found that it appears to be a female, so She/Her, just like Frisk, not Kris. She (They) often abbreviates certain word with Emoji. 👍 this, of course based on context rather than raw words, such as 🔥 hot 🍜 (Flaming Hot Ramen) 🌀ed with Rendang (mixed with rendang). be sure to wrap abbreviated words into emoji with abbr tag, & add title attribute what does (do) she (they) meant. */
+    /* Imode Kurita. Emoji person 😀, just like Mr. Emoji a.k.a. Shigetaka Kurita 😁. Offical pronouns is They/Them, but since neo-pronouns in Perkedel Technologies is 3rd party mod & unendorsed (hence cause compatibility issues with many aspects), we scanned them and found that they appears to be a female, so She/Her, just like Frisk, not Kris. She (they) often abbreviates certain word with Emoji. 👍 this, of course based on context rather than raw words, such as 🔥 hot 🍜 (Flaming Hot Ramen) 🌀ed with Rendang (mixed with rendang). be sure to wrap abbreviated words into emoji with abbr tag, & add title attribute what does (do) she (they) meant. */
     --HS-ImodeKurita-color: var(--HS-Hemospectrum-RedHound);
     --HS-ImodeKurita-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-ImodeKurita-prefix: "😀💙🔵🟦 Imode Kurita: " / "Imode Kurita says, ";
@@ -399,6 +400,11 @@ You can further make crazy the style with below classes
     --HS-MoustacheKid-color: var(--HS-Hemospectrum-Red);
     --HS-MoustacheKid-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite75);
     --HS-MoustacheKid-prefix: "🥸♀️ Nelly Tartanzi (Moustache Kid): " / "Nelly Tartanzi a.k.a. Mustache Kid says, ";
+
+    /* Timmy "Radical" Winston. not Syntax. Skateboard guy that unfortunately removed from AHiT. */
+    --HS-TimmyWinston-color: var(--HS-Hemospectrum-Red);
+    --HS-TimmyWinston-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite75);
+    --HS-TimmyWinston-prefix: "🛹 Timmy Winston: " / "Timmy Winston says, ";
 
     /* RUST BLOODED */
     /* Aradia Megido. */
@@ -1087,6 +1093,12 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-Tab-bgColor);
 }
 
+/* Aranea Serket */
+.HS.AraneaSerket, .HS-Name.AraneaSerket, .HS-Dialog.AraneaSerket {
+    color: var(--HS-AraneaSerket-color);
+    background-color: var(--HS-AraneaSerket-bgColor);
+}
+
 /* Vriska Serket */
 .HS.VriskaSerket, .HS-Name.VriskaSerket, .HS-Dialog.VriskaSerket {
     color: var(--HS-VriskaSerket-color);
@@ -1097,6 +1109,18 @@ First, install text color basically. the prefix should be later.
 .HS.TavrosNitram, .HS-Name.TavrosNitram, .HS-Dialog.TavrosNitram {
     color: var(--HS-TavrosNitram-color);
     background-color: var(--HS-TavrosNitram-bgColor);
+}
+
+/* Rufioh Nitram */
+.HS.RufiohNitram, .HS-Name.RufiohNitram, .HS-Dialog.RufiohNitram {
+    color: var(--HS-RufiohNitram-color);
+    background-color: var(--HS-RufiohNitram-bgColor);
+}
+
+/* Latula Pyrope */
+.HS.LatulaPyrope, .HS-Name.LatulaPyrope, .HS-Dialog.LatulaPyrope {
+    color: var(--HS-LatulaPyrope-color);
+    background-color: var(--HS-LatulaPyrope-bgColor);
 }
 
 /* Terezi Pyrope */
@@ -1112,6 +1136,19 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-GamzeeMakara-bgColor);
 }
 
+/* Kurloz Makara */
+.HS.KurlozMakara, .HS-Name.KurlozMakara, .HS-Dialog.KurlozMakara {
+    color: var(--HS-KurlozMakara-color);
+    text-shadow: var(--HS-KurlozMakara-textShadow);
+    background-color: var(--HS-KurlozMakara-bgColor);
+}
+
+/* Meulin Leijon */
+.HS.MeulinLeijon, .HS-Name.MeulinLeijon, .HS-Dialog.MeulinLeijon {
+    color: var(--HS-MeulinLeijon-color);
+    background-color: var(--HS-MeulinLeijon-bgColor);
+}
+
 /* Nepeta Leijon */
 .HS.NepetaLeijon, .HS-Name.NepetaLeijon, .HS-Dialog.NepetaLeijon {
     color: var(--HS-NepetaLeijon-color);
@@ -1122,6 +1159,12 @@ First, install text color basically. the prefix should be later.
 .HS.KarkatVantas, .HS-Name.KarkatVantas, .HS-Dialog.KarkatVantas {
     color: var(--HS-KarkatVantas-color);
     background-color: var(--HS-KarkatVantas-bgColor);
+}
+
+/* Kankri Vantas */
+.HS.KankriVantas, .HS-Name.KankriVantas, .HS-Dialog.KankriVantas {
+    color: var(--HS-KankriVantas-color);
+    background-color: var(--HS-KankriVantas-bgColor);
 }
 
 /* Equius Zahhak */
@@ -1144,6 +1187,18 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-KanayaMaryam-bgColor);
 }
 
+/* Porrim Maryam */
+.HS.PorrimMaryam, .HS-Name.PorrimMaryam, .HS-Dialog.PorrimMaryam {
+    color: var(--HS-PorrimMaryam-color);
+    background-color: var(--HS-PorrimMaryam-bgColor);
+}
+
+/* Damara Megido */
+.HS.DamaraMegido, .HS-Name.DamaraMegido, .HS-Dialog.DamaraMegido {
+    color: var(--HS-DamaraMegido-color);
+    background-color: var(--HS-DamaraMegido-bgColor);
+}
+
 /* Aradia Megido */
 .HS.AradiaMegido, .HS-Name.AradiaMegido, .HS-Dialog.AradiaMegido {
     color: var(--HS-AradiaMegido-color);
@@ -1154,6 +1209,18 @@ First, install text color basically. the prefix should be later.
 .HS.SolluxCaptor, .HS-Name.SolluxCaptor, .HS-Dialog.SolluxCaptor {
     color: var(--HS-SolluxCaptor-color);
     background-color: var(--HS-SolluxCaptor-bgColor);
+}
+
+/* Mituna Captor */
+.HS.MitunaCaptor, .HS-Name.MitunaCaptor, .HS-Dialog.MitunaCaptor {
+    color: var(--HS-MitunaCaptor-color);
+    background-color: var(--HS-MitunaCaptor-bgColor);
+}
+
+/* Cronus Ampora */
+.HS.CronusAmpora, .HS-Name.CronusAmpora, .HS-Dialog.CronusAmpora {
+    color: var(--HS-CronusAmpora-color);
+    background-color: var(--HS-CronusAmpora-bgColor);
 }
 
 /* Eridan Ampora */
@@ -1168,6 +1235,12 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-FeferiPeixes-bgColor);
 }
 
+/* Meenah Peixes */
+.HS.MeenahPeixes, .HS-Name.MeenahPeixes, .HS-Dialog.MeenahPeixes {
+    color: var(--HS-MeenahPeixes-color);
+    background-color: var(--HS-MeenahPeixes-bgColor);
+}
+
 /* Dirk Strider */
 .HS.DirkStrider, .HS-Name.DirkStrider, .HS-Dialog.DirkStrider {
     color: var(--HS-DirkStrider-color);
@@ -1180,10 +1253,76 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-DaveStrider-bgColor);
 }
 
+/* Roxy Lalonde */
+.HS.RoxyLalonde, .HS-Name.RoxyLalonde, .HS-Dialog.RoxyLalonde {
+    color: var(--HS-RoxyLalonde-color);
+    background-color: var(--HS-RoxyLalonde-bgColor);
+}
+
+/* Rose Lalonde */
+.HS.RoseLalonde, .HS-Name.RoseLalonde, .HS-Dialog.RoseLalonde {
+    color: var(--HS-RoseLalonde-color);
+    background-color: var(--HS-RoseLalonde-bgColor);
+}
+
+/* Jake Harley */
+.HS.JakeHarley, .HS-Name.JakeHarley, .HS-Dialog.JakeHarley {
+    color: var(--HS-JakeHarley-color);
+    background-color: var(--HS-JakeHarley-bgColor);
+}
+
 /* John Egbert */
 .HS.JohnEgbert, .HS-Name.JohnEgbert, .HS-Dialog.JohnEgbert {
     color: var(--HS-JohnEgbert-color);
     background-color: var(--HS-JohnEgbert-bgColor);
+}
+
+/* Jade Harley */
+.HS.JadeHarley, .HS-Name.JadeHarley, .HS-Dialog.JadeHarley {
+    color: var(--HS-JadeHarley-color);
+    background-color: var(--HS-JadeHarley-bgColor);
+}
+
+/* Joey Claire */
+.HS.JoeyClaire, .HS-Name.JoeyClaire, .HS-Dialog.JoeyClaire {
+    color: var(--HS-JoeyClaire-color);
+    background-color: var(--HS-JoeyClaire-bgColor);
+}
+
+/* Jude Harley */
+.HS.JoeyClaire, .HS-Name.JoeyClaire, .HS-Dialog.JoeyClaire {
+    color: var(--HS-JoeyClaire-color);
+    background-color: var(--HS-JoeyClaire-bgColor);
+}
+
+/* Anna Claire */
+.HS.AClaire, .HS-Name.AClaire, .HS-Dialog.AClaire {
+    color: var(--HS-AClaire-color);
+    background-color: var(--HS-AClaire-bgColor);
+}
+
+/* Deddy Matahualar */
+.HS.DeddyMatahualar, .HS-Name.DeddyMatahualar, .HS-Dialog.DeddyMatahualar {
+    color: var(--HS-DeddyMatahualar-color);
+    background-color: var(--HS-DeddyMatahualar-bgColor);
+}
+
+/* Quinzor Matahualar */
+.HS.QuinzorMatahualar, .HS-Name.QuinzorMatahualar, .HS-Dialog.QuinzorMatahualar {
+    color: var(--HS-QuinzorMatahualar-color);
+    background-color: var(--HS-QuinzorMatahualar-bgColor);
+}
+
+/* Jokinever Matahualar */
+.HS.JokineverMatahualar, .HS-Name.JokineverMatahualar, .HS-Dialog.JokineverMatahualar {
+    color: var(--HS-JokineverMatahualar-color);
+    background-color: var(--HS-JokineverMatahualar-bgColor);
+}
+
+/* Rita Matahualar */
+.HS.RitaMatahualar, .HS-Name.RitaMatahualar, .HS-Dialog.RitaMatahualar {
+    color: var(--HS-RitaMatahualar-color);
+    background-color: var(--HS-RitaMatahualar-bgColor);
 }
 
 /* Doc Scratch */
@@ -1329,6 +1468,36 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-Tab-prefix);
 }
 
+/* Jake Harley */
+.HS.JakeHarley::before {
+    content: var(--HS-JakeHarley-prefix);
+}
+
+/* Jude Harley */
+.HS.JudeHarley::before {
+    content: var(--HS-JudeHarley-prefix);
+}
+
+/* Joey Claire */
+.HS.JoeyClaire::before {
+    content: var(--HS-JoeyClaire-prefix);
+}
+
+/* Anna Claire */
+.HS.AnnaClaire::before {
+    content: var(--HS-AnnaClaire-prefix);
+}
+
+/* John Egbert */
+.HS.JohnEgbert::before {
+    content: var(--HS-JohnEgbert-prefix);
+}
+
+/* Jade Harley */
+.HS.JadeHarley::before {
+    content: var(--HS-JadeHarley-prefix);
+}
+
 /* Dirk Strider */
 .HS.DirkStrider::before {
     content: var(--HS-DirkStrider-prefix);
@@ -1339,14 +1508,39 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-DaveStrider-prefix);
 }
 
-/* John Egbert */
-.HS.JohnEgbert::before {
-    content: var(--HS-JohnEgbert-prefix);
-}
-
 /* Rose Lalonde */
 .HS.RoseLalonde::before {
     content: var(--HS-RoseLalonde-prefix);
+}
+
+/* Roxy Lalonde */
+.HS.RoxyLalonde::before {
+    content: var(--HS-RoxyLalonde-prefix);
+}
+
+/* Deddy Matahualar */
+.HS.DeddyMatahualar::before {
+    content: var(--HS-DeddyMatahualar-prefix);
+}
+
+/* Quinzor Matahualar */
+.HS.QuinzorMatahualar::before {
+    content: var(--HS-QuinzorMatahualar-prefix);
+}
+
+/* Jokinever Matahualar */
+.HS.JokineverMatahualar::before {
+    content: var(--HS-JokineverMatahualar-prefix);
+}
+
+/* Rita Matahualar */
+.HS.RitaMatahualar::before {
+    content: var(--HS-RitaMatahualar-prefix);
+}
+
+/* Aranea Serket */
+.HS.AraneaSerket::before {
+    content: var(--HS-AraneaSerket-prefix);
 }
 
 /* Vriska Serket */
@@ -1359,6 +1553,16 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-TavrosNitram-prefix);
 }
 
+/* Rufioh Nitram */
+.HS.RufiohNitram::before {
+    content: var(--HS-RufiohNitram-prefix);
+}
+
+/* Latula Pyrope */
+.HS.LatulaPyrope::before {
+    content: var(--HS-LatulaPyrope-prefix);
+}
+
 /* Terezi Pyrope */
 .HS.TereziPyrope::before {
     content: var(--HS-TereziPyrope-prefix);
@@ -1367,6 +1571,16 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Gamzee Makara */
 .HS.GamzeeMakara::before {
     content: var(--HS-GamzeeMakara-prefix);
+}
+
+/* Kurloz Makara */
+.HS.KurlozMakara::before {
+    content: var(--HS-KurlozMakara-prefix);
+}
+
+/* Horuss Zahhak */
+.HS.HorussZahhak::before {
+    content: var(--HS-HorussZahhak-prefix);
 }
 
 /* Equius Zahhak */
@@ -1379,9 +1593,14 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-KanayaMaryam-prefix);
 }
 
-/* Horuss Zahhak */
-.HS.HorussZahhak::before {
-    content: var(--HS-HorussZahhak-prefix);
+/* Porrim Maryam */
+.HS.PorrimMaryam::before {
+    content: var(--HS-PorrimMaryam-prefix);
+}
+
+/* Meulin Leijon */
+.HS.MeulinLeijon::before {
+    content: var(--HS-MeulinLeijon-prefix);
 }
 
 /* Nepeta Leijon */
@@ -1394,6 +1613,16 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
     content: var(--HS-KarkatVantas-prefix);
 }
 
+/* Kankri Vantas */
+.HS.KankriVantas::before {
+    content: var(--HS-KankriVantas-prefix);
+}
+
+/* Damara Megido */
+.HS.DamaraMegido::before {
+    content: var(--HS-DamaraMegido-prefix);
+}
+
 /* Aradia Megido */
 .HS.AradiaMegido::before {
     content: var(--HS-AradiaMegido-prefix);
@@ -1402,6 +1631,16 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Sollux Captor */
 .HS.SolluxCaptor::before {
     content: var(--HS-SolluxCaptor-prefix);
+}
+
+/* Mituna Captor */
+.HS.MitunaCaptor::before {
+    content: var(--HS-MitunaCaptor-prefix);
+}
+
+/* Cronus Ampora */
+.HS.CronusAmpora::before {
+    content: var(--HS-CronusAmpora-prefix);
 }
 
 /* Eridan Ampora */
@@ -1413,6 +1652,12 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 .HS.FeferiPeixes::before {
     content: var(--HS-FeferiPeixes-prefix);
 }
+
+/* Meenah Peixes */
+.HS.MeenahPeixes::before {
+    content: var(--HS-MeenahPeixes-prefix);
+}
+
 
 /* Doc Scratch */
 .HS.DocScratch::before {
@@ -1475,18 +1720,18 @@ In case you need to compensate contrast level depending on the color mode
         --HS-EquiusZahhak-color: var(--HS-Hemospectrum-IndigoDim);
         --HS-EquiusZahhak-textShadow: var(--HS-TextShadow-Stroke);
         --HS-EquiusZahhak-bgColor: var(--HS-Hemospectrum-Clear);
-        --HS-EquiusZahhak-prefix: "♐ Equius Zahhak: 🏹" / "Equius Zahhak says, ";
+        /* --HS-EquiusZahhak-prefix: "♐ Equius Zahhak: 🏹" / "Equius Zahhak says, "; */
 
-        /* Horuss Zahhak. Dad. Okay, keep in mind, some Universe D / Fanfic writers decided not to merge scratches. pls separate between like `Horrus` & `huh who`? like that on the before & after. Wait, still use this same class, and uh, we'll figure out the filler CSS attributing later, just have `(post)`, `(pre)` something like that for now, idk. */
+        /* Horuss Zahhak. Dad. Okay, keep in mind, some Universe D / Fanfic writers decided not to merge scratches. pls separate between like `Horuss` & `huh who`? like that on the before & after. Wait, still use this same class, and uh, we'll figure out the filler CSS attributing later, just have `(post)`, `(pre)` something like that for now, idk. */
         --HS-HorussZahhak-color: var(--HS-Hemospectrum-IndigoDim);
         --HS-HorussZahhak-textShadow: var(--HS-TextShadow-Stroke);
         --HS-HorussZahhak-bgColor: var(--HS-Hemospectrum-Clear);
-        --HS-HorussZahhak-prefix: "♐ Horuss Zahhak: 🏹" / "Horuss Zahhak says, ";
+        /* --HS-HorussZahhak-prefix: "♐ Horuss Zahhak: 🏹" / "Horuss Zahhak says, "; */
 
         /* (Deprecated) Aradia bot. */
         --HS-AradiaBot-color: var(--HS-Hemospectrum-IndigoDim);
         --HS-AradiaBot-bgColor: var(--HS-Hemospectrum-Clear);
-        --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, ";
+        /* --HS-AradiaBot-prefix: "♈⚙️ Aradia bot: " / "Aradia bot says, "; */
 
         /* Doc Scratch */
         --HS-DocScratch-color: var(--HS-Hemospectrum-GrayBright);
