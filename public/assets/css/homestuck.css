@@ -657,7 +657,8 @@ You can further make crazy the style with below classes
     /* Daraya Jonjet. */
     --HS-DarayaJonjet-color: var(--HS-Hemospectrum-JadeBrighter);
     --HS-DarayaJonjet-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-DarayaJonjet-prefix: " Daraya Jonjet:" / "Daraya Jonjet says, ";
+    --HS-DarayaJonjet-prefix: "▲ Daraya Jonjet:" / "Daraya Jonjet says, ";
+    --HS-DarayaJonjet-postfix: "▼" / "";
 
     /* Lanque Bombyx. */
     --HS-LanqueBombyx-color: var(--HS-Hemospectrum-JadeBrighter);
