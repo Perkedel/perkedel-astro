@@ -3,6 +3,8 @@ Homestuck CSS
 
 Sauce: https://perkedel.netlify.app/assets/css/homestuck.css
 
+TURN OFF AUTO FORMATING IN YOUR VSCODE SETTING!!!
+
 Style to enhance Homestuck dialoging in HTML & its compatible derivatives.
 
 You can now easily write dialog faster & focus more to the dialog. With Lazy wrap, simply type your dialog inside, ensuring you typed the purpose type (`HS`) followed by name correctly (full name no space, so e.g. `VriskaSerket`) inside the class.
@@ -1387,30 +1389,6 @@ First, install text color basically. the prefix should be later.
 }
 
 /* Caliborn */
-.HS.Caliborn, .HS-Name.Caliborn, .HS-Dialog.Caliborn {
-    color: var(--HS-Caliborn-color);
-    background-color: var(--HS-Caliborn-bgColor);
-}
-
-/* Calliope */
-.HS.Calliope, .HS-Name.Calliope, .HS-Dialog.Calliope {
-    color: var(--HS-Calliope-color);
-    background-color: var(--HS-Calliope-bgColor);
-}
-
-/* Calamity */
-.HS.Calamity, .HS-Name.Calamity, .HS-Dialog.Calamity {
-    color: var(--HS-Calamity-color);
-    background-color: var(--HS-Calamity-bgColor);
-}
-
-/* Catastrophy */
-.HS.Catastrophy, .HS-Name.Catastrophy, .HS-Dialog.Catastrophy {
-    color: var(--HS-Catastrophy-color);
-    background-color: var(--HS-Catastrophy-bgColor);
-}
-
-/* Lord English */
 @keyframes HS-LordEnglish-CrazyTextColor{
     0%{
         color: yellow ;
@@ -1440,6 +1418,30 @@ First, install text color basically. the prefix should be later.
         color: black ;
     }
 }
+.HS.Caliborn, .HS-Name.Caliborn, .HS-Dialog.Caliborn {
+    color: var(--HS-Caliborn-color);
+    background-color: var(--HS-Caliborn-bgColor);
+}
+
+/* Calliope */
+.HS.Calliope, .HS-Name.Calliope, .HS-Dialog.Calliope {
+    color: var(--HS-Calliope-color);
+    background-color: var(--HS-Calliope-bgColor);
+}
+
+/* Calamity */
+.HS.Calamity, .HS-Name.Calamity, .HS-Dialog.Calamity {
+    color: var(--HS-Calamity-color);
+    background-color: var(--HS-Calamity-bgColor);
+}
+
+/* Catastrophy */
+.HS.Catastrophy, .HS-Name.Catastrophy, .HS-Dialog.Catastrophy {
+    color: var(--HS-Catastrophy-color);
+    background-color: var(--HS-Catastrophy-bgColor);
+}
+
+/* Lord English */
 .HS.LordEnglish, .HS-Name.LordEnglish, .HS-Dialog.LordEnglish {
     color: var(--HS-LordEnglish-color);
     text-shadow: var(--HS-LordEnglish-textShadow);
@@ -1447,10 +1449,31 @@ First, install text color basically. the prefix should be later.
     background-color: var(--HS-LordEnglish-bgColor);
 }
 .HS.LordEnglish .CrazyColor, .HS-Name.LordEnglish .CrazyColor, .HS-Dialog.LordEnglish .CrazyColor, 
-.HS.LordEnglish.CrazyColor, .HS-Name.LordEnglish.CrazyColor, .HS-Dialog.LordEnglish.CrazyColor{
+.HS.LordEnglish.CrazyColor, .HS-Name.LordEnglish.CrazyColor, .HS-Dialog.LordEnglish.CrazyColor,
+.HS.Caliborn .CrazyColor, .HS-Name.Caliborn .CrazyColor, .HS-Dialog.Caliborn .CrazyColor, 
+.HS.Caliborn.CrazyColor, .HS-Name.Caliborn.CrazyColor, .HS-Dialog.Caliborn.CrazyColor,
+.HS.LordEnglish .RealCrazy, .HS-Name.LordEnglish .RealCrazy, .HS-Dialog.LordEnglish .RealCrazy, 
+.HS.LordEnglish.RealCrazy, .HS-Name.LordEnglish.RealCrazy, .HS-Dialog.LordEnglish.RealCrazy,
+.HS.Caliborn .RealCrazy, .HS-Name.Caliborn .RealCrazy, .HS-Dialog.Caliborn .RealCrazy, 
+.HS.Caliborn.RealCrazy, .HS-Name.Caliborn.RealCrazy, .HS-Dialog.Caliborn.RealCrazy{
+    /* Just color */
     animation-name: HS-LordEnglish-CrazyTextColor;
     animation-duration: 1s;
     animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+    text-shadow: var(--HS-LordEnglish-textShadow);
+
+    /* I can just use `animation:` & all parameters here, but uh... */
+}
+.HS.LordEnglish .RealCrazy, .HS-Name.LordEnglish .RealCrazy, .HS-Dialog.LordEnglish .RealCrazy, 
+.HS.LordEnglish.RealCrazy, .HS-Name.LordEnglish.RealCrazy, .HS-Dialog.LordEnglish.RealCrazy,
+.HS.Caliborn .RealCrazy, .HS-Name.Caliborn .RealCrazy, .HS-Dialog.Caliborn .RealCrazy, 
+.HS.Caliborn.RealCrazy, .HS-Name.Caliborn.RealCrazy, .HS-Dialog.Caliborn.RealCrazy{
+    /* color & extremely large font */
+    font-size: xx-large;
+
+    /* Now, Caliborn, you can scream as much as you like yey! */
 }
 
 /* End Color overridenings */
