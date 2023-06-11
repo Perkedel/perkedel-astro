@@ -1411,11 +1411,46 @@ First, install text color basically. the prefix should be later.
 }
 
 /* Lord English */
+@keyframes HS-LordEnglish-CrazyTextColor{
+    0%{
+        color: yellow !important;
+    }
+    12%{
+        color: blue !important;
+    }
+    24%{
+        color: red !important;
+    }
+    48%{
+        color: purple !important;
+    }
+    60%{
+        color: orange !important;
+    }
+    72%{
+        color: lime !important;
+    }
+    84%{
+        color: maroon !important;
+    }
+    96%{
+        color: black !important;
+    }
+    100%{
+        color: black !important;
+    }
+}
 .HS.LordEnglish, .HS-Name.LordEnglish, .HS-Dialog.LordEnglish {
     color: var(--HS-LordEnglish-color);
     text-shadow: var(--HS-LordEnglish-textShadow);
     box-shadow: var(--HS-LordEnglish-boxShadow);
     background-color: var(--HS-LordEnglish-bgColor);
+}
+.HS.LordEnglish .CrazyColor, .HS-Name.LordEnglish .CrazyColor, .HS-Dialog.LordEnglish .CrazyColor, 
+.HS.LordEnglish.CrazyColor, .HS-Name.LordEnglish.CrazyColor, .HS-Dialog.LordEnglish.CrazyColor{
+    animation-name: HS-LordEnglish-CrazyTextColor;
+    animation-duration: .5s;
+    animation-iteration-count: infinite;
 }
 
 /* End Color overridenings */
