@@ -1413,31 +1413,31 @@ First, install text color basically. the prefix should be later.
 /* Lord English */
 @keyframes HS-LordEnglish-CrazyTextColor{
     0%{
-        color: yellow !important;
+        color: yellow ;
     }
     12%{
-        color: blue !important;
+        color: blue ;
     }
     24%{
-        color: red !important;
+        color: red ;
     }
     48%{
-        color: purple !important;
+        color: purple ;
     }
     60%{
-        color: orange !important;
+        color: orange ;
     }
     72%{
-        color: lime !important;
+        color: lime ;
     }
     84%{
-        color: maroon !important;
+        color: maroon ;
     }
     96%{
-        color: black !important;
+        color: black ;
     }
     100%{
-        color: black !important;
+        color: black ;
     }
 }
 .HS.LordEnglish, .HS-Name.LordEnglish, .HS-Dialog.LordEnglish {
@@ -1449,7 +1449,7 @@ First, install text color basically. the prefix should be later.
 .HS.LordEnglish .CrazyColor, .HS-Name.LordEnglish .CrazyColor, .HS-Dialog.LordEnglish .CrazyColor, 
 .HS.LordEnglish.CrazyColor, .HS-Name.LordEnglish.CrazyColor, .HS-Dialog.LordEnglish.CrazyColor{
     animation-name: HS-LordEnglish-CrazyTextColor;
-    animation-duration: .5s;
+    animation-duration: 1s;
     animation-iteration-count: infinite;
 }
 
