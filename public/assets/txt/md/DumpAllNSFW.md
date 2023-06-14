@@ -33,7 +33,7 @@
 - https://youtu.be/HT9oD5Hk9y8
 - https://youtu.be/KBAEz4wVxDE
 - https://youtube.com/shorts/F5elQe554ss?feature=share
-- - https://twitter.com/adamtotscomix/status/1644461563489705989?t=wspOpkUE4wuSzYeP7AsvoQ&s=19
+- https://twitter.com/adamtotscomix/status/1644461563489705989?t=wspOpkUE4wuSzYeP7AsvoQ&s=19
 - https://twitter.com/MITTEN2929/status/1644715630451658753?t=wspOpkUE4wuSzYeP7AsvoQ&s=19
 - https://twitter.com/Fizintine/status/1644838609764376576?t=2Tt3VU3Ge6zDJu2neCjfUQ&s=19
 - https://twitter.com/USA37107692/status/1644724525828042759?t=2Tt3VU3Ge6zDJu2neCjfUQ&s=19
