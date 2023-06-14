@@ -1458,7 +1458,7 @@ First, install text color basically. the prefix should be later.
 .HS.Caliborn.RealCrazy, .HS-Name.Caliborn.RealCrazy, .HS-Dialog.Caliborn.RealCrazy{
     /* Just color */
     animation-name: HS-LordEnglish-CrazyTextColor;
-    animation-duration: .1s;
+    animation-duration: .25s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
     animation-direction: alternate;
