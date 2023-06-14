@@ -121,14 +121,18 @@ const{
         <p><a href='https://raw.githubusercontent.com/wiki/adam-p/markdown-here/Markdown-Cheatsheet.md' target="_blank" rel="noopener noreferrer">See sauce</a></p>
         <Fragment set:html={content}/> -->
     <h4>Dumps SFW</h4>
-    <!-- <MDXDumpsSFW/> -->
-    <Fragment set:html={sfwContent}/>
-    <!-- <div set:html={sfwContent}/> -->
+    <div class='hideOverflowsSide'>
+        <!-- <MDXDumpsSFW/> -->
+        <Fragment set:html={sfwContent}/>
+        <!-- <div set:html={sfwContent}/> -->
+    </div>
 
     {
     nsfw?<Fragment>
         <h4>Dumps NSFW</h4>
-        <Fragment set:html={nsfwContent}/>
+        <div class='hideOverflowsSide'>
+            <Fragment set:html={nsfwContent}/>
+        </div>
     </Fragment>
     :
     ``
