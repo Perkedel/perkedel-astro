@@ -426,7 +426,7 @@ function BrowserInfoPls() {
     windowe.setContent(`
         <h2>Browser Info</h2>
         <p>
-            Runs by a Continuous Integration: <b>` + navigator.webdriver + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Runs by a Continuous Integration: " + navigator.webdriver + `',true,'Web Driver status')" id="copyWebDriverButton" title="Copy Web Driver">&#xf018f;</button><br/> (Are you a living being? or a Continuous Integration?, Not to be confused with Bot since bots with conciousnesss do exists across galaxies.)
+            Runs by a Continuous Integration: <b>` + navigator.webdriver + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Runs by a Continuous Integration: " + navigator.webdriver + `',true,'Web Driver status')" id="copyWebDriverButton" title="Copy Web Driver">&#xf018f;</button><br/> (Are you a living being? or a Continuous Integration?, Not to be confused with Bot since bots with conciousnesss do exists across galaxies.)<br/>
 
             Cookies Enabled: <b>` + navigator.cookieEnabled + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Cookies Enabled: " + navigator.cookieEnabled + `',true,'Cookies enabled status')" id="copyCookiesEnabledButton" title="Copy Cookies Enabled">&#xf018f;</button><br/>
 
