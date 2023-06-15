@@ -29,10 +29,11 @@ Beside, somehow GUI editor is unreliable too, I want to put this element here, b
 
 ## Development
 
-Simple clone this repository by pressing green `Clone` button, & open in GitHub Desktop.
+Simply clone this repository by pressing green `Clone` button, & open in GitHub Desktop.  
+Or use this command inside a directory you'd like to clone this to:
 
 ```sh
-# pls command!
+git clone https://github.com/Perkedel/perkedel-astro.git
 ```
 
 Now, you can test this website directly by executing test compile through Node.
