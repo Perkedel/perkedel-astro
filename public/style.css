@@ -55,7 +55,7 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
     https://github.com/mshaugh/nerdfont-webfonts
     https://www.nerdfonts.com/
     */
-    font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
+    font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
     /* https://youtu.be/nQzRTsjBXfQ */
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme */
     color-scheme: light dark;
@@ -102,7 +102,7 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 /**{*/
 
 
-/*  font-family: Ubuntu, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;*/
+/*  font-family: 'NerdFontsSymbols Nerd Font', Ubuntu, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;*/
 
 
 /*margin:0;*/
@@ -148,7 +148,7 @@ body {
     https://github.com/mshaugh/nerdfont-webfonts
     https://www.nerdfonts.com/
     */
-    /* font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif; */
+    /* font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif; */
     background-color: black;
     color: white;
     /* margin: 0 0 450px; */
@@ -246,7 +246,7 @@ ol.CountPls > li::before {
 
 button {
     /*BUG! the button font did not inherit even placed in body. let's manually apply!*/
-    font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
+    font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
     cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
 }
@@ -1279,7 +1279,7 @@ dropbtn a:visited:hover,
 .code {
     /*https://www.w3schools.com/css/css_font.asp*/
     /*https://www.w3schools.com/tags/tag_font.asp*/
-    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+    font-family: 'NerdFontsSymbols Nerd Font', 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
 
@@ -1291,12 +1291,12 @@ dropbtn a:visited:hover,
 code {
     /*https://www.w3schools.com/css/css_font.asp*/
     /*https://www.w3schools.com/tags/tag_font.asp*/
-    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+    font-family: 'NerdFontsSymbols Nerd Font', 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
 samp {
     /* https://www.w3schools.com/tags/tag_samp.asp */
-    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+    font-family: 'NerdFontsSymbols Nerd Font', 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
 /* Keyboard button & pretty much button pls!! */
@@ -1305,7 +1305,7 @@ kbd {
     border-radius: 2px;
     padding: 2px;
     border: 1px solid;
-    font-family: 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
+    font-family: 'NerdFontsSymbols Nerd Font', 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
 #backTopButton {
@@ -1420,11 +1420,11 @@ kbd {
   */
 
 .rss {
-    font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .feed-title {
-    font-family: 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* color: white; */
 }
 
