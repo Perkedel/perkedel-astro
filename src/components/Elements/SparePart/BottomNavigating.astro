@@ -1,0 +1,26 @@
+---
+export interface Props{
+  rating?:string;
+  nsfw?:Boolean;
+  addDescriptions?:string;
+  addKeywords?:string;
+  nsfwConfirmation?:Boolean;
+}
+
+const{
+  rating="",
+  nsfw=false,
+  addDescriptions='',
+  addKeywords='',
+  nsfwConfirmation = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<div class="row">
+    <div class="column colVertCenter">
+        <p>Main</p>
+        <ul>
+            <li><a href='/'>Home</a></li>
+            <li><a href='/apps'>Apps</a></li>
+        </ul>
+    </div>
+</div>

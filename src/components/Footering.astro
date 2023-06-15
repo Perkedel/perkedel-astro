@@ -3,6 +3,7 @@
 import { Time } from '@astro-github-elements/time';
 import PerkedelIcon from './Icons/PerkedelIcon.astro'
 import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astro';
+import BottomNavigating from '@components/Elements/SparePart/BottomNavigating.astro';
 
 export interface Props{
   rating?:string;
@@ -28,6 +29,9 @@ const{
     <p title="(Static) Website compiled at datetime of..">&#xf5ef; <Time format="datetime" now/>, <Time format="relative" now/></p>
     <p><PerkedelIcon/> <font size = "12">Perkedel Technologies</font></p>
     <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
+
+    <BottomNavigating rating={rating} nsfw={nsfw} addDescriptions={addDescriptions} addKeywords={addKeywords} nsfwConfirmation={nsfwConfirmation}/>
+
     <font size="2"><p>DISCLAIMER:</p>
       <ul>
         <li><b>Netlify nor Astro never put watermark (except in context of domain for the Netlify free domain we had)</b>, I just write my own just to let you know how, yeah.</li>
