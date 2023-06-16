@@ -15,6 +15,11 @@ const{
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <a title="Open Setting dialog" id="SettingBtn" class="NavBtn" href="javascript:openInPageSetting()">⚙️ Setting &#xf013;</a>
+<datalist id='PerkedelWoosieRevTimeList'>
+    <option value='10'/>
+    <option value='1'/>
+    <option value='.05'/>
+</datalist>
 <div style="display: none" id="_SettingContent">
     <h2>`<code>{handoverTitle}</code>` Setting</h2>
     <slot>
