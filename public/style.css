@@ -1885,25 +1885,41 @@ https://stackoverflow.com/questions/31951282/why-is-marquee-deprecated-and-what-
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
 */
 @keyframes marquee {
-    0%   { transform: translate(0, 0); }
+    0%   { transform: translate(100%, 0); }
     100% { transform: translate(-100%, 0); }
 }
 @keyframes marqueeReverse {
     0%   { transform: translate(-100%, 0); }
-    100% { transform: translate(0, 0); }
+    100% { transform: translate(100%, 0); }
 }
 @keyframes marqueeDown {
-    0%   { transform: translate(0, 0); }
+    0%   { transform: translate(0, 100%); }
     100% { transform: translate(0, -100%); }
 }
 @keyframes marqueeUp {
+    0%   { transform: translate(0, -100%); }
+    100% { transform: translate(0, 100%); }
+}
+@keyframes marqueePartial {
+    0%   { transform: translate(100%, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+@keyframes marqueePartialReverse {
+    0%   { transform: translate(-100%, 0); }
+    100% { transform: translate(100%, 0); }
+}
+@keyframes marqueePartialDown {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(0, -100%); }
+}
+@keyframes marqueePartialUp {
     0%   { transform: translate(0, -100%); }
     100% { transform: translate(0, 0); }
 }
 .marquee {
     /* width: 450px; */
     /* line-height: 50px; */
-    background-color: attr(bgcolor, inherit);
+    background-color: attr(bgcolor color, initial);
     /* color: white; */
     white-space: nowrap;
     overflow: hidden;
