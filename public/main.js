@@ -882,6 +882,22 @@ function hiddenDisappear() {
 }
 hiddenDisappear();
 
+// Perkedel Woosie rotation speed
+// function setPerkedelWoosieRevolutionInWhat(timeSay = "10s", directionSay = "forward"){
+function setPerkedelWoosieRevolutionInWhat(timeSay, directionSay){
+    if (timeSay)
+        document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+    if (directionSay)
+        document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+}
+
+function setPerkedelWoosieRevolutionTime(timeSay = '10s'){
+    document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+}
+function setPerkedelWoosieDirection(directionSay = 'forward'){
+    document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+}
+
 /*
 Moar Dump
 - https://www.w3schools.com/html/html_scripts.asp

@@ -1894,6 +1894,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
+/* 
+ROtate faster with js:
+```javascript
+document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
+```
+*/
 
 /* MEDIA PLS!!!! */
 
