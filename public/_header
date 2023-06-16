@@ -1,0 +1,7 @@
+# https://docs.netlify.com/routing/headers
+# https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_response_fields
+
+/*
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
