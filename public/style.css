@@ -1879,6 +1879,57 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     padding: 10px;
 }
 
+/* Marquee pls
+https://codepen.io/thomasbormans/pen/EjMBqO
+https://stackoverflow.com/questions/31951282/why-is-marquee-deprecated-and-what-is-the-best-alternative
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
+*/
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-100%, 0); }
+}
+@keyframes marqueeReverse {
+    0%   { transform: translate(-100%, 0); }
+    100% { transform: translate(0, 0); }
+}
+@keyframes marqueeDown {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(0, -100%); }
+}
+@keyframes marqueeUp {
+    0%   { transform: translate(0, -100%); }
+    100% { transform: translate(0, 0); }
+}
+.marquee {
+    /* width: 450px; */
+    /* line-height: 50px; */
+    background-color: attr(bgcolor, inherit);
+    /* color: white; */
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.marquee p, .marquee div {
+    /* display: inline-block; */
+    /* padding-left: 100%; */
+    animation: marquee 15s linear infinite;
+}
+.marquee[direction='down'] p, .marquee[direction='down'] div, .marquee[direction='down'] .marquee{
+    animation-name: marqueeDown;
+}
+.marquee[direction='up'] p, .marquee[direction='up'] div, .marquee[direction='down'] .marquee{
+    animation-name: marqueeUp;
+}
+.marquee[direction='left'] p, .marquee[direction='left'] div, .marquee[direction='down'] .marquee{
+    animation-name: marqueeLeft;
+}
+.marquee[direction='right'] p, .marquee[direction='right'] div, .marquee[direction='down'] .marquee{
+    animation-name: marqueeRight;
+}
+.marquee[behavior='alternate'] p, .marquee[behavior='alternate'] div, .marquee[behavior='alternate'] .marquee{
+    animation-direction: alternate;
+}
+
 /* Perkedel Woosie animate pls */
 @keyframes PerkedelWoosieRotate {
     from {
