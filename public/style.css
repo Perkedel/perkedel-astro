@@ -1930,6 +1930,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
     /* padding-left: 100%; */
     width: fit-content;
     height: fit-content;
+    min-width: 100%;
+    min-height: 100%;
     animation: marquee 15s linear infinite;
 }
 .marquee[direction='down'] p, .marquee[direction='down'] div, .marquee[direction='down'] .marquee{
