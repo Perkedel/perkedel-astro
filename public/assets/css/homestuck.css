@@ -1857,7 +1857,7 @@ In case you need to compensate contrast level depending on the color mode
     }
 }
 
-@media(prefers-reduced-motion){
+@media(prefers-reduced-motion:reduce){
     /* Epilepsy settings */
     @keyframes HS-LordEnglish-CrazyTextColor{
         0%{color: inherit;}
