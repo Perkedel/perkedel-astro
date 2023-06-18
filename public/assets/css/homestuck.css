@@ -1858,14 +1858,17 @@ In case you need to compensate contrast level depending on the color mode
         /* Snowman */
         --HS-SnowmanFelt-color: var(--HS-Hemospectrum-Black);
         --HS-SnowmanFelt-colorEnd: var(--HS-Hemospectrum-White);
-
-        /* Lord English */
-        --HS-LordEnglish-prefix: "⛎💀👦⚪💿♑♐♠️ L🎱rd English: " / "Lord English says, ";
     }
 }
 
 @media(prefers-reduced-motion:reduce){
     /* Epilepsy settings */
+    :root {
+
+        /* Lord English */
+        --HS-LordEnglish-prefix: "⛎💀👦⚪💿♑♐♠️ L🎱rd English: " / "Lord English says, ";
+    }
+
     @keyframes HS-LordEnglish-CrazyTextColor{
         0%{color: inherit;}
         100%{color: inherit;}
