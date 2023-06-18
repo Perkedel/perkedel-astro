@@ -2356,6 +2356,18 @@ document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
     }
 }
 
+@media screen and (prefers-reduced-motion: reduce), (update: slow) {
+    /* Everything animation must be instant or not at all!
+    https://developer.mozilla.org/en-US/docs/Web/Accessibility/Seizure_disorders
+
+    */
+    * {
+        animation-duration: 0.001ms !important;
+        animation-iteration-count: 1 !important; /* Hat tip Nick/cssremedy (https://css-tricks.com/revisiting-prefers-reduced-motion/#comment-1700170) */
+        transition-duration: 0.001ms !important;
+    }
+}
+
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/@media/forced-colors */
 
