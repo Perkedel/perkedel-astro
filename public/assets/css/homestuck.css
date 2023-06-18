@@ -1041,8 +1041,8 @@ You can further make crazy the style with below classes
     /* DONE: Pls more! Lord English ones is rather complicated! */
 
     /* Snowman. Do not say mommy!!! ......... I know. */
-    --HS-SnowmanFelt-color: var(--HS-Hemospectrum-Black);
-    --HS-SnowmanFelt-colorEnd: var(--HS-Hemospectrum-White);
+    --HS-SnowmanFelt-color: var(--HS-Hemospectrum-White);
+    --HS-SnowmanFelt-colorEnd: var(--HS-Hemospectrum-Black);
     --HS-SnowmanFelt-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-SnowmanFelt-prefix: "🎱 Snowman: " / "Snowman says, ";
     /* Text color keyframes from init to end! */
@@ -1854,6 +1854,13 @@ In case you need to compensate contrast level depending on the color mode
 
         /* Jack Noir. */
         --HS-JackNoir-color: var(--HS-Hemospectrum-Black);
+
+        /* Snowman */
+        --HS-SnowmanFelt-color: var(--HS-Hemospectrum-Black);
+        --HS-SnowmanFelt-colorEnd: var(--HS-Hemospectrum-White);
+
+        /* Lord English */
+        --HS-LordEnglish-prefix: "⛎💀👦⚪💿♑♐♠️ L🎱rd English: " / "Lord English says, ";
     }
 }
 
