@@ -1857,6 +1857,31 @@ In case you need to compensate contrast level depending on the color mode
     }
 }
 
+@media(prefers-reduced-motion){
+    /* Epilepsy settings */
+    @keyframes HS-LordEnglish-CrazyTextColor{
+        0%{color: inherit;}
+        100%{color: inherit;}
+    }
+    @keyframes HS-SnowmanFelt-TextColorAnimation{
+        0%{color: inherit;}
+        100%{color: inherit;}
+    }
+    .HS.LordEnglish .CrazyColor, .HS-Name.LordEnglish .CrazyColor, .HS-Dialog.LordEnglish .CrazyColor, 
+    .HS.LordEnglish.CrazyColor, .HS-Name.LordEnglish.CrazyColor, .HS-Dialog.LordEnglish.CrazyColor,
+    .HS.Caliborn .CrazyColor, .HS-Name.Caliborn .CrazyColor, .HS-Dialog.Caliborn .CrazyColor, 
+    .HS.Caliborn.CrazyColor, .HS-Name.Caliborn.CrazyColor, .HS-Dialog.Caliborn.CrazyColor,
+    .HS.LordEnglish .RealCrazy, .HS-Name.LordEnglish .RealCrazy, .HS-Dialog.LordEnglish .RealCrazy, 
+    .HS.LordEnglish.RealCrazy, .HS-Name.LordEnglish.RealCrazy, .HS-Dialog.LordEnglish.RealCrazy,
+    .HS.Caliborn .RealCrazy, .HS-Name.Caliborn .RealCrazy, .HS-Dialog.Caliborn .RealCrazy, 
+    .HS.Caliborn.RealCrazy, .HS-Name.Caliborn.RealCrazy, .HS-Dialog.Caliborn.RealCrazy{
+        animation: none;
+    }
+    .HS.SnowmanFelt, .HS-Name.SnowmanFelt, .HS-Dialog.SnowmanFelt{
+        animation: none;
+    }
+}
+
 /* IDEA: will Denizen now? Rachel something, Joshua White.. */
 
 /* hehi */
