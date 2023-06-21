@@ -378,12 +378,12 @@ You can further make crazy the style with below classes
     --HS-JokineverMatahualar-bgColor: var(--HS-Hemospectrum-ClearOpaque);
     --HS-JokineverMatahualar-prefix: "🤣 Jokinever Matahualar: " / "Jokinever Matahualar says, ";
 
-    /* Rita Matahualar. mom. Actress. She is so sexy & thicc & won Deddy's heart. */
+    /* Rita Matahualar. mom. Actress. She is so sexy & thicc & won Deddy's heart. OC of Perkedel Technologies. */
     --HS-RitaMatahualar-color: var(--HS-Hemospectrum-RedGreenish);
     --HS-RitaMatahualar-bgColor: var(--HS-Hemospectrum-ClearOpaque);
     --HS-RitaMatahualar-prefix: "👠 Rita Matahualar: " / "Rita Matahualar says, ";
 
-    /* Deddy Matahualar. dad. Head of a news redaction (Ketua Redaksi). */
+    /* Deddy Matahualar. dad. Head of a news redaction (Ketua Redaksi). OC of Perkedel Technologies. */
     --HS-DeddyMatahualar-color: var(--HS-Hemospectrum-Cyan);
     --HS-DeddyMatahualar-bgColor: var(--HS-Hemospectrum-ClearOpaque);
     --HS-DeddyMatahualar-prefix: "👨‍💼 Deddy Matahualar: " / "Deddy Matahualar says, ";
@@ -473,12 +473,12 @@ You can further make crazy the style with below classes
     /* SILVER BLOODED */
 
     /* GOLD BLOODED */
-    /* Sollux Captor. */
+    /* Sollux Captor. to Aradia. */
     --HS-SolluxCaptor-color: var(--HS-Hemospectrum-Gold);
     --HS-SolluxCaptor-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-SolluxCaptor-prefix: "♊ Sollux Captor: " / "Sollux Captor says, ";
 
-    /* Mituna Captor. */
+    /* Mituna Captor. Dad. */
     --HS-MitunaCaptor-color: var(--HS-Hemospectrum-Gold);
     --HS-MitunaCaptor-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-MitunaCaptor-prefix: "♊🥽 Mituna Captor: " / "Mituna Captor says, ";
@@ -553,9 +553,19 @@ You can further make crazy the style with below classes
     --HS-KarkatVantas-prefix: "♋ Karkat Vantas: " / "Karkat Vantas says, ";
 
     /* Dlavem Ketrejim. Father of Sewu family. Also hear me out, let's add one too that got lucky. He's too afraid to protest, all his friend & family died in this extermination. I gotta make them alive again & move them to Dasandim, claim them in Sorrow city, same city where Dasandim Intergalactic Law Enforcement Alliance is. Now you see, Ambarawa found some interesting trait that no other Alternian had back then. That's how she got him. He's alone, but got courage which unfortunately had to be told cryptically. I hope he don't fell overpolitical like my dad is. Watch contents carefully folks! */
-    --HS-KarkatVantas-color: var(--HS-Hemospectrum-Lime);
-    --HS-KarkatVantas-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-KarkatVantas-prefix: "🏴‍☠️ Dlavem Ketrejim: " / "Dlavem Ketrejim says, ";
+    --HS-DlavemKetrejim-color: var(--HS-Hemospectrum-Lime);
+    --HS-DlavemKetrejim-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-DlavemKetrejim-prefix: "🏴‍☠️ Dlavem Ketrejim: " / "Dlavem Ketrejim says, ";
+
+    /* Dean Necessarium. */
+    --HS-DeanNecessarium-color: var(--HS-Hemospectrum-Lime);
+    --HS-DeanNecessarium-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-DeanNecessarium-prefix: "😶‍🌫️ Dean Necessarium: " / "Dean Necessarium says, ";
+
+    /* Oberdeyn Mushnog. */
+    --HS-OberdeynMushnog-color: var(--HS-Hemospectrum-Lime);
+    --HS-OberdeynMushnog-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-OberdeynMushnog-prefix: "🪓 Oberdeyn Mushnog: " / "Oberdeyn Mushnog says, ";
 
     /* OLIVE BLOODED */
     /* Nepeta Leijon. */
@@ -595,6 +605,7 @@ You can further make crazy the style with below classes
     --HS-WillSmithAlternia-color: var(--HS-Hemospectrum-Olive);
     --HS-WillSmithAlternia-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-WillSmithAlternia-prefix: "🤴 Alternian Will Smith: " / "Alternian Will Smith says, ";
+    /* Don't sue me! sue Andrew!! idk man!! */
 
     /* Boldir Lamati. She encloses her line inside a parenthesis, & triple the `?` in a question.*/
     --HS-BoldirLamati-color: var(--HS-Hemospectrum-OliveBright);
@@ -757,7 +768,7 @@ You can further make crazy the style with below classes
     --HS-VrissySerket-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-VrissySerket-prefix: "♏ Vrissy Serket: " / "Vrissy Serket says, ";
 
-    /* Sido Serket. Daughter 2, from Vriska & Tavros. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe (Joel's Universe D) wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably & seamlessly. Infact that conventional system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's dream come true, hence this her name. She has Tavros' horn but the ends like Vriska. Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
+    /* Sido Serket. Daughter 2, from Vriska & Tavros. 1st ever daughter of Alternian born through humanoid birth system, literally dream / hope come true. Named after a company IRL, Sido Muncul (who makes Tolak Angin), meaning Dream / Hope comes true / Impian terwujud. Vriska here in Perkedel Cinematic Universe (Joel's Universe D) wished that she feels the pain of birthing like every humans do. So I made it this, so all Alternians can crossbreed across galaxies reliably & seamlessly. Infact that conventional system is quite complicated & rather cruel, so I gotta add this, which is the only way I know of, and works well mostly. Really, this is Vriska's dream come true, hence this her name. She has Tavros' horn but the ends like Vriska's (similar to TavroVriska-sprite back before, but of course without unstable duarness). Sido on the other hand can also means Jadi / Becomes, opposing Batal / Cancel. */
     --HS-SidoSerket-color: var(--HS-Hemospectrum-BlueGreener);
     --HS-SidoSerket-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-SidoSerket-prefix: "♏ Sido Serket: " / "Sido Serket says, ";
@@ -907,7 +918,7 @@ You can further make crazy the style with below classes
     /* Fiamet. */
     --HS-Fiamet-color: var(--HS-Hemospectrum-VioletBright);
     --HS-Fiamet-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-Fiamet-prefix: " Fiamet: " / "Fiamet says, ";
+    --HS-Fiamet-prefix: "🐟 Fiamet: " / "Fiamet says, ";
     /* Eel emoji missing! what is that tail? */
 
     /* Jerann. */
@@ -915,7 +926,7 @@ You can further make crazy the style with below classes
     --HS-Jerann-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-Jerann-prefix: " Jerann: " / "Jerann says, ";
 
-    /* Sugih Yanto. A rich businesman. established, owned, & acquired in total about 120 busineses, & merged those duplicates into 1 each branding for each matching purpose. Yeah, a conglomerate guy. Sugih in Javanese means rich. */
+    /* Sugih Yanto. A rich businesman. established, owned, & acquired in total about 120 busineses, & merged those duplicates into 1 each branding for each matching purpose. Yeah, a conglomerate guy. Sugih in Javanese means rich. Yep, Perkedel's OC too. */
     --HS-SugihYanto-color: var(--HS-Hemospectrum-VioletBright);
     --HS-SugihYanto-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-SugihYanto-prefix: "💰 Sugih Yanto: " / "Sugih Yanto says, ";
@@ -1058,7 +1069,7 @@ You can further make crazy the style with below classes
      */
 
     /* Audio Info. meta statusoids */
-    --HS-AudioInfo-color: var(--HS-Hemospectrum-Gray);
+    --HS-AudioInfo-color: var(--HS-Hemospectrum-GrayBright);
     --HS-AudioInfo-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AudioInfo-prefix: "(" / "";
     --HS-AudioInfo-postfix: ")" / "";
@@ -1077,8 +1088,46 @@ You can further make crazy the style with below classes
 }
 
 /* Keyframes */
+/* 
+Apply animation to the style later down for each character below.
+*/
 
+/* Snowman Fade Text. */
+@keyframes HS-SnowmanFelt-TextColorAnimation {
+    from {color: var(--HS-SnowmanFelt-color);}
+    to {color: var(--HS-SnowmanFelt-colorEnd);}
+}
 
+/* Lord English (& just Caliborn) Crazy Text EPILEPSY WARNING. */
+@keyframes HS-LordEnglish-CrazyTextColor{
+    0%{
+        color: yellow ;
+    }
+    12%{
+        color: blue ;
+    }
+    24%{
+        color: red ;
+    }
+    48%{
+        color: purple ;
+    }
+    60%{
+        color: orange ;
+    }
+    72%{
+        color: lime ;
+    }
+    84%{
+        color: maroon ;
+    }
+    96%{
+        color: black ;
+    }
+    100%{
+        color: white ;
+    }
+}
 
 /* COLOR OVERRIDENINGS */
 /* What's this:
@@ -1376,10 +1425,6 @@ First, install text color basically. the prefix should be later.
 }
 
 /* Snowman */
-@keyframes HS-SnowmanFelt-TextColorAnimation {
-    from {color: var(--HS-SnowmanFelt-color);}
-    to {color: var(--HS-SnowmanFelt-colorEnd);}
-}
 .HS.SnowmanFelt, .HS-Name.SnowmanFelt, .HS-Dialog.SnowmanFelt {
     color: var(--HS-SnowmanFelt-color);
     background-color: var(--HS-SnowmanFelt-bgColor);
@@ -1389,35 +1434,6 @@ First, install text color basically. the prefix should be later.
 }
 
 /* Caliborn */
-@keyframes HS-LordEnglish-CrazyTextColor{
-    0%{
-        color: yellow ;
-    }
-    12%{
-        color: blue ;
-    }
-    24%{
-        color: red ;
-    }
-    48%{
-        color: purple ;
-    }
-    60%{
-        color: orange ;
-    }
-    72%{
-        color: lime ;
-    }
-    84%{
-        color: maroon ;
-    }
-    96%{
-        color: black ;
-    }
-    100%{
-        color: black ;
-    }
-}
 .HS.Caliborn, .HS-Name.Caliborn, .HS-Dialog.Caliborn {
     color: var(--HS-Caliborn-color);
     background-color: var(--HS-Caliborn-bgColor);
