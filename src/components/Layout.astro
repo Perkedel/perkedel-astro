@@ -89,6 +89,7 @@ export interface Props {
   skipNav?:boolean;
   skipFooter?:boolean;
   legacyMarkdown?:boolean;
+  noScripts?:boolean;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -161,6 +162,7 @@ const {
   skipNav = false,
   skipFooter = false,
   legacyMarkdown = false,
+  noScripts = false,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -196,63 +198,66 @@ const {
   <!-- <link rel="stylesheet" href="https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css"> -->
   <link rel="stylesheet" href="/style.css"/>
   <!-- <link rel="stylesheet" href="/assets/css/homestuck.css"/> -->
-
-  <!--jQuery without Google
-    https://releases.jquery.com/
-    https://jquery.com/
-    -->
-  <script is:inline src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
-
-  <!-- Mermaid for diagram
-    mermaid-js.github.io
-    https://mermaid-js.github.io/mermaid/#/n00b-gettingStarted?id=requirements-for-the-mermaid-api
-    -->
-  <!--zero-md
-    https://zerodevx.github.io/
-    -->
-  {legacyMarkdown?<Fragment>
-    <script defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <script
-      type="module"
-      src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
-    >
-    </script>
-    </Fragment>
-  :``}
   
-  <script is:inline src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
+  {noScripts?'':<Fragment>
+    <!--jQuery without Google
+      https://releases.jquery.com/
+      https://jquery.com/
+      -->
+    <script is:inline client:visible src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
 
-  <!-- HTMX https://htmx.org -->
-  <!-- <script is:inline src="/node_modules/htmx.org/dist/htmx.min.js"></script> -->
-  <script is:inline src="https://unpkg.com/htmx.org@1.8.4"></script>
+    <!-- Mermaid for diagram
+      mermaid-js.github.io
+      https://mermaid-js.github.io/mermaid/#/n00b-gettingStarted?id=requirements-for-the-mermaid-api
+      -->
+    <!--zero-md
+      https://zerodevx.github.io/
+      -->
+    {legacyMarkdown?<Fragment>
+      <script defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+      <script
+        type="module"
+        src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
+      >
+      </script>
+      </Fragment>
+    :``}
+    
+    <script is:inline client:visible src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
 
-  <!-- Tingle https://tingle.robinparisi.com/ -->
-  <!-- <script is:inline src="/node_modules/tingle.js/dist/tingle.min.js"></script> -->
-  <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.js"></script>
+    <!-- HTMX https://htmx.org -->
+    <!-- <script is:inline src="/node_modules/htmx.org/dist/htmx.min.js"></script> -->
+    <script is:inline client:visible src="https://unpkg.com/htmx.org@1.8.4"></script>
 
-  <!-- NoUISlider https://refreshless.com/nouislider/ -->
-  <!-- <script is:inline src="/node_modules/nouislider/dist/nouislider.min.js"></script> -->
-  <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.js"></script>
+    <!-- Tingle https://tingle.robinparisi.com/ -->
+    <!-- <script is:inline src="/node_modules/tingle.js/dist/tingle.min.js"></script> -->
+    <script is:inline client:visible src="https://cdnjs.cloudflare.com/ajax/libs/tingle/0.16.0/tingle.min.js"></script>
 
-  <!-- plyr (Deprecated, use Vidstack!) https://github.com/sampotts/plyr -->
-  <script is:inline src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js" crossorigin='anonymous'></script>
+    <!-- NoUISlider https://refreshless.com/nouislider/ -->
+    <!-- <script is:inline src="/node_modules/nouislider/dist/nouislider.min.js"></script> -->
+    <script is:inline client:visible src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.1/nouislider.min.js"></script>
 
-  <!-- ScrollTimeline Polyfill flackr  -->
-  <script is:inline src="https://flackr.github.io/scroll-timeline/dist/scroll-timeline.js"></script>
+    <!-- plyr (Deprecated, use Vidstack!) https://github.com/sampotts/plyr -->
+    <script is:inline client:visible src="https://cdn.plyr.io/3.7.3/plyr.polyfilled.js" crossorigin='anonymous'></script>
 
-  <!-- JPEG XL JS niutech  -->
-  <!-- <link rel="prefetch" href="https://niutech.github.io/jxl.js/jxl_dec.js" fetchpriority="high"/>
-  <link rel="prefetch" href="https://niutech.github.io/jxl.js/jxl_dec.wasm" fetchpriority="high"/> -->
-  <!-- <script is:inline src="https://niutech.github.io/jxl.js/jxl.min.js"></script> -->
-  <!-- <link rel="prefetch" href="/assets/scripts/js/jxljs/jxl_dec.js" fetchpriority="high"/>
-  <link rel="prefetch" href="/assets/scripts/js/jxljs/jxl_dec.wasm" fetchpriority="high"/>
-  <script is:inline src="/assets/scripts/js/jxljs/jxl.min.js"></script> -->
+    <!-- ScrollTimeline Polyfill flackr  -->
+    <script is:inline client:visible src="https://flackr.github.io/scroll-timeline/dist/scroll-timeline.js"></script>
 
-  <!-- blazy  -->
-  <script is:inline src="https://cdn.jsdelivr.net/blazy/latest/blazy.min.js"></script>
+    <!-- JPEG XL JS niutech  -->
+    <!-- <link rel="prefetch" href="https://niutech.github.io/jxl.js/jxl_dec.js" fetchpriority="high"/>
+    <link rel="prefetch" href="https://niutech.github.io/jxl.js/jxl_dec.wasm" fetchpriority="high"/> -->
+    <!-- <script is:inline src="https://niutech.github.io/jxl.js/jxl.min.js"></script> -->
+    <!-- <link rel="prefetch" href="/assets/scripts/js/jxljs/jxl_dec.js" fetchpriority="high"/>
+    <link rel="prefetch" href="/assets/scripts/js/jxljs/jxl_dec.wasm" fetchpriority="high"/>
+    <script is:inline src="/assets/scripts/js/jxljs/jxl.min.js"></script> -->
 
-  <!-- Undefined Script Checkers -->
-  <UndefinedCheckers/>
+    <!-- blazy  -->
+    <script is:inline client:visible src="https://cdn.jsdelivr.net/blazy/latest/blazy.min.js"></script>
+    
+    <!-- Undefined Script Checkers -->
+    <UndefinedCheckers/>
+    
+  </Fragment>}
 
 	<!-- <title>{title}</title> -->
   <!-- BRAND NEW SEO PLUGIN HERE https://github.com/jonasmerlin/astro-seo -->
@@ -432,25 +437,27 @@ const {
     </Fragment>
   }
   
-
   <!-- SCRIPT FINALLY -->
-  <!-- Toastify https://apvarun.github.io/toastify-js/ -->
-  <script is:inline type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  {noScripts?'':<Fragment>
+    <!-- Toastify https://apvarun.github.io/toastify-js/ -->
+    <script is:inline client:idle type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
 
-  <!-- MailtoUI https://mailtoui.com/ -->
-  <script is:inline src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
+    <!-- MailtoUI https://mailtoui.com/ -->
+    <script is:inline client:visible src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
 
-  <!-- Loud Links https://mahdif.github.io/loud-links/ -->
-  <script is:inline src="https://mahdif.github.io/loud-links/js/loudlinks.min.js"></script>
+    <!-- Loud Links https://mahdif.github.io/loud-links/ -->
+    <script is:inline client:visible src="https://mahdif.github.io/loud-links/js/loudlinks.min.js"></script>
 
-  <!-- Check undefined before our script is run -->
-  <UndefinedCheckersAfter/>
+    <!-- Check undefined before our script is run -->
+    <UndefinedCheckersAfter/>
 
-  <!-- Lastly, the main -->
-  <script is:global src="/main.js"></script>
-  <!-- <script is:inline src="/extra.js">
-  </script> -->
-  <slot name="afterMainScript"/>
+    <!-- Lastly, the main -->
+    <script is:global client:idle src="/main.js"></script>
+    <!-- <script is:inline src="/extra.js">
+    </script> -->
+    <slot name="afterMainScript"/>
+  </Fragment>}
+  
 
 </body>
 <!-- BODY AT ABOVE -->
