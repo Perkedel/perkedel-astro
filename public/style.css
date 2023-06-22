@@ -849,7 +849,7 @@ https://www.w3schools.com/cssref/sel_target.php
 }
 
 .error a:link {
-    color: yellow;
+    color: rgb(255, 255, 129);
 }
 
 .error a:active {
