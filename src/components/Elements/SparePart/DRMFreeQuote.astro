@@ -11,11 +11,15 @@ const{
     author='???',
     authorSauce='https://example.com',
     authorImgSrc=`/assets/img/mavrickle.png`,
+    authorImgIsOwnering=true,
+    authorImgNoun=`photo`,
 }= Astro.props.frontmatter || Astro.props as Props;
+
+let altTitleSay = `${author}${authorImgIsOwnering?`'s`:``} ${authorImgNoun !== ``?authorImgNoun:`photo`}`;
 ---
 <div class='row QuoteFckDrm'>
     <div class='column colLeft'>
-        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={`${author}'s photo'`} title={`${author}'s photo'`}/>
+        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={altTitleSay} title={altTitleSay}/>
     </div>
     <div class='column colVertCenter'>
         <p><q><slot>YOUR QUOTE HERE</slot></q> — <a target="_blank" rel="noopener noreferrer" href={authorSauce} set:html={author}></a></p>
