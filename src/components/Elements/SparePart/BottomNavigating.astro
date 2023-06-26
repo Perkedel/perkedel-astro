@@ -1,4 +1,8 @@
 ---
+import BlenderVersion from '@assets/json/idk/blender_version.json';
+
+const {blender_version} = BlenderVersion;
+
 export interface Props{
   rating?:string;
   nsfw?:Boolean;
@@ -28,6 +32,7 @@ const{
         <ul>
             <li><a href='/apps/'>Applications &#xf003b;</a></li>
             <li><a href='/apps/profile'>BioLinks &#xf4ff;</a></li>
+            <li><a href='/apps/3DModels'>3D Models &#xf00ab;</a> (Blender: v{blender_version.latest}, v{blender_version.LTS} LTS)</li>
             <li><a href='/apps/external_links'>3rd Party links &#xf081a;</a></li>
             <!-- TODO: install unbuttonized app lists both own & 3rd party -->
         </ul>
