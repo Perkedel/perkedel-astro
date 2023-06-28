@@ -886,16 +886,32 @@ hiddenDisappear();
 // function setPerkedelWoosieRevolutionInWhat(timeSay = "10s", directionSay = "forward"){
 function setPerkedelWoosieRevolutionInWhat(timeSay, directionSay){
     if (timeSay)
-        document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+        try{
+            document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+            document.getElementById('PerkedelWoosieJXL').style.animationDuration = timeSay;
+        } catch(e){
+        }
     if (directionSay)
-        document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+        try{
+            document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+            document.getElementById('PerkedelWoosieJXL').style.animationDirection = directionSay;
+        } catch(e){
+        }
 }
 
 function setPerkedelWoosieRevolutionTime(timeSay = '10s'){
-    document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+    try{
+        document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+        document.getElementById('PerkedelWoosieJXL').style.animationDuration = timeSay;
+    } catch(e){
+    }
 }
 function setPerkedelWoosieDirection(directionSay = 'forward'){
-    document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+    try{
+        document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+        document.getElementById('PerkedelWoosieJXL').style.animationDirection = directionSay;
+    } catch(e){
+    }
 }
 
 /*
