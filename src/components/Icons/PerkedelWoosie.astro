@@ -8,4 +8,8 @@ const{
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- <img id='PerkedelWoosie-GIF' alt="Perkedel Woosie" src="/favicon_1024.gif" height={size}/> -->
-<img id='PerkedelWoosie' alt="Perkedel Woosie" src="/favicon_2048.png" height={size}/>
+<!-- <img id='PerkedelWoosie' alt="Perkedel Woosie" src="/favicon_2048.png" height={size}/> -->
+<picture id='PerkedelWoosiePicture'>
+    <source id='PerkedelWoosieJXL' srcset='/favicon_2048.jxl' type='image/jxl' height={size}/>
+    <img id='PerkedelWoosie' alt="Perkedel Woosie" src="/favicon_2048.png" type='image/png' height={size}/>
+</picture>
