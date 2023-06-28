@@ -1959,7 +1959,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
         rotate: 360deg;
     }
 }
-#PerkedelWoosie, #PerkedelWoosieJXL {
+/* #PerkedelWoosie, #PerkedelWoosieJXL */
+.PerkedelWoosie {
     animation-name: PerkedelWoosieRotate;
     animation-duration: 10s;
     animation-iteration-count: infinite;
