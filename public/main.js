@@ -883,6 +883,7 @@ function hiddenDisappear() {
 hiddenDisappear();
 
 // Perkedel Woosie rotation speed
+// TODO: pls change to refer by class!!!
 // function setPerkedelWoosieRevolutionInWhat(timeSay = "10s", directionSay = "forward"){
 function setPerkedelWoosieRevolutionInWhat(timeSay, directionSay){
     if (timeSay)
