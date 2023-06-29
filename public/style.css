@@ -47,6 +47,8 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 /*WHY THE PECK WON'T YOU SAVE?!?!??!?!?!?!??!?!?!*/
 
 :root {
+
+    --BGColor: black;
     /*
     https://codepen.io/CarlaVamp/pen/JjRNoVo
     https://github.com/ryanoasis/nerd-fonts#patched-fonts
@@ -150,8 +152,10 @@ body {
     https://www.nerdfonts.com/
     */
     /* font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif; */
-    background-color: black;
-    color: white;
+    /* background-color: black; */
+    background-color: attr(--BackgroundColor, black);
+    /* color: white; */
+    color: attr(--TextColor, white);
     /* margin: 0 0 450px; */
     margin: 0;
     /*height: 100%;*/

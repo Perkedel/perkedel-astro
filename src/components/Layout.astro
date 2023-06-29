@@ -90,6 +90,8 @@ export interface Props {
   skipFooter?:boolean;
   legacyMarkdown?:boolean;
   noScripts?:boolean;
+  bgColor?:string;
+  textColor?:string;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -163,6 +165,8 @@ const {
   skipFooter = false,
   legacyMarkdown = false,
   noScripts = false,
+  bgColor = 'black',
+  textColor = 'white',
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -386,7 +390,7 @@ const {
 <!-- BODY AT BELOW -->
 <!-- BODY AT BELOW -->
 <!-- BODY AT BELOW -->
-<body>
+<body BackgroundColor={bgColor} TextColor={textColor}>
   <!-- HEADER -->
   <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav}>
     <slot name="SettingContains" slot="SettingContains"/>
