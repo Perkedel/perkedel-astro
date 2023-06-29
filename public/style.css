@@ -65,8 +65,8 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
     https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
     https://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=alias
     */
-    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), default;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), auto; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), auto;
     /*
     https://www.digitalocean.com/community/tutorials/css-scrollbars
     https://css-tricks.com/almanac/properties/s/scrollbar/
@@ -197,7 +197,7 @@ body {
 }
 
 p{
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Tekselek_FromScreen.cur), default;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Tekselek_FromScreen.cur), default; */
 }
 
 
@@ -1512,21 +1512,21 @@ div.td {
     background: rgb(2, 0, 36);
     color: white;
     /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), default;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), auto;
 }
 
 .tingle-modal-box__footer {
     background: rgb(0, 0, 17);
     color: white;
     /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), default;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), auto;
 }
 
 .tingle-btn {
     border-radius: 30px;
     /* cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
     /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), auto;
 }
 
 .tingle-btn--primary {
