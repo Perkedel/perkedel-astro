@@ -152,6 +152,7 @@ body {
     https://www.nerdfonts.com/
     */
     /* font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif; */
+    background: attr(--Background, black);
     /* background-color: black; */
     background-color: attr(--BackgroundColor, black);
     /* color: white; */
