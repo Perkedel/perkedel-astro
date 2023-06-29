@@ -905,29 +905,46 @@ hiddenDisappear();
 function setPerkedelWoosieRevolutionInWhat(timeSay, directionSay){
     if (timeSay)
         try{
-            document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
-            document.getElementById('PerkedelWoosieJXL').style.animationDuration = timeSay;
+            // document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+            // document.getElementById('PerkedelWoosieJXL').style.animationDuration = timeSay;
+            let dot = document.getElementsByClassName('PerkedelWoosie');
+            for (i = 0; i < dot.length; i++){
+                dot[i].style.animationDuration = timeSay;
+            }
         } catch(e){
         }
+        
     if (directionSay)
         try{
-            document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
-            document.getElementById('PerkedelWoosieJXL').style.animationDirection = directionSay;
+            // document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+            // document.getElementById('PerkedelWoosieJXL').style.animationDirection = directionSay;
+            let dit = document.getElementsByClassName("PerkedelWoosie");
+            for (i = 0; i < dit.length; i++){
+                dit[i].style.animationDirection = directionSay;
+            }
         } catch(e){
         }
 }
 
 function setPerkedelWoosieRevolutionTime(timeSay = '10s'){
     try{
-        document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
-        document.getElementById('PerkedelWoosieJXL').style.animationDuration = timeSay;
+        // document.getElementById('PerkedelWoosie').style.animationDuration = timeSay;
+        // document.getElementById('PerkedelWoosieJXL').style.animationDuration = timeSay;
+        let dot = document.getElementsByClassName('PerkedelWoosie');
+        for (i = 0; i < dot.length; i++){
+            dot[i].style.animationDuration = timeSay;
+        }
     } catch(e){
     }
 }
 function setPerkedelWoosieDirection(directionSay = 'forward'){
     try{
-        document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
-        document.getElementById('PerkedelWoosieJXL').style.animationDirection = directionSay;
+        // document.getElementById('PerkedelWoosie').style.animationDirection = directionSay;
+        // document.getElementById('PerkedelWoosieJXL').style.animationDirection = directionSay;
+        let dit = document.getElementsByClassName("PerkedelWoosie");
+        for (i = 0; i < dit.length; i++){
+            dit[i].style.animationDirection = directionSay;
+        }
     } catch(e){
     }
 }
