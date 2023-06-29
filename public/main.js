@@ -68,7 +68,7 @@ for (var i = 0; i < entireCounts; i++) {
     switch (window.getComputedStyle(entireSelect[i]).cursor) {
 
         case 'default':
-            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default";
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), auto";
             break;
 
         case 'wait':
@@ -77,13 +77,30 @@ for (var i = 0; i < entireCounts; i++) {
 
         case 'pointer':
             // entireSelect[i].style.cursor = "url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer";
-            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer";
+            // entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer";
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer";
             break;
-            /*
-            default:
-              entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default";
-              break;
-            */
+        case 'text':
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Tekselek_FromScreen.cur), text";
+            break;
+        case 'help':
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_help.cur), help";
+            break;
+        case 'not-allowed':
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_unavailable.cur), not-allowed";
+            break;
+        case 'progress':
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_bgWait.cur), progress";
+            break;
+        case 'no-drop':
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Unavailableous.cur), no-drop";
+            break;
+        /*
+        default:
+            entireSelect[i].style.cursor = "url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default";
+            break;
+        */
+        
     }
 }
 
