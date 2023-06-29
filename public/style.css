@@ -65,7 +65,8 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
     https://www.w3schools.com/cssref/tryit.asp?filename=trycss_cursor
     https://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=alias
     */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), default;
     /*
     https://www.digitalocean.com/community/tutorials/css-scrollbars
     https://css-tricks.com/almanac/properties/s/scrollbar/
@@ -195,6 +196,9 @@ body {
     counter-reset: section;
 }
 
+p{
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Tekselek_FromScreen.cur), default;
+}
 
 
 h1{
@@ -248,12 +252,13 @@ button {
     /*BUG! the button font did not inherit even placed in body. let's manually apply!*/
     font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
 }
 
 button:hover {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
 }
 
 hr {
@@ -375,7 +380,7 @@ main {
 
 a {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
     color: orange;
     word-wrap: break-word;
 }
@@ -387,7 +392,7 @@ a:focus-visible {
 
 a:hover {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
     background-color: orange;
     color: navy;
     border-radius: 10px;
@@ -401,13 +406,13 @@ a:active {
 
 a:visited {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
     color: darkmagenta;
 }
 
 a:visited:hover {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
     background-color: orange;
     color: navy;
 }
@@ -1506,19 +1511,22 @@ div.td {
 .tingle-modal-box {
     background: rgb(2, 0, 36);
     color: white;
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), default;
 }
 
 .tingle-modal-box__footer {
     background: rgb(0, 0, 17);
     color: white;
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/cursor.cc/VacuumSkoll.cur), default; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_static.cur), default;
 }
 
 .tingle-btn {
     border-radius: 30px;
     /* cursor: url(http://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer;
+    /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
 }
 
 .tingle-btn--primary {
