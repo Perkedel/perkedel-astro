@@ -253,12 +253,12 @@ button {
     font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
     /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
 }
 
 button:hover {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
 }
 
 hr {
@@ -380,7 +380,7 @@ main {
 
 a {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
     color: orange;
     word-wrap: break-word;
 }
@@ -392,7 +392,7 @@ a:focus-visible {
 
 a:hover {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
     background-color: orange;
     color: navy;
     border-radius: 10px;
@@ -406,13 +406,13 @@ a:active {
 
 a:visited {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
     color: darkmagenta;
 }
 
 a:visited:hover {
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
-    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_link.cur), pointer;
+    cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
     background-color: orange;
     color: navy;
 }
