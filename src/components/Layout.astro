@@ -92,7 +92,9 @@ export interface Props {
   noScripts?:boolean;
   bgColor?:string;
   textColor?:string;
+  textColorLight?:string;
   bg?:string;
+  bgLight?:string;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -168,7 +170,9 @@ const {
   noScripts = false,
   bgColor = 'black',
   textColor = 'white',
-  bg = null,
+  textColorLight = 'black',
+  bg = 'black',
+  bgLight = 'white',
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -392,7 +396,8 @@ const {
 <!-- BODY AT BELOW -->
 <!-- BODY AT BELOW -->
 <!-- BODY AT BELOW -->
-<body BackgroundColor={bgColor} TextColor={textColor} Background={bg}>
+<!-- <body BackgroundColor={bgColor} TextColor={textColor} Background={bg}> -->
+<body data-Background={bg} data-TextColor={textColor} data-Background-Light={bgLight} data-TextColor-Light={textColorLight}>
   <!-- HEADER -->
   <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav}>
     <slot name="SettingContains" slot="SettingContains"/>

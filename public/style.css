@@ -152,11 +152,11 @@ body {
     https://www.nerdfonts.com/
     */
     /* font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif; */
-    background: attr(--Background, black);
+    background: attr(data-Background, black);
     /* background-color: black; */
-    background-color: attr(--BackgroundColor, black);
+    /* background-color: attr(--BackgroundColor, black); */
     /* color: white; */
-    color: attr(--TextColor, white);
+    color: attr(data-TextColor, white);
     /* margin: 0 0 450px; */
     margin: 0;
     /*height: 100%;*/
@@ -1997,10 +1997,10 @@ document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
      :root {
         background-color: black;
     }
-    body {
-        /* background-color: black; */
+    /* body {
+        background-color: black;
         color: white;
-    }
+    } */
 }
 
 @media(prefers-color-scheme: light) {
@@ -2031,8 +2031,10 @@ document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
     }
     body {
         /* background-color: rgb(187, 187, 221); */
-        background-color: white;
-        color: black;
+        /* background-color: white; */
+        background: attr(data-Background-Light,white);
+        /* color: black; */
+        color: attr(data-TextColor-Light,black);
         /* scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189); */
     }
     :target{
