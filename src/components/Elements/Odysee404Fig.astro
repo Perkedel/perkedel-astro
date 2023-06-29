@@ -9,7 +9,7 @@ export interface Props {
 
 const{
     werror404LBRYEmbed = "https://odysee.com/$/embed/404",
-    werror404LBRYEmbedStyle = "max-width:98vw;max-height:100vh",
+    werror404LBRYEmbedStyle = "max-width:50vw;max-height:50vh;min-width:25vw;min-height:25vh",
     werror404LBRYURL = "https://open.lbry.com/404",
     werror404LBRYProtocolURL = "lbry://404",
     inviteOdyseeURL = "https://odysee.com/$/invite/@JOELwindows7",
@@ -19,7 +19,7 @@ const{
 ---
 <figure>
     <!-- TODO: randomly select URL claim from list -->
-    <iframe id="odysee-iframe" src={werror404LBRYEmbed} style={werror404LBRYEmbedStyle} width="75%"></iframe>
+    <iframe id="odysee-iframe" src={werror404LBRYEmbed} style={werror404LBRYEmbedStyle}></iframe>
     <figcaption>Fig.1 - highest staking claim at address of <a href={werror404LBRYURL}>{werror404LBRYProtocolURL}</a></figcaption>
 </figure>
 <p><font size="3">(want your 404 WERROR image / video appear here? upload yours at <a href={inviteOdyseeURL}>Odysee LBRY</a> (OR other uploadable LBRY clients) now & compete by staking more than above's claim / post / video / image! Highest staking wins & have that file appears instead!)</font></p>
