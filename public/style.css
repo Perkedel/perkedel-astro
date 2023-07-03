@@ -202,6 +202,7 @@ body {
 }
 
 body[data-background][background-color]{
+    /* Pls custom color will ya?! */
     background: attr(data-Background, black);
     color: attr(data-TextColor, white);
 }
@@ -1323,7 +1324,7 @@ kbd {
     font-family: 'NerdFontsSymbols Nerd Font', 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
-#backTopButton {
+#backTopButton, .backTopButton {
     /*
     https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
     */
@@ -1357,19 +1358,19 @@ kbd {
     /* Increase font size */
 }
 
-#backTopButton:focus-visible {
+#backTopButton:focus-visible, .backTopButton:focus-visible {
     outline: 2px dashed cyan;
     border-radius: 4px;
 }
 
-#backTopButton:hover {
+#backTopButton:hover, .backTopButton:hover {
     background-color: blue;
     /* Add a orange background on hover */
     background-color: rgba(0, 0, 255, .75);
     /* & pls be transparent too if you can*/
 }
 
-#backTopButton:active {
+#backTopButton:active, .backTopButton:active {
     background-color: orange;
     /* Add a orange background on click */
     background-color: rgba(255, 165, 0, 1);
@@ -2219,7 +2220,7 @@ document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
         border: 2px solid darkblue;
         border-color: rgba(0, 0, 139, 0.5);
     }
-    #backTopButton {
+    #backTopButton, .backTopButton {
         background-color: default;
         /* Set a background color */
         color: default;
