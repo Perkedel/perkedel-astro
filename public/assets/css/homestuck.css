@@ -368,6 +368,8 @@ You can further make crazy the style with below classes
     --HS-AvrilThorpe-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AvrilThorpe-prefix: " Avril Thorpe: " / "Avril Thorpe says, ";
 
+    /* BROADCASTER */
+
     /* Quinzor Matahualar. Presenter. graduated from Binus University, idk what DKV major it is, basically broadcasting ones. OC of Perkedel Technologies. */
     --HS-QuinzorMatahualar-color: var(--HS-Hemospectrum-Cyan);
     --HS-QuinzorMatahualar-bgColor: var(--HS-Hemospectrum-ClearOpaque);
@@ -388,17 +390,21 @@ You can further make crazy the style with below classes
     --HS-DeddyMatahualar-bgColor: var(--HS-Hemospectrum-ClearOpaque);
     --HS-DeddyMatahualar-prefix: "👨‍💼 Deddy Matahualar: " / "Deddy Matahualar says, ";
 
-    /* Puella Willys Prescott / Hat Kid. A Hat in Time, Gears for Breakfast. */
+    /* A HAT IN TIME */
+
+    /* Puella Willys Prescott / Hat Kid. A Hat in Time, Gears for Breakfast. to Coatin. Main proragonist. Hat Kid had just visited her grandparents planet (Chronicle) in the Jason Harbour's Kid Adventurous 2015 program with the Spaceship she built along with other kids participating. When She was mid way to go back home to Dasandim, a Mafia knocked on her Spaceship glass door and ask for a fee / pungli. As she refuses and closes the door, Mafia punched the glass and causes Delta-P, pulling her & all of the ⏳ Time Pieces out of the fuel vault. She must then find those Time Pieces scattered across that terra looking planet. Hat Kid was amongst the 2 victims in this Kid Adventurous incident, which Lala's (Jason's daughter) was the worst one (but luckily rescued by Riftering passing by). Both of which are cosmic levies. */
     --HS-HatKid-color: var(--HS-Hemospectrum-Purple);
     --HS-HatKid-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite75);
     --HS-HatKid-prefix: "🎩 Puella W. Prescott (Hat Kid): " / "Puella Willys Prescott a.k.a. Hat Kid says, ";
 
-    /* Paulla Dmaic Yomberina / Bow Kid. A Hat in Time, Gears for Breakfast. */
+    /* Coatin Van Elektronische. to Puella */
+
+    /* Paulla Dmaic Yomberina / Bow Kid. A Hat in Time, Gears for Breakfast. 2nd Player. Bow Kid in the original game doesn't seems to appear in canon way at the moment. But said in the description, that she is old best friend to Hat Kid. */
     --HS-BowKid-color: var(--HS-Hemospectrum-Green);
     --HS-BowKid-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite75);
     --HS-BowKid-prefix: "🎀 Paulla D. Yomberina (Hat Kid): " / "Paulla Dmaic Yomberina a.k.a. Bow Kid says, ";
 
-    /* Nelly Tartanzi / Moustache Kid. Yes, a girl with mustache. ask Gears for Breakfast about this. She speaks British. BO'O'WO'AH. Okay that's enough. */
+    /* Nelly Tartanzi / Moustache Kid. Yes, a girl with mustache. ask Gears for Breakfast about this. She speaks British. BO'O'WO'AH. Okay that's enough. She fights against Mafia because her house have been robbed. But wrongly, she betrayed Hat Kid to gain the Time power to overrule the world and get rid of Mafia effectively. And as we saw from many concept videos, she was meant to be the protagonist, only then moved to Hat Kid. */
     --HS-MoustacheKid-color: var(--HS-Hemospectrum-Red);
     --HS-MoustacheKid-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite75);
     --HS-MoustacheKid-prefix: "🥸♀️ Nelly Tartanzi (Moustache Kid): " / "Nelly Tartanzi a.k.a. Mustache Kid says, ";
@@ -407,6 +413,31 @@ You can further make crazy the style with below classes
     --HS-TimmyWinston-color: var(--HS-Hemospectrum-Red);
     --HS-TimmyWinston-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite75);
     --HS-TimmyWinston-prefix: "🛹 Timmy Winston: " / "Timmy Winston says, ";
+
+    /* Mafia. This character appears to be a class, since there are alot of same looking instances of this character in "Mafia town". Mafia refers 3rd person way, e.g. `Mafia must guard this town`. */
+    --HS-Mafia-color: var(--HS-Hemospectrum-Black);
+    --HS-Mafia-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite75);
+    --HS-Mafia-prefix: " Mafia #????: " / "Mafia says, ";
+
+    /* Mafia Boss. pls name lah. inhabitant of Mafia Town, so is it. coz they aren't supposesly originated from here in the first place. Poor, Mustache Girl, we gotta help her. */
+
+    /* Conductor. pls name lah. Conductor in Owl Express & also Film Director. */
+
+    /* DJ Grooves. pls name lah. Musician, and that's right, Film Director. competing each other. */
+
+    /* Andrew Miller. Snatcher. Andrew fell in love with Vanessa and he wanted to give her flower. But then when Vanessa saw Andrew greeted with another woman, Vanessa thought Andrew cheated, and caged to starve. turn to a lost soul that likes to held hostage to do his "Contract". */
+
+    /* Vanessa. She though Snatcher cheated on her when actually he's just buying a flower for Vanessa, wtf?!. */
+
+    /* Tourist. pls name lah. This is the guy appear in Mafia town and if you helped him, you'll get Camera badge! He likes to take picture of random stuffs he visited. */
+
+    /* Captain Seal. Seal the Deal DLC. He is a captain in a cruise ship, until Hat Kid accidentally sank his ship. Behind, he is a sad guy, when his mentor unfortunately appears to bit the dust when that mentor's ship sank. Wait that doesn't seems right. Seal swims!!! */
+
+    /* Baby Seal. this is class! They speak like baby, OwO!! */
+
+    /* Empress. Nyakuza Metro DLC. pls name lah. She is the "Major" of this Metro place, and owner of Jewelry store where Hat Kid confers & do mission with her. */
+
+    /* Nyakuza Cat. this is class! & also typically have voice dormant close to Morgana (Persona) */
 
     /* RUST BLOODED */
     /* Aradia Megido. */
@@ -1076,9 +1107,16 @@ You can further make crazy the style with below classes
 
     /* Info. Explain details */
     --HS-Info-color: var(--HS-Hemospectrum-White);
+    --HS-Info-colorWarn: var(--HS-Hemospectrum-Black);
+    --HS-Info-colorError: var(--HS-Hemospectrum-White);
     --HS-Info-bgColor: rgba(0,0,255,1);
-    --HS-Info-prefix: "ℹ️ INFO: " / "";
-    --HS-Info-postfix: " ℹ️" / "";
+    --HS-Info-bgColorWarn: rgb(255, 174, 0);
+    --HS-Info-bgColorError: rgba(255,0,0,1);
+    --HS-Info-typeName: "INFO";
+    --HS-Info-typeIcon: "ℹ️";
+    --HS-Info-typeAria: 'Information. ';
+    --HS-Info-prefix: var(--HS-Info-typeIcon, 'ℹ️')" " var(--HS-Info-typeName, 'INFO')": " / var(--HS-Info-typeAria, 'Information. ');
+    --HS-Info-postfix: " " var(--HS-Info-typeIcon, 'ℹ️') / "";
 
     /* d */
 
@@ -1151,9 +1189,33 @@ First, install text color basically. the prefix should be later.
 
 /* Info */
 .HS.Info, .HS-Name.Info, .HS-Dialog.Info {
+    /* 
+    --HS-Info-typeName: "INFO";
+    --HS-Info-typeIcon: "ℹ️";
+    --HS-Info-typeAria: 'Information. ';
+    */
     color: var(--HS-Info-color);
     /* text-shadow: var(--HS-Info-textShadow); */
     background-color: var(--HS-Info-bgColor);
+}
+/* 
+You can also customize the type of the information
+*/
+.HS.Info[data-type='warn'], .HS-Name.Info[data-type='warn'], .HS-Dialog.Info[data-type='warn'] {
+    --HS-Info-typeName: "WARN";
+    --HS-Info-typeIcon: "⚠️";
+    --HS-Info-typeAria: 'Warning. ';
+    color: var(--HS-Info-colorWarn);
+    /* text-shadow: var(--HS-Info-textShadow); */
+    background-color: var(--HS-Info-bgColorWarn);
+}
+.HS.Info[data-type='error'], .HS-Name.Info[data-type='error'], .HS-Dialog.Info[data-type='error'] {
+    --HS-Info-typeName: "ERROR";
+    --HS-Info-typeIcon: "🛑";
+    --HS-Info-typeAria: 'Error. ';
+    color: var(--HS-Info-colorError);
+    /* text-shadow: var(--HS-Info-textShadow); */
+    background-color: var(--HS-Info-bgColorError);
 }
 
 /* JOELwindows7 */
