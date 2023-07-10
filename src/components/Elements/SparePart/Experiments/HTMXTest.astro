@@ -3,6 +3,15 @@
 // https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm
 // https://htmx.org/docs/#introduction
 ---
+<h3>Control Click below</h3>
 <div hx-get="/rawHtml/boop" hx-trigger="click[ctrlKey]">
     Control Click Me
+</div>
+<h3>Hover this below</h3>
+<div hx-post="/rawHtml/kyah" hx-trigger="mouseenter">
+    [Hello??]
+</div>
+<h3>Hover this below Once</h3>
+<div hx-post="/rawHtml/kyah" hx-trigger="mouseenter once">
+    [Hello??]
 </div>
