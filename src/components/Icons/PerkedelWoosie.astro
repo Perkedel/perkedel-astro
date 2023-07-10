@@ -1,11 +1,17 @@
 ---
 export interface Props{
     size?:string;
+    sizeX?:string;
+    sizeY?:string;
+    forceSizeX?:boolean;
+    forceSizeY?:boolean;
     classe?:string;
 }
 
 const{
     size='64px',
+    sizeX=null,
+    sizeY=null,
     classe='',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -13,5 +19,5 @@ const{
 <!-- <img id='PerkedelWoosie' alt="Perkedel Woosie" src="/favicon_2048.png" height={size}/> -->
 <picture id='PerkedelWoosiePicture'>
     <source id='PerkedelWoosieJXL' class={`PerkedelWoosie `+ classe} srcset='/favicon_2048.jxl' type='image/jxl' height={size} width={size}/>
-    <img id='PerkedelWoosie' class={`PerkedelWoosie `+ classe} alt="Perkedel Woosie" src="/favicon_2048.png" type='image/png' height={size} width={size}/>
+    <img id='PerkedelWoosie' class={`PerkedelWoosie `+ classe} alt="Perkedel Woosie" src="/favicon_2048.png" type='image/png' height={(sizeY && sizeY !== '') || forceSizeY?sizeY:size} width={(sizeX && sizeX !== '') || forceSizeX?sizeX:size}/>
 </picture>
