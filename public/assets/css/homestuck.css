@@ -1642,7 +1642,7 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 .HS.JOELwindows7::before {
     content: var(--HS-JOELwindows7-prefixConsecutive);
 }
-.HS.JOELwindows7::before:first-child {
+.HS.JOELwindows7:first-child::before {
     content: var(--HS-JOELwindows7-prefix);
 }
 
