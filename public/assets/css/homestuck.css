@@ -228,7 +228,7 @@ You can further make crazy the style with below classes
     --HS-JOELwindows7-NameInit: 'JOELwindows7';
     --HS-JOELwindows7-Name: 'Joel';
     --HS-JOELwindows7-NameAria: 'Joel Robert Justiawan';
-    --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " "var(--HS-JOELwindows7-NameConsecutive)": " / var(--HS-JOELwindows7-NameAria)" says, ";
+    --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " "var(--HS-JOELwindows7-Name)": " / var(--HS-JOELwindows7-NameAria)" says, ";
     /* --HS-JOELwindows7-prefixConsecutive: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " Joel: " / "Joel Robert Justiawan says, "; */
 
     /* MODERATORS / SAOFA */
@@ -1645,7 +1645,7 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 .HS.JOELwindows7::before {
     content: var(--HS-JOELwindows7-prefix);
 }
-.HS.JOELwindows7:first-child::before {
+.HS.JOELwindows7:first-child {
     /* content: var(--HS-JOELwindows7-prefix); */
     --HS-JOELwindows7-Name: var(--HS-JOELwindows7-NameInit);
 }
