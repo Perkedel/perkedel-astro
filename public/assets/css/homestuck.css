@@ -228,8 +228,9 @@ You can further make crazy the style with below classes
     --HS-JOELwindows7-NameInit: 'JOELwindows7';
     --HS-JOELwindows7-Name: 'Joel';
     --HS-JOELwindows7-NameAria: 'Joel Robert Justiawan';
-    --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " "var(--HS-JOELwindows7-Name)": " / var(--HS-JOELwindows7-NameAria)" says, ";
-    /* --HS-JOELwindows7-prefixConsecutive: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " Joel: " / "Joel Robert Justiawan says, "; */
+    --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " " var(--HS-JOELwindows7-NameInit) ": " / "Joel Robert Justiawan says, ";
+    --HS-JOELwindows7-prefixConsecutive: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " " var(--HS-JOELwindows7-Name) ": " / "Joel Robert Justiawan says, ";
+    /* CSS Bug! Aria slash cannot be variabled */
 
     /* MODERATORS / SAOFA */
     /* Arn. */
@@ -606,34 +607,34 @@ You can further make crazy the style with below classes
     /* Nepeta Leijon. */
     --HS-NepetaLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-NepetaLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Nepeta Leijon says, ";
+    --HS-NepetaLeijon-prefix: "♌ Nepeta Leijon: " attr(prefix-emoji,':33') " ⬅️ " / "Nepeta Leijon says, ";
     /* DONE: --HS-NepetaLeijon-customFace, default `:33`, can be filled into like `:DD`. use html attribute `prefix-emoji`, fill with string. */
 
     /* Meulin Leijon. Mom. */
     --HS-MeulinLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-MeulinLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: " var(attr(prefix-emoji),'＼(=^..^)/') " ⬅️ " / "Meulin Leijon says, ";
+    --HS-MeulinLeijon-prefix: "♌🔮 Meulin Leijon: " attr(prefix-emoji,'＼(=^..^)/') " ⬅️ " / "Meulin Leijon says, ";
     /* DONE: Fore real, Meulin literally emotes her prefix emoji! try to have default, copy with if has attribute. also use `prefix-emoji` html attribute fill with string. */
 
     /* Siamese Leijon. Daughter 1 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). the 2nd ever daughter born with new womb birth system. */
     --HS-SiameseLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-SiameseLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-SiameseLeijon-prefix: "♌🐈 Siamese Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Siamese Leijon says, ";
+    --HS-SiameseLeijon-prefix: "♌🐈 Siamese Leijon: " attr(prefix-emoji,':33') " ⬅️ " / "Siamese Leijon says, ";
 
     /* Ragdoll Leijon. Son 2 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. */
     --HS-RagdollLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-RagdollLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-RagdollLeijon-prefix: "♌🦥 Ragdoll Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Ragdoll Leijon says, ";
+    --HS-RagdollLeijon-prefix: "♌🦥 Ragdoll Leijon: " attr(prefix-emoji,':33') " ⬅️ " / "Ragdoll Leijon says, ";
 
     /* Kara Leijon. Daughter 3 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. Basically named after Karkat & Caracal, Karakal cat lol. She is muscular, not just Thicc. */
     --HS-KaraLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-KaraLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-KaraLeijon-prefix: "♌💪 Kara Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Kara Leijon says, ";
+    --HS-KaraLeijon-prefix: "♌💪 Kara Leijon: " attr(prefix-emoji,':33') " ⬅️ " / "Kara Leijon says, ";
 
     /* Maine Leijon. Son 4 of Nepeta & Karkat. OC of Perkedel Technologies, Universe D of Perkedel (Perkedel Cinematic Universe). also new birth system. Basically Maine Coon. Like Kara, he is Macho! */
     --HS-MaineLeijon-color: var(--HS-Hemospectrum-Olive);
     --HS-MaineLeijon-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-MaineLeijon-prefix: "♌🚨 Maine Leijon: " var(attr(prefix-emoji),':33') " ⬅️ " / "Maine Leijon says, ";
+    --HS-MaineLeijon-prefix: "♌🚨 Maine Leijon: " attr(prefix-emoji,':33') " ⬅️ " / "Maine Leijon says, ";
     /* Pecking hell, where is Whistle emoji!?!? */
 
     /* Will Smith Alternia. No, serious. Blame Hussie & all contributors involved in this, not me, not us. Not to be confused with real life Will Smith, that's different. */
@@ -1643,11 +1644,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 
 /* JOELwindows7 */
 .HS.JOELwindows7::before {
-    content: var(--HS-JOELwindows7-prefix);
+    content: var(--HS-JOELwindows7-prefixConsecutive);
 }
 .HS.JOELwindows7:first-child {
-    /* content: var(--HS-JOELwindows7-prefix); */
-    --HS-JOELwindows7-Name: var(--HS-JOELwindows7-NameInit);
+    content: var(--HS-JOELwindows7-prefix);
+    /* --HS-JOELwindows7-Name: var(--HS-JOELwindows7-NameInit); */
 }
 
 /* Arn */
