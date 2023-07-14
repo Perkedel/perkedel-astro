@@ -226,6 +226,7 @@ You can further make crazy the style with below classes
     --HS-JOELwindows7-textShadow: 0px 0px 5px var(--HS-Hemospectrum-CyanKaorfa);
     --HS-JOELwindows7-bgColor: rgba(0,0,50,.5);
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " JOELwindows7: " / "Joel Robert Justiawan says, ";
+    --HS-JOELwindows7-prefixConsecutive: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " Joel: " / "Joel Robert Justiawan says, ";
 
     /* MODERATORS / SAOFA */
     /* Arn. */
@@ -1639,6 +1640,9 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 
 /* JOELwindows7 */
 .HS.JOELwindows7::before {
+    content: var(--HS-JOELwindows7-prefixConsecutive);
+}
+.HS.JOELwindows7::before:nth-child(1) {
     content: var(--HS-JOELwindows7-prefix);
 }
 
