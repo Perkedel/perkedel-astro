@@ -757,6 +757,12 @@ a[href*='tiktok.com']::before {
     content: url('https://api.iconify.design/logos/tiktok-icon.svg') / "";
 }
 
+/* Extension */
+
+a[href$='.pdf']::before {
+    content: '\eaeb ' / "";
+}
+
 /* PLS WORK LAH!!!! */
 
 a[href*='homestuck.com']::before, 
