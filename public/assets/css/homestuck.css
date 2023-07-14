@@ -229,7 +229,7 @@ You can further make crazy the style with below classes
     --HS-JOELwindows7-Name: 'Joel';
     --HS-JOELwindows7-NameAria: 'Joel Robert Justiawan';
     --HS-JOELwindows7-prefix: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " " var(--HS-JOELwindows7-NameInit) ": " / "Joel Robert Justiawan says, ";
-    --HS-JOELwindows7-prefixConsecutive: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " " var(--HS-JOELwindows7-NameInit) ": " / "Joel Robert Justiawan says, ";
+    --HS-JOELwindows7-prefixConsecutive: url('https://perkedel.netlify.app/assets/img/ezgif/perkedel_woosie_32.gif') " " var(--HS-JOELwindows7-Name) ": " / "Joel Robert Justiawan says, ";
     /* CSS Bug! Aria slash cannot be variabled */
 
     /* MODERATORS / SAOFA */
