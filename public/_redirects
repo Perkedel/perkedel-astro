@@ -19,6 +19,10 @@
 /mavrickle /assets/img/mavrickle.png 200
 /dummy /assets/img/mavrickle.png 200
 
+# Random redirect file
+/48KhzAudioFix /assets/img/skrensut/must_be_48_khz_max.png
+/48KhzAudioFix.png /assets/img/skrensut/must_be_48_khz_max.png
+
 # Privacy Policy
 /privacy /privacy_policy
 /privacies /privacy_policy
