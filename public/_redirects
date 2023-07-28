@@ -22,6 +22,8 @@
 # Random redirect file
 /48KhzAudioFix /assets/img/skrensut/must_be_48_khz_max.png
 /48KhzAudioFix.png /assets/img/skrensut/must_be_48_khz_max.png
+/96KhzAudioFix /assets/img/skrensut/audio_frequency_max_96_khz.png
+/96KhzAudioFix.png /assets/img/skrensut/audio_frequency_max_96_khz.png
 /blueflame_cute_boy_mc /assets/img/novaskin/Blue_Flame_Cute_Boy.png
 /Blue_Flame_Cute_Boy.png /assets/img/novaskin/Blue_Flame_Cute_Boy.png
 
