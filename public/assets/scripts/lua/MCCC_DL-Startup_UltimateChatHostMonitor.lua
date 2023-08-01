@@ -1,4 +1,5 @@
 -- Download this file as `startup.lua` in root directory of your computer
+-- wget https://perkedel.netlify.app/MCCC_DL-startup_UltimateChatHostMonitor.lua
 sayText = ''
 sayText ..= '==========================================\n\n'
 sayText ..= 'This is Ultimate Chat Host Monitor Autorun\n\n'
