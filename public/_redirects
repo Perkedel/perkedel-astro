@@ -20,7 +20,8 @@
 /dummy /assets/img/mavrickle.png 200
 
 # ComputerCraft stuffs
-/MCCC_DL-startup_UltimateChatHostMonitor.lua /assets/scripts/lua/MCCC_DL-startup_UltimateChatHostMonitor.lua
+/MCCC_DL-startup_UltimateChatHostMonitor.lua /assets/scripts/lua/MCCC_DL-startup_UltimateChatHostMonitor.lua 200
+/MCCC_DL-startup_UltimateChatHostMonitor /assets/scripts/lua/MCCC_DL-startup_UltimateChatHostMonitor.lua 200
 
 # Random redirect file
 /48KhzAudioFix /assets/img/skrensut/must_be_48_khz_max.png
