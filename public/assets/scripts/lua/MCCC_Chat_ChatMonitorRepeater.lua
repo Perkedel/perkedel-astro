@@ -1,4 +1,5 @@
 -- Original Pastebin = https://pastebin.com/gp88RtLT
+-- other Pastebin = https://pastebin.com/tt0u3uES
 ServerName = "Perkedel"
 JoinName = "MonitorMe"
 --monitorName = "monitor_0"
@@ -30,5 +31,10 @@ end
 print('and this own ones')
 shell.openTab("chat", "join "..ServerName.." "..finalJoinName..'_(self)')
 print("Enjoy Chat Broadcast! thancc. cool and good")
+
+-- print("Joinning "..ServerName.." as "..JoinName.." at "..monitorName.."...")
+-- sleep(5)
+-- shell.openTab("monitor", monitorName.." chat join "..ServerName.." "..JoinName)
+-- print("Enjoy Chat Broadcast! thancc. cool and good")
 
 print("\nBy JOELwindows7\nPerkedel Technologies\nGNU GPL v3")
