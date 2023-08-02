@@ -18,3 +18,5 @@ print(sayText)
 shell.run('wget', 'run', downloadThisFile)
 print('\n\nENJOY!\n\n')
 print('by JOELwindows7\nPerkedel Technologies\nGNU GPL v3')
+-- Deployment:
+-- Modem on any position

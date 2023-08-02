@@ -24,6 +24,8 @@
 /MCCC_DL-startup_UltimateChatHostMonitor /assets/scripts/lua/MCCC_DL-startup_UltimateChatHostMonitor.lua 200
 /MCCC_DL-startup_ChatClientRepeater.lua /assets/scripts/lua/MCCC_DL-startup_ChatClientRepeater.lua 200
 /MCCC_DL-startup_ChatClientRepeater /assets/scripts/lua/MCCC_DL-startup_ChatClientRepeater.lua 200
+/MCCC_DL-startup_ChatMonitorRepeater.lua /assets/scripts/lua/MCCC_DL-startup_ChatMonitorRepeater.lua 200
+/MCCC_DL-startup_ChatMonitorRepeater /assets/scripts/lua/MCCC_DL-startup_ChatMonitorRepeater.lua 200
 
 # Random redirect file
 /48KhzAudioFix /assets/img/skrensut/must_be_48_khz_max.png
