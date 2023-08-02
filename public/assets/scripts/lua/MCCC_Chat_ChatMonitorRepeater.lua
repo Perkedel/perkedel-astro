@@ -14,7 +14,10 @@ shell.openTab("repeat")
 Alat = peripheral.getNames()
 Monitors = {}
 for i=1,#Alat do
-    if string.match(Alat[i],"monitor") then
+    --if string.match(Alat[i],"monitor") then
+    --    Monitors[#Monitors+1] = Alat[i]
+    --end
+    if string.match(peripheral.getType(Alat[i]),'monitor') then
         Monitors[#Monitors+1] = Alat[i]
     end
 end
@@ -22,7 +25,7 @@ end
 print("Joinning "..ServerName.." as "..finalJoinName.." at many monitors")
 sleep(5)
 for i=1,#Monitors do
-    shell.openTab("monitor", Monitors[i].." chat join "..ServerName.." "..finalJoinName..'_#'..i)
+    shell.openTab("monitor", Monitors[i].." chat join "..ServerName.." "..finalJoinName..'_('..Alat[i]..')')
 end
 print("Enjoy Chat Broadcast! thancc. cool and good")
 
