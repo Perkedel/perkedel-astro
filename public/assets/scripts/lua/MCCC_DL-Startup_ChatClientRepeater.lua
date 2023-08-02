@@ -1,8 +1,8 @@
 -- Download this file as `startup.lua` in root directory of your computer
--- `wget https://perkedel.netlify.app/MCCC_DL-startup_UltimateChatHostMonitor.lua startup.lua`
+-- `wget https://perkedel.netlify.app/MCCC_DL-startup_ChatClientRepeater.lua startup.lua`
 
-downloadThisFile = 'https://perkedel.netlify.app/assets/scripts/lua/MCCC_Chat_UltimateChatHostMonitor.lua'
-appName = 'Ultimate Chat Host Monitor'
+downloadThisFile = 'https://perkedel.netlify.app/assets/scripts/lua/MCCC_Chat_ChatClientRepeater.lua'
+appName = 'Ultimate Chat Client'
 
 composeTitle = 'This is '..appName..' Autorun'
 bars = ''
