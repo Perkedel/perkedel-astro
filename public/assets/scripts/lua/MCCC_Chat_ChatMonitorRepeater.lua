@@ -25,8 +25,10 @@ end
 print("Joinning "..ServerName.." as "..finalJoinName.." at many monitors")
 sleep(5)
 for i=1,#Monitors do
-    shell.openTab("monitor", Monitors[i].." chat join "..ServerName.." "..finalJoinName..'_('..Alat[i]..')')
+    shell.openTab("monitor", Monitors[i].." chat join "..ServerName.." "..finalJoinName..'_('..Monitors[i]..')')
 end
+print('and this own ones')
+shell.openTab("chat", "join "..ServerName.." "..finalJoinName..'_(self)')
 print("Enjoy Chat Broadcast! thancc. cool and good")
 
 print("\nBy JOELwindows7\nPerkedel Technologies\nGNU GPL v3")
