@@ -22,7 +22,7 @@ print("Connects through modem! Not sides")
 print("youtu.be/QdgZZwM0Beg\n")
 print("pastebin.com/"..pastebinID.."\n")
 print("Downloading Nyan Cat...")
-if not fs.exist(filename) then
+if not fs.exists(filename) then
     shell.run("pastebin","get "..pastebinID.." "..fileName)
 else
     print('Nyan Cat is already downloaded')
