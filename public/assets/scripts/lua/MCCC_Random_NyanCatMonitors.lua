@@ -10,10 +10,10 @@ shell.openTab("repeat")
 Alat = peripheral.getNames()
 for i=1,#Alat do
     --if string.match(Alat[i],"monitor") then
-    --    Monitors[#Monitors+1] = Alat[i]
+    --    monitorNambers[#MmonitorNambers+1] = Alat[i]
     --end
     if string.match(peripheral.getType(Alat[i]),'monitor') then
-        Monitors[#Monitors+1] = Alat[i]
+        monitorNambers[#monitorNambers+1] = Alat[i]
     end
 end
 
