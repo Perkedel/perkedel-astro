@@ -24,12 +24,17 @@ for i=1,#Alat do
 end
 
 print("Joinning "..ServerName.." as "..finalJoinName.." at many monitors")
+print('and this own ones 1st')
+sleep(5)
+shell.openTab("chat", "join "..ServerName.." "..finalJoinName..'_(self)')
 sleep(5)
 for i=1,#Monitors do
-    shell.openTab("monitor", Monitors[i].." chat join "..ServerName.." "..finalJoinName..'_('..Monitors[i]..')')
+    local eachJoinName = finalJoinName..'_('..Monitors[i]..')'
+    print(eachJoinName .. " is Joining...")
+    shell.openTab("monitor", Monitors[i].." chat join "..ServerName.." " ..eachJoinName)
+    sleep(5) -- delay to prevent timeout
 end
-print('and this own ones')
-shell.openTab("chat", "join "..ServerName.." "..finalJoinName..'_(self)')
+
 print("Enjoy Chat Broadcast! thancc. cool and good")
 
 -- print("Joinning "..ServerName.." as "..JoinName.." at "..monitorName.."...")
