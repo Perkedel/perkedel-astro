@@ -1,0 +1,20 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro';
+
+export interface Props{
+    id?:string;
+}
+
+// sample URL https://rule34.xxx/index.php?page=post&s=view&id=???????
+let urlBase = 'https://rule34.xxx/index.php?page=post&s=view&id='
+
+const{
+    id = '',
+}= Astro.props.frontmatter || Astro.props as Props;
+// DONE: make all shortcut versioner
+---
+<ButtonizedLink href={`${urlBase}${id}`} title={`Go to Rule34.xxx post ID of ${id}`}>
+    <slot>
+        R34X:{id}
+    </slot>
+</ButtonizedLink>

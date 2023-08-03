@@ -1,0 +1,95 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro';
+
+export interface Props{
+    website?: string;
+    id?:string;
+    nsfw?:boolean;
+};
+
+type SauceType = {
+    name:string; // e.g. Odysee
+    urlBase:string; // e.g. https://odysse.com/
+    codeName:string; // e.g. ODSY
+    nsfw:boolean; // e.g. false
+};
+
+const dictionarying:{[key:string]:Partial<SauceType>} = {
+    // "ODSS":{
+    //     'name': 'Odysee',
+    //     'urlBase': 'https://odysee.com/',
+    //     'codeName': 'ODSY',
+    //     'nsfw': false,
+    // },
+    // "R34X":{
+    //     'name': 'Rule34.xxx',
+    //     'urlBase': 'https://rule34.xxx/index.php?page=post&s=view&id=',
+    //     'codeName': 'R34X',
+    //     'nsfw': true,
+    // }
+};
+// dictionarying['ODSS'] = {
+//         'name': 'Odysee',
+//         'urlBase': 'https://odysee.com/',
+//         'codeName': 'ODSY',
+//         'nsfw': false,
+// };
+const mapping = new Map<string,SauceType>();
+
+// WEBSITES
+mapping.set('ODSY',{
+    name: 'Odysee',
+    urlBase: 'https://odysee.com/',
+    codeName: 'ODSY',
+    nsfw: false,
+});
+mapping.set('R34X',{
+    name: 'Rule34.xxx',
+    urlBase: 'https://rule34.xxx/index.php?page=post&s=view&id=',
+    codeName: 'R34X',
+    nsfw: true,
+});
+mapping.set('LIBRARIAN-SEGFAULT',{
+    name: 'Lobrarian Project Segfault',
+    urlBase: 'https://lbry.projectsegfau.lt/',
+    codeName: 'LIBRARIAN-SEGFAULT',
+    nsfw: true,
+});
+// END WEBSITES
+
+const{
+    website = '',
+    id = '',
+    nsfw = false,
+}= Astro.props.frontmatter || Astro.props as Props;
+// DONE: make all shortcut versioner
+
+// sample URL https://rule34.xxx/index.php?page=post&s=view&id=???????
+//print('website' + website)
+// let urlBase:string = dictionarying[website].urlBase;
+// let webName:string = dictionarying[website].name;
+// let codeName:string = dictionarying[webiste].codeName;
+// let isWebNSFW:boolean = dictionarying[website].nsfw;
+let urlBase:string = mapping.get(website).urlBase;
+let webname:string = mapping.get(website).name;
+let codeName:string = mapping.get(website).codeName;
+let isWebNSFW:boolean = mapping.get(website).nsfw;
+
+let soAllowThatToAppear:boolean = nsfw? true : !(isWebNSFW);
+---
+{soAllowThatToAppear? 
+<Fragment>
+    <ButtonizedLink href={`${urlBase}${id}`} title={`Go to ${webname} post ID of ${id}`}>
+        <slot>
+            {website}:{id}
+        </slot>
+    </ButtonizedLink>
+</Fragment>
+:
+<Fragment>
+    <ButtonizedLink href='javascript:void(0)' title='This website refered is NSFW. Please ensure you are above biological mature age to activate NSFW mode.'>
+        <b>CENSORED</b>
+    </ButtonizedLink>
+</Fragment>
+}
+
