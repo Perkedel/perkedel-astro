@@ -83,9 +83,11 @@ let calculateAgeSay:string = calculatedAge > 0? calculateAge.toString(): 'Unknow
     <div class='column colVertCenter'>
         <ul>
             <li><b>Name</b>: {yourName}</li>
-            <li><b>Birthday</b> (Year - Month - Day): {yourBirthYear} - {yourBirthMonth} - {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
+            <li><b>Birthday</b> (Year / Month / Day): {yourBirthYear} / {yourBirthMonth} / {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
             <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li>
             <li><b>Location</b>: {yourLocation}</li>
+            <li><b>Fictional?</b>: <abbr title={isFictional?`This character does not exist in real life! Please by respectful.`:`This person does exist in real life! Please be respectful.`}><Fragment set:html={isFictional?<b class='success'>YES</b>:<b class='warning'>NO</b>}/></abbr></li>
+            
         </ul>
         <p><q><slot>YOUR DESCRIPTION HERE</slot></q></p>
     </div>
