@@ -31,7 +31,7 @@ const{
     isFictional = true,
 }= Astro.props.frontmatter || Astro.props as Props;
 
-let altTitleSay = `${author}${authorImgIsOwnering?`'s`:``} ${authorImgNoun !== ``?authorImgNoun:`photo`}`;
+let altTitleSay = `${yourUsername}${authorImgIsOwnering?`'s`:``} ${authorImgNoun !== ``?authorImgNoun:`photo`}`;
 // copy from DRM Free Quote now!
 
 function whatGender(isIt:int):string{
