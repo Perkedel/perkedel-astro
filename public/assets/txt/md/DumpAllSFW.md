@@ -12635,9 +12635,10 @@ https://www.pixiv.net/en/artworks/94794810
 - Lfm lore 2021.08 . Dimension realm explode sky mod down at that time.
 - Lfm changelog 2022.01 . Dyulaba captured image of realm exploded far away, saw green swoosh. That's saorfa.
 - Pls find Sky came back to her cell now stashed in Wakturia. Yume panik she must hide her. At that time. See lfm changelog 2022.01 .
-- Yume Kamerline.
+- Yume Kamerline. to Jonathan Podosheryen
 - Sky came back to her cell now stashed, in lfm changelog 2021.11.180
 - That 2021.11.180 also explains that I have been blocked by cval brown.
+- https://github.com/Perkedel/After-Church/blob/master/Documents/Misc/LFM-changelog-2021.11.180.md
 - https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-75m-installs-removed-from-web-store/
 - https://www.windowscentral.com/software-apps/this-was-winrars-reaction-to-windows-11-getting-native-rar-support
 - https://twitter.com/WinRAR_RARLAB/status/1663493174642323457?t=2N2LpqSYsGqwCn9ugXuxEg&s=19
@@ -28639,6 +28640,8 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtu.be/5SIhlWFAJWk
 - https://youtu.be/2eK9TtRwKFY
 - https://youtu.be/uuBETyA_yxc u got that
+- https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display
+- https://youtu.be/IXAa1zdjdSE umm excuse me what the actual f888 you're doing in my house?
 
 
 
