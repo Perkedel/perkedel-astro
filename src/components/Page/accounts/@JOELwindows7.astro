@@ -16,6 +16,16 @@ export interface Props{
     nsfw?:boolean;
 }
 
+// Stat card
+let fullName = 'Joel Robert Justiawan';
+let username = 'JOELwindows7';
+let gender = 0;
+let birthDay = 7;
+let birthMonth = 2;
+let birthYear = -1; // DO NOT SET MORE THAN 0 IF CHARACTER IS NOT FICTIONAL, Unless they wanted it.
+let location = `Jakarta, Indonesia`;
+let isFictional = false;
+
 // URL, Title, Thumb Image URL, Icon, Stay in this tab
 const bioLinks:Array<Array<string | boolean | number>> = [
     ['https://perkedel.netlify.app', 'Perkedel NTLF+ASTR Website', '', '&#xfa9e;', true],
@@ -50,13 +60,21 @@ const bioLinksNSFW:Array<Array<string | boolean | number>> = [
 
 const{
     nsfw = false,
+    
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <CoreAccounts
     nsfw={nsfw}
-    username="JOELwindows7"
+    fullName = {fullName}
+    username={username}
     links = {bioLinks}
     linksNSFW = {bioLinksNSFW}
+    gender = {gender}
+    birthDay = {birthDay}
+    birthMonth = {birthMonth}
+    birthYear = {birthYear}
+    location = {location}
+    isFictional = {isFictional}
     >
     <p>wow</p>
     <h3>YEY</h3>

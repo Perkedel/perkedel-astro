@@ -1,0 +1,93 @@
+---
+export interface Props{
+    nsfw?:boolean;
+    author?:string;
+    authorSauce?:string;
+    authorImgSrc?:string;
+    yourName?:string; // name
+    yourUsername?:string;
+    yourGender?:int; // gender ID
+    yourBirthDay?:int;
+    yourBirthMonth?:int;
+    yourBirthYear?:int;
+    yourLocation?:string;
+    isFictional?:boolean;
+}
+
+const{
+    nsfw=false,
+    author='???',
+    authorSauce='https://example.com',
+    authorImgSrc=`/assets/img/mavrickle.png`,
+    authorImgIsOwnering=true,
+    authorImgNoun=`photo`,
+    yourName = ``,
+    yourUsername = ``,
+    yourGender = -1,
+    yourBirthDay = -1,
+    yourBirthMonth = -1,
+    yourBirthYear = -1,
+    isFictional = true,
+}= Astro.props.frontmatter || Astro.props as Props;
+
+let altTitleSay = `${author}${authorImgIsOwnering?`'s`:``} ${authorImgNoun !== ``?authorImgNoun:`photo`}`;
+// copy from DRM Free Quote now!
+
+function whatGender(isIt:int):string{
+    switch(isIt){
+        case -1:
+            return 'undefined';
+        case 0:
+            return 'Male';
+        case 1:
+            return 'Female';
+        case 3:
+            return 'other';
+        case 4:
+            return 'null'; // asexual
+        case 5:
+            return 'trans male to female';
+        case 6:
+            return 'trans female to male';
+        case 7:
+            return 'trans male to null';
+        case 8:
+            return 'trans female to null';
+        default:
+            break;
+    }
+    return '???';
+}
+function calculateAge():int{
+    if (yourBirthYear < 0 || yourBirthMonth < 0 || yourBirthDay < 0)
+        return -1;
+    
+    // https://stackoverflow.com/a/7091965
+    let todayIs = Date.now()
+    let age = todayIs.getFullYear() - yourBirthYear;
+    let m = todayIs.getMonth() - yourBirthMonth;
+    if (m < 0 || (m === 0 && today.getDate() < yourBirthDay)) {
+        age--;
+    }
+
+    return age;
+}
+let calculatedAge = calculateAge();
+let calculateAgeSay:string = calculatedAge > 0? calculateAge.toString(): 'Unknown';
+---
+<div class='row BioLinkStatCard'>
+    <div class='column colLeft'>
+        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={altTitleSay} title={altTitleSay}/>
+    </div>
+    <div class='column colVertCenter'>
+        <p>
+            <ul>
+                <li><b>Name</b>: {yourName}</li>
+                <li><b>Birthday</b> (Year - Month - Day): {yourBirthYear} - {yourBirthMonth} - {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
+                <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li>
+                <li><b>Location</b>: {yourLocation}</li>
+            </ul>
+        </p>
+        <p><q><slot>YOUR QUOTE HERE</slot></q> — <a target="_blank" rel="noopener noreferrer" href={authorSauce} set:html={author}></a></p>
+    </div>
+</div>

@@ -12,9 +12,11 @@ import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import CorePage from '../__CorePage.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
 
 export interface Props{
     nsfw?:Boolean;
+    fullName?:string;
     username:string;
     photoURL?:string;
     links?:Array<Array<String | boolean | number>>;
@@ -25,6 +27,12 @@ export interface Props{
     skipHeader?:boolean;
     skipNav?:boolean;
     skipFooter?:boolean;
+    gender?:int; // gender ID
+    birthDay?:int;
+    birthMonth?:int;
+    birthYear?:int;
+    location?:string;
+    isFictional?:boolean;
 }
 
 // Add these yourself!
@@ -38,6 +46,7 @@ const bioLinksNSFW:Array<Array<string | boolean>> = [
 
 const{
     nsfw=false,
+    fullName = '',
     username = '',
     photoURL = '',
     links = bioLinks, // & assign your variable there like `links = your_biolinks_array` in your `<USERNAMELINK>` stuff like that
@@ -48,6 +57,12 @@ const{
     skipHeader = false,
     skipNav = false,
     skipFooter = false,
+    gender = -1,
+    birthDay = -1,
+    birthMonth = -1,
+    birthYear = -1, // DO NOT SET MORE THAN 0 IF CHARACTER IS NOT FICTIONAL, Unless they wanted it.
+    location = `Somewhere`,
+    isFictional = true,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- 
@@ -72,6 +87,20 @@ rel="noopener noreferrer"
     skipNav={skipNav}
     skipFooter={skipFooter}
     >
+    <h2 style="text-align:center;">Stats</h2>
+    <details>
+        <summary>Stat card</summary>
+        <StatCard
+            yourName={fullName}
+            yourUsername={username}
+            yourBirthDay={birthDay}
+            yourBirthMonth={birthMonth}
+            yourBirthYear={birthYear}
+            yourLocation={location}
+            isFictional={isFictional}
+            yourGender={gender}
+        />
+    </details>
     <h2 style="text-align:center;">BioLinks</h2>
     <ul class="BioLinksList">
         {links.map(datas =>(

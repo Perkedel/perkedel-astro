@@ -28643,6 +28643,13 @@ https://www.pixiv.net/en/artworks/94794810
 - https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display
 - https://youtu.be/IXAa1zdjdSE umm excuse me what the actual f888 you're doing in my house?
 - https://www.netlify.com/blog/introducing-netlify-drop-chatgpt-plugin/
+- https://youtu.be/H-WXj3Jrzlk the balls harden
+- https://youtube.com/shorts/TjNN_MNL1wA?feature=share
+- https://youtube.com/shorts/xBtI5_9Wp04?feature=share
+- https://stackoverflow.com/questions/4060004/calculate-age-given-the-birth-date-in-the-format-yyyymmdd/7091965#7091965
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/now
+- 
 
 
 
