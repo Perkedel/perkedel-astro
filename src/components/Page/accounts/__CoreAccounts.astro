@@ -48,7 +48,7 @@ const{
     nsfw=false,
     fullName = '',
     username = '',
-    photoURL = '',
+    photoURL = '/assets/img/mavrickle.png',
     links = bioLinks, // & assign your variable there like `links = your_biolinks_array` in your `<USERNAMELINK>` stuff like that
     linksNSFW = bioLinksNSFW, // Don't forget the NSFW links too if you had it. don't dare you cheat! you must be at biological mature age of your being!
     thirdPartyEdit = false, // Admin will raise this flag if it was the other admin that created the Biolinks, not the author themselves.
@@ -99,6 +99,7 @@ rel="noopener noreferrer"
             yourLocation={location}
             isFictional={isFictional}
             yourGender={gender}
+            authorImgSrc={photoURL}
         >
             <slot name='StatQuote'/>
         </StatCard>
