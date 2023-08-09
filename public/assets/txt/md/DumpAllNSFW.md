@@ -3079,6 +3079,8 @@
 - https://www.tumblr.com/catgirl-milk/712156682193682432/hi-i-post-pictures-of-my-tits?source=share whoah chill! You hate Harry Potter fans?! Uh.. here we go again. 
 - https://www.tumblr.com/bri911/725018598405455872/my-little-heart-is-beating-rapidly-and?source=share
 - https://youtu.be/Pf2MCoiqzAY
+- https://twitter.com/kinomiki_/status/1688882815314849792?t=GZxfyvKdpza4tBXaLWYpoQ&s=19
+- https://twitter.com/kinomiki_/status/1688882815314849792?t=GZxfyvKdpza4tBXaLWYpoQ&s=19
 
 
 

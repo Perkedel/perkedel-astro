@@ -81,14 +81,12 @@ let calculateAgeSay:string = calculatedAge > 0? calculateAge.toString(): 'Unknow
         <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={altTitleSay} title={altTitleSay}/>
     </div>
     <div class='column colVertCenter'>
-        <p>
-            <ul>
-                <li><b>Name</b>: {yourName}</li>
-                <li><b>Birthday</b> (Year - Month - Day): {yourBirthYear} - {yourBirthMonth} - {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
-                <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li>
-                <li><b>Location</b>: {yourLocation}</li>
-            </ul>
-        </p>
-        <p><q><slot>YOUR QUOTE HERE</slot></q> — <a target="_blank" rel="noopener noreferrer" href={authorSauce} set:html={author}></a></p>
+        <ul>
+            <li><b>Name</b>: {yourName}</li>
+            <li><b>Birthday</b> (Year - Month - Day): {yourBirthYear} - {yourBirthMonth} - {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
+            <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li>
+            <li><b>Location</b>: {yourLocation}</li>
+        </ul>
+        <p><q><slot>YOUR DESCRIPTION HERE</slot></q></p>
     </div>
 </div>

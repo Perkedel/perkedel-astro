@@ -88,7 +88,7 @@ rel="noopener noreferrer"
     skipFooter={skipFooter}
     >
     <h2 style="text-align:center;">Stats</h2>
-    <details>
+    <details open>
         <summary>Stat card</summary>
         <StatCard
             yourName={fullName}
@@ -99,7 +99,9 @@ rel="noopener noreferrer"
             yourLocation={location}
             isFictional={isFictional}
             yourGender={gender}
-        />
+        >
+        <slot name='StatQuote'/>
+        <StatCard>
     </details>
     <h2 style="text-align:center;">BioLinks</h2>
     <ul class="BioLinksList">
