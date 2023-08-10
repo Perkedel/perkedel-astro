@@ -2027,12 +2027,21 @@ margin-bottom: 0.5em;
 /* You also need to decolorize for other classes too */
 .error details, .error details[open] summary,
 .info details, .info details[open] summary,
+.error > details, .error > details[open] summary,
+.info > details, .info > details[open] summary,
+.error + details, .error + details[open] summary,
+.info + details, .info + details[open] summary,
+.error ~ details, .error ~ details[open] summary,
+.info ~ details, .info ~ details[open] summary,
 {
     border-color: white;
     border-bottom-color: white;
 }
 
-.warning details, .warning details[open] summary
+.warning details, .warning details[open] summary,
+.warning > details, .warning > details[open] summary,
+.warning + details, .warning + details[open] summary,
+.warning ~ details, .warning ~ details[open] summary,
 {
     border-color: black;
     border-bottom-color: black;
