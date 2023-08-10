@@ -12,6 +12,8 @@ export interface Props{
     yourBirthYear?:int;
     yourLocation?:string;
     isFictional?:boolean;
+    yourBloodType?:int;
+    yourBloodRh?:boolean;
 }
 
 const{
@@ -29,6 +31,8 @@ const{
     yourBirthYear = -1,
     yourLocation = ``,
     isFictional = true,
+    yourBloodType = -1,
+    yourBloodRh = false,
 }= Astro.props.frontmatter || Astro.props as Props;
 
 let altTitleSay = `${yourUsername}${authorImgIsOwnering?`'s`:``} ${authorImgNoun !== ``?authorImgNoun:`photo`}`;
@@ -59,6 +63,66 @@ function whatGender(isIt:int):string{
     }
     return '???';
 }
+
+function calculateBloodType(id:int,isRh:boolean):string{
+    let rhSays = isRh? '+' : '-';
+    switch(id){
+        case -1:
+            return 'undefined';
+        case 0:
+            return 'O' + rhSays;
+        case 1:
+            return 'A' + rhSays;
+        case 2:
+            return 'B' + rhSays;
+        case 3:
+            return 'AB' + rhSays;
+        default:
+            break;
+    }
+    return '???';
+}
+function calculateMonth(from:int):string{
+    switch(from){
+        case -1:
+            return 'undefined';
+        case 0:
+            return '???';
+
+        case 1:
+            return 'January';
+        case 2:
+            return 'February';
+        case 3:
+            return 'March';
+
+        case 4:
+            return 'April';
+        case 5:
+            return 'May';
+        case 6:
+            return 'June';
+        
+        case 7:
+            return 'July';
+        case 8:
+            return 'August';
+        case 9:
+            return 'September';
+
+        case 10:
+            return 'October';
+        case 11:
+            return 'November';
+        case 12:
+            return 'December';
+            
+        default:
+            break;
+    }
+    return '???';
+}
+
 function calculateAge():int{
     if (yourBirthYear < 0 || yourBirthMonth < 0 || yourBirthDay < 0)
         return -1;
@@ -83,11 +147,12 @@ let calculateAgeSay:string = calculatedAge > 0? calculateAge.toString(): 'Unknow
     <div class='column colVertCenter'>
         <ul>
             <li><b>Name</b>: {yourName}</li>
-            <li><b>Birthday</b> (Year / Month / Day): {yourBirthYear} / {yourBirthMonth} / {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
+            <li><b>Birthday</b> (Year / Month / Day): {yourBirthYear} / {calculateMonth(yourBirthMonth)} / {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
             <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li>
             <li><b>Location</b>: {yourLocation}</li>
+            <li><b>Blood Type</b>: {calculateBloodType(yourBloodType,yourBloodRh)}</li>
             <li><b>Fictional?</b>: 
-                <abbr title={isFictional?`This character does not exist in real life! Please by respectful.`:`This person does exist in real life! Please be respectful.`}>
+                <abbr title={(isFictional?`This character does not exist in real life!`:`This person does exist in real life!`) + ` Please be respectful.`}>
                     <Fragment set:html={isFictional?`<b class='success'>YES</b>`:`<b class='warning'>NO</b>`}/>
                 </abbr>
             </li>
