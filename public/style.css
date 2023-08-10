@@ -2028,24 +2028,37 @@ margin-bottom: 0.5em;
 .error details, .error details[open] summary,
 .info details, .info details[open] summary,
 .error > details, .error > details[open] summary,
+.error>details, .error>details[open] summary,
 .info > details, .info > details[open] summary,
+.info>details, .info>details[open] summary,
 .error + details, .error + details[open] summary,
 .info + details, .info + details[open] summary,
 .error ~ details, .error ~ details[open] summary,
 .info ~ details, .info ~ details[open] summary,
+details.error, details[open].error summary,
+details.info, details[open].info summary,
+.warning details, .warning details[open] summary,
+.warning > details, .warning > details[open] summary,
+.warning>details, .warning>details[open] summary,
+.warning + details, .warning + details[open] summary,
+.warning ~ details, .warning ~ details[open] summary,
+details.warning, details[open].warning summary,
 {
-    border-color: white;
-    border-bottom-color: white;
+    border-color: initial;
+    border-bottom-color: inital;
 }
 
+/*
 .warning details, .warning details[open] summary,
 .warning > details, .warning > details[open] summary,
 .warning + details, .warning + details[open] summary,
 .warning ~ details, .warning ~ details[open] summary,
+details.warning, details[open].warning summary,
 {
     border-color: black;
     border-bottom-color: black;
 }
+*/
 
 /* MEDIA PLS!!!! */
 
