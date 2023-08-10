@@ -2004,28 +2004,30 @@ document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 */
 details {
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
+    border: 1px solid;
     border-radius: 4px;
     padding: 0.5em 0.5em 0;
 }
   
 summary {
-font-weight: bold;
-margin: -0.5em -0.5em 0;
-padding: 0.5em;
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
 }
 
 details[open] {
-padding: 0.5em;
+    padding: 0.5em;
 }
 
 details[open] summary {
-border-bottom: 1px solid blue;
-margin-bottom: 0.5em;
+    /* border-bottom: 1px solid blue; */
+    border-bottom: 1px solid;
+    margin-bottom: 0.5em;
 }
 
 /* You also need to decolorize for other classes too */
-.error details, .error details[open] summary,
+/* .error details, .error details[open] summary,
 .info details, .info details[open] summary,
 .error > details, .error > details[open] summary,
 .error>details, .error>details[open] summary,
@@ -2046,7 +2048,7 @@ details.warning, details[open].warning summary,
 {
     border-color: initial;
     border-bottom-color: inital;
-}
+} */
 
 /*
 .warning details, .warning details[open] summary,
