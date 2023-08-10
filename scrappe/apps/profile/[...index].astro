@@ -1,0 +1,76 @@
+---
+import { getCollection } from 'astro:content';
+import LayoutMDX from '@components/LayoutMDX.astro';
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import Cardiophilia from '@components/Page/Cardiophilia.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import ProfileList from '@components/Page/accounts/ProfileList.astro';
+import LayoutNSFWEntry from '@components/Layout/LayoutNSFWEntry.astro';
+
+export interface Props{
+    nsfw?:boolean;
+    enteringNSFW?:boolean;
+}
+
+const profiles = await Astro.glob('@components/Page/accounts/@*.astro'); // <- & this too, VERY IMPORTANT.
+
+let profSays:Array<Array<string|undefined>> = [
+    ["",""]
+];
+for(let i=0; i < profiles.length; i++){
+    profSays[i] = [
+        profiles[i].url || "",
+        (profiles[i].url || "/apps/profile/???").substring("/apps/profile/".length),
+    ]
+}
+
+
+
+export function getStaticPaths(){
+    const pages = [
+      {
+        index: undefined,
+        nsfw:false,
+        enteringNSFW:false,
+      },
+      {
+        index: "enterNSFW",
+        nsfw:true,
+        enteringNSFW:true,
+      },
+      {
+        index: "enterNSFW/nsfw",
+        nsfw:true,
+        enteringNSFW:false,
+      },
+    ];
+    return pages.map(({ index, enteringNSFW, nsfw }) => {
+      return {
+        params: { index },
+        props: {enteringNSFW, nsfw },
+      };
+    });
+}
+
+//const allPosts = await getCollection("posts");
+const { nsfw, enteringNSFW } = Astro.props.frontmatter || Astro.props as Props;
+---
+{enteringNSFW?
+<Fragment>
+    <LayoutNSFWEntry entering="List BioLinks" addDescriptions="Entering NSFW of List BioLinks" addKeywords='linktree, biolink, link in bio, linktree, cointree, better, '/>
+</Fragment>
+:
+<Fragment>
+    <ProfileList profiles={profSays}/>
+</Fragment>
+}
