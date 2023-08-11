@@ -28659,6 +28659,11 @@ https://www.pixiv.net/en/artworks/94794810
 - https://developer.mozilla.org/en-US/docs/Web/CSS/border-color
 - https://github.com/limine-bootloader/limine
 - https://github.com/TempleProgramming/HolyGL
+- https://github.com/Zeal-Operating-System/ZealOS/wiki/Installing-(Bare%E2%80%90metal)
+- https://github.com/Zeal-Operating-System/ZealOS/wiki/Building-an-ISO
+- https://github.com/Zeal-Operating-System/ZealOS/wiki/Keybindings
+- https://github.com/ziglang/zig
+- https://ziglang.org/
 
 
 

@@ -170,11 +170,11 @@ rel="noopener noreferrer"
         <h3>Gallery</h3>
             <slot name='WikiGallery'></slot>
             <div class='galleryCollage'>
-                {relationshipLists.map(
+                {galleryLists.map(
                     datas => (
                         <Fragment>
                             <figure class='galleryCollageItem'>
-                                <img src={datas[1]}></img>
+                                <img src={datas[1]} alt={datas[1] + ` | ` + datas[0]}></img>
                                 <figcaption set:html={datas[0]}></figcaption>
                             </figure>
                         </Fragment>
@@ -186,7 +186,7 @@ rel="noopener noreferrer"
             {triviaLists.map(
                 datas => (
                     <li>
-                        <Fragment set:html={datas | ``}/>
+                        <Fragment set:html={datas}/>
                     </li>
                 )
             )}
