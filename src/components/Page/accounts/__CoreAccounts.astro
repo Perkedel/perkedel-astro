@@ -139,9 +139,23 @@ rel="noopener noreferrer"
         )):""}
     </ul>
     <h2>About & More</h2>
-    <slot>
-        <p>Hello, my name is {username}!</p>
-    </slot>
+        <slot>
+            <p>Hello, my name is {username}!</p>
+        </slot>
+    <h2>Wiki (Perkedel Cinematic Universe)</h2>
+        <slot name='WikiStart'></slot>
+        <h3>Etymology</h3>
+            <slot name='WikiEtymology'><i>No Etymology provided for this entity</i></slot>
+        <h3>Biography</h3>
+            <slot name='WikiBiography'><i>No Biography provided for this entity</i></slot>
+        <h3>Personality & Traits</h3>
+            <slot name='WikiPersonality'><i>No Personality & Traits provided for this entity</i></slot>
+        <h3>Relationship</h3>
+            <slot name='WikiRelationship'><i>No Relationship provided for this entity</i></slot>
+        <h3>Galery</h3>
+            <slot name='WikiGalery'><i>No Extra Images provided for this entity</i></slot>
+        <h3>Trivia</h3>
+            <slot name='WikiTrivia'><i>No Trivia provided for this entity</i></slot>
     <!-- <h2 slot="afterNSFWBar">Misc</h2> -->
     <hr slot="afterNSFWBar"/>
     <slot name="afterNSFWBar" slot="afterNSFWBar">{""}</slot>
