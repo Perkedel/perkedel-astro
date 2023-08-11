@@ -33,7 +33,7 @@ export interface Props{
     birthYear?:int;
     location?:string;
     isFictional?:boolean;
-    triviaLists?:Array<string | boolean | number>;
+    triviaLists?:Array<string>;
     relationshipLists?:Array<Array<string>>;
     galleryLists?:Array<Array<string>>;
     
@@ -174,7 +174,7 @@ rel="noopener noreferrer"
                     datas => (
                         <Fragment>
                             <figure class='galleryCollageItem'>
-                                <iframe src={datas[1]}></iframe>
+                                <img src={datas[1]}></img>
                                 <figcaption set:html={datas[0]}></figcaption>
                             </figure>
                         </Fragment>
