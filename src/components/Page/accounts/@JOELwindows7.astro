@@ -17,17 +17,28 @@ export interface Props{
 }
 
 // Stat card
-let fullName = 'Joel Robert Justiawan';
-let photoURL = '/assets/img/fckdrm/Joel_profile.png';
-let username = 'JOELwindows7';
-let gender = 0;
-let birthDay = 7;
-let birthMonth = 2;
-let birthYear = -1; // DO NOT SET MORE THAN 0 IF CHARACTER IS NOT FICTIONAL, Unless they wanted it.
-let location = `Jakarta, Indonesia`;
-let bloodType = 0;
-let bloodRh = true;
-let isFictional = false;
+let fullName:string = 'Joel Robert Justiawan';
+let photoURL:string = '/assets/img/fckdrm/Joel_profile.png';
+let username:string = 'JOELwindows7';
+let gender:int = 0;
+let birthDay:int = 7;
+let birthMonth:int = 2;
+let birthYear:int = -1; // DO NOT SET MORE THAN 0 IF CHARACTER IS NOT FICTIONAL, Unless they wanted it.
+let location:string = `Jakarta, Indonesia`;
+let bloodType:int = 0;
+let bloodRh:boolean = true;
+let isFictional:boolean = false;
+let galleryLists: Array<Array<string>> = [
+    //src, caption
+    [``,``]
+]
+let relationshipLists: Array<Array<string>> = [
+    //title, description
+    [``,``]
+]
+let triviaLists: Array<string|boolean|number> = [
+    `<b>a</b>`,
+]
 
 // URL, Title, Thumb Image URL, Icon, Stay in this tab
 const bioLinks:Array<Array<string | boolean | number>> = [
@@ -81,6 +92,9 @@ const{
     photoURL = {photoURL}
     bloodType = {bloodType}
     bloodRh = {bloodRh}
+    triviaLists = {triviaLists}
+    relationshipLists = {relationshipLists}
+    galleryLists = {galleryLists}
     >
     <Fragment slot='StatQuote'>Ahei, Dasandimian, Cool and good.</Fragment>
     <p>wow</p>
@@ -103,9 +117,19 @@ const{
         
     </Fragment>
 
-    <Fragment slot='WikiRelationship'>
+    <!-- <Fragment slot='WikiRelationship'>
         
     </Fragment>
+
+    <Fragment slot='WikiGallery'>
+        
+    </Fragment> -->
+
+    <!-- <Fragment slot='WikiTrivia'>
+        <ul>
+            <li></li>
+        </ul>
+    </Fragment> -->
 
     <Fragment slot="afterNSFWBar">
         <p>Wowowowowwo</p>

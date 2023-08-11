@@ -33,6 +33,10 @@ export interface Props{
     birthYear?:int;
     location?:string;
     isFictional?:boolean;
+    triviaLists?:Array<string | boolean | number>;
+    relationshipLists?:Array<Array<string>>;
+    galeryLists?:Array<Array<string>>;
+    
 }
 
 // Add these yourself!
@@ -65,6 +69,9 @@ const{
     bloodType = -1,
     bloodRh = false,
     isFictional = true,
+    triviaLists = [`Empty Trivia`];
+    galleryLists = [[``,``]];
+    relationshipLists = [[``,``]];
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- 
@@ -151,11 +158,38 @@ rel="noopener noreferrer"
         <h3>Personality & Traits</h3>
             <slot name='WikiPersonality'><i>No Personality & Traits provided for this entity</i></slot>
         <h3>Relationship</h3>
-            <slot name='WikiRelationship'><i>No Relationship provided for this entity</i></slot>
-        <h3>Galery</h3>
-            <slot name='WikiGalery'><i>No Extra Images provided for this entity</i></slot>
+            <slot name='WikiRelationship'></slot>
+            {relationshipLists.map(
+                datas => (
+                    <Fragment>
+                        <h3>{datas[0]}</h3>
+                        <Fragment set:html={datas[1]}/>
+                    </Fragment>
+                )
+            )}
+        <h3>Gallery</h3>
+            <slot name='WikiGallery'></slot>
+            <div class='galleryCollage'>
+                {relationshipLists.map(
+                    datas => (
+                        <Fragment>
+                            <figure class='galleryCollageItem'>
+                                <iframe src={datas[1]}></iframe>
+                                <figcaption set:html={datas[0]}></figcaption>
+                            </figure>
+                        </Fragment>
+                    )
+                )}
+            </div>
         <h3>Trivia</h3>
-            <slot name='WikiTrivia'><i>No Trivia provided for this entity</i></slot>
+            <slot name='WikiTrivia'></slot>
+            {triviaLists.map(
+                datas => (
+                    <li>
+                        <Fragment set:html={datas | ``}/>
+                    </li>
+                )
+            )}
     <!-- <h2 slot="afterNSFWBar">Misc</h2> -->
     <hr slot="afterNSFWBar"/>
     <slot name="afterNSFWBar" slot="afterNSFWBar">{""}</slot>
