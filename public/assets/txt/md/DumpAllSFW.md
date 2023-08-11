@@ -28657,6 +28657,8 @@ https://www.pixiv.net/en/artworks/94794810
 - https://docs.astro.build/en/reference/api-reference/
 - https://docs.astro.build/en/reference/api-reference/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/border-color
+- https://github.com/limine-bootloader/limine
+- https://github.com/TempleProgramming/HolyGL
 
 
 
