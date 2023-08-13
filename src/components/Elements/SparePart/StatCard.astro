@@ -161,7 +161,7 @@ let calculateAgeSay:string = calculatedAge > 0? calculatedAge.toString(): 'Unkno
             <li><b>Location</b>: {yourLocation}</li>
             <li><b>Blood Type</b>: {calculateBloodType(yourBloodType,yourBloodRh)}</li>
             <li><b>Fictional?</b>: 
-                <abbr title={(isFictional?`This character does not exist in real life!`:`This person does exist in real life!`) + ` Please be respectful.`}>
+                <abbr title={`This `+(isFictional?`character does not exist`:`person does exist`) + ` in real life! Please be respectful.`}>
                     <Fragment set:html={isFictional?`<b class='success'>YES</b>`:`<b class='warning'>NO</b>`}/>
                 </abbr>
             </li>
