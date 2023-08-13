@@ -156,7 +156,7 @@ let calculateAgeSay:string = calculatedAge > 0? calculatedAge.toString(): 'Unkno
     <div class='column colVertCenter'>
         <ul>
             <li><b>Name</b>: {yourName}</li>
-            <li><b>Birthday</b> (Year / Month / Day): {yourBirthYear} / {calculateMonth(yourBirthMonth)} / {yourBirthDay}, <abbr title={calculateAgeSay+` Years old`}>({calculateAgeSay})</abbr></li>
+            <li><b>Birthday</b> (Year / Month / Day): {yourBirthYear} / {calculateMonth(yourBirthMonth)} / {yourBirthDay}, <abbr title={calculateAgeSay+` Years old ${birthAlternateCalculate?`(predictably)`:``}`}>({calculateAgeSay})</abbr></li>
             <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li>
             <li><b>Location</b>: {yourLocation}</li>
             <li><b>Blood Type</b>: {calculateBloodType(yourBloodType,yourBloodRh)}</li>
