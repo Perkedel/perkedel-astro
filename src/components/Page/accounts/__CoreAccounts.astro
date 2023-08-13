@@ -36,7 +36,9 @@ export interface Props{
     triviaLists?:Array<string>;
     relationshipLists?:Array<Array<string>>;
     galleryLists?:Array<Array<string>>;
-    
+    birthAlternateCalculate?:boolean;
+    asOfYear?:int;
+    myAgeWasThisThatYear?:int;
 }
 
 // Add these yourself!
@@ -72,6 +74,9 @@ const{
     triviaLists = [`Empty Trivia`],
     galleryLists = [[``,``]],
     relationshipLists = [[``,``]],
+    birthAlternateCalculate = false,
+    asOfYear = -1,
+    myAgeWasThisThatYear = -1,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- 
@@ -111,6 +116,9 @@ rel="noopener noreferrer"
             authorImgSrc={photoURL}
             yourBloodType={bloodType}
             yourBloodRh={bloodRh}
+            birthAlternateCalculate = {birthAlternateCalculate}
+            asOfYear = {asOfYear}
+            myAgeWasThisThatYear = {myAgeWasThisThatYear}
         >
             <slot name='StatQuote'>
                 

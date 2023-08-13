@@ -14,6 +14,9 @@ export interface Props{
     isFictional?:boolean;
     yourBloodType?:int;
     yourBloodRh?:boolean;
+    birthAlternateCalculate?:boolean;
+    asOfYear?:int;
+    myAgeWasThisThatYear?:int;
 }
 
 const{
@@ -33,6 +36,9 @@ const{
     isFictional = true,
     yourBloodType = -1,
     yourBloodRh = false,
+    asOfYear = -1,
+    myAgeWasThisThatYear = -1,
+    birthAlternateCalculate = false,
 }= Astro.props.frontmatter || Astro.props as Props;
 
 let altTitleSay = `${yourUsername}${authorImgIsOwnering?`'s`:``} ${authorImgNoun !== ``?authorImgNoun:`photo`}`;
@@ -124,12 +130,14 @@ function calculateMonth(from:int):string{
 }
 
 function calculateAge():int{
-    if (yourBirthYear < 0 || yourBirthMonth < 0 || yourBirthDay < 0)
+    if ((birthAlternateCalculate? (myAgeWasThisThatYear < 0 || asOfYear < 0) : yourBirthYear < 0) || yourBirthMonth < 0 || yourBirthDay < 0)
         return -1;
+
+    // DO NOT VARIABLIZE ALTERNATIVE DEDUCTIVE AGE CALCULATION!!! A Malware can snatch the full year from the result!
     
     // https://stackoverflow.com/a/7091965
     let todayIs = Date.now()
-    let age = todayIs.getFullYear() - yourBirthYear;
+    let age = todayIs.getFullYear() - (birthAlternateCalculate? (asOfYear - myAgeWasThisThatYear) : yourBirthYear);
     let m = todayIs.getMonth() - yourBirthMonth;
     if (m < 0 || (m === 0 && today.getDate() < yourBirthDay)) {
         age--;
