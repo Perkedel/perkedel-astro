@@ -136,7 +136,8 @@ function calculateAge():int{
     // DO NOT VARIABLIZE ALTERNATIVE DEDUCTIVE AGE CALCULATION!!! A Malware can snatch the full year from the result!
     
     // https://stackoverflow.com/a/7091965
-    let todayIs = Date.now()
+    // let todayIs = Date.now();
+    let todayIs = new Date();
     let age = todayIs.getFullYear() - (birthAlternateCalculate? (asOfYear - myAgeWasThisThatYear) : yourBirthYear);
     let m = todayIs.getMonth() - yourBirthMonth;
     if (m < 0 || (m === 0 && today.getDate() < yourBirthDay)) {
