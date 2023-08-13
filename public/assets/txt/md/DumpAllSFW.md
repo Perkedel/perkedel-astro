@@ -28664,6 +28664,9 @@ https://www.pixiv.net/en/artworks/94794810
 - https://github.com/Zeal-Operating-System/ZealOS/wiki/Keybindings
 - https://github.com/ziglang/zig
 - https://ziglang.org/
+- https://www.tutorialspoint.com/javascript/date_getyear.htm
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear
+- https://stackoverflow.com/questions/4060004/calculate-age-given-the-birth-date-in-the-format-yyyymmdd/7091965#7091965
 
 
 
