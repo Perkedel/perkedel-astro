@@ -25,7 +25,7 @@ const robotTxtExtraSays = `
 export default defineConfig({
     site: 'https://perkedel.netlify.app/',
     experimental: {
-        viewTransitions: true,
+        viewTransitions: false,
     },
     integrations: [
         mdx({
