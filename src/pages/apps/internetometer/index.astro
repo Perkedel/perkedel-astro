@@ -4,6 +4,7 @@ import ButtonizedLink from '../../../components/ButtonizedLink.astro'; // it has
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
+import InternetOMeter from '@components/Icons/InternetOMeter.astro';
 ---
 <Layout title="Internet-O-meter" description="Perkedel NTLF+ASTR. Give JOELwindows7 from Perkedel an `Internet` " keywords="tech, fun, novelty, open source, gratis, free, internet, fun, widget, donate, just for fun, internetometer,internet,o,meter,internet-o-meter">
     <h1>Internetometer!</h1>
@@ -12,9 +13,11 @@ import Emoji from 'astro-emoji';
         
         <h2>Try me!</h2>
             <h3>Rectangle</h3>
-                <a href='https://internetometer.com/give/42554' target="_blank" rel="noopener noreferrer"><img src='https://internetometer.com/image/42554.png'/></a>
+                <!-- <a href='https://internetometer.com/give/42554' target="_blank" rel="noopener noreferrer"><img src='https://internetometer.com/image/42554.png'/></a> -->
+                <InternetOMeter id='42554' design='rectangle'/>
             <h3>Square</h3>
-                <a href='https://internetometer.com/give/42554' target="_blank" rel="noopener noreferrer"><img src='https://internetometer.com/imagesmall/42554.png'/></a>
+                <!-- <a href='https://internetometer.com/give/42554' target="_blank" rel="noopener noreferrer"><img src='https://internetometer.com/imagesmall/42554.png'/></a> -->
+                <InternetOMeter id='42554' design='square'/>
         <h2>You can have your own internetometer!</h2>
             <p>Simply register at <a href="https://internetometer.com" target="_blank" rel="noopener noreferrer">https://internetometer.com</a> for $0 & go crazy! Implement anywhere you'd like.</p>
             <p>Remember folks, just for fun! Never force ask or sponsor click give "<i>internet points</i>" yess! & avoid vandalism, only implement on your own site or profile or yeah. idk..</p>

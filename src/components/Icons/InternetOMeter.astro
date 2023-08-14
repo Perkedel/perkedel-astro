@@ -1,0 +1,24 @@
+---
+export interface Props{
+    id?:string;
+    design?:string;
+}
+
+const{
+    id='42554',
+    design='rectangle',
+} = Astro.props.frontmatter || Astro.props as Props;
+
+let modifier:string = 'image';
+switch(design){
+    case 'square':
+        modifier='imagesmall';
+        break;
+    case 'rectangle':
+        modifier='image';
+        break;
+    default:
+        break;
+}
+---
+<a href={`https://internetometer.com/give/${id}`} target="_blank" rel="noopener noreferrer"><img src={`https://internetometer.com/${modifier}/${id}.png`} transition:name={`internetOMeter-${id}-${design}`}'/></a>
