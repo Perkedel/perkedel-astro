@@ -42,11 +42,13 @@ const { Content } = await entry.render();
     {nsfw?
         <Content />
         :
+        <Fragment>
         {entry.data.isNSFW?
             <MaturePostCantShowHere/>
             :
             <Content />
         }
+        </Fragment>
     }
 
 </LayoutMDX>
