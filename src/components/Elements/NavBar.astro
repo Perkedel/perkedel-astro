@@ -52,7 +52,7 @@ const {
 
             <ul id="navMoreList" class="dropdown-content">
                 <slot name="CustomNavMore"/>
-                <li><SettingWindow handoverTitle={handoverTitle}><slot name="SettingContains"/><slot name="SettingListCells"/></SettingWindow></li>
+                <li><SettingWindow handoverTitle={handoverTitle} transition:persist><slot name="SettingContains"/><slot name="SettingListCells"/></SettingWindow></li>
                 <li><RefreshButton Classer="NavBtn"/></li>
                 <!-- <li><CopyToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li> -->
                 <li><CopyURLToClipboardButton Classer="NavBtn" title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li>
