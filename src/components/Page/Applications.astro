@@ -1,0 +1,49 @@
+---
+import Layout from '@components/Layout.astro';
+import CorePage from './__CorePage.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import IPFSFail from '../../components/Messages/IPFSfail.astro'
+import AppListOwn from '../../components/Elements/AppListOwn.astro';
+import AppListSomeone from '../../components/Elements/AppListSomeone.astro';
+import { Icon, Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import ListCells3DModelSFW from '@components/Elements/SparePart/ListCells3DModelSFW.astro';
+import ListCells3DModelNSFW from '@components/Elements/SparePart/ListCells3DModelNSFW.astro';
+import SoughtAfterCells3DModelsSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsSFW.astro';
+import SoughtAfterCells3DModelsNSFW from '@components/Elements/SparePart/SoughtAfterCells3DModelsNSFW.astro';
+import PlsReupload3DModels from '@components/Elements/SparePart/plsReupload3DModels.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
+import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+
+
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const addDescriptions='Applications do we have here in Perkedel ASTR';
+const addKeywords='';
+const addHeaderTitle='Applications';
+const addMetaTitle='Applications';
+const author='JOELwindows7;';
+const disableOverwhelmStatement=false;
+const noNeedNSFW=true;
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    >
+    <h2>In site 🗂️ (Perkedel's pages)</h2>
+    <AppListOwn nsfw={nsfw}/>
+    <h2>Out site ↗️ (Somebody's pages)</h2>
+    <AppListSomeone nsfw={nsfw}/>
+</CorePage>

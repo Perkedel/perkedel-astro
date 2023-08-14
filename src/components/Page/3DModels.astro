@@ -17,14 +17,20 @@ import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningO
 
 export interface Props{
     nsfw?:Boolean;
-    addDescriptions?:string;
-    addKeywords?:string;
+    // addDescriptions?:string;
+    // addKeywords?:string;
 }
+
+const addDescriptions='Blendered 3D Models & Other 3D Models!';
+const addKeywords='3D, models, blender, free 3d models, blend, 3d modeling, modeling';
+const addHeaderTitle='3D Models Pls';
+const addMetaTitle='3D Models';
+const author='JOELwindows7;';
 
 const{
     nsfw=false,
-    addDescriptions='3D Models',
-    addKeywords='3D, models, blender, free 3d models, blend, 3d modeling, modeling'
+    // addDescriptions='3D Models',
+    // addKeywords='3D, models, blender, free 3d models, blend, 3d modeling, modeling'
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- title="3D Models" 
@@ -35,11 +41,11 @@ const{
 <!-- DONE: migrate this entire page to a new one & with scripts like CSS & Cardiophile -->
 <CorePage
     nsfw={nsfw}
-    addKeywords='3D, models, blender, free 3d models, blend'
-    addDescriptions='Blendered 3D Models & Other 3D Models!'
-    addHeaderTitle='3D Models Pls'
-    addMetaTitle='3D Models'
-    author='JOELwindows7'
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
     >
     <!-- <h1>3D Models Pls ({nsfw?"FULL":"LITE"} VERSION)</h1> -->
         <p>Blender, FBX, Humanoids, Sculpts, etc.</p>
