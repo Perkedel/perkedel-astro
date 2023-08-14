@@ -1,10 +1,15 @@
-import rss from '@astrojs/rss';
+import rss, {
+    pagesGlobToRssItems
+} from '@astrojs/rss';
 // https://docs.astro.build/en/guides/rss/#generating-itemseG stomlist of `<item>`s in output xml
 import { getCollection } from "astro:content";
 
 // was export const get = () => rss({})
 export async function get() {
-    let metaGlob = await import.meta.glob('./**/*.mdx');
+    // let metaGlob = await import.meta.glob('./**/*.mdx');
+    let metaGlob = await pagesGlobToRssItems(
+        import.meta.glob('./blog/*.{md,mdx}'),
+    );
     let posts = await getCollection('posts');
     let mergo = {...metaGlob, ... posts};
     let installPost = posts.map((post) => ({

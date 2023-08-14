@@ -1,4 +1,6 @@
-import rss from '@astrojs/rss';
+import rss, {
+    pagesGlobToRssItems
+} from '@astrojs/rss';
 // https://docs.astro.build/en/guides/rss/#generating-itemseG stomlist of `<item>`s in output xml
 import { getCollection } from "astro:content";
 
