@@ -19,7 +19,7 @@
     },
     "dependencies": {
         "@astro-github-elements/time": "^0.1.1",
-        "@astrojs/mdx": "^0.19.6",
+        "@astrojs/mdx": "^0.19.7",
         "@astrojs/partytown": "^1.0.1",
         "@astrojs/prefetch": "^0.1.0",
         "@astrojs/rss": "^1.0.3",
