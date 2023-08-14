@@ -8,7 +8,7 @@ import { getCollection } from "astro:content";
 export async function get() {
     // let metaGlob = await import.meta.glob('./**/*.mdx');
     let metaGlob = await pagesGlobToRssItems(
-        import.meta.glob('./blog/*.{md,mdx}'),
+        import.meta.glob('./**/*.{md,mdx}'),
     );
     let posts = await getCollection('posts');
     let mergo = {...metaGlob, ... posts};
