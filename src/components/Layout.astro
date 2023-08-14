@@ -453,15 +453,16 @@ const {
   }
   
   <!-- SCRIPT FINALLY -->
+  <!-- client:idle client:visble client directive no longer available to scripts -->
   {noScripts?'':<Fragment>
     <!-- Toastify https://apvarun.github.io/toastify-js/ -->
-    <script is:inline client:idle type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script is:inline type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
 
     <!-- MailtoUI https://mailtoui.com/ -->
-    <script is:inline client:visible src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
+    <script is:inline src="https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js"></script>
 
     <!-- Loud Links https://mahdif.github.io/loud-links/ -->
-    <script is:inline client:visible src="https://mahdif.github.io/loud-links/js/loudlinks.min.js"></script>
+    <script is:inline src="https://mahdif.github.io/loud-links/js/loudlinks.min.js"></script>
 
     <!-- Check undefined before our script is run -->
     <UndefinedCheckersAfter/>
