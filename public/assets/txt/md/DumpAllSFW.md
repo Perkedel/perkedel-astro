@@ -28667,6 +28667,14 @@ https://www.pixiv.net/en/artworks/94794810
 - https://www.tutorialspoint.com/javascript/date_getyear.htm
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getFullYear
 - https://stackoverflow.com/questions/4060004/calculate-age-given-the-birth-date-in-the-format-yyyymmdd/7091965#7091965
+- https://docs.netlify.com/site-deploys/split-testing/?_gl=1%2a1ilay6u%2a_gcl_au%2aMzYyNDEzMzkxLjE2OTE1NDk2MDE.&_ga=2.150117236.353735432.1691931563-555315780.1691549604
+- https://www.npmjs.com/package/@astrojs/mdx
+- https://github.com/withastro/astro/issues/7302
+- https://github.com/withastro/astro/issues?q=is%3Aissue+mdx++argument+path+
+- https://astro.build/
+- https://astro.build/showcase/
+- https://docs.astro.build/en/guides/markdown-content/#the-content-component
+- https://docs.astro.build/en/guides/view-transitions/#overview
 
 
 
