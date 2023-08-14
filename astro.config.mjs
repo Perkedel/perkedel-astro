@@ -24,6 +24,9 @@ const robotTxtExtraSays = `
 // https://astro.build/config
 export default defineConfig({
     site: 'https://perkedel.netlify.app/',
+    experimental: {
+        viewTransitions: true,
+    },
     integrations: [
         mdx({
 
@@ -84,8 +87,5 @@ export default defineConfig({
 
             // ...
         ]
-    },
-    experimental: {
-        viewTransitions: true,
-    },
+    }
 });
