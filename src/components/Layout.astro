@@ -13,6 +13,7 @@ import UndefinedCheckers from './Elements/SparePart/UndefinedCheckers.astro';
 import UndefinedCheckersAfter from './Elements/SparePart/UndefinedCheckersAfter.astro';
 import MSClarity from './Elements/SparePart/Spywares/MSClarity.astro';
 import ImplementArchiveAnnoyingAdSpace from './Elements/SparePart/AnnoyingAdSpace/ImplementArchiveAnnoyingAdSpace.astro';
+import { ViewTransitions } from 'astro:transitions';
 // import 'https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'
 // import 'https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'
 // import '../style/style.css';
@@ -353,6 +354,7 @@ const {
 
   <MSClarity ejectClarity={ejectClarity}/>
 
+  <ViewTransitions />
 </head>
 <!-- BODY AT BELOW -->
 <!-- BODY AT BELOW -->
