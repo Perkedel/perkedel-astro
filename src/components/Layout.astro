@@ -96,6 +96,8 @@ export interface Props {
   textColorLight?:string;
   bg?:string;
   bgLight?:string;
+  selectHeader?:string;
+  customHeader?:boolean;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -174,6 +176,8 @@ const {
   textColorLight = 'black',
   bg = 'black',
   bgLight = 'white',
+  selectHeader = 'perkedel',
+  customHeader = false,
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -403,7 +407,8 @@ const {
 <!-- <body BackgroundColor={bgColor} TextColor={textColor} Background={bg}> -->
 <body data-background={bg} data-textcolor={textColor} data-background-light={bgLight} data-textcolor-light={textColorLight}>
   <!-- HEADER -->
-  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav}>
+  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav} customHeader={customHeader} selectHeader={selectHeader}>
+    <slot name="myHeadering" slot="myHeadering"/>
     <slot name="SettingContains" slot="SettingContains"/>
   </Headering>
 
@@ -422,7 +427,7 @@ const {
   <!-- (MAIN IS HERE) -->
   <!-- (MAIN IS HERE) -->
   <!-- MAIN -->
-  <main transition:animate="slide">
+  <main transition:animate="morph">
     <!-- <slot /> -->
     <slot>
       <h1><i>Content Empty</i></h1>

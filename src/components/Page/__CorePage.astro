@@ -30,6 +30,8 @@ export interface Props{
     skipHeader?:boolean;
     skipNav?:boolean;
     skipFooter?:boolean;
+    selectHeader?:string;
+    customHeader?:boolean;
 }
 
 const{
@@ -45,6 +47,8 @@ const{
     skipHeader = false,
     skipNav = false,
     skipFooter = false,
+    selectHeader = 'perkedel',
+    customHeader = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <Layout
@@ -56,16 +60,31 @@ const{
     skipHeader={skipHeader}
     skipNav={skipNav}
     skipFooter={skipFooter}
+    customHeader={customHeader}
+    selectHeader={customHeader}
     >
+    <slot name="myHeadering" slot="myHeadering"/>
+    <slot name="SettingContains" slot="SettingContains"/>
     <!-- <h1>{addHeaderTitle} {noNeedNSFW?"":"("+(nsfw?"FULL":"LITE")+" VERSION)"}</h1> -->
-    <h1><slot name='TitlePre'/><Fragment set:html={addHeaderTitle}/><slot name='TitleExtra'/><Fragment set:html={(noNeedNSFW?"":" ("+(nsfw?"FULL":"LITE")+" VERSION)")}/><slot name='TitleAfter'/></h1>
+    <h1>
+        <slot name='TitlePre'/>
+        <Fragment set:html={addHeaderTitle}/>
+        <slot name='TitleExtra'/>
+        <Fragment set:html={(noNeedNSFW?"":" ("+(nsfw?"FULL":"LITE")+" VERSION)")}/>
+        <slot name='TitleAfter'/>
+    </h1>
         {disableOverwhelmStatement?"":<KolmoIsOverwhelmed/>}
         <slot>
             <p class="error"><i>Empty content!!!</i></p>
         </slot>
-        {noNeedNSFW?"":(
-            nsfw?"":
-            <EnterNSFWButton detachedGenital={detachedGenital}/>
+        {noNeedNSFW?
+            ""
+        :
+            (
+            nsfw?
+                ""
+            :
+                <EnterNSFWButton detachedGenital={detachedGenital}/>
             )
         }
         <slot name="afterNSFWBar"/>

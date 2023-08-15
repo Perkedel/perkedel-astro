@@ -12,6 +12,8 @@ export interface Props {
   nsfwConfirmation?:Boolean;
   skipHeader?:boolean;
   skipNav?:boolean;
+  selectHeader?:string;
+  customHeader?:boolean;
 }
 // let currJustAddr = 'https://perkedel.netlify.app'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let currJustAddr = Astro.url.origin+'/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
@@ -26,6 +28,8 @@ const {
   nsfwConfirmation = false,
   skipHeader = false,
   skipNav = false,
+  selectHeader = 'perkedel',
+  customHeader = false,
   } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- HEADER & NAV
@@ -55,10 +59,24 @@ const {
       <header class="headering" id="headering" transition:persist>
         <!-- <h1><PerkedelWoosie/><a href="/">Perkedel NTLF+ASTR</a></h1> -->
         <!-- https://www.w3schools.com/tags/tag_hn.asp css of it pls -->
-        <p style="font-size: 2em; font-weight: bold;"><a href="/"><PerkedelWoosie/>Perkedel NTLF+ASTR</a> 
-          {(rating.includes('adult') || nsfw)?
-          <Icon style="color:red;" title="You are in an NSFW page" height="48px" name="gg:pill" />:""}
-        </p>
+        {customHeader?
+          <slot name='myHeadering'>
+            
+          </slot>
+          :
+          <Fragment>
+            <p style="font-size: 2em; font-weight: bold;">
+              <a href="/">
+                <PerkedelWoosie/>Perkedel NTLF+ASTR
+              </a> 
+              {(rating.includes('adult') || nsfw)?
+                <Icon style="color:red;" title="You are in an NSFW page" height="48px" name="gg:pill" />
+              :
+                ""
+              }
+            </p>
+          </Fragment>
+        }
       </header>
       <Fragment> 
         <hr class="headeringHr"/>
