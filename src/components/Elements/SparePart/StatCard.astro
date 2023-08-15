@@ -151,7 +151,7 @@ let calculateAgeSay:string = calculatedAge > 0? calculatedAge.toString(): 'Unkno
 ---
 <div class='row BioLinkStatCard'>
     <div class='column colLeft'>
-        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={altTitleSay} title={altTitleSay}/>
+        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={altTitleSay} title={altTitleSay} transition:name={`ProfilePic-@${username}`}/>
     </div>
     <div class='column colVertCenter'>
         <ul>
