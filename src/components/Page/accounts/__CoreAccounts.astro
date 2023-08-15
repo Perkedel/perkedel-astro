@@ -39,6 +39,7 @@ export interface Props{
     birthAlternateCalculate?:boolean;
     asOfYear?:int;
     myAgeWasThisThatYear?:int;
+    useCustomImgSrc?:boolean;
 }
 
 // Add these yourself!
@@ -77,6 +78,7 @@ const{
     birthAlternateCalculate = false,
     asOfYear = -1,
     myAgeWasThisThatYear = -1,
+    useCustomImgSrc = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- 
@@ -119,6 +121,7 @@ rel="noopener noreferrer"
             birthAlternateCalculate = {birthAlternateCalculate}
             asOfYear = {asOfYear}
             myAgeWasThisThatYear = {myAgeWasThisThatYear}
+            useCustomImgSrc = {useCustomImgSrc}
         >
             <slot name='StatQuote'>
                 

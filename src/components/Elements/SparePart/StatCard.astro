@@ -17,12 +17,14 @@ export interface Props{
     birthAlternateCalculate?:boolean;
     asOfYear?:int;
     myAgeWasThisThatYear?:int;
+    useCustomImgSrc?:boolean;
 }
 
 const{
     nsfw=false,
     // author='???',
     authorSauce='https://example.com',
+    useCustomImgSrc=false,
     authorImgSrc=`/assets/img/mavrickle.png`,
     authorImgIsOwnering=true,
     authorImgNoun=`photo`,
@@ -148,10 +150,12 @@ function calculateAge():int{
 }
 let calculatedAge = calculateAge();
 let calculateAgeSay:string = calculatedAge > 0? calculatedAge.toString(): 'Unknown';
+let predefinedImgSrcUrl:string = `/assets/img/ProfilePic/@${yourUsername}.png`;
+let customImgSrcUrl:string = authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`;
 ---
 <div class='row BioLinkStatCard'>
     <div class='column colLeft'>
-        <img width="75%" class="SpecialityImageWide" class='' src={authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/assets/img/mavrickle.png`} alt={altTitleSay} title={altTitleSay} transition:name={`ProfilePic-@${yourUsername}`}/>
+        <img width="75%" class="SpecialityImageWide" class='' src={useCustomImgSrc?customImgSrcUrl:predefinedImgSrcUrl} alt={altTitleSay} title={altTitleSay} transition:name={`ProfilePic-@${yourUsername}`}/>
     </div>
     <div class='column colVertCenter'>
         <ul>
