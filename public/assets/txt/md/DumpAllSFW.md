@@ -28677,6 +28677,7 @@ https://www.pixiv.net/en/artworks/94794810
 - https://docs.astro.build/en/guides/view-transitions/#overview
 - https://docs.netlify.com/site-deploys/split-testing/
 - https://docs.astro.build/en/guides/view-transitions/#overview
+- https://docs.astro.build/en/reference/api-reference/#astroglob
 
 
 
