@@ -22,7 +22,7 @@ export interface Props{
 
 const{
     nsfw=false,
-    profiles=[[".","Empty"]]
+    profiles=[[".","Empty","/assets/img/mavrickle.png"]]
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <CorePage
@@ -38,7 +38,12 @@ const{
     <ul>
         {
             profiles.map(profile=>(
-                <li><img src={profile[2]} alt={`${profile[1]}'s Profile Pic`} height='12px' transition:name={`ProfilePic-${profile[1]}`}/><ButtonizedLink href={profile[0]}><Icon height="24px" name="mdi:person-card-details" /> {profile[1]}</ButtonizedLink></li>
+                <li>
+                    <ButtonizedLink href={profile[0]}>
+                        <img src={profile[2]} alt={`${profile[1]}'s Profile Pic`} height='32px' transition:name={`ProfilePic-${profile[1]}`}/>
+                        <Icon height="24px" name="mdi:person-card-details" /> {profile[1]}
+                    </ButtonizedLink>
+                </li>
             )
             )
         }

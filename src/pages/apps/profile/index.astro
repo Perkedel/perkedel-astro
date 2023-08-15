@@ -10,7 +10,7 @@ for(let i=0; i < profiles.length; i++){
     profSays[i] = [
         profiles[i].url || "",
         (profiles[i].url || "/apps/profile/???").substring("/apps/profile/".length),
-        profiles[i].photoURL || "/assets/img/mavrickle.png",
+        profiles[i].props.photoURL || "/assets/img/mavrickle.png",
     ]
 }
 ---
