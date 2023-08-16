@@ -28682,6 +28682,15 @@ https://www.pixiv.net/en/artworks/94794810
 - https://www.w3schools.com/css/css3_animations.asp
 - https://docs.astro.build/en/guides/view-transitions/#built-in-animation-directives
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations
+- https://www.truenas.com/docs/core/gettingstarted/corehardwareguide/
+- https://www.westerndigital.com/products/data-center-storage/data-center-platforms
+- https://www.truenas.com/docs/solutions/migratingtotruenas/
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy
+- https://rclone.org/
+- https://rclone.org/
+- https://github.com/rclone/rclone
+- https://rclone.com/
+- https://youtu.be/DyJzBTAkiJE
 
 
 
