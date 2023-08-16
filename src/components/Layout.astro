@@ -98,6 +98,7 @@ export interface Props {
   bgLight?:string;
   selectHeader?:string;
   customHeader?:boolean;
+  addHeaderingClass?:string;
 }
 
 // https://www.w3schools.com/js/js_window_location.asp
@@ -178,6 +179,7 @@ const {
   bgLight = 'white',
   selectHeader = 'perkedel',
   customHeader = false,
+  addHeaderingClass = '',
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -407,7 +409,7 @@ const {
 <!-- <body BackgroundColor={bgColor} TextColor={textColor} Background={bg}> -->
 <body data-background={bg} data-textcolor={textColor} data-background-light={bgLight} data-textcolor-light={textColorLight}>
   <!-- HEADER -->
-  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav} customHeader={customHeader} selectHeader={selectHeader}>
+  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav} customHeader={customHeader} selectHeader={selectHeader} addHeaderingClass={addHeaderingClass}>
     <slot name="myHeadering" slot="myHeadering"/>
     <slot name="SettingContains" slot="SettingContains"/>
   </Headering>

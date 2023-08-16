@@ -32,6 +32,7 @@ export interface Props{
     skipFooter?:boolean;
     selectHeader?:string;
     customHeader?:boolean;
+    addHeaderingClass?:string;
 }
 
 const{
@@ -49,6 +50,7 @@ const{
     skipFooter = false,
     selectHeader = 'perkedel',
     customHeader = false,
+    addHeaderingClass = '',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <Layout
@@ -62,6 +64,7 @@ const{
     skipFooter={skipFooter}
     customHeader={customHeader}
     selectHeader={customHeader}
+    addHeaderingClass={addHeaderingClass}
     >
     <slot name="myHeadering" slot="myHeadering"/>
     <slot name="SettingContains" slot="SettingContains"/>
