@@ -429,7 +429,7 @@ const {
   <!-- (MAIN IS HERE) -->
   <!-- (MAIN IS HERE) -->
   <!-- MAIN -->
-  <main transition:animate="morph">
+  <main transition:animate="fade">
     <!-- <slot /> -->
     <slot>
       <h1><i>Content Empty</i></h1>
@@ -475,7 +475,7 @@ const {
     <UndefinedCheckersAfter/>
 
     <!-- Lastly, the main -->
-    <script is:global src="/main.js"></script>
+    <script is:inline src="/main.js"></script>
     <!-- <script is:inline src="/extra.js">
     </script> -->
     <slot name="afterMainScript"/>

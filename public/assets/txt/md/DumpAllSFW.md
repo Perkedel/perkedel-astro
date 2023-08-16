@@ -28678,6 +28678,10 @@ https://www.pixiv.net/en/artworks/94794810
 - https://docs.netlify.com/site-deploys/split-testing/
 - https://docs.astro.build/en/guides/view-transitions/#overview
 - https://docs.astro.build/en/reference/api-reference/#astroglob
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations
+- https://www.w3schools.com/css/css3_animations.asp
+- https://docs.astro.build/en/guides/view-transitions/#built-in-animation-directives
+- https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations
 
 
 
