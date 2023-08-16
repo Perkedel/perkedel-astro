@@ -5,6 +5,7 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import ListKnownCanon from '@components/Elements/SparePart/ListKnownCanon.astro';
+import DifferenceMLvsCHDK from '@components/Messages/DifferenceMLvsCHDK.astro';
 ---
 <Layout 
     title="Camera hacks! Canon Magic Lantern, CHDK, & Stuffs" 
@@ -16,6 +17,7 @@ import ListKnownCanon from '@components/Elements/SparePart/ListKnownCanon.astro'
         <h2>List of Known cameras</h2>
             <h3>Canon</h3>
                 <p>Here Canon</p>
+                <DifferenceMLvsCHDK/>
                 <ListKnownCanon/>
             <h3>GoPro</h3>
                 <p>Here GoPro</p>
@@ -34,6 +36,7 @@ import ListKnownCanon from '@components/Elements/SparePart/ListKnownCanon.astro'
                     </ul>
             <h3>Magic Lantern</h3>
                 <p>for EOS firmwares (except EOS M that uses Powershot / IXUS firmware)</p>
+                <DifferenceMLvsCHDK/>
                     <ul>
                         <!-- Magic Lantern -->
                         <li><ButtonizedLink href="https://en.wikipedia.org/wiki/List_of_Canon_products" target="_blank" rel="noopener noreferrer">Wikipedia: List of Canon products</ButtonizedLink> (English version)</li>
@@ -244,6 +247,7 @@ import ListKnownCanon from '@components/Elements/SparePart/ListKnownCanon.astro'
                     </ul>
             <h3>CHDK</h3>
                 <p>for PowerShot IXUS firmwares (including EOS M with PowerShot / IXUS firmware)</p>
+                <DifferenceMLvsCHDK/>
                     <ul>
                         <!-- CHDK -->
                         <li><ButtonizedLink href="https://chdk.fandom.com/" target="_blank" rel="noopener noreferrer">CHDK (Canon Hack Dev Kit)</ButtonizedLink> Canon PowerShot & IXUS (including EOS with PowerShot firmware)</li>

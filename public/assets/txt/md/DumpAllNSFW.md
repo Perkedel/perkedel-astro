@@ -3081,6 +3081,18 @@
 - https://youtu.be/Pf2MCoiqzAY
 - https://twitter.com/kinomiki_/status/1688882815314849792?t=GZxfyvKdpza4tBXaLWYpoQ&s=19
 - https://twitter.com/kinomiki_/status/1688882815314849792?t=GZxfyvKdpza4tBXaLWYpoQ&s=19
+- lemme ask fnf mod will ya?!??!
+- https://kemono.party/patreon/user/69010080
+- https://kemono.party/patreon/user/69010080/post/62184441
+- https://twitter.com/rickyramsteam/status/1490619336431706114
+- https://www.patreon.com/posts/62184620
+- https://twitter.com/rickyramsteam/status/1490234998464696320
+- https://rickyramsteam.gumroad.com/
+- https://www.patreon.com/posts/public-now-lemme-62638867
+- https://www.patreon.com/posts/62227823
+- https://twitter.com/RickyRamSteam/status/1493936197353324549?s=20
+- https://gamebanana.com/mods/384801 this SFW hack is not offical
+- finish lemme ask
 
 
 

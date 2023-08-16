@@ -1,0 +1,19 @@
+---
+import MessageBoxTemplate from "./MessageBoxTemplate.astro";
+---
+<MessageBoxTemplate
+    severity={0}
+    paragraphTitle={true}
+    headingTitle={"What's the difference between CHDK & MagicLantern??"}
+    detailSummary={"They are different, both for Canon, But difference is in firmware!"}
+    opens={true}
+    >
+    <p lang="en">
+        Both CHDK & ML are targeted for Canon Cameras. But these two are for different firmware types.<br/>
+        You see, Canon cameras have 2 types. there are <b>DSLR</b> & <b>Pocket</b>. <br/>
+    </p>
+    <ul>
+        <li>DSLR. These camera will use <b>MagicLantern</b>. Cameras such as every EOS, M (except M that runs PowerShot firmware), and newly released R the mirrorless.</li>
+        <li>Pocket. These camera will use <b>CHDK</b>. Cameras such as every PowerShot (including M that runs PowerShot firmware), IXUS.</li>
+    </ul>
+</MessageBoxTemplate>

@@ -1,6 +1,10 @@
 ---
 import LayoutEmbedGame from '@components/Layout/LayoutEmbedGame.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
 
 export interface Props{
     nsfw?:Boolean;
@@ -71,6 +75,15 @@ const{
     </p>
     <p>Hello, <a href='https://github.com/FunkinCrew/Funkin' target="_blank" rel="noopener noreferrer">Week 7 Source code uploaded</a>. Come check this out.<br/>
     Also, <a href={`https://twitter.com/ninja_muffin99/status/1617757337313505282?t=cEledHzXwq8ZsHAGHPFhVw&s=19`} target="_blank" rel="noopener noreferrer">resources</a>.. Oh yeah <a href='https://github.com/FunkinCrew/funkin-resources' target="_blank" rel="noopener noreferrer">This.</a>
+    </p>
+    <p>Somebody were looking <ButtonizedLink href='https://gamebanana.com/mods/384801' opensInNewTab={true}><code>lemme ask</code></ButtonizedLink> fnf mod in Google Search. Well, look what we got here. This is the first time I found a mod been paywalled, IF, there's <i>if</i> lookout, it is NSFW. Insane!!!</br>
+    the SFW version however is $0, the link is just up there I put it.<br/>
+    Well, they're out of luck, coz I've just sold the entire project to X0p1r4t3 Eenvreensment. Therefore any discretion now's up to X0p1r4t3, no longer under Van Elektronische.<br/>
+    <mark>OH WAIT NVM!!!</mark> The SFW version is not original!!! there is only NSFW!!!<br/>
+    <mark class='success'>EVEN BETTER!!!</mark> IT'S GRATIS, ON GUMROAD!!!
+    </p>
+    <p>
+        Patreon Name: <code>RickyRamSteam</code></br>
     </p>
     <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
 
