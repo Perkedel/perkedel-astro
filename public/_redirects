@@ -157,5 +157,6 @@
 /daFolder/* /apps/daFolder/:splat
 /dafolder/* /apps/daFolder/:splat
 /another/* /apps/another/:splat
+/another.html/* /apps/another/:splat
 /another_folder/* /apps/another_folder/:splat
 /no_script/* /apps/no_script
