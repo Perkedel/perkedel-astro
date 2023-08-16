@@ -435,8 +435,20 @@ a:visited:active {
 }
 
 header {
-    color: white;
+    /* color: white; */
     /* display: flex; */
+    /* flex-direction: row;
+    width: auto;
+    height: auto;
+    background-color: rgb(0, 35, 100);
+    justify-content: flex-start;
+    align-items: center;
+    padding:1em;
+    margin: 0; */
+}
+
+.PerkedelHeadering{
+    color: white;
     flex-direction: row;
     width: auto;
     height: auto;
