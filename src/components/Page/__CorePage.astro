@@ -33,6 +33,7 @@ export interface Props{
     selectHeader?:string;
     customHeader?:boolean;
     addHeaderingClass?:string;
+    noScripts?:boolean;
 }
 
 const{
@@ -51,6 +52,7 @@ const{
     selectHeader = 'perkedel',
     customHeader = false,
     addHeaderingClass = '',
+    noScripts = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <Layout
@@ -65,6 +67,7 @@ const{
     customHeader={customHeader}
     selectHeader={customHeader}
     addHeaderingClass={addHeaderingClass}
+    noScripts={noScripts}
     >
     <slot name="myHeadering" slot="myHeadering"/>
     <slot name="SettingContains" slot="SettingContains"/>
