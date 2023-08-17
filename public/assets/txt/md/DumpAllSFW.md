@@ -31189,6 +31189,11 @@ https://www.pixiv.net/en/artworks/94794810
 - The hard ship of us is no longer just because of the enemies we fight against. But also internally. Our own kind had departed and turned against us in greed of their own sake.
 - https://odysee.com/@lbry:3f/secvslbrysummaryjudgementruling:a?r=5QVnh7Qi8KKQzh7G7pWw9nkfaEGprCzM lose
 - https://odysee.com/@TheLinuxGamer:f/goodbye-odysee:f but people disliked it.
+- https://odysee.com/@DanVasc:a/i-give-up-making-videos:d?r=5QVnh7Qi8KKQzh7G7pWw9nkfaEGprCzM
+- It seems therefore impossible for us to be perfectly purely on motto. Then how about we add intentional infraction, so the gamers focus on that infraction, and would leave lesser amount of unintentional and worse infraction?
+- If agree, what it would be then? Har.. no.. not again. um..... Sparsdat Windows Product key!!!... no, still too obvious. what is it???
+- OH!!! Linux exclusive!!! Windows user must pay!!!............... Didn't we already discussed this before that this is discrimination? I know, it's to force gamers to use Linux want it or not.. but.. that's gonna be ain't different than what enforcing on the opposing sides.
+- ARGH we must have 1 infraction, who knows this prevent another and worse infraction we do not want!!!
 
 
 
