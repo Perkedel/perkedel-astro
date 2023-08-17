@@ -1,0 +1,20 @@
+---
+import MessageBoxTemplate from "./MessageBoxTemplate.astro";
+import ButtonizedLink from '@components/ButtonizedLink.astro';
+---
+<MessageBoxTemplate
+    severity={2}
+    paragraphTitle={true}
+    headingTitle={"(Notice from Admiral Zumi of X0p1r4t3) OpenYiff / Kemono Source Code statements"}
+    detailSummary={"It is now proprietary, not because of DMCA, but a greed"}
+    opens={true}
+    >
+    <p>X0p1r4t3 and affiliates, as the forefront of archival announces heartbreaking news from one of our peer that did their due diligence finding the reason for inaccessibility of <ButtonizedLink href='https://chan.kemono.party/kemono/res/28251.html' openInNewTab={true}>OpenYiff / Kemono source codes</ButtonizedLink>. It has been collected that the reason for this takedown is <u>nothing expected such as DMCA</u>, but rather, <mark class='error'>a greed</mark>. It has been a tremendously disappointing day, that Kemono is no longer Open Source, a.k.a. <b class='error'>proprietary</b>. Following are the sauces our peer had collected during the search:</p>
+    <ul>
+        <li><ButtonizedLink openInNewTab={true} href={`https://github.com/MaxSignal/yiff_archive`}>List of Kemono OpenYiff archived source codes in Submodulo</ButtonizedLink> MaxSignal</li>
+        <li><ButtonizedLink openInNewTab={true} href={`https://chan.kemono.party/kemono/res/28251.html`}>Discussion in Kemono.party Chan section</ButtonizedLink> </li>
+        <li><ButtonizedLink openInNewTab={true} href={`https://odysee.com/@X0P1R4T3-33NSVREENMNT-0FFICIAL/kbw03k`}>Reupload of last downloaded source code from the Chan discussion</ButtonizedLink> </li>
+    </ul>
+    <p>We will still continue preserve and fight against paywallism no matter what happen here in the world. The usage of the aforementioned tools above still continues until further information where the fate of such tool to be decided. Members will handle each topic accordingly. We expect for your cooperation during this hard ships. Thank you.</p>
+    <p>Salam X0p1r4t3.</p>
+</MessageBoxTemplate>

@@ -14,6 +14,7 @@ export interface Props {
     style?:string;
     id?:string;
     openInNewTab?:boolean;
+    opensInNewTab?:boolean;
     allowRefererNewTab?:boolean;
     defaultShowURL?:boolean;
 }
@@ -33,6 +34,7 @@ const {
     style,
     id,
     openInNewTab = false,
+    opensInNewTab = false,
     allowRefererNewTab = false,
     defaultShowURL = true,
 } = Astro.props as Props;
@@ -42,8 +44,8 @@ const {
     id={id} 
     style={style}
     class={"Buttonnize " + classe} 
-    target={(openInNewTab?"_blank ":"")+target} 
-    rel={'prefetch ' + rel + (openInNewTab?(allowRefererNewTab?"":" noopener noreferrer"): "")} 
+    target={(openInNewTab || opensInNewTab?"_blank ":"")+target} 
+    rel={'prefetch ' + rel + (openInNewTab || opensInNewTab?(allowRefererNewTab?"":" noopener noreferrer"): "")} 
     href={href} 
     title={title} 
     download={download}
