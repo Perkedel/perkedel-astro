@@ -19,17 +19,19 @@ export interface Props{
     nsfw?:boolean;
 }
 
-let detachedGenital = true;
-let noNeedNSFW = false;
+let detachedGenital:boolean = true;
+let noNeedNSFW:boolean = false;
 let addHeaderTitle = 'CHEAP & HIGH QUALITY BLENDER 3D MODEL & SCENE RENDER SERVICE';
 let addMetaTitle = 'CHEAP & HIGH QUALITY BLENDER 3D MODEL & SCENE RENDER SERVICE';
-let addKeywords = 'Blender, Commission, Render, Renderfarm, Contact us';
+let addKeywords:boolean = 'Blender, Commission, Render, Renderfarm, Contact us';
 let addDescriptions = 'Let us render your Blender file as high quality as possible, and sit back.';
-let skipHeader = false;
-let skipNav = false;
-let skipFooter = false;
-let disableOverwhelmStatement = true;
+let skipHeader:boolean = false;
+let skipNav:boolean = false;
+let skipFooter:boolean = false;
+let disableOverwhelmStatement:boolean = true;
 let author = 'JOELwindows7';
+
+let maxNumCommissionSlot:number = 8;
 
 const{
     nsfw = false,
@@ -56,6 +58,8 @@ const{
     <h2 id='orderNow'>What are you waiting for? ORDER NOW!!!</h2>
         <OrderRenderNow nsfw={nsfw}/>
         <p>Price goes up to 100K in <b>January 1st, 2024</b></p>
+    <h2>Why us?</h2>
+        <!-- comparison vs competitors -->
     <h2 id='discountSpecial'>SPECIAL EXCLUSIVE DISCOUNTS GIANT DEALS!!!</h2>
         <RenderDiscounts/>
     <h2 id='messageStatus'>Message Statuses</h2>
@@ -64,6 +68,7 @@ const{
             <!-- rule to obey -->
             <p><ButtonizedLink href='/terms_of_service' openInNewTab={true}>Read main Terms of Service</ButtonizedLink></p>
             <ul style='font-size:x-small;'>
+                <li style='font-size:1em;'>MAX COMMISSION SLOT = <b style='font-size:1.25em;'>{maxNumCommissionSlot}</b></li>
                 <li><mark>Charges Upfront!!</mark> Before you can have your render, the file will be previewed at lower resolution & with terrible capture ways, <b>absolutely free</b>. <br/>Once you are satisfied, We will start render in actual specs, then terrible preview of these files, <b>again, no charge yet</b>.<br/> Pay now and the render will be sent 1 to 1 to you.</li>
                 <li><mark class='warning'>No Refund once paid!</mark> You are agree that you are absolutely satified & will never dispute any transactions. In event of my disatisfaction on the later time, it is all faulty of the customer, and will not dispute any transaction.</li>
                 <li>Each file have each cost. So it's 50K, 50K, 50K, so on.<br/>
@@ -101,7 +106,7 @@ const{
                     3D Model & Scene File keeping:
                     <ul>
                         <li>Public 3D Model that is downloadable (whatever the license) will be kept forever <b>even after God sent us to the new universe</b>.<br/>
-                        If you privated the file now, the file will still be kept and <mark class='warning'>all just privated files will be reported to Admiral Zumi for further prosecutions</mark>.
+                        If you privated the file now, the file will still be kept and <mark class='warning'>all just privated files will be reported to Admiral Zumi for further prosecutions</mark>. So don't you dare mess with us. We all gamers can see your behaviour.
                         </li>
                         <li>Private 3D Model that is not downloadable (whatever the license) will be removed 15 days after transaction.<br/>
                         If you just made it downloadable, <mark class='warning'>There is no refund or any reimbursement post-transaction</mark>, while your file will be redownloaded and kept forever.
@@ -117,5 +122,12 @@ const{
                 <ul>
                     <li>Public Username. To track assets you have published on the internet & use these as an appreciation showcase if available.</li>
                     <li>Public Behaviour. How you set downloadability of your 3D Model & scenes & the licenses</li>
+                </ul>
+            <h4>Data Sold</h4>
+                <code>NULL</code>
+            <h4>Data Spread publicly for $0</h4>
+                <ul>
+                    <li>Public Username. Gamers wants to know who you are and show appreciations.</li>
+                    <li>Public Behaviour. Gamers would like to learn how to behave, as you are the great example. How to be humble. Gratis, Open Source, & FULL VERSION!!!</li>
                 </ul>
 </CoreMicrosite>

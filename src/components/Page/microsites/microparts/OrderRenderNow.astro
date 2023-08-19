@@ -46,12 +46,13 @@ Pay With = YOUR_PAYMENT_CHOICE, TRANSACTION_PROOF_PRINT_SCREENSHOT_URL
             <li><b><code>Files</code> (required, Array Strings)</b>. Your URL of the Blender 3D Model you would like for us to render this transaction.</li>
             <li><b><code>Discount Activator</code> (optional, Array Strings)</b>. Your URL of the Blender 3D Model you have for us to verify the discount for, <b>and no need to be rendered this transaction</b>. Read below under <a href='#discountSpecial'>Exclusive Discount Section</a> for the instruction.</li>
             <li><b><code>Username</code> (required, Strings)</b>. Your bucks cup name, to allow us give you exlusive special discounts. Also for showcase of appreciations if necessary.</li>
-            <li><b><code>Assignment Due Date</code> (optional, ISO Date)</b>. If your purpose of this business is for your assignment, please write your due date so we can prioritize as fast as we can. There will be warranty if the render somehow gone exceeding assignment due date.</li>
+            <li><b><code>Assignment Due Date</code> (optional, ISO Date)</b>. If your purpose of this business is for your assignment, please write your due date so we can prioritize as fast as we can. There will be warranty if the render somehow gone exceeding assignment due date. Be sure not to rush these transactions since there will be <b class='warning'>no refund once your money have arrived to us!</b></li>
+            <li><b><code>Pay With</code> (required, String Short & String)</b>. fill with Pay With ID below, comma, your URL of Screenshot of transaction proof (using upload here or other direct image file CDN). e.g. <code>JENIUS, https://example.com</code>.</li>
         </ul>
         <p>Accepted Payment Methods:</p>
         <ul>
-            <li><ButtonizedLink href='#'>Jenius: <code>$JOELwindows7</code></ButtonizedLink></li>
-            <li><ButtonizedLink href='https://paypal.me/JOELwindows7'>PayPal send cash</ButtonizedLink></li>
+            <li><ButtonizedLink href='#' openInNewTab={false}>Jenius: <code>$JOELwindows7</code></ButtonizedLink> Pay with ID = <code>JENIUS</code></li>
+            <li><ButtonizedLink href='https://paypal.me/JOELwindows7' openInNewTab={true}>PayPal send cash</ButtonizedLink> Pay with ID = <code>PAYPAL</code></li>
         </ul>
     </section>
 </div>
