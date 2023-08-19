@@ -241,7 +241,7 @@
 
                 <footer>
                     <hr/>
-                    <!-- <p title="(Static) Website compiled at datetime of..">&#xf5ef; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->
+                    <!-- <p title="(Static) Website compiled at datetime of..">&#xf00f0; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->
                     <p><img alt="Perkedel Icon" width="50em" src="/Perkedel_Icon.png"/> <font size = "12">Perkedel Technologies</font></p>
                     <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro</a></p>
                     <font size="2"><p>DISCLAIMER:</p>
