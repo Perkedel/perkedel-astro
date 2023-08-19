@@ -31194,6 +31194,27 @@ https://www.pixiv.net/en/artworks/94794810
 - If agree, what it would be then? Har.. no.. not again. um..... Sparsdat Windows Product key!!!... no, still too obvious. what is it???
 - OH!!! Linux exclusive!!! Windows user must pay!!!............... Didn't we already discussed this before that this is discrimination? I know, it's to force gamers to use Linux want it or not.. but.. that's gonna be ain't different than what enforcing on the opposing sides.
 - ARGH we must have 1 infraction, who knows this prevent another and worse infraction we do not want!!!
+- https://odysee.com/@stevesteacher:0
+- https://arstechnica.com/gaming/2023/08/youre-the-os-is-a-game-that-will-make-you-feel-for-your-poor-overworked-system/
+- https://drfreckles42.itch.io/youre-the-os become the OS yourself. Opposite day.
+- https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/
+- https://hackaday.com/2023/08/15/hackaday-prize-2023-parol6-a-gpl-desktop-robotic-arm/
+- https://hackaday.io/project/191860-parol6-desktop-robotic-arm
+- https://source-robotics.github.io/PAROL-docs/
+- https://youtu.be/PtrodykQybw
+- https://hackaday.com/2020/09/15/open-source-robotic-arm-for-all-purposes/
+- https://hackaday.com/2023/02/14/how-home-made-robot-arms-used-to-be-made/
+- https://dataconomy.com/2023/08/14/what-is-flipper-zero-and-how-it-works/
+- https://hackaday.com/2023/08/16/new-motherboard-improves-old-crt-television/
+- https://www.youtube.com/watch?v=MoqflFfvkR0
+- https://youtu.be/MoqflFfvkR0
+- https://gamerant.com/epic-games-crossplay-easier-game-devs/
+- https://www.howtogeek.com/112687/great-raspberry-pi-pico-projects/
+- https://www.tomshardware.com/news/raspberry-pi-tars-replica
+- https://www.hackster.io/charlesdiaz/how-to-build-your-own-replica-of-tars-from-interstellar-224833
+- https://physicsworld.com/a/room-temperature-superconductor-lk-99-fails-replication-tests/ LK99 fail
+- https://www.gnu.org/licenses/agpl-3.0.en.html
+- https://www.inverse.com/tech/ayn-odin-2-gaming-handheld-price-release-date-atomic-purple
 
 
 

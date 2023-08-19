@@ -1,0 +1,80 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CoreMicrosite from '@components/Page/microsites/_CoreMicrosite.astro';
+import WhatIsLetMeRender from '@components/Page/microsites/microparts/WhatIsLetMeRender.astro';
+import OrderRenderNow from '@components/Page/microsites/microparts/OrderRenderNow.astro';
+
+export interface Props{
+    nsfw?:boolean;
+}
+
+let detachedGenital = true;
+let noNeedNSFW = false;
+let addHeaderTitle = '';
+let addMetaTitle = '';
+let addKeywords = '';
+let addDescriptions = '';
+let skipHeader = false;
+let skipNav = false;
+let skipFooter = false;
+let disableOverwhelmStatement = true;
+let author = 'JOELwindows7';
+
+const{
+    nsfw = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CoreMicrosite
+    nsfw={nsfw}
+    detachedGenital={detachedGenital}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    noNeedNSFW={noNeedNSFW}
+>
+    <h2 id='shortcutOrder'>Order Now!!!</h2>
+    <h2 id='aboutRender'>What is this??</h2>
+        <WhatIsLetMeRender nsfw={nsfw}/>
+    <h2 id='orderNow'>What are you waiting for? ORDER NOW!!!</h2>
+        <OrderRenderNow nsfw={nsfw}/>
+        <p>Price goes up to 100K in <b>January 1st, 2024</b></p>
+    <h2 id='discountSpecial'>SPECIAL EXCLUSIVE DISCOUNTS GIANT DEALS!!!</h2>
+
+    <h2 id='rules'>Rules</h2>
+        <h3>Terms & Conditions</h3>
+            <!-- rule to obey -->
+            <ul style='font-size:x-small;'>
+                <li>Each file have each cost. So it's 50K, 50K, 50K, so on.</li>
+                <li>Discounts will void if your file had following restriction, such as but not limited to:
+                    <ul>
+                        <li><code>NO NSFW ALLOWED</code></li>
+                        <li><code>NO USE OUTSIDE XYZ ALLOWED</code></li>
+                        <li><code>NO PORT TO XYZ & RELEASE THAT FOR FREE ALLOWED</code></li>
+                    </ul>
+                </li>
+                <li>
+                   However, Discounts do not void if you have these restrictions (<b class='success'>even if your file is Creative Commons Free Culture compliant licensed</b>):
+                   <ul>
+                    <li><code>NO AI ALLOWED</code>. Due to a sheer & vast amount of plagiarism, specifically tremendous amount of cases of unauthorized sampling in many Learning AI machines, we tolerate gamers that wishes for their file to be not used for uncredited & no-sauce-url part of AI learning sampling.</li>
+                </ul>
+                </li>
+            </ul>
+        <h3>Privacy Policy</h3>
+            <!-- Public data that we will process & how will we treat them. -->
+</CoreMicrosite>
