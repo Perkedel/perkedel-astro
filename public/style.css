@@ -1879,6 +1879,13 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
   /* overflow-y: visible; */
 }
 
+.scrollOverflows{
+    overflow:scroll;
+}
+.scrollOverflowsSide{
+    overflow-x:scroll;
+}
+
 /* ROW & COLLUMN PLS */
 
 .row:after, .Row:after{
