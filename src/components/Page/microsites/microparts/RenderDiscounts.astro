@@ -7,6 +7,7 @@ import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounce
 import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
 import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
 import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import Mavrickle from '@components/Icons/Mavrickle.astro';
 
 export interface Props{
     nsfw?:boolean;
@@ -18,10 +19,10 @@ const{
 ---
 <div class="hideOverflowsSide">
     <p style='text-align:center;font-size:2em;margin-top=50px;margin-bottom=50px;' class="hideScroll fromCCWScroll preExpandSection"><b>SPECIAL DISCOUNT FOR YOU!!!</b></p>
-    <section class="hideScroll preExpandSection" style="background-color:darkgreen;">
+    <section class="hideScroll preExpandSection" style="background-color:darkorange;">
         <div class='row '>
             <div class='column colLeft colVertCenter'>
-                PHOTO
+                <Mavrickle/>
             </div>
             <div class='column colVertCenter'>
                 <p style='font-size:1.5em;'>Is there any of the file URL you send in either <code>Files</code> and/or <code>Discount Activator</code>, <b class='success'>GRATIS TO DOWNLOAD</b>, <b>Licensed in Free-Culture compliant licenses with no additional restriction added, like CC4.0-BY-SA</b>?</p>
@@ -32,7 +33,7 @@ const{
     <section class="hideScroll preExpandSection" style="background-color:darkgreen;">
         <div class='row '>
             <div class='column colLeft colVertCenter'>
-                PHOTO
+                <Mavrickle/>
             </div>
             <div class='column colVertCenter'>
                 <p style='font-size:1.5em;'>Are there 30 of them?</p>
@@ -40,10 +41,10 @@ const{
             </div>
         </div>
     </section>
-    <section class="hideScroll preExpandSection" style="background-color:darkgreen;">
+    <section class="hideScroll preExpandSection" style="background-color:darkblue;">
         <div class='row '>
             <div class='column colLeft colVertCenter'>
-                PHOTO
+                <Mavrickle/>
             </div>
             <div class='column colVertCenter'>
                 <p style='font-size:1.5em;'>Oh, 120 of them?!?</p>

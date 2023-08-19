@@ -7,6 +7,7 @@ import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounce
 import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
 import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
 import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import Mavrickle from '@components/Icons/Mavrickle.astro';
 
 export interface Props{
     nsfw?:boolean;
@@ -18,9 +19,9 @@ const{
 ---
 <div class="hideOverflowsSide">
     <section class="hideScroll preExpandSection" style="">
-        <p style='text-align:center;font-size:2em;margin-top=50px;margin-bottom=50px;'>1 BLENDER 3D MODEL RENDER = IDR 500000</p>
+        <p style='text-align:center;font-size:2em;margin-top=50px;margin-bottom=50px;' class='info'>1 BLENDER 3D MODEL RENDER = IDR 500000</p>
         <p>Contact Us through DM PM, Discord = <code>@JOELwindows7</code>.</p>
-        <p>Use the Following Template:</p>
+        <p>Use the Following Template, & please fill accordingly:</p>
         <p style='background-color:black;text-color:white'>
             <pre class='scrollOverflowsSide'>
                 <code>
@@ -36,6 +37,7 @@ Discount Activator =
     - ETC....
 Username = YOUR_FOLDER_NAME_FOR_KOLMO
 Assignment Due Date = YYYY-MM-DD
+Pay With = YOUR_PAYMENT_CHOICE, TRANSACTION_PROOF_PRINT_SCREENSHOT_URL
                 </code>
             </pre>
         </p>
@@ -45,6 +47,11 @@ Assignment Due Date = YYYY-MM-DD
             <li><b><code>Discount Activator</code> (optional, Array Strings)</b>. Your URL of the Blender 3D Model you have for us to verify the discount for, <b>and no need to be rendered this transaction</b>. Read below under <a href='#discountSpecial'>Exclusive Discount Section</a> for the instruction.</li>
             <li><b><code>Username</code> (required, Strings)</b>. Your bucks cup name, to allow us give you exlusive special discounts. Also for showcase of appreciations if necessary.</li>
             <li><b><code>Assignment Due Date</code> (optional, ISO Date)</b>. If your purpose of this business is for your assignment, please write your due date so we can prioritize as fast as we can. There will be warranty if the render somehow gone exceeding assignment due date.</li>
+        </ul>
+        <p>Accepted Payment Methods:</p>
+        <ul>
+            <li><ButtonizedLink href='#'>Jenius: <code>$JOELwindows7</code></ButtonizedLink></li>
+            <li><ButtonizedLink href='https://paypal.me/JOELwindows7'>PayPal send cash</ButtonizedLink></li>
         </ul>
     </section>
 </div>
