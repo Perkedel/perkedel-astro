@@ -737,7 +737,7 @@ a[href*='telegram.org']::before {
 }
 
 a[href*='blender.org']::before {
-    content: ' ' / "";
+    content: '󰂫 ' / "";
 }
 
 a[href*='spotify.com']::before {
