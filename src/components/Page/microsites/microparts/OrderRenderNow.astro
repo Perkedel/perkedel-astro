@@ -39,7 +39,7 @@ Discount Activator =
     - ETC....
 Username = YOUR_FOLDER_NAME_FOR_KOLMO
 Assignment Due Date = YYYY-MM-DD
-Pay With = YOUR_PAYMENT_CHOICE, TRANSACTION_PROOF_PRINT_SCREENSHOT_URL
+Pay With = YOUR_PAYMENT_CHOICE, CURRENCY, TRANSACTION_PROOF_PRINT_SCREENSHOT_URL
 Comments =
     WHATEVER_SAYS
                 </code>
@@ -51,7 +51,7 @@ Comments =
             <li><b><code>Discount Activator</code> (optional, Array Strings)</b>. Your URL of the Blender 3D Model you have for us to verify the discount for, <b>and no need to be rendered this transaction</b>. Read below under <a href='#discountSpecial'>Exclusive Discount Section</a> for the instruction.</li>
             <li><b><code>Username</code> (required, Strings)</b>. Your bucks cup name, to allow us give you exlusive special discounts. Also for showcase of appreciations if necessary.</li>
             <li><b><code>Assignment Due Date</code> (optional, ISO Date)</b>. If your purpose of this business is for your assignment, please write your due date so we can prioritize as fast as we can. There will be warranty if the render somehow gone exceeding assignment due date. Be sure not to rush these transactions since there will be <b class='warning'>no refund once your money have arrived to us!</b></li>
-            <li><b><code>Pay With</code> (required, String Short & String)</b>. fill with Pay With ID below, comma, your URL of Screenshot of transaction proof (using upload here or other direct image file CDN). e.g. <code>JENIUS, https://example.com</code>.</li>
+            <li><b><code>Pay With</code> (required, String Short & String Short & String)</b>. fill with Pay With ID below, comma, currency (<code>IDR</code> or <code>USD</code>), comma, your URL of Screenshot of transaction proof (using upload here or other direct image file CDN). e.g. <code>JENIUS, IDR, https://example.com</code>. <mark>You must use correct currency depending on your bank region.</mark></li>
             <li><b><code>Comments</code> (optional, String Long)</b>. If you have any option or comment you'd like to say, feel free to leave them here. Otherwise, you may leave this empty.</li>
         </ul>
         <p>Accepted Payment Methods:</p>
