@@ -160,3 +160,10 @@
 /another.html/* /apps/another/:splat
 /another_folder/* /apps/another_folder/:splat
 /no_script/* /apps/no_script
+
+# LetMeRender
+/LetMeRender /apps/microsites/LetMeRenderService
+/LetMeRenderService /apps/microsites/LetMeRenderService
+/JasaRendering /apps/microsites/LetMeRenderService
+/JasaRenderingMurah /apps/microsites/LetMeRenderService
+/JasaRenderingMurahMeriah /apps/microsites/LetMeRenderService
