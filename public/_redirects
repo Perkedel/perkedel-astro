@@ -167,3 +167,9 @@
 /JasaRendering /apps/microsites/LetMeRenderService
 /JasaRenderingMurah /apps/microsites/LetMeRenderService
 /JasaRenderingMurahMeriah /apps/microsites/LetMeRenderService
+
+# Twitter Requires Login
+/TwitterXRequiresLogin /apps/microsites/TwitterXRequiresLogin
+/TwitterRequiresLogin /apps/microsites/TwitterXRequiresLogin
+/TwitterLogin /apps/microsites/TwitterXRequiresLogin
+/ElonMuskBetrayal /apps/microsites/TwitterXRequiresLogin
