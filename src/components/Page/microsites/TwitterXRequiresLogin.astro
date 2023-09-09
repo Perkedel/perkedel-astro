@@ -1,0 +1,70 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CoreMicrosite from '@components/Page/microsites/_CoreMicrosite.astro';
+import WhatIsLetMeRender from '@components/Page/microsites/microparts/WhatIsLetMeRender.astro';
+import OrderRenderNow from '@components/Page/microsites/microparts/OrderRenderNow.astro';
+import RenderDiscounts from '@components/Page/microsites/microparts/RenderDiscounts.astro';
+import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
+import MessageRenderStatus from '@components/Page/microsites/microparts/MessageRenderStatus.astro';
+
+export interface Props{
+    nsfw?:boolean;
+}
+
+let detachedGenital:boolean = true;
+let noNeedNSFW:boolean = true;
+let addHeaderTitle = 'Twitter / X Requires Login';
+let addMetaTitle = 'Twitter / X Requires Login';
+let addKeywords:boolean = 'Twitter, X, Elon Musk, Elon, Musk, DRM, Digital Restriction Management, Digital Rights Management, Contact us';
+let addDescriptions = 'We have abandones our Twitter / X account, but the account kept up for posterity.';
+let skipHeader:boolean = false;
+let skipNav:boolean = false;
+let skipFooter:boolean = false;
+let disableOverwhelmStatement:boolean = true;
+let author = 'JOELwindows7';
+
+let maxNumCommissionSlot:number = 8;
+let maxNumPerTransactionSlot:number = 240;
+let maxGigabytePerFile:number = 2;
+
+const{
+    nsfw = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CoreMicrosite
+    nsfw={nsfw}
+    detachedGenital={detachedGenital}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    noNeedNSFW={noNeedNSFW}
+>
+    <p>Wait what?</p>
+    <h2>That's right, gamers.</h2>
+        <section class="hideScroll fromDownSideScroll preExpandSection">
+            <div style='margin:auto;width:50%;padding:10px;'>
+                <p style='text-align:center;' class='error'>You are now required to login in order to access X.</p>
+            </div>
+        </section>
+        <p>Bummer</p>
+    <h2>Visit our other social medias!</h2>
+        <ul>
+            <li><ButtonizedLink href='/profiles/@JOELwindows7' openInNewTab={true}>Other Accounts</ButtonizedLink></li>
+        </ul>
+</CoreMicrosite>
