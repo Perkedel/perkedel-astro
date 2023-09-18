@@ -31215,9 +31215,9002 @@ https://www.pixiv.net/en/artworks/94794810
 - https://physicsworld.com/a/room-temperature-superconductor-lk-99-fails-replication-tests/ LK99 fail
 - https://www.gnu.org/licenses/agpl-3.0.en.html
 - https://www.inverse.com/tech/ayn-odin-2-gaming-handheld-price-release-date-atomic-purple
-
-
-
+- https://vt.tiktok.com/ZSLgS7WG3/
+- https://vt.tiktok.com/ZSLgAHAuK/
+- Dapatkan hingga Rp5.000 dengan mengikuti penawaran khusus akhir pekan. https://vt.tiktok.com/ZSLgAH2fc/
+- Doxxing exploit. Reverse location query. Query all points on Earth, using photo geotag autolocator bareholding API key of the target, you must steal their key. Insert the API key gotten and start query 1 by one untill allnearth covered. Plot and find which area is is rejected. This rejected area is likely where target lives. Rejected because this would insert location of private house into the image file.
+- How to fix. Detect pattern of gridding like this and immediately ban IP, and notify original user to wake them up. This will encourage user to reset API key and others to increase security of every system involved if needed.
+- https://vt.tiktok.com/ZSLgAfjh4/
+- https://youtu.be/YWCkHZkom9s
+- https://youtube.com/shorts/zedqvnkC53o?feature=share
+- .
+- New owner: Hi.
+- Poodle: (Scarily stand up) YES SIR?...
+- New: Oh.. (knew it was been abused for circus)
+- .
+- https://youtube.com/shorts/9PFdPd_vWP8?feature=share
+- https://youtube.com/shorts/9PFdPd_vWP8?feature=share
+- https://youtube.com/shorts/VO98lbA8Whs?feature=share
+- https://youtube.com/shorts/B3no7nxN6T0?feature=share
+- https://youtube.com/shorts/qj1E493NdSg?feature=share
+- https://youtu.be/TrAP85JVT_E
+- https://youtube.com/shorts/QZ2_2dhBXN0?feature=share
+- https://youtube.com/shorts/qblz1gqFDU4?feature=share
+- https://youtube.com/shorts/amPJ17BO-VQ?feature=share
+- https://youtube.com/shorts/OsD6pfhyero?feature=share
+- https://youtube.com/shorts/yvLfqUIoc1Q?feature=share
+- https://youtube.com/shorts/ElhmcH21Rmk?feature=share
+- https://youtube.com/shorts/9SLIgO5I6oc?feature=share
+- https://youtu.be/Inqc8sr9eD8
+- https://youtu.be/Jr_NhCnejag
+- https://youtube.com/shorts/6Fr8PAiOMJY?feature=share
+- https://youtu.be/eHk_Y8bu13w
+- https://youtu.be/rHC06aVLuXE
+- https://youtu.be/35WVL-Z1rso
+- https://youtu.be/JX7yGF4RYkk
+- https://youtube.com/shorts/XpTtI180Ryw?feature=share
+- https://youtube.com/shorts/RRhM2ygIfxA?feature=share
+- https://youtu.be/u0bj_vrBMSA
+- https://youtube.com/shorts/fOfcab6cksw?feature=share
+- https://youtube.com/shorts/Di6D-BrqSFs?feature=share
+- https://youtube.com/shorts/HajExq_bvwU?feature=share
+- https://youtube.com/shorts/VjyyJy0YUAk?feature=share
+- https://youtu.be/ledO_oI316M
+- https://youtu.be/6UixPO7DEGQ
+- https://youtu.be/rXO58Tuw7hM
+- https://youtube.com/shorts/Z5rvs5MjJpU?feature=share
+- https://youtube.com/shorts/7T_TVutkAh8?feature=share
+- https://www.youtube.com/live/vCdSFjfA4tE?feature=share
+- https://youtube.com/shorts/6EYWniWuPQM?feature=share
+- https://youtube.com/shorts/uziMK2Mxifw?feature=share
+- https://youtube.com/shorts/Fr0dkr3gUl0?feature=share
+- https://youtu.be/emp8sxbRpSQ
+- https://youtube.com/shorts/t9KUc05Nh7U?feature=share
+- https://youtube.com/shorts/c_RT44GU_5Y?feature=share
+- https://youtu.be/n9nmAaIUWss
+- You got what wanted. Then wanted more.
+- Got maiden. Then wanted.. uh.. same gen.. yeah.
+- https://youtu.be/hKz6t2bJ3GY
+- Apaan tuh
+- https://youtu.be/PeY1xkK65Go
+- https://youtu.be/VmZLIXqFSsE
+- https://youtu.be/Sz2lmv7poJo
+- https://youtu.be/QWCnXbfUMQE
+- https://youtu.be/zgVpI91IkBE
+- https://youtu.be/m-Gkd76pP3A
+- https://youtu.be/ErLYtTfMTmc
+- https://youtu.be/gpCJ3M30NHY
+- https://youtu.be/zk8LqFv-Vxw
+- https://youtu.be/iEGP711wYF8
+- https://youtu.be/lALMjJmml04
+- https://youtu.be/WVGTRa54P4Q
+- https://youtu.be/jRqsY_a4IGA
+- https://youtu.be/3jgaaMy5LYU
+- https://youtu.be/F_DBBsKS61s
+- https://youtu.be/aF5Niffdh4s
+- https://youtu.be/cU0CDCDSIr8
+- https://youtu.be/W_Ji-p_S6lE
+- https://youtu.be/bnYCREE0vf8
+- https://youtu.be/WWszpiBr2vQ
+- M.A.C. & Shine of Black
+- https://youtu.be/3cDQLVdFnrU
+- https://youtu.be/6dLoYdfcvZM
+- https://youtu.be/NBXtn2rbmtA
+- https://youtu.be/Pp4obScOZ_I
+- https://youtu.be/dKRt8A3EGP0
+- https://youtube.com/shorts/ZkrGDR6QLr4?feature=share
+- https://youtube.com/shorts/8TccIBzVJ8A?feature=share
+- https://youtu.be/Dax_cUi-zkU
+- https://github.com/meemknight/zigbird
+- https://youtu.be/irEsvzgzcZU
+- https://youtu.be/w8hxZbmU19Y
+- https://youtu.be/bCEgabzf-k8
+- https://youtu.be/VlGfFOZRubc
+- https://youtu.be/PsoaXDwu68k
+- https://youtu.be/a0QIIY8n3Ww
+- https://youtu.be/NwJEXOglBrQ
+- https://youtube.com/shorts/H3EnBTcf5ug?feature=share
+- https://youtube.com/shorts/IJDgkrtUlTc?feature=share correct scream
+- https://github.com/outobugi/Terrain3D
+- https://youtu.be/IN6Z3C7V_Uk godot addon pls
+- https://youtu.be/ZHbO0zIHPtA
+- https://youtu.be/m9uEl5Y0DNI
+- https://youtu.be/D1FcJ-tdy5I
+- https://youtube.com/shorts/377LhTg1xOw?feature=share
+- https://youtu.be/PRliEm-eP3I
+- https://youtu.be/nb1K67-pUuM
+- https://youtu.be/We8wclQxHDY
+- https://youtube.com/shorts/TmjVQR8m2f8?feature=share beetlejuice ya
+- https://youtu.be/tvNSXS4x9nc kendrick lamar united in grief. I hope you find some peace of mind
+- https://youtu.be/_R1Tdwx-TRY
+- https://youtube.com/shorts/EPPUltC2lys?feature=share
+- https://youtube.com/shorts/jBL1GSwJPDI?feature=share
+- U
+- https://youtu.be/PRliEm-eP3I
+- https://youtu.be/aiWlBQMwhsQ
+- https://youtu.be/VLgMlEcUaNo
+- https://youtube.com/shorts/Hl0zXC_C2Uw?feature=share
+- https://youtube.com/shorts/_B7EoamnDjo?feature=share
+- https://youtube.com/shorts/Xkb3VY-d9So?feature=share dis
+- https://youtube.com/shorts/tPlazBj4tmE?feature=share
+- https://youtube.com/shorts/b_ca1F_hLFs?feature=share
+- https://youtube.com/shorts/FBXV5GX_l9k?feature=share
+- https://youtube.com/shorts/3ZmXeFhEaJE?feature=share
+- https://youtube.com/shorts/3ZmXeFhEaJE?feature=share
+- https://youtube.com/shorts/S3MRRu7wGy0?feature=share
+- https://youtube.com/shorts/ZnmK7vUXiWs?feature=share
+- https://youtube.com/shorts/JYaLwW1F9DQ?feature=share
+- https://youtube.com/shorts/yNoVdjMKVVY?feature=share
+- https://youtu.be/erE1Nf2hCmk
+- https://youtu.be/Clt2qySZqfY
+- https://youtube.com/shorts/pHhul67y19Y?feature=share
+- https://youtube.com/shorts/iMqJ1NcH7ZY?feature=share
+- https://youtube.com/source/Nij6Lo5tjjw/shorts 141 schneeschieber sound
+- https://youtu.be/OFNKya-tqQk and video itself 
+- https://vt.tiktok.com/ZSLgy6v4h/
+- https://youtu.be/EnG7zf9Uuk8
+- https://youtu.be/dNdQMoRxfeg
+- https://youtube.com/shorts/ViKnnxsQT-o?feature=share
+- https://youtube.com/shorts/T39q0xVJ5bU?feature=share
+- https://youtube.com/shorts/dNA74eazNZ8?feature=share
+- https://youtube.com/shorts/i6mINdqKbrk?feature=share
+- https://youtube.com/source/StS-xRem_zk/shorts black betty running song
+- https://youtu.be/nU1VfYYKMDk
+- Grave PIN. Enter pin to the graveyard. Will be placed to the slot for later rapture. When rapture the wake up says yes and opens.
+- https://twitter.com/Wendigoon8/status/1692099495234855083?t=fopbjfIlx2qUqxOyCwlCYg&s=19
+- https://twitter.com/RedditWild/status/1691815323442577646?t=fopbjfIlx2qUqxOyCwlCYg&s=19
+- Ydkj. Which this strip color flag not Pride? Answer = Free speech flag which is DVD decrypt code
+- https://touhou-project.news/guideline/
+- https://touhou-project.news/guideline/
+- https://www.tumblr.com/joelwindows7/725948599771545600/wiw-thancc-cool-and-good?source=share pls download
+- https://picrew.me/ja/image_maker/126301
+- https://youtu.be/vtcOsaMeWNI
+- https://youtu.be/pavxaz3GUYc
+- https://youtu.be/egOQAaUylUc
+- https://youtu.be/WppzVTcSRjA
+- https://youtube.com/shorts/2BN-7O4dp3U?feature=share
+- https://youtu.be/D4AzhQtsJAk noo.. not LTT
+- https://youtu.be/ENYHoOOEmwI
+- https://youtu.be/afsRCBhLVZc
+- https://youtube.com/shorts/yXmUKmP-L9E?feature=share
+- https://youtube.com/shorts/vxXx8obj-XU?feature=share
+- https://youtu.be/26n4mYNnipg
+- https://youtu.be/nQF9ixC0U40
+- https://youtube.com/shorts/0In1pnVtMLI?feature=share
+- https://youtu.be/0LAF3ZsKYXA
+- download these press kit for Indonesian 78th independence day
+- https://www.detik.com/sulsel/berita/d-6848373/link-download-logo-hut-ri-ke-78-resmi-serta-panduan-penggunaannya
+- Done
+- https://youtube.com/shorts/iSU1dnw1dIM?feature=share
+- https://youtube.com/shorts/TczTokbFRK0?feature=share
+- https://youtu.be/tobfnD7YX3w
+- https://youtu.be/SNBCKheKlnc
+- https://youtube.com/shorts/idY2GTqn804?feature=share
+- https://youtube.com/shorts/SJZyP3jsi7o?feature=share
+- https://youtu.be/AGPS0XebpyA
+- https://youtube.com/shorts/w81q4s-zLEg?feature=share
+- https://youtube.com/shorts/3lWK_pHbN2Y?feature=share
+- https://youtu.be/2BDaGYMzVgA
+- https://youtu.be/2BDaGYMzVgA
+- Perkedel do not endorse and despises any form of agenda markrting, such as LGBT. Perkedel only applied this in order to avoid backlash fron degenerate gamers.
+- 🌈 this rainbow becomes as taboo as swastika did turns taboo.
+- Caliborn: I did not do it! They did. I wish I did.
+- Caliborn: Oh also Xey Zey Fey, etc. Damn, they worked together to rebuild Nazi?!?!?!? **AND I AM NOT INVITED?!?!?**
+- Joel: Hey dude, be Impostor!
+- Caliborn: I know! Yeahh
+- Joel: Stay where you are (keep straight)
+- https://youtu.be/VDjOrgVJ_ak
+- https://youtu.be/VF41JysL4S4
+- https://youtu.be/FqjKolJKtAs 17 Agustus tahun 45 koplo TikTok
+- https://youtu.be/pA8beZrlodA
+- https://youtu.be/02l7O-molJY
+- https://youtu.be/02l7O-molJY
+- Caliborn rejects LGBT by endorsing Straight marriage. All LGBT gamers hates Caliborn even more than before and increased their canceling strengths.
+- Caliborn: Weird. Yes I get hate, I like it. But same time.. I am comfortable. Why? Hmm if it's so then I should keep going. Maybe this is now, retire in comfort..
+- https://youtu.be/HQ7t9vkNUwo
+- J
+- https://youtu.be/lYx3U_I6wAM
+- https://youtu.be/uj_LzgjdJFw
+- https://youtu.be/f5lOq2iBglA
+- Hey can you use just the panel button to play PIU, not just navigation.
+- https://youtu.be/LhrWELQuQG8
+- https://youtu.be/HlbLY7OCsao
+- https://youtu.be/HlbLY7OCsao
+- https://youtu.be/zaKQGml5TK0 pls laugh track for Bajaj Bajuri
+- https://youtu.be/xxWdcEHFK0g yess
+- https://youtu.be/qazjDsGDaRE
+- https://youtu.be/yxDqKSRFkkg
+- https://youtu.be/qizMl1mmlyo yess laugh bajaj bajuri
+- https://youtu.be/-2dZVbi7C7c
+- https://youtu.be/A23lgXPkwYY
+- https://youtu.be/na6Aei6S08c
+- https://youtu.be/5m1xGy0p2_0
+- https://youtu.be/du2H4J4eX64
+- https://youtube.com/shorts/hVoq7SdhYIw?feature=share
+- https://youtu.be/yq2goalZpXw
+- https://youtube.com/shorts/R3WhwiuMNIo?feature=share
+- https://youtube.com/shorts/u7oAwTG-sSw?feature=share
+- https://youtu.be/crkfT0_Xrh4
+- https://youtube.com/shorts/sVAw3ZHzUoI?feature=share sony psp wooo
+- https://youtu.be/YNirgu3nEa4
+- https://youtu.be/Sjfyu9fVII4
+- Framework PCI-e dock. Slide your Framework laptop from right and clicks into the port. You have to take off all left side modules first. This adds additional 12 slot of modules with 5 permanent USB-C port, which one of them can be used for charging. Available in 12 & 16 size.
+- https://youtube.com/shorts/VrL0c_6b60w?feature=share
+- https://youtu.be/ACVZ5b8wW14
+- https://twitter.com/XD_ikahyde/status/1692098954249302248?t=0El_fKXLjKukXz46OkqTDQ&s=19
+- https://twitter.com/XD_ikahyde/status/1692098954249302248?t=-MUDSgF8C7qpgqrrJKCGOw&s=19
+- https://youtu.be/lQ5dkVZDS3Q
+- https://youtube.com/shorts/uSFAsRQXuNc?feature=share
+- https://youtube.com/shorts/h0dTuy_lXs8?feature=share pls just bought marmut
+- https://youtube.com/shorts/JUv2dz4d8-Y?feature=share adik saya baru beli ini dari akak duar together scared
+- https://youtu.be/DCUbLuEqQvM
+- https://youtube.com/shorts/kjc94FiFDd4?feature=share
+- https://youtube.com/shorts/lAC_ZtIpkGg?feature=share
+- A standard modern bed costs about minimally acceptable QHD Gaming PC with medium setting.
+- A luxury bed costs about Ultra setting Crysis classic capable PC. The highest end GPU costs even more.
+- https://youtu.be/N_FeHRQjcMc
+- https://youtube.com/shorts/nXBI7sQJku0?feature=share
+- https://youtube.com/shorts/1Ape6r_WLBk?feature=share
+- https://youtu.be/VbGdmUIkQTk
+- https://youtu.be/f9R8tLE4FZw fox scream
+- https://youtu.be/n1ElR2ELLl4
+- https://youtube.com/shorts/BGbJtsW5rFo?feature=share
+- https://youtu.be/GS-97CqWIJs polish kid rage as creeper exploded his torch chests
+- https://youtu.be/kYUSfrKFFvk
+- https://ryegame.itch.io/one-with-the-bullet
+- https://youtube.com/shorts/0lGW3Al1PcI?feature=share
+- https://youtube.com/shorts/_fLNCC7uEXg?feature=share
+- https://youtube.com/shorts/vOoSZ9CCxxk?feature=share
+- https://youtu.be/xr8koF9w80c
+- https://youtu.be/UlnkmTX8Imo
+- https://youtu.be/K1_zbh_8Ink
+- https://youtu.be/oh7PSiyP-Ag
+- https://youtu.be/EafgRrT3dZY
+- https://youtube.com/shorts/3gtQ6eMWPnM?feature=share
+- https://youtu.be/OXIHm3bCS7k
+- https://youtube.com/shorts/KJjQCB9A0-Y?feature=share
+- https://youtu.be/lAtz2sctvxA
+- https://youtu.be/0iZnTLyNac0
+- https://youtu.be/5nS6b2zYGfQ
+- https://youtu.be/-1fXsKwL7yU
+- https://youtu.be/VHtTV8kUYFQ
+- https://youtu.be/b-owBhLGaH4
+- https://youtu.be/juMzFsRYI44
+- https://youtu.be/JG29UoZs4Jk
+- https://youtu.be/4FFD2Rg9o1I
+- https://youtu.be/C3MdrY3Gnk0
+- https://youtu.be/A75_3cfZg5U
+- https://youtu.be/PRRAwDKeR2g
+- https://youtu.be/jpFjhWktFew
+- https://youtube.com/shorts/k8fBKgnzkog?feature=share fox scream like baby
+- https://youtu.be/zBpZTo1dlPM
+- https://youtu.be/aUSwIdvym8w
+- https://youtube.com/shorts/-PwfsaDQ52A?feature=share
+- https://youtube.com/shorts/7_-5V2f6BUg?feature=share
+- https://youtu.be/tBw25PoPW8E
+- https://youtu.be/EuK-ZgT6UQc lirik roger sumatra
+- https://youtu.be/yd2FeKDN0v4 song is Tiara by Raffa Affar
+- https://youtube.com/shorts/UZIyoS_k1gc?feature=share accidental hammer & sickle
+- https://youtube.com/shorts/rE_rhu9bAHQ?feature=share
+- https://youtube.com/shorts/MdaOgUNZM6g?feature=share
+- https://youtube.com/shorts/QhvhABMzK3M?feature=share soviet cartoon had no filter
+- https://youtube.com/shorts/YEXbjaihb9E?feature=share accidental topgear ussr
+- https://youtu.be/t5ZydUN1_A8
+- https://youtu.be/D6WccFd3p_8
+- https://youtube.com/shorts/93WdvH5ZiDI?feature=share
+- https://youtube.com/shorts/EKxmN0VtNik?feature=share
+- https://youtube.com/shorts/w8IcUnkIL7E?feature=share
+- https://youtube.com/shorts/VP-SaB9smls?feature=share
+- https://youtu.be/DNo1HQzbNQ8
+- https://youtube.com/shorts/J3QgLXtPp2U?feature=share
+- https://youtube.com/shorts/Xc7_TbOkjCM?feature=share
+- https://youtu.be/8A-FZYD8jiY
+- https://youtu.be/a6qBoctEdPo
+- https://youtu.be/tt3rkWKWWW0
+- https://youtu.be/boDpJ4gwtZ0
+- Yikes, it's software paywalled instead of hardware
+- https://www.pixelfx.co/product-page/retro-gem-universal-hdmi-upscaler-kit
+- https://www.pixelfx.co/retro-gem-shiny-upgrade
+- So peck you PixelFx
+- No, shut the f888 up with your `software takes research` bull8888!!! We all f8888 know, and putting software locks for exact same hardware spec is f8888 scumbag d888 as88888 move.
+- https://youtube.com/shorts/yC_1qHJpkyM?feature=share
+- Folks if you find that one of us that departed and turned back against us, I think it's good idea to keep our mouth shut.
+- Why?
+- Because complain talks is exactly what mama karen did, when she wanted to meet the manager.
+- `WHAT THE HELL IS THIS OUTRAGEOUS SOFTWARE LOCKS!? IS THIS WHAT YOU ARE GOING TO SUPPORT AND ENDORSE??`
+- https://youtube.com/shorts/DF5GdMXKvg8?feature=share
+- https://youtu.be/E2tlT5-XvNs
+- https://youtube.com/shorts/y_i0QiL5cBQ?feature=share
+- https://youtu.be/j5XKAMaX12k
+- If Reliant tips easily, then Crazy Cart also tips easily then?
+- Well apparently Crazy Cart didn't, so does Reliant.
+- It flips when you wanted it to.
+- https://youtu.be/sHWrWQ6oufg
+- https://youtube.com/shorts/ilPwe8hy02w?feature=share
+- https://youtu.be/FrGFjAlawmg
+- https://youtu.be/xA81rn0qwb4
+- https://youtube.com/shorts/T_6Ee7an0mY?feature=share
+- https://youtube.com/shorts/ubSWuA8H_Jc?feature=share
+- https://youtube.com/shorts/A2CN-Y1900Y?feature=share
+- https://youtu.be/9Skg8lOip3c
+- https://youtu.be/x0tRmxlt-cc
+- You can be as expensive as you like, the more niche you are. But once again, really make sure whatever money you get, is because of hardware limitation, not software.
+- https://youtu.be/fDTCWMHLlNw
+- https://youtube.com/shorts/8vie0LeSO68?feature=share
+- https://youtu.be/Atrll2yr8Ds
+- https://youtu.be/lPPcW5TxOY0
+- https://youtu.be/kdXgOXpLulU
+- https://youtube.com/shorts/aa11AiyeBi4?feature=share
+- https://youtu.be/yWZcMlLdfpI
+- https://youtu.be/kZyR98AKNC0
+- https://youtu.be/Ps633tLtjKk
+- https://youtu.be/UoLbkZUUv3U
+- Microsoft PowerBI. A Microsoft 365 tool. A tool used by companies to make apps for specific purpose at specific environment, like e.g. making data input apps. It lets you design intuitive interface, so it's more efficient and safer than accessing the document or database itself directly.
+- https://youtu.be/dyXS5Ti7WeM
+- https://youtu.be/I9durYepGSw
+- https://www.deviantart.com/chesty-larue-art/art/3D-Model-Catalog-Foxxy-Love-704897401
+- https://theacee.com/product-category/3d-catalog/free-models/ gone
+- https://placidone.com/ peckneck
+- https://www.reddit.com/r/DrawnTogether/comments/n4zl9x/3d_spanky_ham/
+- https://www.deviantart.com/thewardenx3/art/Drawn-Together-773519461
+- A mission require Tamashien to drive.
+- Nobody could drive without getting caught on this non-tamashien planet. By standard it is looks like adult that drives.
+- But then found a Tamashien with big head. Why your head big?
+- I was born this way. Why?
+- Give mission. Read. Give back. Give candy is impolite.
+- Who told you give candy? Show reward which is 2 ticket to amusement park
+- The guy joins. Drive.
+- Arrive. The daddy tamashien was in shady discussion. Turns out the hired tamashien is his son. Dad what are you doing here?
+- Bla bla
+- Both go to Amusement Park.
+-  .
+- .
+- What is Bronze chemical??
+- Oh yeah. This newest era is called `Internal Betrayals`.
+- We have
+- ..
+- Milestone
+- ..
+- ..
+- Harrassment
+- Rest
+- ..
+- Internal Betrayals
+- Uhh..
+- 8 bit transform sfx
+- BLENDER RENDER LEMONSTAND SERVICE!!!
+- Want to render but PC too potato?
+- Let me help you. IDR 50k A file only!
+- Your 3D model publicly downloadable with free culture compliant & Open Source license? Discount into just IDR 10K!!!
+- MAX RESOLUTION = 8K with Quality up to 240. That's it. We will render as best as possible at no additional cost.
+- You have more than 30 3D models that are also Open Source like above? MOAR DISCOUNT!!! IDR 5K!!!
+- You got 120 Open Source downloadable 3D model? The 60th & 120th file **are free!!** & the URL will be spread to various platform to help you get the clout you deserve! Only applies for this one transaction, do not work on separate transaction.
+- but wait. After they done, they privated it.
+- maybe punish the customer?
+- Discount void until customee puts it back.
+- that's tracking customer name personally!!!
+- uhh behaviours is public. They seen delete, gamers knows. And it's not even a password. Right?
+- here. Customer privated model after using this service, will get penalty, discount perma-void until they put it back.
+- GO ORDER RENDER NOW!!! Normal Price goes up to IDR 100K, 5 months after this promotion.
+- https://invoice-generator.com/#/1 here's invoicer you can use now.
+- Oh, make the Discount activator! Send URL that no need to be included in transaction!
+- 30 Downloadables. Discounted to 10K
+- 120 Downloadables. If there is only 1, costs 5K. If there are 2, one is 5K, another is 0. If there is 3, one is 5K, rest are 0. 4, 2 of them is 5K, rest 2 are 0. So on. 10, 5fth & 10th are $0.
+- discount only applies if all 3D model in customer lifetime are all downloadable with free culture compliant license.
+- void e.g.
+- No NSFW allowed.
+- not void e.g.
+- No AI allowed. Due to sheer amount of plagiarism, AI sampling disallowance is tolerated until further notice.
+- only shown activator URL will be checked? If there are 30 models downloadble, but rest private, discount may activates. So does 120 rest private.
+- okay keep tolerance. If shown url still at number more than 30 & 120, privating rest now won't penalize immediately. No.. umm.. ye??
+- a
+- shown URL may no longer be privated to keep discount. If you did, then discount void until you put it back public.
+- how about use percentage instead?? Not all models all time. 50% downlodable, 10K. 100% downloadable, 5K.
+- Main files to have discount active, must be downloadable too!!! Acticator only acts as activator for file no need in transaction.
+- When Price raised to 100K a file. If the main file or one of the activator is downloadable, 75K all files each in transaction. Then above discount applies. The middle tier still 50K.
+- wait they would primitive only duplicates! Okay. The activator file must be rigged complex model. Something would be found in Smutbase. We should be able to see if the file seems forced and had no soul, in which case the activator piece is invalid, lose that number.
+- .
+- .
+- .
+- Zetrix Phone Adapter service daemon. Walk your phone into the game aswell! Use your camera app and switch to this virtual camera while you're in VR apps. Now your phone can take a picture, in that VR game yey!!! Your camera app does not read USB camera peripheral? Don't worry, use other USB camera app & swap to this device, or use our gratis & open source camera app!!
+- Scan QR code attached to objects without having to embarrassingly take off headset and scan the monitor. Direct, & highest quality shot your phone can perform!
+- Panas, Panas, Panas, Badan ini
+- Pusing, Pusing, Pusing...
+- .
+- So, this PC Table Linus designed for Karl which he commissioned is pretty cool right? It got all the bells and whistle to minecraft with style & power!
+- Well, unfortunately there is a problem, OF COURSE, mind you, Full disclaimer, from what I think & imagine, take it as a grain of salt.
+- First off, the table veeeery very very very heavy on the top. This obviously already violated every single safety codes around galaxies.
+- Say this leg break.
+- Tangg!!!
+- CHJEBROOSH!!!! **AAAAAAAAAAAAA!!!!!**
+- It crushes everything in its way.
+- Well, key of this that equipments whatever it is must have the lightest in top as it could be, which this top table supposed to be very light than its below.
+- Center of gravity point has to be as low as possible by Z axis or up & down. So it's stable and hard to tip, especially during planetquake.
+- (Table tips frontways towards gamer legs door squeak) 
+- DJAANG!!!! **HAAAAAAAAAAAAAAAAA!!!!!**
+- Well here's the better idea for you.
+- Have this stage used in Kondangan / parties. Put the PC under inside of it. Weld a table to put peripherals, & a pole to mount your monitors, & a chair.
+- There. Mega gaming rig but safer. You can also make it VR with larger area stage if you want, or a Bumper Car Gamified Arcade machine if that's what you're into.
+-  .
+- .
+- .
+- Please note that no publish file therefore only backed up to unstable Backblaze Computer backup which unlike B2, not bucket storage and can gone if the file is no longer there for over 30 days, unless we also subscribed to their Forever File History addon.
+- https://www.tumblr.com/joelwindows7/725996919938220032/whoahow?source=share saint from rainworld heartbeat
+- Sikewise
+- https://youtu.be/kQ08WnTc_jk
+- https://youtube.com/shorts/sUMN1K81d4k?feature=share
+- https://youtube.com/shorts/JHqI6I07IcY?feature=share
+- https://youtube.com/shorts/NYS4iAcvhT8?feature=share
+- https://youtu.be/gJ5xDfIjjKQ
+- https://youtu.be/cYF_D-4PhUU
+- https://youtube.com/shorts/0ZYIWBPByGk?feature=share
+- https://youtube.com/shorts/UEN42r3jesc?feature=share
+- https://youtube.com/shorts/b8TlAzvcm3A?feature=share
+- https://youtube.com/shorts/1U4p_Q8RC-o?feature=share
+- If your pronounciation is incorrect I am confused.
+- Oh Blue Beetle! Pecking hell. Learn English!!
+- https://youtu.be/OVcwNoZdDko
+- https://youtu.be/cxQ3vw8WRjE
+- https://youtube.com/shorts/rOyacTrWMrI?feature=share
+- Pause. Talk meme song.  Replace with st12 puspa
+- https://youtube.com/shorts/U6J6SZnMfIU?feature=share
+- https://youtube.com/shorts/i2MFJsmep6g?feature=share
+- https://youtu.be/ZuKIUjw_tNU
+- https://youtu.be/pLoqAtbgRn0
+- https://youtube.com/shorts/l7oawHfVQLg?feature=share
+- https://youtu.be/0ugoj-obD98 There it is. Replace with st12 puspa pls
+- https://youtu.be/AK66nMGhoek yes this one.
+- https://vt.tiktok.com/ZSLgcJH8E/
+- https://youtu.be/bfuG1aHvRAQ use this fast talking meme instead.
+- https://youtu.be/FtE4WtnA1-s
+- https://vt.tiktok.com/ZSLgcPRVX/
+- https://vt.tiktok.com/ZSLgcjxSQ/
+- No, use beginning of the song!!! Only when he start to talk, you play the song.
+- Don't `blender`. Just `blend`. Avoid confusing us with Blender Foundation. I think. Blend Surreal Memes.
+- https://vt.tiktok.com/ZSLg368ge/
+- https://youtu.be/USQxZc9nmtE
+- Ydkj. Which place has bg radiation of 0.00000000000000000 micro Sv? Answer = Heaven. Okeh let's test. (Turn on), first, sample.... (test ok), right, (put sample away from Heaven dimension). (Hold device still on)......... Yep nothing.
+- Kolam susu
+- https://youtu.be/7fNdA0Fuazw
+- https://osu.ppy.sh/beatmapsets/29371#osu/97462
+- https://osu.ppy.sh/beatmapsets/150945#osu/372245
+- https://youtu.be/ZDP3uj2uEqc
+- https://youtu.be/j5cziXhOzVA
+- https://youtu.be/XVtmfshi4uo
+- https://osu.ppy.sh/beatmapsets/525118#fruits/1114473
+- https://youtu.be/0tZR42zuRPk
+- https://youtu.be/_nQ4ndBpHAg remember. The fast talking is Martin Cabello
+- https://youtu.be/D7Iq_nhgcrA
+- https://youtu.be/eSstGmk6D58
+- https://youtube.com/shorts/692lntHkFbU?feature=share
+- No taking break for data loss prevention.
+- But there is always break in creativity.
+- https://youtu.be/URx306EUzWc
+- https://youtu.be/CVFj5wG1ioI
+- https://youtube.com/shorts/cwRNfbN8pls?feature=share
+- Mmmh, Monkey...
+- https://www.youtube.com/live/p6816sGXcEw?feature=share
+- https://youtube.com/shorts/ENpbk_ST_xg?feature=share mmh monkey. KungFu Panda clip
+- https://youtube.com/shorts/5Ry-M3wE9TM?feature=share
+- https://youtu.be/J1iJXzKHP1Q
+- https://youtu.be/692tcL0fJQ4
+- Yao Ming b8888 pls
+- https://youtube.com/shorts/ScWy1-1SKxU?feature=share
+- https://youtu.be/JHKI33226Do
+- https://youtu.be/vs8pqZ_g65E
+- https://youtu.be/wgDdK3VCRGI retro silent night Jaxius pls download
+- https://youtube.com/playlist?list=PLGfusIXrWRHLQICeWjwkeFjZbuDkedpKh moar Jaxius!!!
+- https://youtu.be/vs8pqZ_g65E pls download check for songs featured here.
+- https://youtu.be/0aR_Pc-GQFE
+- https://youtu.be/tN8hNOKoVEM
+- https://youtu.be/tN8hNOKoVEM
+- https://youtube.com/shorts/1Y7KYR7djhU?feature=share
+- https://youtube.com/shorts/wEgIHq7biFc?feature=share
+- https://youtu.be/1UHV6coajRI
+- https://youtu.be/5S22A9eHYRo
+- https://youtu.be/JrtrDqrVU5U
+- https://youtu.be/ugnOM2mzgNU
+- https://youtu.be/SXLEctgWe7I
+- https://youtu.be/a83EmWtZMfg
+- Dad: Son, there is a pop up saying `Free Game Week Epic sto`..
+- Son: REBOOT!!! YOU FAT F888!!! LEARN PC BLABGLOB (dasar anak bac8t, based on `blabbermouth`)
+- Dad: ARGH!! (Heart attack) HNNNNNNGGGG!!!!!
+- your children will always fed up asking help. Learn yourself. PSA from Caliborn.
+- emergency arrived.
+- also dad has ideal lipo number, not high, not low.
+- so does the son.
+- https://youtu.be/POe9SOEKotk
+- https://youtu.be/3TovcF1j3bE
+- https://youtu.be/AfgL9Y1O1ko
+- https://youtube.com/shorts/NTD9tMbieEI?feature=share
+- https://youtu.be/J5OqvBDpt0s
+- https://youtu.be/-e6xOBCAVvA
+- https://youtube.com/shorts/IxP5H4L_DJ4?feature=share
+- Nico here comes works. Okay I assume she is above 18 yeard old because I believe most galaxies and their sub-governments mandates that you must be 18 years old and up in order to accept jobs and start working. Because at this point, most being have their mental capabilities mature and secured enough, assuming there is no other trouble.
+- If there is a being.. okay don't talk about this.
+- Okay fine, just gonna say if there is being whose mature age is other than 18 years old needs investigation. Lesser is controversial, more is torture 
+- https://youtu.be/0JzdlmaZ6o4
+- https://youtu.be/kHPiyA77ISw
+- https://store.steampowered.com/app/2272310/Colourblind/
+- https://vt.tiktok.com/ZSLp1Dq3N/
+- https://vt.tiktok.com/ZSLp1hU2m/
+- https://vt.tiktok.com/ZSLp1U83w/
+- https://vt.tiktok.com/ZSLp1yTnT/
+- https://vt.tiktok.com/ZSLp1bXue/
+- https://vt.tiktok.com/ZSLp1sQmL/
+- https://vt.tiktok.com/ZSLp19NpB/
+- https://vt.tiktok.com/ZSLp1t6Uy/
+- https://www.w3schools.com/css/css_align.asp
+- https://youtu.be/6y4PSQOsJck
+- https://youtube.com/shorts/1FDjgexy0ok?feature=share
+- https://youtu.be/WPlPNi6cUAM
+- https://youtu.be/RXXRguaHZs0
+- https://youtu.be/BV0-EPUYuQc
+- https://youtu.be/TCiZjB9ZXgI
+- https://youtube.com/shorts/a8pyWnBRVV8?feature=share
+- https://youtube.com/shorts/1BL84A9KKhI?feature=share
+- https://youtu.be/8pfwEI82Fwo
+- https://youtu.be/3W8i0YNL7Ek
+- https://youtu.be/DWzXF9B68nQ
+- https://youtu.be/e6-TaH5bkjo
+- https://youtu.be/vrh0epPAC5w
+- https://youtu.be/exfZI-A5UDs
+- https://youtube.com/shorts/SOUG-lYSZjo?feature=share
+- https://youtu.be/51o5J0XVGoc
+- https://youtu.be/ikhGvUpdu40
+- https://youtube.com/shorts/vBn5iSw_s_U?feature=share
+- https://youtube.com/shorts/R1W4eu2BPNs?feature=share
+- https://youtu.be/LHthhCJILCw
+- https://youtu.be/MMZeqhK1Xa4
+- https://youtube.com/shorts/bhU3A8Rh0lc?feature=share
+- https://youtube.com/shorts/tJmYeky6_vA?feature=share
+- https://youtu.be/pcGp2Sfkg98
+- https://youtu.be/M8NFhjj0bUk
+- https://youtu.be/rotbsrwMIwQ
+- https://youtu.be/HZigkcTxRo0
+- https://youtu.be/olk_NUJ0Dkc compose medic tf2 sus
+- https://youtu.be/GsBcRWe9jx4
+- https://youtu.be/GsBcRWe9jx4
+- https://youtu.be/XpT_ATm9leA
+- https://youtu.be/i1wQY1Lyti8 same voice actor of... yo quiero taco bell?. Carloz Alazraqui
+- https://youtube.com/shorts/fLEOiQdDkzk?feature=share
+- https://youtu.be/Go9heQhYaZ8
+- https://youtu.be/WTbZuEXNNaw
+- https://youtu.be/-2Q2w8e_eXg
+- https://youtu.be/mR03g3Oy4GU
+- https://youtu.be/NnW1AUKT2eQ
+- https://youtu.be/vR1q2X35uCQ
+- https://youtu.be/O5e-hdhJhjA
+- https://youtube.com/shorts/dPNzDQNzldo?feature=share
+- https://youtube.com/shorts/7E_16HVsFeI?feature=share
+- https://youtube.com/shorts/GIviTlA86Lw?feature=share
+- https://youtu.be/r0Hwb5xvBn8
+- https://youtu.be/Ucs1dLGPDJI
+- https://youtu.be/d7W0YVVmz1Y
+- https://youtu.be/HzCMKbhK-EY
+- https://youtu.be/HzCMKbhK-EY Jolla is scam! Paywalling reset factory but their slogan `trully open`
+- https://youtu.be/p_TLVhtiAvc
+- https://youtu.be/Zy5MWFrb0Y8
+- https://youtube.com/shorts/VzKCtPbHuCY?feature=share
+- https://youtube.com/shorts/ZDHBXC0H4iM?feature=share
+- https://youtube.com/shorts/ZDHBXC0H4iM?feature=share
+- https://youtu.be/89u5NTC092g
+- https://youtu.be/6UUOyGd5UkU
+- https://youtu.be/sk-11ZZLBSo
+- https://youtu.be/GSvdsic4_dk
+- https://youtu.be/GSvdsic4_dk
+- https://youtu.be/iWRKZpvf3Uo
+- https://youtu.be/sF9xYtouZjY
+- https://youtu.be/8bcxI9ay7Xg
+- https://youtu.be/c_jvdDL8kzI
+- https://youtu.be/qdmahGzanVY
+- https://youtu.be/Kq6GO5nNoxM
+- https://youtu.be/qWqIryHzXY0
+- https://youtu.be/rW1qbH5CUEY
+- https://youtu.be/Hi5sd3WEh0c
+- https://twitter.com/suuuoppp/status/1691693740254228741
+- https://twitter.com/LinusTech/status/1691944990631707102
+- https://twitter.com/LinusTech/status/1692593238908301316?s=20
+- https://twitter.com/ShrtCrctYT/status/1692586526344110221?s=20
+- https://twitter.com/Dexerto/status/1692498348924617098?s=20
+- https://www.youtube.com/live/QTVfSISEvGY?feature=share
+- https://youtu.be/7H4eg2jOvVw
+- https://youtu.be/cXHqPokxNLs
+- https://youtu.be/7af_LGtD_jc
+- https://youtu.be/XH6zCNR0SZ4
+- https://youtube.com/shorts/C0i4VhKB5fE?feature=share
+- https://www.youtube.com/live/DzLdFmPncms?feature=share
+- https://youtube.com/shorts/GHmE_seJCUI?feature=share
+- https://youtu.be/7pyKrvxaMSU
+- https://youtu.be/oNhVXX3cfSY
+- https://youtube.com/shorts/Ck6-rnoiECI?feature=share
+- https://youtube.com/shorts/H9hNGVg4H3k?feature=share
+- https://youtu.be/AknyR-kRvLc
+- https://youtu.be/JVUIOsvo1NE
+- https://youtube.com/shorts/nyrWoGbPvQ0?feature=share
+- https://youtube.com/shorts/9QvLPw7uoRI?feature=share
+- https://youtu.be/YliWkcv5Guk
+- Muntred Syndrome. A hoax & fake syndrome fabricated to make hospitals sells more medicine to the victim. If you got cycle of fever, cure, fever, cure and so on in range about 1 month to 6 month, these evil doctors would disgnose you as `Muntred`. It takes patience for they to be able to say it, which makes it hard and impossible to notice. Additionally, they'll say *it's uncurable & lifetime disease*. It caused tremendous amounts of suicide from this incidents alone.
+- And the medicine `Muntred` is just a placebo. Exactly same 500mg Paracetamol & other additives that's it!! They claimed this would cure it, only later to go the next stage of script *incurable*. You've been trapped in a long term mental torture.
+- Basically saying you have cancer and mental disease, since you did not pro LGBT.
+- Yikes.
+- Fortunately it has been exposed. But this is by fighters agrees to consider it as normal without any available backs and citations, since this repeat of cycle is impossible to debunk either. It was happened for 10 years (since 2030 after Honestuck graduations) and had quintillions of suicides, which only managed to obtain about 60% of successful resurrections 😬😬😬😬😬.
+- .
+- .
+- .
+- https://youtu.be/k8AqAk5WC0g
+- https://youtube.com/shorts/-ZCQsZHY964?feature=share
+- https://youtu.be/qAoM6iJEVbY
+- https://youtu.be/1RP0XCOhrYs
+- https://youtube.com/shorts/_7QR5WmNYaA?feature=share
+- https://youtube.com/shorts/ZYkLgZyiUkQ?feature=share
+- https://youtube.com/shorts/Kw6eeJ_jLUE?feature=share
+- https://youtube.com/shorts/krNVk0BVOYM?feature=share
+- https://youtu.be/79T8Afw5-hw online friends
+- https://youtube.com/shorts/6Wl6mbTnXfk?feature=share
+- https://youtu.be/OGZA62xFZhU
+- https://youtu.be/keEQTFFLpeo
+- https://youtu.be/6cxDy4X8XVc
+- https://youtube.com/shorts/AvUMz7uwGzc?feature=share
+- https://youtube.com/shorts/Upr9VdX1158?feature=share
+- https://youtu.be/lqb-Yxbk4vc
+- https://youtu.be/MpYjDubxhuI
+- https://youtu.be/jmI88hltohk
+- https://youtu.be/sU44IKH5e8g
+- https://youtu.be/XE6_MLJNWNI
+- https://youtu.be/-EvPvfVOUV8 best death scene ever
+- https://youtu.be/vXkhqOO0FWQ
+- https://youtu.be/cNU7V6J65SQ
+- https://youtube.com/shorts/24WhYIl6O8g?feature=share
+- https://youtu.be/6oqaGmv-IxI
+- https://youtu.be/4H7zgp_ZOWw
+- https://youtube.com/shorts/HUc41iOMV5c?feature=share
+- Game Troublemaker tawuran pls
+- https://youtube.com/shorts/O3JAxLUnoEA?feature=share
+- https://youtube.com/shorts/a0iY3BMQ7Vk?feature=share
+- https://youtube.com/source/Nij6Lo5tjjw/shorts once again 141 Schneeschieber
+- https://youtu.be/3OoayvbvBS4
+- https://vt.tiktok.com/ZSLpF7oDh/
+- https://youtu.be/_b0P8jDKCbc
+- https://youtube.com/shorts/mx_3Ds5lD0w?feature=share
+- https://youtube.com/shorts/acejKggzkb0?feature=share
+- https://youtube.com/shorts/6N540ym-EeE?feature=share
+- https://youtu.be/drXQMQ8fjTg
+- https://youtu.be/00kkG_yVFFA
+- https://youtu.be/1FTbT_7kbp0
+- https://youtube.com/shorts/tPbLJgQijlw?feature=share
+- https://youtu.be/aXiab2a6B10
+- https://youtu.be/vg6JFV8i45E
+- https://youtu.be/Ctr8TjpeBdQ
+- https://youtu.be/aUedMja2YoU
+- https://youtu.be/uEiC-Z9HNHk
+- https://youtu.be/4EeNIy1J8C8
+- https://youtu.be/3Fhzhxybgos
+- https://youtu.be/vTk3SfXsoOw oshi no ko lick grand prix
+- https://www.youtube.com/live/PcvGYNT72lQ?feature=share
+- https://youtube.com/shorts/_N83BpembaU?feature=share
+- https://youtube.com/shorts/KvGEBiKhE6s?feature=share
+- https://youtu.be/H50Azi7mzIs
+- https://youtu.be/hgG4kGW_G9Y
+- https://youtu.be/FctRpaleRFc
+- https://youtu.be/g3CuPz3ht10
+- https://youtu.be/eOMjeCiMn8g
+- https://youtube.com/shorts/mo6Pm2YQVRw?feature=share
+- https://youtube.com/shorts/ithnp2P6wnM?feature=share
+- https://youtube.com/shorts/FVdOZPxpQlo?feature=share
+- https://youtu.be/eCJivIXKiGM
+- https://youtube.com/shorts/rCkX4nSEL4A?feature=share
+- https://youtube.com/shorts/85ks67acHNc?feature=share
+- https://youtube.com/shorts/FGFA160BykI?feature=share
+- https://youtu.be/IMscM4J3ncc
+- https://youtube.com/shorts/641kvU86YOg?feature=share
+- https://youtube.com/shorts/qOHPf32tPfA?feature=share
+- https://youtube.com/shorts/fhixJGOX_Hw?feature=share
+- https://youtube.com/shorts/hwA2JW-HD6k?feature=share
+- https://youtube.com/shorts/T_pcBXoW9x8?feature=share
+- https://youtube.com/shorts/cPtOetWLt2I?feature=share
+- https://youtube.com/shorts/SLTdbIEHE_Y?feature=share
+- https://youtube.com/shorts/7tQ2yRIuZOE?feature=share
+- https://youtube.com/shorts/YOFe2MTspoc?feature=share
+- https://youtube.com/shorts/_FN85gN7ltU?feature=share
+- https://youtube.com/shorts/TjdPcxMry5Q?feature=share
+- https://youtube.com/shorts/12fpzi38QGs?feature=share
+- https://youtube.com/shorts/7tQ2yRIuZOE?feature=share
+- https://youtube.com/shorts/YOFe2MTspoc?feature=share
+- https://youtube.com/shorts/_FN85gN7ltU?feature=share
+- https://youtube.com/shorts/mAo73FxguWY?feature=share
+- https://youtube.com/shorts/J93VZ6dkSm0?feature=share
+- https://youtube.com/shorts/5c6zQ8miL4k?feature=share shadow money gang VCR CGI
+- https://youtu.be/0fYaQeTmXyU
+- https://youtu.be/At49d6E7lvQ
+- https://youtube.com/shorts/DrsaM08KgKY?feature=share
+- Oh my God, this too paywalled?!?!
+- First, Commodore, and then. A Lua Game that is not harware even. Ohhh my God!!!
+- .
+- https://youtube.com/shorts/Ey0vIKgm7Hg?feature=share
+- https://youtu.be/At49d6E7lvQ
+- https://youtube.com/shorts/oRysQX3ubUM?feature=share
+- https://youtube.com/shorts/PtdDj1SF5eA?feature=share
+- https://youtube.com/shorts/lifhHAS8r8E?feature=share
+- You can hate the person forever. It's your deal with God.
+- But continued harrassing too, is not tolerable.
+- https://youtu.be/zEVqdiv263Q
+- https://youtu.be/S8QS_Xvdry4
+- https://youtu.be/zNg7U232Wi0
+- https://youtu.be/iyc7eSnCcaQ
+- https://youtu.be/GNWcF4IAVa8
+- https://youtu.be/9HyQXA1la04
+- https://youtu.be/U3r6673KcZo
+- https://youtu.be/65QkhfG6ErM
+- https://youtu.be/N7diarukx4M
+- https://youtu.be/8gC0v_wG-xY
+- https://youtu.be/MndBRE8yUuU
+- https://youtu.be/Fm_XSrrAbiQ
+- https://youtu.be/j3heJ_1E84g
+- https://youtu.be/O1trGP1Izi4
+- https://youtu.be/z6ddl47gn-I
+- https://youtu.be/CIuc6HQDB0U
+- https://youtu.be/26-okO1fCE8
+- https://youtu.be/02WRz8eW1xs
+- https://youtu.be/hrq1ODU7qFo
+- https://youtu.be/F2r1KkOIzOE
+- https://youtu.be/PPmqukITidY
+- https://youtu.be/gQxL--Sz2AA
+- https://youtu.be/Im0UpEgNoEc
+- https://youtu.be/enNGEuxJtrA
+- https://youtu.be/oio4cvyTS4A
+- https://youtu.be/8ZtWruLuR44
+- https://youtu.be/8dIzTEh8RnI
+- https://youtu.be/otQs89QahnM
+- Sfw
+- https://youtu.be/eJZVSon0AD8
+- https://youtu.be/YHcBen7z-_8
+- https://youtu.be/qsb4DGe3Z8g
+- https://youtu.be/Um_Tx_FqvPE
+- https://youtu.be/zOSTwjRJwvs
+- https://youtu.be/lHfN9Y3ainw
+- https://youtube.com/shorts/StzKlRrrTWo?feature=share
+- https://youtube.com/shorts/OGOhRRYs0gQ?feature=share
+- https://youtu.be/o_IzGdtMVOw
+- https://youtu.be/tF2wE4qkzMM
+- https://youtu.be/GL8ZmqyNiZM
+- https://youtu.be/GL8ZmqyNiZM
+- https://youtu.be/DwMYUZBV2Ak
+- https://youtu.be/6WxSmBl2lW0
+- https://youtube.com/shorts/ypRPLgyYdHg?feature=share
+- https://youtube.com/shorts/w-CP4fAsR7o?feature=share
+- https://youtube.com/shorts/-QMK8osZdzQ?feature=share
+- https://youtube.com/shorts/K5jk1Fua-V4?feature=share
+- https://youtube.com/@ThereIRuinedIt
+- RCTI not okay fail.
+- A drone view afar towards an area of kite show event, featuring various complex & sophisticated kites, big or small.
+- Drone move, while also zoom as speed needed before RCTI Oke, towards these media monitorer guys. Make sure right before RCTI Oke yiu finished the zoom.
+- In this monitor space, 2 guys looking at 2 camera reference display to inspect how it looks on TV. There is an LCD behind them to debug, flip Z 180° so the view display point their back. The TV turns on RCTI, showing same Kite show broadcast.
+- Left gut fart fart BROOOT!! The other guy and rest of crew surprised, wreak havoc. Right guy palm pinch his nose bridge immediately
+- Frame immediately pause and RCTI logo appear. *🎵 RCTI Okeeeee..*.
+- .
+- https://youtube.com/shorts/NYQdC7Q2sNs?feature=share
+- https://youtube.com/shorts/h31JSojbdTk?feature=share
+- https://youtu.be/2Jh7Jk3aSlo
+- https://youtu.be/6uLYs5tB0Is
+- https://youtu.be/HyfQVZHmArA
+- https://youtu.be/koSkj-xios4
+- https://youtu.be/cOvQQNsJUsc
+- https://youtube.com/shorts/ne7I4pfaT6s?feature=share
+- https://youtube.com/shorts/Jh8ezn2Lxyw?feature=share quick modeling beaker
+- https://youtube.com/shorts/OxSn5xNoXX0?feature=share
+- https://youtube.com/shorts/Wk1LKqeDU2U?feature=share
+- A Southern Chinese ethic based guy named Guang, began to pass a bill that gives egregious restriction to a public file sharing folder. For money, of course.
+- As the result, gamers want it or not must obey this new rule, or risk getting banned pernanently. So they delete account. All of them.
+- Honestly I am sad and confused, because my ancestors are southern Chinese too.
+- A restaurant in config of luxury big table ballroom. Deof and goons are here. As well as Guang too
+- Deof: Hey, **YOU!!** (Approach angrily), (headbump hard)!!!
+- Guang: HUAAAAAAAAA!!!!!!
+- Deof: You scumbag!!! **LOOK WHAT HAVE YOU DONE TO THESE FILES**
+- Guang: Dude, I was running out of money, the ad
+- Deof: More money **eat my a88!!**
+- Guang's goons: HOEYY!!! DID HE SAY!?!?!? WATCH YOUR MOUTH A88H888!!
+- Deof: Your hands only destroys!, (draw gun), (shoot Guang's right palm)!!
+- Guang: **AAAAAAAAAAAA!!!***
+- Guang's goons: (revenge)
+- Deof: (activate multi barrel side spreading mode)??!
+- Guang's goons: Haa!?!? (Afraid, immediately hands up)
+- Deof: (put back gun to holster), (return to table)
+- Mered (Deof assistant): How do you feel?
+- Deof: Better, but not enough.
+- Mered: And you shot his hand. You have more than 1 provocation. The only one is the betrayal. Here (give magic heal bottle), be responsible.
+- Deof: Do I look funny to you?!
+- Mered: Sir, let's not cause trouble. ...
+- Deof: ... Fine.
+- Xi: Sir, can you
+- Guang: Don't help me! (Stand up by self)... (feel right hand poured with a water) AA WHAT THE HELL (Panik shaking right hand)?!?!?, (Look right palm) Huh? (It cures like nothing happened) What??? (Look Deof's table)
+- Deof: (point to Mered) Thank, him!
+- Mered: No it's your fault! Take it!
+- Deof: Ugh... (take)...
+- Merd: Hey, our community started reuploading. 100%
+- Deof: Oh really? That's great!
+- After the incident, the news spread. Everyone liked it. But not few disagree.
+- Admiral Zumi got papparazi interviewed after he came out of meeting room at 3rd party place
+- Bursch: Sir, quick question. Are you affiliated
+- Zumi: (While walking bringing medias with him)
+- Bursch: with Mr. Deof?
+- Zumi: Well no, we never even met him. But, he was one of my contributor.
+- Tasya: Did you know Deof did physically attacked Mr. Guang for the betrayal?
+- Zumi: Well I heard it. And I despised that. Attacking do not solve issue and only adds oil to the wound.
+- Hobbe: SIR SIR!! Will you still accept Deof after this??
+- Zumi: (stop and stress immediately jump uphigh)?!?!?!?..... Well, umm.. May.. Pro.. Likely, We .. with heavy heart we could not accept him. (Run away back to his sedan)!!
+- interviewers: SIR SIR SIR!
+- Sedan immediately left and portal back to X0p1r4t3.
+- Bursch: Oh...
+- then Zumi announced this to all citizens. All speaker & display showing his cameta face entire city on, to the mic in his personal office sub-room in his basement bedroom.
+- Zumi: (press announce toggle to turn on)! . Attention all citizen. Important message. Sit down and listen carefully. Record if necessary (delay 10 second).............. It it tremendously with great shock and despair, that there is one of the contributor if you hear the news attacked Guang because he betrayed all of us. We understood that all his implications are valid, except the physical attack. I want you all gamers to never replicate actions like this. Trust me, it will only add oil to the wounds, you know I'm saying. Thank you, Salam X0p1r4t3. Back to your position. (Press announcement toggle to turn off)! ., (Go to bed, lie up and contemplate upon thr ceiling)...
+- Guang website goes bankrupt. All Deof club members start recontribute to Zumi's Kolmorotzzet.
+- Meanwhile Zumi's haze of fear of getting canceled started awakening again. He can't stop imaginating if it was him that attacked Guang, and then entire universe hated him until rapture.
+- .
+- .
+- https://youtu.be/mig5tYDjmRo
+- https://youtube.com/shorts/FAZq3lqk9So?feature=share
+- https://youtube.com/shorts/DF5GdMXKvg8?feature=share
+- https://youtube.com/shorts/AfbkWlZfydE?feature=share
+- https://youtube.com/shorts/RMbPD93I5sk?feature=share
+- https://youtube.com/source/W6S1w3kjiIM/shorts scream still alive
+- https://youtu.be/qO4mFC1OIBg and video
+- https://youtube.com/shorts/pxbeTSuTa5s?feature=share
+- https://youtube.com/shorts/dsiEok8Hax4?feature=share
+- https://youtube.com/shorts/gGI_Lmank0U?feature=share
+- https://youtube.com/shorts/AaEty2KErn4?feature=share
+- https://youtube.com/shorts/W75w_Qth57Q?feature=share
+- https://youtube.com/shorts/ObqF5QjPcw0?feature=share
+- https://youtube.com/shorts/HaVxPuqBdc4?feature=share
+- https://youtu.be/ZJdZ4cbvyCg slinky treadmill stayin alive
+- https://youtu.be/MImMqZjcTDI
+- https://youtu.be/aAc_QaQ55BY
+- https://youtu.be/W5sDzSStwvA
+- https://youtu.be/X3tazpAkoDk
+- https://youtu.be/vto5b0BWb0E
+- https://youtu.be/i3TOHkfrxLw
+- https://youtu.be/nYPX-QQR9Tg
+- https://youtu.be/qcVAjhUtA_w
+- https://youtu.be/S-UmqvA7uR8
+- https://youtu.be/4peCiiWHfVc
+- https://youtu.be/LaURAgBgdU0
+- https://youtu.be/meWNtrZo5Mw
+- https://youtu.be/pcEKQC1-quc
+- https://youtube.com/shorts/czAcIDIJSJs?feature=share
+- https://youtube.com/shorts/MlhY32PZj-0?feature=share
+- https://youtube.com/source/wFCJQfvSf04/shorts sleezy spongebob sleazy spongebob
+- https://youtu.be/7MnHIjMVAPQ and video
+- https://youtube.com/shorts/Ycl8G2zQOJY?feature=share
+- https://youtube.com/shorts/0XclNOtdE-4?feature=share
+- https://youtube.com/shorts/NU9AL5XVBec?feature=share
+- https://youtube.com/source/Vhd0tiqODv4/shorts
+- Pls justin timberlake verbalase
+- . Tud rov. Concept only.
+- A manager have area of market area. He accidentally turned on a mysterious machine that has long been there even before any of them. The machine is a portal to another dimension just like Valerian film.
+- Report to paleothologist. Start excate these floating rust metal scraps out to overworld. Replicate portal to bigger ones. Moar excavate
+- Wednesday came. Touch one of the artefak. Ultra Vision mode!!
+- She saw:
+- A boy.
+- He had fever.
+- And he trembling, oh he's dead.
+- In Heaven. Angery.
+- Found a syndicate. Fellow spirit escape heaven and found this dimension.
+- Sinarmas first hammer time lapsing build new city in this area.
+- Made portal to overworld. But nobody had body so they're ghost there. Go back.
+- Instead start resesrching how to built time machine and also a hijack script to prevent God from taking his life in 1st place.
+- Did it. Wait another 1000 year until crystal power found.
+- Found. Install. Also the hijack script. I'll miss you all. Start. Go back
+- Same exact moment, still tremling, but this time paramedic managed to take him out of death.
+- Cry hug I don't want to dead pls God don't kill me
+- Finish
+- Yirb: What, did, you see, Mrs. Addams?? ... (ask permission to pat head) May I?
+- Wed: (nods)! .
+- Yirb: (pat, download info)
+- Others: Sir may I?
+- Yirb: yea yea.
+- Info downloaded
+- Everyonr stood up as minf blown
+- Yirb: ?!?!?! (Realize Wednesday still lying on ground, help her!) Oh sorry,
+- Others: it's okay sir, I'll do it.
+- A rich young man in white suddenly arrive amongst these sandy rocky areas.
+- Yirb: Who are you?
+- Baff: (saw they excavated ancestor artefact) hmm. My ancestor used to live here.
+- Yirb: Wait? You the grandest son?
+- Baff: Yeah.
+- Yirb: (ashamed for impolitely messing up property) Oh sorry I think
+- Baff: No that's okay. You got all?
+- Yirb: Yeah.
+- Baff: turn off the machine. Take of power source.
+- Yirb: (do) Okay. Whar next?
+- Baff: Arrange it. Make museum. Preserve and restore these.
+- Yirb: Absolutely, (work now)..
+- Baff: Thank you grandpa. You can rest fully now.
+- .
+- .
+- https://youtube.com/shorts/uu7Ciwgf91g?feature=share
+- https://youtube.com/shorts/6rb7EzYPG4U?feature=share
+- https://youtube.com/shorts/PCiKYUnHT5c?feature=share
+- https://youtu.be/mzWaj_vDKBM
+- https://youtu.be/FFQvRfXiNWQ
+- https://youtu.be/9BW-mbC7Xag
+- https://youtu.be/TYM0ROOMvVg
+- https://youtu.be/_CJ0UNq4Zhc
+- https://youtu.be/dAWmZjqggfg
+- https://youtu.be/VxZ_EIZMiqs
+- https://youtu.be/9MKWegSQakM
+- https://youtu.be/XS4M6piFprs
+- https://youtu.be/_6LoXoonOZE
+- https://www.reddit.com/r/Genshin_Memepact/comments/15tjsp7/yahoo_characters_explained/?utm_source=share&utm_medium=web2x&context=3
+- https://youtu.be/6h5FoPi3SY0
+- https://youtu.be/iDg4_yQA4pE
+- https://youtube.com/shorts/eKAK59Y-aoA?feature=share
+- https://youtube.com/shorts/HX5fhSWmrUM?feature=share
+- https://youtu.be/oxQHKym0_CM
+- https://youtu.be/Oj8I2YzfUzI
+- https://youtu.be/YFtni8MuMMg
+- https://youtu.be/8kESOlzhJtc
+- https://youtu.be/IpQxRFpLQpU
+- https://youtu.be/0wC20FUEhws
+- https://youtu.be/CT8t_1JXWn8 8 bit what is love
+- https://youtu.be/3Fp_oiDrh6E
+- https://youtu.be/6NAlYXruBPQ
+- https://twitter.com/ImagesKirby/status/1444032039351504896?s=20
+- https://youtube.com/shorts/8ygDKMAj82I?feature=share
+- https://youtu.be/afqQ2YMNjZ4
+- https://youtu.be/1O8pZHd_kj4
+- https://youtube.com/shorts/Fx-cQGlb--A?feature=share
+- https://youtu.be/xFESmSM8zZ4
+- https://youtu.be/_wEGteFmzek
+- https://youtu.be/H-ChMA4o2FI
+- https://youtu.be/b91QlJE1Nqk
+- https://youtu.be/fb9iZXP_CCE
+- https://youtu.be/BeXStApZ_5I
+- https://youtube.com/shorts/CMma-LgbhnA?feature=share
+- https://youtube.com/shorts/43Sc5_WauBY?feature=share
+- https://youtu.be/u5iOSIUhVzk
+- https://youtu.be/LtEFEdrrXc4
+- https://youtu.be/hid7EJkwDNk
+- https://youtu.be/rptLcA0E4ps
+- https://youtu.be/gR7y-c9mfxA
+- https://youtu.be/CQ2IXEUCjmU shaggy zoink dance
+- https://youtu.be/L7LsZZk62M0
+- https://youtu.be/zl_jAzmWOWw
+- https://youtu.be/DxVLAbwQkPc
+- https://sns.prtls.jp/hbsnsjp/diary.html?id=468&did=6460413644
+- Makabo steak
+- Pls story gf fail git force past
+- Steak bomb. Kris attach. Duar
+- Susie says. What have you done?!
+- .
+- Dikasih rezeki bersyukur!
+- Cyus miapa?!?!?!
+- https://youtu.be/5hAy5V91Hr4
+- https://game.intel.com/story/intel-presentmon/ benchmark intel
+- https://github.com/GameTechDev/PresentMon
+- https://youtu.be/KuTsTjFZf5M
+- https://youtube.com/shorts/wmW6DRQv8zc?feature=share
+- https://youtube.com/shorts/BUwVYlAjenI?feature=share
+- https://youtu.be/yw39wYJlLRc
+- https://youtu.be/TcSkrkXd2H0
+- https://youtu.be/JIvuWdxClSs olde
+- https://youtube.com/shorts/cJx78JtYorc?feature=share
+- https://youtu.be/HPFfiFrpp3E
+- https://youtu.be/IJBctrl3GZI
+- https://youtu.be/IpTV6-d2tnQ
+- https://youtu.be/OdxVtAiYeL0
+- https://youtube.com/shorts/dEUCfEAFOos?feature=share
+- https://youtu.be/1otcmsW2RcY
+- https://youtu.be/2O4tfmG4zVA
+- https://youtube.com/shorts/4U5R09J9pCM?feature=share
+- https://youtu.be/WeahRMuZg80
+- https://youtu.be/8N2aZZYL_AQ
+- https://youtu.be/WVDNqc3TUVQ
+- https://youtu.be/fgKkv3QXuv8
+- https://youtu.be/7_2aMu62MTw
+- https://youtube.com/shorts/Dx9gY6tDDQY?feature=share
+- https://youtube.com/shorts/gfbmB_0ufcM?feature=share
+- https://youtube.com/shorts/fC9O0FILyb4?feature=share
+- https://youtu.be/MThU9fI6C8E
+- https://youtu.be/tnKY-oE6a_o
+- https://youtube.com/shorts/8NL5BmyGPPI?feature=share
+- https://youtube.com/shorts/Fqg_aFFvM7s?feature=share
+- https://youtube.com/shorts/u0q9E106Aww?feature=share
+- https://youtu.be/GD-abu4jLq4
+- https://youtube.com/shorts/XjKGmgXMjtg?feature=share
+- https://youtu.be/ksTGa6Z4gLg shocked darktoner / black guy meme
+- https://youtube.com/shorts/AQz9hPwdyA0?feature=share
+- https://youtu.be/RgSR0oMDJvQ
+- To be Contondored
+- Bersombong 💀
+- https://youtu.be/5uY3u_xZDL0
+- https://twitter.com/fuckyouiquit/status/1692749822606938395?t=z8tVy7IiY4NKD4OYS1mW9g&s=19
+- https://youtu.be/7_IZ7ro_csM
+- Gyld game pls
+- https://youtu.be/xGyLDAtMjbw
+- https://youtu.be/CfOEeydN4x0
+- https://youtu.be/8EDsguM4h3E
+- https://youtu.be/qWqIryHzXY0
+- https://youtu.be/LrGuK0CX91Q
+- https://youtu.be/FkTgKc-IOyM
+- https://youtu.be/rglvJH9z5ng
+- https://youtu.be/MoqflFfvkR0
+- https://youtube.com/shorts/t1CmLvDSVFk?feature=share
+- https://youtube.com/shorts/znQADDm5mVE?feature=share
+- https://youtu.be/e_oBQ2UFZSU
+- https://youtu.be/apEKAY11NQs
+- https://youtu.be/KWVte9WGxGE
+- https://github.com/kasmtech/KasmVNC
+- https://youtu.be/tOm_zATjgqU
+- https://youtube.com/shorts/UsQC5rCDDFQ?feature=share
+- https://youtube.com/shorts/-Xd1wjFoles?feature=share
+- https://youtu.be/P8FwZup_9Ug
+- https://youtu.be/LwfkrCAKgBQ
+- https://youtu.be/7xZMjW9jRMA
+- https://youtu.be/5hQPonVB-BE
+- https://youtube.com/shorts/-N_6W2qdj3E?feature=share
+- https://youtube.com/shorts/HNLBy9xtMCU?feature=share
+- https://youtu.be/OmwTEV4wwwI
+- https://youtu.be/oRQVl8Fmg4U
+- https://youtu.be/vnuNWVNUa3w
+- https://youtu.be/NtAbrYcOKyM
+- https://youtube.com/shorts/H-NpmJ5EP2U?feature=share
+- https://youtube.com/shorts/0v2zruSKN1g?feature=share
+- https://youtube.com/shorts/V1uR8tbiOIs?feature=share
+- https://youtube.com/shorts/KuiMu3ndwhU?feature=share
+- https://youtube.com/shorts/HqC01_RA4jY?feature=share
+- https://youtube.com/shorts/HqC01_RA4jY?feature=share
+- https://youtube.com/shorts/M7Zc-hF41IM?feature=share
+- https://youtube.com/shorts/d0C7VknsBWo?feature=share
+- https://youtube.com/source/RUNYQdgOKlc/shorts tontoron tonton
+- https://youtu.be/faOAF5M6DH4 & video doggy doggy
+- https://www.youtube.com/live/0PXJ2XalekM?feature=share
+- https://youtu.be/2z8tQqZG8gI
+- https://youtu.be/d-SLhDmaTqI
+- https://youtu.be/mVIfu7cCM9c
+- https://youtube.com/shorts/vS8HHpkB9Oc?feature=share
+- https://youtu.be/zcgki6PT6RE
+- https://youtu.be/D9d1oBOEy_s
+- https://youtu.be/F_PuTU8Fow0
+- https://youtu.be/IDpNcsgY9Zk
+- https://youtu.be/2LXR8e_aDYE
+- https://youtu.be/T5U4ytkN74g
+- https://youtu.be/5veUJsPCKDw
+- https://youtu.be/qhP-3CkiRzY
+- https://youtube.com/shorts/twU6LT8hCNU?feature=share
+- https://youtube.com/shorts/0LEZQGXCL6U?feature=share
+- https://youtu.be/hC4x-Yx-4mY
+- https://youtu.be/GS_b9ZPtGaI
+- https://youtube.com/shorts/50a3ELn2lIU?feature=share
+- https://youtube.com/shorts/nmmVNN0Xt3I?feature=share
+- https://youtu.be/iE4pDZtaA3U
+- https://youtu.be/TTX_DIM6PQ4
+- https://youtu.be/e2HZy7mNGEQ
+- https://youtu.be/_Vr6KE-6gEY
+- https://youtu.be/HNlm152BQPM
+- https://youtube.com/shorts/0lo5CaBUPKQ?feature=share
+- https://youtube.com/shorts/1HtguDKyONg?feature=share
+- https://youtu.be/94gpIscW0Mc
+- https://youtube.com/shorts/Da5sQl3dQx4?feature=share
+- https://youtube.com/shorts/WRvzSQ8DwWQ?feature=share motw sawadikap
+- https://youtu.be/AcTbe_Wr7oM rcti oke
+- https://youtu.be/6yBkLdrgTPw
+- https://youtu.be/CTm1CFn_Sfk
+- https://youtube.com/shorts/DXTBt0fcgzI?feature=share
+- https://youtube.com/shorts/0ieMgN8Yiec?feature=share
+- https://youtube.com/shorts/R3H56mpsp78?feature=share
+- https://youtube.com/shorts/norjR8sGlxk?feature=share
+- https://youtube.com/shorts/3gHjJKnXtWw?feature=share
+- https://youtube.com/shorts/jqkzBXhbeAU?feature=share
+- https://youtu.be/6FfXG4YGMJI k8888 k88888 an88888
+- https://youtu.be/EQ0aXrW4L74
+- https://youtube.com/shorts/E39ouCETE4I?feature=share
+- https://youtube.com/shorts/M7iJ4k_aIvA?feature=share
+- https://youtu.be/wuq_rKQHt6M official rcti ok rev tv stolen
+- https://youtube.com/shorts/4MAfwq1R7QE?feature=share
+- https://youtube.com/shorts/8z0bBLLnAf4?feature=share
+- https://youtu.be/8hnnDec-MNs
+- https://youtu.be/sNMvx2AatdM
+- https://youtu.be/syLKYwcN-Ws
+- https://youtu.be/B1WXilnqBik
+- https://youtube.com/shorts/jbi0t555lrI?feature=share
+- https://youtube.com/shorts/F4afkeZsTv4?feature=share resurrect kitten
+- https://youtu.be/s1VhaFCYeIs
+- https://youtu.be/b68iF8s5iew
+- https://youtu.be/MfXU4ItSCdw
+- https://youtu.be/1tjWUCUDVjk
+- https://youtube.com/shorts/uIAtYeDL3Wc?feature=share
+- https://youtube.com/shorts/-0_zomauRbs?feature=share
+- https://youtube.com/shorts/aHmQMAr2HOM?feature=share
+- https://youtube.com/shorts/MmmPsGc3590?feature=share
+- https://youtube.com/shorts/gn58kYuDbng?feature=share
+- Aku sayang kamu juga sayang kita berjauhan
+- https://youtube.com/shorts/V0mYtPxkKdc?feature=share
+- https://youtube.com/shorts/-BVbuE9ZWCo?feature=share
+- https://youtu.be/uajNCiuF_AM
+- https://youtube.com/shorts/P8qQsGSAPdY?feature=share
+- https://youtube.com/shorts/17rKHK-1Qt0?feature=share
+- https://youtube.com/shorts/feG66YNUzCk?feature=share
+- Siapa namamu tuan? Dis
+- https://youtube.com/shorts/WdLxr8TLtuA?feature=share
+- https://youtube.com/shorts/dpnmTAv-m6g?feature=share
+- https://youtu.be/wi2Y0GOgqxk
+- https://youtube.com/shorts/ad-V9D_WG7g?feature=share
+- https://youtu.be/byEvpLta5VY
+- https://youtu.be/LxKXdHuMB5Q
+- https://youtu.be/AP_MHRNSFxU
+- https://youtube.com/shorts/QUqBsmST-uU?feature=share
+- https://youtube.com/shorts/TKZSDHJDQbk?feature=share
+- https://youtube.com/shorts/480W7vnM0LA?feature=share
+- https://youtube.com/shorts/_dDdu3u_zUo?feature=share
+- https://youtu.be/zlimpgWO-7o
+- https://youtube.com/shorts/ZWaFiPsrYck?feature=share
+- https://youtube.com/shorts/tcoRKT0s_gg?feature=share
+- https://youtube.com/shorts/2xSZkEGIaIw?feature=share
+- https://youtube.com/shorts/dJZGg_KKkFo?feature=share
+- Santai dulu gk sih?
+- https://youtube.com/shorts/VH-R5samHGA?feature=share
+- https://youtube.com/shorts/zByirwHjgAo?feature=share
+- https://youtube.com/shorts/zCUK1Dy0FEg?feature=share
+- https://youtube.com/shorts/MWuk1xdgWl0?feature=share
+- https://youtube.com/source/-uOShlFu1v8/shorts
+- https://youtube.com/shorts/UiO1EolJ7F8?feature=share
+- https://youtube.com/shorts/QI-dim0odeE?feature=share
+- https://youtu.be/Hbb5GPxXF1w
+- https://youtube.com/shorts/yEEr-88pFts?feature=share
+- https://youtube.com/source/fnLhliPbvI8/shorts tiktok I love you
+- https://youtu.be/fnLhliPbvI8 i love you kevin rater
+- https://youtube.com/shorts/EkZ9L7qihBk?feature=share
+- https://youtube.com/shorts/EkZ9L7qihBk?feature=share
+- https://youtube.com/shorts/vS7uazIPeW0?feature=share
+- https://youtube.com/shorts/pXOhaOFX-lE?feature=share
+- https://youtube.com/shorts/NEDccb0h-Pk?feature=share
+- https://youtube.com/shorts/W2a_fLfIS_k?feature=share
+- https://app.box.com/s/2ewoxx9cr34lz05pon2dzk1zoj0pxh2a thefatrat escaping gravity remix component stem
+- https://youtube.com/shorts/BvIUqoitQg4?feature=share
+- https://youtu.be/kpMrrIbUSns
+- https://youtu.be/6_nhAeqdo_4
+- https://youtube.com/shorts/zA8MzkXn8Ww?feature=share
+- https://youtube.com/shorts/zA8MzkXn8Ww?feature=share
+- https://youtube.com/shorts/TCtjfMji1uk?feature=share
+- https://youtube.com/shorts/QaJLJkKFEN4?feature=share
+- Content paywall reddit API
+- https://youtube.com/shorts/7IOjAG3L16o?feature=share
+- https://youtube.com/shorts/A9cLVEbCxQI?feature=share
+- https://youtube.com/shorts/16nRdvnYj1o?feature=share
+- https://youtu.be/Wb1Px4Rd3LE
+- https://youtube.com/playlist?list=PL2m2YvnrOYxKeUKaA7vvWisbxcjZZshjT explaining computers member only videos
+- https://youtube.com/playlist?list=PL2m2YvnrOYxLMxci6j3kwRDgXpOnm6HVD
+- https://youtube.com/playlist?list=PL2m2YvnrOYxK5Vy53WAB037x5A-jSuYpQ
+- https://www.qubes-os.org/news/2023/08/02/qsb-090-update/
+- https://youtu.be/oL4w3AK6Qpw
+- https://youtu.be/hQyMS5q5H5s
+- https://youtu.be/Ne88Is2cymQ
+- https://youtu.be/hQyMS5q5H5s
+- https://youtu.be/219EOMEOMLo
+- https://youtu.be/219EOMEOMLo
+- https://youtu.be/sbHxzMm0uOc
+- https://youtu.be/zUnVLELDzzI
+- https://youtu.be/w0p7VQojNIQ
+- Head bell pls
+- Carshearer
+- Dua Lipa
+- Mime & Dash Derpixon?!?!?! Clap clap
+- Martin Cabello fast talk
+- St12 puspa
+- Jia Fei song will ya
+- will it blend
+- https://youtu.be/OQBD4KWgivk
+- https://youtube.com/@Blendtec will it blend
+- https://youtube.com/@BlendtecRecipes
+- https://youtube.com/@blendteccommercial5727
+- https://youtu.be/ob8GdAmYEPU
+- https://youtu.be/HueCc6JS8vQ
+- https://youtu.be/P7e2RFl4u2I
+- https://youtu.be/q3BcKmdDyXU
+- https://youtu.be/5aWZ-jHnizE
+- https://youtu.be/dYs_DkFIqx8
+- https://youtube.com/shorts/wYwqzd0axwU?feature=share
+- https://youtube.com/shorts/vq6j_Nqz-Tc?feature=share
+- https://youtu.be/caZIIDyPIps
+- https://youtu.be/F6GYOsi8gqo
+- https://youtu.be/F6GYOsi8gqo
+- https://youtu.be/XQetkv6_uyo
+- https://youtube.com/playlist?list=PLg6me2IluOEyI62HhvTeIm_URE2ONn4wf
+- https://youtu.be/Pnonj_84Ju4
+- https://youtube.com/playlist?list=PLg6me2IluOEz_UHij4frsEDysN3vtLw3h
+- https://youtu.be/wVIpJVUALSc
+- https://youtu.be/FKA_wNKiUI4
+- https://youtu.be/0H8VLjFmgYo
+- https://youtu.be/KWqw5SpITg8
+- https://youtu.be/B3C-TfPsj2M
+- https://youtu.be/KtVWtKn0_D4
+- Bruno Mars Treasure. A darktoner kid girl explores an abandoned temple and found a treasure. Note that this person is not Sarah Rubber.
+- https://youtube.com/shorts/eyFuFHxBxBs?feature=share
+- https://youtube.com/shorts/ysbLQFbT4ak?feature=share
+- https://youtu.be/bgpbGldoBNY
+- https://youtube.com/shorts/hXuu_vV1Hyw?feature=share
+- https://youtube.com/shorts/31ZgtKvrQ6c?feature=share
+- https://youtube.com/shorts/INw4y5fU2_E?feature=share
+- https://youtube.com/shorts/asKi4rsypSU?feature=share
+- https://youtube.com/shorts/hsAgik8VoR8?feature=share
+- https://youtube.com/source/4O2SS7aUtxs/shorts boogie woogie wu
+- https://youtu.be/4O2SS7aUtxs ye
+- https://youtube.com/shorts/1CB29gpyEO8?feature=share
+- https://youtube.com/source/3bXEHGUvVrA/shorts whip it
+- https://youtu.be/IIEVqFB4WUo ye
+- https://youtu.be/7vjrjXud-WE
+- https://youtu.be/P1oLZacmSVA
+- https://youtu.be/NqSTdiMKAfg
+- https://youtu.be/imUMyRmIOpA
+- https://youtu.be/g8Qav3vIv9s
+- https://youtu.be/Aq9ur0VfVn0 casey bats again
+- https://youtu.be/hIPGlFR3iG4
+- https://youtube.com/shorts/BVNkUOtl7Iw?feature=share
+- https://youtube.com/shorts/zo-8zM2ZJgY?feature=share
+- https://youtube.com/shorts/TrJp8OC7pZk?feature=share
+- https://youtube.com/shorts/w40rc-5AQfI?feature=share
+- https://youtube.com/shorts/8LMyRxJytag?feature=share
+- https://youtu.be/Ua3wlssr6rw
+- https://youtu.be/Aq9ur0VfVn0
+- https://youtu.be/gB_EsaLuqeM
+- https://youtube.com/shorts/QRreYi6JR5E?feature=share
+- https://youtube.com/shorts/DUwQo9Eqncs?feature=share
+- https://youtu.be/s39qguXmm0I
+- https://youtu.be/nlxY8Ec7Qdw
+- https://youtu.be/JTHN74qLvmU
+- https://youtu.be/Ox7twX-xTug
+- https://youtu.be/AM4j9ObRUpA
+- https://youtube.com/shorts/KsiRQSXewso?feature=share
+- https://youtu.be/8lZqWsj71kU
+- https://youtube.com/shorts/Vwlr1eltEv4?feature=share
+- https://youtube.com/shorts/Vwlr1eltEv4?feature=share
+- https://youtube.com/shorts/sF9tuNO30os?feature=share
+- https://youtube.com/shorts/R3EygBWEAu0?feature=share
+- https://youtube.com/shorts/JgR2f0slDqQ?feature=share
+- https://youtu.be/P277Sb-1iJE
+- https://youtu.be/Xu6mig_cdu0
+- https://youtu.be/9_YYyTYRZTI
+- https://youtube.com/shorts/cQGLOBl0cCU?feature=share
+- https://youtube.com/shorts/uglISQDihJI?feature=share
+- https://youtube.com/source/aaFUjDAgd-k/shorts cerita malam
+- https://youtu.be/aaFUjDAgd-k and vid
+- https://youtu.be/Y7ngGZrvNnI
+- https://youtu.be/v0Achb7qHpA
+- https://youtu.be/iU82szNZmGM
+- https://youtube.com/shorts/ecASVp-6bL8?feature=share
+- https://youtube.com/shorts/fA3lQaZK3aA?feature=share
+- https://youtu.be/l2XTKmsrX3I
+- https://youtube.com/shorts/7D9zxQw2ZAs?feature=share
+- https://youtu.be/XkpKaehSdV0
+- https://youtu.be/ybR3VAvBkXY murfs gaming ltt lab tour. The difference between us
+- https://youtu.be/VLVxb00dr5k
+- https://youtube.com/shorts/H5XTCpPlUc0?feature=share
+- https://youtube.com/shorts/m2vxkvyKqvw?feature=share
+- There seems only 1 look of April O' Neil there. That's it. LazZa1
+- https://youtu.be/zKg1hPoSpko
+- https://youtube.com/shorts/mKIhHNznt4s?feature=share
+- https://youtube.com/shorts/YvenlaQ5oPg?feature=share
+- https://youtu.be/Fe-IQnUf0PI
+- https://youtube.com/shorts/2jDv1iNGjds?feature=share
+- https://youtube.com/shorts/OjBtdAh-BVs?feature=share
+- https://youtube.com/shorts/wDL5cuoHRvM?feature=share
+- https://youtube.com/shorts/TMNo5_VgDEs?feature=share
+- https://youtu.be/Yfl39TqdI28
+- https://youtu.be/owiKfwz5BqU
+- https://youtu.be/Ppph6qnP8Pg
+- https://youtu.be/u_CkoVEa_mA
+- https://youtu.be/pKiFk7tBTLg
+- https://www.gamersnexus.net/
+- https://gamers.nexus/ failure notices
+- https://gamers.nexus/failure-list
+- https://gamers.nexus/ethics-statements/advertising
+- https://gamers.nexus/ethics-statements/errors-corrections-amp-data
+- https://youtube.com/@gnextras
+- https://youtu.be/0XcP06Qbn28
+- https://youtu.be/OniFkDc8Btw
+- https://youtu.be/pFG9B9pldxM
+- https://youtu.be/LHUz_9avorc
+- https://youtu.be/u_CkoVEa_mA
+- https://youtu.be/2UK1OpXG2PQ
+- https://youtu.be/E_-8IMIStyw
+- https://youtu.be/X7a9VFnJecU
+- https://youtu.be/Rd30iUUkJ1A
+- https://github.com/brunodev85/winlator
+- https://youtu.be/9E4wnKf2OsI
+- https://youtu.be/zU9iYVatnP8
+- https://youtu.be/ExsSfu31TjY
+- https://youtu.be/pUuuFa7rbNo
+- ye
+- https://github.com/brunodev85/winlator obb file on prev release containing it
+- https://github.com/brunodev85/Winlator/releases
+- https://youtu.be/Rd30iUUkJ1A
+- Ye
+- https://youtu.be/xyomxZesm00
+- https://www.behance.net/gallery/2356134/Frutillo-Magic-%28-The-Memories%29
+- https://youtu.be/bwjLYWR5JJs
+- https://youtube.com/shorts/bXadNaZxiNo?feature=share
+- https://youtu.be/ZlIAwIIMc2E
+- https://youtu.be/S0Yap2Nbt60
+- https://youtu.be/zexXH3lS8Uw
+- https://youtube.com/shorts/sQXyDOEfk3U?feature=share
+- End Riff Kevin Macleod Exhilarate
+- Loh!! Kok ngapain exhilarate disitu?!
+- https://github.com/ptitSeb
+- https://github.com/ptitSeb/box86
+- https://youtube.com/shorts/6-msVLifjGk?feature=share
+- https://youtube.com/shorts/WeD-U6ck0C0?feature=share
+- https://youtu.be/y8VVb2GkfzY
+- https://youtu.be/p2rsb2alw_E
+- https://youtu.be/DMTR7xUSz9Y
+- https://youtu.be/arG_35wRg18
+- https://youtube.com/shorts/MR6_e6B1qu4?feature=share
+- https://youtu.be/onqwhy65O7o
+- https://youtu.be/AZHfJ5siWjM
+- https://youtu.be/-SdGBMiUWsw
+- https://youtube.com/shorts/cqQR76Fg6zU?feature=share
+- 3D differences. Spot the Differences but 3D VR. Switch between identical 2 dimension and spot which are different from these 2.
+- https://youtube.com/shorts/-IYIuJ_CLPM?feature=share
+- https://youtube.com/shorts/jjYhSOHZK38?feature=share
+- https://youtube.com/shorts/y8vNe7zYP1o?feature=share
+- Light skin stare
+- https://youtube.com/shorts/E4toGiIlIGs?feature=share
+- https://youtube.com/shorts/Hp4K9xekZGM?feature=share
+- https://knowyourmeme.com/memes/lightskin-stare
+- https://youtu.be/J_z-W4UVHkw
+- https://youtu.be/jObOjhUkf50
+- https://youtu.be/J_z-W4UVHkw 4:40 I'm sorry we already have 5
+- https://youtu.be/yhB3BgJyGl8
+- https://youtu.be/h5NvTTOlOtI
+- https://youtu.be/YBtc2jCYJaU mr beast song ya?
+- https://youtu.be/I3Ox67NshjE yaa
+- https://youtube.com/playlist?list=PL1AD6D3C0E386E198 pilgrim progress animated
+- https://youtu.be/8gYhsngJmRM
+- https://youtu.be/ksu-zTG9HHg
+- https://youtu.be/XPB_GDg9qnk there it is. Live action Pilgrim Progress
+- https://youtu.be/uuFrax5TrDY
+- https://youtube.com/@ChristianMovies Christian Movies channel
+- Are you serious, Squarespace, is this how you design table for Mobile?! I am confused which one is different row! Oh, it's after this. Still, this is unintuitive!
+- .
+- Item. When sold out always restocks tomorrow.
+- When 0 sale today, take 1 life off. 3 lives first. When life out, booth discontinue, stock returns and never come back.
+- The buyer must be unique to count as atleast 1 sale this day.
+- .
+- During fasting season, our canteen are covered up with non-opaque solid panels. The booths are covered and tables have solid non-see-thru barrier. Well not too concealed, it's just to symbolize politeness & respect for those who are fasting.
+- We ask all personels to also cooperate by concealing their lunch food during consumption. Just pose, not over, which also a symbol of politeness and respect. Nah friend we do not want to distract you.
+- .
+- Precise Driving level: Move this van from this house to second house on across block. Road in both street block is narrow. Espass. Semarang house. Manual transmission. Use reverse.
+- https://youtube.com/shorts/Y-vLayu1NWs?feature=share
+- https://youtu.be/uuFrax5TrDY
+- https://youtu.be/3MevTf4yyXI
+- https://youtu.be/wbbpxKHDIQY
+- https://youtu.be/mi58bHFbh9s
+- https://youtu.be/-38AXzJIwDg
+- https://youtu.be/nOOObydhqtU
+- https://youtu.be/RYCqZOEpPxE
+- https://youtu.be/t2bGufsCDBU
+- https://youtu.be/rVshuWSm3G4
+- https://youtu.be/Zz7rDlCuaH0 young Messiah
+- https://youtu.be/jrq_1-C0c9o
+- https://youtu.be/OjKObJUHgsY
+- https://youtu.be/QxGVgXf_LNk
+- https://youtu.be/JtPcLuqWvdg
+- https://youtu.be/ncu9E9W0Q5E
+- https://youtu.be/oLEbslAE5_M
+- https://youtu.be/-8xJDHqbgbE
+- https://youtu.be/RXcKZ_mYK5k
+- https://youtu.be/33NC6_EN81Q
+- https://youtu.be/BLBdMKjO7-M
+- https://youtu.be/2GZyoiqLM1Y
+- https://youtu.be/gbDgzZ3t5EA
+- https://youtu.be/Yb-lkxk6GQw
+- https://youtu.be/jQP29yT2nrs
+- https://youtu.be/lD_ag67tH3I this is getting out hand! Now there are 2 of them!
+- https://youtube.com/shorts/O3YVBJ2n5xg?feature=share
+- https://youtube.com/shorts/DYJl8JCP4yc?feature=share
+- https://youtube.com/shorts/s6uI_LWGWTE?feature=share
+- https://youtu.be/Uy1cNFC658U
+- https://youtube.com/shorts/GPguWw97TJo?feature=share
+- https://youtube.com/shorts/53X_9tXB8WU?feature=share
+- https://youtu.be/W06JB1UatrI
+- https://youtu.be/_EyCXRLnlNM
+- https://youtube.com/shorts/KJDqlNMjc18?feature=share
+- https://youtube.com/shorts/MGevgv33uBA?feature=share
+- https://youtu.be/_7T_QsoX2Pw
+- https://youtu.be/ja16DO5Utuo
+- https://youtu.be/cwoDODpUJRo
+- https://youtu.be/STUdSzGB8xE
+- https://youtu.be/vLKtt4D6oqw
+- https://youtu.be/Qln1JZXB9XY
+- https://youtu.be/Jb79el0VR9I
+- https://youtu.be/2NAJ6iddb_0
+- https://youtu.be/yl4CYGGTvvE
+- https://youtu.be/S7PUJKE1t_Y
+- https://youtu.be/jau4iv51WUY
+- https://youtu.be/hbuMAxVdUtI
+- https://youtu.be/cZNsuqM6D2A
+- https://youtu.be/ti_9QGRbawY
+- https://youtube.com/shorts/OoKApaZhyP8?feature=share
+- https://youtu.be/UKpFoYqN9-0
+- https://youtu.be/iYSXYbVZw4k
+- https://youtu.be/xQ319PFyO80
+- https://youtu.be/XrbWb1KyUxc
+- https://youtu.be/TwQvZaqpwDk
+- https://youtu.be/BbbkExGbVDI
+- https://youtu.be/tCnRakOBOew
+- https://youtu.be/uQiZhMI1d5k
+- https://youtube.com/shorts/Vrn0QXg4Aig?feature=share
+- https://youtu.be/egHL3l96fqc
+- https://worldline.com
+- https://youtu.be/NoWcpf7-0mg
+- https://youtu.be/yHD6D612nXI
+- https://youtu.be/CfUcNPr2T8A
+- https://youtu.be/dj-Wn-di-zM
+- https://youtu.be/An1xeBKXWjY
+- https://youtu.be/dzIhimEuIgA
+- https://youtu.be/9Q6--IAHzR0
+- https://youtu.be/6x_b11Kyrco
+- https://youtu.be/lRElsjzAmcw
+- https://youtu.be/yYfrU5WrYu0
+- https://youtu.be/9FJNadJoCqI
+- https://youtu.be/PFYPtcldJBs
+- https://youtu.be/txVaF4-Xt1M
+- https://youtu.be/fIfsX-Z8yp0
+- https://youtu.be/f7OimQ4KVbE
+- https://youtu.be/RmX9vtuUsZw
+- https://youtube.com/shorts/jOIpnC2gi2U?feature=share
+- https://youtube.com/shorts/7cpc6hTp_DI?feature=share
+- https://youtu.be/3G1P4BB22p0
+- Dip your textbook in a bucket of highlighter ink.
+- https://youtube.com/shorts/J37wPUN32_A?feature=share
+- https://youtu.be/v_P2ESHDSuA
+- https://youtu.be/Sep_ArXpTBk
+- https://youtu.be/hAO8BUof9IM
+- https://youtube.com/shorts/eOktOh7rK54?feature=share
+- The President rule of Quality Journalism will suppress individual creator rights and prioritize prosperity of media that registered to the Press council.
+- .
+- .
+- Leave Dasandim. During Anti-Defamation era. Reference to Oppenheimer.
+- A: Well if you lean so, leave Dasandim. I left Indonesia because you know.. Tubers rights takeoffs.
+- B: (giggle) eh heh he he.. Well, It happened that I love this country.
+- A: Then fight for it!
+- .
+- .
+- .
+- https://youtu.be/ZwYp0XVJjUU
+- .
+- Which 4 of these did not make it to Heaven in parable of Pilgrim's Progress: Christian, Hopeful, Faithful, Ignorance. Answer = Ignorance. Ignorance took too many shortcuts. Faithul even he died executed in Fair city Beelzebub, he immediately brought by angels through a chariot.
+- https://youtu.be/123XZWwUG-k
+- https://youtu.be/123XZWwUG-k
+- https://youtu.be/i4rukBSK2Y4
+- https://youtu.be/KA0rt6qhZds
+- https://youtu.be/Sz2lmv7poJo
+- https://youtu.be/BCS6SjP3_ro
+- https://youtu.be/BdgtnLFnFd8
+- https://youtu.be/yLH0Ca76PjQ
+- https://youtu.be/8uqIpm5AAPc
+- https://youtu.be/t5_MteXGggk
+- https://youtu.be/8lir9_tz-Ig
+- https://youtu.be/-GfmbN5Kq80
+- https://youtu.be/AYR1Y4qufds
+- https://youtube.com/shorts/J6e09ageXvE?feature=share
+- https://youtube.com/shorts/_H_4vowlRvI?feature=share
+- https://youtu.be/E94TlEPRMfM
+- Publisher Rights
+- https://youtu.be/Clc5VsbjyAQ
+- https://youtube.com/shorts/QRHY5R5uNuU?feature=share
+- https://youtube.com/shorts/CP82DAKzL1U?feature=share
+- https://twitter.com/Eints01/status/1692692376052244880?s=20
+- https://youtu.be/faeen3y7PV0
+- https://youtube.com/shorts/NWWU55MY2_0?feature=share
+- https://youtu.be/jh79YSCC8mM
+- https://youtu.be/k_kKBwG-hOQ
+- https://youtu.be/MJT9QgLv4Nc
+- https://youtube.com/shorts/LoYTvxKeBlE?feature=share
+- https://youtube.com/shorts/YlWpGt1oVuk?feature=share
+- https://youtu.be/dQWlFuhi-Kg kungfu panda extended preview
+- https://youtu.be/3rH6ILzt4KM
+- https://jimjum.itch.io/communite
+- https://youtu.be/saDOmJVEjjQ Guardian of the lost code
+- https://youtu.be/zfjP34iW7BY
+- https://youtu.be/7MhdG3QmN-w
+- https://youtu.be/vI7JDTlixb8 family guy movie logos
+- https://youtu.be/1DcpDdlutRw
+- https://youtu.be/B5wCziuqnwk story of the entire bible
+- https://m.facebook.com/photo.php?fbid=751559033438562&id=100057534155429&set=a.180613970533074&eav=AfZnNQclbP-Ke-Bi3FXFqsufYSPPM_L03oB0R5jTC2PAQXzufrYIKha49T274qlJ2BA&paipv=0&source=57
+- https://youtube.com/shorts/tuKZU01k3J4?feature=share
+- https://youtu.be/EwB2bv6HqkI sing payphone meme
+- https://youtu.be/hcOua1FOBqA
+- https://youtu.be/V7kkio98-cg
+- https://youtube.com/shorts/RD1ZrLvLw20?feature=share
+- https://youtu.be/qIbjYqKwXcM
+- https://youtu.be/V7kkio98-cg alas ramus
+- https://youtu.be/KjsUitc2uf0
+- https://youtube.com/shorts/wTV_Jn8VxO4?feature=share
+- https://youtube.com/shorts/pDINUtAUolQ?feature=share
+- https://youtu.be/8KVj1_bOuu0
+- https://youtu.be/71hxZBMWFn8
+- https://youtu.be/pBLfaJpYbeg
+- https://youtube.com/shorts/aPBGMmbi0Yg?feature=share
+- https://youtu.be/VLbD_9WtAho
+- https://youtu.be/Lrnwp70xO8Q
+- https://youtu.be/2I08cdi3NP4
+- https://youtu.be/1n1aDVuBZu4
+- https://youtu.be/Emuzn0nRbWA
+- https://youtube.com/shorts/qXUrwD5WkF4?feature=share
+- https://youtu.be/hGXlTth6rro
+- https://youtu.be/9qyD7vjVfLI
+- https://youtube.com/shorts/ykRq_rp7NhM?feature=share
+- https://youtube.com/shorts/4GxVFD2fVg4?feature=share
+- The Mighty Red. Si Jago Merah. Fire. Flame.
+- https://youtube.com/shorts/L0pJlv1CE1o?feature=share
+- https://youtube.com/shorts/lKrYtcVNRA4?feature=share
+- https://youtube.com/shorts/Z5iwzuktiVY?feature=share
+- https://youtube.com/shorts/xU8frU1nF4A?feature=share
+- https://youtube.com/source/Y_DDOaETtuM/shorts trapped in closet pt 1
+- https://youtube.com/shorts/Y_DDOaETtuM?feature=share ye
+- https://www.youtube.com/live/davn8wCFFGQ?feature=share
+- https://youtu.be/JxDMIdj3Bbs
+- https://youtu.be/sVM0xyJdvmw
+- https://youtu.be/Zi9hpGVVUh0
+- https://youtu.be/cNadnhV0_iI
+- https://youtu.be/wYoLST2kSls
+- https://youtu.be/f-Vzch8Fjlg
+- https://youtu.be/RC_V89xSgPA
+- https://youtu.be/dBGBcRA7jVE
+- https://youtu.be/gJW5yXXnWIA
+- https://youtube.com/shorts/ey-n-aow0Sc?feature=share
+- https://youtube.com/shorts/TQHPAxTnNXM?feature=share
+- https://youtu.be/KmOE-4Ibygs
+- https://youtu.be/IiEqJ2_d9p4
+- https://youtu.be/ZEir2mTciuk
+- https://youtube.com/shorts/YqGScBWblQ8?feature=share meem
+- https://youtu.be/AEUffI4nAIM kafka
+- https://youtube.com/shorts/BzmnN9mN6WE?feature=share
+- https://youtube.com/shorts/Wzj0YTLWgxo?feature=share
+- https://youtu.be/D9yIlGpgCus
+- https://youtu.be/0naif9Vqo9U
+- https://youtube.com/shorts/VRPYVAFErOc?feature=share
+- https://youtube.com/shorts/UYLOdVxELlU?feature=share
+- https://youtube.com/shorts/R10FB5ElfL4?feature=share
+- https://youtube.com/shorts/0OF51Aup3_E?feature=share
+- https://youtube.com/shorts/vHtJupJce7M?feature=share
+- https://youtu.be/ky5J-1FV6ss
+- https://youtube.com/shorts/VRPYVAFErOc?feature=share
+- https://youtube.com/shorts/pKuNOUwwLJ4?feature=share
+- https://youtube.com/shorts/x-ADbDsWykE?feature=share
+- https://youtube.com/shorts/n8ab0JNR4lk?feature=share
+- https://youtube.com/shorts/mnF10ZLwTZs?feature=share
+- https://youtube.com/shorts/MzCQpNctkts?feature=share
+- https://youtube.com/shorts/lUw-uVSVHHU?feature=share
+- https://youtube.com/shorts/kBDH5_fs7pM?feature=share
+- https://youtube.com/shorts/FtmLC8ttOkA?feature=share
+- https://youtube.com/shorts/Hl27gUsmLPI?feature=share
+- https://youtube.com/shorts/7Y0yvUJhL08?feature=share
+- https://youtube.com/shorts/YU0Z_pnzK7I?feature=share
+- https://youtube.com/shorts/ijLj36zCOZg?feature=share
+- https://youtube.com/shorts/yAwKb_pNkN0?feature=share
+- https://youtube.com/shorts/HOolWnOvr7I?feature=share
+- https://youtube.com/shorts/adVZdU3T2iY?feature=share
+- https://youtube.com/shorts/J_7siMO57pA?feature=share
+- https://youtube.com/shorts/WSiwn5hkAlM?feature=share
+- https://youtube.com/shorts/W-RLIQhHKk8?feature=share
+- https://youtube.com/shorts/WyLOTzKzQLQ?feature=share
+- https://youtu.be/nCHHAFyp9I0
+- https://youtu.be/GQ-lz47djFc fake incorrect Windows startup shutdown sound
+- Mr. Heavybass. A mask primitive blend guy with super deep voice. He is a podcaster, usually mystery related.
+- https://youtu.be/BdRIhFcf4Do
+- https://youtu.be/Frd7noj9QJM
+- https://youtu.be/kgsY0ogdwFU
+- https://youtube.com/shorts/awwXtxMT6wU?feature=share
+- https://youtube.com/shorts/YlvQwMzQjHw?feature=share
+- https://youtube.com/shorts/SH3fbe6PJQ8?feature=share
+- https://youtube.com/shorts/woXET74tgRE?feature=share
+- https://youtu.be/xnudvJbAgI0
+- https://youtu.be/s6lOVbtzTkE samsung windows theme / longhorn fake
+- https://archive.org/details/samsung-theme pls download
+- https://youtube.com/shorts/LF9qd9msmyE?feature=share
+- https://youtube.com/shorts/AdAty44sVHg?feature=share
+- https://youtu.be/B1aiLARtMck
+- https://youtu.be/Cj4U5rMhFoY
+- https://youtu.be/CMa5jXm6rQU
+- https://youtu.be/JmHRx3211OE
+- https://youtu.be/LLPcCuLUFtY
+- https://youtu.be/W5cDOqk7V_0
+- https://youtu.be/Fn6xq8vdH88
+- https://youtu.be/v6psQICjL4g
+- https://youtu.be/qr3Njihmy9I
+- https://youtu.be/CNs6WCB5g6s metamorphosis interworld ramadhan arab remix cover
+- https://youtu.be/k4ULst1KLec
+- https://youtu.be/O_gBLJ_YsOc
+- https://youtu.be/qB6hBM93cy8
+- https://youtu.be/6u9n_EdkoK4
+- https://youtu.be/4PXAoWQSopo
+- https://youtu.be/WI6btM8uwSU
+- https://youtu.be/QnhFSQCT8qE yaosobi iPhone
+- https://youtu.be/3ZzT8m0a4sA
+- https://youtu.be/zasZKgIN1cU
+- https://youtu.be/A3AjiTmX1-I
+- https://youtu.be/gmMEiTrze-A
+- https://youtu.be/VcfxFY9Zz7s
+- https://drive.google.com/file/d/1bWwDiyOiVbuxPRCnCzCau3jWMPrkurTv/view yo! Pls download
+- https://youtu.be/gmMEiTrze-A this guy got it.
+- https://youtu.be/Ek40XtVsO7g
+- https://youtu.be/W3O1s9WfnUs
+- https://youtube.com/source/9fQasCJb19Y/shorts all i want is you
+- https://youtu.be/3C6smbJdKyY all i want is you
+- https://youtu.be/8HEWJiRmw3g
+- https://youtu.be/55i7Lzob8go
+- https://youtube.com/shorts/oxucg3-eofY?feature=share
+- https://youtube.com/shorts/Ifkt7aLE9S8?feature=share
+- https://youtu.be/XSjz_P_1-rs
+- https://youtube.com/shorts/IhtjiA49_vM?feature=share
+- https://youtube.com/shorts/gFjjvzV8NSA?feature=share
+- https://youtu.be/OiaXy6IMhYs
+- https://youtube.com/shorts/OOzhj4EutVA?feature=share
+- https://youtube.com/shorts/P9c469SrPF8?feature=share
+- https://youtu.be/3JQg4yn9qyw
+- https://youtube.com/shorts/EcCuhgt-bOg?feature=share
+- https://youtube.com/shorts/25Nb_FLkIDE?feature=share
+- https://youtube.com/shorts/h03o8tc2hWw?feature=share
+- https://vt.tiktok.com/ZSLsdRhNf/ hutao roast
+- https://youtube.com/shorts/hNbwBa_-3Gc?feature=share sauce rant
+- https://youtu.be/InD4AHtIUNU full sauce rant
+- https://youtu.be/jpMrTxMV6E4
+- https://youtu.be/jpMrTxMV6E4 dialup
+- https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html?m=1 dialup
+- https://youtube.com/shorts/NGQJbD7bOAQ?feature=share
+- https://youtu.be/xp47x1EabqI
+- https://youtu.be/ub1yePgOZ7Q Jesus is listening
+- https://youtu.be/0JzdlmaZ6o4
+- https://youtu.be/N_aUSa_PK5s
+- https://youtube.com/shorts/HFo81R31hUI?feature=share
+- https://youtu.be/XWrAjvwHOr8
+- https://youtu.be/BDPZ9oi9Xf8
+- https://youtu.be/biUfhRrCY4E
+- https://youtu.be/bDN7vV50rSs
+- https://youtu.be/MUqTHfDfihM
+- https://youtu.be/eF7DGkJHRu0
+- https://youtu.be/N8nVpNL0ayo
+- https://youtu.be/2MBVDGrE_90
+- https://youtu.be/zZ569ieGJts
+- https://youtu.be/psDdNgPPSoU
+- Android Authority
+- https://youtu.be/JnbaR4DxsLo
+- https://youtube.com/shorts/vVLfS9WJp8I?feature=share
+- https://youtu.be/FM0YT8Di7W4
+- https://youtube.com/shorts/JX-BcR-KlLI?feature=share
+- https://youtu.be/HVHVkKt-ldc
+- https://youtu.be/jASQQFm4NNM
+- https://youtube.com/shorts/MI1dUalxJ1Y?feature=share
+- https://youtu.be/GlUzUuGvhEY
+- https://youtu.be/GqDKyUHNa-M
+- https://youtu.be/ng0gxBVh4oM
+- https://youtu.be/oCihQ2a4NlA
+- https://youtu.be/nlRxH3U53V0
+- https://youtu.be/g4cTx3oHXh0
+- https://youtu.be/dK8U70mfcv4
+- https://youtu.be/hKBSmgDk3aU
+- https://youtube.com/shorts/pBAfuXAK9Qc?feature=share
+- https://youtu.be/3-HnfdCIz8c
+- https://youtu.be/GuLwC60MNSE
+- https://youtube.com/shorts/USnRYVfTa-U?feature=share
+- https://youtube.com/shorts/KnCkttaq3yE?feature=share
+- https://youtu.be/QKeSGmp4F4c
+- https://youtube.com/shorts/kWI6gCr91Pw?feature=share
+- https://youtube.com/shorts/3jRbytIsbyw?feature=share
+- https://youtube.com/source/g0TiuFwX0r8/shorts avril lavigne girlfriend. Hey hey you you
+- https://youtu.be/Bg59q4puhmg vid
+- https://youtu.be/D5GQCHjtimg
+- https://youtu.be/jK9wmX6QkAQ
+- https://youtu.be/zQDqnRsmPz0
+- https://youtu.be/nI3-lyQpFfQ
+- https://youtube.com/shorts/Mwhmn96nnbw?feature=share
+- https://youtu.be/qb3LGSbmWw8
+- https://youtu.be/cBh3WaKbYhE
+- https://youtube.com/shorts/9T84QeeMwYg?feature=share
+- https://youtu.be/5gN80XGq1X8
+- https://youtu.be/9NUHFrp0TRA
+- https://youtu.be/l_6DH9Tgids
+- https://youtube.com/shorts/y5X8c1VKXUc?feature=share
+- https://youtu.be/TuM_1xSQCFw
+- https://youtu.be/Xp6Z8rgerf4
+- https://youtu.be/59FLrNTGVMg
+- https://youtu.be/U-lNeLXtpC8
+- https://youtu.be/SRdMQwQT47k
+- https://youtu.be/mzWaj_vDKBM
+- https://www.youtube.com/live/0T52v3WlFBY?feature=share
+- https://youtube.com/shorts/vt8TwrL-Bpg?feature=share
+- https://youtube.com/shorts/ZXEiu0Bf8vE?feature=share
+- https://youtu.be/7nJRhr4NQik
+- https://youtu.be/9x22zLGLkG0
+- https://youtu.be/6cX-WKmoMXU louchie lou 10 out of 10 
+- https://youtu.be/y8oiB6PqyGA
+- https://youtube.com/shorts/ZAVAJBl72Y4?feature=share
+- https://youtu.be/rKZLa0pzyBY
+- https://youtu.be/9vHdmJ8G5sk
+- https://youtu.be/GLSrwykthdw flushed away buy
+- https://youtube.com/shorts/2QkMKaTg6W8?feature=share
+- https://youtube.com/shorts/e5nlD2LfGd0?feature=share
+- https://youtu.be/4sDq7TjHrSE
+- https://youtu.be/2n1ODSZiSVU
+- https://youtu.be/2n1ODSZiSVU
+- https://youtu.be/39o5Vi8IKAM
+- https://youtube.com/shorts/kuR0yktzH-c?feature=share
+- https://youtu.be/Q4yqKi4UkT8
+- https://youtu.be/nuwbIHfMjlg
+- https://youtu.be/y8oiB6PqyGA
+- https://youtube.com/shorts/CKxWXjKflzQ?feature=share
+- https://youtube.com/shorts/_S8itDR1NRY?feature=share
+- https://youtu.be/RD_G9AyB7sU
+- https://youtube.com/shorts/wY9xi3k56Pw?feature=share
+- https://youtube.com/shorts/wY9xi3k56Pw?feature=share
+- https://youtube.com/shorts/Lyp0Y61lCbw?feature=share
+- https://youtube.com/shorts/zAftdxCXNtQ?feature=share
+- https://youtu.be/Erkva0637Y0
+- https://youtube.com/shorts/9iCqqexz_7o?feature=share
+- https://youtu.be/GVkga2JjM_s
+- https://youtube.com/shorts/-baGlEa4GlE?feature=share
+- https://youtu.be/GfCAN-ILeoU
+- https://youtu.be/m5LmNhe0TA4
+- https://youtu.be/gV_MGW5wgaw
+- https://youtu.be/XkuirEweZvM
+- https://youtu.be/fDnHqjrG2aM
+- https://youtube.com/shorts/UDVVXRn6hiw?feature=share
+- https://youtube.com/shorts/UDVVXRn6hiw?feature=share
+- https://youtube.com/shorts/q2w4PQ40Hlk?feature=share
+- https://youtube.com/source/0Vsz50SymS0/shorts space three
+- https://youtu.be/0Vsz50SymS0 space three
+- https://youtube.com/shorts/e-k6yBqmGPk?feature=share
+- https://youtu.be/bIgPhmxhnEU
+- https://youtu.be/tI8pcviWspg
+- https://youtu.be/3XwjCrQP8qM
+- https://youtube.com/shorts/4u7K2pDyqDQ?feature=share
+- https://youtube.com/shorts/FtaBY7GAoV0?feature=share
+- https://youtu.be/kkhH2fwjlCo
+- https://youtube.com/shorts/p46JFcvdYBw?feature=share
+- https://youtu.be/cvz4ab0X8CQ
+- https://youtu.be/YgeYScYe8wI
+- https://youtu.be/4-tkJujQba0 cheemz tribute
+- https://youtu.be/Sr6R4jPkSzk
+- https://www.youtube.com/live/3P4BlP_rUaM?feature=share
+- https://youtu.be/KCsKQkXygyg
+- https://youtu.be/SyslsDUkmQY
+- https://youtu.be/ghzZdQeh3N4
+- https://youtube.com/shorts/fgbbiz08TDI?feature=share
+- https://twitter.com/kossayzemzem/status/1556983443661152256
+- https://youtu.be/zY9yY5_W7UY
+- https://youtu.be/4XEISfSfYT0
+- https://youtu.be/CrXGs8JIIQw
+- https://youtube.com/shorts/y1PTQ6rsM0k?feature=share
+- https://youtube.com/shorts/hrCEqIccWbg?feature=share
+- Mmm enak!
+- Eeuuugh!!!! 😭😭😭😭😭
+- https://youtube.com/shorts/w4Zdh4Osiok?feature=share
+- https://youtube.com/shorts/OuzmzsGxvTo?feature=share
+- https://youtube.com/shorts/HFF9o2Cg2sc?feature=share
+- https://youtube.com/shorts/mf_DYw4ahTs?feature=share
+- https://youtube.com/shorts/st353ANPNFo?feature=share
+- https://youtube.com/shorts/Bc4k2lyjQoQ?feature=share
+- https://youtube.com/shorts/yjseqPcu-xs?feature=share
+- https://youtu.be/ezc_uBV4n3w
+- https://youtu.be/RVt1dmxqaKY
+- https://youtu.be/9y8DmgoR40E
+- https://youtu.be/SCH_nWBUKI8 boi what the hell bruh. Beuwa haeum
+- https://youtube.com/shorts/CRNLGTThPZI?feature=share
+- https://youtu.be/AsoAZlGfTdQ
+- https://youtu.be/TTKaKXwI2OA
+- https://youtube.com/shorts/zixCyaONRu8?feature=share
+- https://youtube.com/shorts/CBWK478n1LU?feature=share
+- https://youtu.be/TTKaKXwI2OA
+- https://youtu.be/tPEE9ZwTmy0 mylo the cat shortest video 1
+- https://youtu.be/a3HZ8S2H-GQ 2
+- https://youtu.be/3HFBR0UQPes 3
+- https://youtu.be/oiWWKumrLH8 4
+- https://youtu.be/LaRP_QuorU8 4 loop
+- https://youtu.be/Wi-HjAXdKoA 5
+- https://youtu.be/NC5NHq0RO5I 5 loop
+- https://youtu.be/xLP9r6JeNzk 6
+- https://youtu.be/ALf5wpTokKA 7
+- https://youtu.be/zSQbUV-u5Xo 8
+- https://youtu.be/jnSjvOKV-NQ 9
+- https://youtu.be/7rnVgufkwF8 10
+- https://youtu.be/UfJpXkLS-6g 11
+- https://youtu.be/PPFVK3sV8Zk 12
+- https://youtu.be/PzcyqAOpBzo 13
+- https://youtu.be/0HDZWeEDhAc 14
+- https://youtu.be/ta2Bk7cxASs 15
+- https://youtu.be/md0RXKXFBME 16
+- https://youtu.be/hAJK0ldJyDs last podcast
+- https://youtu.be/GT4COjWBC6U
+- https://youtube.com/shorts/QOr_bDlB_mc?feature=share hell nah
+- https://youtu.be/ZmZz9AWTwK8
+- https://youtu.be/H5wva8g2Cz0
+- https://youtu.be/IOUNVJ6tuTU
+- https://youtu.be/vMt_mtSgxnE
+- .
+- SPRE
+- Feredinische. Mr. Beast but Dasandimian. Likes to make expensive related videos, just like Mr. Beast.
+- Golfas: Bro, let me tell you something?
+- Feredinische: Yeah?
+- Golfas: You should soon retire man.
+- Fere: why man?
+- Gol: your content will no longer relevant to your audience in the next 5 year.
+- Fere: Well what is it?
+- Gol: See, nowadays there rampant a demand for hot politics. Nobody here like to see expensive challenge no more soon.
+- Fere: Well, I got gaming channel. Lots of tuber play games!
+- Gol: That too, also going to die.
+- Fere: What?
+- Gol: If you did not bring hot politics in any of the video at least start of the file, you're going to lose viewer. **You have to talk about drama!** past ones is even better.
+- Fere: ... you mean.. you want me to lift up past... uh.. scandals or what, reheat it up and.. *encourage my audience to hate that bad guy*, in my start of video?
+- Gol: **YEEESSSS!!!**........ That's what I warn you for. You must cancel, every bad person, especially those who repented. That's what kids wants these days.
+- Fere: (appalled)??....... No.. uh.... Yikes, not going that way. Maybe my son can give me more fresh ideas
+- Gol: NO you can't! You son can't have the job. You must really stop that expensive showcase, and not to mention your Philantrophy. Not even no need record it. **Disband all fully**. Kids thinks your stuff is complete BS, even I saw it myself true. Stop. I'm sorry, but.. Really stop.
+- Fere: ?????... Where did you get that?
+- Gol: (show tablet, open realtime market demand graphs)
+- Fere: (saw that the highest stick is scandals)
+- Gol: This, they want you to join cancel culture. If you refuse, then you're next. ... I'm sorry. But I saw it myself.
+- Fere: Argh....
+- .
+- .
+- .
+- https://youtu.be/oWyVqp4HMlo
+- https://youtu.be/vXS6GpH2tRU
+- https://youtu.be/pcupjiD2xVk
+- https://youtube.com/shorts/7vOHXWGfCcM?feature=share
+- https://youtube.com/shorts/MOI2SCx8UH8?feature=share
+- https://youtu.be/27U5NCM4LxQ
+- https://youtu.be/VQjPKqE39No
+- https://amanita-design.net/games/machinarium.html machinarium pls
+- https://2k.com/en-US/game/bioshock-the-collection/ bioshock pls
+- https://youtube.com/shorts/Z0mioy1f2SI?feature=share
+- https://youtu.be/pcupjiD2xVk
+- This karen mama is sensitive with snack words. `Chiki` e.g. because she had extremist beliefs this always burns throat.
+- https://youtu.be/_SoeBjjAdOk
+- https://youtu.be/HFf1oLwWYFo
+- https://youtu.be/EkFrwZb-lfk
+- https://youtu.be/GiNgf5B_WlQ
+- https://youtu.be/LToPBPcYK2I
+- https://youtu.be/1x0uvoHbCh4
+- https://youtu.be/KXi-CV--Wq0
+- https://youtu.be/de3_PFYtGts
+- https://youtu.be/ZiMPlaQusr8
+- https://youtu.be/WTmCJGNKepk
+- https://youtu.be/WuqbaT_fpAM
+- Lego Friends
+- https://youtube.com/shorts/Jcr1lkBN6Ys?feature=share
+- https://youtube.com/shorts/8XwArvpzIEw?feature=share
+- https://youtube.com/shorts/8XwArvpzIEw?feature=share
+- https://youtu.be/AkdMNWN_KKQ
+- https://youtube.com/shorts/WU2-P90Ms2o?feature=share
+- https://youtu.be/rAbt4rUo-AM flower indihome paket phoenix
+- https://youtu.be/YudHcBIxlYw jisoo flower
+- https://youtu.be/_IneeB-UDFA indihome paket phoenix dj ubur ubur
+- Oakley Paket
+- https://youtube.com/playlist?list=PLRNbTEZ7dhL2dOuYL17jYrhP5fdEoZDqn lego friends pls
+- https://youtu.be/HLGhoesLbtk
+- https://youtu.be/n-RtJOfFlZU lego full scale bugatti
+- https://youtu.be/qr_dTySMl7s lego how it started
+- https://youtu.be/KkOwoVnvqEw lego brand historian
+- https://youtu.be/BPUJON62LuA
+- https://youtu.be/hz4u6Is3CgY
+- https://youtube.com/@ellieV
+- https://youtu.be/wT3rrdDxC3M
+- https://youtu.be/3-HnfdCIz8c
+- https://youtube.com/shorts/mSAT3SPWR8g?feature=share
+- https://youtube.com/shorts/1rKtM4Octzs?feature=share
+- https://youtu.be/s29UW4jYfPk
+- https://youtube.com/shorts/NJegRebD9tw?feature=share
+- https://youtube.com/shorts/ooVp7XE3R-s?feature=share
+- https://youtu.be/uDWk-xac6to
+- https://youtu.be/tC7svFio-i4 neco arc explodes
+- https://youtu.be/QKXlt8ptw1w
+- https://youtu.be/VTBtx9ee_G0
+- https://youtu.be/PT9tBYxwMeU
+- https://youtube.com/shorts/ctDxJdIRnaA?feature=share
+- https://youtube.com/shorts/bFP5iCKJp-k?feature=share
+- https://godotengine.org/article/dev-snapshot-godot-4-2-dev-3/
+- https://youtu.be/fVK-LP3ecNU
+- https://vt.tiktok.com/ZSLsr3rs4/
+- https://vt.tiktok.com/ZSLsr4j9J/
+- Christiano Ronaldo Siu interupt with disappear reverb
+- J
+- https://youtube.com/shorts/CIHXojn9FXM?feature=share
+- https://youtu.be/KhIEVQMXweQ
+- https://youtu.be/nFscy1-CW58
+- Meme absurd
+- https://youtu.be/nFscy1-CW58
+- https://youtu.be/KhIEVQMXweQ
+- Oh he's not happy
+- Mii girl ya?
+- https://tenor.com/view/mii-gunner-nintendo-chilling-sit-video-game-gif-17664143
+- https://youtube.com/shorts/61tEFjw_9jo?feature=share
+- https://youtube.com/shorts/035EyqnlCjo?feature=share
+- https://youtube.com/shorts/035EyqnlCjo?feature=share
+- https://youtube.com/shorts/N3Wms8g60ao?feature=share
+- https://youtube.com/shorts/lB68gApqW2s?feature=share
+- https://youtube.com/shorts/krBLLrVLeTQ?feature=share
+- https://youtube.com/shorts/JNWfIGbCVN0?feature=share
+- https://youtube.com/shorts/6LMu3xmOkHE?feature=share
+- https://youtube.com/shorts/5AxbDDQECqA?feature=share
+- https://youtube.com/source/cJ-KtgbuId0/shorts flower sound jisoo
+- https://youtube.com/shorts/7UsN5lhdSOQ?feature=share
+- https://youtube.com/shorts/gbg02wCCr7Q?feature=share
+- https://youtube.com/shorts/FyxkWkfaa7w?feature=share
+- https://youtube.com/shorts/ne-TQ6j5qLc?feature=share
+- https://youtu.be/-_aiGZpobRg
+- https://youtu.be/sGeeCJIO5FA
+- https://youtu.be/bKCmQcRDYgg waut what?
+- https://youtu.be/tKbWd-ksAdA
+- https://youtu.be/5PY-_1LSeF4
+- https://youtu.be/5PY-_1LSeF4
+- https://youtu.be/IhOMOpVVzNE
+- https://youtu.be/XTLAXQJrQuE
+- https://youtu.be/wGjdE_UNqpM
+- https://youtu.be/l1YS6KniK5U
+- https://youtube.com/shorts/n5Ipov1z-ag?feature=share
+- https://youtube.com/shorts/DcTOFc97Hhg?feature=share
+- https://youtu.be/eVlp0LAWA0w
+- https://youtu.be/L1ryDd8DYUk
+- https://youtube.com/shorts/turUNmnlrtM?feature=share
+- https://youtu.be/98VYf43fKa4
+- https://youtube.com/shorts/CgsJj5w7ETA?feature=share
+- https://youtube.com/shorts/NXEpnA0MNCg?feature=share
+- https://youtu.be/xp9gobDY50o
+- https://youtu.be/9YGc_DTvrQQ
+- https://youtu.be/dSdQBdT_2MQ
+- https://youtu.be/45Mje_OJhvU hobo swf!!!
+- https://youtu.be/FF3GKElslBo
+- https://youtu.be/D61hCAJmb3s
+- https://youtube.com/shorts/anY6t657mWY?feature=share
+- https://youtu.be/ktpV5D-UDoQ
+- https://youtu.be/CYQCwJBQF3M
+- https://youtu.be/o3XqFhVZzQ0
+- https://youtu.be/-873VvTQK-A
+- https://youtu.be/2r7DYlDsuas
+- https://youtu.be/a1cXW_-4cWc
+- https://youtu.be/vESmtrVTHEw
+- https://youtu.be/BltgkVqmQS8
+- https://youtu.be/9pN_x3qk56c
+- https://youtu.be/tUHCZK7ZLbI
+- https://youtu.be/WKtKL5QICL4
+- https://youtu.be/Y3ybewt7y2c
+- https://youtube.com/shorts/NU38MvP9wSM?feature=share
+- Pls Dream archive
+- https://youtube.com/shorts/ZzaOhTRwkEA?feature=share
+- Dog whine in Britney spear toxic pls find
+- https://youtu.be/RJQPthD9rx8
+- https://youtu.be/UtT34FNuBf0
+- https://youtu.be/f2kEGj-S1Tc
+- https://youtu.be/vVv_lGj75WE
+- https://youtu.be/WKs3VmA76dg
+- https://youtu.be/B3bcvJNZrYw
+- https://youtu.be/UjRc_P8DWyE
+- https://youtu.be/8tW4zfTeJqM hydraulic press channel submarine implosion
+- https://youtu.be/6TGGrVPJ7Pw
+- https://youtube.com/shorts/7iCwvwQgiQw?feature=share
+- https://youtube.com/shorts/4l-xOht6Uhg?feature=share
+- https://youtube.com/shorts/lGkRFEXDl4c?feature=share
+- https://youtube.com/shorts/zAlKwn9-Y60?feature=share
+- https://youtube.com/shorts/xXY1jVoDy24?feature=share
+- https://youtube.com/shorts/pTaAvNgnwH4?feature=share
+- https://youtube.com/shorts/3nJ1QNnGOyg?feature=share
+- https://youtube.com/shorts/Si8fZGdro1k?feature=share
+- https://youtu.be/flYmFAe6OmU
+- https://youtu.be/PW5ewM77LL0
+- https://youtu.be/AL4k9BGv_Gg
+- https://youtu.be/WD7CfnQC5HQ
+- https://youtu.be/pa12QRoXDRo
+- https://youtu.be/g_jxc7KwgLk
+- https://youtu.be/ihSaGqlZndQ
+- https://youtu.be/DnZ9SSCjwT0
+- https://youtu.be/mX1ea-ZWZ5c
+- https://youtu.be/BQGDwE3yMb0
+- https://youtu.be/823HjErA90M
+- https://youtube.com/shorts/CTv7yM-aRCY?feature=share
+- Unecessary Marketing skills.
+- Wednesday tries AQUA. Take bottle. Drincc. Got Vision.
+- AQUA lines of processes from mountain to its packing in.
+- Finish.
+- Awake.
+- Yeah wtf?
+- .
+- A: you really have to wait for tech to arrive?!
+- B: Yess!!
+- A: Childish!!
+- B: Listen. We don't fight flaws. Fight and get more suffering. You won't die but just more agonizing pain. Wait. I may not be alive by then, but my children shall not have my pain. That's what it is.
+- Middle braing being sued for overfeeling scared this body by overadrenaline when being vamboozled at fell ride. The body died because heart attack 
+- https://youtu.be/dPfLZmmUogs
+- https://youtu.be/G9_eyqFxrzw
+- https://youtube.com/shorts/qAwqKBfhRPM?feature=share
+- https://youtube.com/shorts/vxlSrgEbTMQ?feature=share
+- https://youtube.com/shorts/YUe7McoOqaw?feature=share
+- https://youtube.com/shorts/dlIPBhEBVT4?feature=share
+- https://youtube.com/shorts/kItZYFzchmI?feature=share
+- https://youtube.com/shorts/EQ8FoEw5BPQ?feature=share
+- https://youtu.be/z4gn7z4E_Hg
+- https://youtube.com/shorts/lxJqhozTWJE?feature=share
+- https://youtube.com/shorts/i45s6M-2IUs?feature=share
+- https://youtu.be/BvAvyLs-13k
+- https://youtu.be/18bcu_cTdns
+- https://youtu.be/VaWpi9o_hHI
+- https://youtu.be/VaWpi9o_hHI dial up subtitled
+- https://youtu.be/MeP63ua_Wwg
+- https://youtu.be/i11hLPi_ky0
+- https://youtube.com/shorts/X8hmOTL-4Qk?feature=share
+- https://youtu.be/M6EdszLzbJc
+- https://youtu.be/Wieh2hxFggs
+- https://youtube.com/shorts/ill01xcnyJY?feature=share
+- https://youtube.com/shorts/AgbmR-8kh9I?feature=share
+- https://youtu.be/9jF5M2IxBSo
+- https://youtu.be/5AyCqOZ6Chk
+- https://youtu.be/18bcu_cTdns plz music
+- https://youtube.com/shorts/gE7vjufSU4k?feature=share
+- https://youtube.com/shorts/gE7vjufSU4k?feature=share
+- https://youtube.com/shorts/e9nGk5xN5F0?feature=share
+- https://youtube.com/source/3TDHRSjR0s0/shorts ooooo stranger.
+- https://youtu.be/fq8ZkL3-8Kg still don't know my name
+- https://youtube.com/shorts/XMEdMLIrOPE?feature=share
+- https://youtu.be/kmAn7QuxqHA
+- https://youtube.com/shorts/NmpwGmPdClI?feature=share
+- https://youtu.be/_DmiCWTn9AM
+- https://youtu.be/i-6ybStkFXI
+- https://youtu.be/3-HnfdCIz8c
+- https://youtu.be/gnXzy2KOgow
+- If you want to reach many audience to your niche idea,
+- Make that game $0, moron!
+- YDKJ logo appears!!!
+- .
+- https://youtu.be/gD7qrFha3h0 krab butcher machine memed
+- https://youtu.be/Z3BchWTsHzE
+- https://youtube.com/shorts/iHy52QoMgJc?feature=share
+- https://youtu.be/Vex3Y3PrLl0
+- https://youtu.be/w0SIjAnradE
+- https://youtu.be/c06k8SFBu1k
+- Bombom drift kart pls. Crazy Cart merge with Bumper Car
+- https://youtu.be/Q0eKXWVpS_Y
+- https://youtu.be/BOGouicDCS8
+- https://youtu.be/NOqkutYYfpA
+- https://youtu.be/03eTKKzgTzA
+- https://youtu.be/uoKdYzPq7Hk
+- https://youtu.be/2MpgMMPw5QQ
+- https://youtu.be/P2hey3mNnN0 this is ltt test billet labs
+- https://youtube.com/shorts/DGsFlavR-Fg?feature=share
+- https://youtu.be/EaMe9Bw6uL4
+- https://youtu.be/dMkS8pyaFYE
+- https://youtu.be/v-f8934KJE8
+- https://youtu.be/YLRdnXsNT08
+- https://youtu.be/r5d_Fs64sMY
+- https://youtu.be/xanMPImAux0
+- https://youtu.be/zchndNDt1NM
+- https://youtu.be/TcSkrkXd2H0
+- https://youtu.be/r5d_Fs64sMY
+- https://youtube.com/shorts/mcspZtrXL7k?feature=share
+- https://youtu.be/O7zBfbX1nXI
+- https://youtu.be/T3Llja2tyZY
+- https://youtube.com/shorts/8XH0oL2Q7c0?feature=share
+- https://youtu.be/m1-oHFNTtJw
+- https://youtu.be/0wTf_bbkW2U
+- https://youtu.be/N8fWIh1V-YM
+- https://youtube.com/shorts/x8NzP1I8kTc?feature=share
+- https://youtube.com/shorts/8KViMPIA-vo?feature=share
+- https://youtu.be/D4h_hSUdf0Y
+- https://youtu.be/fOWMDMTaUT4
+- https://youtu.be/cZzo6yxTbrk
+- https://youtu.be/MLHMCAeGKOQ
+- https://youtube.com/shorts/L61b9Nr7gQc?feature=share
+- https://youtube.com/source/eeNv4wf2D1U/shorts love nwantiti remix
+- https://youtu.be/eeNv4wf2D1U yes
+- Pls mix with Vitas
+- https://youtube.com/shorts/PFTTilLHtDk?feature=share
+- https://youtube.com/shorts/D1DknVm1gCs?feature=share
+- https://youtube.com/shorts/n0_KqFfRrUs?feature=share
+- https://youtu.be/Nkm-mHYccio
+- https://youtu.be/9uKh-vz0MEo
+- https://youtu.be/bBhDWTZDH9c
+- https://youtu.be/bBhDWTZDH9c
+- Pls Lemmy social media
+- https://youtu.be/6OPNIKZKYoo
+- https://youtu.be/uJ4KMONrxV0
+- https://youtu.be/1fZWHeHICws
+- https://github.com/monero-project/meta/issues/811
+- https://github.com/monero-project/meta
+- https://github.com/monero-project/monero/issues/6668
+- https://github.com/monero-project/monero
+- https://youtu.be/K6RgQsSAJuM
+- https://youtu.be/RorQRo-lMdo
+- https://youtu.be/xaTelXsXNRU
+- https://youtu.be/VvrUxZWopVI
+- https://youtu.be/kpurVn71gAY
+- Bridges. Types of bridge. There are various type with different content and the difficulty. You must pick specific in order to pass this final police test. Most chose nothing bridge (straight passthru) and auto failed
+- Answer is extreme jeram ones. Black right with crazy river water.
+- https://youtu.be/ugp5xqUgI_4
+- https://youtube.com/shorts/aJsoauOCgDE?feature=share
+- https://youtube.com/shorts/ak_F8x4giIo?feature=share
+- https://youtube.com/shorts/JKJ3Rlin3y4?feature=share
+- https://youtube.com/shorts/SG5tYGqrPGk?feature=share
+- https://youtube.com/shorts/MFKYrezt7gc?feature=share
+- https://youtube.com/shorts/hy6DGRh8NHA?feature=share
+- https://youtu.be/jObB7tolXOE
+- https://youtu.be/G7yCjPSL4Pg
+- https://youtu.be/OK74Roz4abc?si=d37e8bIgjuyT3SSY
+- https://youtu.be/krs3_8xY4i0
+- https://youtube.com/shorts/VN8lnmdHUkI?feature=share
+- https://youtube.com/shorts/_Na2JoYQAic?feature=share
+- https://youtube.com/shorts/fL8wfoky6a4?feature=share
+- https://youtube.com/shorts/m0Y_4QXC6cs?feature=share
+- https://youtube.com/shorts/OAcGs9c4Aec?feature=share
+- https://youtu.be/FuP6HDn60WQ
+- https://youtu.be/j6obx3DDxls
+- https://youtu.be/uxnjqtfK7_Q
+- Pls dl & sparsdat entire RWBY?!?!!?!?
+- Last season not $0 I think
+- https://youtu.be/PYXA1loXiQY
+- https://youtube.com/shorts/hEf-mYIgTxo?feature=share
+- https://youtu.be/4QN1BzxF8wM
+- https://youtube.com/shorts/3aW8Es9oNIs?feature=share
+- https://youtube.com/shorts/Ol7RralT24s?feature=share
+- https://youtube.com/shorts/gJHLiTi7GAo?feature=share
+- https://youtube.com/shorts/gwl_L_VIDVI?feature=share
+- https://youtube.com/shorts/HUkOGpKwwxc?feature=share
+- https://youtu.be/avSMY-3sTzE pls download greenscreen
+- https://youtu.be/qHBTVKuOOHQ
+- Haah
+- This one watching member had trauma with scold. Every witnessing of scolding, she became uncontrolable until she shot snipe the scolder. All other member got thrown to wall preventing her.
+- .
+- .
+- Eagle kecewa berat
+- Warkop DKI animal insult pls
+- https://youtube.com/shorts/bpdkqwI2YY0?feature=share
+- https://youtu.be/Z_Lw3Lsr2R8
+- https://youtube.com/shorts/ym4xr987YF8?feature=share
+- https://youtube.com/source/kEr1bEJ5hwM/shorts mantan pacar ngajak balikan
+- https://youtu.be/kEr1bEJ5hwM ya
+- https://youtube.com/shorts/WfSSxBLdPEs?feature=share
+- https://youtube.com/shorts/Tnw6gSFqLlc?feature=share
+- https://youtube.com/shorts/_P-WxotkQYU?feature=share
+- https://youtu.be/p_5D90F4_dY volvo spin
+- https://youtu.be/atjt7m5LVWE 1 hour og
+- https://youtube.com/shorts/B6Sp7yjis0A?feature=share
+- https://youtube.com/shorts/NTZhwAldqwg?feature=share
+- Dvd hit corner
+- https://youtube.com/shorts/S_xCaXt52pI?feature=share
+- https://youtube.com/shorts/LOtNEAQOtl0?feature=share
+- https://youtube.com/shorts/_cBGP7XdpdM?feature=share dvd hit corner bus
+- https://youtu.be/wDNLstPblXQ
+- https://youtu.be/dTG_jdKh2IQ
+- https://youtube.com/shorts/kVCNRuq2xIo?feature=share
+- https://youtube.com/shorts/q6hhNs1yXEw?feature=share
+- https://youtube.com/source/XyuLpZAywH0/shorts fiction
+- https://youtu.be/yRCEKvIsf-A
+- https://youtube.com/shorts/l_AuMhsZzaA?feature=share
+- https://youtu.be/oQBG80YO1Gc
+- https://youtu.be/oQBG80YO1Gc
+- Hamburger Anj8y
+- https://youtu.be/XMfqNyvXMfo anjay sfx
+- https://youtu.be/NysWOI4JpEI?si=GJVTnyfqRB8IPLkm
+- https://youtube.com/shorts/veED4n0QKIk?feature=share
+- https://youtube.com/shorts/p5RFu4cCqIw?feature=share
+- https://youtube.com/shorts/p5RFu4cCqIw?feature=share
+- https://youtube.com/shorts/v2lIW3tXhAw?feature=share
+- https://youtu.be/A42M6We0d3U?si=SpbAz4vDzbZI7IH_
+- https://youtube.com/shorts/707_X4nVsec?feature=share
+- https://youtube.com/shorts/n4DfEKKOqOs?feature=share
+- https://youtu.be/IaD3kGSxaVs
+- https://youtube.com/shorts/KZwW_Z-x7EI?feature=share
+- https://youtube.com/shorts/tSsUwZnKJBk?feature=share
+- https://youtube.com/shorts/ommU5FehtFs?feature=share
+- https://youtu.be/nzEoWl40asw
+- https://youtube.com/shorts/2bsOj2SVaX0?feature=share
+- https://youtube.com/shorts/jQmNNEpC-5M?feature=share
+- https://youtube.com/source/wHWCDC3d3Qo/shorts nicki minaj barbie world
+- https://youtu.be/CUj2AWEJnwQ ye
+- https://youtu.be/A42M6We0d3U
+- https://youtu.be/uqEwITUKqYU
+- https://youtu.be/3xJ-2HNURt4
+- https://youtu.be/6yZn3rBjDCE
+- https://youtube.com/shorts/ztU9UKfoXJk?feature=share I can't find that Tokai ad
+- https://youtu.be/_zpg47uVDXw tokai africa. There it is!
+- https://youtu.be/3xJ-2HNURt4
+- https://youtu.be/jAcUdYPMVqU
+- https://youtu.be/gSirfZuJdQ8
+- https://youtube.com/shorts/kpL6I-phkkc?feature=share
+- https://youtube.com/shorts/epNQs1vQ4Go?si=WS9Si4W1rAg-uDCe
+- https://youtu.be/_zpg47uVDXw
+- https://youtube.com/shorts/pJ2PQp9UWw4?feature=share
+- https://youtube.com/shorts/eFAJJkPym78?feature=share
+- https://youtube.com/shorts/qAMhl3yYIkE?feature=share
+- https://youtu.be/t0S51qa74Zg
+- https://youtube.com/shorts/oahRRN9fp0Y?feature=share
+- https://youtu.be/EmgUE7lYrZM
+- https://youtu.be/1jlKskJvXxY
+- https://youtu.be/Ni92kRoMNiA
+- https://youtu.be/DSSpyKNWn8Q
+- https://youtu.be/YgjojMWhtho
+- https://youtu.be/UZ_RrLxMrEg
+- https://youtu.be/7oV1atkmBIo
+- https://vt.tiktok.com/ZSLs3t9TS/
+- https://vt.tiktok.com/ZSLs3QPeU/
+- Pls pack blend datas
+- https://youtu.be/yzvnPXgeYBQ
+- https://youtube.com/shorts/2lBPFoXfwDY?feature=share
+- https://youtu.be/VuP3XZ9MiEQ
+- https://youtu.be/m__J1Jw6TxA
+- https://youtu.be/B5wCziuqnwk
+- https://youtube.com/shorts/Dnh-ri0z5Tw?feature=share
+- https://youtube.com/shorts/yrNi9xszis4?feature=share
+- https://youtube.com/shorts/MRP-4EnbbSs?feature=share
+- https://youtu.be/AUFvA9Dr0bA
+- https://youtu.be/OXRFr8AFC9A
+- https://youtube.com/shorts/-hmF2ICR_po?feature=share
+- https://youtube.com/shorts/mfpPSwxsUzM?feature=share
+- https://youtube.com/shorts/aQLgxuM9BXY?feature=share
+- https://youtube.com/shorts/ZAjSOz3YWLM?feature=share
+- https://youtube.com/shorts/Yi-p9-BfImQ?feature=share
+- https://youtu.be/IkM5iL8h3Do
+- https://youtu.be/3wFi6kiUqvw
+- https://youtu.be/3wFi6kiUqvw
+- https://youtu.be/C2DaOpmQm1Y
+- https://youtu.be/dH5ONdVf7aU
+- https://youtu.be/pKFpjH0ZNWg
+- https://youtu.be/I5aAfxvavtI
+- https://youtube.com/shorts/njSggxDOjgY?feature=share
+- Sfw
+- https://youtube.com/shorts/-9nQ24N4GfE?feature=share
+- https://youtu.be/_qm8p17JGaU
+- https://youtu.be/ja2Nwe1th7Y
+- https://youtube.com/shorts/QS2pT2igSv8?feature=share
+- https://youtu.be/mREi_Bb85Sk
+- https://youtu.be/rmEa6rSRKvU
+- https://youtu.be/ygYnBoHr-Js
+- https://youtu.be/T0TZcdry1p4
+- https://youtu.be/06O4sBPOUxo
+- https://youtu.be/DNsDP_9rj4Q
+- https://youtu.be/_hBT_9KQIBI
+- https://youtu.be/AP_MHRNSFxU
+- https://youtu.be/VPq1VbLhwMY
+- https://youtu.be/9baoQSUthdo
+- https://youtu.be/b42Z1X5WEJ0
+- https://youtu.be/tErrVM9Ybdk
+- https://youtu.be/F1oO-t914S8?si=6TryaYE4vn1wX1tB
+- https://youtu.be/2ovHu2FaIQw
+- https://youtu.be/c72UIIYMWs8 sparkle mountain
+- https://youtu.be/EqGncBNIQfE cloud collapse
+- .
+- https://youtu.be/Sog6w495Mss
+- https://youtu.be/xIlxjd82ig0
+- https://youtu.be/nvp3zAPraF4
+- https://youtu.be/PDVOaAKaMfg
+- https://youtu.be/s1e0mEgI95E
+- https://youtu.be/RpYESCJW9uQ
+- https://youtu.be/lfgnP3n3DcM
+- https://youtu.be/M7dSCbAQR5k
+- https://youtu.be/gJabaB5IhGE
+- https://youtu.be/KoRvwKjoobE
+- https://youtu.be/Y0Ko0kvwfgA
+- https://youtu.be/bLcD89rtXlA
+- https://youtube.com/shorts/lFy1OVt6VEw?feature=share
+- https://youtube.com/source/m9SMT5ipbxk/shorts oshi no ko song
+- https://youtu.be/ZRtdQ81jPUQ ye
+- https://youtube.com/shorts/cQfVY7qJSCQ?feature=share
+- https://youtu.be/8abJ2f30ig4
+- https://www.youtube.com/live/gpasMn9CE9w?feature=share
+- https://youtube.com/shorts/2uuZXFClWcs?feature=share
+- https://youtube.com/shorts/ZTqDjzwNDgg?feature=share
+- https://youtube.com/shorts/99Jm8ZYW39Y?feature=share
+- https://youtube.com/shorts/BrfwpS2SZlc?feature=share
+- https://youtube.com/shorts/tyJcoB7yc5g?feature=share
+- https://twitter.com/ardenlolo/status/1694125042878034109?t=puAS0xVzuVeq8aUquG5HTg&s=19
+- https://youtu.be/BY8CjMUoVKo
+- https://youtu.be/mx-NtfD4E4M
+- https://youtube.com/shorts/IsXn7fZCA2M?feature=share
+- https://youtu.be/nts0x9Lahm0
+- https://youtu.be/It7jsoxJVsM
+- https://youtu.be/jvvDEzfalCk
+- https://youtube.com/shorts/5UoHyMpuI-k?feature=share
+- https://youtube.com/shorts/rxTClbobOM0?feature=share
+- https://youtube.com/shorts/_X3sGDRT6CI?feature=share
+- https://youtube.com/shorts/QFdsb4DvxM0?feature=share
+- https://youtube.com/shorts/8BkRuIreDsE?feature=share
+- https://youtube.com/shorts/iSujgjbSyTw?feature=share
+- https://youtube.com/shorts/QX-3ra8ZJ7U?feature=share
+- https://youtu.be/g6nViXcqxy4
+- https://youtu.be/ggOPJ8gafPo
+- https://youtube.com/shorts/YuF0Gohtemw?feature=share
+- https://youtu.be/O6c_ar-VH3Q
+- https://youtube.com/shorts/3a3OpH7ORpE?feature=share
+- https://youtube.com/shorts/bQj0CPa7N4c?feature=share
+- https://youtu.be/o03TXOQ2_AU
+- https://youtube.com/shorts/gMRMDYSBRYs?feature=share
+- https://youtube.com/shorts/ravzejPhNGs?feature=share
+- https://www.youtube.com/live/bv88A4vI960?feature=share
+- https://youtu.be/A9TWsQzEZlc
+- https://youtu.be/DfcQdEe1rnM
+- https://youtu.be/7RswZkSrAQE
+- https://youtu.be/Bzpx9YZxK4o
+- https://youtu.be/jPe3_SP1uXc
+- https://youtu.be/J4veySMJ3K0
+- https://youtu.be/dnOuswYNQ1s
+- https://youtu.be/gg8vEC7fNy0
+- https://youtu.be/uBuu2ovokk0
+- https://youtu.be/iqh6mnf3UkY
+- Pls ad Katakan tidak pada suap. Replace with SFX related to rejection
+- https://youtube.com/shorts/HXRVpWlIZ1U?feature=share
+- https://youtu.be/SRLOGyaCMSM
+- https://youtube.com/shorts/RysBS-aYWIU?feature=share
+- https://youtube.com/shorts/OGM_05pFs_8?feature=share
+- https://youtube.com/shorts/f20eQ3fzbn4?feature=share
+- https://youtube.com/shorts/f20eQ3fzbn4?feature=share
+- https://youtu.be/8nAMnNZm31c
+- https://youtu.be/3bNqA9Ksr28
+- https://youtu.be/LecKuk-rbOE wtf boom distort censor
+- https://youtube.com/shorts/f-zb2jnu8Co?feature=share
+- https://youtu.be/Mro9Vli5Xoc
+- Toaster arena
+- https://youtu.be/BgwNTFdJSlg
+- https://store.steampowered.com/app/1726530/Toaster_Arena/
+- https://youtu.be/CzwANOqFPwk
+- https://youtu.be/zBuH33QdIXw
+- https://youtu.be/SeZcatk-vJc
+- https://youtube.com/shorts/Ivc4DOE8iZQ?feature=share
+- https://youtu.be/NSLmtZiiLQE
+- https://youtu.be/cMu_c-yLq3c
+- https://youtu.be/zTQ5gPN4oao
+- https://ameera.republika.co.id/berita/rzkge7425/rm-bts-dikritik-karena-bagikan-lagu-yang-diduga-berunsur-islamofobia
+- https://youtu.be/DGOAo704uQM
+- https://youtu.be/5AiKjLejgQ0
+- https://youtu.be/2FL_Hd6SkUU
+- https://youtu.be/_XRcjDwBYZw
+- https://youtu.be/iab3hrzlfRo
+- https://youtu.be/1tsyzydr9G0
+- https://youtu.be/Lny2oS77CYo
+- https://youtu.be/ey7J4o9eOWY
+- https://youtu.be/BwrTl1SfwJA
+- https://youtu.be/ngUELXjJpW4
+- https://youtu.be/waK94sdsFsk
+- https://youtu.be/stOMj6Wpw4Y
+- https://shadow-hawk69420.itch.io/toaster-arena-mountain-pass
+- https://youtu.be/nDlHcSTFDCg
+- https://youtu.be/6u4PjgPH-Sc
+- https://youtu.be/VuyPhAl8B60
+- https://youtube.com/shorts/NLhpwX-XRdo?feature=share
+- https://youtube.com/shorts/QM7Pk9tmLh4?si=MmPOXxhppN5iEGgx
+- https://youtu.be/PjO2vVaxIWM
+- https://youtu.be/hGE0go93I40
+- https://youtu.be/GUoyxbYZueo
+- https://youtu.be/_ZMpAbgLyJk
+- https://youtu.be/2tOyOW5167c
+- https://youtube.com/shorts/SrWxTvpgGXE?feature=share
+- https://youtube.com/shorts/wesaVoWUVwE?feature=share
+- https://youtube.com/shorts/j6MJ4bFdgJ8?feature=share
+- https://youtu.be/DrgtwGSenUU
+- https://youtube.com/shorts/noF6ifS24tY?feature=share
+- https://youtu.be/8bmd8CMiHVI
+- https://youtu.be/3rvds5i-hsc
+- https://youtu.be/tUHCZK7ZLbI
+- https://youtu.be/gaecXdgkBJI
+- https://youtu.be/86KF0H0TVmU
+- https://youtube.com/shorts/ue2WcrzdraY?feature=share
+- Selection resolution pls
+- Rainbow eucalyptus
+- https://youtu.be/qLkYiJ6CaOc
+- https://youtu.be/qLkYiJ6CaOc
+- https://youtube.com/shorts/Mh7DoIUyLbQ?feature=share
+- https://youtu.be/Ku3Oe_sp59E
+- https://youtu.be/hFxs0fOpWVc
+- https://youtu.be/tUHCZK7ZLbI
+- Tamron lens
+- https://youtu.be/KJmpHRav3OU
+- https://youtu.be/_gsi_sHKF5E drunk russian offroad guys
+- https://youtu.be/s6UzcPj8Gxk
+- https://youtu.be/6HUazpXWRYo
+- https://youtube.com/shorts/1qKl_2Gh0Bk?feature=share
+- https://youtube.com/shorts/uIjwlR5_HJU?feature=share my a888888 burns bruh dance
+- https://worker.mturk.com/
+- https://youtu.be/_Ywj9o0-sO0
+- https://youtu.be/LzUvN4egilc ew dude wtf?!?!?!
+- https://youtu.be/VftM9oXIRq8 ew dude wtf?!?!?!? Ye
+- https://youtube.com/shorts/7Fyy3eV6kxY?feature=share
+- https://youtube.com/shorts/7Fyy3eV6kxY?feature=share
+- https://youtube.com/shorts/FAaRXhzy-gI?feature=share
+- https://youtube.com/shorts/MtPO58Q2F0w?feature=share
+- https://youtube.com/shorts/-7yt030ptjo?feature=share
+- https://youtube.com/shorts/WU_mVbgso7A?feature=share
+- https://youtube.com/source/WU_mVbgso7A/shorts
+- https://youtube.com/shorts/aCR-95quU6M?feature=share
+- https://youtube.com/shorts/84BcSf3884A?feature=share
+- https://youtube.com/shorts/LtwG_gM5eis?feature=share
+- https://youtube.com/shorts/k_9DSDAoqZQ?feature=share
+- https://youtu.be/lY3jhUhVxK0?si=C0xnAPfsNiSyyZpN
+- https://www.youtube.com/live/9rhMcUWZvyE?feature=share
+- https://youtu.be/1t6o48tHSME
+- https://youtu.be/vG9o9m0LsbI
+- https://youtu.be/r90STlZFPvQ
+- https://youtu.be/OsEXl1uN1cI
+- https://youtu.be/vlFfqVJ7trc
+- https://youtu.be/KUcvp9CD5ns?si=ssDCCnotol3wmOwA
+- https://youtube.com/shorts/faq7oZJklAI?feature=share
+- https://youtube.com/shorts/NO24SeKpGaE?feature=share
+- https://youtube.com/shorts/B-O0NQUfgDI?feature=share
+- https://youtube.com/shorts/dx7xk3Oz04E?feature=share meow sing 
+- https://youtu.be/Y2LFZftpDx4
+- https://youtu.be/wGZxz6PDdww
+- https://youtu.be/wGZxz6PDdww
+- https://youtu.be/5jsbG77AskE
+- https://youtu.be/_zQB1gkU8kA
+- https://youtube.com/shorts/NWvZxrBndwk?feature=share
+- https://youtu.be/GsgysfkhDKw
+- https://youtu.be/KS292Q1ayII
+- https://youtu.be/JfKrpxBbRhU
+- https://twitter.com/Ut0li/status/1694313412736741423?t=qKHsY8CqVro2m9Q6HQn18Q&s=19
+- https://youtube.com/shorts/EfQTjrSf5X4?feature=share
+- https://youtube.com/shorts/DblpYxmlAVI?feature=share
+- https://youtu.be/yGighXxKMYY
+- https://youtu.be/JfKrpxBbRhU
+- https://youtube.com/shorts/Ra-APUqFBPk?feature=share
+- https://youtube.com/shorts/OkV4z0uqbPU?feature=share
+- https://youtu.be/4KrL7Ty8pBo
+- https://youtu.be/zW69MisrsWk
+- https://youtube.com/shorts/qDWmArnak18?feature=share
+- https://youtube.com/shorts/zU9fBG_w3Yc?feature=share
+- https://youtu.be/xAyOeGTdyX4
+- https://youtube.com/shorts/SF6e4fqEDAQ?feature=share
+- https://youtube.com/shorts/7PMFzPwVt-c?feature=share
+- https://youtu.be/wuYHZV4wuIA
+- https://youtu.be/792J6i3JDaU
+- https://youtube.com/shorts/aI6yQeNZUus?feature=share
+- https://youtube.com/shorts/jQL1Z9sQvJA?feature=share
+- https://youtube.com/shorts/pEDOjO7ElJk?feature=share
+- https://youtu.be/c1tT1dbZa1g?si=0_51Wb-fm1jfscPc
+- https://github.com/rafaelmardojai/firefox-gnome-theme
+- https://github.com/rafaelmardojai/thunderbird-gnome-theme
+- https://youtu.be/Gmw-VoByELA?si=Nj60J9W8pttJkbaZ
+- https://youtu.be/DfSfEuEA_eM?si=QbKtOTvxuvk1cojn
+- https://youtu.be/rdeK5sVTOwE?si=Q8MsDxY-7wtA3BzQ
+- https://youtube.com/shorts/mmK7GNaZPfA?si=yhy811PVCvzQ6Fdg
+- https://youtube.com/shorts/sXA04KOzz9E?si=oxx26V2NmwT7RHkk
+- https://youtube.com/shorts/GpvWwcJsKDk?si=E-GI8CB_4X8P400Y
+- https://youtube.com/shorts/WpoE-kCrf30?si=w0A4GdCIuD63NuUn
+- https://youtu.be/f787-ax-Qlo?si=44ST_o-gXhQpnBxY
+- https://youtube.com/shorts/-TFXoLGWZFs?si=9BSDnFi3f1bWJNtt
+- https://youtube.com/shorts/MIffQ0Zt1Ls?si=SrSAJpaX5AazC1eT
+- https://youtu.be/GsgysfkhDKw?si=O8v3xt2dGBwOFy8x
+- https://youtu.be/uQIkw1KPVj4?si=Ezvv8q00iqHm346q
+- https://youtube.com/shorts/nNQ4Mj3Jjs4?si=PkqGT60ohr_V_rdw
+- https://youtube.com/shorts/uCJ35nHehuQ?si=4Ff0rhv__d-hCXBY
+- https://youtu.be/AjXo98M7v_k?si=VcQsxKP4q6gCmjSK
+- https://youtube.com/shorts/t2temM4PnNo?si=4qTnP3leC6pldvOg
+- https://youtube.com/shorts/isD0KuRGdSs?si=0c-yRFsId1Dhnbep
+- https://youtube.com/shorts/TqL4mR-XPqo?si=PeCKFSGZH2O-tM4T
+- https://youtu.be/sMEj0etFoVI?si=kg68yoj8BkCM_ukp
+- https://youtu.be/8ofsE7xiGho?si=zuBeUABNtQVarRg8
+- https://youtube.com/shorts/M4nicu9tC9M?si=N_mEaNpy0ZulGtTT
+- https://youtube.com/shorts/2rqS567ZDws?si=7DTpa3mzA6-FRK__
+- https://youtu.be/nn15nIlVNbs?si=RHKD--VAK-HWWzlT
+- https://youtu.be/gQyIZWYZwns?si=rcnEMmbBmjrGe9iK
+- https://youtu.be/6hVPNONm7xw?si=8_UcYEKD_IxJfEgz
+- https://youtu.be/EB77os9AuSY?si=Jj98l8rXZHfZ_pZc
+- https://youtu.be/bTS9XaoQ6mg?si=wl0Avra-FElkzIsL
+- https://youtu.be/uIHp85OxMRA?si=m6_xWbiEqmKV-Bkm
+- https://youtu.be/BB_aKhGdDAY?si=hX3h6o59qF-0M3it
+- https://youtube.com/shorts/Sbmz7lFbW9M?si=mF6t4VycjTYYY3d7
+- https://youtube.com/shorts/bDZnrznbGqc?si=5LgFCU_wnQm3sSYa
+- https://youtube.com/source/yOzEeJZ92X8/shorts?si=MyHvpITS87_-94CF frank sinatra come fly with me
+- https://youtu.be/yOzEeJZ92X8?si=GglRO_g2DSeLJwro ye
+- https://youtu.be/AR8a-SG6l0k?si=y2yD8YXwBMCmDIRV
+- https://youtu.be/TvblszGwh48?si=EYQaA0_o0VHPLl9G
+- https://youtu.be/AL21m-mZRbU?si=oiooh9O9A_sXirzT
+- https://youtube.com/shorts/GyD2rI5818Q?si=MsgLt6gb6At0xQKp
+- https://youtu.be/wT8FZXtmWec?si=K9gAXn52-DNPpY6R
+- https://youtu.be/o6ZtjFfRAqg?si=TjhhC06_q4dg59MM
+- https://youtube.com/shorts/HFV_eg5ULf0?si=0fCmU6jDHpEiPavN
+- https://youtube.com/shorts/PU3nm3uG2rs?si=mDUkfAqtug-LzPwb
+- https://youtu.be/BoE_uq1OQ08?si=8qA2-A2iAijgU_L0
+- https://youtu.be/XlcPmdIzXBQ?si=zjqdlgaAp7cQ8W1g
+- https://youtu.be/g0nFJZLTh9U?si=CJRwQ8bh7wbnxwQ0
+- https://youtu.be/aQRZJWWDLD8?si=RPh1QjRlIVbsmzyc
+- https://youtu.be/uBSG2whsjMY?si=K0osbI5rCbjTNisO
+- https://youtube.com/shorts/uzMgQrY7QOU?si=4sMzmHuvB9cxDcWL
+- https://youtu.be/NPBRxs4yTTw?si=ntAAJ32zY5DGz_xB woag auwg pizza tower
+- https://youtube.com/shorts/eeVC04qnBdc?si=qYJD_VA1_OkzjC5u
+- https://youtube.com/shorts/X0eY07WbJxI?si=9DRnpnbBC19VI5f6
+- https://youtube.com/shorts/X0eY07WbJxI?si=9DRnpnbBC19VI5f6
+- https://youtube.com/shorts/Em_7VClKJi8?si=yOj0uie5jJpqaYMX
+- https://youtube.com/shorts/Ym6NXtyPzJQ?si=OxQRabvGZYPKC4Q3
+- https://youtube.com/source/Vs64cZbeY88/shorts?si=_4xsSwvgvYcUYm6o seven
+- https://youtu.be/QU9c0053UAU?si=oAiBeAjjS4QFClWW monday tuesday wednesday
+- https://youtube.com/shorts/ICgQ_CHUaEM?si=ZjU9elM1A5d80BSE
+- https://youtu.be/87kf99R96Fw?si=6dhWOHKmTn5WJdOO
+- https://youtu.be/E52i13OW6Zs?si=4pMiCHfW3f2wJLVP
+- https://youtu.be/XlhlG3kUNhY?si=hBSCDFhT-x2r5lGs
+- https://youtube.com/shorts/s8zcJt1kkao?si=K-5pwpfq_6FSOil-
+- https://youtube.com/shorts/X4eA86Gwzpc?si=DwvgTpxJoRFhu41e
+- https://youtube.com/shorts/EfnnRrAKSdU?si=Af5QkrRcNRSfRTSQ
+- https://youtu.be/Gp5KDGqQYP0?si=L1tgqoTKau9FwPkr
+- https://youtube.com/shorts/TIEiQW_AjEs?si=Ahhc8vwq5Ov1oDlV
+- https://youtube.com/shorts/VC6hYHlHAH0?si=B-lTfKRGfOW4Nxmo
+- https://youtube.com/source/0t0HtFYjcU8/shorts?si=IPXpZAJttD2BHDaq night dancer keke
+- https://youtu.be/kagoEGKHZvU?si=hsj7wnGVH3ytG7ld night dancer
+- https://youtu.be/6a3TrnqcUpM?si=fANZyMXwuLddz3Mo full ew dude wtf?!?!!??!
+- https://youtube.com/shorts/VvW-F7QFomQ?si=XwvlwMgOSCRyeXoG
+- Mincraft doom
+- https://youtube.com/shorts/VM0cqjqAiZE?si=4M8Nk7vGuDRqZtzu
+- https://youtube.com/shorts/yhZmnOEXHvU?si=LQnu3mJbW_WzYP-n
+- https://youtube.com/shorts/e6aqzdEQMsc?si=e8c9sMSXdkDFlh6I
+- https://youtu.be/7LgqE6jQXT4?si=QdddHKzUJBOMkbOs
+- https://youtu.be/hrtrA38WHjU?feature=shared
+- https://youtu.be/exBVHuKSYVw?feature=shared
+- https://youtu.be/zzM8w3K9YxQ?si=4pCa3nZFdSCu1iCg
+- https://youtu.be/EOWULTd8BdA?si=e2-0RnGRwZqPsPTG
+- https://youtu.be/pzAYPLetuPE?si=2iMSgkynPjFTmp4t
+- https://youtu.be/fz3Td2zlgro?si=HLBRScCgjCp0o3Ga
+- https://youtu.be/ArarXhubJ1Y?si=rSEXe79FleQ0Xn8O
+- https://youtu.be/mOQXmDvg5AI?si=r18pFMyqN6cLCtQt
+- https://youtu.be/GKPWQtYOwhk?si=FcYA5EgBALDJaW9l
+- https://youtu.be/gV1ou_Dwgqg?si=kOkiiwsCX8Uh4kF_
+- https://youtu.be/_KRpna3yA80?si=6Ge_48p2Guwk6ESU
+- https://youtu.be/2uqo95cqRyY?si=3p56zWwDZLC9D1Cs
+- https://youtube.com/shorts/ByuQHCvc54U?si=htyb1o6-KGaKHkRa
+- https://youtu.be/5sA3RMNup-E?si=RDNm-8y8gGXZY3cf
+- https://youtu.be/z4iVu7jBd0A?si=XniEg0PeMfxVa_RT
+- https://twitter.com/Wazzaldorp/status/1580241989919862786?s=20 jake sells clocks
+- https://twitter.com/Wazzaldorp/status/1580241996182003712?s=20
+- https://youtube.com/shorts/6YEG9UH9Fm0?si=la2G4VKtxFSJZxum coca cola
+- https://youtu.be/NNsLAI1tPJY?si=IkUoGfTaBlkaayrQ
+- https://youtube.com/shorts/a65YJySbOiQ?si=QNjhHrTWjk_UAqkS
+- https://youtube.com/shorts/gkEBPkLchOM?si=IJxGKWZ32qeKdBBb
+- https://youtube.com/source/sniVezVELSM/shorts?si=-W_gHrJ3K6Mkxpoq
+- https://youtu.be/XgNc8iELq0c?si=NbnvP7LJOM4CNfZP this side of paradise. Technoblade
+- https://youtu.be/iWfHLPrfkho?si=p9jo82AxsiA3SNV1
+- https://youtu.be/5IlKBvjJqsI?si=D2MzHdGFfXN3Ttlf
+- https://youtube.com/shorts/48ND5Qju57I?si=7dNywE0vdTmqX6DL
+- https://youtube.com/shorts/Uz_U7hqnQuc?si=yXp6d5hiHnPk2VCQ
+- https://youtube.com/shorts/-8MjsN28VJE?si=7EbZoA4T405IDgyD
+- https://youtu.be/maGB3CwbZRw?si=twPtTJLTjmwihO6y
+- https://youtube.com/shorts/kW1wanWdyRY?si=1ATiOHJXwfQNb_Mj
+- https://youtube.com/shorts/ibfxlUNWbzk?si=oe4kfMgA0VoUSzTL
+- https://youtube.com/shorts/GqV4ZEGVpHs?si=JTWdecSy_IQ24zZ2
+- https://youtu.be/18kMj4aYW7I?si=iy246ydI8DYvtTck
+- https://youtu.be/Ak_z4QN74MI?si=pUJwoURGHFe89XII
+- https://youtube.com/shorts/xpMqs46jlv8?si=e-HI5JA6HEcspMbT
+- https://youtube.com/shorts/xpMqs46jlv8?si=e-HI5JA6HEcspMbT
+- https://youtu.be/SevoVB4yhK0?si=5y99pRxARneKem0p
+- https://youtu.be/q-3k8J40c6s?si=OOrkj1q7BAgT7r7F
+- https://youtube.com/shorts/ZL1Or9bIRQQ?si=s_FQVF9X4GpNbD0h
+- https://youtube.com/shorts/afmmj_vTjU4?si=VUFz92pjbo6M-22E
+- https://youtube.com/source/zQNDTHnzIIs/shorts?si=Cd_5ATr4heC75ehA sometimes I'm alone
+- https://youtu.be/lwLLFbC1H0c?si=lq7ZQ0jo4ecM5KF9 cat singing ye
+- https://youtube.com/shorts/rWN_awNJ0Pk?si=_D1j0UfVyt4WJ94w
+- https://youtube.com/shorts/rWN_awNJ0Pk?si=_D1j0UfVyt4WJ94w
+- https://youtube.com/shorts/Plb9t9-vAoQ?si=mjl02ZLvDdUwE53i
+- https://youtube.com/shorts/mCL7E8nr490?si=mcCQNvLtI4i6iLIr
+- https://youtube.com/shorts/mCL7E8nr490?si=mcCQNvLtI4i6iLIr
+- https://youtube.com/shorts/2lBPFoXfwDY?si=8Hh7RCO6ovUnSB6j
+- https://youtube.com/shorts/2lBPFoXfwDY?si=8Hh7RCO6ovUnSB6j
+- https://youtube.com/shorts/NLhpwX-XRdo?si=ZraQ7XpUaSx689oA
+- https://youtube.com/shorts/MNofNwxKPYY?si=7kO-0cBxQoRglxTj
+- https://youtu.be/e_GetiEY5HY?si=vB_MUHgsYD4Fx_lg
+- https://twitter.com/dailyspongeclip/status/1689263407730675712?s=46&t=_6xD2GcnEelwKMJ5vqFN_w
+- https://youtube.com/shorts/wT1QRzP_KdI?si=sZn0G1Bl3CavSv4L
+- https://youtube.com/shorts/xJHM429e_x8?si=ZvBv7LuWq4gg6C0I
+- https://youtube.com/shorts/dO-NUZUhPb8?si=3cZNynCNvFXFEkQ8
+- https://youtu.be/O6xj3-dJ7aw?si=IBHjh0Q6DnGji5Rw
+- https://youtu.be/8BzWot-T1jI?si=9banoKhaMVwFvOCE
+- https://youtu.be/Wg4gFfFIs1Q?si=ESlS2TM6W02cJsmO
+- https://youtu.be/ZjaPRE81IlE?si=Acjffuhiv-fWqQzX
+- https://youtu.be/YWIubbL-2fU?feature=shared
+- https://youtube.com/shorts/XASnPc5jrUI?si=h2r-Jn8YvI_n-Dl6
+- https://youtube.com/shorts/W9lOTi7pKdc?si=-uBlxJgBc41f-Ydx
+- https://twitter.com/mockingeu/status/1692848644008059115?t=P25bclPRJjqJfwcQ5ptREA&s=19
+- https://youtu.be/htMgHSwMpYo?si=3XncMWrdYmC38Yy-
+- https://youtu.be/LqktY9g5wVE?si=3Mf2hPnY2CNiVdRw
+- https://youtu.be/YRqdkNRPaBs?si=6LVM1Psn0jOkdO4F
+- https://youtu.be/FJ_u3hdh6CU?si=5bfPpVCKl6kBCfnf
+- https://youtu.be/PeY1xkK65Go?si=gkNMZHzZll4eEGNv
+- https://youtu.be/PeY1xkK65Go?si=gkNMZHzZll4eEGNv
+- https://youtu.be/7H4eg2jOvVw?si=MwCrbvv0P93-f-gF
+- https://youtu.be/TlGrgqp-pxs?si=iINk8S69XFfPrgqG
+- https://youtu.be/TlGrgqp-pxs?si=iINk8S69XFfPrgqG
+- https://youtube.com/shorts/RNpX1Z2rq5w?si=ieMI0lR5Ict219WI
+- https://youtube.com/shorts/6fvNRT23Mo8?si=qM5zBgZ-eNcKZkBb
+- https://youtube.com/shorts/WgsfeDjEfI8?si=F1OBM2-9miftHIwH
+- https://youtu.be/6K89f4zxMYw?si=ApgBeLPUoruZluQI
+- https://youtu.be/hDeYLYTRngo?si=xwkqx_trvNPwpSgs
+- https://youtube.com/shorts/Gu8F8qOB2JE?si=v8fFOizZTtBw_nLX
+- https://youtu.be/9WOmEZ1XejQ?si=QDINfTitD2LrWR1q
+- https://youtube.com/shorts/Z_bqf4W_rrk?si=0cX1q2ykYb8cA9Sp
+- https://youtube.com/shorts/pFSegMGYGrs?si=Xn8CL0xeEv_kfM1l
+- https://youtube.com/shorts/MJY_DAdcowM?si=3QLlQbxphTzmCzHw
+- https://youtube.com/shorts/ewPvDE_P3yo?si=25lCYw6Uh9e7AL21
+- https://youtube.com/shorts/1q7b7-ktYUg?si=6qjwH3I216_Th6WU
+- https://youtube.com/shorts/Qp5bX6662Qk?si=wWfXs9gF2I8lPAQF
+- https://youtu.be/Kv9k6XkPP9I?si=MhnsPmLXDkDkZwUW
+- https://youtu.be/-x_cjPxfrVg?si=FXkvWR6evexoF7gD
+- https://youtube.com/shorts/BmS5aSNRrQY?si=ATerxwGpVOWGqIlp
+- https://youtube.com/shorts/nZ_cdenqpj8?si=TqWDDOdOY-wHSBtS
+- https://youtube.com/shorts/BfThVMDnMJI?si=_2bCrJxxmt0ifkj5
+- https://youtube.com/shorts/q1DmrgxB6ZU?si=6nJeBTVt0vWYrYAX
+- https://youtube.com/shorts/uIiFfa0n-Wg?si=ZSxHVPfT1qxjeiaU
+- https://youtu.be/FYIt2QdFbEM?si=ri568hGDt003gp2r
+- https://youtube.com/shorts/3BwR3l6GAgg?si=-IAY09SBZRTfMMeH
+- https://youtube.com/shorts/ZbbPlEA1Hmk?si=iAqYVab-vh8bQueq
+- https://youtube.com/shorts/vFFsg_3qUIc?si=UNVUR42fA41uGIa1
+- https://youtu.be/m0BxY6fX01M?si=a8WSaB0RltHKioqK
+- https://youtu.be/ZSMl91lAJSQ?si=3JXqyzqJ8XPqt3nX
+- https://youtu.be/lp1eGHVNivg?si=93qVVD_pf273DKhr
+- https://youtu.be/HkU2I6n2Qro?si=fXUVDgaqF2o3kn3I
+- https://youtu.be/3086wdR7NVA?si=u5vb0F4uNLIzOcXx
+- https://youtu.be/sLZY7rhnhvU?si=DgQiNNwUYyXNCoCd
+- https://youtube.com/shorts/OugvrxUpFlE?si=bHdy9ypLNOKDOFDJ
+- https://youtu.be/xanMPImAux0?si=G6c8KUywzZFzuvr_
+- https://youtu.be/zSpTewoeh9E?si=bJ6xXF9JPs6LjxdJ
+- https://youtu.be/KXi1rVggX9w?si=p0mzYvnAtA4kw_-6
+- https://youtube.com/shorts/0goe1rU57GM?si=1H5-GTK-u0tnII35
+- https://youtube.com/shorts/ervycw8oE3k?si=pVRGi6paEez96xSg
+- https://youtu.be/8ckJkyjhLgE?si=jNoI3VTbIIFJz5Dg
+- https://youtu.be/v8Fq9an6OF4?si=UDO8_VJ5QkVei-u0
+- https://youtube.com/shorts/IiRIY7iKh5A?si=w5SwyDrjh1XVeP1E
+- https://youtu.be/8WDfGOiWVXk?si=5_XmBC0k5itHcmE1
+- https://youtu.be/1ZjKmkycKcg?si=ZbMQHCUXtQdGZdvc
+- https://youtu.be/b5LLw-EsNOQ?si=jGOcOqZIXfvrV5Gb
+- https://youtube.com/shorts/wGtnL7FJRKM?si=7MLdOk7qpuRKOlU4
+- https://youtu.be/j5SUbQFc5x4?si=fuWLGc4FoJvXG5oJ
+- https://youtu.be/ONtgVXVGZQs?si=XPqcVO4Z4bjRDFes
+- https://youtu.be/r6R7RHwiQ0s?si=XACiCtPQEyOCmmAq
+- https://youtu.be/-dSGbf69wsQ?si=Gkh_PpDzgl6PPV7T
+- https://youtu.be/TrnUu95Ecss?si=rApjHKIhaPkc7Jq5
+- https://youtube.com/shorts/_6ByVZI-QGI?si=6D2JL20x9LQasmpc
+- https://youtube.com/shorts/sMvOkUlQ3SA?si=12lfMmJPYhbkOKU1
+- https://youtu.be/MRxKs7_cv18?si=j3jkbCqP4MKlSQ37
+- https://youtu.be/nX8pDq1-mz4?si=BXP-bRHX19YxZ6mD
+- https://youtube.com/shorts/GxGIylZdd7M?si=FfoylbCUIy5AxDnD
+- https://youtu.be/SpTVl74qN9k?si=QaIgZ9HgLV_hIJ_H
+- https://youtube.com/shorts/hLDj44UH1Cg?si=vZ5lIACCBKlyTNTK
+- https://youtu.be/j_iq4A-zlPc?si=DjxOLOvENU7I2BJ4
+- https://youtube.com/shorts/Kh7Zy_Nprnw?si=9ICmAI6A4jOB4LcT
+- https://youtube.com/shorts/pNi8I8tj5S4?si=3-_Cn1qvNHjJbO7a
+- https://youtu.be/8MTE0JS3vfU?si=7Rq46ofi6YVFyqIb
+- https://youtu.be/lALMjJmml04?si=ZT5e3oFbvMGngQVr
+- https://youtube.com/shorts/ifPh1yw-9pA?si=KGXpn9cyWrtFdKec
+- https://youtube.com/shorts/RBSWkfqXUrw?si=b_QsF1Sum9Dqsash
+- https://youtube.com/shorts/w5FZPIdnk-M?si=OCanjHY4PzcI-IUx
+- https://youtu.be/vJvLSkk2lQo?si=gwuGt3SjnKex_kCm
+- https://youtu.be/z_zLtWsKIsM?si=9d42g0CvinKdY5jZ
+- https://youtube.com/shorts/MnyWsVEOOn8?si=5tGSKu29coFVsEAj
+- https://youtube.com/shorts/2pKE6KWsGi0?si=xctzwvnjqBOCn1mY
+- https://youtube.com/shorts/E8Vzey7T3e8?si=MC0dCB5Gm6qUVbxR
+- https://youtu.be/z5G81nb3Yn0?si=9kKVUJYPPKy1XXHr
+- https://youtu.be/UFVnFc9Yuhc?si=bsEKWN9aAh78275M
+- https://youtu.be/38jD0cvc4UM?si=KCJwkdX2i3B2e2f2
+- https://youtu.be/tC0xzUan5LY?si=g0eWB6OMP4x-_2nw
+- https://youtube.com/shorts/HtzgleWHo8M?si=9p5hY_LoO_HbT0-l
+- https://youtube.com/shorts/AalZarOmKW0?si=15aE3HjzsqTPqobN
+- https://youtube.com/shorts/o46JdR8t9RA?si=fbqS8o8FGddJLcVj
+- https://youtu.be/8HDJ2yhOhNg?si=z2MnNOy40fSpD4lX
+- https://youtube.com/shorts/QMb1HIkF7IY?si=xsrg4IPclauN1k3T
+- https://youtube.com/shorts/hvwU2U8Y5Yw?si=etBP5s0rl1n-Zrra
+- https://youtube.com/shorts/9J8pWj6DbqY?si=nrjm_Lm9WX_u6Rt0
+- https://youtu.be/dp2Dz1utNXw?si=ZPLEFA-QwN-GArTS
+- https://youtu.be/W3lSjuLAAVQ?si=jjPmVI4kT65ZBFF4
+- https://youtu.be/s20x8CKkX3o?si=a3xwoai3obAUJkog
+- https://youtu.be/Q0fyC5jiAcw?si=uisaWohOki53p8Bm
+- https://youtube.com/shorts/Idgr9xBEEK4?si=E9K5kSlY3e1gAAGO
+- Pls meme offensive. Building PC after Linus got exposed. Footage of Verge PC messed up build
+- https://youtube.com/shorts/DyDsdX5EjjQ?si=mRRh1VXEkLEpgi4y
+- https://youtube.com/source/lfPy2r69Beg/shorts?si=hTcb6FaiukPqMv8R rondon slag path
+- https://youtu.be/y1cKuuvi8_8?si=Ktybx9l4vBwm1r-f ye
+- https://youtu.be/U6AY-wl6yuE?si=WWJ4EVzOBVjboK27
+- https://youtu.be/r7m_ky2apvc?si=LoS0g0-RrPSwCaO-
+- https://youtu.be/Trw1bsKbo0k?si=KKBvxz-xfOGZWb3I
+- https://youtu.be/pchmkGx4RHA?si=2HT-9HEDG77WKtKV
+- https://youtu.be/bXK25VEKbgc?si=jHh02nBQ07GfS470
+- https://youtu.be/jWmYzOr88Qs?si=st4cQDrDxYOVouqL
+- https://youtube.com/shorts/Ud-pt43_Xqs?si=pKw7RsyoMAgtqhGk
+- https://youtu.be/2M8JJFeDBFk?si=6MqTznaQbWhSMFhp
+- https://youtu.be/8G6RDzPadLQ?si=MInzPRM_lUVnYFZI
+- https://youtube.com/shorts/FMfWLUnDr1E?si=SUyINx84ZyzBXGDx
+- https://youtube.com/shorts/N-zz6BSPCSs?si=TepUwt6xdivkzwse
+- https://youtu.be/d33jbSUPH6M?si=ayTPjqqtNdUPguhW
+- https://youtu.be/S5Fc8yrH_F4?si=ZxlqZwUUaJBWgba5
+- https://youtu.be/S5Fc8yrH_F4?si=tfDJDzh0nCLu6GGF
+- https://youtu.be/1cOPFqYSpCY?si=IqiA7HwL60LF7jDj
+- https://youtu.be/Jg8dYwxISqs?si=OE3VRapTa-vg1WbZ
+- https://youtu.be/TBblNDy-6w4?si=9X1LpIN4FKG8JlqK
+- https://youtu.be/YsMj2UF4BIA?si=aVts-jhbSnXQngN8
+- https://youtu.be/NvCQ_y5uWLk?si=YTZvR6cdj5b4NRFk
+- https://youtu.be/OZcc-s0AOyk?si=uIy5vm3Rlne-0PsU
+- https://youtube.com/shorts/g1XJsc4lekw?si=3hRWczgvB1gWEULJ
+- https://youtube.com/shorts/Rm1tdsivSl4?si=iRyYcdG74xqXAXht
+- https://youtube.com/source/ibfxlUNWbzk/shorts?si=De2ksZ5Ah2u9Esj5
+- https://youtube.com/shorts/DgFR8mFW9G8?si=ED-wUR8_ehew6QOH
+- https://youtube.com/shorts/dog48JGxoY0?si=17tawzGh3Y2mctL3
+- https://youtu.be/G9RuyR9feJA?si=AHqE6FjBvlGHURlw
+- https://youtu.be/lvu-rb5f38w?si=uEVt0cfzusdHxgLX
+- https://youtu.be/BB1mMNvrUrM?si=0EnpKMcFgbvWEjA1
+- https://youtube.com/shorts/jvGQvEd4S6w?si=du4JrHWgN4TMaS9l
+- https://youtube.com/shorts/cPrRLoWY9s4?si=UzG_S658P2yXnzQX
+- https://youtu.be/rl3riAUQUM4?si=6_pT65HDd-z-ZTqg
+- https://www.youtube.com/live/-UrNYaFc2us?si=XTptiPhYL88tF47L
+- https://youtu.be/Aq-wXdhMNxw?si=bdoFG6qu5RVdOQZ-
+- https://youtu.be/KUTlAbdmkoY?si=14LKZz6G8vRrnbL_
+- https://youtube.com/shorts/OV1xY1r9xGE?si=5IGmGSBU65PufY60
+- https://youtu.be/W8aYHFhcrbE?si=fqfS-5v2o1Hw8d2Y
+- https://youtu.be/eg1X6SKfTQo?si=k0HWQAFL_NAMGv7h
+- https://youtu.be/9GRCkeRmm08?si=O532NTme9jKKfTt8
+- https://youtu.be/SqcYIBP2Wco?si=cjw_KLrYZAeN7pNK
+- https://youtu.be/wA1yUhmJxmM?si=WgYMjUWMe8l3UL6F
+- https://twitter.com/obuchi314/status/1694654840591499739?t=fwOxLR2e3SVphv9ihjxlcA&s=19
+- https://twitter.com/LewdMomoko/status/1694766678909804684?t=fwOxLR2e3SVphv9ihjxlcA&s=19
+- https://youtu.be/bSgGQddUMxY?si=kFJaXncvM0nSmV-Y
+- https://youtube.com/shorts/5trQeHM3_sA?si=zZ5QwSZBBUC_kNQD
+- https://youtube.com/shorts/5WVECQzeJys?si=88xSHC_mMwM5fsd_
+- https://youtu.be/xILLJuBgO0k?si=igY1FnSK0Ohp9lss
+- https://youtu.be/xILLJuBgO0k?si=igY1FnSK0Ohp9lss
+- https://youtu.be/mRa0Gi_mRjs?si=ks9X5xYfd8Y64byN
+- https://youtu.be/GXpqTRTFIiM?si=L8Y0g5LzMndVORB3
+- https://youtube.com/shorts/KWmaIZrBE2w?si=QdcN9P4xsHW19AYj
+- https://youtu.be/UDE3BWS7B28?si=698JJ-TMszBqSCz_
+- https://youtu.be/u0ZqY1h6kZU?si=aat-iKS9htZj3T6x
+- https://youtube.com/shorts/ZaUz9RmqzEw?si=6CJIMIIQfuYU7NZh
+- https://youtube.com/shorts/2PXL6FntShw?si=J1OGW40_bzLDHQzT
+- https://youtube.com/shorts/rOA96MPENag?si=SFbHREZKI5Wpe5h8
+- https://youtube.com/shorts/caXXntNqTAg?si=uWafbzDQUwGNCBLh
+- https://youtu.be/A7Y0JlvndKI?si=Zrowb6ZjLzBLVPyo
+- Timelapse workout
+- https://youtube.com/shorts/PGKn06MrjOQ?si=lAQhEg5PZ0aJWi4_ here
+- https://youtube.com/shorts/YQcE8tZ6P1k?si=7LOPE3fYDgRQ0J6V
+- https://youtu.be/TqHqTFtH_pw?si=qr2s0HyI6fPFI8iu
+- https://youtube.com/shorts/8C2AYs2rLTo?si=KYptTKCvbTRUVq2q
+- https://youtube.com/shorts/yYjTe3hPeKg?si=xlFv37W34YzEduI5
+- https://youtube.com/source/8hNuxTeIICc/shorts?si=4rKZoDrMEBDzYEg4 gmfu
+- https://youtu.be/UcAYzEJ8SHc?si=0Bp6C9LnhnQzqA6l got me f8888 up
+- https://youtu.be/xo7p2YXwJTE?si=dTf4XJ_BJpS1TIuZ augh long
+- https://youtu.be/seSQNAVz1XA?si=2-L4kWCISnY06JWX
+- https://youtu.be/0YeNXoNPBg4?si=lD0vR6OaVgzg_IR2
+- https://youtu.be/FW5cZ4YHyp0?si=YIa-UT3hkw4wjx2r
+- https://youtu.be/AA28lMs4AwM?si=erreGDRBKiS8uXFO
+- https://youtu.be/8a-ckUFdE1U?si=IvqeGv5UYZcqOYyS
+- https://youtu.be/A9oWzlPbuKM?si=d-AeBZ7_8UGXL6FO
+- https://youtu.be/bSgGQddUMxY?si=xOPbUx5CP5A4uGjt
+- https://youtu.be/g-6UNO0fY00?si=hMtDjrCNseGF2O64
+- https://youtu.be/uFvXUxlY-08?si=yIj_2hiYGVevt7lb
+- https://youtu.be/T2ZQoWkKMiw?si=2pYLv2wA81L5__rv
+- https://youtu.be/-UaQ8COzBnE?si=aNOcb4UfZxtZ10Cx
+- https://youtu.be/zT50dvlYUBQ?si=1oiNpJhINdKNferN retro cute and funny
+- https://youtu.be/7qU1i1UPl08?si=tTJGpXxWda9vb48o
+- https://youtu.be/Tb1RLb_nrhc?feature=shared love language animated film short
+- https://youtu.be/9CgisEFObjA?si=Bb7Oho3--opxMgrJ
+- https://youtu.be/TIfNIWn2Ad4?si=zUFY1rYl4dlMI93x
+- https://youtu.be/JPDJ6a5fwK0?si=Iimjj3att5mslR_b
+- https://youtu.be/67ov6JEPD8g?si=Pb2wzFi7UT7gQQpM
+- https://youtube.com/shorts/a20kV_Jdjk0?si=vJd4KncKI-quwXRG
+- https://youtube.com/shorts/tUDoOrxaKNw?si=3LRhCRpwJCuXI46j
+- https://youtu.be/q2D6rq-aRwA?si=vgV-5JTwSqAU3P4g
+- https://youtube.com/shorts/2m-zXqNGUXI?si=CLkY7jGdruA-3_u-
+- https://youtube.com/shorts/PUKVQqunIrM?si=SZ3fYxDiORXWf2SO
+- https://youtu.be/OaA1U6Gtspw?si=tLB9KydtBONb9JzH
+- https://youtube.com/shorts/eqLwS3MBlAc?si=0XiwpW-blFJXAee3
+- https://youtu.be/ySw2TGIuphU?si=ezsGEPrvcPoscmep
+- https://youtube.com/shorts/yP5ML-r_BUU?si=BuuL-xaz3s18cUCe
+- https://youtu.be/WFSPPSU_HNM?si=XUh2QK4qHmSILZPq
+- https://youtu.be/2fVZgOsWavo?si=gmMgL90hc1NYKDdv
+- https://youtube.com/shorts/lvmkeoNREeM?si=7AMTalMGwlsxeaul
+- https://youtu.be/RykTF61wtrA?si=6I5R5iQyA2lD5Hsq
+- https://youtu.be/m5wnle4JZGY?si=YrqRkpfv4tFEb8dG
+- https://youtube.com/shorts/zNQwYuFQSjg?si=ZsEaNF0hA1-AC1eG
+- https://youtu.be/AvDyA1lBHjo?si=WJ0c5mSH-xoSU_0q
+- https://youtu.be/-HK4vJ4qmcQ?si=XZCDOlChF219NjN0
+- https://youtu.be/m55frlXDKec?si=AQKso6_U1J8t3cSw
+- https://youtu.be/89fePQtMqHE?si=g2JzMfj4eI5CJdvK
+- https://youtu.be/-cDm5fepvGY?si=-XfKyXZNZxc7oqNx
+- https://youtu.be/faXIsV3OH2Q?si=z7lTyz8yp3JqoL93
+- https://youtu.be/eI8boEFDhjk?si=MldrAUbxtrWeNjIh
+- https://youtu.be/e8eS1pmBLR8?si=5zlTX-L4oRbwX9rK
+- https://youtu.be/5079JfjsSpU?si=0p4xleaDdlPO9Op_
+- https://youtu.be/GXaMT5pX12w?si=mJRmvUbI9Jwvqt-E mavka trailer
+- https://youtube.com/shorts/SXmclOB4ojA?si=65N4BeqiNlF8_Pm1
+- https://youtu.be/gnyjl5DMHT4?si=mq__t1lsyWmMRi8U
+- https://youtu.be/M2N1YZBHyw8?si=kWxS44-0rsleo87g
+- https://youtu.be/TaT-TeRIWjw?si=HFX5mgdc7w5HQnlp
+- https://youtu.be/TxFTGZYLEFU?si=Iz8UYnA4Rmy96Qh1
+- https://youtu.be/86N8Dz0eXrY?si=ZHONAm3gjAuB4x0g
+- https://youtu.be/xlgrP1tBKEo?si=COjT3JLdT2kioFhp
+- https://youtu.be/pDSptPcImGE?si=4HS8k404xwBtpgRg
+- https://youtu.be/uJ43BAnHo8g?si=Vnalnc6ENiHKseIP
+- https://youtu.be/-hJ01h3O1x4?si=SQEA2qZIoPtzt9iX
+- https://youtu.be/ybOCa7xnEZU?si=64uDgo4XtCfD7wmB
+- https://youtu.be/5cBQtZRbRJU?si=LFPyXU66ywfweOim
+- https://youtu.be/QMlSsz6BDVQ?si=onMT_X_MhMRA4bha
+- https://youtu.be/ta4VLX_3y08?si=HsRMG77_M1ZjCilp
+- https://youtu.be/g1Sq1Nr58hM?si=LIs1FBisGJWJyF0K
+- https://youtu.be/FU04zy4mjw0?si=3FsmBoYLtJa6oVkw
+- https://youtu.be/d8BLbfB2Oas?si=YtC0pjo5ZkIWHr6T
+- https://youtu.be/7UDbKZlURiM?si=qDYsn49leuuSLr7u
+- https://youtu.be/kR4PFKlhEmE?si=3whF3Uhp2hy4KqLC
+- https://youtu.be/OnxBVo65qYA?si=pO_a3KBQUbmSW4yD
+- https://youtube.com/shorts/jeajx_nJ8Rc?si=eTimMOBG_aYXCn65
+- https://youtu.be/KxthHN8GapA?si=eSYcDZmcSKfhF45f
+- https://youtu.be/rumJMlJJN0o?si=I1QXT9qg7Wd3w7oD
+- https://youtu.be/7aZBvY_1RWI?si=WRzWbRDLpCuqddpV
+- https://youtu.be/iHGt8ZxCy6Q?si=dyvyYand4cujPKlj
+- u
+- https://www.neowin.net/news/microsoft-releases-new-free-windows-11-virtual-machines-with-the-august-2023-update/
+- https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+- https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise
+- https://youtu.be/coMwHnCVUIg?si=-jIr_plmkl_c5bX1
+- https://youtu.be/TfVYxnhuEdU?si=4aDFTHGnin-VxZ8N
+- https://youtu.be/_G2Q1qsoGEU?si=E7F7KYJF8mY87J48
+- https://youtu.be/nbafT2w0cCQ?si=la49VRGmobvzHfbZ
+- https://youtu.be/R2oD1ZHNMFE?si=8SNHZh6UwkpD-6eK
+- https://youtu.be/xq4ZkfojSis?si=5Tym0VtFpE4gptV7
+- https://youtu.be/Oarf76MCrss?si=Jj2d2WsG3JjMSBfs public domain bear footage
+- https://youtu.be/xq4ZkfojSis?si=YAziU1ToxMFiuxfV
+- https://youtu.be/ca0RpxknHCI?si=AnHZZ2xjm5OzjNvg
+- https://youtu.be/RnQ-eT6pnag?si=d21wo7gjjGG1rj42
+- https://youtu.be/4ti3rxut3I0?si=QA8k1iWRbjNmOx-J
+- https://youtu.be/RnQ-eT6pnag?si=P232udlYxRpY_-yj welcome to HRÀT
+- https://youtube.com/shorts/cRhKfZl3b5E?si=hdyJFOYnLoiDpRwA
+- https://twitter.com/lv4pa/status/1693197711749828818?s=20
+- https://youtu.be/ssOCKRZ7WL4?si=dAvYsXVrO5Oq_y-n
+- https://youtube.com/shorts/b7ji7IzK8Zs?si=UNPt7L_B5j8qnFfl
+- https://youtu.be/ErTc_XKCcLI?si=puxndpwOSb1BePQF
+- https://youtu.be/GbRIOfaTZbs?si=2a9mJnupra4coTzH
+- https://youtu.be/ZD_8HP3-49s?si=DTB3ztoC4yVVHZrM
+- https://youtube.com/shorts/xTK1G-hBV7k?si=I9K8izlIbupWUUnA
+- https://youtu.be/vgPcqs_sO24?si=Du0WVMHYRm9qwrhd
+- https://youtu.be/jl_eyj5jRxk?si=ivQAjz2uurBIKsb0
+- https://youtu.be/PKXx6G97Hbo?si=XZ5X4AfM3sE-9Dha walkman tape recorder button sfx
+- https://youtube.com/shorts/vt9fZRy-pJE?si=CFYY5pLKYr7kQISv
+- https://youtu.be/BEReU7O7Jxo?si=NjTfvPQcxDIzOVxv
+- https://youtu.be/6jQkxsEbnS4?si=npFLPlYunySOu5rI
+- https://youtube.com/shorts/1FfVpblg5Yw?si=utocHaG5XjW-gd0T
+- https://youtube.com/shorts/WD3Bz2K80Ms?si=duV1qWU_XMWa-6Uf
+- Crypto the Llama pls
+- Unyil pls
+- Grumpy parents expect kid to eat fast. Vacuum foods Kirby style
+- https://youtu.be/qxYZGlLHKHk?si=GoHt9XI3smeLC639
+- https://youtu.be/wM0hLKGwH_s?si=LvVsWM_uyfayfKPF
+- https://youtube.com/shorts/dxjr-Ov8IQk?si=JiEEl9-EBys-cc11
+- https://youtube.com/shorts/MAxr2d0GQOM?si=dLzAXDOuHiY0_J3Y
+- https://youtu.be/HBTYVVUBAGs?si=LFrM2iMCFMQlewLS
+- https://youtu.be/p1WpvyhVddc?si=CWseqkVsW1MHfniI
+- https://youtube.com/shorts/CZ_LaL5DZk0?si=WrwTIqJMiuCryIqc
+- https://youtube.com/shorts/3UNpPdZLQyw?si=V_L3eVNSDPbOuSi6
+- https://youtube.com/shorts/njEVelDTisA?si=Elfs87l6OoA-nx-o
+- https://youtu.be/8XUJ_vcjy7g?si=3yhaVSUorhq1jf1K
+- https://youtu.be/p1WpvyhVddc?si=Hva-uszCJ-8VrVfj
+- https://youtu.be/2mAqtJXZ-hA?si=EXfIarDouVVM5JIF
+- https://youtube.com/shorts/9D6NpVwuhBo?si=w1lR6UVIj2giF1R7
+- https://youtu.be/m4Fi_a9QATM?si=q3pYw-y-7tO3TVZJ
+- https://youtube.com/shorts/vGgfKNwfUXs?si=_JgcWeMERGh6uF3c
+- https://youtu.be/RaqpqZAw2YE?si=p5sA80PhPwzPwr4P
+- https://youtu.be/5vsMjAkxagM?si=YdsfRgC_aelkb_6U
+- https://youtube.com/shorts/aHUxHhYAUEg?si=EYuYZ6E4rgdU1HKW
+- https://youtube.com/shorts/k8ieFiTjjfk?si=YnTM3QlMtdrpA1z3
+- https://youtube.com/source/MMGq4M8rZwk/shorts?si=hoOXw_VZnSoIiyH5 to the bone
+- https://youtu.be/6cx1WaoWQ34?si=O4byNh9qMoPGVxPM papyrus. Welcome to the underground
+- https://youtu.be/LRTLcuo82ic?si=CwqNkYdyMvBMqPld
+- https://music.youtube.com/watch?v=m9SMT5ipbxk&si=J16NUJfFwTi6_6l2
+- https://youtu.be/i7L6fndNK9U?si=GOtiXkE2UVR1dLLF
+- https://betawiki.net/wiki/Main_Page
+- https://youtu.be/KJz-d4wHTbA?si=VQNvb8KviToaS0kg
+- https://youtu.be/O-9C_Ih_vMA?si=f5uahP-hM2Zo0WhG
+- https://youtu.be/ATGRYazDU74?si=6vqgYXmwgGTp1SFq
+- https://youtu.be/DhSvO8qsrhU?si=uvCkWpqDHkdzeFyj
+- https://developer.android.com/sdk/older_releases
+- https://youtu.be/dzDsb3qGSk0?si=UagJ4zt2jp6H37KZ
+- https://youtu.be/7c6_lUy4mD0?si=SbUZOD-WGfTSl4-e
+- https://youtu.be/AA3ugrN8Ivs?si=1gH58OH4iKbIBLht
+- https://devos50.github.io/blog/2022/ipod-touch-qemu-pt2/
+- https://youtu.be/yjSF807iwOs?si=1jk4JWEZ5-F5xx3l
+- https://youtube.com/shorts/AKZJXyHMJ88?si=WYMps87HVi-0Bj4G
+- https://youtu.be/3ZT3uBzahaE?si=D56nqJXfi4_krRDl
+- https://youtube.com/shorts/C0-bJ6nLFDM?si=d--alz9NL39xqa6Z
+- https://youtu.be/Oz9We-1rDQc?si=XYXS_5fTdlmcBF74
+- https://youtu.be/6BdGq9Q6fxU?si=6yt2rfmSzdF0hiTq
+- https://youtube.com/playlist?list=PLv6FFExX5xmj6ytn6HWC5IoN1s1T0YIkf&si=X5yjHtfrkRuog643
+- https://youtu.be/HtClfbZNukg?si=MYY_mmvO_dsMnlpV
+- https://youtu.be/SnNOJ96M21A?feature=shared
+- https://youtube.com/shorts/C_RV3PYtixQ?si=CdztXo4wbhZbpEsS
+- https://youtube.com/shorts/yAUdpKzVzaY?si=1I7TCAfUQprWwfQG
+- https://youtube.com/shorts/pqzjF7MnhPQ?si=tj-estIZGcSqClNc
+- https://youtube.com/shorts/jLvXbIPj4IU?si=X0gfCRhlAr9bIR2c
+- https://youtube.com/shorts/sQQepfLl2K0?si=1T7B5yPL0VJCKLVI
+- https://youtube.com/shorts/94q9ZiO7Puk?si=8HNGA1fMjOXhWZpU
+- https://youtu.be/QiXDQ66xxPs?feature=shared
+- https://youtu.be/C7Chr9ujalA?feature=shared
+- https://youtu.be/cT-lsLvFCLo?feature=shared
+- https://youtu.be/cftmOnCsKJQ?feature=shared
+- https://youtu.be/2UcFTDL9V4M?feature=shared
+- https://youtu.be/C7Chr9ujalA?si=rjT4PK8lmq4zaEg9
+- https://youtu.be/UmJtvnd4agM?si=AbDGYs920nOl7yQ7
+- https://youtu.be/sacxe24mkP0?si=J1N0aS_2--0rcWrb
+- https://youtu.be/BVy8o3WECEw?si=303XsUXjG3E-0RIt
+- https://youtu.be/0mipec0cg2Y?si=Sjm9l4dWEvvC_Dd7
+- https://youtu.be/le8-dt7gYw8?si=N21OiQAJia6Yc1p0
+- https://youtu.be/0BOexGlrF08?si=jTlxlHCk7d4k-A_5
+- https://youtube.com/shorts/lfTglaVtxwo?si=9iXF7eraVsXeYNsG
+- https://youtu.be/L291_8E3Cnw?si=hqJKHpiJgaDV6PPY
+- https://youtu.be/tNh6mFpbzvY?si=yFHThuAycY4Oa4sT
+- https://youtu.be/tNh6mFpbzvY?si=Y_7vmhdlx1SWbpYi
+- https://youtu.be/XkOkMmzSRZ8?si=vB7wsG7cNxX7hGdx
+- https://youtu.be/stGLHIdwtnY?si=5Qj3fnuP8KgND7Kt
+- https://youtu.be/6I4OsYMR290?si=qKShRATEEqXWi6az
+- https://youtube.com/shorts/TYx5SgEGemc?si=PGmuwzFTMfoubjV6
+- https://youtu.be/mGKSGHHRjBo?si=-yuMfLR9tPMa14jV
+- https://youtu.be/fHSwm9BRT1c?si=Ju82XlMDBfklNJR_
+- https://youtube.com/shorts/h2qgWpHqIg8?si=CVcuudVozRwrXQrA
+- https://youtu.be/5MztT0dkPW4?si=qHmUCr7Y1NhQZPHz
+- https://youtu.be/E_DSkC2OvOg?si=1rg7gaovUk4qoAeh
+- https://youtube.com/shorts/pxlQG0A5N2U?si=Qt0MzSvZO58zeiMs
+- https://youtube.com/shorts/vvb1bWQvtYg?si=kGdXgMSqsecI8U6i
+- https://youtube.com/shorts/kXNy1TWIchs?si=_eTlNWcCrFpamEAt
+- https://youtu.be/wlRZAQzRjwo?si=pfLMhS5hARyS_Qz2
+- https://youtube.com/shorts/jtSOBXyoKXY?si=v7zfKIhjeRNu3ATY
+- https://youtu.be/is8NvGtCMKg?si=LJGIdf0WWmrUPOeP
+- https://youtu.be/eDW53rXqlRw?si=rVX_5g1me_Ls0XOZ
+- https://youtu.be/rov7Oy5vaag?si=IFqBiISVOQNfk1DC
+- https://youtu.be/bGoIFBaXCWg?si=dT9sGtngwvtvIbys
+- https://youtube.com/shorts/EtoojOtJ1og?si=4_CNU2akjtniHazn
+- https://youtu.be/6e6EPaq1zMo?si=3esxu1avbV_kckZu
+- https://youtu.be/lIKrOwkA_JI?si=TWO3VyNy7VyhC0TT
+- https://youtu.be/D19GtSb887c?si=sPGQTCb6MVVSafyZ
+- https://youtube.com/shorts/b14JVlHluDo?si=ddHcdJVZKjGdx575
+- https://youtu.be/nzm1IqoyKk0?si=NQVR3osMNzVvDVTU
+- https://youtu.be/P4_HMEbZAS0?si=rRW950QTCA4xfKTA faputa ate lemon eeeee
+- https://youtu.be/k_9XsSl-9fU?si=eD2aNN-jV3_cCOsb
+- https://youtu.be/kWSIFh8ICaA?si=7Nvpk9OXsUqlN15y
+- https://youtu.be/pRV9S8moiDU?si=2921F8iguMEm_OOd
+- https://youtu.be/CE-r7o9C28M?si=ZBW8f_ftTkSKLign
+- https://youtu.be/NCkPunuEnFQ?si=mQz66BNrubMFHAhs
+- https://youtu.be/0TNwHbK5iFU?si=tsHKXRNWGDrm-8sF
+- https://youtu.be/JLxAGQikdLU?si=_q5_6f4_ll3ontJH
+- https://youtu.be/2xrQfu5y6zI?si=q4N0YJDR4MkxqRSX
+- https://youtu.be/yUFsI_ovAg4?si=ZACVR2_9C_Yo-QM3
+- https://youtu.be/yvoxIb5HG-k?si=cpuh-RuxfslrqR3a
+- https://youtu.be/z1QQubKrxYA?si=_TFBju8gj8rM9FIG
+- https://youtu.be/w8CaIP9Hkf8?si=gXgpDo2H-T2cSQgD
+- https://youtu.be/w8CaIP9Hkf8?si=HmMS00wFGITGNFyK
+- https://youtu.be/Ho9M-q_kcn8?si=lJpvFqq0_mVzRNkw
+- https://youtu.be/FsBjLn28zcg?si=KS0BWY_tueJpzDrd
+- https://youtu.be/khhXuIhIk38?si=ACObjdEBKy7spjMM
+- https://youtu.be/RW-WuXb0Ke0?si=uutAq94y8PZenU34
+- https://youtu.be/y1B71C6BV7k?si=uAt8W-x1Qob4ml1N
+- https://youtu.be/UAYgQQeBgIU?si=IzfQoao2XIcB-d8w
+- https://youtu.be/STHjugOJ3FM?si=PZm39XXY_q5H1UC4
+- https://youtube.com/shorts/oe6eRwEUrkU?si=85ATZyAinySQE-Fw
+- https://youtu.be/7QD6V9ZEo8o?si=e_uX9zaNW2Fel7bm
+- https://youtu.be/NfMjZtWGoxw?si=ryD3xUW1EVG-V5zC
+- https://youtu.be/A9XbscpuXzY?si=XocemsZ3CAuK018k
+- https://youtu.be/zFhE1aEgsOg?si=WjWGdln3fufwAcWZ
+- https://youtu.be/5eVTPm4boWQ?si=wMx_EUnrRhsh34x5
+- https://youtube.com/shorts/ZYNM2twy3oI?si=CyCtC_87RpiC7MSX
+- https://youtu.be/F87IhU1RH38?si=kQnrVFv65mE2C61_
+- https://youtu.be/5eVTPm4boWQ?si=BCY5DecPwrhfaSTR
+- https://youtu.be/YdN5ARGDaK4?si=7OMqGk58iBJhy0qT
+- https://youtu.be/HjWKufb5NCU?si=zL1LUvyRWgkR7OY2
+- https://youtube.com/shorts/V4_MO1a5mVs?si=J8waN9VTqdNQlDTJ
+- https://youtu.be/WYQHAnpDgfg?si=aGoMc8OqKsK57viQ
+- https://youtu.be/SP2pYgqvYKo?si=GF5I5684KQl5wmBV
+- https://youtu.be/1S1oOuylrFw?si=zQpDNxccObp1fN89
+- https://youtu.be/ovVLcUmz_QU?si=R5h41hDBFOnxLq60
+- https://youtu.be/_6B0x9EzLpM?feature=shared
+- https://youtu.be/QrwGISxc9VU?feature=shared
+- https://youtu.be/T-yi7Oq4XZU?feature=shared
+- https://youtu.be/BuwG63Y6Glk?feature=shared
+- https://youtu.be/fcd7LRRok7s?si=urvBZwMhee5t0geP faputa bean
+- https://youtu.be/Zye28xU3F64?si=kDEbXyFSdKBDfz6y sidewalk growth animation
+- https://youtube.com/shorts/MBR85paIRII?si=-BkiysNTg7xJzqUz
+- https://youtube.com/shorts/o1Jr4HAKpM0?si=iJ0Y4lrDiFP94MAW
+- https://youtu.be/ncUnl04VFSE?si=KQA9uqu3ne2rpa3s
+- https://youtube.com/shorts/T7mN7yK5BIc?si=lFK7GHRCC9dxHcfn
+- https://youtube.com/shorts/--kkgEjcjjg?si=K3DAMXNf7fNA7D3f
+- https://youtube.com/shorts/qk0gEW98jbc?si=n0Nfz1ZeR1rSHD-v
+- https://www.researchgate.net/figure/Reconstructed-CT-image-showing-a-hugely-dilated-left-atrium-extending-to-the-right-of_fig9_319309937
+- https://www.deviantart.com/rodriguezfox11/art/Heart-Attraction-Request-978175950
+- https://www.deviantart.com/anyonedraws/art/the-heart-button-946817407
+- https://m.bilibili.com/video/BV1bV411K7M4?spm_id_from=333.788&vd_source=aabc7db14e0f5a76d0971924b5138151
+- 2233 https://m.bilibili.com/video/BV1bV411K7M4?ts=1692978692&spmid=333.401.click.titlename&h5_buvid=7A56359E-7D7C-8E22-2B48-F72BF2D0DFB062754infoc&unique_k=&bsource=wechat&openid=&wxfid=&page=0&start_progress=2524
+- J
+- https://sns.prtls.jp/hbsnsjp/diary.html?id=468&did=6460413644
+- https://twitter.com/Shiraga_kuro/status/1695042340459782198?t=G5H3Q9nQKSXACq7cQHn_Ng&s=19
+- https://twitter.com/JOELwindows7/status/1234079525996093441?t=G5H3Q9nQKSXACq7cQHn_Ng&s=19
+- https://youtu.be/-hOmONdsEdQ?si=xIiHdZsl2-5nDP-x
+- https://youtu.be/K-0Fe93Z54M?si=V44qabV762kHLaPQ
+- https://youtu.be/xqkW9lGVASA?si=DIA-I_0bY8WO1P3g
+- https://youtu.be/xqkW9lGVASA?si=klFdoHjRNwkqaefu
+- https://youtu.be/AvWUHqsvjKw?si=6FBHOMp-i1s3QHum
+- https://youtu.be/jC9cGmht2JI?si=-Y268VDcGxkJOx9Z
+- https://youtu.be/E4ydGuxSIF8?si=Oo8wK2LXEVCXBCM5
+- https://youtu.be/9WlqLZEVwaE?si=s5Nz7oRXP5qWwRVc
+- https://youtube.com/shorts/ODMKgP4c76c?si=VkYysyD1s7B9wHCx
+- https://youtube.com/shorts/CN1pBS0hjdE?si=UtjEzl2-QV_X8m56
+- https://youtu.be/0R63E4wLRyo?si=dmjXd72h285WuwzD
+- https://youtu.be/c56Zd3femUk?si=tJp7ulnAkQH72TFe
+- https://youtu.be/kJqZCa-xXvQ?si=UdVzTCpP8IPjZGtq
+- https://youtube.com/shorts/5K3kM5b_7lk?si=z4Ukp7b_foFZrXgU
+- https://youtu.be/E5HRvQNg4pQ?si=x6QsjB237IBB8-eb
+- https://youtube.com/shorts/PbIP1Uu2Fcg?si=Svnhpo686IWcroOa
+- https://youtu.be/vlyPZrxazLo?si=uYjgpmf-VBq2Twvv
+- https://youtu.be/VxxYqE4Gil8?si=jdVMge4noJxquw7s
+- https://youtube.com/shorts/olrz03pgRFw?si=bf9E32hnINju24sY
+- https://youtu.be/586f0ndybbc?si=D2UAcFBLzknivl5L
+- https://www.tumblr.com/yagithegoat/726645225930588160/cavalier-dog-at-the-pool?source=share
+- https://youtu.be/qWYw_Bd1FHo?si=-P3FzjolHftmhQAN
+- https://youtu.be/ZhHQezXh2g0?si=bUFEaRFvkq3UWLIq
+- https://youtube.com/shorts/5cLygBTQKOU?si=SocFKv7Qs1IKMYm6
+- https://youtube.com/shorts/3-0GIC4eY8U?si=hFrthi-jUw2ijDMj
+- https://youtube.com/shorts/KBWfJ1rKPV8?si=-_ChXaPSOXChfwYI
+- https://youtube.com/shorts/RT72HfFXfFQ?si=ueWfbNyIlLaDZ-yk
+- https://youtu.be/eB-Iuw-rUI4?si=vwI5mdJ3JBqfl6bg
+- https://youtu.be/RTkEoFBXiqc?si=NLHD0KID1hsnRyvK
+- https://youtube.com/shorts/abyQFwBu3SY?si=k_W4KDYLP_TvC-vd
+- https://youtube.com/shorts/4EIhZM_HXZM?si=lysUiWWCnSVQTwKq
+- https://youtube.com/shorts/8b3CcKyzUnA?si=23P5XwVXDpjINeOB
+- https://youtu.be/i7gIpuIVE3k?si=x4p-Cnfx-_2L1x4V garbage day
+- https://youtu.be/gvcWNu89ng4?si=oAYuVPgLqtrgSsvb
+- https://youtu.be/3B4jOw-6iDU?si=HpkcUTjWtpckXinC
+- https://youtu.be/iI0OCsaE8Kc?si=xYbHf8A4FoxHyVk1
+- https://youtu.be/ZFTezG4yLEw?si=uY42nc5SusCDKwW0
+- https://youtube.com/shorts/AuD3z8BtuSw?si=M0ovbNwHjEsfbHJe
+- https://youtube.com/shorts/kgZu9bV04UE?si=E2QF8zhnN6TfGC_c
+- https://youtube.com/shorts/3diQJurK5mk?si=bPU9WtvJwqv2O04i
+- https://youtu.be/5PlPQBLIGtk?si=77JNJ-Zw8cKwP2Ur
+- Holeo in Central Jakarta
+- https://youtu.be/BJCY0XtUg8g?si=8QGPs1NtZI9dJf2S
+- https://youtu.be/TalJEskLCrg?si=bmfy6-S-pmRJfbt5
+- https://youtube.com/shorts/xXNbFCr42BE?si=6dcz4TFjubiAmkte
+- https://youtube.com/shorts/wL_NxuEG0m4?si=iQ9xqOymo4W1m6mG
+- https://youtu.be/lC4tbcwGaR8?si=UYcfaMne03esVtcB
+- https://youtube.com/shorts/4-Uixge1tYg?si=KGbqXC5kgreb6rJk
+- https://youtu.be/_qh4yOwCgOg?si=S2Bf-MCO-mhapF8T
+- https://youtu.be/b3_aeQ8TZ4U?si=NAmLD4_Q3OTOB5hN
+- https://youtu.be/ew_wEdPOfRE?si=Fs8SCFhw-x3tEZcH
+- https://youtu.be/PxjSgk-UhqE?si=dwT3vm9wsYnmusFL
+- https://youtu.be/08CT9iTVr_k?si=DdWkHVtHl-ZQbc40
+- Bedrock mod, Hog's trees pls
+- https://youtu.be/FzRReBuleR4?si=atRdFenZwahwzZCQ
+- https://youtube.com/shorts/SDeSsnwUpdg?si=BkiRRAB2RUdZ1I5C
+- https://youtube.com/shorts/X0hypElRySQ?si=8HpHw8fnMLJaUrXb
+- https://youtube.com/shorts/YyQbkaRpjUg?si=vxzYPDhVPIGa8fat
+- https://youtube.com/shorts/mWPZZ35XawM?si=a8NAWbbtba9Q8zlB
+- https://youtube.com/shorts/7hF9lH2uRwE?si=GTbrc3TaqzKjaeZ9
+- https://youtube.com/shorts/SNNYVzOvMgY?si=1bzKcluEPVgcYBUI
+- https://youtu.be/SpTVl74qN9k?si=mQ0jM_ROx2fdJqMB
+- https://youtu.be/VJ1dYrjuYf4?si=5UpmfD1Jedrj4m1m
+- https://youtu.be/cjS2b0ImdpE?si=kLGbZ2jK_zXRalhE
+- https://youtu.be/_W1P7AvV17w?si=E9uyct87J-41_OVU
+- https://youtu.be/cbWGJVg1JRs?si=gDK0Z5qv2iEUnY0g
+- https://veynam.gumroad.com/ expesive
+- https://youtu.be/fEBFJnMDkSc?si=OpeE-LZk2sCJDZMC
+- https://snappify.com/ coding presentation
+- https://youtu.be/uOtDsRixXqg?si=_3YZjkcsI6L85krg
+- https://youtu.be/oNEL3wRz3Tw?si=bLK76ueo3vbqzvTP tornado twister
+- https://youtu.be/nsk9zDzL9I8?si=U3itUrPRwkZ7dUJ2
+- https://youtu.be/e2n4zfUrGwY?si=0DujVRiIZTSrrJMH
+- https://youtu.be/GIZ2ykk4kmQ?si=6CmvVmrlwszef6DT
+- https://youtu.be/gfSn_FwLu3E?si=6TiJPq7PH9OYku1m
+- https://youtu.be/ryQUDVbytHE?si=zHRxdxclDcZFdoRw
+- https://youtu.be/bqLr_WQWwic?si=xdsBk64xkWz5CYg9
+- https://youtu.be/B7h08BIibEs?si=SQU2NEoIyMxdJbHP
+- https://youtube.com/shorts/eL0RT-gYKD8?si=AP1DkJZzRlwWQmbq
+- https://youtube.com/shorts/O7bP2UB4UwQ?si=E9G_fMG5qlggLFrF
+- https://youtu.be/MG3lt0tQkxg?si=oe4NdruG5Kkv9Aac
+- https://youtu.be/bs6-p-8y8hM?si=fgmAYDpKxNGga9rW
+- https://youtu.be/HWVhGcFhfh4?si=nr5lZ2QMkA0vPQNN
+- https://youtube.com/shorts/VlIeANvowso?si=JvSJxoaGXJ87ToU_
+- https://youtu.be/5FTshQHcH1c?si=cMlR0EGE6t7b5pQL
+- https://youtu.be/9gk_rl3y_SU?si=MfaWrh6dsFZxJr4y old mkbhd
+- https://youtu.be/7XsXNw8vZFo?si=ctaeaD5xnwI6jn9N
+- https://youtu.be/CMmRuXqFEVY?si=oa4wMZkCbIJVkRGk
+- https://youtu.be/a1vh5fPLkus?si=LCs1I8gAfFjXkxLc
+- https://youtu.be/UJeSWbR6W04?si=QZgN4DgVRJ2uo61Z
+- https://youtu.be/J1oEWiUsKgU?si=0sLxolAdypOFIjN6
+- https://youtube.com/shorts/dGZnIiPePoI?si=QEN5UusvSx7lwUbo
+- https://youtu.be/YKyclBcqLRo?si=FOvnmRj6kUzssggq
+- https://youtube.com/shorts/O9MT3FWG9qw?si=cYqdS8dtJLsfgLD7
+- https://megamanmaker.com/
+- https://youtube.com/shorts/6VRwys4XR-M?si=CBTZSrpMu_fikDEP
+- https://youtu.be/r4ziKKOinVI?si=2pCEP8QTSRDXEvRe
+- https://youtu.be/alkd0cG-x2Q?si=quLQHARnEc9KAbNp
+- https://youtube.com/shorts/dYdi2hLjbMs?si=lfdOqlvvNEwHwqLG
+- https://youtube.com/shorts/eUDJAq3qdrg?si=u6Rhj-6H8r3EWGxN
+- https://youtu.be/4gd49XbpISM?si=pJwRUzSOHn87ejaY
+- https://youtu.be/7a_QBhNbWok?si=XiTuoB4a5oN8pRO7
+- https://youtube.com/shorts/zq6Pra1zY0g?si=QV6NkvML5UXD9MQ6
+- https://youtube.com/shorts/6I71JMBSP_8?si=8yxWEh4HJ22oFLme
+- https://youtu.be/8DntDC12N3I?si=Jc6k40NW84MduUH6
+- https://youtube.com/shorts/JmLGLR1o_B4?si=-F5iSt4oMyqF2m7y
+- https://youtu.be/X5fMzxcv-SY?si=fNncUc2FMZeZ6pQk
+- https://youtu.be/fnwozV1gP3s?si=kWhGNVgY2KrMI5of
+- https://infu.mmm.page/music_software_ps1_nerdy#b-417275
+- https://youtube.com/shorts/hWgntHNZWeI?si=Uh-T1W4MgxMNVLnX
+- https://youtube.com/shorts/KtrKaVdx0Zw?si=w1uD7nd_VlFt79qA
+- https://youtube.com/shorts/nZcC9309aZs?si=obyZVS8iX5uRAszd
+- https://youtu.be/4f-SbKElE3Q?si=n3XeY21HzW_ID259
+- https://youtu.be/UwLQHIVf4fA?si=GkrXH2eATEvZg9hJ
+- https://youtube.com/shorts/qF50nnw7H6E?si=uc-WXLQd5aEQL7Yf
+- https://youtube.com/shorts/KP8n4npP0ks?si=v8X3JZDPeCDRnnMa
+- https://youtube.com/shorts/WL3PLQVugcc?si=n1FabhtKWCbrgkvJ
+- https://youtube.com/shorts/WsUvf1Ye87E?feature=shared devil eyes abba
+- https://youtube.com/shorts/bBiuARrQQjo?si=jj5J9oV9syT3747S
+- https://youtube.com/shorts/jHam4SbViXQ?si=9qktyKh9azpGFIyg
+- https://youtube.com/shorts/jHam4SbViXQ?si=9qktyKh9azpGFIyg
+- https://youtu.be/DRu512itZak?si=N08lUnWMht0L2vOx
+- https://youtube.com/shorts/bc2rVDhj0SY?si=snWT507Ffsh69Q2J
+- https://youtube.com/shorts/zAHgJjwDMPg?si=CXvV2sr0ugd-vP_7
+- https://youtube.com/shorts/disJpKUFm8s?si=X2dQxAG3yP1ottcg
+- https://youtube.com/shorts/e355b07t4Cw?si=gzsE5s8_iNxqk9kl
+- https://youtu.be/ZW9sN-JTnzw?si=2w92NIIs7zvNiVlt
+- https://www.capcom-games.com/megaman/xdive-offline/en-us/
+- https://youtu.be/tyZgN2VX9k4?si=ponAmzQKjlrXqeZs
+- https://youtu.be/MCvhAFuxy8U?si=Yp7k-QesRHv8HfV9
+- https://youtu.be/QLwjN3d2dfk?si=Ic4cw9cjpw7HuC_t
+- https://youtu.be/_yyjriX0xsY?si=GxUOcb31pxHlSsxH
+- https://youtu.be/V0Ax8O8nICk?si=x1dWW5qLJGSKztAR
+- https://youtu.be/7Dl0TQ5zDzM?si=U1YBy0yC1bWq13TO
+- https://youtu.be/P3i6FrXIfGY?si=q24_wuBQPwcx161z
+- https://youtu.be/cOPofeVPE_8?si=LWdF7O4hIqX0yTH9
+- https://youtu.be/yYFiU8CT5GU?si=fdudHWfLu5JX0tbR
+- https://youtu.be/1Fb3G9x6MZM?si=yaDk-qCWmixIRZi6
+- https://youtu.be/8u-_AUHQJh8?si=tlxFKTsCgRtqTG3H
+- https://youtu.be/07tml_42PCY?si=q0ad87itIS2geVMn
+- https://drewbinskyuncensored.com/video/48-hours-with-the-mundari-tribe-of-south-sudan/
+- https://youtu.be/UU-iWa0Hroc?si=JBnJBUbEKnBI9P9t
+- https://youtu.be/baNfRkxgPdA?si=tANbBiD5Y5BF4msn
+- https://youtu.be/YF3TQKV-IOE?si=XpM_J0GsmmFxUg5c
+- https://youtu.be/386iVwP-bAA?si=qIgCllTzPUiSxVvn
+- https://youtube.com/shorts/BLH1QrDIHGo?si=Rxi5y0QUWjgGh6iO
+- https://youtu.be/5WLEPYngY6k?si=BqFJh1MQkIvJpXKU
+- https://youtu.be/aQRZJWWDLD8?si=W7WWbn9r91dFIn5U
+- https://youtu.be/aQRZJWWDLD8?si=fB9JKAdcOoQg2Xxm
+- https://youtube.com/shorts/6B_cXJnWZaI?si=jzBISTrsPPBd8P5G
+- https://youtu.be/hX_GDVxVZsc?si=4s3GJr87qJDvDoF6
+- https://youtube.com/shorts/dvuSKY4ePbc?si=BPCDfYVBFfj8ZIRT
+- https://youtube.com/shorts/dvuSKY4ePbc?si=BPCDfYVBFfj8ZIRT
+- https://youtube.com/shorts/MbmmWhb8O0E?si=ymv8PzxH3cS2oehb
+- https://youtube.com/shorts/bjKC4edXhM8?si=dmzZGIbtWKPZrzJd
+- https://youtube.com/shorts/0t-3bF_OaNw?si=fvUSxcp6ymvmuA0Y
+- https://www.instagram.com/reel/CvZZNI3pDpk/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== happy escalate
+- https://youtube.com/shorts/tOKy3FFHSg0?si=3HBNh7XIt4du5V_W
+- https://youtube.com/shorts/F0Zva7eg8G0?si=hcKBNMjmsQyPxorF
+- https://youtube.com/shorts/98WITEpr1WU?si=n9DZY6I5n0w1x1px
+- https://youtu.be/rMXZgOyvqD0?si=PyQ4_h3HL0QgtZlv
+- https://youtube.com/shorts/A42vXZXdRH4?si=aWUnwC1b6PYq0lvl
+- https://youtu.be/yt7ZLTiJdvU?si=XuukXGZ4sXDikZq6
+- https://youtu.be/MXkM7H2_rr8?si=-8fsO616z_mfDknc
+- https://youtube.com/shorts/SdFzqcemBrw?si=BB_ppuAm0ZS7dkhT
+- https://youtube.com/shorts/NnNZLCl78Ao?si=64CbZBG9jBeu9B_V
+- https://youtube.com/shorts/8aIKxH_sgI8?si=waLtnqC_jc9k4bOE
+- https://youtube.com/shorts/m1sScFVUtbg?si=RUNXe8QC8ijwjdXS
+- https://youtube.com/shorts/RLZoJkpiOgE?si=E2OhO4di1MXEK28-
+- https://youtube.com/shorts/XMTWs0umiuk?si=Ad5fJSX2n8NmkBog
+- https://youtu.be/2XsabAZHCbs?si=nJ6SHhY9zUttaCiM
+- https://youtu.be/UgtFknkCAbk?si=TT6JC6uMLHD5pb4V
+- https://youtu.be/ELR2rCR0R04?si=g5sp0fUf3h780Hhg
+- https://youtu.be/5netxSTma4E?si=2-SooP14Irq9-m7W
+- https://youtube.com/shorts/TAyCZpjUyYk?si=BZTnlDqu5Fs6nOd_
+- https://youtu.be/Zw0C9woosjs?si=k8tQ0xCmdHJRbj1G
+- https://youtube.com/shorts/VmkKz9bk0Yg?si=pgMNrGIsHr7jgVUX
+- https://youtube.com/shorts/VmkKz9bk0Yg?si=pgMNrGIsHr7jgVUX
+- https://youtube.com/shorts/n0B1Sz_6VZw?si=Q6qqx9oAr7HFJmsB
+- https://youtube.com/shorts/cgt9CaPFCcI?si=6kKOfdUMGhvgOBgl
+- https://youtube.com/source/1J8xXGEXn3I/shorts?si=6YIgnZH-Lhm5CsvV promise get down
+- https://youtu.be/XMQrn4iASj4?si=81u762oXYyFC9fMs promise get down
+- https://youtu.be/BA55-vLozV0?si=h5kOUaJ4dUAaQXu5
+- https://youtu.be/42tpLtE2usU?si=lRVtOWAgUT3hEyDD
+- https://youtu.be/BxXufJYXWEA?si=hgt25uMNJ7xV_kLI
+- https://youtube.com/shorts/skBeCHVrOm8?si=cJHMDIR7olGMs7UJ
+- https://youtube.com/shorts/skBeCHVrOm8?si=cJHMDIR7olGMs7UJ
+- https://youtu.be/PHIiuWEQr8E?si=JDU8EAIWnclALjfX
+- https://youtu.be/xynLIXamMKA?si=OpfL4G9uGLTTuodo
+- https://youtube.com/shorts/L5iAvqmXTx4?si=eIoZp3oUhxF5lcX1
+- https://youtube.com/shorts/R7xaAOWSJuc?si=B9mqwC4O2yKm7CoK
+- https://youtube.com/shorts/8F_ctd5-XTQ?si=8ScglPK-Ke4cWkDa
+- https://kamone416.gumroad.com/l/hnddn
+- https://youtube.com/shorts/J9CaJmoUx_Q?si=dv-H8azfpR4zGkFX
+- https://youtube.com/shorts/7MrXIrjM1ck?si=UAClTyG8PZF-SWIR
+- https://youtube.com/shorts/ROsmUpLVjcc?si=9CqUdriXMlBNwihJ
+- https://youtu.be/7gXBOO0jm1A?si=_vn70huoYkXK0vgZ
+- https://youtu.be/mP__S96njyY?si=42Kqz2g9j9FakeDE
+- https://joedanimation.gumroad.com/
+- https://youtu.be/uCa8yy5x_wg?si=Q0A_Ht_KZhxS8065
+- https://youtu.be/ijrsY2kuFho?si=uuJ1c9UszkQ7PUMH
+- https://youtu.be/3T3wqRAHKd8?si=iL5n0Xw4x-1Q4Xlc
+- https://youtu.be/uCa8yy5x_wg?si=Q0A_Ht_KZhxS8065
+- https://youtu.be/6lGPvMLE8Oo?si=iTLDt1JuMdNyByOx
+- https://youtu.be/wgzQ2OmE2Ow?si=iwvEqMLY8gSrxzzV
+- https://youtu.be/fEyMDR-I79w?si=Ez8Y92U8F7JD0A7o
+- https://youtu.be/nqAgnc9SWsQ?si=TiPGHQpurPOLHNqr
+- https://youtu.be/18sDz7fxrGU?si=_yrf7ZgP3hwmgudQ
+- https://youtu.be/ZX2bTUoMHpo?si=rWxOTfilo37xd6cq
+- https://youtu.be/xuuHLKmGbNw?si=isHCj-P-L5h-XoGU
+- https://youtu.be/XBnQjGGkCuY?si=vOKrAWRG-nwiYmFk
+- https://youtu.be/bV-IvdyMk8w?si=8yUFd80g19eLMshw
+- https://youtu.be/vSrahpmJnsk?si=leE47Qrkkr50ZBsQ
+- https://youtube.com/shorts/7BPHfOJQnJ8?si=Ir5tDJHwx7wc6k_8
+- https://youtube.com/shorts/od81ESpuwu8?si=pdTVPWcB3bn6WK2S
+- https://youtu.be/_uaCZIi4o5Y?si=WE0E_88OkQrdIvFY
+- https://youtube.com/shorts/BnNycxDJ0rY?si=PPsPNW-8jGkVhcwY
+- https://youtube.com/shorts/Ilm7-4YQhpw?si=9zeSOHUXEJ3B09VK
+- https://youtube.com/shorts/veVN_KoPtnU?si=V0ZlwGLWRLxruTSx
+- https://youtube.com/shorts/UVBJdRq8Kug?si=DpdWZdQfFe-YubW5
+- https://youtube.com/source/PI0PWh060RA/shorts?si=laEwKOVzHxB9vHcg
+- https://youtube.com/source/OdYKCjoSi-8/shorts?si=mZQ7nzE_ayCfadrk Llego el Pavo
+- https://youtu.be/OdYKCjoSi-8?si=arDcuV6n_J6fsKbn ye
+- https://youtu.be/uby1Enc9egY?si=gcUr6WxmcbAeMjeD
+- https://youtu.be/k9cRaeopPNw?si=wZqF19cgkmlNksYg
+- https://youtu.be/p1k9SIkt0Z0?si=lRyoVhO6C4NdfN3P
+- https://youtu.be/biC-6oNz5eg?si=a-KYOXbY5RlTI1qw
+- https://youtube.com/shorts/vhve8vpGhj0?si=JEarAZhp60R3VcX0
+- https://youtube.com/shorts/EAe1-IXqTS0?si=by9wB2yszhtDSe-o
+- https://youtu.be/Gpj9H5YmCZw?si=0k0sIjZ7NaTGGBD1
+- https://youtu.be/lT8f2dNok5Y?si=TtdyC8AwaOipe9sO
+- https://youtu.be/lT8f2dNok5Y?si=687HLqEqt3iEHEoz
+- https://youtube.com/shorts/cu8GN03Zshk?si=Ztqbi4TzExezd6WI
+- https://youtube.com/shorts/RB613CoCqI8?si=mS1MYhZ6SwqKGe6j
+- https://youtu.be/MLBSUee58ew?si=na8GEPKuFGWMTIjq
+- https://youtu.be/MLBSUee58ew?si=na8GEPKuFGWMTIjq
+- https://youtu.be/Czx1A8m-wuI?si=DrplRQF8FklzRF7C
+- https://youtu.be/08Hea4QD2sA?si=m-DZ_jL7OCdfq6Xy
+- https://youtu.be/l4pfFWt8tLQ?si=PeNzpS4p8PKPOfkp
+- https://youtu.be/KdNpplrUDq8?si=9vsRoa-B35jcvc1a
+- https://youtu.be/0uv7NrSeR3c?si=fHWUlDEpR5wptztW
+- https://youtube.com/shorts/r9uv7N2ga7s?si=g1K02vOQ9EmrBTtW
+- https://youtube.com/shorts/r9uv7N2ga7s?si=g1K02vOQ9EmrBTtW
+- https://youtu.be/cynQT9qZypY?si=GPKus7uXO_IU0qmW
+- https://youtu.be/_6mjbtgmN_k?si=xNc0AQx3aWgwCU1O
+- https://youtu.be/wtqfqd-ZYlw?si=i9yBfcztUQsfIwb2
+- https://youtube.com/shorts/Us9oMoL59mY?si=MMEGIkZ8QGzyW8xI
+- https://youtu.be/WKaBuqzbEG8?feature=shared
+- https://youtu.be/XuxsXlsZkVc?si=wss08ehawkR3t3uX
+- https://youtu.be/UOhmATcNUPI?si=PoHI0o9A1ag_D3aS
+- https://youtube.com/shorts/2Oq4LEkF2Ko?si=rb9B5cZijrrFZy8Y
+- https://youtu.be/TgLJZPtkT84?si=JrMnlF2akLV1qWyf
+- https://youtu.be/e1ktNw_mitg?si=SE-mju5ufVB5xmdd
+- https://youtu.be/9YSFK0G5bbM?si=eBnhdKKFBleaxTcQ
+- https://youtube.com/shorts/dfRIOX3Egjw?si=O_fbAKmVYgSxUOIn
+- https://youtu.be/V-AmcFucl6E?si=KR14BxSI6E4owruv
+- https://youtu.be/-lYAYtDx27I?si=j6ubJOf5r-CkhCfO
+- https://youtu.be/u4bXRKzSULg?si=7zBQnoRttsfg4qUq
+- https://youtu.be/pXMkcpJN8QI?si=WlXxzMZ4dOI8vk-q
+- https://twitter.com/Vitashogun/status/1694226348112527709?s=20
+- https://twitter.com/kradebii/status/1695103077236560348?s=20
+- https://youtu.be/h8dTLxUo9I4?feature=shared
+- https://youtu.be/CkUFn_GDpeA?si=y8fcVIlYLrQy7SSh
+- https://youtu.be/dy4WsbvocS4?si=Gswt6mWwgmpCndF-
+- https://youtu.be/vUG-wzYxHVI?si=UlycDhETBGw4iSL7
+- https://youtu.be/QMnm3g4OGWw?si=7qW42neLiUbco1f1
+- https://youtu.be/Z04W0iy29_k?si=Wg1dsyd5e6giCKD0 Polybay
+- https://pastebin.com/RGTZaJdx
+- https://youtu.be/fMBJVFbut38?si=bkBqLY9vN4unZeSM
+- https://youtu.be/rIm9SnPwVIk?si=L8W0xsM4pGYo3hsX
+- https://youtu.be/_jo49o9RkjE?si=POdPmDHr4WeWUa-0
+- https://youtu.be/tIDOzppH4Qg?si=VKzVznbwor5dr4ny
+- https://youtu.be/Ysy_WaRJhE0?si=0wXVm3bvu7nrVh4P
+- https://youtube.com/shorts/bO_IHUtaBUU?si=IuZHKKfd5fcHWY1J
+- https://youtube.com/shorts/8CsU4LQYYpc?si=-rrQITZDjZuLn4UP
+- https://youtube.com/shorts/6reZMl6jnyI?si=uRVEmbAfs1jZYw1Q
+- https://youtube.com/shorts/x8fiWxtbf2s?si=bb7uE3-r0JWa9fg1
+- https://youtube.com/shorts/7YwTf0b5r3Q?si=FsaQCHgmANuQwv5G
+- https://youtube.com/shorts/zLo0bbQpNgU?si=zt6TSybbvk1FqPMy
+- https://youtu.be/gVdbK7jmTDg?si=zXrqmTH4sH7gNwKD
+- https://youtube.com/shorts/WArQncTndNs?si=akjIWMHdo_dFJ2Xc
+- https://youtube.com/shorts/ZgaXbjE_AeE?si=ziC2K47rKzBLgz-W
+- https://youtu.be/VeFMdVIFsgs?si=xUhslXpwp5V6VLAd
+- https://youtu.be/AvWUHqsvjKw?si=hRhW6eSX-OrESwgm
+- https://youtu.be/WmWCAujwbrE?si=McPmeqBGlocAfmRI
+- https://youtube.com/shorts/YUClcREM5mg?si=TK-8N7E7R-ixNy0S
+- https://youtube.com/shorts/IuY6KTPOjkg?si=ncN6Dd4KZiUc1bAk
+- https://youtube.com/shorts/_chi8pB4XkY?si=1rrqZMsSidvLWvev
+- https://youtube.com/shorts/JiTRPLRD3VU?si=eCfEWADcfXxmDtoS
+- https://youtube.com/shorts/pXIaSN01o3U?si=goCUjbxWrmyF252W
+- https://youtube.com/shorts/JFw7eV9dZQE?si=8ycL8DrydqoM-LMg
+- https://youtu.be/7ijG6G-CSu8?si=tzphlMuQgWwZ1pvJ
+- https://youtu.be/X3J3fh9gbgA?si=yYkDqf5aneuloPup
+- https://youtu.be/kku0fVfksrk?si=yMxvKJzZsCzrWP2O
+- https://youtu.be/_6m6WlyiQSs?si=VfBQXMNRizYvX39C
+- https://youtube.com/shorts/CGgKJMOie7k?si=g8QajabJxVeTFvM6
+- https://youtube.com/shorts/a2i84Fy68Uc?si=rwvjsZmaBUKhltVA
+- https://youtube.com/shorts/46MD93qTcEk?si=gZz0_WN7DUggIWpV
+- https://youtube.com/shorts/W3bj7Z4hZHw?si=htjzIEvO2Hi2juCT
+- https://youtu.be/1fKhUyF0xbM?si=BpG7IzV0iM-_M_2d
+- https://youtu.be/8x1BJCKwqpI?si=EY89ltEcRSDeSuXz
+- https://youtu.be/fYBEnowdvuw?si=VbQgqfa1sV3y9-tY
+- https://youtu.be/Px6wr3OgnJA?si=VmMM7cP09noAFJOD
+- https://youtu.be/ati6oZ5Up18?si=hB65v667rsmyyFtu
+- https://youtu.be/AhPwfKpqF0g?si=kcrWQD5mavPvNaG-
+- https://youtube.com/shorts/dYCu8P2-YRI?si=S-AqpzWOX55g5yeW
+- https://youtube.com/shorts/zpOMqiefRdM?si=p2uBZRi8IaumsPpV
+- https://youtu.be/Tm3zhWvCOWk?si=Z3A5hFlM8uum3Db1
+- https://youtu.be/r1rS3ydL3ig?si=cN8_UMsVsmKcYjFU
+- https://youtube.com/shorts/Whe7uGQSZrk?si=dmVKThq8ysaylnKi
+- https://youtube.com/shorts/qJkEhrMGxn8?si=Q8LspRiMBwK0rDPW
+- https://youtu.be/3F9iLpkNGMQ?si=dBKUq4xe82mVUhd7
+- https://atari.com/products/mr-run-and-jump
+- https://youtu.be/xLvL_HfgZjo?si=GGqfkTTQmLzvWIkc
+- https://youtu.be/k33HdTgtNU0?si=xal69E02BPdvpzQP
+- https://youtu.be/RouTQpN3Z9Y?si=8qmVY0VRVwlBu3N7
+- https://youtu.be/A8Q6PnttlPE?si=tORfGI6NwHgvGfYV
+- https://youtu.be/Wntf-pM5k2E?si=RcHx9wn4tYy8aFLA
+- https://youtu.be/ZWS-ATCNNVQ?si=7qf5d8RmPUeskHP-
+- https://youtube.com/shorts/he3uB8ddWNM?si=V_UeCGdYJOlHY2pt
+- https://youtube.com/shorts/01eZpFSI7AQ?si=EPk70kF62VlDeIg7
+- https://youtube.com/shorts/uF965pS4vb4?si=w9pvuexfIIJHZ0w-
+- https://youtube.com/shorts/m8KEKVpjuIc?si=QWZTHYdHNFCcJg47
+- https://youtube.com/shorts/tNN2pX6h6BI?si=CrFhxxgb7vZoDwvh
+- https://youtube.com/shorts/1sX56-gGyr0?si=eVZA2OxbSpMtXUaL
+- https://youtube.com/shorts/NK1y-qCIYwI?si=7jHlDJbCCsmlbZxm
+- https://youtube.com/shorts/UUTGSsg1Rac?si=5iLIkwg_5xs36cHz
+- https://youtu.be/dO1UG9CBwMo?si=CD4wCV5xDfBObDYs
+- https://youtube.com/shorts/Gz0b025Z5dg?si=uMy8G8PCePhsvoeg
+- https://youtube.com/shorts/J5GVQE5S4f0?si=PcvhL8fY6JTswKDt
+- https://youtu.be/x5Y2Qz8795I?si=qfgcykUL9MooSEUA
+- https://youtube.com/shorts/QXMrI6FARZ0?si=eajCrAdaKis7BOM_
+- https://youtu.be/auBCQQdGaY4?si=QN1cvVq3tFk0QtDR
+- https://youtube.com/shorts/DKQte9h8ksA?si=-QO6pq4q2iQeuX3c
+- https://youtu.be/7qNPfFzmoFs?si=ALMZCfoEOWxsLbHg
+- https://youtube.com/shorts/7a6qNwmVMms?si=Fxs3KAkkM_M1_Iqe
+- https://youtu.be/DZxuOyzYFIY?si=ViKV5IJx_4VULA9K
+- https://youtube.com/shorts/hXBWmRIHCAo?si=F5g7K_5u0oAP1YTD
+- https://youtu.be/E9MWJVtBmzA?si=xQV37V7_N6eHRzZb
+- https://youtu.be/0j0ymWj-vao?si=9o5mcYIpwEO1wx32
+- https://youtube.com/shorts/flxUj9pZQNs?si=QDJxyGnHQn5aUD9g
+- https://youtube.com/shorts/6odu9lY1uLM?si=rWc0_w6smXhBMnbD
+- https://youtube.com/shorts/FGvxwu6CVmw?si=3vGcKN2rBemOAm_r
+- https://youtu.be/Ko4XmJ3lz0k?si=uIGJt9q1CiqyWVrc
+- https://youtu.be/MgDoXu__KyM?si=KHCOO5SicrU6Oe35
+- https://youtu.be/SjQeciaoAwA?si=xRtNvPZrnXQUlBbA
+- https://youtube.com/shorts/WCq8GH1tYpc?si=ckp3VEd50l3Wuqfk
+- https://youtu.be/h0H0smBof-8?si=jfx_X5JomInadAr3
+- https://youtu.be/Q-55eQTMEfc?feature=shared
+- https://youtu.be/KFZZI7HCp2M?si=3XZmXXzUsJS07v7F
+- https://youtu.be/eFDvAK8Z-Jc?si=W6ZccJeMf8PFeWSu
+- https://youtu.be/HijmxBqzajM?si=0CJ1mI-K02mWcDNQ
+- https://youtube.com/shorts/TDNXIO1zcwg?si=RXCiFczHdqFCSNRz
+- https://youtube.com/shorts/LP4Kzqd7QBQ?si=fBIcMENjneLUocvu
+- https://youtube.com/shorts/ZtAfh-WN5iU?si=QA0aB1tcvYZpFJYJ
+- https://youtube.com/shorts/yuusshcfqeU?si=vjIRX9R9gw3Ji-16
+- https://youtube.com/shorts/JXZeDl3ZxDI?si=d7FM91eWKH1eoXPx
+- https://youtube.com/shorts/EMMl7JTgBs4?si=PKjq5OdPvWAxozEx
+- https://youtu.be/vB9G7kmNJJ8?si=0zYaaSoDL8-i4SAf
+- https://youtu.be/Ph9I3vAbd-w?si=gkCg2r5X5_Zt76cm
+- https://youtu.be/48vET0WDkqc?si=MxpsqLcZPt2kmCcY
+- https://youtube.com/shorts/-FeOezFXKgM?si=Km8JpjjOstMtvO1w
+- https://youtube.com/shorts/MfgQjISVpvo?si=U8gxgIHDDSYDqMGv
+- https://youtu.be/gUy7yeqSEak?si=3l1OOoPBwnLx7nwn
+- https://youtu.be/cOKayUeS9so?si=3AgRN7MRTlbmFU4T
+- https://youtu.be/IsggVM2OX7I?si=KoySOxP61wEx1QJJ
+- https://youtu.be/Su1rO-2OldU?si=cNDr3IkwLKQ5Cwqp
+- https://youtu.be/BdX3prGBxIg?si=guPizFwq8ekWUdnX
+- https://youtu.be/myo05m_-03o?si=gClXOkTbqT7MKxED
+- https://youtu.be/ExIweAvryzc?si=YWTeMwSNizIvZoJs
+- https://youtube.com/shorts/GqNUOyhaAak?si=bC1_HGUxoPU0fmXW
+- https://youtube.com/shorts/wguUaI-NSuA?si=QKxhL1leHbC2eZ5Q
+- https://youtube.com/shorts/cps0xBV6xi0?si=ZJDl7c2-bmDVuRZt
+- https://youtube.com/shorts/AZ8MAqe4Ps4?si=VCiZ8nNADxU4cK8j
+- https://youtube.com/shorts/HiRyhdlwLYs?si=ZAqI7NQs0iLUkMTc
+- https://youtu.be/skY_LOIV0xw?si=FBh-7k3q0CTy2za3
+- https://youtu.be/WpoGP7gqkFs?si=wmdRowYprPLS9LXS
+- https://youtu.be/Meb2RtA6HKk?si=qgUhMKj9wtUpNunq
+- https://youtu.be/l2bBsVFL-GY?si=notCWTZ1SV6bsElj
+- https://youtu.be/tRk6gEoeYwU?si=8p_cw1RP2e8KI8hy
+- https://youtu.be/9rf03VAxGZw?si=V5u-FXSfSXkmuypv
+- https://youtube.com/shorts/DyULC1l3ZdY?si=FqXT2bzFg_quG9iA
+- https://youtu.be/B_6_WEjAMEE?si=izJdgWD2JonLiiWq
+- https://youtu.be/GTFTEdEpIps?si=8Wd3wgUmTL_CUDOW
+- https://youtu.be/F3G7GLTffLI?si=bmIG8_rLJJ8IraW7
+- https://youtu.be/2iZCeL8YSUI?si=I4SYK7HynVqtDgHt sanae dolls dancing
+- https://youtu.be/s0qc130R55Y?si=DNVctSzdqGzPRC1R
+- https://youtu.be/c67rp0vRNes?si=Wut_OEhZBxfPFBt2
+- https://youtu.be/PF4rhL25S8Y?si=G7jWbI5kyLMy6Cc0
+- https://youtu.be/qAE5KoyFEUo?si=hDyQ96zEOKDDCKaK linus back
+- https://youtu.be/krvn2KazdBU?si=pdMAWbMtFshuuVcu cube game
+- https://youtu.be/9_YYyTYRZTI?si=6JMX9JyDHiHo_iNO
+- https://linustechtips.com/topic/1528221-ltt-labs-test-processes-documentation/
+- https://linustechtips.com/topic/1428939-lmg-sponsor-complaints/
+- https://linustechtips.com/topic/1528202-weekly-sponsor-concerns-update-aug-25-2023/
+- https://linustechtips.com/topic/1527945-lmg-sponsor-do-not-work-with-list/
+- https://youtu.be/Izfjw-EjAng?si=4g8k_cYC5TSqyUez
+- https://youtu.be/Dt8UfDSkZEU?si=GzDUh_rv3nCgP-zq
+- https://youtube.com/shorts/4NQVvEWgmWA?si=SsiO-5xBAAdNJZt0
+- https://youtu.be/rlY6CBBCY9s?si=g86sNR7cuYtqIMZ-
+- https://youtube.com/shorts/wztrqjabGKY?si=ygmMy9BuQS8R6JTA
+- https://youtube.com/shorts/_Js8iI5LGxU?si=z-T4MQjo5pvcIMyO
+- https://youtube.com/shorts/sd3Jbh05DXM?si=mrgfeHwo8yFpNwNH
+- https://youtu.be/Y5HUZIVmNAE?si=boxZZExyw1Yl8Ema
+- https://youtu.be/mYJJbmHeKH8?si=Gdno_IOd5OwIQsew
+- https://youtube.com/shorts/SV7ZhAcbT10?si=71vTG-S_XVJpBvrs
+- https://youtu.be/zTF7cLXunN4?si=oQG-EgYcyDR3akn8
+- https://youtu.be/0GdaDT8Nmto?si=C8uamtUC7Knf2MMK
+- https://youtu.be/uYdQ4hWZ92I?si=UGwFyuwblyaHUylE
+- https://vt.tiktok.com/ZSLtAyAmW/
+- https://youtu.be/wxxrW9bUvJw?si=s7IGE7e0H9l0znSQ
+- https://youtube.com/shorts/j1soxTGLy8w?si=UnSOqMcpziEb801g
+- https://youtube.com/shorts/j1soxTGLy8w?si=UnSOqMcpziEb801g
+- https://youtube.com/shorts/56GaU0iZsJI?si=QZsQ2LaYjzRM_QUO
+- https://youtu.be/rvO3_orG_mg?si=XILfG9yCxS_NlO95
+- https://youtu.be/xzmne8iePpo?si=hlA-AXzeBfsmcf-6
+- https://youtu.be/hAg4GjQ5hAI?si=w5_ipgWO5tPnL-AY
+- https://youtube.com/shorts/Umk585BhyEk?si=ukigaoFlkVhdb6E6
+- https://youtube.com/shorts/u42NE6Q64ww?si=U8L8_U1W8SMkmWmC
+- https://youtube.com/shorts/5AjP9qZeH-E?si=kZPGXqnzyQq1qex_
+- https://youtube.com/shorts/naWqeBXL0K4?si=sQY69ZtoxSu5hzBc
+- https://youtube.com/shorts/jy0JXhfI5TQ?si=1IJrPXBtDhUD-pKx
+- https://youtube.com/shorts/uJT5XDn8snU?si=xCT51xfHF1PXaOlp
+- https://youtube.com/shorts/kOst369Q1nk?si=UyEaShCWoUkyVakM
+- https://youtube.com/shorts/pxEQ2fgXS48?si=sG4otU_cJMMmoXo2
+- https://youtube.com/shorts/CzUTljp9B1g?si=QzKQx_mNpdH48pio
+- https://kitsforhams.com/
+- https://youtube.com/shorts/0jyFlQIZfpE?si=OztK7sX2hB_qTeFI
+- https://www.youtube.com/live/6H7KnF-giOM?si=VIUY4Wlsk2rSkrZK
+- https://youtu.be/O4pVny7NV8E?si=-r0cPEm0houEQNHa
+- https://youtube.com/shorts/3_LiVM5PfaA?si=6qFxbondJWAvRviT
+- https://youtu.be/4AxiXS9n0dw?si=-5NqYennhx1_hoWx
+- https://youtube.com/shorts/ELluwubpdRg?si=Cjtq-O6mFjv4i9-S
+- https://youtube.com/shorts/pJWqEahhFcg?si=ZRsdM_Bh_pFVqKdv
+- https://youtu.be/mR-MgYGT2iU?si=eUYz-IOJohFBlNsw
+- https://youtu.be/ciU-bTCk7fI?si=qLBnqZVAJ609_Nzw
+- https://youtube.com/shorts/ccJHdmSE7D4?si=v4qlb2Mv0J3E9-HK
+- https://youtube.com/shorts/7chZWrYtAI8?si=VX1LMyOzbMF8fJB5
+- https://youtu.be/pvRWniTDxys?si=d0IkAb9qT5BMftWF
+- https://youtu.be/DWYqu1Il9Ps?si=OEq_FCePLIuZkFOn
+- https://youtu.be/taHFUKKKmJM?si=NPliedXu49nlv5tm
+- https://youtube.com/shorts/eohWSGwZ9yc?si=0Ve6kh4CCG7Oyz1T
+- https://youtube.com/shorts/TRiQRYqEjRw?si=xT6OFAGavi5D2LAf
+- https://youtube.com/shorts/eQaduPf_MH4?si=xB3UAaRwkpYFBWq7
+- https://youtube.com/shorts/YLEuHBm2tzU?si=33Q2DbhVtZ2vtgHS
+- https://youtube.com/shorts/933kitBCTds?si=KRqllB1ZXtEGzHiH
+- https://youtube.com/shorts/-yLi7ojnr-0?si=xC6oAVP0KI_ZuCQ_
+- https://youtube.com/shorts/cE4CR9tyg44?si=Xq1cWBZGn7qDv5Wc
+- https://youtube.com/shorts/FkKw9-qTe28?si=walqph3VSw6fkA-e
+- https://youtube.com/shorts/FkKw9-qTe28?si=walqph3VSw6fkA-e
+- https://youtube.com/shorts/TRiQRYqEjRw?si=BITpl6o3VpJAuMd2
+- Adam apple
+- https://youtube.com/shorts/_dB71sezXvc?si=D_hgNoaCg7J2ozb0
+- https://youtube.com/shorts/KpwLsUs6uJI?si=HsX9zCbDZN-TzDyt
+- https://youtube.com/shorts/KpwLsUs6uJI?si=HsX9zCbDZN-TzDyt
+- https://youtube.com/shorts/jUvFdyWgfss?si=WTpgeODmASB5S1p5
+- https://youtube.com/shorts/qj7gjW1Bm7A?si=qWcVITE6d0MnZ9Qy
+- https://youtube.com/shorts/FS4foyKO4s0?si=dJ3UislGPYFiC-3-
+- https://youtu.be/bXIn-uaHIyo?si=672mrAGDzJkie1BJ
+- https://youtube.com/shorts/0DTqZojExcM?si=UEKhiCZdS7iHwS_H
+- https://youtu.be/fYBEnowdvuw?si=zgo5gNNg30vod2Bx
+- https://youtu.be/izNDIxK6w2k?si=MdmOPwr7_DIZ1LaO
+- https://youtu.be/PwZEBE66an0?si=noElMf1zUyccyRhd
+- https://youtu.be/WfM4-7FB-Fc?si=wsImb8EAnvlyjfnT
+- https://youtube.com/shorts/cKfhT423CAk?si=aQXmxY7E7IKuCS9Q
+- https://youtube.com/shorts/9yOY4n9S8CQ?si=yZ089PeGl2ylgywu
+- https://youtube.com/shorts/WA1ZyxREvpg?si=0BphrFLSISuSymeO
+- https://youtube.com/shorts/LumS6HSphqk?si=1Rg2h5FsoTDdv0sy
+- https://youtube.com/shorts/2-_zSxtWRag?si=P49dNOVlkQkNZiSh
+- https://youtube.com/shorts/mFmtpvy6jC0?si=2ZYORBSERSwLJ3qE
+- https://youtube.com/shorts/dYuZQe52eZo?si=VC5YTnbx3p7dzJi2
+- https://youtube.com/shorts/r8cRaD9UYEU?si=RPTMDJwDXaPsOYsC
+- https://youtube.com/shorts/p9uzd8y31cs?si=9mTteYyeqNco6mqT
+- https://youtu.be/KxthHN8GapA?si=tVgh5p6KlZGZ3cTU
+- https://youtu.be/CIn17fYU9WA?si=9tonrv2vZl5OaWA0
+- https://youtube.com/shorts/5nBiojPahR8?si=QW7MX_dZOGnz0B9-
+- https://youtube.com/shorts/IZ8ha0G8apE?si=nWHXcT1brFPYtT2d
+- https://youtube.com/shorts/ffXJdmD7Cz4?si=DzaWuKpDJWWbYo-e
+- https://youtube.com/shorts/9hqZCg3igf4?si=TQqj4jcIMYuqooiw
+- https://youtube.com/shorts/abyQFwBu3SY?si=NyouUznThtuqJWmI
+- https://youtube.com/shorts/B8ekI5tU_Jc?si=0ZNM2wC7UOJzlQsM
+- https://youtu.be/UBqiAL4G-W8?si=YUcBalXo80ktz-Cr
+- https://github.com/gaming32/ArrayV
+- https://youtu.be/sS2rkiliiqw?si=sv1vzrIdK_OupmJf
+- https://youtu.be/-9JZE5xnY9U?si=zFrmAOuJd1wKO1Ft
+- https://youtu.be/1WMmpqMaQYI?si=e64A1jiFden88iAK fog of war buy
+- https://youtube.com/shorts/CMN9lzHkcFE?si=6w2L4Kj6WMnNXp4u
+- https://youtu.be/XxLenBwyszg?si=xni5BopS6yofGkVD
+- https://youtu.be/ZuEZg-NeJRk?si=N4w-T98piTIEgkv9
+- https://youtube.com/shorts/qQGRRDu21_0?si=gD9ETNwE_65Ugywl
+- https://youtube.com/shorts/UxRdg30sTFU?si=amLVMr0CZavDAYK6
+- https://youtu.be/zcVSDJC-MM0?si=rlfxA6iT6Zx_RyJc
+- https://youtu.be/XubqCArLzSE?si=1QR_HckR2LsE4nYn
+- https://youtu.be/ns96O3ZP0qU?si=8w3dbG0x_quDWhSx
+- https://youtu.be/BL4DCEp7blY?si=wZCRF45ItXzJfIhC
+- https://youtu.be/QKje_cSknNQ?si=Q71rzr-OMSDdpD7a
+- https://youtube.com/shorts/QDm74jQOXB4?si=LQtV6KDcXQ0kw6Yz
+- https://youtu.be/v8tjA8VyfvU?si=6IRQ9W-19vhWq2mo
+- https://youtu.be/v8tjA8VyfvU?si=1bjpS91U1zyCbpL1
+- https://youtu.be/MkMwLbIQlOg?si=bdrO_IZFC9Ym8UXU
+- https://youtube.com/shorts/8KtciDdwmKY?si=3S_aGs8A2As5n-Lm
+- https://youtube.com/shorts/el7JzPvNqBI?si=epN6yOuj1M69VvDL
+- https://youtube.com/shorts/TZ1jS07oQaM?si=_JRs6EFrF1QppmcC
+- https://youtube.com/shorts/Blx8rj-6ccY?si=ScffvrGVSyUoH1H_
+- https://youtu.be/ucDNykNh8RA?si=aohkj-Xc0Q_8nrEq
+- https://youtu.be/KNEulcJrJ2I?si=3oO49HBrKDpaSHa5
+- https://youtu.be/fVgK5NfVMP0?si=xOX01xA6gM-X4810
+- https://youtube.com/shorts/FrWYRfZxvMI?si=5ZRaRp-YotWtdnsO
+- https://youtube.com/shorts/DP-BhQNqQWk?si=U_AA030xA6vPMoYU
+- Vscode pdf
+- https://youtu.be/Rza2Mj9TGm4?si=nPD9b8TNmDgjYBQF
+- https://youtu.be/q5M0TwnkWUM?si=9dbTfeGf5MVRLyob
+- https://youtu.be/6Z524I1cy2k?si=LCQnmJb4ARSn63h4
+- https://youtu.be/Q0h8wWlBxY0?si=40IvxfXWDvCKwAzi
+- https://youtu.be/TH4EtRm-Xvs?si=wYjuk3062TQwy-PV
+- https://youtu.be/XyGfxCxnZW0?si=UkSCGR2oYjquJ8aA
+- https://youtu.be/bHqiYQqclHk?si=cEbwdSBXOd3GWqkN
+- https://youtube.com/shorts/BZQHVC_F7SI?si=LCjfpmKEwGc0zNjR
+- https://youtube.com/shorts/pYZXEgflljg?si=kqliisvbhysVVGxp
+- https://youtube.com/shorts/oZH7i8ThMsQ?si=Pps19-IIKoZamxw1
+- https://youtu.be/eKthirMDnkc?si=eX8l5scLS7uoy8Dq
+- https://youtu.be/nyqLDtEkiVM?si=d4KAlSrn2SzY_t8x
+- https://youtu.be/iYO4RJHf7QU?si=v6qyKV10hEJ-fC2g
+- https://youtube.com/shorts/8ceuse3mqa0?si=AQbEtrFaGQukraQA
+- https://youtube.com/shorts/HcKCRBDb6dg?si=Y_y_VJHPmAT3N7za
+- https://youtube.com/shorts/bQ-fsASsYc0?si=5MH5fLzbUQRNdQcH
+- https://youtube.com/shorts/bGMfSmvZOiU?si=UxIip0TqNb6lDyR6
+- https://youtube.com/shorts/pt5MHlyNfJc?si=bGsTNgi3W-SC1sQw
+- https://youtube.com/source/VoNum1hp2BI/shorts?si=Vvw9XkHLVHQkQHpj
+- https://youtu.be/j7x1nwUEO4I?si=MHzOsqQiEMfF4fEK
+- https://youtube.com/shorts/DR6_5cAWptg?si=wPv9y6DZhxcEY07Q
+- https://youtu.be/RQEVVt_WEA0?si=KxHG0IxgF-GgG03-
+- https://youtu.be/KxjlLKKFkEY?si=n1nwKiACj0FYjD1o
+- https://youtube.com/shorts/1IpSw-PeA3M?si=_leKbvFxbFMz_sra
+- https://youtube.com/shorts/jZHE6B186Lo?si=KUsiyTc793p6nfng
+- https://youtube.com/source/n9nLkGx81gk/shorts?si=cVKn1dqLkmQm4Eyq scopin
+- https://youtube.com/shorts/hiMUSUGheu8?si=-tg4QdjWeLBDWAPj
+- https://youtu.be/VXaq77GiyEo?si=CdpF3XdQYaCD1TAQ scopin
+- https://youtube.com/shorts/IHIxfMnSEbE?si=HIfQdrhKuaXI0Cnq
+- https://youtube.com/shorts/s_AzBfFpaLU?si=ws48_Z3JuFv44fRZ
+- https://youtube.com/shorts/dmZTnLou-A0?si=CBRLrNfs8BgCIxyv
+- https://youtube.com/shorts/JFDrQt0e_Mo?si=_ggTfSPplNJH7ZAB
+- https://www.youtube.com/live/cKLcTAAwlN4?si=Wru8LudBtHYcYR0_
+- https://youtube.com/shorts/-K__g326sD8?si=XD6a-G3EVSAE9Q30
+- https://youtube.com/shorts/s3cytYlrG3w?si=Lx2_36A4p_kn3ypm
+- https://youtu.be/Op4SP-M1Asc?si=YBPFrAnx-pSpe63-
+- https://youtu.be/3OPnRxT0lTA?si=uU2Dha04v9FfzYw5
+- https://twitter.com/35s_00/status/1385175703834873859?s=20
+- https://youtu.be/0NhV5BdEWqo?si=Rdcie_RMuqRSC0LJ
+- https://youtube.com/shorts/Xw_PMWqVVXU?si=3p3oz2KjcsRtw_vY
+- https://youtube.com/shorts/OQcICezUvvo?si=h4HPgu_UjaU8iYEC
+- https://youtu.be/YfXjL4_s0Ho?si=hQUI3kpVAHdqzvaR
+- https://youtu.be/dypUb2oX-Aw?si=z_HDCpgyWMsAw4GT
+- https://youtu.be/m48xthwkpI0?si=YJTFBa7SipNcLa2W
+- https://youtu.be/zg3f9hQj0hI?si=hcUoLUS68tdpukHG
+- https://youtu.be/ncR1eq8gFZU?si=EvtlFytqrPQiy_5c
+- https://youtu.be/MDl4W3_6dqA?si=wG7n4ZwgW7KXFOF4
+- https://youtu.be/D8lJcf0V_-4?si=CLZcPz7OX5OQXkAq
+- https://youtu.be/2RWhkCVJZcs?si=lhn2cd807Qv4L9t4
+- https://youtu.be/jP0X9nWC8sk?si=TZ57OYMG6YxTOdj0
+- https://youtu.be/JCAB_ZGR1dA?si=nfrrxpP68ZY5buxA
+- https://youtu.be/6_tYO95Q72U?si=kHljBZVz3ZbQGCVl
+- https://youtu.be/v3XMyB9LhCk?si=PhlV1R5RGJ3Jg5Rk
+- https://youtu.be/7kJ_HxQipuM?si=J6c_fqEcPwaH0LOH
+- https://youtu.be/0b8fiUHt03A?si=YzcKh-hkQQfBXRWY
+- https://twitter.com/kang_shi_70/status/1695405738670059720?t=GZSigq9gMgom63n1YJQxKA&s=19
+- https://youtu.be/r5NQecwZs1A?si=3pjTumlWVzQbv09q
+- https://youtu.be/MQRpIUu3dMw?si=ROnR7CGtiiscKNYk
+- https://youtube.com/shorts/WP24DIDEpxE?si=UBrOo-zQQTeUHfFs
+- https://youtube.com/shorts/_Na3a1ZrX7c?si=TRu5AowqERsklMDw
+- https://youtu.be/C5vVQH5m6kw?si=5QOJ1t6vlzYekT2p
+- https://youtu.be/wHTcrmhskto?si=WduzAW29ggGjHrx2
+- https://youtube.com/shorts/PoxbECl1iE0?si=QLz0j_Ru7TRB9F2-
+- https://youtu.be/gvlCM9bnhMo?si=ALoAgDVZgsyir2a4
+- Pls Hatsune Miku iOS
+- https://youtu.be/3To0V2bfYsA?si=8jg61nqvgF-t4rsS
+- https://youtu.be/05iCSgXttr8?si=ySDu-5xLLkxCEtsr
+- https://youtu.be/yPuI4l0jK7s?si=O7FUdI-oYuJ78yzZ
+- https://youtu.be/341IsnWdaT4?si=aME8jD6DOmYyLXR6
+- https://youtu.be/LZKvDm5VMxI?si=JfZ0vx0LRgfZM122
+- https://youtu.be/1tUpA4edMoI?si=3fhFMYLNa3XsbjRr
+- https://youtu.be/n1lEGcsuVp4?si=Sd8aYfoUwhNHFRZV
+- https://youtu.be/1cd8FOHoeWQ?si=bRG9In4-9h7wxL0F
+- https://youtu.be/yWrJ29ZkCaU?si=6eSkT6Xvjp5ugK-H
+- https://youtu.be/KJmpHRav3OU?si=oUCKCAc1Y6CJqwcb
+- https://youtu.be/KJmpHRav3OU?si=DeCbMS5sJky0ZauI
+- https://youtu.be/DSqEra6UxHY?si=nMSXy80QqhHphAuY
+- https://youtu.be/UapGUVJe_qI?si=QT04RZuMgJ_gelBg
+- https://youtu.be/87jqQhFFomA?si=Ie11u5pqr-BXRPuy it was misinput
+- https://youtube.com/shorts/gXzaTa8mS3o?si=nJTlEev9Dzs9J8Mr
+- https://youtu.be/tjOAqCIIaAw?si=XnkoeRxwVsnSltwL
+- https://youtu.be/B0ed2CMuycg?si=T-PeWnr0a6WCRcio
+- https://youtu.be/H9_kfFxkkAw?si=M107xHd0o-wNkOo9
+- https://youtu.be/Qz3as0YRUuY?si=BYtKYg1NAQK1CE6S
+- https://youtube.com/shorts/iToIAAs1xlM?si=O5hj8V0MF4zA2iDf
+- https://youtube.com/shorts/MvlXHKD31G0?si=kzkdtomQUR_vTqFl
+- https://youtube.com/shorts/gWI5WqzIx80?si=Cs11_F_trbqNksP4
+- https://youtu.be/uilUxcukP6s?si=IJXuIKNxOeZGL86L
+- https://youtu.be/h85NqgSRApI?si=Z3NF08R8HQw_TYue
+- https://youtu.be/N8tD8l8ZWhI?si=PzoNG-SVgqjAhto-
+- https://youtu.be/4fkLigX4ilA?si=TD2DPiKHeIOUWznv
+- https://youtube.com/shorts/j3_v3FgISaQ?si=SXFI0Ctv1sypLP3i
+- https://youtube.com/shorts/N9b8hfHakh0?si=tOpY00IOz-JPqOC5
+- https://youtu.be/5cGKEnD_MfE?si=oOnSlF_9TemdRLhx
+- https://youtu.be/70eNRex-Uew?si=nKFLfk2B3dRTQb6N
+- https://youtube.com/shorts/WmcdgyzGhIQ?si=dFVV1xsnzdYe5EOA
+- https://youtube.com/shorts/3luGlQFGY2o?si=O4lboW9OY41WjlqT
+- https://youtube.com/shorts/4ZfbnAmHusE?si=6IvYysBtMoiefbRl
+- https://youtube.com/shorts/x12KKOvAGgU?si=_sJGaHSHu10RA0vY
+- https://youtu.be/_q3PpaVxupY?si=dHL7kVkCWF6NoChP
+- https://youtu.be/iC89wYkXan0?si=9NfvzQxy0U-0_icA
+- https://youtu.be/QfmDn1IaDmY?si=nw_PAAYe-9f0SW2f
+- https://codeberg.org/tenacityteam/tenacity
+- https://youtu.be/o1tj2zJ2Wvg?si=WgLv9JshrrtGqy6a
+- https://youtu.be/lJKczg3vUTo?si=U8rmmn00bmRnvjYJ
+- https://youtu.be/lJKczg3vUTo?si=cRmbSvB8g7hvZcHq
+- https://youtu.be/UapGUVJe_qI?si=GFy26W-vPFIULpkB
+- https://youtu.be/oT_4n2CqzDw?si=XmeZW_9pQzhh056X
+- https://youtu.be/lHBBC4dkMCc?si=QG6gHnh6bebVTKEk
+- http://xdesign.cz/twister/
+- https://youtu.be/uOag8XfdMys?si=Hulhlew-HCHJJpsl
+- https://www.instagram.com/p/Cvmi-IlOTgW/?igshid=MzRlODBiNWFlZA==
+- https://www.instagram.com/p/Cu4_66yMwklI_K6bBVz1KZePPPFFN9QIkRXb2o0/?igshid=MzRlODBiNWFlZA==
+- https://youtu.be/jnihoggqCKg?si=IFGOhe9ScuVTtLk9
+- https://github.com/Tech-FZ/EmuGUI
+- https://itsfoss.com/quickgui/
+- https://wiki.qemu.org/Links
+- https://twitter.com/SkyStuff7/status/1695469982736409039?t=m1GDIDHz_yAyCSAf8hFuIQ&s=19
+- https://twitter.com/SkyStuff7/status/1563190696882085888?t=m1GDIDHz_yAyCSAf8hFuIQ&s=19
+- https://youtu.be/SHMUMeEzSS0?si=r3B7-Z4a8eOFc3gM
+- https://youtu.be/wxxP39cNJOs?si=WblK9d6N52TMqasb
+- https://youtu.be/SvnYziKM94I?si=UZfmFg4Xl-9ft4XU
+- https://youtu.be/fj-nweqhhHM?si=Z62T5xZ0gQuEWmKb
+- https://twitter.com/giwono0708/status/1637231593432707073
+- https://twitter.com/A_Grey_Person/status/1637689070343323648
+- https://twitter.com/pk_kenzie/status/1632847614172606469
+- https://youtu.be/xKICYMeSw7w?si=GsQ4l_dk-zlS3n9Y
+- https://youtu.be/6FaXtS3sBlE?si=xy135XWuqHBdST9m
+- https://youtu.be/tzaDOveci3E?si=8zwzkGcXWN8l1lQG
+- https://twitter.com/luizhtx/status/1695461578022568257?s=20
+- https://youtube.com/shorts/410niHu6kNQ?si=FkZilGmUU_cw7JtQ
+- https://youtube.com/shorts/kz_8QqLm2us?si=TGdU7ZpL_JfH4FjZ
+- https://youtu.be/6czeTMG-gIs?si=bk1EnbkmgeVtvZ6i
+- https://youtu.be/d8qW6bL_2Nk?si=s6GLSrcdwekgMv_q
+- https://youtu.be/dJynV--ENKA?si=e5w3Xxd9O1WjKG1n
+- https://www.tumblr.com/jacebeleren/175695592270/i-was-able-to-decipher-one-of-the-alphabets-in?source=share
+- https://www.tumblr.com/jacebeleren/184243150245/hanaxsongs-splatoon-2-off-the-hook-live-concert?source=share
+- https://www.tumblr.com/jacebeleren/184262733865/inkling-font-2-so-i-know-that-most-of-the?source=share
+- https://youtube.com/shorts/zRgBQaU1QG8?si=ORP-l8vIRoxdzj7D
+- https://youtube.com/shorts/cerkDJLuT_k?si=SFdMnbNAmX99VdHB to speen
+- https://youtu.be/dA8NDuCP7l8?si=AxJCVsPR9CxZ2kbc
+- https://youtu.be/YajHVCI4bJo?si=aHFXQq4YOCmgPPb7
+- https://youtu.be/NFyIBw5AkvQ?si=SlPcKI9AwWb3kV4P
+- https://youtube.com/shorts/n3PX-EnI5xo?si=9SDAZqMaJnL7yUSv
+- https://youtube.com/shorts/V92S8KJ-l4w?si=Bqf73hMK7N6E_je1
+- https://youtu.be/UjzR55rNXP8?si=65hj7vP-rPPfJ7Xs
+- https://youtu.be/Cg9lu2VVs6o?si=m01RU2sQj31G4Oqq
+- https://youtu.be/67rwfPtdj_s?si=JsdPNC3I9wjP70Xr
+- https://youtube.com/shorts/Py7I-IeIKHA?si=_-HK7Zl0P3Zji_Dt
+- https://youtube.com/shorts/VYcNRaQ6A1Y?si=zJXPZ26QvCQZBYVe
+- https://youtu.be/_eI-dJPdf_I?si=C8ThggBhZYpwTq7m
+- https://youtu.be/OZpbaQxvgU8?si=YdXiUfOAYQN1FIlq
+- https://youtu.be/e3AIe0d_keI?si=L9AeQmv6bQ_mdosK
+- https://youtu.be/EzahLVvVB5E?si=HpIzUQ0JnB6BkYmb
+- https://youtu.be/rq2zmuUL9Hs?si=eM_NobSGjk_P11c4
+- https://youtu.be/smXcsNLRKYU?si=lQ7J5dbBycZLWBe9
+- https://youtu.be/V_6t2Gr0r7c?si=2Ix7-P0JfEwZ2t_f
+- https://odysee.com/@GTV-Japan:d/Yume-Kojo-CM:8
+- https://www.tumblr.com/asepriterico/716637371730427904/deltarune-resprite-showcase-is-out-download-it?source=share pls download
+- https://youtu.be/5dKkDgEPfY8?si=UKNfywA9Mk5CXdKj
+- https://youtu.be/8e8bvX7AJ8o?si=tJWNza7wfJOCmkzz
+- https://youtu.be/LK6UB256Sx0?si=R834P6zG3OZ8gb9q
+- https://youtu.be/ddzJisFs9xo?si=_EKTgOtGpIT1OdeV
+- https://youtu.be/huZ6pPxpAko?si=OiBV-SYloy5upXQ2
+- https://youtu.be/Za_Ul08dtj8?si=aHCho_pkdabK7ukT
+- https://youtu.be/otfgWPkFpqw?si=T9icUZn6vnQrfenj
+- https://youtube.com/shorts/3-p9W6ewHq8?si=l3lzPTDqVTLti0-e
+- https://youtu.be/z26Gw4BKSTI?si=bMQ0wcfZtPjj9W64
+- https://youtu.be/CdNRsgSc134?si=C5FzKz-nPAYs909d
+- https://youtu.be/RpNXb-6tahQ?si=wVKle2PJg9iCDDI6
+- https://youtube.com/shorts/esaubZCAXz0?si=gKj0Ng1SZui4BxGW
+- https://youtu.be/clEHGTJ2HCc?si=prrZFgLQ87dKKBiR
+- https://youtu.be/hULNdrsh6uw?si=ZfpvaLF0vgw0Uupo
+- https://youtube.com/shorts/Bu0Yv_yk3o8?si=3yu4Yf8zix0dcgul
+- https://youtube.com/shorts/ikfya6m0Dok?si=vjoiWdzopmGOQuuZ
+- https://youtube.com/shorts/DNa63suDH9g?si=486-Iw2q8VAoxJVE
+- https://youtu.be/fwX5qFSBJBs?si=ne3NVCjciFO5ggP2
+- https://youtube.com/shorts/_QqbF2NexGA?si=pirn2a7gskFC6EXE
+- https://youtube.com/shorts/wHBehpWh1m0?si=Qi4YC2sZDfTScTnF
+- https://youtube.com/shorts/RncKzX-VIFQ?si=eaxO1rMnbiARuauj
+- https://youtube.com/shorts/crcXJyO45zk?si=lvkD8RUFt3miG9jE
+- https://youtu.be/ia-LRXajgaY?si=XogLv0o7TA4WIjYj
+- https://youtube.com/shorts/eDG1nJiAXmY?si=ATFguHTLgA0KX1pd
+- https://youtube.com/shorts/HOWYzUbp15Q?si=1leEtyqX9B13Ywqo
+- https://youtu.be/V5iWFUeOjZk?si=RBTWic_z-0zPa7AI
+- https://youtu.be/ctjJ6rTpF0I?si=zUu4Dd4n5ML8N25M
+- https://youtube.com/shorts/OfeaabVJfSw?si=k5ChVY_2Ty946kBh
+- https://youtube.com/shorts/X_FBgpnfKtg?si=MEh7hbpeCK_4LoNW
+- https://youtu.be/R8LmOLJbwaQ?si=YsKG_ym1icAOpZ6J
+- https://youtu.be/b__Wvxniyqs?si=nA38PQKmRba8BrCv
+- https://youtube.com/shorts/G_yKuMLNo6Q?si=SB50xp9OLJ5XW5j1
+- https://youtu.be/Bq96WatxUtM?si=JDopJ6KIZHYpmGBp
+- https://youtu.be/6gzu8f7oeCg?si=_rcuSHKX9_b32RJb
+- https://youtu.be/W5cDOqk7V_0?si=FP1lxi7mVxU9x9lT
+- https://www.tumblr.com/baymaxcardio/726818064423944192/can-you-feel-my-heartbeat-female?source=share
+- https://youtu.be/9Mp8p8XZSfE?si=Mcl6TkT1j-crrld7
+- https://youtu.be/Wm5zPRTq5hc?si=XELjn2hJEF_tzVkp
+- https://youtu.be/4pz2kMxCu8I?si=nC84LUFeKPPp8Jgq
+- https://youtube.com/shorts/QAtnuzjPog4?si=Ps_TALFFml0l0yrC
+- https://youtu.be/rUsBuKa2Wj4?si=suljixThykmIBLTA
+- https://youtube.com/shorts/LOlptkQojz4?si=NwRJHxPbozkkk9HX
+- https://youtube.com/shorts/7m8ZKVcQ3yE?si=VunW4Ga-PvNY07uH
+- https://youtu.be/hfPqsFLDfSY?si=rfhKiBpEVeoyR4XQ
+- https://youtube.com/shorts/z2GK1R4bjYs?si=8o2UmFaVgpROlczr
+- https://rinrinne39.fanbox.cc/
+- https://youtube.com/shorts/Atpssk6QxG4?si=rYTGzAHJr-lrMBA6
+- https://youtube.com/shorts/YA2Dl4tQHsw?si=wejtY7BPdsq8epGR
+- https://youtu.be/PN90TMxp2H0?si=2RTqYM0Xqbu81SLA
+- https://youtu.be/CdeI-N6nZWc?si=h_mlLW3hrBJ228Yh
+- https://youtu.be/zhRBVyPS03E?si=Jlmtb-gaxxDtGxUJ
+- https://twitter.com/stocjia/status/1696006225488724344?s=20
+- https://twitter.com/stocjia/status/1696008585162145972?s=20
+- https://twitter.com/stocjia/status/1674829228100165633?s=20
+- https://youtu.be/bC-7CgkQlXc?si=tJfdDntAQUWbeAKH
+- https://youtu.be/aNHTqnfBSN0?si=Jk6IwrRUN_m0JRJg
+- https://youtu.be/ve6Grs7ia14?si=gydFvAhhayYSO55p
+- https://www.fingermaps.net/maps/be-boxed
+- https://youtu.be/MgYR0pJP-1I?si=ZbXT5QCXhRwDDG4U
+- https://youtu.be/MgYR0pJP-1I?si=dYK9QeNwVDhJ1bWh
+- https://youtu.be/lM1DI5oeOcQ?si=wn7QcmuDOQqZ1fWw
+- https://youtube.com/shorts/IgFzTfm5WJI?si=H6H_K2EdoJsEYC5f
+- https://youtube.com/shorts/c-c3mBAWl08?si=8DpDPiJd94I6KmrF
+- https://youtube.com/shorts/7Y-clGJLYAY?si=0DnloWCcR0LpW186
+- https://youtube.com/shorts/hN5CVhjx8bA?si=OfbZoa7pvk3obPUm
+- https://youtu.be/YErKAfLUg7I?si=k8AHa-CYR7ql_5X2
+- https://youtu.be/3yVb5tg2hv8?si=qgqy17CshVZhaa0C
+- https://youtu.be/GeAyj1HGiRU?si=2MI4iXQhyaQaKaoC
+- https://youtu.be/Bj9CiMO66xk?si=5zh7UoNEunf3zKDV
+- https://youtu.be/Bj9CiMO66xk?si=AE_Ox9t9oTvotIEl
+- https://github.com/TheScienceElf/Blocks-TI-84
+- https://youtu.be/CG4sb6FRiwI?si=aXcFDv8q4t2xfMFy
+- https://youtu.be/A0HDM6AlSR4?si=mIn_xGqo6qxhtHPg
+- https://youtu.be/UCToZHwoqAU?si=_TMCQH0Gcc6mrfgI
+- https://youtu.be/yi94u-fLtOs?si=x97Z5idQnEtTfYE4
+- https://youtu.be/J1w7EAsMIUE?si=njwTV_TMs3YLD9xe
+- https://youtube.com/shorts/8TBF0SbtLGY?si=KYmwCIQGa8zXkang
+- https://youtube.com/shorts/TJ98C3q53zk?si=BBKpYd_c7EnEkN0h
+- https://youtube.com/shorts/REBSK5dwVW8?si=RJ2nSAHS8t_GW-Hk
+- https://youtube.com/shorts/hKIn-kmWNyo?si=T79eWVOlIoqsHLsg
+- https://youtube.com/shorts/q252VA1DAbo?si=NGyu7YYBNBNwuwAq
+- https://youtu.be/CeX4fDOseG4?si=EmD1PcvqvSMv8KP3
+- https://youtu.be/hG51lgbGS2U?si=50K2IgbJEaSxpIeo
+- http://www.chuparevolution.com/
+- https://youtu.be/HsvlkFZvPAE?si=z1s4F7Wpb_0ZWEJF
+- https://youtube.com/shorts/4zl0jY5AwdY?si=KPUGCv-SzxfKxaht
+- https://youtu.be/Pu-NKX3Y9TE?si=QKFwNtFFgWJpcTXb
+- https://www.twitch.tv/videos/1908182801
+- https://youtube.com/shorts/6kbdUbNRN1M?si=SGGiWgOZf687nn0S
+- https://youtube.com/shorts/wFeAnjk92NA?si=qLERE8XEvkYJ57bq
+- https://youtube.com/shorts/ypEktkgnYj8?si=GqEAGD4TOW5zx-rx
+- https://youtube.com/shorts/QfdulRFlmpQ?si=ZGZlNJXrshF0FPAa
+- https://youtube.com/shorts/ZepGAiebZ8E?si=snOUKyIpWtwIvlTU
+- https://youtu.be/ZZUMv6RAKa4?si=44ITH8Ux_ID870bJ
+- https://youtube.com/shorts/oC1Tbo1jGrA?si=wo88REpIZObncZ5x
+- https://youtube.com/shorts/UC32DtQIGwo?si=H5ov2Gp76nxJMwd_
+- https://youtube.com/shorts/bG4x-Zk7oQA?si=ClcBqmHAtj_3vMvO
+- https://youtu.be/yQo6IDTKwCM?si=pwYM-aMgtOM4TMRP
+- https://youtu.be/eEUWDFtxWH0?si=o8pwMN8wNhSgrmg7
+- https://youtu.be/eEUWDFtxWH0?si=o8pwMN8wNhSgrmg7
+- https://youtu.be/GYXnU22NpJA?si=fsRGd3pNEQ4E6L6J
+- https://odysee.com/@CraigSkitz:4/james-rolfe-stuttering-craig-on:c?r=5QVnh7Qi8KKQzh7G7pWw9nkfaEGprCzM
+- https://odysee.com/@seytonic:c/how-did-teenagers-hack-the-world%E2%80%99s:3
+- https://odysee.com/@JOELwindows7:a/tumblr-click-to-frog:1
+- https://odysee.com/@JOELwindows7:a?view=content
+- https://odysee.com/@JOELwindows7:a/bros-just-got-raided:7
+- https://github.com/GamesWithlove/Toaster-Arena-Remake
+- https://youtube.com/shorts/Vh_68iSwa6E?si=4feWNpGs7rJVM7YE
+- https://youtu.be/daa5X5BjulA?si=eqsOYSHgfBPEvHoi
+- https://youtu.be/akdl0AANtn4?si=bxp9gs1XQdDqxzRp
+- https://youtu.be/HzBA6FIn_Bo?si=q5UCp0yuER05GZ9U
+- https://github.com/opentffoundation/manifesto
+- https://opentf.org/
+- https://www.reddit.com/r/opentf/
+- https://opentf.org/announcement
+- https://github.com/opentffoundation/roadmap
+- https://youtube.com/shorts/g2lvyo797y4?si=_Sim2yNbv7-0Aihs
+- https://youtube.com/shorts/fDxLAeGNDCU?si=sIIaUEkNacEnV8xQ
+- Bloons
+- https://youtu.be/mCzoi1QW2y0?si=YSF47ga2Bc0ugMdT
+- https://youtube.com/shorts/zPUIF1070q0?si=2CZBZ6_doDJFfDca
+- https://youtube.com/shorts/VX1V6kaMtyc?si=nAawKW_zlwmdYiaA
+- https://youtu.be/05iCSgXttr8?si=YHnKyhHcxUD-dOr-
+- https://youtu.be/R0HtN5wsYIM?si=pzUSKB2U9h1GkW3Z
+- https://youtube.com/shorts/HV8nQa7JKaE?si=lgE3MRj45pMqkRyg
+- https://youtube.com/shorts/MhR8Qti4Yrg?si=9w8Hea7EhnTfgq_u
+- https://youtube.com/shorts/MhR8Qti4Yrg?si=9w8Hea7EhnTfgq_u
+- https://youtube.com/shorts/VhdrxHT88uY?si=dfkh2QcA1NOoIYpT
+- https://youtu.be/TlVACynOhO0?si=yhvmdoWVVR3NDS81
+- https://youtu.be/Xv0lpvMmh6E?si=mt_WU824yCQwRkWB
+- https://youtu.be/Cf1zMNAWSSk?si=BeHcrk41tGc6I7hK
+- https://youtu.be/iRDys2yOS5c?si=vVH_kxZantYUU6Ss
+- https://youtu.be/iRDys2yOS5c?si=vVH_kxZantYUU6Ss
+- https://youtu.be/ak5Q2phTK0o?si=NTs3pfr3t3cnuosO
+- https://youtu.be/xnbFcG-cBMk?si=oFtbtteTQbawNf6d
+- https://github.com/Timotheeee/btd6_mods
+- https://braianstrak.itch.io/bloons-but-youre-the-bloon
+- https://youtu.be/JvKLozIStaA?si=10pWmiL-rjvLTNeG
+- https://youtu.be/IAt1ZqN7WvQ?si=hroJILL7HvBsE1FF
+- https://youtu.be/D5RBo2vw8G4?si=BW36_2ywH_XfZBuf
+- https://youtu.be/IAt1ZqN7WvQ?si=0pxgp86EDLSFRe-g
+- https://youtu.be/ej8IBiqdWHQ?si=lHkoCd--4Mv6izPt
+- https://youtu.be/ETwd3bMLBFc?si=DJm-BZGI7aWqpDCJ
+- https://youtu.be/6ow4yBMgwLQ?si=HLPq2ZSDGkPIM7Mb
+- https://youtube.com/shorts/hTnb0e8H4Z4?si=A-7GYHPfjusDMoMg
+- https://youtu.be/-YoS1h4alwo?si=2Lihng3psrLdQG6D
+- https://youtu.be/gZ8y5Bp57U8?si=_qzUfyHKXF8gizOL
+- https://youtu.be/PGltrBtHsWU?si=W8HAvJgqItc7OqFt
+- https://youtube.com/shorts/qWt4yjqKlj8?si=rc6RqtMnWJsKVWQT
+- https://youtu.be/3IsiWERBDFs?si=21LU20fpLnid6cKx
+- https://youtube.com/shorts/ajPzks0N5fQ?si=aIj36_maqmaUOcec
+- https://youtu.be/vlKIRhC9Znc?si=VvWvylvBMIWnzV-z
+- https://youtu.be/1QMxQPt9T3M?si=j7DoOz9Wca5d2gFt
+- https://youtube.com/shorts/Xumf3eRHbXw?si=IqmoI3GTqOKgqNTN
+- https://youtu.be/xfi99DIKrWY
+- https://youtu.be/UgIN6PpikJE?si=htXl9vSBV3DhnRS7
+- https://youtu.be/cehXZftIYok?si=0hCojJ8miRgwMgMP
+- Urna Parnitus. She/her. She loves animals, so does the animals.
+- https://youtube.com/shorts/B6HoX5e-MAI?si=R_FZP8WmhK3WHGgl
+- https://youtube.com/shorts/nz6H6_ZXHYU?si=w9Khb3BGC0x6z8Lb
+- https://youtube.com/shorts/zHPUwVV-w8Y?si=FhQfiwu0XjDE0trx
+- https://youtube.com/shorts/aYJ5sbEv0tg?si=5xj5cDgfZZD1aYYd
+- https://youtu.be/WJgwWXt79pE?si=hBnLKf-gKfKs_fs8
+- https://github.com/binwiederhier/ntfy
+- https://ntfy.sh/
+- https://youtube.com/shorts/P262NG1RaAg?si=YQT0jZ5tp23XFf4l
+- https://youtube.com/shorts/pZ8fJ_9HUsI?si=bddeylf7x5rVZsn6
+- https://youtube.com/shorts/zj1Yk-EZrSE?si=oeXhnTtbXLi1l8oZ
+- https://youtube.com/shorts/linTHgNEIaM?si=jpq-1vdNCd-6iG89
+- https://youtube.com/shorts/usuJdqdMdWk?si=yZe-fCnKrlYm_Q9U
+- https://youtube.com/shorts/81m3NnyRZ2M?si=hohwOB1-GFdAGzjU
+- https://youtube.com/source/9IJsHApXJX4/shorts?si=xEYavF-6ft2HGmfk fake face dance
+- https://youtu.be/QGe4-PEdu_4?si=HTRZtaEjRWh2xXp4 ye
+- https://youtube.com/shorts/n9JyQGM3Fhg?si=3P_49vKYjWWnw4X3
+- https://youtube.com/shorts/5TNLCT6Bdsk?si=8XkgCWRtNx6OLDRQ
+- https://youtube.com/shorts/1_1uyDomxkM?si=MD3qJi68L7qOW-Wj
+- https://youtube.com/shorts/o--W8ryUOTs?si=zUcvl4R0gN_IgrVu
+- https://youtube.com/shorts/657CzuPszIU?si=gPE-pCj0oL7VKPny
+- https://youtube.com/shorts/C0xTMXViLQ0?si=9ra7emliJA4eMBJP
+- https://youtu.be/pZAkIAVvqmY?si=PB95oz9SDrovfEn4
+- https://youtu.be/pZ8h5X7lur4?si=tLqGgG5TcR2sO4Tk
+- https://youtu.be/Ia1uCpE-hGY?si=DzEpIiEvV3QX2q_K
+- https://youtu.be/NHabtRSn8oM?si=xNhU7qYugD6vfzsB
+- https://youtube.com/shorts/yuhtmevAJmU?si=6X84s8QlkGUXb27t
+- https://youtube.com/shorts/-cASleDfDvs?si=3uTuOlv_u98VJd-4
+- https://youtube.com/shorts/a72LkarwZAA?si=84DsEYAjSxhHgunY
+- https://youtube.com/shorts/P04_ZYf7K6w?si=Oegg3e9_Rh9pBuim
+- https://youtu.be/-KAOYTzU8ac?si=pKZnXkrPBt8vlAiS
+- https://youtube.com/shorts/_bdSpvRAs_c?si=FojE-F5gFP-byXyE
+- https://youtube.com/shorts/Ol_HBYS5vFk?si=zPxPKqB0u9Er5OnC
+- https://youtu.be/WfkojBFAo3Q?si=Uum1kNd6t946ynzb
+- https://youtu.be/2hu30tvv9f4?si=2dwl8T8RjCqUgKMz
+- https://youtu.be/3_G957aAlDA?si=wUf83r9qCnOC0hVp
+- https://store.steampowered.com/app/1911360/Trinity_Fusion/
+- https://youtu.be/FauTBQBxbiU?si=hjKGGDsoLPh_8MhX
+- https://www.newgrounds.com/portal/view/877058
+- https://youtube.com/shorts/W_5mbQC3ftI?si=j7SDAG1Zlp6fV0xv
+- https://youtube.com/shorts/y88HjOy8dAE?si=jtswBF0idbH08SvN
+- https://youtube.com/shorts/o3MGY6ry5gk?si=EYcOC3bAT9jvSrAf
+- https://youtube.com/shorts/_Ukyk9LonJA?si=DR7GFbpa1SBrE8IM
+- https://youtube.com/shorts/gMw2p2JKmZk?si=eIx5Bu-tlTt1FXkF
+- https://youtube.com/shorts/oQ3yVl9zkNw?si=7XUJxiTA0G_GSYok
+- https://youtube.com/shorts/iIY3GMUZzeY?si=rOyEQvUJ2LEuG8LU
+- https://youtube.com/shorts/-pK0xQcGq1Y?si=bdKQg7m7yKoGf9U_
+- https://youtube.com/shorts/nYmnwR4Or8o?si=9DQCL2M9YUtxrbPo
+- https://youtube.com/shorts/__9X_tp3eu4?si=uTj4e300DCI0ICX7
+- https://youtube.com/shorts/AOfi3H2V8Xg?si=p9eksNfFqfKKpoDc
+- https://youtube.com/shorts/VCWa-6lA8zM?si=Sn5_oPfdWT-bon98
+- https://youtube.com/shorts/LrTyQ5ymTk8?si=au8CZIrqa3MD75RO
+- https://youtube.com/shorts/2qzyLik-RaI?si=9L_18aSEWhEy6Z1p
+- https://youtube.com/shorts/hYJp0_6-Pk8?si=fCB7P2B12qPHeKoT
+- https://youtube.com/shorts/bUdpyNtZnaE?si=YdbKHl75JjqD3-Ik
+- https://youtube.com/shorts/a3uqfBtt09A?si=wW93dX2106vTUnqz
+- https://youtube.com/shorts/kSeKgED-Ijo?si=xpFk21coJlsL8JgJ
+- https://youtu.be/0b-0E1NFJ7U?si=FrcJlxuAakDbtLW2
+- https://youtu.be/IWfZrjGbVFY?si=rRVQ4swXmLUxTBfc
+- Hitman funny edition level. Poke the guy
+- There is is guy. Your target. Sit next by muscular guy, NPC. Poke the guy, the guy mad and smack whoever poked behind. It triggers muscular guy. Slap! Repeat 6 times. On the last, the guy dismembers followed by explosion of each dismemberings. The muscular guy spawns car hoirororhu. Slide position float to car and leave. Level complete.
+- Do not poke muscular guy, you will be busted. Smacked. Died. Level failed.
+- Sleep dream to the future
+- Enter Alice to the futureland
+- https://www.tumblr.com/smiggles/727011230456348672?source=share
+- https://youtu.be/TtNmiZphYik?si=mNd-QPlLC06YCD7k
+- https://youtube.com/shorts/6QgOrcet4jA?si=qviJL2WVm4lNuTbq
+- https://youtube.com/shorts/hQGE-OUF7a0?si=WdaPq8xwqI7_kTRF
+- https://youtube.com/shorts/87z35_tV6fw?si=l_dvru0FbEOTfWe9
+- https://youtube.com/shorts/uJa-abFAYGg?si=9vxyjVwMvksFlMD0
+- https://youtube.com/shorts/BhyvNJUiy5w?si=8P7y00Seccf9Ascr
+- https://youtube.com/shorts/ChXNV_OqGJk?si=Ouvc94EZTHkOOPQY
+- https://youtube.com/shorts/8TIc-NGMxck?si=6vEkqYFwjCFM1h-t
+- https://youtube.com/shorts/rH3pr8dg4lM?si=uR0-u_QPyM9Ndcfd
+- https://youtube.com/shorts/5IGIDIbdxAs?si=3EOu9pcjHo4XvRZl
+- https://youtube.com/shorts/I1-C1E5cCZk?si=WT9HOhljtDW56g0x
+- https://youtube.com/shorts/bxhfOG4Fgg8?si=jJbnOZhlEQWmt9NY
+- https://youtube.com/shorts/mvgjka-ZmWQ?si=AXqV5hAZFK2zb17N
+- https://youtu.be/TuEWl_boehw?si=FYYjsFPS7cw77LSk
+- https://youtu.be/AU0hBO-oxDw?si=RVrmUYBkMZZlB9Mw
+- https://youtube.com/shorts/Ap2rf_NriQw?si=xbEvu_dPMxaAq2uG
+- https://youtube.com/shorts/Ap2rf_NriQw?si=xbEvu_dPMxaAq2uG haah my parents
+- https://youtube.com/shorts/8Py0Z6YcSBc?si=JCDx7Up-Yzjw5FuG
+- https://youtube.com/shorts/J16oF508C_4?si=3Rs5PJWz4Ot7hCiU
+- https://youtu.be/MW6JEMaT6qU?si=3O7yzpnj_2C0FXqP
+- https://youtube.com/shorts/UnpryccFq8w?si=mlgJZ8PD7WkkYT0v
+- https://youtube.com/shorts/k749M5tXn8Y?si=mqCoo8YT0tUSWb-z
+- https://youtube.com/shorts/A3Nvn33-zK0?si=cSIkXEo42yxBcOWG
+- https://youtube.com/shorts/RrSF8bWEHEo?si=lHCIMw-daPjIKkC0
+- https://youtube.com/shorts/kEXZu6HEDXc?si=Tf6QsNtyBq2GSWl3
+- https://youtube.com/shorts/eH4VZVKoSAw?si=DjEpn_IL9gxLTyer
+- https://youtube.com/shorts/jfFNX8VftmM?si=Y9M_fQekIfcESKx9
+- https://youtube.com/shorts/iFIASvFoJ48?si=yr4i0_a0l-E8J_Z_
+- https://youtube.com/shorts/zkaEtl59bdc?si=AVN9uq0n8G0oWh3e
+- https://youtube.com/shorts/4NJd7QFmJF4?si=gww_bBWr6lxcmZhA
+- https://youtube.com/shorts/r1hEV9wVEZQ?si=hpmU4E8f14TMleCz
+- https://youtube.com/shorts/_8QCcV5R1m8?si=z0f3aziEIIKCFcNW
+- https://youtube.com/shorts/fXDlVbUUXnU?si=RRMFfSEPRHPiYqnU
+- https://youtu.be/WCciqpon9jE?si=K1YrJM8l5oVglwus
+- https://youtu.be/tJrr3FAtf1U?si=23-EJ6N_PLEVAHij
+- https://youtu.be/Ela1n2GAbFk?feature=shared
+- https://youtu.be/WleZGWAebsY?si=5UFHLyL716NyOX0n
+- https://youtu.be/AVFBiyJ9bjM?si=IkAmTbKY49KukUm7
+- https://youtu.be/fYZpwgUH4us?si=af0CuMjL12sb4b6T
+- https://youtu.be/AVFBiyJ9bjM?si=mSAijNk3FUfLOfKZ
+- https://youtu.be/AXrxAG-SmbM?si=7hKuYbJ6LCLyrCUh
+- https://youtu.be/_WB3m3T5CDE?si=EqgaIQjaKQB7VrLb
+- https://youtube.com/shorts/7tidXPMM_U8?si=XWJ_QTYH3zBFxH6L
+- https://youtube.com/shorts/7tidXPMM_U8?si=XWJ_QTYH3zBFxH6L
+- https://youtube.com/shorts/XHd2oGHxd2U?si=J0zanBSNb7whgfzz
+- https://youtube.com/shorts/w-Ijo7Nt_VY?si=HaGol_eu5NnvUO8J
+- https://youtu.be/8nnpm4hXLzA?si=WbTJF864LmdJh3B5
+- https://youtu.be/ol5zm77YBrk?si=ZwXuOfQ2zeh-FyDG
+- https://youtu.be/jJaIviUMeAc?si=ExraQzEw0gw9jS22
+- https://youtube.com/shorts/FHfRFjrtrHI?si=M_o7MlEZe5evK49H
+- https://www.roblox.com/games/14617339559/Ancient-Wilds-Hangout-Free-Early-Access#!/about
+- https://youtu.be/faR2y2eHRwo?si=v9VEJI1Jv1VgguNk
+- https://youtu.be/HrjB_QYVGp8?si=aATjVjR4S726wgy8
+- https://youtu.be/QUNrBEhvXWQ?si=V2i0OLvIS-dfJSkk
+- https://youtu.be/B8lMeR32vvc?si=zZ1qzrTFtYnfrA6v
+- https://youtube.com/shorts/lig20mFES1A?si=O3F27mF-_AhK6jV6
+- https://youtube.com/source/dfk6i41GCNo/shorts?si=DeyrouqNjGynlhyt fallout boy centuries
+- https://youtu.be/DTWMKT-V8kI?si=sxkUuduWj8UCPnIQ
+- https://youtube.com/shorts/GzVdSg_jTTg?si=HAL0RiDhYRMRikjR
+- https://youtube.com/shorts/k8cYa23dbP8?si=nJckc6Tx98qc-kga
+- https://youtu.be/KVNH-li42Ew?si=rwW6Ccn6UnJiixzr
+- https://youtu.be/nVjHRJIxz0g?si=93WZzp1lCnZcFOuQ
+- https://youtube.com/shorts/S9I53KD3fY0?si=QYYUV21NBueztSjh
+- https://youtube.com/shorts/0jeAql2JXDA?si=74mt7Mhqu1rX4Ubj
+- https://youtube.com/shorts/cAVU341wRKU?si=kaMcZnRLK9AmGM8v
+- https://youtube.com/shorts/QpZRwqaP9HU?si=YbIofxd6KD_O2p71
+- https://youtube.com/shorts/QpZRwqaP9HU?si=YbIofxd6KD_O2p71
+- https://youtube.com/shorts/01aAF-AO8do?si=Tf3Rpeof5bASsYea
+- https://youtube.com/shorts/RDP6_RiEVjQ?si=eoAWstBDdwtQylth
+- https://youtube.com/shorts/MjFrVCNyyEs?si=WhWTtkiqryNSHcnc
+- https://youtu.be/Rz1Eec287As?si=u3tH0mq5eFUuELVT
+- https://youtube.com/shorts/PzJxPnh9a3s?si=A4fFdWTeFBu-swdN
+- https://youtube.com/shorts/MOKISv3-U5o?si=jVtOODRI_IEMhjrC
+- Bloons star wars will ya?!
+- Oh.. I guess that's had been overpassed nowadays.
+- Monke Jedi go brrr
+- https://youtube.com/shorts/EMzSZ0zsLyw?si=EpByM65Acyvp400H
+- https://youtube.com/shorts/8nGfPZl81u0?si=hqyj-c-GlYswKOyq
+- https://youtube.com/shorts/3qDJd-Il4PM?si=bOrrZ5n2a568CIaR
+- https://youtube.com/shorts/7xrNKS7cSZw?si=mqAjIr4P5eUs4CeQ
+- https://youtube.com/shorts/wdDIiY2bNxY?si=LQuAOOnmYuhuF3QJ
+- https://youtu.be/Mtye05x2HoQ?si=5C_W8tGmejm9UqhQ
+- https://youtube.com/shorts/KLXTTSc-w_4?si=Nv8k10JYGr7JtwZn
+- https://youtube.com/shorts/KVHe4tVzGBQ?si=V9K_2pxvtbEX41J2
+- https://youtube.com/shorts/RQABZC3ac6s?si=I4ef4y94kV-rYBPB
+- https://youtube.com/shorts/7_k14lNRt2I?si=arvcLJM82eOOprBr
+- https://youtube.com/shorts/rnuzxDVj-RA?si=wL4Rv80pKH_mr2E8
+- https://youtube.com/shorts/bNgymKVavts?si=LAvnKUeqRMypzoB5
+- https://youtube.com/shorts/2D9ReFaU_Fo?si=TLcHZ22izaeGKosY
+- https://youtube.com/shorts/iDIECsNvDxI?si=L3tBd_FdxR1BDi4R
+- https://youtu.be/Ra51qJT3kno?si=N4w6mOb8u6uAus_a
+- https://youtu.be/Ra51qJT3kno?si=N4w6mOb8u6uAus_a
+- https://youtu.be/qp-I1hm5UVU?si=K8DRmzRxyZ8vSWjJ sus computer
+- https://youtube.com/shorts/2lTAVDA0QXc?si=NcwSoP35N5W13hJ7 hi herbert
+- https://youtube.com/shorts/QyG1SVgpyRk?si=u7WigXnyptUVofXw
+- https://youtu.be/pbvc8_RYKrw?si=omTBgpXCrztT9PzW
+- https://youtu.be/Fth_TuudKE8?si=61oLn9AWjdNwR0dp
+- https://youtu.be/pbvc8_RYKrw?si=6bxsuBvmJAEzJ74_
+- https://vt.tiktok.com/ZSLW88Ntq/
+- https://vt.tiktok.com/ZSLW8S4qc/
+- https://youtube.com/shorts/CYutC8rAHNM?si=hsc7ZrZe2oVXP5Ks
+- https://youtube.com/shorts/CILwrgJ5VTQ?si=3JI1A2Fa_ITq0e2J
+- https://youtu.be/rdcGI31KLzg?si=mfmA1P0eRKOhlG33
+- Sfw
+- https://hackaday.com/2023/08/29/wifi-pwm-backlight-and-graphics-on-updated-chumby-kernel/
+- https://www.downtowndougbrown.com/2023/08/upgrading-my-chumby-8-kernel-part-6-pwm-backlight/
+- https://hackaday.com/2022/12/21/chumby-gets-new-kernel-soon/
+- https://hackaday.com/2012/04/21/chumby-is-no-longer-selling-hardware/
+- https://hackaday.com/2019/07/31/open-source-smart-display-takes-the-long-way-around/
+- https://www.tomshardware.com/news/yes-a-pigeon-is-still-faster-than-gigabit-fiber-internet
+- https://hackaday.com/2023/08/25/next-gen-autopilot-puts-a-robot-at-the-controls/
+- https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=30710
+- https://hackaday.com/2021/08/16/tesla-automatic-driving-under-scrutiny-by-us-regulators/
+- Sfw
+- Urdu Baius
+- Community Strike Bloon. Bloon with Special Skin. When popped it splats synthetic human blood, real blood made synthetically inspired from human bone marrow down to its detail. Despite it's made up, it is really real litteral blood, causing content flags against game streamers and tubers. Hehe, bloody monke lol.. oh sorry.
+- Cardiophile Bloon. Also skin Bloon. When popped splashes dust that makes towers around the pop desires to listen to heartbeat sound, both ownself and another tower that is living. Dusts only works on tower with skin that looks like living being. Effect contagious, chances 80% contaminating other tower ever end of round. What the hell am I doing?!
+- Horde Defender. OpenBTD yey!
+- Here starter kit. Classic Tower defense
+- Expansion Merger. Merge tower from **that** recent cringe mobile game advertised.
+- Skins! Your kit is bland! You will need to make mod that skins base kits. Admiral Zumi provides all Ninja Kiwi BTD series and others. There is also Kenny.nl Public Domain skins for example how to make skin kits. Note these example skin assemblies are still copyrighted to Perkedel under CC4.0-BY-SA. Sorry.
+- https://youtube.com/shorts/6dRszbS1bT0?si=ZTPLG8YBOxzQEdgw
+- https://youtu.be/WoeRqY43wrc?si=Ra8ycWurOVd7LRMl
+- https://youtu.be/WQTwasZ5cPM?si=nzgJTLsFNGo0aezq
+- https://youtu.be/s1nMRLGzqPc?si=GK8VE-QcUKo0qdvs
+- https://youtu.be/Xl52cBvJjd8?si=hQQ7Eb17bypDuyVz
+- https://youtu.be/C6D0IhIkcyg?si=IwlXIK3ZAwGn1nU7
+- https://youtu.be/BedIGAPWZdU?si=KIl7goqtQIYtvICd
+- https://youtube.com/shorts/jFFJ1ZBVHk4?si=7p-Sigl33UabNh_Y
+- https://youtube.com/shorts/qLhihjxY9FM?si=x_4doOz5_9LrJdp1
+- https://youtube.com/shorts/cOnN3qqBvT0?si=WZN9wP5lLYkN8Xoe
+- https://youtube.com/shorts/oVrXulgXzzA?si=lmjS0vvgDOaNrroQ
+- https://youtu.be/-ZXrJRpA0Jw?si=7Mj1a4nuiU8N3bqy
+- https://youtu.be/H1UJ5k3yMvA?si=6ADaYAloKToV7DwB
+- https://youtu.be/B5L3xhUNsPQ?si=Mbzf9l4nAfI8aroM
+- https://youtu.be/H1UJ5k3yMvA?si=6ADaYAloKToV7DwB
+- https://youtu.be/WEvaun63hzY?si=H2VWbwZZ2dUJNvPj
+- https://youtube.com/shorts/_JSwRKCG8Iw?si=ks6EriGpsMOPlGsx
+- https://youtube.com/shorts/JdBXj_sLWZI?si=m4nmqTePa60Vq2lB
+- https://youtube.com/shorts/d8dnn7-rsn0?si=T_C0TIxPjnAikZZu
+- https://youtube.com/shorts/ASc8sa5O2ik?si=VNOGk1Juz7QL1Dup
+- https://youtube.com/shorts/-ZCQsZHY964?si=Mth5hn3T2URjXTxt
+- https://youtu.be/TywPfCjlCcM?si=oJvKdLGNGAV-Q1dV
+- https://youtu.be/KMFBcRrs-gA?si=PvK5BXRU-hgKPByK
+- https://youtu.be/GDq_S0WlfgU?si=ptO7NraFvox8PBcw
+- https://youtu.be/G9mBOsLuoBg?si=4dy7kJqx17IoQ6a7
+- https://youtube.com/shorts/VW9HMKuy36g?si=IVs9TzsX0HfXAvt-
+- https://youtu.be/d5ScBhR7w6Q?si=Yj8tCAWlDRXYgZ5Z
+- https://youtu.be/-UDSWzketwE?si=1x489dv2vS4ZfPMK
+- https://youtu.be/-UDSWzketwE?si=FhoTiJYEtQ3S6mx7
+- https://youtu.be/T16T-odokVk?si=YNXRakHOlhguUw5y
+- https://youtu.be/zEfvQahXmX4?si=RjFbGXUrJTx_42Td
+- https://youtu.be/yR4AhTjCKYY?si=sdpfFWE6oBKNUqQV
+- https://youtube.com/shorts/THkQMi93O9Y?si=Oai9BNvKvx1jp4E2
+- https://youtu.be/wq3WAQp7pbg?si=fEG-tYZseHnnwss2
+- https://youtu.be/IhQixzKhahI?si=tjMF7NMtiDoWS_5a
+- https://youtube.com/shorts/6DNwsccWkcU?si=FnPYfxfepxwyTelT
+- Well he missed the day. Give him special same class just for him, why so hard?!
+- Your war is not that significant to ignore so go ahead have opportunity for all soldiers.
+- https://youtube.com/shorts/6Q2wav0jxno?si=e2GtNvJqTIpS7rWm
+- https://youtube.com/shorts/-9xny6c7nd0?si=A0VOc0r0QvRAnjkw
+- https://youtube.com/shorts/yuIBxR4-xr4?si=mpCyL1YmsvpmDQCE
+- https://youtube.com/shorts/pvakews8PWg?si=8tbum9LIkMYO82rT
+- https://youtube.com/shorts/c2MuaE1LwrY?si=fwN5VdOIgJFzmP4q
+- https://youtube.com/shorts/AN_4gFT4SgM?si=nkpm0ctMXqWtHcGi
+- https://youtube.com/shorts/_bxo7fQsUIc?si=whbp_iUkEqHkYERM
+- https://youtu.be/1N5UL5VF9rk?si=pzeU_QdnqFWFEluI
+- https://youtube.com/shorts/Q-mjDiYe5SU?si=vmOpEmjxDDLSmvXb
+- https://youtube.com/shorts/X5bBd5DpUXg?si=JfDU8xn09cegeyQw
+- https://youtu.be/EaO9C1GZio8?si=n8rNjOgU417oVRxe
+- https://youtu.be/IhQixzKhahI?si=a57DSEWjn3Afll8g
+- https://youtu.be/LKNNJosUN5Q?si=8e3IWHh68eYw2xJz
+- https://youtu.be/GfHc8ZQXtcc?si=GH7rFHwbPD7bEsgp
+- https://youtube.com/shorts/MT4J1e412q0?si=iNxKeZmgSVIT2JhZ
+- https://youtube.com/shorts/3aQbXsQ2G9Y?si=xxMpra1UBrnltGJf
+- https://youtu.be/UBa31aKmmDc?si=sxL8m9z_XAJpnPTT
+- https://youtu.be/mZwNAuRWPgI?si=iRr0iPUFj4FvtFNJ
+- https://youtube.com/shorts/n4xj_i_j1Vo?si=kJV0AdRqQ_55aSce
+- https://youtube.com/shorts/ENbN-qPv590?si=ignvnuAurozX3x99
+- https://youtube.com/shorts/UVgBUAZe6Ok?si=NhG6JUE75_kMo_x4
+- https://youtube.com/shorts/Hvd_qoF4EWw?si=DmzlOc-hQ2tb_oZV
+- https://youtu.be/sdUUx5FdySs?si=XqurDKM38YK9N-9Y kiwi flew
+- https://youtube.com/shorts/SlsEbrgF2UU?si=a4z3HUGW4HpUk0B5
+- https://youtube.com/shorts/QJwk4pwyCQE?si=2qCaY2y7rFW3K03o
+- https://youtu.be/wk0sMrLTaLU?si=OxhetPpJs8pfipHe
+- https://youtu.be/Y0fbYuvSIY0?si=q61MVt61bTleslPL
+- https://youtu.be/NLBqYJBeYfE?si=yOywTMP8F9aR5ctw
+- https://youtu.be/DDtbem_bhzU?si=ciBqQH_sj3TdV_9f
+- https://youtu.be/qj26WX2OdeM?si=enoNp50mvQZURx3E
+- https://youtu.be/2Gqx9GtQHJ4?si=NABZYYOGg35YuFNj
+- https://youtu.be/vQOr84n6_ps?si=rQhYUljpfNeH-hZ7
+- https://youtu.be/aElCRmN-BEs?si=1Z_OgfDE_DXYcsDB
+- https://youtu.be/Y1See8fl0NU?si=2RmpGF0-SDVHmOzK
+- https://youtu.be/L7N-iCaTEic?si=VhbMwdCofdyA9pq7
+- https://youtube.com/shorts/X-8Ve5hT_Sw?si=K5LeGKDOvmCpWQ8b
+- https://youtu.be/NNL4iR9mlBU?si=fzupS0LjKxm0V3EF
+- https://youtu.be/pKu9VlA9slc?si=Rxbb7Jc-_waWni6p
+- Fairphone Bloons. Another Fairphone company located in Bloonsverse. With exact same sustainability and fairness goal like the original real life Fairphone. The glyphs are also in Monklish too! And the best part is they are also compatible cross-verse, since they basically same blueprint.
+- https://youtube.com/shorts/xsVlFecWabA?si=R0UAE9nVkI8UR0n0
+- https://youtu.be/vldlJZmc2X8?si=oWBodmrmh94LWBes
+- https://youtu.be/wHWaUWvQ6do?si=yPcdCbqSWYhi7KIQ
+- https://youtu.be/gLIbVDWMsJ8?si=tueXV8wu_t6n6UYW
+- https://youtube.com/shorts/CfUY7esEAUU?si=nH4lHxvvm9tXO_On
+- https://youtube.com/shorts/YnBEeIg-sCY?si=v2se1JxPYjztmKY9
+- https://youtube.com/shorts/_e-1QxIN_2E?si=jy12FD5oJ1A5AwN8
+- https://youtube.com/shorts/uieUlf8XLPQ?si=M7xEqBYjUO3YVgDw
+- https://youtube.com/shorts/P4lU8sHRh5A?si=5sUKHbtLdQcRaQ0b
+- https://youtube.com/shorts/P26GnN-e1Gg?si=ltUox51-SKVjxNWC
+- https://youtube.com/shorts/jBEfnRxxDpA?si=_UJpK57K7D78rH9I
+- https://www.youtube.com/live/5aSmOKsKioM?si=p5UE4uyKP_DHHPdu
+- https://youtu.be/jDharsi4W3A?si=Fqmjkcd7YdH6I2h1
+- https://youtube.com/shorts/mKyB13JQlCY?si=_sVsY2Jc2GPr4x3p
+- https://youtube.com/shorts/Lk3gm4I62qQ?si=1w4n2KyzljrLSEUs
+- https://youtu.be/E0Dy3ITDTrQ?si=VAbJr9WT72woqxaV
+- https://youtube.com/shorts/l7NUFhyJyt4?si=emFv-QNzP3EqB9UY
+- https://youtube.com/shorts/Yc2oaoYimoQ?si=-yX4xl4l7LN5TYCa
+- https://youtu.be/oGTYB05NtDs?si=Y1Q6pM1ui-y4SINc
+- https://youtube.com/shorts/IBKhkuzG5bw?si=0GKWDeoavW5wrfGt
+- https://youtube.com/shorts/Bt_dF5TtQH4?si=7ejIRBLgqWp2F0Gu
+- https://youtube.com/shorts/rjDL_XMcghU?si=tLii65MOHVuvelRB
+- https://youtube.com/shorts/nphnyc2Uyc8?si=k8nhJd0cP3xQfhqK
+- https://youtube.com/shorts/OBd8RcEZ6nk?si=YMYQOdSq40qjSWA5
+- https://youtube.com/shorts/8dLSKXdoWnw?si=NUErMk26yHdrRQKE
+- https://youtu.be/E_C3pgc1Iho?si=0kxip_GDq-_hPe0n
+- https://youtu.be/YBoDbbEpRI4?si=BlK_qHmvgLPp3KeL
+- https://youtube.com/shorts/vBq57mldWnU?si=cT52QWYL7pAVYmJL
+- https://youtu.be/Ly22ZKPGxXs?si=1Yyi1lSSVYePFky6
+- https://youtu.be/ccX2nMwNJtg?si=5SRB2gKuP6o5YkKx
+- https://youtu.be/9kJC4ZaI-T0?si=UeNsydKWy1lvy_CT
+- https://youtube.com/shorts/1o8jF3J4f1s?si=mF1wmCK9iMSqVdEA
+- https://youtube.com/shorts/ejXwW8_OgWc?si=CacD-5sErcJwR3Yi
+- https://youtube.com/shorts/uxQvTfG1luY?si=soczppDNXcPr62i1
+- https://youtube.com/shorts/X9xl7f75SPw?si=6tZb-0r1aQ4euQiu
+- https://www.youtube.com/live/uU6TGqXd36c?si=mO6VPZHzLckj-AVB
+- https://youtu.be/3O-RwnBmBvk?si=RCxMEw78Zq-EdHhC
+- https://youtube.com/shorts/YMnYmrhSI04?si=EI_TK5gtoORwwyKI
+- https://youtu.be/ajI0RmT3jMQ?si=VIQ3jRlfY0tR0Ujk
+- https://youtu.be/SIGdQ3NlChY?si=F6aF-9mbRkZ_MsLe
+- https://youtube.com/shorts/LpMXUUUzcBs?si=cm6oO_V3KxvORzB-
+- https://youtube.com/shorts/iGyqTkz3zjk?si=x9nraG5mgOEFhjB0
+- https://youtu.be/vXU8JwnO0Xk?si=jJtDhDa9jddCl8UU
+- https://youtu.be/f6vhrbD9WkA?si=ZGv814h22lQhKwwf
+- https://youtu.be/N-Oj4i56iQY?si=eqpuUHZ75zIEv0Gf
+- https://youtube.com/shorts/qfjpajTffaU?si=YKqa63z_kazlspe9
+- https://youtube.com/shorts/Qo1a-cmQsoI?si=ATFDxyOIpCkK-jm2
+- https://youtube.com/shorts/e4rhA-ccurk?si=Ani_bSJFV7cTPgLg
+- https://youtube.com/shorts/HYTvgrufnN8?si=U0Ez6MNVTP3VPLS1
+- https://youtube.com/shorts/ry4NqcoItJE?si=V9PyHOfPqWP0oCfQ
+- https://youtu.be/mLr_VIPhm5M?si=29-hmq3A4teAjMPQ
+- https://youtu.be/BGuODX242y8?si=DpyI2VKSpr2ab9_0
+- https://youtu.be/fvfktmEG7-c?si=0iKKEG1GOt3ENcCu
+- https://twitter.com/FLOPPACATO/status/1696890535141626146?t=Pjrjm23nKRi_DMcbcZvRAg&s=19
+- https://twitter.com/S_GraciaJKT48/status/1696951797171245567?t=Pjrjm23nKRi_DMcbcZvRAg&s=19
+- Pls make Parlor absorb BTD elements! Target are now BTD Bloons with layers of strengths. And the weapons can be upgraded 1 path to allow these up there. There are also upgrades to other aspects, such as allowing you to see Camo, previouslt invisible to you.
+- https://www.jakartanotebook.com/p/edifier-speaker-bluetooth-desktop-2.0-channel-usb-sound-card-aux--r19bt-black
+- https://shishka.neocities.org/nofollow/script
+- https://youtube.com/shorts/7JBmK1-_6SU?si=GHcvIdMBEB4CYpfS
+- https://youtube.com/shorts/qAFVPuHQeMk?si=vYFA8lZX2xjsArTu
+- https://youtube.com/shorts/NSQ1wqRQ6Ec?si=SFHap8ZY_74IN8vl
+- https://youtu.be/kY8CX7idP1E?si=tYF-u1isbUyy-GTd
+- https://youtu.be/9kJC4ZaI-T0?si=zbwQL3zyLTujrp55
+- https://youtube.com/shorts/qVEQmYs4z8Y?si=HeOvJzpVON0HUfls
+- https://youtube.com/shorts/45GnnHWqgXY?si=vRx0LoM0wD9z6jGX
+- https://youtu.be/YcyYQA-K0as?si=41WmUMVFD41HZ1ip
+- https://youtube.com/shorts/mxvckPcXACA?si=l18-eoJBepLhU-bp
+- https://youtube.com/shorts/01vlunix8ps?si=-2iND_xTBZB8S9B9
+- https://youtu.be/rO5s8jutinw?si=bMFnz2-2cGBRGY43
+- https://youtu.be/oqOlrGPgng8?si=aE2zFmxjtEoc6UAx
+- https://youtu.be/XxbzdFdip1c?si=EGYLcbJ5UqdC_CCr
+- https://youtu.be/wFcZAg2JHi8?si=EcL4FeCisQX5pLc3
+- https://youtu.be/WJ-zD0_x9R0?si=wFk7S_Lc9yjVfQu_
+- https://youtu.be/jSPy2XDASXQ?si=RWabqmuMFYMhoUJK
+- https://bloons.fandom.com/wiki/Zombie_Bloon
+- https://bloons.fandom.com/wiki/Zombie_Bloon
+- Camo darts. Dart that allow a tower detect camo. Disadvantages is that it does not point where, so the tower would just throw it random towards track, who knows that'd hit one.
+- Radar Camo Dart. Camo dart with that lack bug fixed. Now it can point where camo is.
+- https://youtu.be/204wz47UKlA?si=sJ6U3Uy9lLo6HdmH
+- https://youtu.be/GGpZYMfrgYE?si=kxdjvZNpFE-Xe5mM
+- https://youtube.com/shorts/Mea-AEjJAvI?si=YEQA6-RocNavlreE
+- https://youtube.com/shorts/8GLz0CbSmOU?si=JBIzV2pgX9yaDv7P
+- https://youtu.be/Cj6C1OeTPCg?si=h2_MOf0PqNSWUCNX
+- https://youtu.be/-0T7ZsCuLlQ?si=22KJpUsp52p0HW43
+- https://youtu.be/UTFjFqAnNJU?si=oa1lUWltPezwImzF
+- https://youtu.be/fO5oXgZBV00?si=-YEK2rOrZv0P9kgV
+- https://youtu.be/16n1_ShWjyU?si=PhZ2nTjDgb98e6oA
+- https://youtube.com/shorts/xiG6Ca1U1U0?si=6K3QlOFtszdn78fh
+- https://youtube.com/shorts/GWthO2Veb1Y?si=WS0huXUzNfbjYMUE
+- https://3dfiti.com/ oh sh88 I think this is NFT
+- https://youtube.com/shorts/Um7tKROJmTs?si=MHuryrGhjN9fpVJt
+- https://youtu.be/-3ZBpNDr5Zo?si=oRjcZTPYL1sZZiAj
+- https://youtu.be/AUlNVZtpqMc?si=eE_6SXW7eYsp7eeu
+- https://youtu.be/-3ZBpNDr5Zo?si=l4tskiuRX7mJejvk
+- https://youtube.com/shorts/xAIOFJiPBQw?si=MOjsSYPzD0OcpqGr
+- https://youtu.be/CMXAvAvl7NU?si=Xl2dZIgTtZZxMg80
+- https://youtu.be/XMsTb99EzPc?si=V_gFaL08vm7hHcHS
+- https://youtu.be/R4Yu18roM3A?si=e618mucr9wHRyDP4
+- https://youtu.be/aiP41X0mGuE?si=2j9cU-h_BveU9aDr
+- https://youtu.be/K9M01i5yEdg?si=HCbZabde1f_maPKl
+- https://youtu.be/DfPju4qFq1c?si=_ogGnZeox2QeXEjI
+- https://youtu.be/8BSDSrQOf50?si=7d2NFbr-frXn_txj
+- https://youtu.be/aYAGB11YrSs?si=PU1c_JH3PkNgz_S0
+- https://youtu.be/do-eUbiUdxM?si=y3LPovLHLyyHgmoe
+- https://youtube.com/shorts/Okh59YMGg8E?si=uBTZuGX5bG5cQuvN
+- https://youtube.com/shorts/LjSq8xGEuzw?si=Q1EoRFzQBsnfO1-I
+- https://youtube.com/shorts/ZuS0qEcekxI?si=VY7zNIBFmhOQQSKz
+- https://youtube.com/shorts/tdD_xgSzdxc?si=oKEQecs_XNVChN9J
+- https://youtube.com/shorts/6aQVfEejITk?si=6H_DAhzvc9YYE35s
+- https://youtube.com/shorts/CLkQXJeEtus?si=Udx3ZLkI42cJ1BIv
+- Blackmagic keyboard
+- https://youtu.be/kYAx7Xsh52M?si=ShtvtqvUTFFsX61o
+- https://youtu.be/VRwCMbpEAd8?si=1I2lM4kDukeEPHgc
+- Where the hell is that collect the kitten video?
+- https://youtu.be/x_QmvZRS85U?si=z1NM49DmaUcrYfg0
+- https://youtube.com/shorts/ZSIfXrfQ9U8?si=SHxIBnxYfg7BsF9-
+- https://youtu.be/rPXSoDq2oI0?si=9TPnaXO2ibiDIp0-
+- https://youtu.be/nd_ShPu9PrU?si=-d40lqbjlXSurllk
+- https://youtu.be/Ou6D5_1KfVc?si=9jnmW4cz0CxnHntC
+- https://youtu.be/imGKA5kz1TI?si=lwpTQ_93bO3S3xha
+- https://youtu.be/HyZiYm4CJ-s?si=N6pn86o4k6XldNhe
+- https://youtu.be/G3G2NM-q63k?si=uWoagkPewgHevkFa
+- https://youtube.com/shorts/8bknGo3cuI4?si=lhNPN07OV65VRc3R
+- https://youtube.com/shorts/4oYC-zTuqLE?si=X2snLwnaAVJg9ZhW
+- https://youtube.com/shorts/31xwWBRzZ04?si=7iWnG8EdF-XReenG
+- https://youtube.com/shorts/4PaedwA7G-s?si=EkOhBL4bxRIYRr_2
+- https://youtube.com/shorts/RIQu-uks6Bs?si=_d3bv6hMg_1bd8bP
+- https://youtube.com/shorts/9nGAHIEpWQU?si=Y3DlFe1JxxKzY6b_
+- https://youtu.be/y1-iX71nGn0?si=PpV3WMqG2DYfXKnE
+- https://youtu.be/h0_I4RXcv6I?si=gGjvwift_ZspAjEu
+- https://youtube.com/shorts/Os36_ztdIf4?si=_uUpYAvZ89NIcUbb
+- https://youtube.com/shorts/JAB9RDsSfCs?si=WeUnx19Pg7lCZh14
+- https://youtube.com/shorts/CW2Bt5_orno?si=Y7W3W_UP4i9l8PrN
+- https://youtube.com/shorts/jxat5lOR958?si=ZOUCZH-3G8xHOQbK
+- https://youtube.com/shorts/XOVG_S-VmfU?si=ZSZXqozi8SyBWux2 woman you're way too close pepper spray!
+- https://youtube.com/shorts/8BruXrfIWn0?si=XLpFwJnBJCn_7Etx
+- https://youtu.be/B_qyNOAkr9A?si=QbYpNtakPa4RcEJe
+- https://youtube.com/shorts/w3PVL69FLf0?si=spc_ZOxwWEYdOrSt
+- https://youtube.com/shorts/lDQpS2xii0Q?si=Sl6pAY40XgOW-my4
+- https://youtube.com/shorts/9rTMQdJYa-E?si=82fb5HEMvKBCHf9X
+- https://youtu.be/DQ67njnNaxw?si=FX5kozrfhdX2hYvw
+- https://youtu.be/E-VOBnGc_OE?si=CFabJCybStXdhpWC
+- https://youtu.be/jgAGu44dwbo?si=nMWtUEKzh_i3Y9mO
+- https://youtu.be/fOSEDIBHslk?si=KRY_doxjhPpD-POF
+- https://youtu.be/I1PDnad9dsc?si=Krb8PU9u9xbgred_
+- https://youtu.be/VqwL7GnxiI0?si=QnFc7FsS0AbPkv0f
+- https://youtu.be/EQa5c-6GgnE?si=AyF5HpMjhkOBfYTO
+- https://youtu.be/R4Yu18roM3A?si=2hkNetMC-f7_ELOW
+- https://youtu.be/YJ3gCf2E1Jo?si=LmE6YUFdlxhMdUUD
+- https://youtube.com/shorts/qTVRSs0KYNQ?si=jgRY0-k6fDp7Fsuf
+- https://youtube.com/shorts/jb4jMaayaVc?si=GM1yAK1H5RLw3zZp
+- https://youtube.com/shorts/JrsIWzNRBVo?si=ZcNCCheR-MW9S_7L
+- https://youtube.com/shorts/-qqpr1DAMFU?si=_ga2V2UxueaI_uny
+- https://youtube.com/shorts/Zc-q4w3RYk4?si=-EQwJuv1Dkwlc3tv
+- https://youtube.com/shorts/D07jKqUZyO0?si=vjcIyaUCVRrGI_Lq
+- https://youtube.com/shorts/D07jKqUZyO0?si=vjcIyaUCVRrGI_Lq
+- https://youtube.com/shorts/2-g4lclSwFo?si=uWUzTHD4Jp4I8Fdj
+- https://youtube.com/shorts/l5x7K21ZS-Y?si=_yq2pQvSsPeJxdHH
+- https://youtube.com/shorts/5ttjpgIT_Ck?si=si2b-lJNc-HHljnE
+- https://youtube.com/shorts/f7vYbe-w77w?si=hj6MjMccLyVLeZuh
+- https://youtube.com/shorts/2hUlL8KmMc0?si=ZFvpO8TVj5qvzcY_
+- https://youtube.com/shorts/38zj0Hd-enU?si=w6n-0XBesqes5OZ_
+- https://youtube.com/shorts/Jblf1p3xYJo?si=Rny73ex3PFdThni9
+- https://youtube.com/shorts/SigeuEaTsOA?si=nMNN7o1VefSGdSWM
+- https://youtu.be/pUAt0Tps-4Q?si=EDUgKpwkmhiP4KNF
+- https://youtu.be/Jv0XHseKViA?si=-p7QhuV4gBnQhqbv
+- https://youtube.com/shorts/OQF1XdAZfS4?si=3-lzpNUSWnhwC-S5
+- https://youtube.com/shorts/MhR8Qti4Yrg?si=FyU2Y81teYA23r8i
+- https://youtu.be/E9NiK_QBPxY?si=91TwolV0mftiF4lh
+- https://youtu.be/IbzCn6SB6FQ?si=HV2dJ4n_UnSijeka
+- https://youtu.be/phw60bzTOEc?si=ClZWiW6I-9GPovnb
+- https://youtu.be/zt-ENr8pgco?si=QEuOJWgBWXj3wh3L
+- https://youtube.com/shorts/bflhkKZEZ6g?si=JbdsezBtMtMo4fbz
+- https://youtube.com/shorts/6NnLNAHwsDs?si=ArofnZHUJOAb2Zb-
+- https://youtu.be/qFzArDD_HSo?si=lUjUEY8Hryz5h3hu cat swallow bubblegum
+- https://youtube.com/shorts/26JpC4aEcjY?si=rAYSIp0Be5cgWq0v
+- https://youtu.be/8bGV5webDU0?si=SEcmpwiCyzuTq10V
+- https://youtube.com/shorts/BF3xEjEpsqo?si=0224Qs0fewbB4-Pc
+- https://youtu.be/wiU4WZiyHA4?si=YFrnGyEta255_Ssl
+- https://youtu.be/kz5qRdyOHnE?si=3gaKB6gx1ND0DX6R
+- https://youtube.com/shorts/8PVdDSEndPc?si=idL073Cj6QwrCLIc
+- https://youtube.com/shorts/Dy2bJoQ5_hU?si=tVGAYDPiOgl2gmSM
+- magnetizer
+- https://youtube.com/shorts/btTIP36KhsQ?si=IaQO9-E8WKWX5P2o
+- https://youtube.com/shorts/25Tt4JWsocQ?si=TxS-D5QgG9E4QyXc
+- https://otakukart.com/425822/50-best-anime-series-to-watch-right-now/
+- https://youtu.be/DIV-3N8Upjs?si=S61E5srOKZJQbuZN
+- https://youtu.be/dA9WuhE9JHs?si=37M9Qz1k_3CTGpfh
+- https://youtu.be/9pgvl3lQqcQ?si=_LhB2d7eR8eh5qer
+- https://youtu.be/x9NQvQZJ0TM?si=jbwgRSlcoWRcMx1R
+- https://youtube.com/shorts/azPuu_awOyc?si=J59VhmcNeAT-_W1i
+- https://youtube.com/shorts/kzsd3MB2njo?si=YNCXW4yKGmrC4IrW
+- https://youtube.com/shorts/_MDMW_9zTM4?si=RmYZchLB7gD09HLp
+- https://youtube.com/shorts/Xed60vrCuVM?si=Jj_9_Q-BuAeZ8Pmh
+- https://youtube.com/shorts/K8y67h5lPqk?si=2qv4ZAcTcFAYJvY4
+- https://youtube.com/shorts/X3VsCQWze_Q?si=HFTWbcjUdfxOHyzh
+- https://youtube.com/shorts/O3C_Ds-Sldk?si=ZQcFMp2BdK-vrV9D
+- https://youtube.com/shorts/ALpTcyT74HM?si=Rf6u31nln9Jv6EgM
+- https://youtube.com/shorts/Zr1YvFQxGLs?si=95-NPi0CmyDkvPtv
+- https://youtube.com/shorts/gD8ujQYYDJg?si=3gTmJwYStpltcZia
+- https://youtube.com/shorts/Upr8Bv_Shjg?si=ToZTjpqahrbFvM8I
+- https://youtube.com/shorts/elDQJn8dre8?si=YTMae7kfu1VfzNb3
+- https://youtube.com/shorts/FjQeycJAVp0?si=LchKy3QrWAwUf3aA
+- https://youtube.com/shorts/pgl0mgEIYAY?si=K-pas6OkRidos-XL
+- https://youtube.com/shorts/fKKJYcMGKKg?si=CAyFM7-lDnVjwJNb
+- https://youtu.be/F-7pVDyiIsQ?si=u49F1U031tY1eDX8
+- https://twitter.com/luizhtx/status/1691589643098087816?s=20
+- https://youtu.be/IzQOQOFTyRU?si=4WBb21PlCNgK3mZM
+- https://youtu.be/_-KNiCt3uoc?si=OPmiQ6aWztc5juOp
+- https://youtu.be/iKVeoiZc8gM?si=5HpDgwTdQ3KvNDZc
+- https://youtu.be/Q6WeMNoy24s?feature=shared
+- https://youtu.be/1yfX84RMQ3M?si=DRp5KBgZbU_bA9Ru
+- https://youtu.be/rn_8GXNN7_Q?si=JCxLJYdYYLXuXU5Q
+- https://youtu.be/72RxerDwzEo?si=GBLmdHnTOX028Ax_
+- https://youtu.be/t3oLeSPINOk?si=nRlq2dClKz3or-Zd
+- https://youtu.be/PKs73A-TIWM?si=XHS6NySDfMPFp4rs
+- https://youtu.be/kdTsbFS4xmI?si=FMyLA-Kvg5XC-wcP
+- https://youtu.be/rKp4pe92ljg?si=DXiRc0Q1FrPtofeU
+- https://youtu.be/evV05QeSjAw?si=ukGQg4QzuBHpTsAh
+- https://youtu.be/fT2KhJ8W-Kg?si=x9oca_rDCEB5YO3z
+- https://youtube.com/shorts/1WLzOuLs0MU?si=e_saHN-GOWgtsQyj
+- https://youtube.com/shorts/1WLzOuLs0MU?si=e_saHN-GOWgtsQyj
+- https://youtube.com/shorts/6KMOvxVMVVs?si=OQ8YR1JDTneaiFeQ
+- https://youtube.com/shorts/B5oLRVCMSsM?si=O7aSwwoRYZDGY-Z6
+- https://youtube.com/shorts/xZWsqjvNOoM?si=sMt2SmD3bBZddMLQ
+- https://youtube.com/source/L95lp52CeK0/shorts?si=56ppy88Z8SkBZrtl green green gas
+- https://youtu.be/L95lp52CeK0?si=wgztP3mcYoxlXNj7 aaah
+- https://youtu.be/VEuVkXDtQoY?si=H6K4m_dypvaGu9pK
+- https://github.com/Timotheeee/btd6_mods/tree/master/all_bosses_at_once
+- https://youtu.be/B1wn05KyX7U?si=_OsNvnBV9xG5GtYk
+- https://youtu.be/4nfS8ONks_U?si=3hXz_sobAyVaHIAK
+- https://youtu.be/3at_m1J1O4I?si=pUL3arfv7PVfn4X1
+- https://youtu.be/YrVJiOap344?si=ZCtHnJiWmo7ptXIH
+- https://youtu.be/4VlFG1okQcw?si=dQ3PR02luF8IYrMv
+- https://youtube.com/shorts/mKS2PRzrAcg?si=bmxWZSARcOKHb1Bl
+- https://youtu.be/4H91Z5yAiUA?si=R21yhTSzurq8p2hh
+- https://youtu.be/6XpT9TP42Ro?si=pKFF8u90ta3jPgot
+- https://youtu.be/WbHCuJLHYe8?si=mF5R-ea45IYky6Rm cat stretch to.classic music
+- https://twitter.com/yurikomorota/status/997759130528972800 yyeeeyy
+- https://youtube.com/shorts/wLh23iuAa08?si=IyyDSQc5sNSCcoVd cat bass morse
+- https://youtube.com/shorts/RpormCbvM_Y?si=bXJISrjMDWB3l3e5
+- https://youtube.com/source/3qDJd-Il4PM/shorts?si=sFf7pXNpDFPIgIvJ
+- https://youtu.be/IFbMgoOWIMc?si=BNv_PgTgbXIbywz4
+- https://youtu.be/_E5ckRtBJ4c?si=3RwvrZ4KcjC603ns
+- https://youtube.com/shorts/lInCsdQQZOg?si=iuWS672AtXadqCAq
+- https://youtu.be/FNWKtz7V6Po?si=bQnjWMztWcudlBCS
+- https://youtube.com/shorts/6v7fE-9wDYM?si=Ak4nh99XKGAKC7FN
+- https://youtube.com/shorts/0Z02M721T6g?si=Fio98pcTjMtD4Gxe
+- https://youtu.be/RM3qa2kVFq8?si=M_t1w4V4zZ7l2oe_
+- https://youtu.be/L08LjkN1k70?si=uPn9NY72XGrl1cQ4
+- https://youtu.be/TcXLtOYzrBw?si=GkDSLoLCgrGUB8l6
+- https://youtube.com/shorts/82l7k4CD3ec?si=CzOueXKRskRrWja1
+- https://youtu.be/7sIhfItdam0?si=uPrPx4yfXtp8ENfr
+- https://youtu.be/Ofp-l8lZlSw?si=edANXJCJFQxIEUJA
+- https://youtube.com/shorts/VA29ONW3PFk?si=vw31SGi8HnVrPsqt
+- https://youtube.com/shorts/Hgpr2YQJsXc?si=lfndo_aUTnZrB6PF
+- https://youtu.be/fIfsX-Z8yp0?si=W__TQAzBTpX7oNpf
+- https://youtu.be/1F477Ksc8ao?si=y-YkFhCE_o4nm5eT
+- https://youtu.be/5jKhKTRRnLY?si=JqsFPGBgfAxFxn_N
+- https://youtube.com/shorts/_ERpDfw-Yr4?si=wt2ZRMv0i6jVeh8f
+- https://youtube.com/shorts/8gjtcfAzv-I?si=qefEfRrxe2HvWzqR
+- https://youtu.be/3PFz0eYds4M?si=UAkmo0ViKUAXFl4k
+- https://youtu.be/B-Gf6i8yY_k?si=AxR205mhbkmKYAAo
+- https://youtu.be/_AklKt7df8Q?si=3pf11u4VN98IFvv0
+- https://youtu.be/GARhK76p6l0?si=13bYU_yLUjF49ZSp
+- https://youtu.be/TOaEOWnwLOg?si=mpM_EOqpkasFZ5ZJ
+- https://youtu.be/gyYBSbpWan4?si=bHy68TaYEQg5bz4C
+- https://youtube.com/shorts/z6NdK_uOo7E?si=Ud57oExXJgdyg98o
+- https://youtube.com/shorts/cBX7bvu9Fgk?si=UCi2LV4iPHNwcRtx
+- https://youtube.com/shorts/W9dygLQ16EA?si=dOHf_9enuz11-6dU hm enak teh
+- https://youtube.com/shorts/-Q63zlH6vps?si=FZfXmi6KJTOPFzi2 mmm enaak!..... EUUUUUUUUUUGH
+- https://youtube.com/shorts/2p5dqWkX12Q?si=HMzPhUv07nv6LE7q
+- https://youtu.be/AeIS6Ql3aQg?si=cnMtq-sw8huu-95N
+- https://youtu.be/XT6lgVJjBsU?si=R_htj24kJGn0v84m
+- https://youtu.be/aSvYR-MrQKY?si=dgaX9pfkqnBzLXEe
+- https://youtube.com/shorts/ao1EVH2b8Oc?si=Gs8zU_TpQSXQ8SNu
+- https://youtube.com/shorts/Qtzh1ECX_rw?si=5Qn_iafi2dNAuZZ-
+- https://youtube.com/shorts/b3Z0tw_HzDs?si=zsEGloYwlFh-QHdV mm mm MMMM!!! The flavours are melting on my tongue
+- https://youtube.com/shorts/FVLI-jgsigQ?si=6diQ40UpfVI4WinV
+- https://youtube.com/shorts/siw-vIikh0k?si=YzIr2_jWdj8sZcln
+- https://youtube.com/shorts/t-oX3iq6m0I?si=zGWz12XRtb9qTY0k
+- https://youtu.be/M477qUmmwog?si=tVavrCNAuuRGaq_T hehehe roblox laugh
+- https://youtube.com/shorts/q_qphDDllj8?si=nRyS86L3fOMo9EP_
+- https://youtu.be/lwLLFbC1H0c?si=w36t6MyeHEjMUOnE sometime I'm alone cat
+- https://youtu.be/C_gqF9CB4Cc?si=P4UorrRC2w1fKc1p
+- https://youtube.com/shorts/kfZ5L0o8uuo?si=MwNd4yc5MLiRPTOV
+- https://youtu.be/AbvCNkUZNks?si=NY-8EqWhoxxj0WNB
+- https://youtu.be/cWRkYo1S3L4?si=9m5DkuLca1kVwylK
+- https://youtu.be/Z62Bs85Th0k?si=VzM-2YCIAcpY8Z_L
+- https://youtu.be/Za-q3-xAR0o?si=-lPDdfFgu7tLfC24
+- https://youtube.com/shorts/ovaKGQES-xI?si=okva5bMS3FvDG8EB
+- https://youtube.com/shorts/c_H04ErNey8?si=sPsfGlNcE4mihIpn sock color lullaby
+- https://youtube.com/shorts/91SQxZtgBOo?si=9xOc670g9t5EjAPz
+- https://youtube.com/shorts/4Djyemt5PC4?si=nly-jMwAPibUID26
+- https://youtu.be/7-vjEjg34ng?si=Srmyf10xtDb8eq1x
+- https://youtu.be/1lOF1e-RNtU?si=QzzJC8LpyuqMSdsa
+- https://youtube.com/shorts/tk1LaAfR6bY?si=dgL9vtXl_c85YfWn
+- https://youtube.com/shorts/8SXyehmpSBQ?si=fW0ztJLhX9NWvBwr
+- https://youtube.com/shorts/5Nj7xCeURBw?si=hzSyTscAKJgpLdDq
+- https://youtu.be/9LOB8fmVvmk?si=TeXzHpYIvld77qkn
+- https://youtu.be/cd0TfVRxSF4?si=FtqG3zgqajSMO-nC
+- https://youtu.be/cd0TfVRxSF4?si=FtqG3zgqajSMO-nC
+- https://youtu.be/9sNl88EsIo0?si=WsafvMsFyUjlW2Gr
+- https://youtu.be/-c3jQUotXXQ?si=89uGyKNhJJYA32Lk
+- https://youtu.be/VmBFxFvdRzQ?feature=shared
+- https://youtu.be/YbHTKyqC4t8?feature=shared
+- https://play.google.com/store/tv/show/Adventure_Time?id=glZYrvIv1N4
+- https://youtu.be/AuqsEx7e3bM?si=1iM-QlGwzTT0FxMi
+- https://youtu.be/K-4SthopN2U?si=Yah5leE9eioiKuKP
+- https://youtube.com/shorts/TQsZecK5JfA?si=5JzHwm0l9LVXpqRK
+- https://youtu.be/MlZBER_6Tik?si=FUVqjC_6YhVpV9eT
+- https://youtube.com/shorts/TU4M_iXw6ZI?si=iKgjiZj9NirPNvHU
+- https://youtube.com/shorts/Rb8qYfi8L-4?si=sjsr5ceOZSUVPkJp
+- https://youtube.com/shorts/41bcdIsyixc?si=M1pKHyDOcPYdMxYu
+- https://youtube.com/shorts/wMGeZCUzRps?si=OG0Lm4C22nRxh7MK
+- https://youtube.com/shorts/Bkh7k3P2jhs?si=ffGpnqAood45B5kO
+- https://youtu.be/ofoxGsWlgmM?si=Hg4ahok6kyE7tQIJ
+- https://youtu.be/xDWCTYtznK8?si=kFESmfYmV0GdYv82
+- https://twitter.com/FNAFMovieUpdate/status/1696970950665724321?t=EvfDkRYIXw7TATWw8mxCqg&s=19
+- https://youtu.be/b_8_X5IZCno?si=l9FyNOTqKGq9fyuV
+- https://youtu.be/nMX7vkgwGuE?si=8t_8-NvL3Q0WmwhV
+- https://youtu.be/eZWQ2XNw3SI?si=p5BvyMbYVckxKmBP
+- https://youtu.be/o1LaMtdwMnE?si=y6fGKxejB7r8SaBi
+- https://youtu.be/QPrElWXbnX0?si=YF9RMDhQ_-V8cQf5
+- https://youtu.be/z2WP2phjtZA?si=DHDypJOhtOtm-CMT
+- Funny Guitar Hero fail. In OG, the guitarist when finish song, sometimes they throw guitar to floor.
+- Now have Marceline when Bassing. You Rock! Song finished!
+- Marceline throw her Bass Axe to floor. Crack spreading. Audience floor cracked open and fell all of them 3 floors.
+- https://youtu.be/hN2qQ3OlEq0?si=3HR2bLjMzlHzsVU5
+- https://youtu.be/tvNe6lt8CrY?si=SQRWSdFy4nSWVWSK
+- https://youtu.be/hJSXdZrFdrI?si=GVeHRKL_7bwwrsjC
+- https://youtube.com/shorts/htxolvBYNdE?si=fQbTw0lGqeEI5CKc
+- https://youtube.com/shorts/tuU7unK4ZQ4?si=pbf048Z77x6Q4oHE
+- https://youtube.com/shorts/Ios8q15VgEQ?si=fdcgq1UyEpqzNYbW
+- https://youtube.com/shorts/fSOqca3eJ_4?si=yryU2eS7eodLPlTM
+- https://youtu.be/bRlrJIrw60I?si=YlYmnxKuTDLAPoaB
+- https://youtube.com/shorts/WH8z1572iaY?si=AyLnoYwarvmyYrZg
+- https://youtube.com/shorts/ikZFtII1Nho?si=22ImVoBp8Vw-Sm3s
+- https://youtube.com/shorts/_0O67qabNq0?si=JKBb4yhCIz0dt2di
+- https://youtu.be/JmH6L1QFs3U?si=qonMMri6KEc_zyIc
+- https://youtu.be/jxW4PEJ2xjA?si=OW5eZeDOJuDcMi4l
+- https://youtu.be/FAMU3SdsJsc?si=qDFk__XnKm2YT_o0
+- https://youtu.be/q7jX-ogYlVE?si=2ifG9fQMMRhphcv0
+- https://youtu.be/gk9UD_nE_KQ?si=sFfp1r4kDxHCbuCu
+- https://youtube.com/shorts/dsfukxXz058?si=0wRDWX0IDh99jYVj
+- https://youtube.com/shorts/9bkads5vkdA?si=V0R196rKXA1ml71e
+- https://youtu.be/SWuOxTIQQmM?si=aBZYYplPQvqFzzE2
+- https://youtu.be/ppMXtTbNnCs?si=Ev2BMT2DeMzg8swv
+- https://youtu.be/ky_AY2IAdZg?si=bIPhVD4BFbNJ_HHB
+- https://youtu.be/KYTfEm03UzY?si=u11fzIauSgIib6Wb
+- https://youtu.be/KYTfEm03UzY?si=QXWjrSHb31Ly1UA9
+- https://youtu.be/UA4PgKIt8gI?si=tD_Z_erD0gUapc8i
+- Avenger Hawkeye no look bow arrow hit scene but replace with Quincy pls. The aliens in ship who were got hit are also replaced with tough bloon. Maybe a... any MOAB.
+- https://youtube.com/shorts/GF1XBT56HAY?si=MGazX4_3htACPh_U
+- https://youtube.com/shorts/rs7J2GTzNOg?si=TL9xb8WAQ2rfLzCi
+- https://youtube.com/shorts/m__waKZcpXQ?si=Ige9eYEsJV-5YGDa
+- https://youtube.com/shorts/Wgo_aDd4DIg?si=rhtqqDCo2g9r5Vfr
+- https://youtu.be/bOJ0gm3eito?si=_AHh0uhsfahDKpoS
+- https://youtu.be/VPE803pd3Vc?si=dylxGiE72KJMHHDI
+- https://youtu.be/drggAu-m9yw?si=bB6ZrbOi25xW6b6Y
+- https://youtube.com/shorts/ILK-n4oZ8kI?si=IMtx23tFiYfE-L_O
+- https://youtube.com/shorts/jXpJvl8Ik2w?si=gb_l02PGsv3RcWin
+- https://youtube.com/shorts/fPZAOefNIjA?si=jKHP2c5Tg6XUS_Gl
+- https://youtu.be/xEvtPdTVMk0?si=41dCTSU2klpCXFb7
+- https://youtube.com/shorts/s_iCy7wjAPE?si=QM-LJWm892dCPWLK
+- https://youtube.com/shorts/vcKNGVvtRbo?si=tqSfWZexkemnlhv4
+- https://youtube.com/shorts/Yz9KwtxvXQU?si=PNK7S-jKcz-92eaC
+- https://youtube.com/shorts/iP1YhpNqGjw?si=XgNCHGq2COSQtdSa
+- https://www.youtube.com/live/-kGlOXjeWwM?si=Jso1tkV4eQBqST4L
+- https://youtu.be/dBoufhjHdTU?si=tRdQ59q9htdBDQzs
+- https://youtu.be/BHqr8eDhdkw?si=4dw91axIJ5zYbvz6
+- https://youtu.be/-lPWBfIhNbQ?si=PKGcdyDKfiprsZ2l
+- https://youtu.be/zkgneNTYG14?si=hUBtwAk1KqpKaTLo
+- https://youtu.be/pg2vBtZLdYM?si=nPQn_kuBlYXrJwvO
+- https://youtu.be/TUncopAXKmM?si=B5mHFbABTMn3UI4B
+- https://youtube.com/shorts/AcAsft7r5n0?si=ZgyIfV6vlNyPwnk0
+- https://youtu.be/wiol-oCUHIk?feature=shared
+- https://youtu.be/jgZxKSYfTcs?si=cyk7qvCyOLzVRqai
+- https://youtu.be/vueyuFyzakg?si=0aI8DVjwsCIYsvHa
+- https://youtube.com/shorts/V7CO3rwDGNE?si=Qp9Qco46KaqEWQGp
+- https://youtube.com/shorts/qtAxNZxzFAk?si=VhIA71qhUX6KIxqO
+- https://youtube.com/shorts/JIxB-d5J3zc?si=ZOIY07zMSC8XslOS
+- https://youtu.be/j8Ij_qXqw-8?si=Lf_ZWh0KVe9KLUbD
+- https://youtube.com/shorts/PFcLSFzhmbY?si=fCKPO0felcP4QZAH
+- https://youtube.com/shorts/7TkRnFHaLLI?si=Q26iB6xuASQPxYRX
+- https://youtu.be/CZOSAFevhOs?si=lF2QZuScZubNWjCK
+- https://youtu.be/crKxFfxDFGc?si=851txvJ7wA75-xID
+- https://youtube.com/shorts/ehO5v6mWayk?si=de16yEZoOY2zEEqG
+- https://youtube.com/shorts/1QSHFH-S03g?si=g5dsOL7cjwi2-kHC
+- https://youtu.be/k2LJUxzrUGI?si=qrKZvCRrb8Z3TWwi
+- https://youtu.be/WgDrkyOJO18?si=mYWbRgq4F_8gjSiX
+- https://youtu.be/yAF_GXFRBOQ?si=ldtuO86C5DQ_0Hmr
+- https://youtube.com/shorts/GqGF6kKmYo8?si=pLACkyemlOCEI9ki
+- https://youtube.com/shorts/cK6TNPeB6gE?si=-q4hGOhjh-5cd1Xp
+- https://youtube.com/shorts/w8qIfj_5jMQ?si=rRHi8JeT5W4O4FLq
+- https://youtube.com/shorts/ZX3f_ZC5-EU?si=7c1ds1_Xf0JKSpwU
+- https://youtube.com/shorts/2r34U3ci2XE?si=X47xHjrGLmOY4bSA
+- https://youtube.com/shorts/GscAE3cxDS4?si=VvvNalXuwIFBhM2U
+- https://youtube.com/shorts/Gml5Mx-AgnI?si=qJRtkbpm1MBWYSzO
+- https://youtu.be/z2I1wan_W84?si=H5Kbs99OYv5TUSvt
+- Nya ichi san nya arigato
+- https://youtube.com/shorts/NJxThjR4iOU?si=04jHyHQaNFQxB0BE
+- https://youtube.com/shorts/-VUxD_6Hpqg?si=E-a2obmH3SWJzg_l
+- https://youtu.be/1lijdDXdrFQ?feature=shared
+- https://youtube.com/shorts/XD9i3AKF-_Q?si=5jSKn7VLFXwabCLs
+- https://youtube.com/shorts/lGRtyqPYX6w?si=VtDvyA3DxwORR8py
+- https://youtube.com/shorts/99Nsis8xvdQ?si=9-D2OfAXbARb6G6P
+- https://youtu.be/eDMsloh1z5U?si=wuxDpOoTfUkMe4NV
+- https://youtube.com/shorts/TFguHNKgS2Y?si=FkPX2alUKDqYk9L0
+- https://youtube.com/shorts/IJUCHpP-f5A?si=33IpBj1yehZFi9l8
+- Late night protogen
+- https://youtu.be/H5fN_R_a23s?si=or4msZYDySV7_Xay
+- https://vt.tiktok.com/ZSL71h4vn/
+- https://youtube.com/shorts/AKJ_XiGdFIg?si=F138GEeFih-WRmm6
+- https://youtube.com/shorts/Eg16loquTyk?si=nZwBSemHgZPj2InL
+- https://youtube.com/shorts/cPGeYvZw3rs?si=jzZZValYSNVq21am
+- https://youtube.com/shorts/4aeoAUkuZj4?si=aj-SegRg8agBT_Bl
+- https://youtube.com/shorts/QtxShi1BD-4?si=6K7vgg9Fw-lL55FC
+- Will there be EV Rolls Royce?
+- https://youtu.be/ptjL-v5bXIQ?si=zo3B_rhL1Qd8HHUB
+- If I got voucher for Rolls Royce commission, I want it to looks like my Protogen avatar. Blue dark body with orange accent and UI lights, just like our Perkedel theme.
+- https://youtu.be/xfGrN3ZsPLA?si=-6nn3eXVZozKxxQV thefatrat escaping gravity. Pls declare as Royalty Free Dancing Howard the Alien backsound.
+- Buff or Nerf!
+- Kazakhstan Ugraijab Nambabiroke
+- https://youtube.com/shorts/Lj1ZHKA326I?si=Eav7DXuChFViZIxO kush kish kush
+- Nambabiroke gone
+- https://youtu.be/ljFAODAfAC8?si=kp83bKxF6JFca3Jb
+- https://youtu.be/dFcJolnNFmo?si=yOrtXqM3G007adeh
+- https://youtu.be/gv-L8vRncGw?si=ocZwg2Zef_RHEhAq
+- https://www.instagram.com/reel/CvsIxLmscdJ/?igshid=MzRlODBiNWFlZA%3D%3D
+- https://bloons.fandom.com/wiki/Rounds_(BTD6)
+- https://bloons.fandom.com/wiki/Alternate_Bloons_Rounds#Rounds
+- https://bloons.fandom.com/wiki/Apopalypse_(BTD6)#Bloons_spawning_in_BTD6
+- https://bloons.fandom.com/wiki/Ceramic_Bloon
+- https://bloons.fandom.com/wiki/Rounds_(BTD6)
+- https://bloons.fandom.com/wiki/Rainbow_Bloon
+- https://bloons.fandom.com/wiki/Purple_Bloon
+- https://bloons.fandom.com/wiki/Camo_Bloon
+- https://bloons.fandom.com/wiki/Camo_Regrow_Bloon
+- https://bloons.fandom.com/wiki/Pink_Bloon
+- https://bloons.fandom.com/wiki/Lead_Bloon
+- https://bloons.fandom.com/wiki/Massive_Ornary_Air_Blimp_(MOAB)
+- https://bloons.fandom.com/wiki/Dark_Dirigible_Titan_(DDT)
+- https://bloons.fandom.com/wiki/Bloonarius_the_Inflator
+- https://bloons.fandom.com/wiki/Super_Ceramic_Bloon
+- https://bloons.fandom.com/wiki/Dart_Monkey_(BTD6)
+- https://bloons.fandom.com/wiki/Towers
+- https://bloons.fandom.com/wiki/Heroes
+- https://bloons.fandom.com/wiki/Admiral_Brickell
+- https://bloons.fandom.com/wiki/Quincy
+- http://i.imgur.com/gv7SUng.jpg
+- https://bleach.fandom.com/wiki/Quincy
+- https://bloons.fandom.com/wiki/Admiral_Brickell
+- http://en.wikipedia.org/wiki/Executive_officer
+- https://bloons.fandom.com/wiki/Gwendolin
+- Karkat: Z.O.M.G.!!! Pop em up!!
+- Yuob: Today's lunch for you is this. Try it. At least the soup.
+- Gwendolin: 🤨🤨 (A meat mud?!?!)??? Eummm, (try hesitantly) (spoon)..., (taste)..
+- Yuob: 🙂🙂🙂🙂🙂🙂..
+- Gwendolin: Yum!! ... wow.... what is this meat mud called?
+- Yuob: This is Rendang. Originated from Padang. A region in Indonesia, Earth. This is very special stew here since Rendang is about beef & spicy. Got it?
+- Gwen: Hu eum..
+- Yuob: This Rendang here has configuration of spicy 500 Scoville. Well you see, nobody lives with that. We chose this just for you coz you like spicy foods and obviously can withstand spicy.
+- Gwen: And it's delicious! This had to be my lunch!
+- Yuob: Well it's for you. Confirm set this as your Lunch!
+- Gwen: Yess! Oh it's so good, (devour)!!!, mmm, (devour)!! !!! !!
+- Chef Tebez: Here is another Rendang for successful (interupted: successful script execution)..
+- Gwen: **GIMME DAT!!**
+- Tebez: (let go) Whoa alright. Well we got it.
+- https://bloons.fandom.com/wiki/Monkey_Princess
+- https://bloons.fandom.com/wiki/Sauda
+- Later...
+- Quincy: (training his arrow skill)!!..
+- Gwen: Hey Quincy try this out (shove the Rendang liquid to Quincy's mouth)!!
+- Quincy: (spicy extreme)!?!?!?, **AAAAAAAAAA 🔥🔥🔥🔥🔥🔥🔥🔥🔥!!!**
+- Gwen: (hit slap swallow trigger to Quincy) SWALLOW!!! Hehe..
+- Quincy: (swallowed the lava)!! Sss HUAAA!!! WHAT ARE YOU DOING, 
+- Gwen: Nah, (give milk) go drink up
+- Quincy: (immediatelt drink glog glog)!!! !!! !!! !!! (Finished) Mmh.. Aahhhh... Hoooo Hooo!!
+- Gwen: How does it taste?
+- Quincy: (Breath gasp)!! !! !!! Did you just gave me a lava?
+- Gwen: Yess!!! Well that's Rendang. Sorry, I think I should've gave you the Zero one. Not spicy one, lol
+- Quincy: Hh..
+- https://twitter.com/ninjakiwigames/status/1369480800983527427
+- https://bloons.fandom.com/wiki/Sauda
+- https://bloons.fandom.com/wiki/Big_Airship_of_Doom_(BAD)
+- https://bloons.fandom.com/wiki/Geraldo
+- https://bloons.fandom.com/wiki/Geraldo
+- https://bloons.fandom.com/wiki/Psi
+- https://bloons.fandom.com/wiki/Psi
+- No f8888 wonder.
+- https://twitter.com/NickDaDroid/status/1395517162329149444
+- https://twitter.com/ninjakiwigames/status/1395516730844319748
+- Okay full disclaimer, we also had one. But that's for trap!!! We are using Microsoft witchery tricks to lure all gays, lesbian, and other gender anomalized gamers to repent. Yeah. Sorry about that.
+- We... made these person in Experiment Dimension repent. They were LGBT, and later we made them repent.
+- https://bloons.fandom.com/wiki/Etienne
+- Professor Evil: (Look in Xray the Quincy's chest) Heart 🫀 pop!, (explodes Quincy's inside heart organ) KABLAM!!!
+- Quincy heart explodes inside like a Bloon popped. Died.
+- Quincy: OAHH...... (fell & died)!!
+- Gwendolin: QUINCY 😱😱😱😱😱!!!!... no... 😢 noo...
+- P Evil: HAAAH, HAHAHAHAHAHAAA..
+- Quincy: (menacing true fury building)......, (Aim flame gun to Professor Evil), (Adjust dial to maximum), (push trigger to front to charge)................, (push trigger back to launch).
+- P Evil: (Got hit by plasma flame) OOOH!!! ... .... Hah! Is that it? ... You S (disintegrates molecularly)!!!
+- SUAAA, VEEEEEEEEEEEEE!!!
+- Loss Found bot: Component restoration complete.
+- Quincy: Uuuggh....
+- Gwen: 😭 QUINCYYY!!!, (Hug as hard as Pat Fusty)!!!
+- Quincy: Hoeugg.. (pat Gwen) Hey...
+- http://en.wikipedia.org/wiki/%C3%89tienne
+- https://bloons.fandom.com/wiki/Etienne
+- https://bloons.fandom.com/wiki/Adora
+- https://bloons.fandom.com/wiki/Ezili
+- https://bloons.fandom.com/wiki/Pat_Fusty
+- https://battlefordreamisland.fandom.com/wiki/2,763
+- https://www.youtube.com/user/jacknjellify
+- https://bloons.fandom.com/wiki/Benjamin
+- https://bloons.fandom.com/wiki/Benjamin_(BTD6)
+- https://bloons.fandom.com/wiki/Benjamin_(BTD6)
+- https://bloons.fandom.com/wiki/Heroes
+- https://hackaday.com/2023/08/31/the-neo6502-is-a-credit-card-sized-retro-computer/
+- https://olimex.wordpress.com/2023/06/23/neo6502-the-credit-card-size-open-source-modern-retro-computer-with-w65c02-processor-prototypes-are-ready-for-test/
+- https://hackaday.com/2023/08/30/ai-assistant-translates-your-every-request-for-the-command-line/
+- https://github.com/ricklamers/shell-ai
+- https://www.edifier.com/cn/instruction/R19BT.html
+- https://youtu.be/UMcZaZK5txw
+- https://youtu.be/CVZSf03UqsY?si=n66b3q30V-2CT9-S
+- https://youtu.be/oi86Mk5YQ-Q?si=eDY7PcrE-3OUmEje
+- https://youtube.com/shorts/cmVFalXWER4?si=hyY3aG9TDaQibdtw
+- https://youtu.be/Z-Ww69Rjtw0?si=YJsY8GKR34zGxj1i
+- https://youtu.be/Nr77h4PBxEM?si=Qp5fDBjjvTHSypgo
+- https://github.com/Fredovsky/FlipDot-Controller
+- https://hackaday.io/project/159415-flip-dot-display-diy-controller
+- https://youtu.be/gv-L8vRncGw?si=MaPE1i5i_dW2b00L
+- https://youtu.be/ttbLdj50OwA?si=mJtFskK_B7k0Yj6k
+- https://youtu.be/c7ux4ZLtTbE?si=RzTWKMjTXw_tcrrK
+- https://twitter.com/scio_12/status/1697458851652710824?s=19
+- https://youtu.be/oLeaA-z-4Ck?si=9w2spmqYnasP-kCT
+- https://youtu.be/WviD90Z9hPo?si=O6Rvk8FHkB0UXrwJ
+- https://youtu.be/1MWBkckUC5Q?si=NPZiGJwTrfs7HAGz
+- https://youtu.be/455v1BIAGAA?si=M5IBQR455WXZ7u7U
+- https://youtu.be/TipQ2suNIfs?si=u7FNgz1T4vYPDe8z
+- https://youtube.com/shorts/bwbwIOBPim8?si=qT6hWt3wSPwT8S-6
+- https://youtu.be/qV6mxPpqTv0?si=PkyJOsR_ueak5jbA
+- Aranara yaaaa
+- https://youtu.be/qV6mxPpqTv0?si=9eyPGzxxd9gOtk0l
+- https://youtu.be/HagyNPzc-zs?si=NFUyf6_-CUXI1zDQ
+- https://youtu.be/HagyNPzc-zs?si=NFUyf6_-CUXI1zDQ
+- https://youtu.be/keBa2ocQInI?si=h4dB0jFcrg1Gmsi5
+- https://youtu.be/bzT6kXMHH0s?si=qMEOFWqsF3FH-FHF
+- https://youtu.be/Ty5cyM_bCkQ?si=q7jZXzvpd8L25HNz
+- https://youtu.be/pm9ZI7upVmI?si=tTuHRfUX54Au5yhc
+- https://youtu.be/xs6vAEjStjc?si=G4xJInwIiD0HzDLb
+- https://youtube.com/shorts/XblP8m_H0qw?si=VwvjSPk7v0PExDKO
+- https://youtu.be/I5yOi9UKi8A?si=aNHe6NLGzx8rgiJo hbd krappy kazoo
+- https://youtu.be/RD7B4r6wQi4?si=jiOXSx4M5JIpYSD6
+- https://youtu.be/bOfpQt4KFCc?si=yv6jZiDH_Q2kGSst
+- https://youtu.be/bOfpQt4KFCc?si=yv6jZiDH_Q2kGSst
+- https://youtube.com/shorts/r2RZLBtL7vk?si=kzuh2pRXnoF47Dxp
+- https://youtube.com/shorts/1grDj7cdooc?si=i5Lbg7-35s7k3d90
+- https://youtube.com/shorts/uWRsLmbHzP8?si=gcqdn8tFZpgMtCMv
+- https://youtube.com/shorts/fBp2iSx4RlY?si=7bGb67hWvSzEqvfT
+- https://youtu.be/lyeKrMBXGSs?si=RZ3E3fkwqkugQ80Z
+- https://youtu.be/NjUvTNKSmFs?si=lnzyJOorck14-7I0
+- https://youtu.be/m8qTsO4iRDY?si=LK-tuCSCMpbsW5X-
+- https://youtube.com/shorts/GLwyftPf6d4?si=zjYTkw91QlgRPV7-
+- https://youtube.com/shorts/gaGLPEtlxRQ?si=ViPNhAeDhG66qVK0
+- https://youtube.com/shorts/37QBmCX3eik?si=PhWXJvvVHMgRDDZD
+- https://youtube.com/shorts/sZf1TV3bWi4?si=DaYYGRNmRi6-j_ku
+- https://youtube.com/shorts/iUTMp0lKi_0?si=N-0104KiU1CEXBJM
+- https://youtu.be/LDBPo6Rbvlo?si=0YW58E9Gg7JCE1Si
+- https://youtube.com/shorts/0AiwAqjzvuU?si=xie8Q5zSeSUNf-88
+- https://youtube.com/shorts/bE1W1dcJZjg?si=xrEKz6Zy7r9hDGWc pineapple
+- https://youtube.com/shorts/ajGRIbSOxSw?si=vseUzwMu29pXjyuR
+- https://youtube.com/shorts/oOnBVzRATQY?si=YSF6A1wA1MsAeDkm
+- https://youtube.com/shorts/-6jNLXtVZq0?si=azmTrvXz2JIvU-k3
+- https://youtu.be/4nIFJFgH99w?si=o2E5fLcN80jg8Brw
+- https://youtube.com/shorts/znW8zE6CJuI?si=0XbcZNn_o9810K6o
+- https://youtu.be/EDUy3Y_w9Tk?si=rfmI8UfmR3I8Q6EW
+- https://twitter.com/scio_12/status/1697458851652710824?s=1
+- Send word thru audio
+- Receive decode
+- Interpret
+- https://youtu.be/EDUy3Y_w9Tk?si=D1yZCsl2XnAZfmJ4
+- https://youtu.be/K2Z9XfC8qKQ?si=k8fG00cVeBah1dd0
+- https://youtu.be/SHw5iZ0tI48?si=xv_7fGpYRWoJXDK-
+- https://youtu.be/YLdPtmEcAeo?si=Zlo1znl53xYmdXLz
+- https://youtu.be/DZeMwLLqsi0?si=VVwz4Wo8GDKWilnV
+- https://youtu.be/tJrr3FAtf1U?si=Sk9HyhJ78A4VxQsx
+- https://youtu.be/BUJSa2DSh8U?si=9Q_y32jQVViDEn4l
+- https://youtu.be/Itbsnna09MY?si=OfW2ej51rDC4RKC4
+- https://youtu.be/IhJmm2t5Hwg?si=SiXZKMqkR00S_Oi7
+- https://youtube.com/shorts/rJq6tXFR21Q?si=RaUmq39ICgYAsT-U
+- https://youtu.be/WQAcbFhWcl8?si=pg_p7xtJhnHJtdpu
+- https://youtu.be/Dr1C_YrLAEk?si=HmSptJDEa5UOxf6O
+- https://youtube.com/shorts/CBoWedo0yrE?si=jELLkUTVscCvMK4n
+- https://youtu.be/tCB-qzXoJpQ?si=YosVcT9qH9ZVAF6o
+- https://youtu.be/qIemPW3wqJI?si=W75TcjpIznmnG174
+- https://youtube.com/shorts/_YtEFwG4KyE?si=H3zXUN3u14JHGmUZ
+- https://youtube.com/shorts/B5wGorUD9CI?si=eSt-E3cLUwETf4jI
+- https://youtube.com/shorts/6_vNe5RFRE4?si=ZRUKUpuyzpxNGIYe
+- https://youtube.com/shorts/Wmd54_Kjz7o?si=s4gFv_FNQpKkDT2J
+- https://youtube.com/shorts/LHXX8MG1vG4?si=ZgYuK9hpR-qqKQaC
+- https://youtube.com/shorts/LHXX8MG1vG4?si=ZgYuK9hpR-qqKQaC
+- https://youtube.com/shorts/y2AcHvgrf3U?si=io8KuapFWpzdzvEt
+- https://youtu.be/UUcs4XGyss4?si=qvv89uqeaOeZhd0Y hah peridot niantic?!?!?!?!!?
+- https://youtu.be/gVmfrHnChZQ?si=IXlBT47rd0XMfZaY
+- https://youtu.be/0xX_7pMbsmI?feature=shared
+- https://youtu.be/JMV5vdVBGuk?feature=shared
+- https://youtu.be/HxYYtxGrszw?feature=shared
+- https://youtube.com/shorts/zixCyaONRu8?feature=shared
+- https://youtube.com/shorts/1HtguDKyONg?feature=shared
+- https://youtu.be/3QC6rceU6Jc?feature=shared
+- https://youtu.be/wFqiMw0T5_8?si=oJNJcoWyTpY1XkCF
+- https://youtu.be/_qtzrNd246g?si=olQKBPK6qWXmn5QK
+- https://youtu.be/pZA3T5Gd6k8?si=rBtk9U5h8GC2c49i
+- https://youtu.be/tzgy93dvHqE?si=IjNSOr8rcrQXIcxz
+- https://youtube.com/shorts/lP56aYH6LfM?si=oNExGypY_5HG_ftg
+- https://youtube.com/shorts/Ro3Pfc3y9Dc?si=xQJrgZV1mSqR-juM
+- https://youtube.com/shorts/PoF5v98zjj0?si=5oVzzQOPn3Tj_qod
+- https://youtube.com/shorts/3VeLpmB2JP0?si=fFSTZvQLElKYsWX-
+- https://youtube.com/shorts/3VeLpmB2JP0?si=fFSTZvQLElKYsWX-
+- https://youtube.com/shorts/OI7qSSlTjyI?si=RpXMbYxdA6Nn59ZU
+- https://youtube.com/shorts/G06RQJrKfyo?si=upsV8kZV-i1jN_-B
+- https://youtube.com/shorts/vdVwGOhkMZQ?si=b069rS4gMl7qnqGH
+- https://youtube.com/shorts/XK8cMxLbgjQ?si=JFPDTJlLj1d3HghO
+- https://youtube.com/shorts/HNsLev6BNeg?si=BnwH6qL2kkAgNOXD
+- https://youtube.com/shorts/BbBp4g3gAJ8?si=M28VSf8DJI2msBxz
+- https://youtube.com/shorts/LYHtTmuR9D4?si=psFA-nDhdKQd5fxv
+- https://youtube.com/shorts/qyJ6b6MYXzc?si=_09YUfr3ahhYyffK
+- https://youtube.com/shorts/fYi7JzzqB2M?si=B9G4uqnwxvFsn1Ck
+- https://youtu.be/_xEMG_tt1Vc?si=mB1FCmX_Wbty5ETR
+- https://youtu.be/_xEMG_tt1Vc?si=mB1FCmX_Wbty5ETR
+- https://youtu.be/b-YkAG7kG6E?si=vudTIPeGUPJcbJR3
+- https://youtu.be/B5LYZwxqv9U?si=QZBizdMUX_lLSN2C
+- https://youtu.be/ffYmxo9w1jU?si=dpbHo-Dg8Q25eNYj
+- https://youtu.be/GMVt8XXMOmc?si=5Xb3wNRSgcUNj1_s
+- https://youtu.be/8J3TBxle8Ao?si=eDP6bT9LO6nDJWT7
+- https://youtu.be/XZ9OWpUeSVY?si=kl77EFzow1dF-HYW
+- https://youtu.be/pZlIKjYHxxs?si=9ZGYku0NID4gsYpu
+- https://youtu.be/fO5oXgZBV00?si=G0kle0F0fe5aKgD5
+- https://youtu.be/y7kG8StL6ps?si=rmFlKIMtE2x8MRFY
+- https://youtu.be/wCPZJNbAJdE?si=RimAZut2ZVWQ64ZK
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2611379215
+- https://gamebanana.com/mods/341313
+- https://youtube.com/playlist?list=PL6z1QXJn9Q5HXUYMfyE8SUh40nMM5XW0f&si=CInoCgjmH3vDejkc
+- https://youtu.be/04BxoWOlQxY?si=MOZwp0US7s61rVSg
+- https://youtu.be/UuJpWu6BJ58?si=znW9nhUZ3OFgXvcN
+- https://youtube.com/shorts/Nw0phdcRogU?si=2SMp6Dka3cn9zPFK
+- https://youtube.com/shorts/ZN1LZy2HzV4?si=TivbYYXLsn7OAbhm
+- Otuz: Where am I? Is that bloonchipper?
+- Dr. Monkey: Yes! Bloonchipper is back!
+- Otuz: Oh, it's a dream. (Tear own left forearm) UUUGGGGGHH... (Yes, did not pain)
+- Awake!
+- https://youtube.com/shorts/ZN1LZy2HzV4?si=TivbYYXLsn7OAbhm
+- https://youtube.com/shorts/99WiOcSt9bA?si=b4dSNZDUkXsHSM8Q
+- https://youtube.com/shorts/Nw0phdcRogU?si=lfeyqv2IBmLvXXuy
+- https://youtu.be/HEip-MnzYaw?si=-6phvhRvXAlZJiub
+- https://youtu.be/HckAJ_VztGc?si=DX6bwjntemDLoECu pls download
+- https://youtu.be/LX7Q2Hf_aNs?si=cscHKstpmEpvDPLt
+- https://youtu.be/xD8EzbwjzS0?si=wo6WWBeaC8ZlXYH6
+- https://youtu.be/3V6JBlXiVVc?si=ajy-p0doHfojTcFm
+- https://youtu.be/b34OZDvGXfk?si=e5zT-AkXKXSiGi9L
+- https://youtu.be/qn-Hrb2qn50?si=n0PTLeoYCNePPen6
+- https://youtu.be/CNz5f8r3kAA?si=P1L-x0wq5KqjSNBi pls download
+- https://youtu.be/hclWuoI5YUc?si=7zXgvpFlJBgWkFFv
+- https://youtu.be/c6HeX6F46HM?si=Gabh-bK5OewlpdVw
+- 4 armed archer has 2 bows, one for each pair.
+- https://youtu.be/KPHbP-kpxxY?si=oGYlS0zuL9tjtDkr
+- https://youtu.be/Qqdzdli5l_c?si=1YAPGXxYWguu3Wx2
+- https://youtu.be/qPD3Y44Q1So?si=MCqY4OWuGlCcNPM5
+- https://youtu.be/39xZtRcoKqQ?si=m0Pn3A4WKR7UuwqI
+- https://youtu.be/NtSpVgTT3QY?si=glRQpe7OKXFx3yjR
+- Yuob: Yes. Exist an archer with 2 bows.
+- Quincy: That's impossible!
+- Yuob: Now observe, (open door to 4 armed archer) Now believe.
+- Jiggzy: Hey guys. (Charge both bow & aim to that target)!..., (release both same time)!
+- Both arrow hits target bullseye side by side
+- Jiggzy: Iyey!!
+- Quincy: Whoahh....
+- https://youtu.be/h3DqquILKjE?si=-0XbZE41zIAWNXEP
+- https://youtu.be/trH632UjfA0?si=KJTBOndUfMqlMX4m
+- https://youtube.com/shorts/mGZ5wAgfMLU?si=V-kEDeK3gUHHLZHQ
+- https://youtube.com/shorts/I6RkRfBRgsM?si=ab77JJ0NPztd754X
+- https://youtube.com/shorts/EpRrKZAMc_w?si=G3lc0Ksm1pDbGWmm
+- https://youtu.be/HtT2xdANBAY?si=RbnPS9jQUnaWAk1f
+- https://hackaday.com/2023/08/31/diving-into-starlinks-user-terminal-firmware/
+- https://blog.quarkslab.com/starlink.html
+- https://bloons.fandom.com/wiki/Quincy_(BTD6)
+- https://bloons.fandom.com/wiki/Quincy_(BTDB2)
+- https://bloons.fandom.com/wiki/Obyn_Greenfoot
+- https://bloons.fandom.com/wiki/Test_Bloon
+- https://bloons.fandom.com/wiki/RBE
+- http://bloons.fandom.com/wiki/List_of_Bloons
+- https://bloons.fandom.com/wiki/Captain_Churchill
+- http://en.wikipedia.org/wiki/Churchill_tank
+- http://en.wikipedia.org/wiki/Napoleon_Bonaparte
+- https://bloons.fandom.com/wiki/Benjamin
+- https://bloons.fandom.com/wiki/Benjamin_(BTD6)
+- https://youtu.be/VRlzhrUsxVQ?si=T4C3Px6lcLDZIvPy
+- https://bloons.fandom.com/wiki/Adora_(BTD6)
+- Solar meeting. Where all deities representing sun or star assembles. Sits no table. Circles layer by layer. There is only equal size chair, no leading for the meeting. Everyone agrees one thing together.
+- https://bloons.fandom.com/wiki/Ezili
+- Karkat tower. Melee tower, weapon is bone sickles, like Sauda but this heavy sickles. Slices bloons within radius 2 meter initially. There is upgrade at level 10 that gives him blowpipe, allowing him to be unlimited range sniper, but he can only damage MOAB class bloons with this Blowpipe. If there is bloon closer, no blowpipe, slice bloons first.
+- https://bloons.fandom.com/wiki/Ezili_(BTD6)
+- http://en.wikipedia.org/wiki/Ezili_Dantor
+- https://bloons.fandom.com/wiki/Gwendolin
+- https://bloons.fandom.com/wiki/Gwendolin_(BTD6)
+- https://bloons.fandom.com/wiki/Crash_Site
+- https://bloons.fandom.com/wiki/Gwendolin_(BTDB2)
+- https://bloons.fandom.com/wiki/Gwendolin_(BTD6)
+- https://bloons.fandom.com/wiki/Admiral_Brickell
+- https://bloons.fandom.com/wiki/Admiral_Brickell_(BTD6)
+- https://en.wikipedia.org/wiki/International_maritime_signal_flags
+- https://en.m.wikipedia.org/wiki/International_maritime_signal_flags
+- https://en.m.wikipedia.org/wiki/International_Code_of_Signals
+- https://en.m.wikipedia.org/wiki/Blazon
+- https://en.m.wikipedia.org/wiki/Bravo_Zulu
+- https://en.m.wikipedia.org/wiki/Character_encoding
+- https://en.m.wikipedia.org/wiki/International_Code_of_Signals
+- https://en.m.wikipedia.org/wiki/Pratique
+- https://en.m.wikipedia.org/wiki/Flag_signals
+- https://www.youtube.com/watch?v=U9naeYNnrqA
+- https://www.youtube.com/watch?v=1cj8MJuev-A
+- http://en.wikipedia.org/wiki/lifebuoy
+- https://bloons.fandom.com/wiki/Admiral_Brickell_(BTD6)
+- https://bloons.fandom.com/wiki/Monklish
+- https://bloons.fandom.com/wiki/Striker_Jones
+- https://bloons.fandom.com/wiki/Striker_Jones_(BTD6)
+- a
+- banner
+- Benjamin is cyber boy, bring him to cyber guys room.
+- Cyber boy. Cybersecurity. In Binus there is IT major specific for ethical hacking and pentest related, Cyber Security. This is one of the specific IT / Computer Science major out of others like Game dev, Math Statistic, Mobile dev, what else?. Of course there is pure IT if you so inclined, to be basic IT teacher e.g.
+- Our Kaorfa, Joel, had bachelor in Game Dev here.
+- Alas, Benjamin here is not exist IRL, so he cannot ask advise how to build fortified network company.
+- Network Company. An internet realm in a company. It is an intergratable digital box with account for all services provided by the company. Say, Google, Amazon, Microsoft. These are Network Company, with account for the service each company.
+- Some network company had messed up account system, i.e. had 2 different account system instead of just 1 for all. Usually companies will merge the system to one of them. Companies that do not fix the mess must be protested and complained, additionally avoid using it unless really necessary, because you could accidentally generate e.g. another account / sub, when you could've merge your existing legacy ones.
+- .
+- Samzan
+- Vriska is melee. She has sword. No don't worry, we already made her can take it out anytime.
+- our PC wouldn't be like this, if not because of you, Ninja Kiwi, not grabbing Adobe Flash installation from stranger!!, moron!
+- Memory leak
+- 64 GigaBloons at 50 m/s..
+- RAM
+- https://youtu.be/1BGDoiKQ4Qs?si=WxKi2D9OwiAD5yNH
+- https://youtube.com/shorts/D8O-Pnxl2s0?si=7pO8cX3qiAWX9pTa
+- https://youtube.com/shorts/blim0T3Xa_0?si=eDcbuqZHq-PzQ0cn
+- https://youtu.be/OL2MeOCeW2U?si=29uaJQ2a2qP52gf0
+- https://youtu.be/WKkN6M_7IfI?si=7dkJBQmmx1VTivki
+- https://youtu.be/EvUdlBrp7-k?si=T1MZ-TciGejClK8A
+- https://youtube.com/shorts/__fW8hwwN9M?si=sDC76gnDsHYe2lOy
+- https://youtube.com/shorts/Qq3vDwDUnPM?si=QP-VaPAf-LgZHwWS
+- https://youtube.com/shorts/CQEcfoB61DM?si=qC4dIt0fyO10Hrkk
+- https://youtube.com/shorts/1ZAAJtTE9YA?si=4sB7_SB1-r3IGPYr
+- https://youtube.com/shorts/SSft9glnvsQ?si=AbbFhRnLTluOzCye
+- https://youtu.be/0-_ID5r8QN4?si=X6rozH6WlfF3tkPU
+- https://youtube.com/shorts/zWXEOlBk5Hk?si=5dRQiwaJmHNMndIG
+- https://youtube.com/shorts/bTtl_LLTdTo?si=Hn3zGK6vBd6fdo3K
+- https://youtu.be/0dIOfKkzNTU?si=NYuRxpXLTGF_fN2a
+- https://youtube.com/shorts/zhEAJMWj4TE?si=62OCKx6Y8RFMLl0v
+- https://youtube.com/shorts/hZdtPHtKX_M?si=4IRUbynBlefEquew
+- https://youtube.com/shorts/1Q9KzyQ5_qc?si=MYcPAdGcxkebJhIX
+- https://twitter.com/SkyStuff7/status/1697587342393983167?t=reBheAIe7WvatxsgvZBHYw&s=19
+- https://twitter.com/NNovasaur/status/1697706941710012831?t=reBheAIe7WvatxsgvZBHYw&s=19
+- https://twitter.com/HyperingAround/status/1697670135933276322?t=reBheAIe7WvatxsgvZBHYw&s=19
+- https://twitter.com/DailyFNFAnims/status/1697693582147121517?t=reBheAIe7WvatxsgvZBHYw&s=19
+- https://youtu.be/pOcg-AdC2Y8?si=kqUNwHCaPOzZnB-Y
+- https://youtu.be/DriFSBSrrnQ?si=PH9-TE5OnoQsHAyy
+- https://youtu.be/-GM-L-YyXC4?si=dxMrsQdBkFdKaHiw
+- https://youtu.be/1O64jzDLAsc?si=enorSSv_VZasq5E6
+- https://youtu.be/42Tri8G3mdY?si=zCBZOjrGt1TJh8oC
+- https://youtu.be/8u_F2rmUGkA?si=LL4YbV2o99PY0DEC
+- https://youtu.be/BFuiy-688zg?si=vDqFKTBGIZF04UZV
+- https://youtube.com/shorts/lEko3Hlmj4Y?si=vij_jPtSiz4flGBm
+- https://youtube.com/shorts/2aFd_D2TYkQ?si=IGW0v7Dt2VYUUMCu
+- https://youtu.be/K1leXoMLxi0?si=WVLwhsSFudJ2ORjv
+- https://youtu.be/EVAk5_RJ9I0?si=-j_Ert-4PLAg5i2P
+- https://youtu.be/MyXc2xuiPrY?si=slop_EdzLPykaSgK
+- https://youtu.be/VVdVgGnkokI?si=V6wkDYF2wndoPbd3
+- https://youtu.be/DIk-vU5aDC8?si=uJVbtHpVplt_oH6M
+- Naval giant LED display. Type text in Naval Alphabet flags. Since it is is digital, repeater flags are often unused, except for identification. These giant LED are used for chatting with fellow ships each other, when hoisting actual flags are really slow. Now you can signal everyone very fast! Also allows even more support to aliens that uses different protocol than looking at giant LED screen. 
+- Naval flag keyboard cap set. Set of 128 keycaps which consists of standard latin alphabet, accompanied with according Naval Letter Flags.
+- Stobb: For the love of God!! Who the f888 had idea about... software that requires you paying Chinglings in order to get them?!
+- Yuob: Earth, sir. Circa.. 80s. Somehow even in digital era, the paywall is still there!
+- Stobb: F88888 moron!! In my planet we start digitally, and we do not think to ever restrict that efficient data pathways. Why?!
+- Yuob: Well they are greedy! What do you know?
+- Stobb: geez. Earth is the worst. My planet's wins!
+- Yuob: btw, how do you economy?
+- Stobb: What? It's to buy items. Simple, we.. give them Chinglings to how much component price for which we choose, and they'll let us take it. Simple. It goes also for single use components. Same.
+- Yuob: I see. Physical items only.
+- Stobb: yeah? Why would we need Chingling to complete data transfer? That would wreck civilizations, failure just because out of Chingling? Hah, no thanks!
+- https://youtu.be/wc3Fl568HLk?si=_4EwVllprlDRsrpB
+- https://youtu.be/wc3Fl568HLk?si=F0m5BTM2Ywvm3lBF
+- Pezibim. Planet of digitalizations. Everyone are PC interconnected at all time. Strobb is one of the citizen.
+- https://youtube.com/shorts/Yi6ZzQ2XNvY?si=dRW9Ho6TO3Jin1Ja
+- Xbox rgb
+- https://youtube.com/shorts/vTE96Scfgd4?si=AvmoSffZLh0FbF0m
+- https://youtube.com/shorts/IFBO28DhhbA?si=uhCEm_XzQwqp1lEi
+- https://youtube.com/shorts/EPo0jLQ84Wc?si=246tL3vpdbuzLz0z
+- https://youtu.be/Hvptoombd7g?si=pHadleJJ5koGunSn
+- Brickell: Oh well... guess it's time for me to retire?
+- Yuob: Oh no. This, is Rapture. I didn't expect Ninja Kiwi would stop at B.A.D. apparently. You can do this guys! This bloons only carries 4 B.A.D.s!
+- https://youtu.be/RVe7NfQ6OfU?si=tVuBIeqZ-M5Q4BsF
+- https://youtube.com/shorts/AciBsj3cw6w?si=wLS9IFp1udf6ZooR
+- https://youtube.com/shorts/JY4NGabUyC4?si=DOJ5vfl6xw6_yr4P
+- https://youtu.be/e0s6TlI1R_4?si=ymCX2T97sLmXSrpM
+- https://youtu.be/1fjS-rWK70w?si=FZjuWkklV3QqNx5U
+- https://youtu.be/xYSo1iAqGps?si=ELkFjN2V46W633sy
+- https://youtu.be/3BC_lg8iMK4?si=HWHmaOt5ZDsBiCmz
+- https://youtu.be/asKvPLmjxXY?si=3eduiVpW3zSQdRUI
+- https://youtu.be/ykNWqUlLftE?si=WK-Vpy0kwuYaFieA
+- Psi: This contraption is fascinating. Yet, I could not understand its details. All I see are ones and zeros. And it's right
+- Yuob: It's because it's Apple. You don't see anything. Here, used up ThinkPad with Arch Linux.
+- Psi: much better. I can see anything.
+- Yuob: We cracked open its BIOS too, btw.
+- https://youtu.be/uaSlyiFVhSw?si=DW5d95MY2sJ-X5YX
+- https://youtube.com/shorts/GxFfWr-NvAY?si=kFtfan0U_Lu4jzCt
+- https://youtube.com/shorts/6epBWZ9ycP0?si=hAu0sQKiQ72ySoNg
+- https://youtube.com/shorts/9MuH9Mv9XWY?si=1YtItMM2EKMCzqa9
+- https://youtube.com/shorts/mjgokYUS9Zs?si=aod8E-TRUuefdoP-
+- https://youtu.be/Oz2CeJAfVJY?si=wqUYLarb4ESRvCwX
+- https://youtu.be/8FHuMjmBgMQ?si=fAnNlWLRvWOBxPMW
+- https://youtu.be/VwtiyaGJY8U?si=ekxRet9qUSI83UoW
+- The naval keycap should be the standard issue for everything 7 seas.
+- https://youtu.be/tgzDM7Eme-Y?si=9kKHo_rrFjwVz8b0
+- https://youtu.be/6nD1_OVQWhc?si=XsF1PoxAMsyTQ3WC
+- https://youtu.be/HqSad35aYy4?si=L8_hDLuA0noH8bqI
+- https://youtu.be/6tpa7Gmx7vU?si=yaCLGkiZf_Ll30dl
+- https://youtu.be/4P65EJKIUwM?si=ap8-zcK2uy0LW2gt
+- https://youtu.be/K2lZDUf3ahs?si=x39exdZBUM_mk-0y
+- https://youtu.be/s7GTiBs3hRw?si=WxIkUKZMlFBhPchp
+- https://youtube.com/shorts/NR4SRwmCq0o?si=vhk0Xy-DuVtnN2Da
+- Yuon: YAYY WE DID IT!!
+- Gwendolin: Hold on, ow my finger!
+- https://youtube.com/shorts/muN8NJL3dmY?si=mT29YqhjiWSLi51d
+- https://youtu.be/NChSZishLJU?si=_rVAvOpJzIqtgoG5
+- https://youtu.be/oC2TKerVX34?si=w-RAUHVQflO4sT-Z
+- https://youtu.be/bMflg88S970?si=3HkyiYt_r12pygMx
+- https://youtu.be/PadWx2lvApM?si=k4gcpG-Q0LTZ_5p4
+- https://youtu.be/kgbrFI2tIV4?si=QG9_N0hGsQeBtzQG
+- https://youtu.be/5ytwscrsNVM?si=FmeINMNP0qKuPsQO
+- https://youtu.be/NpZvQOpKf1w?si=YJp6qSk0ssCKFdWQ
+- https://youtu.be/Ci01SIoVlXA?si=dP5h3H7BhILULd9b
+- https://youtu.be/NwdDDRs-B2M?si=h5uBcHifVe1AuIIn
+- Your IMEI is tied to your Comm modules.
+- New! Comm modules Rev 2023! With 5G! Upgrade now!
+- https://youtu.be/ckfhvisBVAE?si=yu6qw5EGyyyWZsOH
+- And HDMI 2.1 which is newest of today.
+- Well make note game consoles are typically used for family room TVs which typically is HDMI.
+- I mean seriously, wish it never exist and also DisplayPort instead. Stupid royalties!
+- https://youtu.be/aSRn0ilqeoM?si=CimpXzq7Zy2TZrtY
+- https://youtu.be/ekLEvlONe8k?si=nmc5jkKzrbj0gpUF
+- https://youtu.be/piCxUweB4Lk?si=er65_Wdg9jHzni_q
+- https://youtu.be/WZNWAoLJmyk?si=_NbHmhefW1nOhJzK
+- https://youtu.be/KBQJPg0Vk9g?si=6mB8hRKP2Fxr2oc0
+- https://youtu.be/8vij-QBxeIc?si=PjC7EAs4r-wY9_4m
+- https://youtu.be/ZcFx8UtrrOw?si=h6gN3zy79MHbTH2z
+- Fbowk: Hey, Josh. (Offer Oscilator Tube) Could you pls hold this tube for me?
+- Josh Radar: Sure, (hold).
+- Fbowk: One sec, (glitch tying up shoes kuchuk kuchuk)!!!!!!!!!!! Ah,
+- Josh: (let go)
+- Fbowk: thank you. (Reattach tube to belly),
+- Explosive lighting activate!!
+- Fbowk: (fart & fly away)!!!!
+- PROOOOOOOT!!!
+- Wait a sec. Do you really think this is Doodieman fan clone?! Just what the hell were you thinking?! `fart & fly away`?!?!?!
+- https://youtu.be/1O64jzDLAsc?si=_diS4lqM6kae8eiI
+- https://youtu.be/YSE6tI9IRMM?si=IRIcUgVH3aNpL1wl
+- https://youtube.com/shorts/BpSkgmdEgKA?si=jSNw_MoLDv-52-Cz
+- https://youtube.com/shorts/WjTC9O2yuzw?si=uuKg3_4t5FErxYHV
+- https://youtu.be/VX78tfRKe6g?si=nUMdl_bSyfs3J9WL
+- https://youtu.be/G45QKLUiMEk?si=tycPfpzDTAG4gYFd
+- https://youtu.be/ysBz0nz7BvA?si=BUyuzEt37BGiC43l
+- https://youtu.be/L4RrZf4WpPI?si=W5s7VFx8NfE5ikyc
+- https://youtu.be/UFBnCDJSZGQ?si=5iNt5VxnINyPCVhH
+- https://youtu.be/muEwFD1NJdQ?si=L4kgPf5BnvbY16RB
+- https://youtu.be/XAi-iYeAAok?si=hMu11KkexPW8bGB1
+- https://youtu.be/iPM_wMQ5Oe8?si=uOGPScLf9mAeV0Oy
+- https://youtube.com/shorts/3Uvazn0hPHY?si=5elpJO8x-4RqWqwh
+- https://youtube.com/shorts/N1AxGkUPAyY?si=RCNBTHTRVRYbs9Pd
+- https://youtube.com/shorts/MCLqbG1QVuY?si=6LyJWAd4EvrAhEEo
+- https://youtu.be/S8WALOdep10?si=8fJ8MddqQ8hHYOLq
+- https://youtu.be/3WC7BNWD1P0?si=WmtS7FYqP4dkkzBw
+- https://youtube.com/shorts/brF4zHtbjNg?si=xOHO6dcNvIlhXuHg
+- https://youtu.be/QgK0vCHZAIk?si=RNP1rjvH13Jp1spx
+- https://youtu.be/vj01dbtha1k?si=1CVb0tHNRj1ADI8n
+- https://odysee.com/@AlexJonesChannel:c/15Aug23:b
+- https://odysee.com/@lenexists:a/guy-in-sci-fi-hover-chair-meets-evil:2
+- Armageddon bloons. Parent of 2 Raptures. This bloon can attack tower and stun them. Additionally make all lower tier bloons also can have weapons and attack. There is only 1 Armageddon. It is a final boss for FPS Bloons.
+- This boss battle has soundtrack inspired from toca toca.
+- when you reach his room, you will fight lower bloons first. One by one, other heroes appears. After all appears, Armageddon shows up. He will lap this circling room. You must pop him before he laps 200 (inspired from easy difficulty on BTD6). After that where entire realm goes to void.
+- yeah that's Armageddon's plan. Trap them in exhaustion, and once they trapped to void, he can execute order 666, wreaking havoc to entire Perkedel Cinematic Universe.
+- when he pop, you will be ascended to Moderator realm. You will meet these Saorfas. They will congrats and thank you for popping Armageddon and saved Perkedel Cinematic Universe. They have given you reward which can be claimed in each of the heroes and soldiers home.
+- Then Saorfas warped them to their house.
+- .
+- Armageddon appears while BTD
+- Yuob: Who the hell are you and what do you want?!
+- Armageddon: (missile towards center of arena)!!
+- Duar!!! Tower in explosion area stunned!!
+- Yuob: They're attacking us!!!
+- Everyone attack.
+- .
+- Kena enter Millionaire game
+- Kena lost on 2nd round just in 3rd chapter
+- The question was: Which place Kaorfa ever visited in his life that had him encounters clearest sea for the first time?
+- A. Bahamas
+- B. Nusa Dua Bali (Answer)
+- C. Raja Ampat Papua
+- D. Sorrow Sea Dasandim
+- Kena used survey. Unfortunately the audience from Earth are few and many of people here from other galaxies never asked Kaorfa nor visited any of these.
+- Therefore they randomly chose, resulting C the winning, second being that Nusa Dua.
+- She picked random. A.
+- Fortunately, she got that only extra life when she finished 2nd chapter and entered 3rd chapter.
+- The question is scrambled and she restart from Question 10 again. Restart 3rd chapter again.
+- The Survey powerup do not come back.
+- .
+- Stobb: Hei check this out.
+- .
+- Stobb: Under the authority of Pezibim, Earth government is no longer welcome to br affiliated with us. Your punishment lasts forever. 😠 I'm sorry.
+- .
+- Kena enter this Room.
+- an orange spirit dot. Collect. Klok klok!
+- Orange dot tornado around Kena. Orange dot crash her middle chest, meaning to enter and be with her, light fills across the room in overbright HDR!!, fade back to normal with a harmless flame floating above her head just like the Apostles, 
+- Kena is impressed with the show and the little flame
+- then flame extinguish itself after 12 second.
+- This is Holy Spirit. The Holy Spirit is a special Spirit, Standard Issued by God for all living beings that believes. They guide you so you don't get lost in the darkness. Such as: (fast spraking list of darkness) Infidelity, Arrogance, Corruption, Nepotism, aknfifngirhdusiwnhhsuinsj, (stop fast) et cetera.
+- Kena: Ooohh..
+- Please come into the next room for the next test.
+- .
+- Pilgrim Draft Protocol Initiative. An initiative to bring all beings to become Heavenly soldier / Hamba Tuhan. This is designed for all beings, as well as non-believer, since we need more soldier to fight against evil.
+- As the test worked successfully, the initiative has been deployed across galaxies. They hope that they could bring more soul to believe.
+- .
+- play Oceans with Kanaya as the vocalist pls.
+- If Fairphone would like to make musical instrument, then they's picked vegan materials and ensure no animals killed during manufacturing. From the core down to its production are fair too.
+- If Fairphone would like to make food chain, it would all be plant based. If it had to be restaurant, all branches must have fair working condition and this job field is to provide well beingness.
+- Ground clearance alarm. For EV. Ring Alarm whenever the car just turned on to warn crews underneath
+- Can be said that Pilgrim Draft Protocol Initiative is basically have non.. pardom me, non Christian to experience Christianity, yeah.
+- Bloons electric. Car in tool. Bloons zap, the toll card breaks. The backup card also breaks too
+- Kena chat about long goals during bus. There is new phone in dorm. A Fairphone 5.
+- .
+- In all dramas, shall we remember our values and reason, why were we here.
+- Fight whether should we pick Apple or Linux.
+- Huge fight.
+- Wife hug, remember despite her conflicting preference (Apple), them couple already oath to love.
+- Quit choose.
+- The council already picked Linux anyway.
+- .
+- Yuob sneezes while teaching Kena how to use smartphone.
+- Kena: Ooh, Bless you!
+- Yuob: (clean nose) Eugh, my apologies. Oh yeah, dirty environment simulation, it's working. Anyways.
+- Continue teaching.
+- Press Select to use phone. It will pause eberything but the player
+- We have parliament. Ok idk what is that  basically Issues and Pull request
+- Since the Kena things takes place in 2030+, it is Fairphone 8 or 9.
+- I cannot be all time to win market myself. Well, make manufacturers rely on me! No rely, no business. I had it and mine is the most acceptable.
+- Mister, lemme show you how to make camera.
+- This, is microcontroller. Not a Raspberry Pi, Arduino. Sophisticated Arduino. So sophisticated, this can have complicated OS in it.
+- You want best camera, Arduino. Ask Canon if you want. Dedicated. That's it. Works specifically to be a camera, not a PC. The PC is just for sidecar, just like mine. Here AV mode, smartphone. This can die, but camera still work. Like that.
+- If Mixue made mall, it would be coldest mall with cold park, cold storage service, and cryogenic storage. That's too dark lol. Take cyrogenic off.
+- Ohh!!! Mixue aircon!!! Gree Mixue edition, exxdee xdxdxdxdxd
+- .
+- adult enters playground mission. A mission type that takes place in a play park of any specs. This is one of the most embarrassing mission, only highest guts will take. More older the better. Usually, the objectives consists of trying all object in this playground. The entry fee if there is will be paid by the agency, and the agency will pick the most premium packages.
+- Great luck, God bless you. Have fun, shall thou rember. Xdxdxdxd.
+- Look I have tried this new playground in Semarang. It's very fun, therefore you should try it.
+- Level complete if you tried all objects before closing time. Level fails if the playground closes without ever interacted 100% of objects.
+- The purpose of this mission type is to evaluate discoverability of each object and bring these as a feedback for the playground owner to improve visibility.
+- In event of there shall be a hidden easter egg, at least 80% of the time the game should be able to accidentally find it.
+- Assign Scroll Lock as change character glyph. Latin, Monklish, ICS, etc., back again.
+- ICS `FD`. Very funny, I did laugh!
+- .
+- I'm sorry, company policy forbid all employee and leader no exception to paywall any single document whatever type it is. It is severely punishable offense.
+- 😠😠😠😠😠😠 Yeah, never convince us to put these photo on ShutterStock, you money hag. What a money eyed / dasar mata duitan.
+- decibel wars. War with silence. Guns whatever size had mufflers and warriors in this war makes as less as possible noises. Sssshhhhh
+- B corporation pls
+- Connect status wire
+- 4 meat sushi. Sushi with core consists of square block cut meats of 4 different types: Beef, Salmon, Chicken, and Crab. If seafood is undesired, it can be replace with Lamb instead.
+- .
+- You serious? This lift had no brake pad bars. No wonder people died. All brands did better than this. For clarity, if the wire somehow got broke, the brake automatically engages stopping it in place. Yeah, ask OTIS to fix this up.
+- Happy happy haAAAAAAAAaahh.....
+- Yuck, MIB suck, I hate it. If you resign, you also neuralized. F888 you, information flows, don't contain, f8888 morons, piece of horses888s motherf8888.
+- .
+- Kena. Bali but Forest and mountains.
+- Klok klok! Fairphone box opens elegantly, phone floats, flies towards Kena.
+- Yuob: This, is Fairphone 9. A Smartphone. Tell me, you have this tiny little tablet like this in your world?
+- Kena: hmm..
+- Yuob: I see. That's alright. Only in few worlds do they have it. Now, you see that flat side button on the right? Press and hold. When it glows, release it.
+- Kena: Okay, (press hold).....
+- Turns on
+- Kena: (release power button)
+- Yuob: Now, wait until you see colorful wallpapers, sorry, `Welcome` in Latin. The phone needs to boot first.
+- ...
+- ...
+- ...
+- ...
+- Kena: Okay I see a text.
+- Yuob: Great. This is your welcome screen. You see the dropdown there? Pick your language scrolling up. Tap that.
+- Kena: (tap dropdown)
+- Yuob: Scroll up. Pick the second one (Bahasa Indonesia).
+- Kena: (understand connects) Ah, Wait, Ah I see!
+- Yuob: You already learned latin alphabet. Shall I let you?
+- Kena: Huh?
+- Yuob: See you like adventures. It should be easy.
+- Kena: (Next)... Weee.. fee..
+- Yuob: Tap the topmost, `Download 3D Models`.
+- Kena: (tap that SSID)
+- Yuob: all small letter, don't press bottom left arrow, (async) f, o, r, space, f, r, e, e.
+- Kena: (async) (follow).... Oof why the letters are scrambled?......... (done)
+- Yuob: Press bottom right bent arrow.
+- Kena: (press enter).
+- Yuob: Wait. The keyboard letter has been scrambled due to our history with typewriters. Okay, now keep going.
+- Kena: (next). (Saw License Agreement) Oh?
+- Yuob: Swipe hugely to down, from bottom, push it hard.
+- Kena: (lebay swipe)!!!!
+- Yuob: `Accept`.
+- Kena: (tap accept)
+- Yuob: Now, this is to sign in a Google guild. But you can skip this for now.
+- Kena: Huh, Why tho?, (tap `Lewati`).
+- Yuob: Well, a corruption that doesn't looks like it.
+- Kena: (worried)?!?!?
+- Yuob: Nah, don't worry about it. It's not lethal. Type your name.
+- Kena: (type her name)...., (next)
+- Yuob: And you're good to go. But first, please connect this cable to the bottom side of the phone.
+- Kena: Okay, (connect USB C data cable)..
+- Yuob: hang in there.
+- APK installing...
+- Yuob: Done. Pls unplug.
+- Kena: (unplug), I saw a new thing.
+- Yuob: Right. This is your important action. During mission, you will open up, click this icon right here. Every menus are here. Maps, upgrades, inventories, etc. We also already have configured the non-corruption account for you. This is not Google, don't worry.
+- Pls continue. Teach phone.
+- .
+- Layout never represents actual looks like.
+- Bring Grandpa to fun objects before time runs out. When time runs out after all fun riden, level complete.
+- Meme mission complete grandpa disintegrate
+- Environmental Preservation Field. A forcefield that ensures preservation of an area condition. Comes with various size up to entire building scales. Wrap with this field to make condition looks same all the time, no matter how long years have passed. Great for museums and historical preservations.
+- Does not work for living tissues.
+- Buzzer Speaker set. A pair of tiny passive buzzer and a large wallmount buzzer as the subwoofer.
+- Film `His only son`, Angel studios.
+- God pour a handful of sand from the ground to Abraham, symbolizing handover of a land to the new owner. God gave this land to Abraham.
+- God, through Abraham, Isaac, to have descendants as many as the stars in the space. If you count how many stars out there, including this solar sun itself, that's how many? Well, probably He says infinitium, there just so many, many keeps coming and basically it's just to say, whole lot and counting. Star dies, does not mean it's minuses. Metaphor.
+- .
+- .
+- .
+- .
+- .
+- Oh this, `Perkedel Family`? Uhh it's my family group. Too bad, noone can join but my DNA relateds, since we shared password. And no, we do not trust Facebook, you have your group here.
+- Robot combust. Alarm ring
+- Look at this! Keraton! Wait no, that's just king's palace. Not queen.
+- Benjamin drone a Dairy Queen Blizzard ice cream. It was mounted upside down.
+- .
+- Teplez (lady): So we meet, Kena. (Noticed her Fairphone). Ah, an Android user. Ironic, of half, you did not created Google Account. Quarter, you have Fairphone, the hypocrite (refering to the TWS that is too small to repair, just replacements).
+- Kena: Who.. are you?
+- Teplez: My name is Teplez. And you, you have ransacked our place.
+- Kena: You should not enslave people like this!
+- Teplez: Oh yes. Beside your agency is also a hypocrite. Enslaving you to do some unecessary freeing business to your... *Christianity*.., bringing sinfuls to be a Christianizer?! AH!! Hahahaha..
+- Yuob: Bullsh888! Wrong!! We don't do that anymore, we don't have to. You have been enslaving people to be depressed to its terminal point and our job is to prevent that from happening. Get out from here! No people join mesmerizingly through your hanging and then all that gets actual eternal torture instead of *inner peace* in the hell you convince.
+- rap battle OOOOOOOOOOOOOOO!!!!!
+- Teplez: ARGH!!! You!!! Not that again!
+- Kena: (understood her deceitful intention of kys to get ultimate peace but not) Oh.. Okay.. Thanks for that.
+- Teplez: YOU A8888888 HOW DARE YOU!!
+- Yuob: Sorry, better luck next time. We all would figure this is `Corruption`. She especially, is to clean that up. She's talented. She's born for it (as a Spirit guide).
+- Teplez: (angery desperate attack) HYAAAAA!!!!
+- Kena: (Shield)
+- Teplez: (about to slash) HAAAAAA!!!
+- Kena: (release to pulse)!!
+- Teplez: (parried) OAAAAA!!!
+- Kena: (brutal slash) HEYAAA!!!!
+- Teplez: (disintegrates, respawn in 3 days)
+- .
+- .
+- Good omens?!?!?
+- .
+- His only son.
+- .
+- .
+- .
+- .
+- Kena: Uhhh a little help?, (show Fairphone broken screen)..
+- Yuob: Oh, you broke the screen.
+- Dastan: Went into fight. A sudden fight. Well we expected it. Not expecting, the cursed chest to be that extreme.
+- Yuob: Don't worry, (prepare new screen) It's easily fixable. May I?
+- Kena: (give spiritually)..
+- Yuob: (float) (take), (open back cover & unscrew outer screws), (take off screen disconnect), (install new screen and connect), (rescrew all and cover on), (give back to Kena)!... .
+- Kena: Wow!
+- Yuob: Make note, this is very special. Apparently if this is not Fairphone, things are more.. difficult. Thus why we chose Fairphone.
+- Kena: Really? I mean..
+- Yuob: Yes, but no. Special very. Brands are getting corrupted these days. Only Framework and Fairphone left.
+- Kena: Oh.. (try again), works like new!... I presume once a stone break, that's it.
+- Yuob: Exactly.
+- Kena: Impressive.. a repairable stone.
+- Yuob: lmao! Of course. Oh, also pls take care your phone carefully, avoid this incident rehappening. Components for this one are expensive atm, we imported it straight from brand, no distributor.
+- Kena: Okay, I'll do.
+- Yuob: Great.
+- .
+- DDT huert Quincy
+- Yuob: Wait, what is that DDT doing!!
+- Quincy: (ultra maximum effort shooting DDT) C'mon! (Rapid shooting)!! !! !!! !!! OAGH!!! I can do this!!
+- Stobb: He's going to press Quincy!
+- Yuob: **QUINCY!!! MOVE OUT!!! LET IT LEAK!!**
+- Quincy: NO!! I CAN DO IT
+- DDT: (almost there)... (squiiiiish)
+- Quincy: (hard attempt to hold on with his bow, while still shooting) HEAAAGH!!!
+- Yuob: Guys get him out of it,
+- Vincent Abacus (dart monkey): (while shooting desperately) I can't!! Would crush!!
+- Yuob: Ooh-noo..
+- DDT: (managed to impact crush like hydraulic press)!!!!
+- Quincy squished flat, right hand out!!
+- Yuob: **NOOO... aaAAAAARGGGHHHHHHH...**
+- Striker Jones: (activate boom no say this time)!!..
+- DDT Died, all armies finish the rest of bloon coming out from that DDT.
+- Yuob: (run very fast to evacuate Quincy) No!!! ! ! ! ! MEDIC PLEASE!! (Run)! ! ! ! !
+- Medic arrived
+- Yuob: (arrived) Quin!! Stay with us! Whatever happen, **STAY AWAY FROM THE BRIGHT LIGHT!!**
+- Remy Landon (medic monkey): (while bring him together with back medic) He's not concious..
+- Yuob: DON'T, TOUCH THE LIGHT!!
+- Went to Dr. Monkey ICU. No Hollywood length, straight walk short the bed, U turn to emergency surgery space!
+- Dr. Monkey: okay.
+- Stanford: Crushed by DDT, multiple wreckage locations. Will take off shrapnels.
+- Dr. M: do it.
+- Surgery start take off bone shrapnels.
+- Fibrilation
+- Dr. M: No! (Take chest compress bot from underneath) CPR!!
+- Docs installs CPR rig, turn on chest auto compress & defib
+- Dr. M: 200!! (set defib to 200 J), clear!
+- Off hand
+- trigger!! Heart reset, Resume CPR and stuff
+- Standford: (one by one took off so many shrapnels) So many shrapnels sir!
+- Dr. M: avoid chest now! Condition unstable
+- fibrilation again
+- Dr. M: No no no, 300!! (Set 300)..... Clear!!
+- off hand & trigger!! Heart reset & resume
+- Dr. M: Increase compression pressure (add more pressure).
+- Standford: All limbic shrapnels removed. Install bones?
+- Dr. M: Not yet. ... C'mon, be stable...
+- Heart still stable
+- Gamut: Xray?
+- Dr. M: Xray!!
+- Gamut: Xraying!
+- All docs leave room and take iodide pills, Dr. Monkey hide behind lead sheet and also take iodide pill.
+- Cekrek!
+- Return to room and resume
+- Dr. M: Okay...
+- Gamut: (give Xray result) Results, sir.
+- Dr. M: (see the heart)... (the beat nodes has been compromised, no wonder, heart did not stay long until fibrilate) Damn.. Install pacemaker.
+- Jason: Pacemaker!!
+- Heart surgeon team install pacemaker...
+- 15 minutes later. Quincy is stable, but wrapped full with white bands.
+- The friends expected worst.
+- Dr. Monkey has idea to rebuild him with cyber parts.
+- Quincy: (booted)!... (awake)..
+- Dr. Monkey: Uhh hello?
+- Quincy: Yes? (Sound becomes ultra weird) Whoah what the
+- M: Whoa relax
+- Quincy: (panik) What's going on?! Do we win?!
+- M: Yes we win
+- Q: WHAT'S WRONG WITH ME?! WHY I SOUND LIKE THIS, (see mirror) AAAAA
+- M: Quincy, Quincy!! Calm down. You're alive. .... I... I have to rebuild you. .. you have been wrecked horribly.
+- Q: Oooh.. noo.....
+- M: I know... I'm sorry. This is the best I can do to save you
+- 12 second later. Robocop guts reveal
+- M: (open up show his original guts that left, cry again as he saw again so few left).... Quincy, will you forgive me?
+- Q: (Ultra devastated) Ah.... Whah.......
+- like robocop. Only head, lungs, heart, and right hand.
+- M: Please.... we tried our best.
+- Q: (depressed)....
+- M: You okay with this?
+- Q: Am I stil..... can shoot?
+- M: YEs. ...
+- Q: Then I (tear)..... No, Don't die....
+- M: We'll find you better fix later. For now this is what you'll have..
+- Do mission again in cyber conditions
+- .
+- After that, Yuob saw. See this, Yuob told about Dasandim resurrector. Undo the cyber, back to flesh.
+- .
+- Abraham & Sarah that time was desperate. No descendant. Sarah getting older and sterile. Sarah even idea to just *sleep* with Hagar, the maid.
+- And he did. Throw away, Sarah's son shall be one to go.
+- Now 2 branch. Isaac Christian, and Ismail the Muslim. No turning back. Probably better this way? I mean, God let it happen, so had meaning, idk. Yeah we got this and now don't want it to ever change.
+- https://twitter.com/meta01011001/status/1698037849420136611?t=b1SQQKANsrPt558UZf7bpg&s=19
+- https://youtu.be/nLzNTGZiulc?si=mshGO_6ssw6UxBQ6
+- https://youtube.com/shorts/coFLNKib67w?si=W4mAx3lORM_S6CXo
+- https://youtube.com/shorts/X4lrUcuxd8U?si=H31QROKbRY-bEJ0z
+- https://youtube.com/shorts/5Y-h03XixqQ?si=b-fB_ym8Ta_SuAbT
+- https://youtube.com/shorts/YBfuBCIAhKA?si=0PISG5ECBcTKMBPJ
+- https://youtu.be/m3KYSDbzAAE?si=R3yFFAig_ZujfvD8
+- https://youtu.be/eY3_ZkQx5T4?si=kGSroMUUvIgeEeQx
+- https://youtube.com/shorts/uaTWfk_No14?si=_zp4SnS19uT-TF2w
+- https://youtube.com/shorts/s8bSBXhd9qg?si=bzqqEz-vWySS4pkZ
+- https://youtube.com/shorts/LfdrOZgDXCE?si=x3QSco4q2X8jIrtL
+- https://youtube.com/shorts/Fr6TT7v-I3M?si=ZrFlTiB1r7F0CSPl
+- https://youtube.com/shorts/_yzQwWUuAbE?si=iAQV9ppo5aqOpAM9
+- https://youtube.com/source/siS8l2iAEU4/shorts?si=i58GfLOpBFnlX6e8 nuke cola
+- https://youtu.be/siS8l2iAEU4?si=rbcE7Tzh875t9Mil haah
+- https://youtu.be/e4tSbuQPd6Q?si=SzqXG2PBr03DfmHa
+- https://youtu.be/Lo05lA4R9SI?si=N56enqwxb4W6PqDj
+- https://youtu.be/kubXltlawL4?si=X8fkeEb1g0Mhu8tH
+- https://youtu.be/9r1OpbN-S10?si=dRpII6EJ_karAizf
+- https://youtube.com/shorts/Gdezh6dI1Ss?si=ze5vxpNCSPPRQ1qq
+- https://youtu.be/9r1OpbN-S10?si=4kD_ueIn4ItITs-d
+- https://youtube.com/shorts/DmCTqH6iMZU?si=zn0NqQdkArMa-J_r
+- https://youtube.com/shorts/sQesCm7uRpw?si=Fsz1G7w8Uvwjox8G
+- https://youtu.be/aMu2qpC4oQ4?si=qbem3rDB_6PxSp0U
+- https://youtube.com/playlist?list=PLhpbZcOKxtO1jd736yop_sb7SjhnYWvSr&si=GzyPV87mljiZOrf6
+- https://youtu.be/PHNfZ0fBMuI?si=XY44291Qb2RQ-ouh
+- https://www.youtube.com/live/MWownBa4NPw?si=K84pt9exVkhX26R0
+- https://youtu.be/q6ZFq5wXx5w?si=-muIlq0cIPV1EFo2
+- https://youtu.be/2Hk-oOvqN9s?si=QxeI6V4Kz3wm3ekO
+- https://youtu.be/m6QFbcqHWNY?si=T41Gyr7gGf49aplS
+- https://youtu.be/m6QFbcqHWNY?si=T41Gyr7gGf49aplS
+- https://youtu.be/4ybzhv9rnAQ?si=Y_SH8Pq5pCz29vpS
+- https://youtu.be/aMu2qpC4oQ4?si=yXY1cl63gDBviVzP
+- https://youtu.be/N4TB4qTH728?si=9JBFZNcntSpr3X3h
+- https://youtu.be/N4TB4qTH728?si=9JBFZNcntSpr3X3h
+- https://youtube.com/playlist?list=PLRzg_af3c_R6MAujM3aON1_QZuKtY-P1U&si=_lNzuJpYNqOBZ-X8
+- https://youtu.be/pjYLmq9f9Bk?si=oixqpdnwgv-E1rUL
+- Kena was ever given Samsung Galaxy S31 Ultra. This phone is only used for mission that confirmed notorious corrupting agents gadgets. The Samsung Knox in the CPU Chipset of this Exynos can block corruption spirit attacks.
+- Yuob: Don't worry about the lightning in your phone. It's Samsung Knox doing its thing. We have reached area fullpacked of Corruption Spirits.
+- Agents including Kena were never given Flip nor Fold because bendy design is quite fragile for typical missions
+- Tari piring but replace dish with Samsung Galaxy Flip latest lol!!!
+- https://youtu.be/L6JYjFM_wfA?si=MwZnXVxMRkHUv6Hg
+- https://youtu.be/3hPFVAe0P6o?si=O9bZp7tgduDMqTU2 lol pirated immediately!
+- https://youtu.be/zo2V5CQMuJw?si=qtn7MDOFN71JXib2
+- https://youtu.be/fYnXHm41J5I?si=28Mig9W1i4hLxqA_
+- https://youtube.com/shorts/h69o9hAu2tA?si=9PR7ajnQIVZDbnnx
+- https://youtube.com/shorts/Yz-0o05V7aM?si=peq_2AGgXFAgK7Xa
+- https://youtu.be/IhFnHJdyJvU?si=J019SxOAr6H3Tcld
+- https://youtube.com/shorts/zORvmxYHthQ?si=yeuFhhCNGSrLmgUD
+- https://youtube.com/shorts/h69o9hAu2tA?si=9PR7ajnQIVZDbnnx
+- https://youtube.com/shorts/zORvmxYHthQ?si=yeuFhhCNGSrLmgUD he ain't no simp
+- https://youtube.com/shorts/IePlWTvKEBs?si=HmN0QkGkskYF838X
+- https://youtu.be/6ZTV851e0PA?si=hI5W_59MEilwl030
+- https://youtu.be/NSIJPVlVaP8?si=p5HgddPRmWzvpY6g
+- https://youtu.be/VG7csDfNHhQ?si=HPGpeMCVpBNpRrKD
+- https://youtube.com/shorts/Dc7JjkMmowg?si=6L8FPeyf3SNK4cAw
+- https://youtu.be/pSZ_qOESXRE?si=O53TY5CX1JwlZu2K
+- https://youtu.be/_LfEvhX9ndQ?si=6BpO7e-Nq9VGFyMy
+- https://youtu.be/dEhjascOlt4?si=G7BMx62bC4USuxy1
+- https://youtu.be/-Cagr3HGmXs?si=WS7HgIq7EZ-lGg7s
+- https://youtu.be/fozskMtdwI8?si=qvvYZSCiY-_kDIHi
+- https://youtu.be/FiZgs7dyBZg?si=IrnAwHXphVQIi0_h
+- https://youtu.be/a3PXdC8JrYU?si=SR9yhQfq4s-cBt8W turtle twins?!
+- https://youtu.be/Kt-QIflZTik?si=SLwMxA-SidbAcC5k no, Tuttle Twins
+- https://youtu.be/oyYMvLpcwSA?si=m5nqk9aU161xQ4Uv
+- https://youtu.be/563351vVn3c?si=8XXF9N0rznD1nbDD
+- https://youtube.com/shorts/zmYQ5D4QIIY?si=hKdp2T1L17rBve8-
+- https://youtube.com/shorts/SWOUuWH8hjc?si=rPFjnOP_6EML_uzw
+- https://youtu.be/udSpxjK30DQ?si=_qaaD8sGgMX8J8Jn
+- https://www.youtube.com/live/jTNAU5slaSU?si=K5I2xKoZgkPKqEuV
+- https://youtu.be/gxT8N0uJJs8?si=qL86EhoJbii0i-Od
+- https://youtu.be/gxT8N0uJJs8?si=-6h98Mbr7JJMncpr 5 roti & 2 ikan. No CGI nor AI
+- https://youtu.be/WRpGce4nEFA?si=BhEyC_3CKRkxThHJ
+- https://youtu.be/ao9GM36D36Y?si=lOnVz440Yw5Wir3S
+- https://youtu.be/uDJTRC6LIOk?si=hvND4AT3YtqIXFFx
+- https://youtu.be/Ye3L4fj7HFY?si=rxyZVQ21ZHW5XjGM
+- https://youtu.be/QdkznUHPWM8?si=YNsPG9VHl8zIcCr3
+- https://youtu.be/dE7GRuPtlTs?si=NrqD2PsWQoEujf09
+- https://youtu.be/22GOv9cHVR8?si=CQI69CpobGE7zAD6
+- https://youtu.be/xzvJws1H5OE?si=lTuLV_4akgthcfJy
+- https://youtu.be/ZCM2evu60x4?si=MfNn-5DU9nGT9QJn
+- https://youtu.be/XMwJG3u35AY?si=h_-fIoEODLC-COZd
+- https://www.youtube.com/live/-qlPoSN-LC4?si=oXQW8dGezDZWR39I
+- https://youtu.be/AKBTDvw9Ck4?si=7uc-R32Yh_3HHc5s
+- .
+- https://youtu.be/AJFwRxIoUsM?si=OX7zDGvv-2SH7Vpe
+- https://youtu.be/4TSHzi94Qb0?si=HcXHIS7UQZ3pyUaZ
+- .
+- https://youtu.be/S1EZV7GDfgk?si=m-U2fNH82WZ19vQU
+- https://youtube.com/shorts/YP7bWX6i1oQ?si=S4AD5jmvlR_e6r6p
+- https://youtu.be/hbw5-w4LKMM?si=6iCopBrAQ6ux6DL5
+- https://youtube.com/shorts/TzdX9gHWobY?si=RGSktRfRmhM4lXV-
+- https://youtube.com/shorts/8RS8hQvH7rs?si=16NfMZ1YMS7UX9DG
+- https://youtu.be/CYPrxV6DtvM?si=rQggPYVp7jYGGd9u
+- https://youtube.com/shorts/TJxqhnmHR5o?si=b6eow5ATLqJTTMDd
+- https://youtu.be/y3evoHjV3FM?si=0ye-mHWS21wlog63
+- https://youtube.com/shorts/7lw8DgPmUIY?si=GCWnp86-_CqfXJpA
+- https://youtube.com/shorts/epWEYCc9K9c?si=b_3Vy-lRJkUf_LMC
+- https://youtube.com/shorts/T5zz-kJbV1M?si=XsbXr2s-rZi8BuhX
+- https://youtube.com/shorts/71K30mkKnt8?si=PECuNi4ZmgA2ceKD a
+- https://youtu.be/zO8muYgP8VA?si=gFDbIJeer-C8xto4
+- https://youtube.com/shorts/3oHdUPu8cRw?si=aFWElZYqsJO1YDC4
+- https://youtu.be/K-rpDDmiLR4?si=cwwaM3z7p2-RZUWZ i was crazy once
+- https://youtu.be/mg2U7kZmjqc?si=8eW_GJvdLTc6dbVD full
+- https://youtu.be/YITkXuw4cN4?si=c7uwDV0aWASGZvFZ
+- https://youtu.be/iKiKj93RzLA?si=v-YWPvp1vQoP407W
+- https://youtu.be/OXQwx1EolD8?si=0oMMNzYIKkw1zHxb rats we're the rats
+- https://youtu.be/jAXioRNYy4s?si=3YsWX7vjTtSTveIT wait, Jerma?!?!?
+- https://youtu.be/z70EngbDo7w?si=TPGHqnGWfBheVg6h
+- https://youtu.be/1_mZggt6aUg?si=qxO7FHPSRJWe6jc9
+- https://youtu.be/CYPrxV6DtvM?si=mQ67ti4WuvQVCJ_y shut up rattrap
+- https://youtu.be/C_eVZngHhfA?si=_DTf_8E2WhgAQz4v
+- https://youtu.be/RHg-SVGTFlE?si=KrCUgHPVDd0tjH5f
+- https://youtube.com/shorts/IURbQVdPfxw?si=Y7WGqmxf9rypCuk8
+- https://youtube.com/shorts/vGqYpjK8vtc?si=msyE8_8j5Ix23yfx
+- https://youtube.com/shorts/COPntcLvL0A?si=sHvHbb7vXgIuArqc
+- https://youtu.be/NKb62NSbxDo?si=dGLbPvzc5N4H5QNP
+- https://youtube.com/shorts/2dUFEU9V46U?si=tarAKUmznOpN7ffe Oceans Hillsong
+- https://youtu.be/dy9nwe9_xzw?si=Mnf_rde0PMueMAeZ
+- .
+- Ecce fabba. Mr. Bean song
+- https://youtu.be/pzGimN2H2oQ?si=GqhMCyuTrN0gb6kv there Ecce faba. Mr. Bean song. Ecce homo
+- https://youtu.be/6C02VhTM8PI?si=9pcdEYp-aOUKAEh8 and in the original show..
+- https://youtu.be/WmtIrkR6O7I?si=CNViZnVKLn3PGTF5 and...
+- https://youtu.be/1dPZbRMeZ_Y?si=8FjeKpI9dKY5RONo ummm
+- https://youtu.be/EQp7q5SjAI4?si=XBCHB3QB9O5ONhEw thames?!
+- https://youtu.be/1XsYnux-OSc?si=n1vIQEw0HRRZoqmC
+- https://youtu.be/YFA444IFhpQ?si=btkCfg6e_Oe_qdg4 a compare
+- .
+- .
+- https://youtu.be/9S7VlIN-f8Q?si=PRkGm44o5NW0rULH
+- https://youtu.be/Og23QogWniQ?si=UFhSOrE4hhvLXvEa
+- https://youtube.com/shorts/u4Ey61EPN74?si=N9ld0p0esH8WC_cg
+- https://youtube.com/source/ARfJ55bUAw0/shorts?si=QA_1-yAGiZd_Nd3K daft punk around the world
+- https://youtube.com/shorts/boEkYNzZkT4?si=2Epj7gg9AXX038_5
+- https://youtu.be/K0HSD_i2DvA?si=S83pcfJrY_rAHsKQ yeah around the world
+- https://youtu.be/Gnx4XUvEd44?si=mXNXObr-JYJHSLcp
+- https://youtu.be/6I4yI1lZtPo?si=eTOfsyiLwNqwglzn
+- https://youtube.com/shorts/AMzHD5banfM?si=NaxFlYmnNG-ImSOP
+- https://youtube.com/shorts/3fwyHzrc3ik?si=bdnxZLO8eOPviegT
+- https://youtube.com/shorts/3fwyHzrc3ik?si=bdnxZLO8eOPviegT
+- https://youtu.be/aMjCKrU9Q9E?si=7Qbc3EEbuR1ZtO0S
+- https://youtu.be/rsUcEqPqq4E?si=rkmEFXvj04OTjI95
+- https://youtu.be/q1ncF9V8lkI?si=nWEj7uNbUgb_IQ6o
+- https://youtu.be/DW1eGjf1saI?si=JVlxfnQah-WkeTSM aa
+- https://youtu.be/hOBz-KWcaD8?si=WsUQoaISgcckqOCm
+- .
+- Pls note. The final boss battle in FPS Bloons beginning phase. The door breaker driver. Heart popped. Stupid, the driver fell pushing the throttle up. Fast, crash door. Door instantly down.
+- https://youtu.be/PslGETShEcY?si=kpv1WPamipfCz_X1
+- https://youtu.be/GUeJjIjciHs?si=1NqxCAFka3-1ML7u
+- https://youtu.be/0-kj9Z--IEc?si=6qaoB8JF8n1BHXQH
+- https://youtu.be/gAgKfXvsEEI?feature=shared mr bean ending animated
+- https://youtube.com/shorts/EmT73jwW5Zw?si=D5G1z3h_PbIXJxg7
+- https://youtu.be/wq2T1h6tgDY?si=NqHvjYLr10u5pBxT
+- But blob. Pear shapped Blob with decently plump bum. Tends to fart, which is why often enslaved in twice container.
+- Kena looked through story spot in Israel.
+- Abraham *slept* with Hagar due to desperste, Sarah cannot pregnant anymore that time, Hagar now pregnant, to born Ismail. Now there are 2 opposition: Isaac from Sarah, and Ismail from Hagar. The Hagar is ones that had to leave Abraham or thrown away, because Isaac is the one that inherits the land. At least Damascus (the wicked) isn't the one, but still.
+- Lens finished, put down Fairphone.
+- Kena: Ouch....
+- Yuob: There is something I need to tell you Kena. Beings, don't like desperation. Any desperation calls for reckless actions, like shown. But it's better this way. It's happened, I mean, God plans this since scratch. If instead the Hagars did not exists, yes, there is no competition. But turns out...., We'll lose many things. Maths, very essential, lots of technologies comes from them. So don't mendle the time. And hey, at least we worked together, to here were are. Take a look at your phone. How many core tech is in there that are from Hagars? 
+- Kena relooks phone...
+- Yuob: Not just Isaacs, Hagars. ... Without any of each, that may not exist.
+- Kena: Ooohh.. Interesting...
+- Yuob: Sometimes what seems a corruption came from desperatives, is not corruption at all. Because God..., already designed it. His design, never outputs corruptions. You'll see them at the end of the show. Personally I hate it, but it is what it is.
+- Kena: You have alot of lives out there.
+- Yuob: Yep, there it is.
+- https://vt.tiktok.com/ZSLvmeyAp/
+- https://youtu.be/oKrQ2tVMoeQ?si=LLApsjQa2ozLfWw9
+- https://youtu.be/7oNljd7R1f8?si=yvQK0ixoZIGdpFzN
+- https://youtube.com/shorts/PCrsLL8r_Xg?si=yrbOUUlG7sa3lC1w
+- https://youtube.com/shorts/jCgYeEDYabg?si=2XEckMJh9yafgpB4
+- https://youtu.be/AOZmkZ72ISI?si=u8nIfzcu7yWiUajP
+- https://youtu.be/_Ph9fgiBWgw?si=mgHUgXPeda_uNZJX
+- A sea logistic ship with pigeons as the crew. Now pigeons sends big packages too, expands from just being mail pigeons.
+- https://youtu.be/jCuEBVbmPcA?si=XyXTApGWe3oZe_KQ
+- https://youtu.be/MyX5PD3q4UM?si=F5XDUEV1c2XvjSJD
+- https://youtu.be/Kc7YbmOL4Wo?si=dl2WOH0EQQ-IOJtd
+- https://youtu.be/Na6PT4npsMg?si=utY9_KClvYNQHngw
+- https://rvspace.org
+- I wish RISC V made it to mobile phones now! To banish Qualcomm, whose in charge with ARM.
+- https://youtu.be/DbdxeuI1r7A?si=ctbwejScLYeoxmYw
+- https://youtube.com/shorts/S-OKjsRBwCY?si=dfLNQZSEDjrvZFPx
+- Dava (female): You lose your Framework?
+- Hana Turan (female): uhh...
+- Dava: Well, unfortunately according to company policy, it will be purged in 15 minutes. Did you work your job on the 365 (OneDrive, Microsoft 365, Office Word cloud)?
+- Hana: Yes I did.
+- Dava: Cool. Just take it from there. Don't forget your password as usual.
+- Rap battle OOOOOOOOOOOOOoooOoOoOo Oh MY GOD, he's rekt!!! Get rekt Apple!!!
+- https://youtube.com/shorts/S-OKjsRBwCY?si=qCGzvyp4YtTuWUza
+- https://youtube.com/shorts/nU_s8tySyNg?si=gGCY0Fm5vw_X6fuu
+- https://youtube.com/shorts/-mptfOKYiZE?si=3CxQg63rlWrvI7qb
+- https://youtube.com/shorts/vPM-ZhOcjM8?si=z1AiqDUc1Jdb4UuQ
+- https://youtube.com/shorts/5uw7dt1vSOo?si=rNvcoSTtnq--dfz-
+- https://youtube.com/shorts/57MTM80GeoA?si=uPjv3VSEG2R3b3c_
+- https://youtube.com/shorts/B-YHBiD1vJc?si=USNDIoMe7MwsqdSS
+- https://youtube.com/shorts/3lObs75Lms0?si=YVRFp8rMjpJiiYQW
+- https://youtube.com/shorts/QeBDOtT8GmQ?si=UVBnJzNAthMCtqh5
+- https://youtube.com/shorts/wHBehpWh1m0?si=kMjgJY5eG1JbKOd9
+- https://youtube.com/shorts/gDJaZicG5kA?si=TR1UBgHXOvpdxNna
+- https://youtu.be/iFbFjKk5m4Q?si=XTux7BDZlfOmq69m
+- Adora: (breath in out to prevent angery explodos)
+- Yuob: Calm down, madam. Anger is undesired in this mission today.
+- Adora: Hooof... hokey. (Hoards of leftover anger, hold squash again)!....
+- Yuob: Calm down...., (spawn test bloon) here's dummy.
+- Adora: (angerily laser that bloon, maximum decibel IMAX earrape) 🤬🤬🤬🤬🤬🤬🤬🤬 HEUAAAAAAAARGHHHH!!!
+- immediately reduced to atoms
+- Yuob: Feel better?
+- Adore: (nose breath in)..., 😤😤😤😤😤😤...
+- Yuob: Great. Let's continue.
+- Contents in Angel app are $0. These paying people are helping to kickstart new projects and early access of the media, which eventually released to free tier. Okay, okay!! Wokayy.. alright... great idea!!! Thank you so much!!! Gamers, take a look at this! We got to do this!! We found a key!!
+- https://youtu.be/TfotpCwHvtw?si=k4Plbl3qT9klScVw
+- https://youtu.be/lJKczg3vUTo?si=HD_8JjZJrmQncW7f
+- https://youtube.com/shorts/RixVY1cR9Hs?si=ax13GYQWCIWVtFij
+- https://youtube.com/source/o70vS5zQqyA/shorts?si=og0snEHUCPkdZyaT year zero
+- https://youtu.be/RhntTYf44T8?si=SR6q1kyCOAzs3UE5 belial behemoth
+- https://youtube.com/shorts/w9S1FYdlaL4?si=-UwsczNPdfdF7gZd
+- https://youtube.com/shorts/mCpEc0lmrXw?si=03TYC4xgS_Gkht8N
+- https://garnservo.gumroad.com/l/Heartbeat?layout=profile
+- https://www.tumblr.com/joelwindows7/727507979021303808/random-privilege-4-sep-2023?source=share
+- https://www.tumblr.com/joelwindows7/727507822531723264/take-a-look-at-this-thing-we-found?source=share
+- https://youtu.be/BDWoZ3Gg29w?si=N2jaBOFre3ow_IIJ stadium rave
+- https://youtu.be/qWzbeUyg3pg?si=e2kEKv0Y739V1Lef
+- https://youtube.com/shorts/xoHJ0wQPaU8?si=BkvqAbYfNzobqF38
+- https://youtube.com/shorts/zdPbCAqPVWQ?si=TQwNoXXTUnoXw-M_
+- https://youtu.be/8h00aEJNuzQ?si=2qBCsZKc1qyp9Kiw
+- https://youtu.be/R1bO0H1D2v8?si=wNgTK4VlNsT5BUPc
+- https://youtu.be/i6noGXYmtB8?si=ymOTEUwC9Jhj0FmB
+- https://youtu.be/2zd5aUFWLiU?si=Ptc7Ks-bEOWWw13u
+- https://youtube.com/shorts/ZgtLx_rS1J0?si=AURUDEbUSv5m2lJw
+- https://youtube.com/shorts/yIz5IxdW9hQ?si=mztzqq2nlyAiEEv0
+- https://youtube.com/shorts/2FOC1Eque8g?si=0Cwnbq_X9ngzmtJw
+- https://youtu.be/qChfXKhbyyU?si=d6byIu6XMoiVgkES
+- https://youtu.be/i6noGXYmtB8?si=-FIiVXDNrihdVG6Y pls check download
+- https://www.youtube.com/live/5cguu06JD1w?si=noDJRk8kd2LpIyt5
+- https://youtu.be/le8-dt7gYw8?si=JeflVwNa4xgAxcOZ
+- https://youtube.com/shorts/FIRwJVSv3jA?si=okKlAcES9kWUDC6d
+- https://youtu.be/5FyAgVQcO6w?si=OrPsUvhdqA_17RVo
+- https://youtube.com/shorts/zNAHtPeRUkg?si=_5SEPEr3n5g4fi9f
+- https://youtube.com/shorts/rVta4YSZugo?si=m81_pJDbKbI8sfat
+- https://youtu.be/ZJyOfIO9KxU?si=gntKZx6rKnxtBT4S
+- https://youtu.be/oWqAf4eex14?feature=shared
+- https://youtu.be/ygT4l9dNwFA?feature=shared
+- https://youtube.com/shorts/zpHTOLaLr0U?si=6Dulbjp3ryyLB-iA
+- https://youtube.com/shorts/hAZf5s-SMcA?si=AlJH3Zfw2kGUzw8e
+- Yuob: Looks like you're tired, Kena.
+- Kena: hoof.. I didn't expect today is the long day.
+- Yuob: Here. Drink this Jamu. Temulawak extract with Tolak Angin and 5 table spoon of honey. Tomorrow will be longer.
+- Kena: (drincc)......., (finished) ah, mmm delicious!
+- Yuob: oh.. Thank you. I didn't expect that.
+- Kena: Why?
+- Yuob: This drink is severely bitter. Our agents we hired hated this drink for that reason. Even Kaorfa. No real honey we know will cover this Temulawak's bitterness.
+- Kena: No, it's delicious! My family when sometimes have Jamu, it's like this!
+- Yuob: Ah.. I see.
+- Kena: Yes, there is bitter, but I already been used to it. Infact.. a surreal taste this time, in a good way!
+- Yuob: That's how Tolak Angin tastes like. Compacted Jamu into a viscous package. An impressive innovation from Sido Muncul.
+- Kena: Sido Muncul.. interesting name.
+- Yuob: Dream comes true.
+- Kena: Oooh..
+- Yuob: Bahasa Jawa. A regional language in Indonesia for Javanese region.
+- Kena: Oh yes.
+- .
+- .
+- Kena: (corruption field too long) Yuob??!
+- Yuob: Oh.. sh88. This type of corruption area causes Masuk Angin. You'll feel cold and sneeze 10 times a minute. Take the Tolak Angin we put in your bag. Medical slot.
+- Kena: Okay, (take Tolak Angin sachet), (examine).... (open with spiritual scissor), (consume)......, (put used sachet to discard slot), (effect for 6 hours). Okay, what next?
+- Yuob: Walk thru it. Deadzone heart in 20 meters ahead.
+- Kena: Right..
+- enter and Masuk Angin corruption tries to corrupt her. Failed because she had Tolak Angin.
+- .
+- .
+- .
+- https://twitter.com/SkyStuff7/status/1698367591767519734?t=ao_5ERFiMhupIH-34kG3jg&s=19
+- https://youtu.be/hql6doE-Ccw?si=PZEr9L9UHMaCNOsh
+- https://youtu.be/vRur66MAj9E?si=woMhtT1WrhUlsQPB
+- https://youtu.be/TExSfQf7-GU?si=WqRbJPZt1k7sUbWx
+- https://youtube.com/shorts/PzXtqP2sD-k?si=m9Ts2k_2746e8bTa
+- https://youtube.com/shorts/02yfQrg0kgg?si=aCpkORMtBLssihWh
+- https://youtube.com/shorts/7TlFgLuJEB8?si=FY-GJh8Ik-BVhT3M
+- https://youtube.com/shorts/lndK6cLkJEQ?si=EKzvVBvJDIJ0tiLk
+- https://youtube.com/shorts/PMX9LGDzR5w?si=mncEBM7AwvcZlt1Q
+- https://youtube.com/shorts/tIdKDpbs8bA?si=7YhCqg8hfJK_e_3E
+- https://youtube.com/shorts/vc8O0XY7j90?si=F_xqZbnePasAlqem
+- https://youtube.com/source/0AWeNYlSmI0/shorts?si=bfA2dw7y4osKYFAM hbd grimace
+- https://youtu.be/mA5ShB4EmCo?si=EO792MQBIjmliG8b cg5 grimace
+- https://youtu.be/9RA8wCJ-qaM?si=JJWvi70DW98dFr9L
+- https://youtu.be/DIneiOpuS2M?si=L4EEsBL_g6Y5sDAB
+- https://youtu.be/JvWHizqNjoM?si=t73NylQkFIF8WouZ
+- https://youtu.be/URDQOb81cBg?si=fvwBiSzpqhpI3Gnv
+- https://youtube.com/shorts/rWgoCP76lXc?si=6QLsmPVjtbeEdZLF
+- https://youtube.com/shorts/5bZDzvTiyZs?si=NemCWdMF9UrHmlzp
+- https://www.youtube.com/live/rUxXeppc7ec?si=jU3KzO7eGbs587zp
+- https://youtu.be/w8EDHvk-CJI?si=6qbAuvxEOKPaXJBO
+- https://youtu.be/7b0gXZJtGXI?si=Kp8wRFw54GnTFFn-
+- https://youtu.be/K1ufVVVDnUI?si=0uEV63_a7tpfba4K
+- https://youtube.com/shorts/hHLDKwdmBDo?si=ooT4ovigXuctDt1C referee catches basketball
+- https://youtu.be/447yaU_4DF8?si=OrpKdN_fIYRNvxOf kenny g the moment Gramedia song
+- https://youtu.be/08tK1RBTJRg?si=2nGNIYmgUCq47Fii
+- https://youtu.be/6TdkGOrwsX8?feature=shared
+- https://youtu.be/CoJGt5ULmrY?si=FYf6z4aaeX18DFB5
+- https://youtu.be/QN2RnjFHmNY?si=lYS0eV62TCWW5NTA
+- https://youtu.be/OOO4ROO_sPM?si=r2cwX6a6Br_XLmwt
+- https://youtube.com/shorts/m_vL6bEzlXg?si=Wfz_TEehzsVyKiV7
+- https://youtu.be/4qzUJphkVZs?si=oTywmyfkA_LSXLuc
+- Kena got stabbed by a flying knife
+- Red blood: (throw knife)
+- Got hit Kena & embeds to left middle belly
+- Kena: ARGH!!
+- Yuob: Kena!! Uh oh,
+- Kena: (take knife off)!!
+- Yuob: NO NO NO DON'T!
+- Kena: (cure spiritually)....
+- Wounds cured
+- Yuob: Tampon it..... oh..
+- Kena: (Aim), (full charge)......., (release)!!
+- Got hit, red bloon died!!
+- .
+- Armageddon down. Its hull broke open but there is a Deadzone heart. Kena clean that up. Shield & pulse. The heart has layers!
+- towers help while Rots keep holding it. Do repeat hit many time until HP goes down to 0
+- After defeating Armageddon bloon, there is IMAX earrape as his heart explodos. Everyone pushed off very way far planarly until exceed space limit, transport to next nearest where dimension each.
+- Kena: (saw monitor).... 
+- Yuob: That computer supposedly notshows white screen right?.... (move cursor)..., (tap tap press keyboard)! !... Huh. Kena, examine the computer. Maybe it stores a story.
+- Kena: (hand to monitor to feel to read story)..
+- Yuob: (redirect Kena's right hand to the computer beneath the table) no, in here.
+- Kena: (continue).... (touch) (receive strong information entries)!!!??...
+- Flashback
+- Ken had been doxxed!
+- Ken: No! No no no, (call 911)!...
+- Raider: (broke into his room)!! There he is!, (pacify with his riffle butt)!!
+- Raider 2: (purge homework folder & brick the PC)!.....
+- Raiders had kidnapped Ken and destroyed all the data!
+- Finish
+- Kena: (hands off the computer).....
+- Kena concluded the PC has been completely bricked down to its firmware too. all hardwares too, everything bricked.
+- Yuob: Wow. What a bummer. Well. Let's go.
+- https://youtu.be/5yXLiPWZZsE?si=Jb2NyakeA-2Nh4FH
+- https://youtu.be/_3TW-87Bb3M?si=-aWbNh-xZiG3bHHE
+- https://youtu.be/jQkJl_I--Vc?si=BhTw2_ybmrP_Jh0v
+- https://youtu.be/jQkJl_I--Vc?si=BhTw2_ybmrP_Jh0v
+- https://youtube.com/shorts/imrmqeSO32c?si=jCBTzLRe8keYgeDq
+- https://youtube.com/shorts/noQL7avYnPw?si=IaBVx-_f1zg80n-o
+- https://www.snb.ch/en/
+- How to make account?!?!? Wait this is just non account bank I think, so does Bank Indonesia..
+- https://youtu.be/W4KSIVAnKRQ?si=il4QR5LffQ5zOaPN
+- https://odysee.com/@Odysee:8/odyseeblues:a?r=5QVnh7Qi8KKQzh7G7pWw9nkfaEGprCzM
+- Annoy Kena in BTD level.
+- Click rapidly Kena
+- Kena: Yes? Hello? Okay? (Slap cursor) STOP IT!, You're annoying.
+- Very annoyed
+- Kena: (throw cursor very far) Ugh! You're lucky I had patience.
+- https://twitter.com/poligon046/status/1698818218301813224?t=CE2ZT8m2e9H7BcwA84U8qQ&s=19
+- https://www.youtube.com/live/H0Tyy8P9hk4?si=fGwRBNo13f-eYR5b
+- https://www.youtube.com/live/eoIvYbmdMes?si=IYsrcvOPEUizw27y
+- https://youtu.be/a_e_zW8EXoY?si=89IJmeiuViDVvqHI
+- Cheat the Shell. Go to Shell. Find that car in Demo diorama. Scan with Shell Racing. Yea?
+- https://youtu.be/njX2bu-_Vw4?si=6hUCUqaUOAhxOQXl
+- https://youtu.be/Mw1MWfilz_k?si=CRO20zL5ygKRE3t0
+- https://youtu.be/xx1CmAVK7Cw?si=DH3H8SpLm4a3PD5e
+- https://youtu.be/jvODRkyz_8A?si=Rp5u_OYD12iMbs_g
+- https://youtu.be/RvJofD0QjSo?si=iB8d8hsJMRhLBf_z
+- https://youtube.com/playlist?list=PLBtp_AFLHDXFgIKrJI62INCZWTxS_t8Qv&si=AQ5EOfXkNnN9PuWY
+- .
+- How did Yuob made Kena cardiophilia?
+- Kena & Yuob look at sky.
+- Full disclaimer, this is not date. Yuob has already married to Bella Ruim.
+- Kena: (stare at the blue sky 7 AM) Wow.... beautiful.
+- Yuob: Indeed. This sky right here we're we looking at is the result of this Earth's atmosphere, that filters blue wavelength spectrum, letting the rest of the color pass. Additionally, it also filters any other spectrum harmful for the humans here. The filtered color stuck in the sky, and this is the result.
+- Kena: I see.. .
+- Yuob: So you know, Sun, the central star of this Solar system is white, glows so white, unlike what we expect it to be yellow, because again. When we view sun from here, the blue is taken off. Pls, use special glasses.
+- Kena: Alright.. Wow.. so many thing I didn't know. (Noticed a tiny little tadpoles moving in line fast then slow then fast then slow)..?
+- Yuob: It's very vast. Scientists, are people that figures out everything, down to its detail. Why is it like that? They look for it, analyze it, replicate it at smaller scale or whatever scale even, and they usually found out why, is it like that.
+- Kena: Didn't we see Space Tadpoles when we come here, or did we miss it?
+- Yuob: What is that?
+- Kena: I saw... a barisan.. kecebong..
+- Yuob: (read mind).... (she noticed her own eye blood vessel) Oh. (Elegant touché laugh) Ah hahahahahaha...
+- Kena: What's so funny??
+- Yuob: No, we did not miss it. Uh.. there's some quirk in our own eyes.
+- Kena: What do you mean?
+- Yuob: You just saw inside your own eye. That.., is your blood. They're lining up in a path called blood vessel. (Send mind) like..
+- Kena: (felt information about circulatory system) Huh?? How is that even possible?!
+- Yuob: Yes, think a camera, but biological. When we see something wide room with empty space like the sky, sometimes we can see the components inside, since we focus out so far. Non-encased and dirty lens would see specs of dusts that contaminate the image. And in this case.., it's our blood vessel. That cannot be removed, it is what it is. And way it happens, can't be described by words, let me just (send mind that says how did happen through this diagram)..
+- Kena: (read the light boundings) Oh.. (we focus far, and unexplainably atm, the look of component inside gets projected upon our vision) oohh... Now.. how did those tadpoles moves?
+- Yuob: Again, it's blood. So every beat of our heart.
+- Kena: Heart?
+- Yuob: Jantung. In your chest. Left. (Mind command move Kena's right hand to hold her left chest where she can feel it)
+- Kena: Yea I had ever (noticed right palm is being knocked & already landed on her left chest) Huh?? (Look down).., (I feel, my heart??), (look sky again)..
+- Yuob: Oh, you might wanna try this, (spawn Littmann Stethoscope right as it already equiped to Kena with chestpiece on the same Kena's heartbeat spot)
+- Kena: (suddenly heard thumping sound) WHOAH WHAT IS THAT?
+- Yuob: Relax.
+- Audio monitor Kena's heartbeat sound
+- Kena: (felt a metal narrow pipe thingy on her ear), (with rubber hose that ends of certain bell on same beating spot)..., Wait.. (look at those tadpoles again)
+- Kena is impressed as the tadpoles marches in sync with her heart organ, like there is some sort of military marching where her duk duk is the leading commander
+- Yuob: (continue look sky and let Kena enjoy her time).
+- .
+- .
+- Kobo: (saw MOAB) Idih itu apan?!
+- Kobo: (saw BFB) ITU YANG BMW YA, eh BFB maksudku!
+- Kobo: (saw ZOMG) Ya ampun gengs!! Ada Zet O Em Ge! Hajar guys!!!
+- Kobo: (saw BAD) ROKET UNGU RAKSASA!!! ADA ROKET UNGU RAKSASA!!
+- Kobo: (leaked) YAELAH, BALONNYA KABUR!
+- Kobo Kanaeru (c) Cover Corp
+- .
+- https://youtu.be/a_e_zW8EXoY?si=W7aw1isNVZSgvJ0x
+- https://youtu.be/mhMQeJ5Qmp0?si=-D95P-oJk62m_9u8
+- https://youtube.com/shorts/tWy9o7d92P4?si=J3ZHYc-wFeiQ20lK
+- https://youtu.be/lkg4EAK0Y30?si=t8epT_g0Pnklzylr
+- https://youtu.be/lkg4EAK0Y30?si=t8epT_g0Pnklzylr
+- https://youtube.com/shorts/keMoInZae4s?si=DQJd3XWV1ZJYOhk5
+- https://youtu.be/B0z4vUU6bUo?si=zNXWIOAi4lhRglvw
+- https://youtu.be/OjP42Z_LfGM?si=_6uKRl9VRZDx8Kv6
+- https://youtube.com/shorts/NDmGUNb-4hw?si=Vvg-NlmZleWga_Mc
+- https://youtu.be/w9_uql3FWF0?si=hn8rv32431AeCMMd
+- https://youtu.be/w9_uql3FWF0?si=hn8rv32431AeCMMd
+- Preswan. Female. Managing director at Van Elektronische inteligence center.
+- Oh wait. VE Inteligence Agency!!! Yess!!!
+- https://youtu.be/xgJQt_qQsPk?si=NT_Q6ALc_VHycc9N
+- https://youtube.com/shorts/B3c2YvdjHN8?si=4Dt6DfPKlCvOMKQU
+- https://youtu.be/aA6rHFxmUaE?si=RJkTFiQGdAWJai15
+- https://youtu.be/xoYWoN7NFTA?si=DEUFMggEhEmD5mAQ
+- https://youtu.be/UUGKoLUThrc?si=2rxdUwR1fNs_HWK6
+- https://youtu.be/E0Dy3ITDTrQ?si=1vYd6VZTu50ugcOd
+- Credit card wishing well system. Swipe money card, tap, or scan. Once transaction completed, a coin in certain value will dispense ahead just to fall into the well.
+- Cursed Meditation spot. It's just like ordinary spot, only if Kena uses it, the enemy battle starts, 45 meters away from radius. Other agents must prepare to fight for this condition.
+- Once done, Kena will feel that she's done.
+- If you let just 1 bloon leak, it will reach her and interupt her meditation, which is severely bad.
+- Most minimum curse are 5 MOABs, in Club Bali Kutai.
+- Most Maximum was 16 BADs.
+- If you'd like to use the spot again, a dialog appears whether you'd like to replace cursed battle or just meditate. Up to you. `Yes`? `Just meditate`? Or `Cancel`.
+- 
+- .
+- Alternate annoyed Kena
+- Kena: (annoyed) (slap cursor) Bisa diam gk sih?!
+- Kena: (very annoyed) (throw cursor very far & attempting maximum effort to squeeze patience, to not explode)!!!.... Diam.
+- https://youtu.be/GfHc8ZQXtcc?si=T3XTDtdkzzuIhyDT
+- https://youtu.be/FtLC-M3YBrE?si=mPqj6BeTscErTlcK hm women. Ah ahahahahahahaha
+- https://youtube.com/shorts/CX8W_zwYW1Y?si=N6CdecUbqt1fP1AP live action
+- https://youtube.com/shorts/UP8_OPZ2WY0?si=YqoEXZeg2jwrDuGo where origin?
+- https://youtu.be/OXzMdhtzhbc?si=fjiKkm5YTCCCIfhu there full
+- https://youtu.be/KtsKtycqxN4?si=CQCsYur6BwX8lHrL finally the pill true origin.
+- https://youtu.be/Y-VC6lvEzmc?si=4W9cJmdsjwQcjYjo
+- https://youtu.be/fQuytxHxSCk?si=RhvrFjzy1FKc8oFD
+- https://youtu.be/qdE7ihKcB3A?si=SnUmFOT4WE93Dtr4
+- https://youtu.be/v7mkFuuag5c?si=jsYP0M2_j1qVOP9T
+- https://youtu.be/zLwh9JxCekk?si=qJs39YaG3Gqhsoz0
+- https://youtu.be/zLwh9JxCekk?si=w4lYfAWTFz24Mcjl
+- https://youtu.be/zU0VJAntHMY?si=frFzOwf1Fzsjx7yJ
+- Kena YouTube pls
+- https://youtu.be/1OoNTYXaZrM?si=RyOfPrwIIavslGyJ
+- https://youtu.be/wqBJ0GrFQwk?si=A-dwUlEwCy7OMvPh ye
+- Yuob is 167 years old at the time of this game, 2030. Yep, that old, still healthy. He is long age being. And he already has 5 generations.
+- Oh sh88, it's `Kuta` sir. *Koo teu*.
+- Post Credit? Yuob & Kena go back to hotel (Club Bali Kuta) one last time before checkout. Here now they lunch.
+- Kena: Wait. You are a great grandpa?!?!?
+- Yuob: Oho yeah. You didn't know?
+- Kena: U... How.. How did
+- Yuob: I don't know. I just.. lives, and have all my children, have children, then they have children. What, you don't have this either?
+- Kena: No. I.. we don't live that long usually.
+- Yuob: Yeah. It's Anugerah. Buuut.. remember, it's stresfull you know. I witnessed lots of war around me and my family when I was young. Okay, 20s. Hoof man!
+- Kena: But, Congratulations?? For being... Panjang umur & sehat sentosa selalu??
+- Yuob: Iyeah, thank you.
+- Kena: (look beach)..., (back to Yuob) btw, when were you first joined?
+- Yuob: 1985 UNIX time. My dad were an agent there in VEIA (Van Elektronische Inteligence Agency). I am also like my dad, like to explore some mystery, so there I am. I have experienced lots of thing beyond my perceptions.
+- Kena: Ooo okay. Where is that?
+- Yuob: I was here. Um, not this exact, it was in Dutch. There's an Indonesian branch. Well now moved due to COVID-19 in March 2020, to planet beyond Solar, Dasandim. Very far. About 12 light years to Sloantim.
+- Kena: Okay. What is COVID?
+- Yuob: Pandemic. Year 20 virus pandemic. Last 20 was Corona Virus. Every year 20 in a century has Pandemic. We have wars with a strands of DNA that is so dot tiny, yet kills us. Diseases. This is corruption you don't want to ever get contracted with until thankfully you already fully vaccinated.
+- Kena: Ooh Yikes..
+- Yuob: What about you?
+- Kena: I don't really make notes, just.. experience wars. Changes so drastic, that vibes just fades, and come back then fades.
+- Yuob: Alright.
+- Post credit word after Kena surreal meme game: Yuob will return in Bloons TPS
+- Brent Anderson: Widih, bule! Ngomong sama orang Bali!!!
+- Yuob: Brent?
+- Brent: Ehh, Yuob! Mana aja lu?
+- Yuob: Ah, hahahahaha. Ini baru selesai. Kami sebentar lagi checkout. Misi kami sudah selesai
+- Brent: Okeeey. Nah ini siapa nih cantik jelita?
+- Yuob: Kena. Kena, this is Brent Anderson.
+- Brent: (greet Kena) Brent.
+- Kena: (greet Brent) Kena.
+- Yuob: Kena. Brent was my assistant in 1997 mission. (Pat Brent's back with right hand) Long time no see, brother.
+- Brent: Iya euy. Udah lama bro!
+- Yuob: Wow. Time flies doesn't it.
+- Brent: Iya cuy.
+- Yuob: What are you doing here?
+- Brent: Mo nginap!
+- Yuob: Oh just arrived?
+- Brent: Iya iya!
+- Yuob: Great. Great luck, God Bless you. Did you find any difficulties during your travel?
+- Brent: Nggak sih. Cuman kadang.. mereka Bahasa Inggris. Duh men, susah!!
+- Yuob: That's alright. Keep going.
+- Brent: Makasih bro.
+- Darten: Sir, items packed. Ready to depart.
+- Yuob: Yaudah bro, kami harus berangkat dulu.
+- Brent: Iyaiya silahkan. Hati hati bro. Great luck God Bless you!
+- Yuob, Kena, & friends departs through portal. Go back to Dasandim. No, Kena not home yet. Back to her dorm. We still have Bloons TPS.
+- a
+- https://youtube.com/shorts/4g3KN83DysY?si=Csf_Dnbhr9EXcjDh
+- https://youtube.com/shorts/p-G5H-jrcxs?si=Yq2jqJIfQ1zcxRM2
+- https://youtube.com/shorts/ZVreIjdXF9Y?si=o_BaYuu7kRmIPg7B
+- https://youtu.be/E_4ev63bly0?si=mhxLjFVa8VGG6p2Z
+- Now. You say Rot, like eeeh.. Roti (Bahasi Indonesia), take of the `i`. Rot.
+- Nah who cares.
+- .
+- Kena unboxes a Framework 32 DIY Edition. Why DIY? Watch.
+- Yuob: Here's your new laptop computer. Go ahead, unbox and assemble it.
+- Kena: okay. (Klok klok)! !
+- Box opens elegantly. Base and motherboard flies and land to their spot. So does the other components, each by each. Satisfying!
+- Kena: (press fingerprint sensor).
+- Yuob: This, is Framework 32. The most repairable laptop. Your mail will be sent to this computer. Open it up everytime, and watch for the new message. They are all important.
+- https://youtu.be/GXBJXnExl0U?si=ijIemy7xKyd7hwAu
+- https://youtu.be/doe3kUqHIcM?si=bpXITe466GMRFXlb
+- https://youtu.be/aPJ8ZGCGCpQ?si=ZhVJgx5JUCitR5FR
+- https://youtu.be/KxuzrM0T74I?si=Hkrio9rtaOlUAmYv
+- Kena: What's UNIX time?
+- Yuob: Earth year, digital.
+- Kena: oh.
+- .
+- .
+- https://twitter.com/poligon046/status/1698818218301813224?t=LE6tPuJT3-TNfgNuoynskw&s=19
+- https://odysee.com/@shroudedhand:a/5-more-ordinary-photos-with-disturbing:8
+- https://odysee.com/@JOELwindows7:a/Just-streaming:6?r=AVNz6gwwweZr3tpaFMmC16x4sik5MUiL
+- https://youtu.be/GXBJXnExl0U?si=MNnhaUWk30Iz09sz
+- https://youtube.com/shorts/PFFNd1Jq_7k?si=HN3hopBSq01SrOfB
+- The hostile part is corruption.
+- Kena tell Rot to hold that hostile chair
+- Pulse. Jedarr!!
+- The chair turns into camping box where homeless can sleep
+- .
+- Harget
+- .
+- Post credit again for Kena
+- Yuob: Welcome. Please bring your phone & the laptop into the table.
+- Kena: (put those to table)..
+- Yuob: We shall commence. (Framework Laptop Open top bottom compartment) For Framework, it is as easy as just swapping it out.
+- Put current NVMe card to input slot. Data backup. Inject current data to new NVMe card just filled with NixOS. Put new card into same M.2 slot & close compartment.
+- Yuob: But for Fairphone, since it's an Android phone design, is rather complicated and rather, a difficulty of its own.
+- Connect still ON Fairphone to USB data. Backup data. Restart Fairphone to recovery & unlock bootloader. Install ARM Debian because NixOS ARM at that time is not available yet. Inject current data back to the phone.
+- Yuob: There. All new again. Not perfect, it's still prototype.
+- Kena: (take again)...
+- Yuob: Take care of these. Keep especially the phone ON. There will be no message, but you have to ensure that you can hear notification whenever time comes.
+- Kena: Will do.
+- Yuob: You will be returned to your home.
+- Kena is home now.
+- .
+- .
+- .
+- .
+- .
+- .
+- .
+- *Ca, py, ba ra..*
+- Princess Bubblegum: Capybara? (Use tone `may I help you?` BATTD)
+- Capybara (repeat)
+- Ca py ba ra..
+- Cap. Churchill: Capybara??
+- Capybara (repeat)
+- Ca py ba ra..
+- Brent: **CAPYBARA?!?!?!?**
+- Capybara (repeat)
+- Ca py ba ra..
+- Villager: Hm? (YeEs?)
+- Capybara (repeat)
+- .
+- Oh nvm, NixOS Distro has ARM version.
+- .
+- .
+- .
+- Android compatible??
+- https://forum.fairphone.com/t/operating-systems-for-fairphones/11425#fairphone-open-os-5
+- https://forum.fairphone.com/t/best-custom-roms-for-fp4/88131/2
+- https://divestos.org/pages/about
+- Oh c'mon. Android and Windows are corruption. We can't let that touch Kena's house!
+- https://postmarketos.org/source-code/
+- https://gitlab.com/postmarketOS
+- https://forum.fairphone.com/t/postmarketos-ten-years-support/32279/19
+- Ubuntu is also corrupted unfortunately.
+- https://wiki.postmarketos.org/wiki/Fairphone_4_(fairphone-fp4)
+- https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone-3/
+- https://devices.ubuntu-touch.io/installer/
+- https://www.fairphone.com/wp-content/uploads/2022/09/FP4_Information-for-repairers-and-recyclers.pdf
+- https://forum.fairphone.com/t/operating-systems-for-fairphones/11425
+- https://www.fairphone.com/en/legal/
+- https://support.fairphone.com/hc/en-us/articles/10492476238865
+- https://forum.fairphone.com/t/operating-systems-for-fairphones/11425
+- https://github.com/GamesWithlove/Toaster-Arena-Remake filename too long
+- https://youtu.be/lUhAuechquw?si=7gE9DhPgoSxrXdL_
+- https://youtu.be/g4qZcNHbeGI?si=4ESWCpjOmzMSHxdl
+- https://youtube.com/shorts/NQ4GADJbx8U?si=PD1Pil6Q4CRJCmxP
+- Brent: Lohh..., kok gk pake Samsung sih?
+- Yuob: Uh, begini.
+- Begin
+- Kena: (klok)!
+- Unboxes....., the evil spirit came out of the box
+- Fed: OH NO!! FLIES!!
+- Everyone in the room attacking the corruption flies desperately
+- Finish
+- Yuob: Yeah. Begitulah.
+- Brent: Yaelah..
+- Yuob: Okay. It's phone brand. There is something nasty hidden, don't you know?
+- Brent: Oh oke.
+- https://youtu.be/wM-nTwybgUQ?si=03O879Xdg20OjyuI
+- https://youtu.be/DksrPqOnfYk?si=kuvQ6bfWBtrTjbzj
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3031309440
+- https://youtu.be/Var8HOled2o?si=d5NYuITJjpkd7Wqz
+- https://youtu.be/v7mkFuuag5c?si=LThYfGZw6EpbQf8W
+- https://youtu.be/MBo29yYv_Fk?si=kSGkkmGNlb3nzMz4
+- https://youtu.be/AVoXjeQd_Hc?si=T_6Vk5ClqgwjglG2
+- https://youtu.be/23v5iseqkgI?si=O1ROGHB0tYvASFad
+- https://youtu.be/V6X2BHpeLww?si=CUBvy4R7-i09x6FV
+- https://youtu.be/V6X2BHpeLww?si=VmkB7hQ7sUUh45-1
+- Kena got harrassed by random street rats. Preman yess.
+- Gerwata: Hey. 😗😗! Sini.
+- Kena: (disgusted)??!
+- Gerwata: 😠???
+- Rest of the preman surrounds Kena
+- Hadin: Eh.. sayang (take staff) apa ini?? Mau cosplay.
+- Gerwata: Eh. Kalau kau dipanggil, jawab dong.
+- Kena: Itu pemberian orang tua saya (help!).. (Staff on danger) jangan..
+- Gerwata: Oh. Masa sih?
+- Yuob: (finger snap)!!
+- Preman paralyzed.
+- Kena: (calm) Oh thank you so much. (Did not see these humans are also corruption enemies) What's wrong with this guy?!
+- Yuob: They're corrupted. They became preman that threats the street.
+- Kena: (feel exposed deadzone) I see something. (Tell rot to hold each of their heart organ) Go, each of em!
+- Yuob: Okay?
+- Kena: (shield), (pulse)!!
+- corruption cleared!!
+- Gerwata: (eyes opened)!!???... (stand up)
+- all also stand up!!
+- Gerwata: (What am I doing all this time?!)?!... (look Kena)???..... (nope.. no expose me, run!)!!!
+- all run
+- Yuob: They finally regreted. Great job.
+- Kena: Oh..
+- Yuob: And good for you be scared, just because your staff got taken. Violence is never option today for this type of corruption. Please do not battery. Hit.. them, yeah.
+- Kena: Ugh..
+- Yuob: Don't be sad. It's okay, sinih kakek peluk (hug Kena).
+- Kena: (hug & cry)...
+- Yuob: You know, it's a mental game. It's a different power, beyond just a spiritual. ... (done).
+- Kena: (release).
+- .
+- .
+- https://youtu.be/3wMxBgdw580?si=XGKU_D3LU3Gwmxmv
+- Fairwatch. Fairphone smart watch. Tiniest repairable smart watch. Can be disassembled like mechanical watch, by watch repairmen.
+- FreeRTOS
+- https://youtu.be/E0c4rNX1plk?si=up528wNJJGzQAcKS
+- https://youtube.com/shorts/np7TfGTeubc?si=xzwojxwHfckOxkZG
+- https://youtu.be/uguTB06gRjw?si=S1jMyhg0B8p9yHUB
+- https://youtube.com/shorts/nIVxIJ7ko4M?si=Qti3-wyYOlH5_peb
+- https://youtube.com/shorts/QiSpSPyW27g?si=x9p648gpaveVNUAO
+- https://thecomputerclan.com/pebble/
+- https://rebble.io/howto/
+- https://youtu.be/VazSXksga2E?si=wLHdRX9GaLkrlLZ3
+- https://youtu.be/SRx8JkxzIO8?si=3Jw0nnMZ0yYsaAsb
+- https://youtu.be/el20WfnOX6U?si=VU96saP1bGWTNlAV
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2891057675
+- https://youtube.com/shorts/Fn6NmU6Rv-g?si=KgF6-Hk4DpHk5Kgm
+- https://youtube.com/shorts/dBqZ3LzNv2M?si=Talq2q6ZX-9unsv8
+- https://support.fairphone.com/hc/en-us/articles/115001041206
+- pls meme
+- (Censored) Pretend to be nice
+- And don't say anything
+- .
+- https://drive.google.com/file/d/1H2rfnJNT839w16AY6h06dwcB8h2lQchs/view?usp=drivesdk this
+- https://www.tumblr.com/artresus/611372257938456576/untitled1020200301125724png?source=share
+- https://rule34.xxx/index.php?page=post&s=view&id=7957163
+- DC Bloons
+- Prehiktariup
+- https://twitter.com/kagawayusaku/status/1698930059355344973?s=19
+- https://twitter.com/helloNikoheart/status/1699046452566065635?t=-sHONigAW-k1Yc1oyQXaMA&s=19 scam alert
+- https://twitter.com/thatfreakingcat/status/1699090524857159756?t=-sHONigAW-k1Yc1oyQXaMA&s=19
+- https://twitter.com/helloNikoheart/status/1699115819999846776?t=-sHONigAW-k1Yc1oyQXaMA&s=19
+- https://twitter.com/helloNikoheart/status/1698971499552453020?t=-sHONigAW-k1Yc1oyQXaMA&s=19
+- https://twitter.com/AkikoAtakodo/status/1698989615712256239?t=kDWZ7QsegBbHmEG1GIHd0g&s=19
+- https://twitter.com/Spaicy_Project/status/1698941030333075621?t=kDWZ7QsegBbHmEG1GIHd0g&s=19
+- https://twitter.com/pepperer823/status/1697639568181219389?t=xWNRXFzbC7h3_9rAOLgAuA&s=19
+- https://twitter.com/mikyuuchuu/status/1697293177244496351?t=xWNRXFzbC7h3_9rAOLgAuA&s=19
+- https://www.youtube.com/live/xo9qdIOzayU?si=iZw3Bgxi-oDUpJWg
+- https://blenderartists.org/t/red-panda-muppet-3d-model/1480738 no dl? You should disallow that supposedly. What do you think?
+- https://youtu.be/41Gv-zzICIQ?si=akwI0ruKI3i0rupb
+- https://www.youtube.com/live/NSzJhzfDtS4?si=dBprIbXZazcpiYnF
+- https://www.youtube.com/live/ZiP1l7jlIIA?si=xgm4LwmDoHuQwhIF apple wwdc!!!! 12 september!!
+- https://youtu.be/3yLFqXfZzGM?si=Lcn8u6ola1-xzq3y
+- https://youtu.be/XGUFje7ybK4?si=OGX5kb24Ga3GdRBa
+- https://youtube.com/shorts/BnLnkOcpggQ?si=vrcBizqBIOe2dz48
+- https://youtube.com/shorts/ApobZ8OsvmI?si=Sb2KlMyweuiIc6HJ
+- https://youtube.com/shorts/uoZ1BWgAn20?si=OfcsC68diCB__Ccg
+- https://youtube.com/shorts/Gf_wk57O0CE?si=7VmOMfZfKAKEemuB
+- https://youtu.be/OZaEDbMJB84?si=lWvA7YPPGBeT4Eta
+- https://youtu.be/ZbaptQh2AM4?si=_FjtUD0AAOn8fCNO
+- https://youtube.com/shorts/mCNO6bduVsM?si=x1UfPfr5uzyLj3NF
+- The Cursed Chest level: Unbox the iPhone. Well it's obvious.
+- Kena, Fern, Yuob, and Brent encapsulate themselves in a battle chamber. All iPhones are cursed which curse happen to activate in Surreal Meme Blender world.
+- Fern: Well it's here. (Draw sword)
+- Yuob: Go ahead, Kena. (Draw mind)
+- Brent: (Draw riffle)
+- Kena: (hesitant)....., (klok)!
+- iPhone unboxes. Close again. Curse first! Bunch of bloons!
+- Fern: FIGHT!! (Excitedly use his fast swipe skill)
+- Everyone fight those bloons. The managed it before 60 second.
+- Fern: Hoof okay.
+- Kena: Is that all?
+- Brent: LOOK OUT!!
+- Camo Bloon: (stab Kena's upper middle left back with his spear)!!!
+- Fern: NOO!!
+- Kena: (suprised)!?!?!?... (felt air is shrinking in her chest, try to grab them back in) Hhhhh!!!
+- Fern: (use resurrection beam wear gun to Kena)!!!
+- Yuob: (finger snap to deflate that Camo)!!
+- Fern: (apply cure)!!....
+- Spear automatically unstabs, hole is closing...... Done, Kena is now healthy again like nothing happened.
+- Kena: (confused what just happened | Did I went to Spirit realm?!?! && hold her chest to feel | I am whaa)?????!?!!!!?....
+- Brent: (approach Kena)...., (right hand pat Kena's left shoulder) Hey. Don't go to Spirit world. Not stuck in it, not at all.
+- Kena: (look down) (look Brent) (look down) (look brent)??.. ugh...... What just..
+- Yuob: (hug Kena)!!
+- Kena: (tear drops, cry traumatized because she could've died leaving families to Spirit Realm to be alongside the dead vainly)....
+- Yuob: It's okay...
+- Fern: I'm sorry. We didn't expect Camo in an iPhone box this one.
+- Yuob: Situ, dah jangan nangis. Dah, buka iPhone. Dah bersih..
+- Kena: (off the hug & open iPhone anyway while still mentally disturbed), (klok)!
+- iPhone opens elegantly like usual. iPhone flies rotating. Zoot towards Kena's right hand!!
+- Yuob: Okay. Coba nyalain.
+- Kena press hold big power button until Apple logo shows up. Wait. It's on, and it's on OOBE.
+- Kena: Should I go?
+- Yuob: Up to you? Mind you this entire brand currently is Corrupted just so you know.
+- Kena afraid. Put back iPhone to table. Yeah just leave it there.
+- Kena: (take out Fairphone)... Honestly I like the metal feel. But uh.. alas.
+- Yuob: Yeah.
+- .
+- How did Camo there? Camo was sitting in the corner whole this time after the Cursed Chest battle started. When all bloons dead, and agents think it's finished, Camo goes to action. Draw spear behind this beautiful Asian lady he never seen the type before. Aim at her heart. Stab!!! And the rest goes.
+- .
+- .
+- https://youtu.be/3B70VAPKHW4?si=n0e9P_kEQkH4Uxlv 
+- https://youtu.be/3B70VAPKHW4?si=n0e9P_kEQkH4Uxlv aaa
+- https://youtu.be/tPZIWRPHOro?si=sD1Dm7pq9PxwEJAe Capybara song
+- John Sual. A Brazillian descend US guy. Anthro Capybara.
+- https://youtu.be/qX-F5y6eswg?si=GoNCidKm093PZaAK
+- https://youtube.com/shorts/UPMTy4Ssbto?si=cOb8NlbPyuSnoQ2H
+- https://twitter.com/GatorsDaily/status/1699190567027020209?s=20
+- https://youtube.com/shorts/dn8Ycj7Hzvo?si=WCqYbx8y7OkNqwwq
+- https://youtu.be/IhJmm2t5Hwg?si=1-tPadKf2G8KG7Kn
+- https://youtu.be/I5-Fd7Dowt0?si=Motn_gpWpOtWKqVN
+- Yuob: Well let me tell you. Our world is more toxic than yours imagine. It's... expanded. More types, beyond physical and Spirituals. Complicated.
+- https://youtu.be/i2gNx4-REIA?si=C4j-wa18xki31MxT daddy chill. What the hell is even that?!
+- https://youtu.be/YfUFGP9c0P4?si=dtVSXliL8lofY9wg
+- https://youtu.be/aTw37Ekvn-w?si=UPotA1mx0HnkS-cU
+- https://youtube.com/shorts/Rc_WKqWblkQ?si=pdUm3prqnpnkTNvr
+- https://youtube.com/shorts/ad4QqGXvR8E?si=N8depkrtr49cTGrd
+- https://youtu.be/jhhZD665J9A?si=fz8cxdfSZpeS9XN_
+- https://youtu.be/vfS6TcsnIKk?si=GleM0ciuW4JZiXj0
+- https://youtu.be/4fY99IbHTOo?si=3nr0aFMz9yPcrUJA
+- https://youtube.com/shorts/gBPupUy1NtY?si=ynBosyXHslSKy_HP
+- https://youtu.be/r_VCjE49Hu4?si=Opq7t0C3Djfa4HnG
+- https://youtu.be/7-zKiRYG6pI?si=GZh-P9lsdYvjZdci
+- Back to Kena cardiophilia. Ending, look back and forth her left eye up close filled with vessel inside eye detail and sky with tadpoles. Her inside has marching 24/7.
+- https://youtu.be/tyusEkThQAY?si=srbq_U6WpI1QClHk
+- https://youtu.be/xo6EjWyHBgY?si=Kk6rZht3Aw6Z7NpA
+- https://youtu.be/zioapBni-lQ?si=YOVPbRAK9Sad6o46
+- https://youtu.be/Xo1FsCjUXyQ?si=pkE3TV9ja5-TcjXI
+- https://youtube.com/shorts/niGVgIDuBnE?si=fuyP-ApdanYPfP4v
+- https://youtu.be/Jf4GBKmU8Ww?si=Tet7ELeNq7WJAGl-
+- https://youtu.be/0eH4Hii4B8I?si=ljtpvDg_GiEXEnjb
+- https://youtube.com/shorts/xHnkZn_L48U?si=jM-oQL8Fqw416E58
+- https://youtube.com/shorts/-TiLVwFo3v0?si=orfdpqISpbrxObS1
+- https://youtube.com/shorts/7vgfJD4TdHE?si=UeU5lkpg20F6yIqx
+- https://youtube.com/shorts/XT5rYguaPSg?si=uHjxLY9z0sN1een_
+- https://youtu.be/ZnEgvGPMRXA?si=nckZuFatHj3EOxk-
+- https://youtu.be/Oe8lU18G89Q?si=52qsIqy_h6188iHr
+- https://youtube.com/shorts/XW5utyXOegs?si=RxwmgLFVGmIc6qJM
+- https://youtube.com/shorts/-uWexw6IguA?si=bx_WcNQqzCNKHCt2
+- https://youtu.be/Axfs4NR5Z10?si=965p9bcflfipHo1I
+- https://youtu.be/Jnrl20ikGxo?si=MVo2Lun0EY7PIAiD
+- https://youtu.be/Jnrl20ikGxo?si=8J8Qh6bAruFr43yq
+- https://youtu.be/iYN-owlLrMo?si=FpeLERe1Z2q7cPpm
+- https://youtu.be/iFfOcv4IPWY?si=d8XRismjMHQykFwq boomim sales
+- https://youtu.be/K5zzrjKrCdc?si=ZJ07Qs_VdnVZxTY8 hhgreg
+- https://youtube.com/playlist?list=PL2q7lYKnqhg6op57Fu6k5j_cva-RX2EP4&si=PE4Do_T2BhRWwQ4v hhhanukah
+- https://youtu.be/bFAWmBkKE2M?si=QQ_KG9wJdgNVvIiy
+- https://youtu.be/15iv5ulNLtE?si=xGT5-K7zQKucOsyW
+- https://youtu.be/AEPf1qR01PA?si=TZh9YOy12GoNdJ48
+- https://youtu.be/O9aDhH1QpYk?si=fehyOy5VNAbG7fuR
+- https://youtu.be/thE5ylE9wS0?si=Czijoq5YTy-Fzj91
+- https://youtube.com/shorts/Px_hwkgb2pM?si=FVPqLaec5EMIAJHx
+- https://youtube.com/shorts/qWwCCYdkKvU?si=uVwvYJAgyUVn06uF
+- https://youtube.com/shorts/NbEA6QFnN00?si=TfZyY8KpOozqKpYR
+- https://youtube.com/shorts/cSJ9WoCFWI8?si=zsJsYe4_a_C-Bdss
+- https://youtu.be/rg1b5x__lZI?si=U2m5mQJGUy76UGuv
+- https://youtu.be/hivvgS-dx6k?si=ujZfOh4-3fyvGI_B
+- https://youtube.com/shorts/69H5T1x33Ak?si=nJJc8tfrTFSDnEsp
+- https://youtube.com/shorts/uhbHEx2WgMI?si=peatsunX9fiAsq2x
+- https://youtu.be/-OxsoPxc8SY?si=SpL_yVvEcF9rTUBf
+- https://youtu.be/Fypi6dAJB8E?si=dtZ3j_R4aAtD1zuu
+- https://youtu.be/zetyAAm9YPI?si=Bpzj9TlNoQT6uHsm
+- https://youtu.be/LB1GyroUdoI?si=uJvAzZ1QkPFFLoCQ
+- https://youtu.be/wFDhspw_LIs?si=BmAowAjR3qp0gid4
+- https://youtu.be/LB1GyroUdoI?si=yQmiBiczQJl3u5SX yellow rainbow friend
+- https://youtu.be/8-Gxjtd6Wp4?si=icoL67JynrUPFH_J revelation song
+- https://youtube.com/shorts/j3OOgKdwmIk?si=vX-5QguUU7P0NDHU happy happy haaaaaa
+- https://youtube.com/shorts/iaGQ4CA9cA0?si=shtPp6VwC997l275
+- https://youtube.com/shorts/5Jg0C6KExog?si=5wxPYjsuQqAk0XqB
+- https://youtu.be/uVi4vyKZz9Y?si=g2KRzZ-76fHzblb5 happy 3 many lang
+- https://youtube.com/shorts/gBeN3KgB8Hs?si=GYVLIccpfedMckKl
+- https://youtu.be/0HC08NgsPqA?si=22HFtIiPCtKOpyJF
+- https://youtu.be/8a4wk3JK6JU?si=xne4PHJk3xydtzJ2
+- https://youtu.be/boyddl0ylfE?si=hbePOwmIrXT-OlLM Revelation song
+- https://youtu.be/rGgX_oqdib4?si=XoWe1G86Mxn0bI8u aand lyric
+- https://youtu.be/dM6rPhCHNDk?si=eSNCJz_lqqUjlOre
+- https://youtube.com/shorts/j9xmoJ6-wx4?si=MRhSww1KlDZoAyha
+- https://youtu.be/-P28LKWTzrI?si=RN5WzaKchWiL01HJ
+- https://youtu.be/0FrhDJa3XCM?si=ZJRy3xbx7trQIBP-
+- https://youtu.be/e8IJ5qZTurU?si=jMT3o2hePre49pvd
+- https://youtube.com/shorts/9-9p9oc7Wks?si=uQ8wIifnWWOHOREW
+- https://youtu.be/bujO--ZaSrY?si=De2p12no2IjMybmc
+- https://youtube.com/shorts/uXsU_vT2U-U?si=5wWO29exy34YNdF_
+- https://youtube.com/shorts/2Ki-x67bK8M?si=D0-H-h81djSOk8k2
+- https://youtu.be/Yuash09xW1g?si=zvIGofbFJEAly_bS
+- https://youtu.be/C1EzA23MBBM?si=XKKpoS6-ZUic11rQ
+- Soys are more packed in these Tempe.
+- Ydkj sponsor: Empty Tempe. Tempe without soy, just the shrooms.
+- https://youtube.com/shorts/HSlCG-VuLOg?si=g-Ubrzi4mJCIYNVC
+- https://youtube.com/shorts/lwVCr0ruQAM?si=nCjfchbTT3Ei8Bkl
+- https://youtu.be/ECUQMLjjK7c?si=PqbwFyhQEyXqIPgk
+- https://youtu.be/8DBhTXM_Br4?si=XzU-ZBK5k-tAX9WQ
+- BTD map Intestine. Inside someone's intestine. If any of the bloon leak over anus, an earrape explosion sound will play.
+- https://youtu.be/4iaO4MQOaVI?si=uT_jvKldA5dPHJ9o explodos
+- https://youtu.be/ZOvz9DYk2_M?si=3YPOErm31MfFBfGX
+- https://youtu.be/sFeC2yeOibg?si=hDDZxQz-8bUCZlsS time bomb
+- https://youtube.com/shorts/HVKkO1mzoHU?si=YONpg0_HEJ8kpJE4
+- https://youtube.com/shorts/UzbLa0oVnho?si=k-oXVdD33vpCSk-e
+- https://youtu.be/_RdFRFt6hws?si=BmZFDxPvgYQr0xLP
+- https://youtube.com/shorts/n3NMS3WaujE?si=BZ8gAK5wgr3H0fkc
+- https://youtube.com/shorts/qfMtMBa9grE?si=K_AxRc6AMdUf3wCd
+- https://youtu.be/-lLKylrZhT4?si=0VlqHkJWOoWV1NRk tactical nuke incoming
+- https://youtu.be/zxPQ9HE0gcQ?si=1-Io-7YeaqiOoOUg
+- https://youtu.be/Tty3Al1xa9Y?si=F6yLM0bb7rGh29NV
+- https://youtu.be/dg44qupcAkk?si=jXUN14VRKEbVJu-B all goofy ah 2023
+- https://youtu.be/8kYUQYETHwk?si=zGhguIzxoTZzG6od oah
+- Proet fart
+- https://youtu.be/8kYUQYETHwk?si=B0fOzebRASHZ66Xs
+- https://youtu.be/U8RFOeXZRtU?si=HEjQ2sz6ub38Wswq fart kick drum
+- https://youtube.com/shorts/aq5IcnXAPkQ?si=gf4Zwotn_72tAQnq proot room
+- https://youtu.be/Q_9VMaX61nI?si=gx2nsmrVEG_JMkuB toot reverb
+- https://youtu.be/BQvGUyxbxWc?si=JWfgas-iqFlpTKAK all pipes
+- https://youtu.be/Tgka4Ho7-NY?si=I6Mj50lq0TgsMpuz
+- https://youtu.be/JOYTvxhVc60?si=ivLb9yAwIVd_MKu4
+- https://youtu.be/Ekow10Kbo9w?si=kMr3PZyNnVjZN4SP
+- https://youtu.be/KXM4NNhiGqI?si=IaJ-2OQjrXhyf4gp
+- https://youtu.be/M1TgX_8M97k?si=Sc61NVUShOjnTC-G
+- https://youtu.be/zWSdit919E0?si=KVMAnE8WDnuCrX9w
+- https://youtu.be/y2a5MlxRyc8?si=nHsFkuo-XRWoddIj
+- https://youtu.be/NoPgWZRDM5U?si=w7wTno15eizZp6R1
+- https://youtu.be/JAW9y7mosq0?si=x_UZYhFyIEfVHGeg goofy ah memes
+- https://youtu.be/YrVXGBnjI4g?si=YRdVeZDmb87M7lDg
+- https://youtu.be/1zj5mj1DHOk?si=2RmgfmJaV057X7R8
+- https://youtube.com/shorts/4whdi-dxaE8?si=FOU3h6uccfpeNvFa rate farts
+- https://youtu.be/XhhKeizkD0c?si=QoEskTII4UUBTouZ different fart
+- https://youtu.be/KiObryYy7fY?si=Xt7y1e4efDWlVVu-
+- https://youtu.be/g5o1fPuXKc4?si=h50u-X0W5Q3TtSUi
+- https://youtu.be/KLVzYtTeNS8?si=fJGYhnJ7xFybvQsR you're insecure
+- https://youtu.be/QJO3ROT-A4E?si=g_fxoeAj-wdUEmjN What makes you beautiful
+- https://youtu.be/AsmHz9JCU4M?si=5Z6IrgWn56Taat1J
+- https://youtu.be/psuRGfAaju4?si=cmTEqPD5t55NNpnq
+- https://youtu.be/rXat6oxUia0?si=uysUZVPOW3rbSQh3
+- https://youtu.be/1n1qFLcM_Hc?si=8U2_Wms2qsw4H-6p
+- https://youtu.be/hwyKY8dhnkE?si=XDQt5vZr98YGRx_Q
+- https://youtu.be/sJcGo5pIoSA?si=JfLXQZ3rsDTg6iyz wateva madness
+- https://youtu.be/RyuvUkrYl8Q?si=Mw4FZhQ9ckIhFgwA
+- https://youtu.be/OnsUjJUVjHo?si=PPmqyBY3Ih_aqUmS
+- https://youtu.be/VcNAtD9qLGI?si=UgMMTHMgWXqTAEj_
+- https://youtu.be/KOOhPfMbuIQ?si=RugDehhhNh1gDmiF half alive still feel
+- https://youtu.be/nHNPT_QPQ_U?si=NzmxiO0cBtL44uCR half alive creature
+- https://youtu.be/hXzPxBhhmY8?si=8Sl2cs9JInaq0q4B
+- https://youtu.be/ABS-mlep5rY?si=aernC-IEwTfx0yRj
+- https://youtu.be/EfZQmIdZQKY?si=ZnPqtYZQwADjzB_l
+- https://youtu.be/guJjB-onUEM?si=6BxSOxb1-AgEoAUO
+- https://youtu.be/mezHXskkkPI?si=Mjr4k66yxCU-F3Du
+- https://youtube.com/shorts/Ce5BgM5wmck?si=2DuMxpIw77nsOLi5
+- https://youtu.be/guJjB-onUEM?si=BeSmVLDjLy8HLUcX
+- https://youtu.be/m_ySlJSObQ0?si=F6KuR5_ZTlrY3dF9
+- https://youtube.com/shorts/59XsxOS5fg4?si=eG7dcU21ykDRw8wh
+- https://youtube.com/shorts/LWAJxv92BK0?si=FeiZLDnoiMFKpqdc
+- Kena go to mall. Unfortunately no pet allowed.
+- Kena tell Rots to hide while she's there.
+- Kena walked into the mall.
+- Alas, a spirit zapper hit those Rots, revealing them
+- Busted.
+- Security captured her
+- Kena in security office. Interogate.
+- I Made Duaba: We never seen cat like this before. Where did you get them from?
+- ..
+- Duaba: HEH, Jawab!!
+- Kena: Uh.. around the village 
+- Yuob: (impolitely enter barge in)!! Hey, uh sorry I was late.
+- Brutus Sambia: Sir, sorry you cannot
+- Yuob: (finger snap) click!
+- all security fell sleep in place
+- Yuob: Kena, you okay?
+- Kena: Not okay.
+- Yuob: Yeah, sorry. Shouldn't get you to this mall before doing this. Follow me!
+- Yuob & Kena got into this familiar corruption glitch zone on the other security office room
+- Kena: (tell) Right there!, (shield), (pulse)!!
+- Zapper system down!
+- Yuob: Blend in!
+- Dono (ground floor): Alert, zapper system down, spirits coming up. ... hello?
+- Yuob: (confirmed QRIS) Okay there you go.
+- Tabas: Sudah ya pak, (give quest perfume) Terima kasih silahkan datang kembali
+- Yuob: Let's go!
+- Ruto (ground floor) : What's going on? Who did this?! (Open phone to see CCTV)... (everyone in basement slept) WHAT?!?!?
+- Spirit pet wreak havoc and pissed around the mall
+- Dono: (entire mall walls are full of piss) oh my Brahma..
+- Kena: (managed to shot all targets before time runs out)!! Yess!!
+- Yuob: Alright, Tizo! (Teleport him & Kena to ticket counter), (point to the quest perfume) That one.
+- Tizo is token in Timezone arcade
+- Retorik: Congratulations. You have enough tickets. (Give perfume) enjoy your prize
+- Dono: Semuanya, cari siapa penyebabnya!
+- Brutus: (desperate wakeup) Orang berjubah biru dan cewek cantik pegang tongkat, (fell asleep)!!
+- Dono: (got it) 😠😠😠😠😠...
+- Tino (cashier medicine store): Kau ini siapa? Kalian mengacau di mall ini!
+- Yuob & Kena yikes'd.... look each other, look back to clerk
+- Yuob: (finger snap)! (Hypnotize to transaction anyways)
+- Tino: (check out the perfume)..., (generate QRIS)!
+- Yuob: (scan) C'mon... (confirm), (pin), (enter)!
+- Tino: (like robot) terima kasih, silahkan datang
+- Yuob & Kena left store and back to basement
+- Tino: ...kembali.
+- Yuob & Kena entered the Sedan. Sedan is Hyundai IONIQ 6
+- Fern: You done?
+- Yuob: Go!!!
+- Fern: (drive to ticket checkout)!!
+- luckily the mall checkout is full AI
+- TicketBot: Silahkan scan tiket..
+- Fern: (put paper to scanner), (tap tolls card)!, (appear teleporter ahead), 
+- TicketBot: Terima Kasih, selamat jalan 😊.
+- Fern: (barge to Teleport)!!
+- go back to Club Bali again safely yey!
+- See they did not rob any store. Why the hell would you hate pets?
+- https://youtube.com/shorts/rhcG7u6i1tA?si=_P70xj1lGkMsl9ON
+- https://youtube.com/shorts/TBdkTJnk5QM?si=8EiydKS5p6TgxETp
+- https://youtube.com/shorts/EfCA7ntdHZU?si=SAh0JRzmQGl927WA
+- https://youtube.com/shorts/O_ocV3gHT3c?si=HPHCmMOxj50qugge
+- https://youtube.com/shorts/-1iYJsgPbuY?si=CTSNW4R1OHFgDLtY
+- https://youtube.com/shorts/N0tzJOsYUYA?si=4V69OqPvAlKjJpbp
+- https://youtu.be/jfnqpGDfi3w?si=GL0XXZrwuCzpLYHf
+- https://youtu.be/Is_wu0VRIqQ?si=rzcty3Pfks6wLLPE
+- https://youtube.com/shorts/uN0gosgY_dE?si=NK5Skxv3ehrdXgHC
+- https://youtube.com/shorts/hAR0sZ7xt0w?si=HFSBFwjKhHp1ugp1
+- https://youtube.com/shorts/cf08C-OD_oE?si=Sz3YXeG41DEq499e
+- https://youtube.com/shorts/HKV58N5vIzs?si=ZdD1VSyVqp1r7XNk
+- https://youtube.com/shorts/c41xVAJQGQ4?si=uQxkUUBh7DCqo0he
+- https://youtu.be/tKKz3EF1hYw?si=ZLoiJg-_ijxXbPX0
+- https://youtu.be/BEdBrUYmlxo?si=80JcEAw5kBXOZDop
+- https://youtu.be/0mVZBlVhjrQ?si=kjhmWw4HMmFPNQJu
+- Black bloons vs. Laser gun
+- https://www.youtube.com/live/jCEmPm_QKO0?si=WNtl9rX3yuE5rOc5
+- https://youtu.be/7Dq4g3_xggA?si=w6IX9zUH_tHEGU4X
+- https://youtube.com/shorts/LzM0Q7iKdsI?si=dhwtwrQuHmLcQPDF
+- https://youtube.com/shorts/4jZLgSA4KBA?si=xO5THvWLG9QYKWPy
+- https://youtu.be/lc_fzVcRm14?si=SeO-nVmk3bPKGyHz
+- https://youtube.com/shorts/AHlAZxJlNoc?si=Ip2kCVqEZzBVjIvA
+- Simon too many colors. Full 128 keyboard simon says. Memorize more than 4 color sequence
+- https://youtube.com/shorts/mXjDnENKKWc?si=cvpyFM8wnN562OQG
+- https://youtu.be/ZEX_0uATdFI?si=ekn-K4Gah1KnVCRP
+- https://youtu.be/pBkqRayX5tk?si=d9V2F8ju1i_kjlnN
+- https://youtu.be/chU2Dle8Zqk?si=zWGrDzCZxPiFLjiQ here is Buleleng. A village in Bali where most or all are deaf.
+- Pls sign language of this for Library mode.
+- https://youtu.be/4T-pbnh34Jg?si=F7lpEBtCf_mUvKjH
+- https://youtu.be/BUsRDZoWc2o?si=dHiX_pZxpQDVkjno and Bengkala.
+- https://youtu.be/2Fv6cKFPDRg?si=cMJtSiuhYr4d0zcz yes
+- https://youtube.com/shorts/JPoiWoId0vU?si=9OtuIwLEQy2T2AwP yes
+- Great big story https://youtu.be/PwXBwV1YJ-s?si=amOXVjm76_0yF5vR yey
+- https://youtube.com/shorts/pDWeiTJzav0?si=arBy5OmR9wkcrqTE
+- https://youtu.be/raHLFg6bkNI?si=sBDePofgbzcKLJqO
+- https://youtu.be/3YqPKLZF_WU?si=yq4GlaszvuMf4HZi coldplay my universe
+- https://youtu.be/QLWKsugJPy4?si=hQaDxayk3sQaru3_
+- https://youtu.be/qWNQUvIk954?si=hdbUhShNNne2FtX6 rick astley never gonna stop
+- https://youtu.be/TrJ1Sdq_paM?si=rvbKaXB9wJ_AvZxE
+- https://youtube.com/shorts/7YEz5Pfz74Q?si=_p9NhlVtyb1Aa_lS
+- https://www.youtube.com/live/7oUj1NWuXNU?si=K97o_TnAyE9XWoK5
+- Kena bowling with her bomb ability!
+- bomb stick. Trigger. Duar!!! Strike!!
+- Tuas: You cheater!!
+- https://youtu.be/ijrJs2U0LKY?si=QF6B81mMGR6cuz2I
+- https://youtu.be/l4jOpr8iPmU?si=vluXtHlN7eF-HhSw
+- Brent: (internally) Tuhan buat uang ini berdarah karena orang ini memungut biaya padahal Erick perintahkan toilet pom bensin gratis. (external) (give cash) fine here.
+- In his house
+- Dean Hadi: Hidih, ya Allah!!! Duitnya berdarah!!
+- .
+- .
+- PC building game
+- .
+- eeeee, aaaaaaah
+- .
+- https://youtu.be/GPpOgDtRE_4?si=TIRyw3r0ouSx10D9
+- https://youtu.be/ijrJs2U0LKY?si=4ZvC4UC335UwGb-s
+- https://youtube.com/shorts/fHdhd7nisXQ?si=9gPRfj0gjFIF3x-B
+- https://youtube.com/shorts/8WdyRrSUZyE?si=GeLoi6bmlWtbYCX1
+- https://youtube.com/shorts/gfJdcNXUUMk?si=uZJtRWLdLd2g-iKy
+- https://youtube.com/shorts/pOlg3rvW1KM?si=LioI2MF_DDH4rC2d
+- https://youtube.com/shorts/RQAaZ0kQvu0?si=QoofxJT8sv8G3r4a
+- https://youtube.com/shorts/rhoM8Dt22Vc?si=XydfkIsxVlqrJgvp
+- https://youtube.com/shorts/T7D3M75dKik?si=J3CiQRk77yERF-4Z
+- https://youtube.com/shorts/K8bsu2ttkfQ?si=FNlBsiglw50CxA91
+- https://youtube.com/shorts/bjKC4edXhM8?si=1ZbmTAeFxgPkDnBQ
+- https://youtube.com/shorts/Ae8bjQpZSFU?si=S2Okd7XHllaCW8j2
+- https://youtube.com/shorts/0IP6K_grMQk?si=8mcdplqTccdgllOR
+- https://youtube.com/shorts/0IP6K_grMQk?si=8mcdplqTccdgllOR
+- https://youtube.com/shorts/fZDCMNgpKIw?si=OTjaXQuCUsPdzOcD oh oppa gangnam style.
+- https://youtu.be/mp_nd4S9dKs?si=MOZHhcAs0df3zod_ I think this is the song? YeS!!! Mina mintip
+- https://youtu.be/zjs2-m_ctcY?si=w9xWRIQXNPlhA3hN mona mintip mv
+- https://youtu.be/6dH-rq1ITeY?si=DPDSQ7twlnjd-n0r
+- https://youtube.com/shorts/qMuLE3GvAxQ?si=bXJ9WHaElatfZNEg
+- https://youtube.com/shorts/hd3VAnVr07Q?si=GfihskW69Os93BLY
+- https://youtube.com/shorts/1H3APKaNcHU?si=sQ04pYOQZ6Cm4iSR
+- https://youtube.com/shorts/7Q5TKzW1uEw?si=Rre0w2DgEdPnoHLq
+- https://youtube.com/shorts/3BlZhKPrsco?si=3BWPytLdRkrnnia0
+- https://youtube.com/shorts/VuSE0pzp_Jw?si=7KV7kdSG4RdjRWlb
+- https://youtube.com/shorts/PnqJhHwVvqo?si=xexFKX_ZCMo6hWOp
+- https://youtube.com/shorts/LWREqp4mMHM?si=Atfbof1j42OctZag
+- https://youtu.be/jhqUt4vyHK8?si=m0IpOivZjDRdO4jK armageddon
+- https://youtube.com/source/jhqUt4vyHK8/shorts?si=T07QxRx1Zj8v0Jai armageddon
+- https://youtube.com/shorts/VaECrmQ3F9E?si=5ua3bwOOmsqZOiFe
+- https://youtube.com/shorts/HumEIgICJho?si=2RvBxh-Alj_CYNn_
+- https://youtube.com/shorts/bDBdsEJaDMk?si=5bygnufUT9CHKvNm
+- https://youtu.be/xMgk-2gclF0?si=ixrSwANfY79ZKXaq hookef
+- https://youtube.com/shorts/ork2WPz-stU?si=3-eHs9lhjCJJllqu
+- https://youtube.com/shorts/JmLKHw91yzM?si=dycDRPZXo_RX2MKX
+- https://youtu.be/w3EYKuFGJ5c?si=pmAdYdZ9Yrg03cnm
+- https://youtu.be/z44vKCClYfI?si=Fccab0LtHtz2Jpzl
+- https://youtube.com/shorts/rr3gIWz0Lis?si=9jDEg8WQ5MtFYF5E
+- https://youtube.com/shorts/r8-rampoof8?si=ezeRg0tzlsMWh3F5
+- https://youtube.com/shorts/u9QAN7EMedo?si=IwyikYWr8nTF5eFw
+- https://youtube.com/shorts/dxuJmxvnf-0?si=5AfM6WIKtr3gaiw7
+- https://youtube.com/shorts/B17qv_eJ8zU?si=w557tjT5NUi8seXu
+- https://youtube.com/shorts/8pWNZm-uhVg?si=CWyfFqGHORZZ9FH_
+- https://youtu.be/QpQjDCWgs-U?si=I4TCMcSWyqBpPwNa
+- https://youtu.be/QpQjDCWgs-U?si=I4TCMcSWyqBpPwNa mina mintip en transliterate lyric
+- https://youtu.be/12KsRtcmwIM?si=DKRD3fVU_bjI9Ngz
+- https://youtube.com/shorts/OEJYlZGc4jA?si=qJWz-_kj-30upRp_
+- https://youtu.be/tA378NjsugI?si=-ZI1xj6K7eJl5g81 mina mintip sound
+- https://youtu.be/VIwwE1QrsWw?si=lTARNhwRBa0Ie-3B
+- https://youtube.com/shorts/r3oBsrNr8a8?si=FH3851zfdkQraMyr
+- https://youtube.com/shorts/pNSPMRzS92Q?si=5SIF64Rwsnvbvs-M
+- https://youtube.com/shorts/rzgAH19mPU0?si=HvSmezNOJF1frv2i
+- https://youtube.com/shorts/o-ksbDYucdw?si=qonflZCYjv01vjzG
+- https://youtube.com/shorts/6FIu0mDl5RI?si=9UhobbtL0TTCU-e5
+- https://youtu.be/ZQltf5pGJXg?si=35wWV9PPZQ4AHx6T
+- https://youtu.be/GyYXImOwxQk?si=Qq4qeiVYv8Q3-l_X du pa pa
+- https://youtube.com/shorts/27WIjw_oZ4M?si=YeFXhw4494MvKg05
+- https://youtu.be/X5r9llgHfqo?si=i-NRZ5m7DfgXTPCT
+- https://youtu.be/o2nBYSzdl5M?si=Im8Wa7G2W-TvhSoJ mina mintip
+- https://youtu.be/8zwl9g9JB-U?si=xb18El83kot07KlI
+- https://youtu.be/PaV_cFsA3CI?si=fhAktxzy2O-HpCxj
+- https://youtube.com/shorts/oxfQDMAXsAQ?si=lEJx2Kxrp_3BUoQo
+- https://youtube.com/shorts/k3tfUX3H-V8?si=xN3nusCHROIhsNla
+- https://youtube.com/shorts/-lQlr1m7FQU?si=flBHI4gCNGIUGsOl
+- https://youtube.com/shorts/tGCYSrJMLXw?si=2QzV0Pcn0k9LlgZ3
+- https://youtube.com/shorts/23ckaDCWYlQ?si=nDFX27sr7zQFyGzJ
+- https://youtube.com/@MinChicken?si=oLVqNQlzXpGOj4zM min chicken minchicken
+- https://youtube.com/shorts/5M3wQR242r0?si=tS2Np113rusPbmYc
+- https://youtube.com/shorts/7rjUX_PDJO4?si=7wodN5FAyoeq_R5d
+- https://youtube.com/shorts/h9Ndq47bfoA?si=Fb6c7eZzooK3CV32
+- https://youtube.com/shorts/PdH8ejw-zJs?si=kQhgN5R7YmLSQPVJ
+- https://youtube.com/shorts/01Ib-IhGZoU?si=WGJ2YTmWSt40p-a3
+- https://youtube.com/shorts/RX_DdpEMc1w?si=0Jw4rLq1NZ9Ph8BF
+- https://youtube.com/source/sjFWYuqsmc8/shorts?si=CckGvrujCF7KM9_y you gotta move
+- https://youtube.com/shorts/mkjkePSDw_A?si=-wat4uiAVixYzoNz
+- https://youtube.com/shorts/VSt82ez35Cc?si=NInK-t-fsDe_U5Ja
+- https://youtu.be/0jjGGnxkfH4?si=qAG-FEI2WdmJUHkO
+- https://youtube.com/shorts/AW5kwx9Bsdc?si=HgK8ox8lKH09Mm_P bombastic side eye. Criminal offensive side eye
+- https://youtu.be/-5Ek82Nf3ck?si=MCSil39AgMIkvmms
+- https://youtube.com/shorts/OV9LudFA_nc?si=pLd4BwIIsPnGhBBW
+- https://youtube.com/shorts/i4MZx7qu8Yg?si=IV1wgNeGSzOwrMjz
+- https://youtu.be/TpWtV0Ltrdk?si=1YB18XSvsKkUxPND
+- https://youtube.com/shorts/RQEpsYUS54k?si=-nNT1qirvICuTb93
+- https://youtube.com/shorts/IowiG3z4eRU?si=9i95ER7WV-9xCmg_
+- https://youtu.be/EN1PhAE8FrA?si=7gtauXNCM5Xg1b2w
+- https://youtu.be/vBpQ1SlfVtU?si=NFmxIfuEWDEmbHeo
+- https://www.youtube.com/watch?v=DZ4mGt-EWV8
+- https://www.youtube.com/watch?v=epLxZvkzXbg
+- http://www.vhlab.umn.edu/atlas/external-images/anterior/index.shtml
+- https://youtu.be/ZljkOzJ5YSY?si=pg9vdiain0Bqb90X
+- https://youtube.com/shorts/XGlmQ-2WkcE?si=zSl418M2GK3blS5s
+- https://www.youtube.com/watch?v=h45UrpBsCKI
+- https://youtu.be/n1zWvNaONdY?si=sezR1o5-nYp51Ze7
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2885613711
+- https://youtu.be/Z7TpTEj-9dk?si=XyVR0xs-xpMOgbMd
+- https://twitter.com/cram960/status/1699421677912744120?t=-xMJtlLMlPxuJjPNod7H2Q&s=19
+- https://twitter.com/mizuha_oishiina/status/1699366607397761386?t=-xMJtlLMlPxuJjPNod7H2Q&s=19
+- https://youtu.be/tGXV-ZRwcUM?si=-f4hMK4VrqgUOtM-
+- https://youtube.com/shorts/P_QupcYc51M?si=9LkQnBwMqFAYkQp4
+- https://youtube.com/shorts/hRBZPEB7twA?si=agLBZck9eBPdg3KQ
+- https://youtu.be/kT97ZpbuySY?si=beesFU42ehcBBEDL
+- https://www.newgrounds.com/audio/listen/1243051
+- https://youtube.com/shorts/r7EGznKsSKE?si=pZAJjsJVQDX_5y3P
+- https://youtube.com/shorts/Z8waLMMXT-E?si=3UPpASSedDGdRLFR
+- https://youtube.com/shorts/DK8tkyTNt3s?si=n4dfUtAi74U_-z5O
+- https://youtube.com/shorts/0YS5XvGCgVQ?si=9i-sSuV4yieHlY0A
+- https://youtube.com/shorts/GmBp5HaeMx4?si=6TiMZf43WN6AM4Su
+- https://youtube.com/shorts/V7dEX_rUjmI?si=pX8dSRx7TbwTv5IH
+- https://youtube.com/shorts/SUcScIa-QB8?si=3QZ7N3LEPPo0Kx_g
+- https://youtube.com/shorts/fJxS-LP1oKc?si=xfb9JFvYaNeELtmv
+- https://youtube.com/shorts/HZ2jmW3_ytA?si=25nJY7Bp8ks1x2Ab
+- https://youtu.be/EADskOsaYOE?si=4gZH7j6AmxGVq1fd
+- In game Mic. A special virtual mic designed for the game. It acts as a filter for your TV broadcasting / live streming the game purpose. It can adapt its FX according to your character location such as ones with no FX to full of reverbs, so the talk is immersive, like an exclusive spirit you are, talking which only your or specific amount of characters can hear. When you connect source mic, you have it now. There is another mic which is the virtual mic you can set to your OBS, and have gamers witness that you became the spirit that talks alot and earrape alot. The mic can also mute automatically in certain cutscene if you want to allow gamers who can't access the game various reason, to listen to what they say, without disturbance. Let the spoiler be if the game is not accessible to everyone.
+- .
+- .
+- Cybersecurity rogue student.
+- Barod: What the hell are you doing? We are pentesters. Not crackers.
+- Ton Huramim had been suspended for 21 days for hacking and broke the password setting of his own old sister PC for personal reason.
+- Some friends liked it, but other classmate hated it.
+- Still. Unethical hacking is a sin. There is always better ways.
+- .
+- .
+- Ha
+- https://youtu.be/bX-Ik_4YjdE?si=Sva41kc_ji7I5BrC apaan tuh kuis dangdut
+- https://youtu.be/nFKsbjWExME?si=GpHX9LWWwNN7h8ym pls find his signature line!
+- https://youtube.com/shorts/G_BYcNKmG90?si=RUE0BoxH4YBf7Jls
+- https://youtube.com/shorts/jmIhyqyIqBw?si=upugqfOjI-6U3MVe origin????
+- https://youtu.be/HTsJoL3bj6A?si=hqb29TtyWcUSDz1s is this it?? Yes!!
+- https://youtu.be/bMflg88S970?si=LnwK_ZBGO_Sqn4_Y
+- https://youtube.com/shorts/oFbS8IAyAqA?si=tJYiDYEmjcqsul9o
+- https://youtu.be/KcogYgDNpJ0?si=h6pHGhSIRZMB9Tk_
+- https://youtu.be/BPgKSQkxrnc?si=SHAYVXiV9vNwlfAp
+- https://youtu.be/WmmfgbNcBXQ?si=dePgq9XmOs1HoZaa
+- https://youtube.com/shorts/3cMJE3lMRL4?si=OsJBbWMfnWEb1WjZ push pull no difference
+- https://youtube.com/shorts/9zvdMLfYFkM?si=aEBYMhyUw_D2Dh7u
+- https://youtube.com/shorts/HqNcgLskf3w?si=hKy4qxabyblI6Wr8
+- https://youtube.com/shorts/Cz7WN2hi0Fw?si=rNU0Mo20ftadqShD
+- https://youtube.com/shorts/W4kMysqWqag?si=8F3mfpwqJO4_Y3BF
+- https://youtube.com/shorts/vtK5O4sild4?si=TPkFm7iLW_QaLO-n
+- https://youtube.com/shorts/Rt5i37Af1fY?si=eQvOSZ6trfGsET_P
+- https://youtube.com/shorts/PA1vVgMkPh4?si=jkXQH4Z0x8hVaq1P
+- https://youtube.com/shorts/g5f97n2tN7E?si=g1M5zUaN1-P772fF
+- DIY Headphone by Ploopy pls!!!!
+- https://youtube.com/shorts/3XBvEiXt_TA?si=tH11j2hVVU7dD6Ml
+- https://youtu.be/iRqybzrk1CM?si=cIMOk32QBG-rNXMk
+- https://github.com/ploopyco/headphones
+- https://ploopy.co/headphones/
+- https://github.com/ploopyco/headphones-toolbox/releases/latest
+- Done
+- https://youtu.be/Y5Mjmm9g22I?si=T8ZwL9tkDINYcHHK
+- https://youtube.com/shorts/Qfshre1N458?si=5KHNxWotUbEY5Rr9
+- https://youtu.be/5Jk6bxszRyo?si=VdEZp61xUUCt75ob
+- https://youtu.be/HCb7OCb7lBA?si=yO4ca1ltx8Os4g5k
+- https://youtu.be/Ds25IlSvXmY?si=Lz5useyQ5cjAnOVD
+- https://youtu.be/KYsna6OI1Ts?si=6VHGngUnmYodv6VV
+- Obervative progress. Look personally to customer what maintenance the machine needed and make revision that needed stronger and in goal parts.
+- https://youtu.be/KYsna6OI1Ts?si=6VHGngUnmYodv6VV
+- https://youtu.be/eYVNZgnQ8gE?si=uZZ8y7Wusyhdcq5u
+- https://youtu.be/8EF65aBFejc?si=yL1zbLz0FlNqUszi
+- https://youtu.be/tInMOXHeM_o?si=xqMuQx6y13wKRkDo
+- https://youtu.be/osxTSDUZBKA?si=lt6VBDR4Bc6qjczK
+- https://youtu.be/Q1df6Cl7EsE?si=hv3OIpp2IB1-MdsP
+- in long time after. Kena died of age.
+- Kena handovers her staff to daughter. Now she is the one that continues the Spirit Guiding journey. Kena tired, sit on chair.
+- A hooded spirit come before her eyes.
+- Kusuma: Kena. Is that?
+- Kena: Yeah. .. (realize that Blue Hooded guy) Whoah?!
+- Kusuma: Don't panic. (Open door to Spirit realm).
+- Kena: (saw her dad), Dad?! (Run as fast she never before)!!!
+- Kena and parents hug. Kena miss dad and mom so much.
+- Daughter try follow. Collider in door. Door closes.
+- Yuob: (saw what just happened)?????, (hat fist on chest signifying deep condolences)
+- Spirit Realm
+- Kena: Dad. Where have you been?!
+- So on.
+- Dad: Hey. I have something show you. Come!
+- Chariot bus. Parents brought Kena to this Heavenly Chariot.
+- Dad: I got invitation. It's for 3 of us!
+- Kena: Really?
+- Dad: Yes, come take a seat!
+- Kena: (pick front most left) What about there?
+- Dad: Okay! (All come sit)
+- Kena sits on left most. Followed by dad and mom. There is a philosophy regarding Hindu loves head facing left. The choice of seat is to be the leading guide as well as of course, face left.
+- Radon: ALL ABOARD!, (Slam wire to tell horses to go now)!!
+- Chariot goes.
+- Kena: Woo yipee!!
+- Chariot goes up. Brightening HDR maximum nit ah silau.
+- Yep. I brought them to Heaven! Yeeeey.... yeah.. yeah.
+- .
+- .
+- .
+- Post credit after it that
+- Hurod was building PCB for new robot
+- Hurod: (soldering DIY PCB with components)... (done now the IC slots)...., (done now to occupy those slots).... (difficulty) ugh.., (try more)...
+- Kena: (Spiritually occupy all ICs easily)!!
+- Hurod: Ah okay thank you. (Connect debug USB-C to test). .... (Realize) 🗿?!?!?!?!?!!? Wait, (look back)
+- Kena: .. 👋 Haai..
+- Hurod: Woah.. Kena?!?!.. W..what are you... I thought you're dead. (Look tablet to see if any robot accidentally turns on)... (nothing, manually check) one sec.
+- Warehouse door open!
+- Kena is sitting in the center
+- Hurod: 😐😐😐😐😐😐😐.... (close again)
+- Kena teleport to beside him.
+- Hurod: wait. (Slap Kena to test if this is solid, while look tablet to see reaction)!!!, (slap back hand), (slap again)... Huh. What do you want?
+- Kena: Oh, nothing. I'm just delivering (give business card)
+- Hurod: (take & read)..
+- Kena: This invitation.
+- Hurod: Oh. To Heaven. I wish I go to Heaven. But the only way is death. (Look up) So how do we (Kena is no longer in scene)??? (Extremely offended, because Angels do this always) Very great. Giving me stuff and leave without letting me asking question. F888 you. F888 you all. You refuse to know I hate that. (Look again).. What? (Right thumb cover this fingerprint symbol) fingerprint?
+- Heaven light door top opens
+- Hurod: (realize the Heaven door opens above him)?? (Look to the door)??? (Look front) Uh oh..
+- Hurod piped to the Heaven
+- Hurod: HUAAAAAAAAA!!!
+- Kena will Return.
+- .
+- .
+- Hurod makes robot of somebody dead. He uses this to cope the dead ones, as his mom tragically died and Dasandim could not resurrect her. He is in this time for the next story, Businesman, selling service for people to build bot that looks like and acts like died one.
+- Of course, this won't be the same. Hurod is looking for solution to encapsulate spirit to this bot.
+- This is bad idea because Spirits do not for containing in just a mere world. So God sent Kena to Hurod to invite him to Heaven, and reteach the true moving on.
+- I hate this so much. Tragic death and no resurrect.
+- Despite after Hurod understand let's say, the business still runs for other people.
+- Hurod: Rest of Spirits
+- .
+- .
+- Our purpose of acquiring business is to make them break shackles of paywall. Rekickstart until funding. When reached, now they are free forever. Angel business model yeah
+- Yey
+- Kena Corrupted. How?!?!?
+- Kena walks in the track. Bloon HP 999. Bloons TD. Pop her before she went to exit. Life 1.
+- Hey offensive idea: LGBT is corruption. This level. Clean corruption. Beat boss and see their story. Their, one person. They them. Kena accidentally she, and angers them.
+- .
+- https://youtube.com/shorts/_crHaBTJSy0?si=R7Ge6SD8P2IVExRN
+- https://youtube.com/shorts/L6m2N6a4iQs?si=XWmhbvLyBlqoOsyy
+- https://youtu.be/gggehz298L8?si=9SNkQVH185rxJvAG
+- Dimas Raharjo. Pls name Kena's husband this.
+- https://youtube.com/shorts/GbRa3IO1z1c?si=7QG4KfZIeC4an7fx
+- https://youtube.com/shorts/yrAW35zcw9s?si=LhqLitcS0xNVvPw6
+- https://youtube.com/shorts/qKud4euxHO0?si=P2J35-UOZl26qO8S
+- https://youtube.com/shorts/JMAZzhFuOc4?si=JsWIVegclXOD9-2H
+- https://youtube.com/shorts/5U_5iejB2vM?si=SQUh_55ieLzzWVSk
+- https://youtu.be/pV3QT6iVfcM?si=9KUOUbhUKvl-J3nj
+- https://www.youtube.com/live/RIR7ii5fJU0?si=lccJL8m6tv6vZ2nv
+- https://youtu.be/ownJJGNACT4?si=5kQpXXXIFAk-JQbJ
+- https://www.youtube.com/live/ywbLtPCvUIs?si=1w7usrEm6ZIaeUf0
+- https://youtube.com/shorts/W9oqhFrfR9Q?si=5px_zf7C__kEnTr_
+- https://youtube.com/shorts/ipiU1GHN32c?si=-oai-sE1mWbekYf_
+- https://youtube.com/shorts/cnh6duMVTa8?si=1DP5y-HZEq_DecX_
+- https://youtube.com/shorts/XmvwWHuDwNQ?si=RlGbd0YQ_mP-r7Kk
+- https://youtu.be/qNx8y82wm5c?si=2oQHbmm_W-g35nF7
+- https://youtu.be/OOsV74iUDWc?si=t-C4bvBuu8RLovQO
+- https://youtu.be/DjT_HtMsLUQ?si=-84tMZQCsPhCLXCO
+- https://youtu.be/iNaECPgyDss?si=CSS8YC7_LvLRDe3U
+- https://youtu.be/vMoFeaox6oc?si=uCDchEDcXnM5BY3I
+- https://betawiki.net/wiki/Windows_Core_build_16236
+- https://github.com/Empyreal96/WP-16236-Inkman-Guide
+- https://en.wikipedia.org/wiki/Chucky_(character)
+- https://youtu.be/iNaECPgyDss?si=b1LhqxQJWWxzae8c
+- https://youtu.be/Ad4wEgomkVE?si=r5hlAyVcIQ1kg1o9
+- https://youtu.be/4wRiJBFYn3A?si=lF3LtrFoHmC-mx00
+- https://youtu.be/FBRPiNhxZIY?si=gaX8Gr6LLnIIO_50
+- https://youtu.be/7E7kC8-sKFY?si=QIVdsRebnhVbJ2YA
+- https://youtube.com/shorts/W_OCHO0srMQ?si=oMxChf_vT28154ee
+- https://youtu.be/7BPbZXWyrgA?si=RRaOzEvO1Edz-pZR
+- https://youtu.be/CEtgzO-Im8w?si=LEg4ZoaJeg08Ix1T
+- https://youtu.be/d2E-kahf1bM?si=YJzcQGyZ8LJax5FV
+- https://youtu.be/13pjns-V6VI?si=7lAPdxErIz0kmxjv
+- https://youtube.com/shorts/-Ai1AqKthn4?si=OWs6Kp4L1kg4bhu1
+- Kena met Doctor Strange.
+- Pls the run and one fell
+- .
+- Kena entered the spirit realm in Ireland and witnessed a village which basically where Leprechauns manifest, breed, and live.
+- Hmmm.... 🤣🤣🤣🤣🤣🤣🤣
+- Rhythm minigame. Play Yamaha IrishEye. Kena is Piano ch. 1 & 2.
+- .
+- Yuob was one of the auto-outcasted agents that fought against VOC, Dutch colonialization in Indonesia. After VOC defeat, VEIA came back and found them again. VEIA were forcedly had to outcast Indonesian agents due to Dutch reputation drowning. Van Elektronische can't afford being bullied, since they also are Dutch, a nice Dutch.
+- .
+- https://www.tumblr.com/bronydjlove/726544357015126016?source=share
+- https://twitter.com/divergenceok/status/1699744983635612052?t=MheaHWMuFPZcohAiE-zzXQ&s=19
+- LokBlok. Lok n Blok
+- SfW
+- https://youtube.com/shorts/XI_VoP1oKvg?si=uA2qfjuu-BvXtOeA
+- https://youtu.be/YSHZ2S6TUzs?si=OXm_LtpDWg8YTich
+- https://youtu.be/XRg-KD82zLY?si=cxnMyk3Ei6zsj_6V
+- https://youtu.be/N9SSz6k9sOA?si=wksNYU42ajBPChmd
+- https://youtu.be/3YN-7ZCpa1I?si=iNNDYTU6pKP0O-0A
+- https://youtu.be/Ks4Y2YgA0CM?si=1PsCLbr-xzS6ljQK
+- https://youtu.be/AGoIJ5d4G4c?si=_hYSmV1KVdJgiApK
+- Pls build house with Lok N Blok one day.
+- https://youtu.be/AGoIJ5d4G4c?si=QodZKIjrx7GklW_w
+- IKEA build. Büthhaus. Small house for convention center. With Lok N Blok, it can be quickly assembled and disassembled once expo is finished.
+- Tabulator. A game feature. Special Navigation room which are tabs that each may consists of browser or other mini apps.
+- https://youtube.com/shorts/wx_LOx9zYFQ?si=bT2EPCY0F0XePLa7
+- https://youtu.be/u7vdccW7994
+- https://youtube.com/shorts/gyt8F3WpZbw?si=inO2uTp3Y5ve_P_r
+- https://youtu.be/9vdkqeshXJM?si=j32CNBVCsRkikwN4 pls Secret Garden You Raise me up
+- https://youtu.be/EJqME9LQCRw?si=CUDQk-LraSuAQ-d_ yes.
+- .
+- .
+- Ben tower selected. EYees??
+- https://youtube.com/shorts/A1s7tJhT_Ts?si=96TqmBBn8gbV3Mw3
+- https://youtube.com/shorts/bRAcy3nCIwg?si=vXt3hHpYQrBPL6ln
+- https://youtube.com/shorts/lylaitbZB70?si=OlxqgErwzJApZAue
+- Toshi: You don't realize. Your Kaorfa only serve himself. You think that he tried remove harrassment, but after that fails, he turn to harrass, (staff aim to agents & shot them with Joel's nasty doing)
+- I listed people name that does not share 3D model download link. Toshi thinks I do this to tell gamers to avoid them. In the reality, it's inevitable and all we can do is.. pretend to be nice to them. That `Pretend to be nice` interests Toshi & he abused iy.
+- Fern: You a8888888! How dare you cancel culture!
+- Toshi: I am not! This is his current doing
+- Fern: (grab Yuob's right hand and make right hand finger snap)!!
+- Toshi: (weakens) What the?... (sleep mimirimi)....
+- Yuob: Buddy. (Right hand hold his head & send info telepathically) I know Kaorfa has a bad side. Don't you remember deities most of them do also have bad sides? And you gotta make note, Kaorfa is not a god. Just a regular Joel he is. Like you. I understand. ... he's in wrath. But he is trying his best, to not hate speech. ... wait, I think you have no idea. What I'm saying is... uh.. to uh... not treat them harshly.. yeah. You'll learn soon.
+- Fern: See! I know Kaorfa has nasty side! He's trying to conquer it to this day! He can't, but just atleast to contain it.
+- Yuob: Now wake up (finger snap)!!
+- Toshi: (awake) ugh... huh? But..
+- Fern: Listen. Look at the gamers looking at this. Say hello to camera. That black pipe there
+- Toshi: (brain still half awake) (say hello to black pipe standing there) hi...
+- Fern: This mean he let the truth. At least he doesn't cover it, or lie about it. No. Bad idea, better spill the bean before implosion like a submarine. It's let be to raise awareness... uhh.. ONE DAY!!
+- (in Blender Surreal Meme Deltarune)
+- Toshi: He's not god?
+- Fern: Noo! What were you thinking? Joel is not god!! I mean, you confused with `Son of God` meaning of his name?
+- Toshi: Yes. I just found new word.
+- Fern: Yeah. Joel is not the one, it's Jesus, very long time ago. 2000 years prior.
+- Toshi: Okay..
+- .
+- .
+- https://youtube.com/shorts/lylaitbZB70?si=GVz0rFNn3HO5gz7j
+- https://youtube.com/shorts/cBDNPooxkIE?si=aMqzotU3sR4U7zgW
+- https://youtu.be/-zE1CsM-XLE?si=iLD99jszrRRy8q0E
+- Yuob: Kena, it's okay to be angery. That's a normal human thing. Only again,
+- Look at infuriator
+- Yuob: to not over it.
+- Kena: (finally allowed to angery and excited to handle it) 😠😠😠😠....
+- 5 second later
+- Taras Ulam: (enter).. (scared jumpscare as Guim hung upside down by feet) HOAH!!
+- Guim: Heelp! It's Kena!! I just
+- Putra Nea: Kamu ngapain tadi? Kumat lagi?
+- Guim: Aku cuman..
+- .
+- .
+- .
+- https://youtube.com/shorts/BqcIOz53OtY?si=CSXvuTfmFK3iL-8A
+- Bajaj bajuri laugh
+- https://youtube.com/shorts/1x4kP6UkpOQ?si=7rs0iVnZNqldx2hA
+- https://youtube.com/shorts/ffQ5hCnyPOc?si=4xtzzQbRYpZCR73O
+- https://youtu.be/8gH96yrfsmA?si=XMZZMC9yTyU3F15c
+- Pls https://youtu.be/ObQ8Y2AEuXQ?si=BixENjg8QlmyhFcm laugh track
+- https://youtu.be/ObQ8Y2AEuXQ?si=BixENjg8QlmyhFcm yes about complete Bajaj Bajuri laugh track
+- https://youtu.be/30rBEQUm700?si=6gyXXH_c5qNgFl7t haha
+- https://youtu.be/qazjDsGDaRE?si=UcyiR99q2Mc2XGFr bajaj bajuri opening
+- https://youtu.be/Jy5lMZhkdVs?si=opNw4V_iRRIUinbT
+- https://youtu.be/gi--lq4L7T8?si=StbJlkL2OrSIaHTL
+- https://youtu.be/uRm8L9RBSaU?si=hU4Bga4qozxbyyiO
+- https://youtu.be/XVtHf6QB2C0?si=EU6zfNsrJWG8zf4t
+- https://youtu.be/xxWdcEHFK0g?si=TlzB9ADbGz6D2b5z bread fell laugh bajaj bajuri
+- https://youtu.be/oUYORcXBN6E?si=DD_M5GwPBWHjWtUJ
+- https://youtu.be/IZOb3tmD-Jw?si=wMGpO2fLT1aj_CfZ
+- https://youtu.be/IZOb3tmD-Jw?si=jhP1Bb6c1JDAUsPv
+- https://youtu.be/IZOb3tmD-Jw?si=jhP1Bb6c1JDAUsPv game `Murder`
+- https://youtube.com/shorts/UpnaG24OhVc?si=cvM9rW1GskPcT8hJ
+- https://youtube.com/shorts/XVlCY9jsEMM?si=y8k-cRNVxXUqkrNw
+- https://youtube.com/shorts/72MOxJUYmKc?si=dVBeWx6jg4LqGLaT
+- https://youtube.com/shorts/VLTJ6-8rgRg?si=8QwSIebceKn-1B7-
+- https://youtube.com/shorts/-ihb3Og53NQ?si=T8Qn9RMIFca5yccx arabic guy mistaken as praying bajaj bajuri
+- https://youtu.be/lwf4Sn-rj9E?si=IbF4aeqqZ5NQpfaF
+- https://youtu.be/u4YGm-A-LLk?si=_am7o76aNb6O5Y2H
+- https://youtube.com/shorts/FfokFOK_gTo?si=bbnbG1hsCDoe36Of
+- https://youtu.be/5ZtIchaEC7w?si=anKLeDLMZFLgZ_ld
+- https://youtube.com/shorts/jcTe7Ao1poA?si=jFyh7-3kooLsvwoL
+- https://youtube.com/shorts/la3YI-5WF8A?si=QAVRb5CV5yYB9W5y
+- https://youtu.be/ip1l1cZeF6M?si=gWLsN19-F71DHHHA
+- https://youtube.com/shorts/kzBBSAxM92s?si=Vpkk8VBNoImy7CGe tv explode
+- https://youtu.be/Q7cAsGoTbxk?si=UzavmOTAaDnM3KDS
+- https://www.pixiv.net/en/artworks/104674028
+- https://www.reddit.com/r/BocchiTheRock/comments/11gdcu5/it_fits_so_good/
+- Hyundai IONIQ 6 again. Interupt meditation.
+- Fern: (reach Sauda's right shoulder)....... (tap tap tap)! ! ! ! !
+- Sauda: (meditation interupted, wake up)..?
+- Fern: Hey. We're arrive.
+- Sauda: Oh., (come down to bottom right)..
+- Hyundai IONIQ 6 quiet.
+- https://youtu.be/bZPQgSxGKW4?si=ML80-ZcT7b87voLe emhe house explode
+- https://youtube.com/shorts/rU6Cduv6HTA?si=xVVby5Io5wXgt4GB
+- https://youtu.be/tHYJWn2jLaM?si=CvmWKqNxzn6prNTh spongebob pie explosion
+- https://youtube.com/shorts/_e4m4DjnBCE?si=AVE3RO96f-6F3fii
+- https://youtube.com/shorts/1CDfTpD8dxo?si=-ZI0i3rKkDHytiEV
+- https://youtu.be/Xe0W65s4yQ8?si=-gbHsSGvdJrVB2EQ
+- https://www.youtube.com/live/TDgC-B4N1LY?si=uG4WL_-XTyMdcGyB
+- https://youtube.com/shorts/LuR6gzGVzng?si=-0dUbSKf70o3eNIa
+- https://youtu.be/yBP69b0TQ90?si=WlMRx5Kr7xF5f5Af
+- https://youtu.be/DfoHGoQa9gk?si=bN2aMQW_WS2V3p1j
+- https://youtu.be/2y1gakl4IEw?si=6MzcISQ9XsYSFq0r
+- https://youtube.com/shorts/ha2_x5eJ1OY?si=YyE7Li5pTJZSwIc5
+- https://youtu.be/aUAh9YH1y_M?si=E5d-9tyt7rQOZ2f3
+- https://youtu.be/uiIDW_4AKW4?si=SKYR-jTgyxc32kf_
+- https://youtube.com/shorts/bBh8hOzRsoQ?si=qDpGzzRcSlddMHMG
+- https://youtube.com/shorts/S90Ubqb1tCY?si=misMGmJf3LD1S79n
+- https://youtu.be/qgbgWjuGiKg?si=V0As5MMMtJuV-Ypt
+- https://youtube.com/shorts/Mt187r0Ec9A?si=w6-hROx9Is8lLGce
+- https://youtube.com/shorts/AxiW3GRRG9A?si=UTJJ5qiSTTj2n5GM
+- https://youtu.be/4mFSm8ABZk4?si=bqtdzZtjZAXxAPRG
+- https://youtu.be/3KUmHFU51NU?si=VLzB9NFXdDqz225s
+- https://youtu.be/nGOJlHRms14?si=K60hFmHj4iV4oyPB
+- https://youtu.be/oAsrLxaAkY0?si=Hth8UwDjyp-rUfBr
+- https://youtu.be/BvmqEhyCcX0?si=tzjVNE62xm9SJXuG
+- https://youtu.be/BpDuFneXBzM?si=BlVebTL8gDbQnzQ7
+- https://youtu.be/g0sD5JUcOHY?si=eovn4gZqe082terP
+- https://youtu.be/u0iGwazuHxU?si=eIjsdNeY37GeTmft
+- https://youtu.be/9_AE21WqhU4?si=TZP-GBJ-F543vJMO
+- Spiritual RPG. Kena now can harness her root and the staff to throw bomb like RPG. Aim & press bomb & charge at the same time to Arrow bomb.
+- https://youtube.com/shorts/g-zprQ5uOwc?si=n0gW66vpUvIEnYDw
+- https://youtube.com/shorts/CnNNajTRtWU?si=6bTdMVPzuwyL4b7A
+- https://youtu.be/g5G2pnAB-rY?si=gOyTcQ9D7phahdGq
+- https://youtube.com/shorts/WCX8zvFLdBc?si=NIyr10L5TkJ_j74Y
+- https://youtu.be/qfZ6yLeC1OI?si=RyzL9gnP-NP4xqJ6
+- https://youtube.com/shorts/Ctm1gB9D9zE?si=x1J9_rFfoCpzsL2C
+- https://youtu.be/NmgOWKQj5-Y?si=dddQ3iB-WiAkjIwb
+- https://youtu.be/Z_zYog_JOHg?si=Y74iJlD0Vaz5gruC cheat do not my child
+- https://youtu.be/jj-2a4-ZIek?si=2iQpTD81xk5et7YO
+- https://youtube.com/shorts/TrnTan5okeg?si=OWsMtUeLnyT90kIm
+- https://youtube.com/shorts/Gbv8qegAmKg?si=W6OglnMgzVjK6-AF
+- https://youtube.com/shorts/h8GRXtctvO0?si=PvuWUPc3j53XdlTS
+- https://youtu.be/tN6Wcec57hc?si=lQoe_FYq1CD_Jwr9
+- https://youtube.com/shorts/hPYWOCWIZTc?si=Vn7iXaL_ZsiDlo0G
+- https://youtu.be/r7DqccP1Q_4?si=TqEAfnQ7d_EUFRyu
+- https://youtube.com/shorts/xl6Ekk-mp98?si=KZ0d-aBwPIZHpe6j
+- https://youtube.com/shorts/G9e2Pk86JVU?si=Rm4hT3a4PpdCeqqS ajarin dong puh sepuh
+- https://youtu.be/uJvCVw1yONQ?si=h-wGFnhwbucX1Vwn
+- https://youtu.be/Pd28wyf2Pv8?si=k1z6s9b-6cRXqgrD
+- https://youtu.be/Dp1XSOelV6g?si=xxZyTHdgHHAoAzyw
+- https://youtu.be/Dp1XSOelV6g?si=xxZyTHdgHHAoAzyw
+- https://youtu.be/ejHsqDica0c?si=G8EDS379N8FagSZo
+- https://youtu.be/8WZ29sCt_Bg?si=7sGDsCXzJlel-dOA
+- Fern: Yu foto dulu!
+- all agents assemble for photo
+- Fern: (quick tripod)!, (mount camera), okey, siap2!, (join assembly), satu, dua, manggiiiiis,
+- All pose theirs
+- Fern: (shutter)!!
+- cekrek!
+- Shot with Sony Alpha 7 Mark 8
+- https://youtu.be/xwu6FUr14ww?si=pJufyMFhXCWZ8IY7
+- https://youtube.com/shorts/kL3fbsY7tCQ?si=7OIjnfl6wMpbq1JV
+- The Rots are pieces of 1 Rot god. Rot god is a giant cat. Toshi went upset and slain her, broken into pieces which each of these a cute little Rots.
+- The explosion from the slaying killed 3 important people.
+- https://youtu.be/He8TDzfsf8w?si=igKuXlaBVRcTVlLt
+- https://youtu.be/1Q8XvB943bE?si=kJVmZUcIuLzadcLQ texture dl
+- https://youtu.be/7i1BsC6Yr_k?si=7LZacn5ZOO_enDxG
+- https://youtu.be/adBqwKLyZj4?si=VGSNhtmfeDCktaK-
+- https://youtu.be/2OumPuMsd5o?si=TUeep_jhNRs4ntmV
+- https://youtube.com/shorts/JdPhTGnzR0Q?si=mmaxNaMgOD3aDDbr
+- https://youtube.com/shorts/Cjxi1VdrdGI?si=CljhlaVRl9iOK5Qp
+- https://youtube.com/shorts/UlwE0DC99_4?si=xT9wHi4LMINbIR6t
+- https://youtu.be/tVLb1ChrrY4?si=uKugGIZSt1C5tpFJ
+- https://youtu.be/XPhBpuQwoFM?si=-j7Q0r-jLPXehuuW
+- https://youtu.be/F60d-HEty28?si=u2G8C_zzAFTwQKcd
+- https://youtube.com/shorts/S5KyabVCA0I?si=__RW1a8ojkrLH5xK
+- https://youtu.be/q_fdhl_R-g8?si=nuFEKqafdFY5oteN
+- https://youtu.be/4lf3aTy_R1E?si=lhLN-M_6n9GzU4b9
+- https://youtu.be/4lf3aTy_R1E?si=niGTd0jbPEQCRm_Y
+- https://youtu.be/QJUloEtngcI?si=cRY338qyHH-1drzw
+- https://youtu.be/RbTbOPtyHNI?si=x3ur-2HZVa40otZf
+- https://youtube.com/shorts/cMeIy7ryLBM?si=Gha2Yeq3OQX00FYv
+- https://youtube.com/shorts/cMeIy7ryLBM?si=Gha2Yeq3OQX00FYv
+- https://youtu.be/t7VqRGeVO0Y?si=-Rxd9Nzp5D2GYSar
+- https://youtu.be/O1LVMsRa784?si=R-FJMzWEXD-r3c4Z
+- https://youtu.be/4emzDaZsAmM?si=g1ATmDAhEoDss-e2
+- https://youtu.be/f_a-coHu084?si=9MBZza_LrCHT9wyV
+- https://youtu.be/BJvoaBeqVm0?si=OR0Ox5ILgfxT9zmc
+- https://youtu.be/LP09puZwrhU?si=gUKHytwgVefUUjIp
+- https://youtu.be/u5Lv_HXICpo?si=nuenZve3ec75hWuB
+- https://youtu.be/Lb_co8VB4CI?si=xaPqSImil1rN8_kH
+- https://youtu.be/QLWKsugJPy4?si=FBTPZScW5Nsq5Lf2
+- https://youtu.be/Ux0O7H274h8?si=ti3-wLXHPf67yYpZ
+- https://youtu.be/vQpUV--2Jao?si=BRt2FVvX_oj3TuB2
+- https://youtube.com/shorts/1V-zi8MDsn8?si=SV5BFCTd8-4qvqmW never back never what
+- https://youtu.be/JhgElhBRsW8?si=HkfLj8TRMp-rrcIm never give up!!
+- https://youtu.be/WbMrwnMFxJ0?si=p3kFpGFbwo3GSHlo
+- https://youtu.be/_Cws_woVZRk?si=N7WKHkncYFYr43mD
+- https://youtu.be/Y3WsIQFnUiM?si=Sgj-jnawT6Gtz_QU
+- https://youtu.be/wZkMdi3XBhw?si=zp5OaVoJ0LH8f9s7
+- Platstation 
+- https://youtu.be/wZkMdi3XBhw?si=zp5OaVoJ0LH8f9s7 playstation historically
+- https://youtu.be/ljNwNljXBxc?si=CTwK8NyVDq61kO3x
+- https://youtube.com/shorts/EMMuOInyQUs?si=ErOa-dJXqJCxh21S
+- https://youtube.com/shorts/GXOsZoeKif0?si=3Sy8eoIW96VOVSPd
+- https://youtube.com/shorts/YI8g3zg6pnE?si=j09_D4t1oiP7V561
+- https://youtu.be/O3geHvtiqdg?si=i4D5U-LKebdhVS78
+- https://youtube.com/shorts/2oa5WCUpwD8?si=KrtFocLhbG7TTk_W
+- https://youtu.be/S15FVwbHEqo?si=cwGgwmObRNJ-uhjv
+- https://dortania.github.io/OpenCore-Install-Guide/
+- https://github.com/itsmattkc/OpenCore-SL3-BigSur
+- https://youtube.com/shorts/yyhqesBTsIQ?si=EOaQkaqsy8WOSuFH
+- https://youtube.com/shorts/qEgfDOtDFQw?si=jKHhItqO7e02bYLA
+- https://youtube.com/shorts/tbGgyCTXJW4?si=uukljiU0mtAFHRvK
+- https://youtu.be/-pzFhXJEoFA?si=CxbEo23O3xmuX-_J
+- https://youtu.be/cKMsW7Sw31w?si=iUXZkokb9lYvxNRP
+- https://youtube.com/shorts/8GPJJLKnlMs?si=fLm2LbmrdxzfI01C
+- https://youtube.com/shorts/pGaL39CX7dY?si=mOHjpPLsiGV4vJ-y
+- https://youtube.com/shorts/-hYzIeuaxdw?si=X7kCPPWBItlAgKM6
+- https://youtube.com/shorts/l0FthPKlReY?si=iY5xawlICQ0FDDnh
+- https://youtube.com/shorts/HOy28j7CCl8?si=1b_fGXQamguo_QcF
+- https://youtube.com/shorts/U2XsgzDq2sQ?si=d7guI_jWKIjf_RaH
+- https://youtube.com/shorts/rdYiXVp_33E?si=fDgCreBF2U08VaAc
+- https://youtube.com/shorts/dAfb4OjoLdA?si=IL7FalkmyRUWDUnw
+- https://youtube.com/shorts/9fQvJcRPJcs?si=j4Pb5VsBD8Lhwezy insert cash or select payment type
+- https://youtu.be/yghqX0USeI8?si=HX2s8lzpCogw7ax0
+- https://youtube.com/shorts/dy51Q-rhjgY?si=h6nJefE7PQtLk_6U
+- https://youtu.be/88AH2wb-G1w?si=IKahCW8SJCD9P7UL
+- https://youtube.com/shorts/b2556UwmN0k?si=3-mpsiqqh5cdGhfo
+- https://youtu.be/HYJXglUTlL4?si=Tpv9TWLdrVEhTQTk
+- https://youtu.be/vY1OBX6eMlE?si=bV4J1H43-eYAne9S
+- https://youtu.be/LxS2znGdJi8?si=yRL9V-XR82ewLhpL
+- https://youtu.be/5B-Xn-7Ybik?si=qMWU7peXrnoiVDH3
+- https://youtu.be/coZ76LrK6aI?si=hC4TeuEoL_eoJtJw
+- https://youtube.com/shorts/PkqBS8Us854?si=JiuMq2etu3P54iIP
+- https://youtube.com/shorts/Z4ml3RyLtXg?si=SpF7hhHgKvsJwFvo
+- https://youtu.be/tJb0RFR1YY0?si=-IhgOigC9VNVTSnF
+- https://youtube.com/shorts/KCxVbJ-QJDU?si=q_kY1xYrTvBTVxrS
+- https://youtube.com/shorts/UdXMKr1xiCk?si=VVm31FDAx2vQKDMN
+- https://youtube.com/shorts/4r9fAqGObFU?si=G-GfLCyWJ8NZpB25
+- https://youtube.com/shorts/FjkaPKo3Cjk?si=rdvThF-tP6DWS1lc
+- https://youtu.be/hRSMJGs0YMg?si=foId9xrAvQJnj2DD
+- https://youtu.be/n44DgwqnjxQ?si=N75AUCh2Xdo3A7_a
+- https://youtu.be/POwTaVZ_CA0?si=1Ew8IsnuaCHZ8l-P
+- https://youtube.com/shorts/a3XQn8moHkg?si=e976GBNk6Z66LJMv
+- https://youtube.com/shorts/d6PgzbO3PdA?si=lsFFIhnxuL35hMCz
+- https://github.com/JohnnyHowe/com.jonathonoh.roadgeneration
+- https://twitter.com/daikyto9/status/1698854523366727869?s=20
+- https://twitter.com/hanagatana/status/1692635867100438989?s=20
+- https://youtube.com/shorts/vlaboDEbMiI?si=r34IOtKg1MI0GvAg
+- https://youtube.com/shorts/kFZbFLI5n6o?si=k0GMS1jza-2_ZF_a
+- Pls inspire Dimas Raharjo from Killer Bean yess.
+- https://git.tartarus.org/?p=simon/putty.git
+- https://putty.org/
+- https://youtu.be/xWqySypXZQA?si=toHb49BWv-vfEera
+- https://youtube.com/shorts/WRB33TiKAik?si=Tw9QihCPwp811Fua
+- https://youtube.com/shorts/nY7AjIwdT5E?si=SxnBMGgQma6ucJkz
+- https://youtube.com/source/hQ0WM6HLnGA/shorts?si=tkfM3EzgfYtCbthA what no dude
+- https://youtube.com/shorts/hQ0WM6HLnGA?si=CPAxGjG_MoZr8I_v what no dude!!!
+- https://youtu.be/1iN2KwYBYQo?si=vFTZ0NVQkdM0Ribz
+- https://youtu.be/E9RTZM1PxOw?si=qDgiXkB9gHWLZNLP
+- https://youtu.be/nT25UuzzUJU?si=FTmpo8o-aXea2v0X
+- https://youtu.be/nCiUuBx06kg?si=iP0F-DP_RDAkyaV9
+- https://youtu.be/VJAd-xatSPs?si=il0iMvo-645Bcdrb
+- https://youtu.be/JUL_y2rXX-I?si=-C6drv-bbg0aFtAw
+- https://youtu.be/81J_avJ_GUg?si=4FaErtTSb0WarsPC
+- https://youtu.be/xri-3RB3Yq0?si=xvven3bl8E00xAaG
+- https://youtube.com/shorts/kpC8SLQ3wg4?si=UdUzlE4O0yzoIORP
+- https://youtube.com/shorts/wAQyHqm9STo?si=ZZwIuUcK7qqKGee4
+- https://youtube.com/shorts/wAQyHqm9STo?si=ZZwIuUcK7qqKGee4 ship symbol
+- https://youtube.com/shorts/1g4AuZL4oB0?si=RvHIZrCeLXT8IWDG
+- https://youtube.com/shorts/DGHITqjZVqk?si=McffO0pFjjFvtjcX
+- https://youtube.com/shorts/ghmDUT9OZFk?si=aBdbp-dn6j8vX8xG
+- https://youtube.com/shorts/kdc80LaUN6U?si=_rwVRKBGehlwrvo6
+- https://youtube.com/source/Or-5iaZN-pQ/shorts?si=zyo01iYVtP5SE8Rj eh salah tunggu
+- https://youtube.com/shorts/Or-5iaZN-pQ?si=vwCNgP2wrwgCmISn eh
+- https://youtu.be/7xkj4XqaynU?si=SntJGml7yEa1AU-c crow finger
+- https://youtu.be/Gli6X-rxQNc?si=jTy-NOOqC4TH4fEs
+- https://pastebin.com/kHSs4UR7
+- https://youtu.be/vlBcHk04wqM?si=XB1dJ3iaM8m2XgZJ
+- https://youtu.be/FNgjPFlxDIg?si=UktFko67G9Ahq6Bt
+- https://youtube.com/shorts/TeNCkiTgg8o?si=uM5JShGiNZi2TyEd
+- https://youtu.be/uK8ius0yFAg?si=pGUfCa95EsWnGgrz
+- https://youtu.be/hRbnK4cDXPY?si=vLg4AJ_4Xb0dVksi
+- https://youtu.be/wjny4u5THpU?si=o3PTxmOzcufqr794
+- https://youtu.be/rW1cg3hDdc4?si=hzfBxr81b099r_8W
+- https://youtu.be/wjDaUFdKjR4?si=lYZFIn9Ox-JEPKRt
+- https://youtube.com/shorts/W6UvFFm2TSY?si=9vpfk2Oa8-A5OgKI
+- https://youtube.com/shorts/3DxlxAhT97U?si=jOxBpGIkqGve6QvU
+- https://youtu.be/hFi5KdIR4lE?si=5gzUNWg-7BPxnLKP
+- https://youtu.be/Uh2Q49XGaq0?si=8H_Dad6wAp-zRS0O
+- https://youtu.be/WWwPqdWd3OA?si=iNnmb8iq1k99Vt5F
+- https://youtu.be/ZBcxpc-IBDg?si=kYvmQOvI_jYUVrBw
+- https://youtu.be/g9xiJCq4rHk?si=TIdXvQWrxxGKPqcd
+- https://youtu.be/bkEm0btAgBI?si=6aFG-eW83KeWiqaP
+- https://youtu.be/lw8d18vEmBc?si=TnsiHZUGiktV5ZoS
+- https://youtu.be/9BSQW_ealRs?si=mkzQZNPmJoFe6rAH
+- https://youtu.be/ZUpvAdUB07c?si=nNl0i5iASVbE-Rr6
+- https://youtube.com/shorts/QFiIxo87B6g?si=CJ_pVSRQbQaF6UVf
+- https://youtube.com/shorts/Ftb2Ahe3ixk?si=5AG7oBZFz7dr6KVr
+- https://youtube.com/shorts/IKgX6YtIqsw?si=RbCuocCCXhcxj-iu
+- https://youtube.com/shorts/s5KGNeZRlpw?si=hfu1PuGRCC9eaDIr
+- https://youtu.be/mHt1yLzHQCE?si=yrFi2m5pIAOGPRJz
+- https://youtu.be/8hLl_XXTwIU?si=3VQ7DP0lHyBlTdAK
+- https://youtu.be/W-mZAuYh-yE?si=GPPuoDUzJ83CsJjA
+- https://youtu.be/rNTf3aUByos?si=hoNyKijyhZivE-ud
+- https://youtu.be/QpwoVlYLtME?si=KXyY4DfzdgnufyY3
+- https://youtu.be/lktNXmVv6gc?si=VKvZ1dlQ_ZNMehH7
+- https://youtu.be/B7fVOW-zNQI?si=jmbbUG1rD_U9Rmao
+- https://youtu.be/RcHhAIX8FFM?si=7vbaaiVW2xwqnBX-
+- https://youtu.be/umjs9drKx7g?si=oqsEwJcoCC39f3Gj
+- https://youtu.be/f2SWTWd8xTk?si=5u8B9WvjqTPZ0T5Y
+- https://youtu.be/dWqNgzZwVJQ?si=vzSI76O4tIgR5XDI
+- https://youtu.be/4292ivX53DQ?si=x1zJHPHGUyGCXsG1 echo spongebob disapoint
+- https://youtube.com/shorts/k-3psb3LWro?si=Sfr8OsmsvK6qq7A1
+- https://youtube.com/shorts/XVSA4ekEPAM?si=ryvZoYBTDEjf0-n1
+- https://youtube.com/shorts/ce_Sg5avY2U?si=VRhGDOotZ6gAoOYC
+- https://youtube.com/shorts/18k4DKaWS4E?si=dO-f_FCRCl9hrkDx
+- https://youtu.be/Men0TtZUbmQ?si=pqvhoY-rdAaHSLf-
+- https://www.verum-audio.com/apology
+- https://youtu.be/4JPLlBvwcIw?si=F3igILTR8qRJE7YA
+- https://youtu.be/aYo02ZCAhSw?si=LYgUMWs8dedViL3e
+- https://youtube.com/shorts/sJS-TB50AlQ?si=I32lJ0Svq0v5DFU4
+- https://youtu.be/kPSll4gifJg?si=8uG3x26ktRr1itZt
+- https://youtu.be/5p2jZAo6DpU?si=I4lsllik5BoRFqo3
+- https://youtu.be/Snn6o520XLw?si=dk8ww2VaXrmGH8e2
+- https://youtu.be/JwdR0hge15M?si=weKEM9kdBKM2sfM3
+- https://youtu.be/ZljkOzJ5YSY?si=-_ICw2QSZXr1xUGH
+- https://youtu.be/25mXesOV9-8?si=ArHp4c89hEZLoxgh
+- https://youtu.be/7UfuGAzw6G4?si=pQu6H8oEQmLvnOWt
+- https://youtu.be/LjJESro1HiY?si=IHHSTamREbwGfkIJ
+- https://youtu.be/EDUMg33YzRo?si=LafosXE-zSTThmUZ
+- https://youtu.be/XsVbyGbSkds?si=hmJu9F49DMUfscxd
+- https://youtu.be/4UtUItT3KPM?si=cyTcFU-4jzcCxW3j
+- The mission in Bali is only to 1 person and he is not dead unlike in original Kena game.
+- I Made Afian. A film director. His film has been pirated. He finds solution. He implement extra DRM above usual DRMs which is a Trojan. Those who dare share it, the payload runs and break everyone's PC in the network.
+- Afian's Love. His company of film. Borrow the first ever camera of the company in his headquarter. It is located in Denpasar.
+- Afian's Fear. Piracy. USB Flash drive gotten in an internet cafe / warnet. Warnet that warns gamers to not attach USB because trojan had infected this Warnet.
+- Afian's Regret. Breaking everyone's PC. Aromatherapy machine crafter from 3 perfumes which gotten in Mall.
+- The seminyak hotel she encountered is just bonus.
+- The boss fight is in Club Bali same place she stayed.
+- After fight. Afian the CEO has been free. Kena approach.
+- Afian explains. He likes making film. But alas, the publisher intentionally region lock it as it is very common in streaming service. Ultimately got pirated. His company at loss and he lost his mind, forgor his sanity, so forgor he just yes to DRM trojan. Oh sh88, that broke everyone's PC. Police arrested away from children and wife.
+- Yuob: Your children must be sad to see you away for very long time.
+- Children and wife go hug Afian.
+- Yuob: Come. (Offer right hand) Join us. Let go all things.
+- Afian accept hand with right hand.
+- The arrest bands automatically disables and unshackles themselves.
+- Open portal to Viorfa. Entire Afian family enter portal and become Viorfa camera people.
+- https://youtu.be/4UtUItT3KPM?si=4g94jlErtCclG1Zh Web Integrity / Web DRM
+- Look Kena! Now there is Corruption in our tech world. And this do not cleans your way, alas.
+- .
+- https://mobtalker.fandom.com/wiki/Talking_(Slime)
+- https://youtube.com/shorts/BvLIc_-9YBE?si=O_d_shH5pyLlglRY
+- https://youtu.be/59TID9v-DiM?si=MK86zbsYmibh_gVP
+- https://youtu.be/0hQ_WAXmbz8?si=hXGOUjfbPVbh001B
+- https://youtu.be/gwSSgy6DBPQ?si=4pqutyWdiEWxxQ4p
+- https://youtube.com/shorts/tcrWVh1tbfE?si=505BulE_rEjX_ENy
+- https://youtu.be/WbPVkSi_-FA?si=NFttcIjJEpS1om1T
+- https://youtu.be/41eokkcFagg?si=gvtT_Qq933mKjVHt
+- https://youtube.com/shorts/IUnSB25Eo3U?si=tT5qERjSpFdFaFOQ
+- https://youtube.com/shorts/IUnSB25Eo3U?si=tT5qERjSpFdFaFOQ Uhhh you could've just used GParted shipped with System Rescue CD right?
+- https://youtube.com/shorts/PrUMq10DZMg?si=erwqRQN1t7ouC8nt
+- https://youtu.be/QPcqUPqve9w?si=X-OqLWKTmFwEdDSo
+- https://youtu.be/M6EdszLzbJc?si=WaRl309uChDavFa4 crow car honk
+- https://youtu.be/GZEedmNUPIA?si=ExFAejVRgo7JpEwa
+- https://youtu.be/8t37brlchJI?si=zfE40VmXtUstrKjU
+- https://youtu.be/A3Tygot_63Q?si=nu3lWXEbUz_OGpkW
+- in a tech expo
+- ShowerBot (female): ShowerBot! Cleans your body.
+- Kena: What is this switch?
+- Doriette: Power switch..?
+- Kena: (turn off)!
+- ShowerBot: (shut down) JANGAAAAAAAaaa (reverbs)......... (speaker off)!
+- Doriette: Okay?
+- Kena: Your shower saw me naked and told me to change clothing instead of using last one.
+- Doriette: Woa, that's normal. We do that, change it, it's dirty
+- Kena: Pervert! 😠😠😠😠😠
+- Doriette: .... Thank you for your feedback. What can we do to make this better.
+- Kena: Make it blind.
+- Doriette: Alright.
+- Kena: Wait, that's too dark.
+- Doriette: That's okay, it's robot. We are looking for a better way to analyze full body without using camera. I mean, blame the engineers. I'm just salesman.
+- .
+- .
+- https://youtube.com/shorts/XQ3i8ge90Ts?si=w85tK-oLSl-qtZ_i
+- https://youtube.com/shorts/635nJSTEUy8?si=WQ03zS-lPoqsy9KB
+- https://youtube.com/shorts/IN95oCvpVC4?si=japwl7tpGRpvJ27Y
+- https://youtube.com/shorts/L9xGI4gJ8YQ?si=nT7spSY9r5UESBt-
+- https://youtube.com/shorts/NzjF8r6yBns?si=ktXrCv5nuEayoLGT
+- https://youtu.be/5CmeAYtPBlI?si=-agYJeyNhAiWzPMp
+- https://youtu.be/5CmeAYtPBlI?si=-agYJeyNhAiWzPMp
+- https://youtu.be/xB9yvcpJ1a4?si=5OrZidhuTTGsHs4v
+- https://youtu.be/KmegnJfFdXo?si=ZtESdClrUd3j0C3E
+- https://youtu.be/VwcintNT7fY?si=_tSJ2NQCIFJKNgTN
+- https://youtu.be/SJU2-1X8kHQ?si=Q_oy3P5xuNHl2eNE
+- https://youtu.be/5NXSMdUH_Cg?si=XLwzBcOXlalXLcAb
+- https://github.com/zsotroav/FOK-GYEM
+- https://youtube.com/shorts/2Ql-untHqN4?si=c9LDVIqU0b2MvI1o
+- https://youtube.com/shorts/bVWFPCjj_Dc?si=xTjBpkd69Pbmntwc
+- https://youtu.be/F8wx-h_sfR0?si=Pp_S3OTE3PFYCgLc
+- https://youtu.be/majQP1FARS4?si=osa2e_YuX0xsfSiW
+- https://youtu.be/5gilhOpXEUk?si=vjT1wQjfZe7GCIjP
+- https://youtube.com/shorts/LgT6a-T8Y5g?si=jWF0nuEQVFICsr18
+- https://youtube.com/shorts/QNueeSCbdkE?si=_Koc_w-84DV-l1hU
+- https://youtu.be/i-NW3YJwdhA?si=4hpHKjJrhSJBYDIr
+- https://youtube.com/shorts/aMYFdEnr5tk?si=MIGrvhNKuOyL7JX2
+- https://youtube.com/shorts/U2Eyek8-0k4?si=jkRwUJ1OHHNbtVdC
+- https://youtube.com/shorts/IC9RXkG9rJc?si=5Ge8DiQkj3YVqmre
+- https://youtube.com/source/kgnYX6Gge0E/shorts?si=rqUbnuckqjGn8Snm so pick me choose me love me
+- https://youtube.com/shorts/kgnYX6Gge0E?si=mZh_WUanRpM5Cy8V 🤣🤣🤣
+- https://youtube.com/shorts/8MtB_rf09Xo?si=zxF-W_aH7hYfKEl_
+- https://youtube.com/source/U5WefE1FizQ/shorts?si=U8CPjFgI9VMMiA-r i believe i can fly
+- https://youtu.be/U5WefE1FizQ?si=ZcaBcLzM7O0PDwAd ye
+- https://youtu.be/dK7kViU8-wQ?si=pyjwsDGxpxHrcrVy ha
+- https://youtu.be/kjkoueGdtuk?si=QGMbmAW5tIA3X6Tb
+- https://youtu.be/tx7LBlBhNb8?si=ne7by6jT26K0q_Yv
+- https://youtu.be/OY5eba3jxmg?si=42j4JgiVc196OHyd
+- https://youtube.com/shorts/sWQ6xfVyiZg?si=Q_xDRvZHjMpJ4Hbl
+- https://youtu.be/a4HOE5EwU_0?si=OwaIV9tBiE4oxDtF
+- https://youtube.com/shorts/v4qgDVtTdo0?si=Xwys3xR6yCwrcMVc
+- https://youtube.com/shorts/vEHNHtYcntA?si=i6p2Ow0rvGfxNBmS
+- https://youtube.com/source/JlBjpBR3VkU/shorts?si=8qNxU78NzaUvGYns go just go
+- https://youtu.be/ST5yAZx5mgs?si=HOvrxsdWhNt799H5 mv
+- https://youtu.be/3ImxcKUQYnM?si=jvLQMJytPd2jOyTP
+- https://youtube.com/shorts/Eh-L2PYJtOo?si=cB1NBDmDkhLq9u7L
+- https://youtube.com/shorts/D3OWhzQ1yao?si=OcgobSt6z2HFZYaQ math 
+- https://youtube.com/source/q4m4Q4gPeaM/shorts?si=YtkxKxGRjld7asAr math baldi
+- https://youtube.com/shorts/q4m4Q4gPeaM?si=4Hy-N1zGxS95PN9f ye
+- https://youtu.be/l2nMsF6jfZk?si=ZdAEsge7FGulYLLv
+- https://youtu.be/ZVJPcjgkC8E?si=Xum4qfrl0zmtK3Jj
+- https://youtube.com/shorts/AVkcxyh519o?si=E5c8aKIwMlr2a_so
+- https://youtube.com/shorts/H_PtAItNvsY?si=TefovLq8nIL783PQ
+- https://youtu.be/pVtrGJG9mMw?si=nb0xuoZPnCsnc0sn
+- https://youtu.be/amVP96OYfUg?si=kTE6u4n-t179em2s
+- https://youtube.com/shorts/Pc3NaL6-B2A?si=Pyoa2UOeUs1lpSkc
+- https://youtu.be/h2JMV-5zEgs?si=KixMB4Qm_oCYO6Ax your majesty, there is a second bus coming
+- https://youtu.be/lUL2vgyhsw4?si=QAvNwqkOKxy5i_Bz
+- https://youtu.be/jNTrA94FL30?si=apZ_ibRP8DNs7eCw
+- https://youtu.be/iX8fjBcUJCU?si=3mqp1gGjACIvWf7l
+- https://youtube.com/shorts/Uct2jsNfYFI?si=1uPD_iQvTVaEOako
+- https://youtube.com/shorts/foEJDfvAYEQ?si=geo31Vxb6_KCwv2F heavy scatman
+- https://youtube.com/shorts/VdYB0E59syM?si=uUrxNzrXfyuDwVxd cat scatman
+- https://youtu.be/02vDkMEdIkY?si=SAnb7xf9rtJ4xsEo scatman world
+- https://youtu.be/Hy8kmNEo1i8?si=nIOof4bzmnW7SBOd scatman
+- https://youtu.be/Hf0xEEHBlT8?si=XnfKXM_X4kXF1sst
+- https://youtube.com/shorts/uUbkvpx1GZQ?si=0vl0odIGQHdp45o_
+- https://youtu.be/hAQSDiLD3xU?si=OWNGXnVYHeYxjvlS
+- https://youtu.be/kROkgMbV8d0?si=nSsiPn15aVPTzfRw
+- https://youtu.be/FTL0QM6QrfY?si=9DuqCxTDwvXX39h6
+- https://youtu.be/QtWtl7gWBt8?si=Mty4xNiE3CcoIPhB
+- https://youtu.be/WJWN2OwKsOU?si=E_XUxx3-1vhKc8Qc
+- https://youtu.be/k9J4ij_HaAA?si=jddnvcMvsJGAaNU_
+- https://youtube.com/shorts/gQwdqXTDYCc?si=UDRCtUOTr6w4gxmz
+- https://youtu.be/Jw2aHy1E504?si=mJPEkPQstFLxDPHD
+- https://youtube.com/shorts/ejqciCeTiLg?si=nI5tqtWEzkUWqN13
+- https://youtube.com/shorts/vPnveMs8Ufc?si=fmCVVXu0phaq2h-O
+- https://youtube.com/shorts/rVuwNzRMcfo?si=DI5evgODQW8VRUMW
+- https://www.youtube.com/live/PiX0hulXh10?si=YKDjQT9bF4mucbel
+- https://youtube.com/shorts/mzd14TSwMrI?si=Y8pcaom9wykYD_6f
+- https://youtu.be/kMdZnYdLyx0?si=FRl7AIZVQVixvv8n
+- https://youtube.com/shorts/oEjTPkAkegU?si=rHivN21l_O0pbMkL
+- https://youtube.com/shorts/2AVe_PAAGuY?si=uNA9HFs00_k1Hv48
+- https://youtube.com/source/OqQxE5V_H0s/shorts?si=YKl2AJkzokhBjDUJ sure thing
+- https://youtu.be/rKcL-fMkvCo?si=aCVH6bzrHXGXUo9J sure thing
+- https://youtu.be/iMzf9RLzfQk?si=fhJULXB8MRvMt5Ys a
+- https://youtu.be/Y0KzxZN_Y-c?si=vPvLnQSGgH0ly3SD
+- https://youtube.com/shorts/Bn2JE2SVzs8?si=lIOAA6KJGaV7IBYi
+- https://youtu.be/AQ_ZOBoDk_Q?si=69Jfvldhtd13q2qs
+- https://youtube.com/shorts/VdhAo4AXXs4?si=8sb2JU8RTxdCmiJl
+- https://youtube.com/shorts/6i2DROX7nJ0?si=2ZIX4Zobdzz6wOK3
+- https://youtu.be/QwO5e01cca0?si=g6hq5d_ZwuESsRqq
+- https://youtu.be/KZeUCguD2Nw?si=eU7z2kSGVI_ay7xU
+- https://youtube.com/playlist?list=PLmz_foPfX5AtfqCK0ZadtGcwfrMsaTsbJ&si=ZaciEV7azqvBeRVo funny AI covers
+- https://youtu.be/ZHpqfFBtlqU?si=AV-8A9xYtdXMMzER
+- https://youtube.com/shorts/cF-MUrqVX0A?si=fGl18Ue7hPZgyHuH
+- https://youtube.com/shorts/Qdh6bjACFZo?si=Poc4vsvAKGRk2bDp
+- https://youtu.be/dh6C9SLw3vk?si=cgmwj3xW8sAaGFlF
+- https://youtu.be/35mNhYY3O3k?si=5YOhmzkLRqCJoZuH
+- https://youtu.be/Y8iAYJmiJx4?si=kGWmKSKKdUX-sON-
+- https://youtu.be/XdKxc81snyM?si=bRfE7yP6uA-CgfnW
+- https://youtu.be/rDmIszajSco
+- https://youtube.com/shorts/7Gq2k2-3SEM?si=dlFq3UnwxFkOqqx1
+- https://youtube.com/shorts/2Ny6FQ68VYo?si=4I8zLvENaBMwAa8u
+- https://youtube.com/shorts/_F6WWIPs968?si=tIpVbwpu7FmDQCtY
+- https://youtube.com/shorts/qBDt22h9T0w?si=3eKudnryVdywsLl5
+- https://youtube.com/shorts/7jBurAXDEV4?si=JL-5Yi-SeZ8xKJHt
+- https://youtube.com/shorts/6EK8Mh9_kL8?si=UN6e_FI3krnOFKiy
+- https://youtube.com/shorts/QpJ87gkBjlE?si=AJ6TMXFhhPbsPhnO
+- https://youtube.com/shorts/EDfx3vYoP6I?si=DAyAZmVx6sJxApy4
+- https://youtube.com/source/qFA2KhgAFTw/shorts?si=wGBbdqGJgaXhDPrh måneskin gossip
+- https://youtu.be/XrsbfrFPATs?si=Q1_SF4kt162p0Uz2
+- https://youtu.be/sUL0Z7PwanY?si=V3T9tqb8oIaORMa-
+- https://youtu.be/gr-n1ygQ6lQ?si=pRygCJz_2Lrrqfmb
+- https://youtu.be/PaV_cFsA3CI?si=-mZ2ThxGfBGkv-I_
+- https://youtube.com/shorts/TLjIjSH9ii0?si=2--TCbilFwAv89Xc
+- https://youtube.com/shorts/f7hlXeJJKFc?si=ewANLl5IfejksYTG
+- https://youtu.be/96V1VrzRHSQ?si=tcMJLrP4W4Bs2bR1
+- Kena tries to go down this Armenian Anti-Gravity Hill.
+- Kena: Okay, that's easy. (Sprint to what seemingly downhill)!!!!.............. (wait why this heavy?!).... (tired) (pant)!!!...!!!!.. What the?!....
+- Camera look from other side afar while Kena struggling..
+- Kena: (hih pant)!!!...!!!, (head vacuumed fell too tired)!!!
+- Kena heart pounding hard 190 BPM, lying frontby against the ground, gasping for air.
+- Yuob: I still can't fathom to this day.
+- Keba turn around to lie up against the sky for better gasping..
+- Kena: (feel chest), (wow my heart wants to get out!)...
+- Yuob: You don't have to run. You okay?
+- Kena: Wai wai.. (continue gasping)!!!...!!!...!!!
+- https://youtu.be/e8zYJ46PTX4?si=VfN-xJF0OCltswHf
+- https://youtube.com/shorts/LcSf5ltKji8?si=fBDUwTQxz2haEO14
+- https://youtube.com/shorts/LcSf5ltKji8?si=fBDUwTQxz2haEO14
+- https://youtube.com/shorts/stgMRTBsjmw?si=moXSBQl1VRkx7vrf
+- https://youtu.be/fGvqAVHxb9o?si=FRFO4bq8Zhov9cfj
+- https://www.youtube.com/live/2z3G24rdDlk?si=Srn4ZWvxHHZ5KR9h
+- https://youtu.be/1zVLVtezQbU?si=2CKTuuF2Yo5pymkv
+- https://youtu.be/bzy-VC1phKA?si=e8GddT_JnxQ49JI4
+- https://youtu.be/Da-5NaNtWRQ?si=W-fbuJnbTqAU8EZH
+- https://youtu.be/diXI4R8F6hE?si=bJue35KTELZ87wGM
+- https://youtu.be/88WqQqH-mA4?si=ihttrzdhdtOEQPcX
+- https://youtu.be/jgC8y0ksrRg?si=GFSh3-Hnpjfdug0D bk hulk ad
+- https://youtube.com/shorts/YlymWWHizaE?si=aVH8olHQ4XRsvXoN
+- https://youtu.be/_pkps6Cxfy4?si=wIw93l-WX6JyqSGu
+- https://youtube.com/shorts/dXyCQkvRJ30?si=JhrTCUFEZPhqxXPO
+- https://youtube.com/shorts/7xtsvGQP8qE?si=zcZ_i8lTmU-tydZW
+- https://youtube.com/shorts/XX_U3venFoI?si=51iNtz87rDXGHFrX
+- https://youtu.be/4Jdd5WfRwrw?si=O3BS0PdzNei7Ie5i
+- https://youtu.be/CYc-b6HSe98?si=uKqezPf3PxhXyY7Y
+- https://youtu.be/yJTg79hoZ4s?si=jENDz_uQhj8gLCld
+- https://youtube.com/shorts/_fh9aJX19cY?si=7yYOjmpzm-P0WWCl
+- https://linktr.ee/blake3dcake
+- https://www.patreon.com/user?u=84634487 argh you a88hole!! Why paywalling the blueprint?!?!?!?!
+- https://www.patreon.com/posts/88993999?utm_campaign=postshare_fan
+- https://youtu.be/jzl5VfE80go?si=0oalu4XTATG3fCUW
+- https://youtube.com/shorts/9-_Qc1OsR2w?si=yI9nVzgiZlhT06xa
+- https://youtube.com/shorts/QBqJRgH14Fo?si=-nRaqUt72MjmzoZw
+- https://youtu.be/InARrJsfMvk?si=OUOp2GMJzZu-x9cr
+- https://youtu.be/7tDP4PTs-_k?si=DrOOq9Q3i6vaiYaX
+- https://youtu.be/qfO9n4sGXEw?si=lLASX1zqhtwffZ8s
+- https://youtube.com/shorts/hrO1saAMjq0?si=U9Xv2TjNa2KX0aDA cat play synth
+- https://youtu.be/qQ-164qdE2M?si=Dfllwe2SGUCkPtTG
+- https://babyaud.io/transit?gclid=CjwKCAjwr_CnBhA0EiwAci5sipkYpN6RgcXajFoHSZ_wKjip95ianjIjO5Y6ad566KCoe7z9D0G95BoCRAsQAvD_BwE Yoiknkz!!! Super expensive!!! $99 for a friqing software!! Not a hardware!!!
+- Whatever. `it's research` bla bla bla, wa wa wa.
+- https://youtu.be/Iy9jEy6nLek?si=xdZIkin9HBhCtISQ
+- https://youtu.be/JUQV-l54TTY?si=1E2cqiNPh4Kk2NID 
+- I don't care a Rolls Royce costs trillion. Dude, it's a software. We don't physically nor spiritually hold it. It's ones & zeros. Wow, are musicians an idiots? I wish they weren't and we all got the same IT Expert educations.
+- https://youtu.be/EqGncBNIQfE?si=PiLAovc6dKxGJ1ga cloud collapse. This is new 2023 banger bop Andrew Huang ever composed
+- https://youtu.be/eWM2joNb9NE?si=lFIrmH4cfOUgDWkU pink fluffy unicorn
+- https://youtu.be/PP1C1lUv6Yw?si=RNA3LmbvgGfcPdoX
+- https://youtu.be/Cw2jO66pu-0?si=eISx_3gA_0r7jpVn
+- https://youtu.be/fllbajalaQ8?si=xBz9iY9GbT_uWK77
+- https://youtube.com/playlist?list=OLAK5uy_mVbl6yV2jHcqUL_gk9adtaCKWgP5kqVLI&si=Gcs13N6nNLPAE008
+- https://youtu.be/DUbemJF_3zE?si=sBKfmzTkF9JZhrTz
+- https://youtu.be/d0BA5QjQOU8?si=AzXNckl3Ysa55cVh
+- https://youtu.be/qUGXz2X0vqY?si=fJZI0EB5yE6BqyCi
+- https://youtu.be/tJBagjnt06U?si=qLP2tVteMBWNb0JU
+- https://youtu.be/y3YzQJ3yGKY?si=ByjGsAVxb7SkGfTc
+- https://youtu.be/WcQlzLikf_g?si=1ckAFbmeAml8JgBn
+- IT COST FREAKING FIVE HUNDRED (500) KANGAROO (AU) NOTES ($)!!!!
+- https://youtu.be/V6X2BHpeLww
+- https://youtu.be/RSkk5MDmfz0?si=GZ4uOQPoXvArE2qc
+- https://youtube.com/shorts/ZlGZtWkLIYw?si=gbUhIccug-f5i9KT
+- https://youtube.com/shorts/5queZJukEPI?si=N3L8-BUJmL8BBFKW
+- https://youtu.be/5ve2Kbxfv78?si=iOr_4RYRvG8ByWqW
+- https://youtube.com/shorts/Mz-Y0YOFqA0?si=Fd4-NbA9VpgZt1mk
+- https://youtu.be/tJjhObngcxI?si=2sUotZdI1Zru8mvl
+- https://youtu.be/dQGn_accI_Y?si=RhupKx3bc2YAo00A
+- https://youtu.be/-UPO5NKlr_8?si=w037yTywjzx_3Uvi
+- https://youtu.be/Sp0AoE_gnSg?si=M7BGmq71Iq3V6LJU
+- https://youtu.be/RLgGZ90OMy8?si=uVL-ig0kwlq4qaz8
+- https://youtu.be/ox_8HtAGbnY?si=ui8PErD-BolAfGPz
+- https://youtu.be/is1gAw0k_HA?si=F67o5Fz2O1s5czQe
+- https://youtu.be/TeJaFf9z4Rc?si=kA92BGLlNZYlYfmG
+- https://youtu.be/-54TgL_UxI4?si=11Ex6Dg1Z5XvvfKl
+- https://youtu.be/8V4GIoj_ev0?si=P3lhm_KmJANtssA2
+- https://youtu.be/yol_A5yLLsI?si=_z-mgc5vVKhnoxT9
+- https://youtube.com/shorts/feIfcgeBEJU?si=eCUrorSXX8d3kXgq
+- https://youtube.com/shorts/syXSkhX2F3c?si=C3nxAFXP5TI9HwiB
+- Tear sachet not at its suggested mark. Flipped even.
+- https://youtu.be/fsBP310Lcds?si=WiODDeSaiYvUZFCh
+- https://youtube.com/shorts/ihVq00j308k?si=jLw5d9r4b_ln2gv3
+- https://youtu.be/ep1sci7c6BY?si=B5mYoOmtGS2Jb0rm
+- https://youtu.be/OcBVzxTrehE?si=tXhyJolbd1JIxYaT
+- https://youtube.com/shorts/aoIHQ_VgjuA?si=-VWeGNJ0PU82HXZP
+- https://youtube.com/shorts/fzwJeMysPwI?si=nwSJF40gNM3xYq4-
+- https://youtube.com/shorts/1hl9xZfMYWg?si=CIhxVKcVR7xXjVts
+- https://youtu.be/2vs7TesU8Uc?si=mC2jeqE1orQFZm3L
+- https://youtu.be/gtT1siNBGt0?si=C3Uxhu2ixuWkmDIZ
+- https://youtu.be/UCH4k3RUnBM?si=joSlcY4q5GFZPSat
+- https://youtu.be/4I98SqgIETM?si=83e1yHbjgczlfP0c
+- https://youtu.be/jViB7n9wcBg?si=L7BJEezDScIeBlC_
+- https://youtube.com/shorts/FHZh8qVUXrQ?si=tpaJCRw415oa3fmF
+- https://youtube.com/shorts/_pYK_bmmGzg?si=jCm4h6ENmyxyrKIm
+- https://youtu.be/K4DyBUG242c?si=Xc6rfUfeLFoTp8Xf cartoon on & on
+- https://youtu.be/gCOIHW0C6wo?si=tk8g-KsN7tUeX2Nm
+- KnightOfGames
+- https://youtu.be/MIxowl5YuaQ?si=pI1i2zjEFwuyKtIE baby moonbase alpha pls download
+- https://drive.google.com/drive/folders/1lpuJUTBc23TtxLRTAKLFfCJfuJyRep5i ye
+- https://youtu.be/O_Jj5uIc15I?si=loQSoSbPVf_uRw9z & no bgm
+- .
+- https://youtube.com/shorts/v39Nag9llAg?si=b1FG-XEYLGmkruCm
+- https://youtu.be/YtmoD0NT2q4?si=2-BNrf2pVpPf5H0G
+- https://youtube.com/shorts/nbUIARJBCCU?si=vBL7WIttLIJGrqoy
+- https://youtube.com/shorts/Iwy3dQc4I28?si=wQeqVCmHVekumJgI
+- https://youtube.com/shorts/DJK3b3c3xmM?si=KnOKRyRAWfdI_9OB
+- https://youtu.be/s0lEtxrUi2s?si=iMa5Sas-aeCjJzOT
+- https://youtube.com/shorts/6kU8tRbyXYs?si=ctrnzrThMhTuoTpk
+- https://youtube.com/shorts/d9ioF56MF8I?si=9VKU9fe9ZvfL2A-o
+- https://youtu.be/TQSZRTmxmEo?feature=shared
+- https://youtu.be/7UioaRPsX_8?feature=shared
+- https://youtu.be/sqpqz-kdGE8?si=S89clcln4sBb8fbQ
+- https://youtu.be/Q-MosG7QbBM?si=HHUBWKW8QxE9FzUw
+- https://youtu.be/-XCSoRfU8e8?feature=shared
+- https://youtu.be/KZlvp0w-CzA?feature=shared
+- https://youtube.com/shorts/ZdhCV2UeAeE?si=CyDTN-0-ahdNOHAf
+- https://youtu.be/bQIX8q_oqJg?feature=shared
+- Just don't land accidentally, that's dark.
+- https://youtu.be/bQIX8q_oqJg?feature=shared
+- https://youtu.be/XYeNzg4-c40?feature=shared
+- https://youtube.com/shorts/RoSXoNA2W24?si=F0emt2XiRCb4TyBa
+- https://youtu.be/4x3iTGAFAr8?feature=shared
+- https://youtu.be/A2aK3Z-pqyk?si=LavhK_xaDdB7Ohx6
+- https://youtu.be/EFXHNcE3ia8?si=azEwyn6eccsyi5AG
+- https://youtube.com/shorts/lip-cysYDig?si=PWVb07iOAB54w0ZP
+- https://youtu.be/X061716pg1E?feature=shared
+- https://youtu.be/g5yjYM1PdE8?feature=shared
+- Kena: Visiting Legacies. Bonus game. Visit the room that owned by the deads. The deads had their room decorated replicating their signature space. Chat with them and more interactions.
+- https://youtu.be/SW9r436Rffs?feature=shared
+- https://youtu.be/pX6gj1zcHJw?feature=shared
+- https://youtu.be/7sYGG6SdeQc?si=XfivwximaJUWtfnK
+- https://youtu.be/hJSXdZrFdrI?si=Gqe3TCZ7hkr6aPQJ
+- https://youtube.com/shorts/QtVDEY9y9kE?si=b5T45UDDk5MaCluZ
+- https://youtu.be/AczN0GEel0U?si=1Ul9mzepRF_kF1Yh
+- https://youtube.com/shorts/-2PUkhZF8a4?si=VTrQr1wVJInXgGeM
+- https://youtu.be/HLOno3uaTR0?si=tbxl4Iy4vbUxsp5x
+- https://youtu.be/wIwmOGViZy4?si=5MsKovcAzEcAGVjR
+- https://youtube.com/shorts/HKf6KIKHkUs?si=HyW02-iHfC7TFylG
+- https://youtube.com/shorts/9O2n25wgDuU?si=g2Ilvz6Z6v_DuqY7
+- https://youtu.be/8XUr9AXtil8?si=T3rra3FDaf01S276
+- https://youtu.be/rjBLyaHIgX0?si=owd4eBGpA1a7cxLi
+- https://youtube.com/shorts/uY-TTXxjDpU?si=5dZeus0kAsAtJay3
+- https://youtube.com/shorts/Jyorta41MdU?si=iHMy7BsI6tlvvDJl
+- https://youtube.com/shorts/8irtm40Jl6E?si=XTrgnGX-gKHxSKo2
+- https://youtu.be/QDIBZix-zp0?si=rsiiFvAo9DD72nGz
+- https://youtu.be/TRQa1XH-wIk?si=BVg7_ykhFquv64nO I'm Spongebob
+- https://youtu.be/AWocxbVD3CE?si=VzKSgwYcTmqfCu0R
+- https://nasakii.gumroad.com/l/Akko yey nother one!
+- https://youtube.com/shorts/b0OmRD3w7uw?si=rIBsgSPgpKPOvT3n
+- Kena Mortal Kombat. Kena swallow bomb to opponent. Shield, pulse, duar!!! Dismembered.
+- Fatality. Kena, wins. Flawless victory.
+- https://youtube.com/shorts/aH-zOPI3_gQ?si=f_rwDvp4xugNBNKf
+- https://youtu.be/HeMUKsBf3Ko?si=KYtXu1WP5ga_AkQk tonight
+- https://youtube.com/shorts/Pp6WHsaKHbE?si=1j64sNtpxHKIFOcX
+- https://youtu.be/A7_wTWXgZGA?si=0JVX0nXexjDcMBsO
+- https://youtu.be/37mPoKQijj8?si=qmy1_xiJusuG9Tkl half aslep osaka and knife
+- https://youtu.be/Yk_nrvkiky8?si=UjdGXmNpK3pU7sFt
+- https://youtu.be/A7_wTWXgZGA?si=HRQ6P_2gZQHmh0oT xnopyt aaaaaaaajjjjj
+- https://youtu.be/KhUW1VDH-7Y?si=k26fk0zGL50f043A
+- https://youtube.com/shorts/6NcAZMsgX5E?si=i9PPSrYpeP9nDAEk
+- https://youtu.be/KjRll3vfATQ?si=bCNUovRPWgiZk_WP
+- https://youtube.com/shorts/B4MGNQLDW8U?si=1NjUZWQNR24yRJbi
+- https://youtube.com/shorts/qeZnItENwBU?si=j7_qatmQN24_NqNz
+- https://youtube.com/shorts/BwfdLgDrVLE?si=XoEG_MEkArEp8a8z
+- https://youtu.be/9rw7gSNzeyQ?si=woOyilxuqNB9UHFx
+- https://youtube.com/shorts/XdhG4oO4qPM?si=tdqAaEndlkAJQi7U
+- Do you have a better idea?
+- https://youtu.be/VRdHSlaKeII?si=V8H9SrBRMEqUU8Bf do you have a better idea
+- https://youtube.com/shorts/99fJ671ybP0?si=wAY8_EYoID3G9qGE
+- https://youtu.be/8YfB5Sh_JVA?si=KsWSxSmhbeQDm_Ip sour lab candy tab
+- https://youtu.be/y9K6PVWGBEM?si=ntNL7VmMSUZVnO07
+- https://youtu.be/LbcE4-b0PKs?si=r43s1IhaacXEsUbl
+- https://youtu.be/3wspk3dFmv0?si=ycJX5o4CWkJKjMeK
+- https://youtube.com/shorts/qbdKKI3mJFM?si=T9HSjOVZMdYM7R-x
+- Make Query the CEO of this new Assination Agency. When Interpol was disbanded in 2030, he kept saddened that kids kept getting bullied to suicide. In 2035, he established this agency, assembling most ruthlest assassins from every scale to hunt and kill harrassers around the world. In 2040, when 47 was doing Showdown in this Freelancer mission, Query's agent, Prom Millis stolen 47's target. Told to get back to the car quickly. 47 chase while stealth. Into this suspiciously ahead of its time looking car thar entices 47 as intended. 47 hold onto bottom of car with magnet while the agent went thru dimensions to try impossiblize tracking, and avoiding spiky bottom to not hurt the bald guy.
+- And it goes. 47 busted, Diana tracked and carried. 47 brought to exact replica of tutorial level.
+- New! Diana captured during 47 retutorial. Until done then released.
+- They then chat with Query.
+- Clown that kills.
+- https://youtube.com/shorts/6cqwth7Uh6s?si=YXAqT2kTBEbWwcvj
+- https://youtu.be/BVNnRVOQ73Q?si=Yej0wct5xaT8s0Bk
+- https://youtube.com/shorts/uCPQ4NByV1E?si=iet3kt-lXhRYTvpa
+- https://youtu.be/boh92DrYEWs?si=4JhSII8jD_DLV0i9 roflcopter. Soi soi
+- https://youtu.be/hYu6z6cTtcI?si=WBBFdRktGK4sLceq
+- https://youtu.be/XqTDvnTuGDs?si=yQSMKifJ5wA8rIc7
+- https://youtu.be/UDArdweekrk?si=nzBKizMPMrx0rdKD
+- https://youtu.be/O_umeRWEh24?si=2ZefTWn4uV1Vze9B
+- https://youtu.be/uIoZt9ILfTI?si=cyNeE_s5B9d_yYkj
+- Squid Game. Defuse the bomb. Bomb is real. Coop with manual person. If win, both lives. Boom, the manual person also shot dead, or also join boom.
+- https://youtu.be/-JoiiGrPCV0?si=JWDMUDlbyMhMjZ-V
+- https://youtu.be/zwpph_DG9JQ?si=gdUfwK0dkPXsxIh6
+- https://youtu.be/0RNVuoouMC4?si=DMHkVQY0H01rNxJu colourblind game
+- https://youtu.be/EBnEGzhC47Q?si=Bt02crC1O_DUvLJJ casio game console
+- https://youtu.be/gUY4FNIdwjE?si=Ct0NPIOMiy2cN3Hy
+- https://youtu.be/LoO84Cc7omg?si=qOi6vUmUSgYWh9Hb
+- https://youtube.com/shorts/njHVoo4lRKI?si=-4PCPH4gsagM_2gu
+- https://youtube.com/shorts/kJu5p6fCTXk?si=G-VL8MnfQoC4cLG5
+- https://youtu.be/eiPyf-lPyh8?si=Krcg0YzKnI6evVDQ
+- https://youtu.be/anQCUq_BPQA?si=G8dxF2oSw8RYPRiI
+- https://youtu.be/1GAOminAiRY?si=CB9z_x_RjjxIAn92
+- https://youtube.com/playlist?list=PLJqFvAhkcSkkks42zClG5WlvO1khFZCKK&si=8fIgjTica9z2aNZx
+- https://youtu.be/qZbycguCcf4?si=Nr7T02irmecwUckD
+- https://youtu.be/gDovzkt8kQI?si=lfPvkwwXW_NThetC
+- https://youtu.be/eXKIMPDstdk?si=TgpBnNMP3A45Vfu2
+- https://youtu.be/pHXgp46Qskg?si=2IIJMDiBbXviC16v
+- https://youtube.com/shorts/DUVmJcQiBqA?si=WdlGKJqVd1Ommqhw
+- https://youtu.be/AyqPrHwbuHg?si=lEDG1sld2fY56p4M
+- https://twitter.com/SpongeBob/status/1590723710180524032?s=20
+- https://twitter.com/FilsonInk/status/1590830357011890177?s=20
+- https://twitter.com/CaeDios/status/1590725219437916160?s=20
+- https://youtu.be/Wr1vUmOeAh0?si=9_qqucXZrzUTHCz7
+- https://youtu.be/0u4KZ44LzCQ?si=XoyNTWZWQewgnm8Y
+- https://youtu.be/ZEBsPLU6kLE?si=SL1KDoPg3ihRFywI
+- https://youtu.be/TUdtqtIgzQ0?si=f2h8hv0jFYWpc4cW
+- https://youtu.be/ZEBsPLU6kLE?si=SL1KDoPg3ihRFywI
+- https://youtu.be/F7BQXiZJn8g?si=aKIs4aR-hnNSTEVJ
+- https://youtube.com/shorts/N01ZT7BzLjU?si=aIcpxU6bWV5tZD6V
+- https://youtube.com/shorts/uZi8hRZcf-E?si=-PoZoi7evf1UrcHD
+- https://youtu.be/9cXDDBWux5M?si=11UrWIclD0KCo6bJ
+- https://youtube.com/shorts/uIoSjzq-mCs?si=D3cwplS7SKY7Oc9Q
+- https://youtu.be/sjNrbYVIhD4?si=EWU4NrdvjCHr_hRX
+- https://youtu.be/_AIlRabUjhE?si=b-yu_CwXcYf_TYgv
+- https://youtube.com/shorts/Q37gx0rquFY?si=BtLjgUH2ADQMGehS
+- https://youtube.com/shorts/tQ2o_KtwHOM?si=cM921RvAsbogrrG_
+- https://youtube.com/shorts/ck4URDCvV3o?si=FM2FmgMX2QjxT651
+- https://youtu.be/saHOnUJGwKw?si=UNABwsPz8CG2Fmy5
+- https://youtu.be/L0vIUjwOh8w?si=NLES2KRMumMEQtIW
+- https://youtube.com/shorts/6aRD4Dc4jEM?si=sLpUrhuHQDosoBIC
+- https://youtube.com/shorts/zkRoCconOTc?si=6XN5XCKlGYsAiIlX
+- https://youtu.be/XXnxe_0CY-k?si=MaEgtoQbLIqqDe6Y
+- https://youtu.be/xQmd5_u80LU?si=EnU2eVn6dIeOILlM
+- https://youtu.be/b65MvMmhFMo?si=NpKo4VVlMq7qrk-d
+- https://youtu.be/N8s5Cv4gpvE?feature=shared it's a hard knock life 2014 meme
+- https://youtu.be/LH6MstVxehQ?si=BymMpzN2BENa44xz and og ones
+- https://youtu.be/S4Ha0SDzzSk?si=83rCu4QjQZj_RnVX
+- https://youtu.be/iLTwviyW7ZY?si=JBsXOsFrJx7pN8nn
+- https://youtu.be/ZyWcr17feeI?si=ouvDeKp-ctSv3CWN meme compile hard knock life
+- https://youtu.be/neKqlZujsx8?si=iHVq1u40wRh3ccJy
+- https://youtu.be/TntNoMQ-oGU?si=qBKbaGXL2pQsyCjO
+- Neco arc nyanya tongue twister pls
+- https://youtu.be/Bb69ymcoIpE?si=IpeCMn_ST_DmwU6S neo arc die in fire ai cover
+- https://youtube.com/shorts/WI9llTqFSUU?si=RyJBCYTFtw0r21nx
+- https://youtu.be/Z8Gdq6uBdqc?si=vdp_pUZth9mt68ua
+- https://youtube.com/shorts/l6NfiZEahvU?si=MS98O82YacTeHhM0
+- https://youtu.be/1dn0cXg-HTU?si=Fz8yA27DFA4Sld7B
+- https://youtu.be/-Gb5QYddPS4?si=yP-SeaPypcfTD2QD
+- https://youtu.be/wFzPXPHCgFA?si=Fxn1_ByNjSWZA2gF
+- https://youtu.be/P3fuBorXwBI?si=-sHFJNDggv0wWFlx
+- https://youtube.com/shorts/EcsrsNpBvdw?si=6p4As3aJrLhQL1Et
+- https://youtu.be/CVZSf03UqsY?si=6Dp8FPofJWKmBi9k
+- https://youtu.be/vExjnn_3ep4?si=FEJyyLzwH7XCGLUw shi
+- Shi
+- https://youtube.com/shorts/-Z6BMG55szs?si=Eg-KB4hqMBhvHIjU
+- https://youtube.com/shorts/ODAjqj8Yh_Y?si=IMOsyV51Fc9pDsyU
+- https://youtu.be/at45gV4_6Tg?si=4M3W_ueRSXf7_0GS
+- https://youtube.com/shorts/dIp5XrbENbI?si=PL2ZKrsggrwG3RA_
+- https://youtu.be/m5_KPjBUkhk?si=PX3LbkbI41kbXuZ9
+- https://youtube.com/shorts/rPRV0CIbitQ?si=YP3UsP-IDGLp6KQu
+- https://youtu.be/EJ-LjZehqjc?si=_lY3YElQTBrMz537
+- https://youtu.be/kE_jX9E40M0?si=Be9w9L45i56qrcFW
+- https://youtube.com/shorts/EzrsXBTTXVk?si=-vZQxEPDGq61x8zv Quran symbols
+- https://youtube.com/shorts/n3bw0lOH_94?si=nJAzoORI9EPjrRWH
+- https://youtube.com/shorts/A2c1jtNJD_g?si=830Vw1yxzyUEaDzQ
+- https://youtube.com/shorts/-w1IPjoxOyQ?si=_BWPTEHCSLkIWIjO
+- https://youtube.com/shorts/b0caVptHyQA?si=cmx2Q0dC9CtnUoU_
+- https://youtu.be/VFkka3fcyjI?si=jTw_Sz30I7IZyuM5 funny zombie farting
+- https://youtu.be/XoEQ8wtawPI?si=q1vwFgcKZY3Mi25y
+- https://youtu.be/x-7jGZ-YFw4?si=Ltsv7baIuN11hY_Q
+- https://youtube.com/shorts/0LjxmESJ2Fg?si=p238l_tIkv6kTwe8
+- https://youtube.com/shorts/cSFQVvPsjOc?si=E2NqbDO3bb_yGCxE
+- https://youtu.be/Ko8uUXcd6L0?si=blDCU_7RTO_o3Zyw
+- https://youtube.com/shorts/jSsJu34W86o?si=-SgwInMEZ1Ltidak
+- https://youtu.be/m_bd-7bdgq4?si=LExhyHYVyoZIgENr
+- https://youtu.be/6cSfJdVdRJ4?si=Ec9La5PLXXjnLud9
+- https://youtu.be/NocXEwsJGOQ?si=BfuAZQmygbkqxW_R miku miku
+- https://youtu.be/zIGjUCkD93o?si=NTE3SqS9kfPTNIto
+- https://youtu.be/6cSfJdVdRJ4?si=up_PUVRJgYeDQHQ_
+- https://youtu.be/R57oS4-JXaE?si=dZoUQaFEjV1gN_Fh cool way
+- https://youtube.com/shorts/hIOeH6DLnyM?si=Uw7cDvwNFCNvCE-o
+- https://youtube.com/shorts/uhDaMY-zxL4?si=W46P3n3xY4wdhk8h
+- https://youtube.com/shorts/0WiyDvxMtzk?si=QO2jAEmN5a2WoxDW
+- https://youtu.be/izrk-erhDdk?si=TjOY9-RGupjyVPbC
+- https://youtu.be/izrk-erhDdk?si=TjOY9-RGupjyVPbC cornerstone
+- https://youtu.be/lIuUDnFicy8?si=1PfPop5xUxYEVhEI cornerstone studio version.
+- Hillsong
+- https://youtube.com/shorts/IiA4irX6qq4?si=7_7SMP6RyzeeKjyE
+- https://youtube.com/shorts/cYkwFLSTn48?si=aPrK56koBE3ym4g5
+- https://www.w3schools.com/css/css_align.asp
+- https://youtu.be/mNeyunAPpwM?si=Xf53znJ_g3jKSZmv
+- https://youtu.be/37vPBsYANTE?si=nc2wVPIIZlosWE04
+- https://youtu.be/pvyXNsCpPjk?si=tyIYXs1BImXuwMe9
+- https://www.youtube.com/live/jAA-vZK-2MU?si=LISZwVG_ze06Tkd9
+- https://youtu.be/u4RkkjiYu0k?si=fDbX5B_roYnP2_0M
+- https://youtube.com/shorts/Nw3eV-c9nfI?si=hkRXk-YbiRPGPKNy
+- https://youtu.be/u4RkkjiYu0k?si=mcGVussufh-YuQ1E
+- Polygon Bezier screensaver. How many dots? All dots, then conect one to the other and last go back to first dot.
+- Pls name this Alex Moya's free girl, Debby.
+- https://youtu.be/CgyWriVtqv4?si=MQpHrBudmlLMg1ml
+- https://youtube.com/shorts/a34nCY_Lqpo?si=1Sl2Y1qI0qT9sEN-
+- https://youtube.com/shorts/P6Od5P2Z8Ys?si=FAjaSFcHI380epBw
+- https://youtu.be/qMl4BHen40c?si=aqhrBavkTbAEAzPv
+- https://youtube.com/shorts/VABH5nbChSg?si=NWhWlBYchdNLYj85
+- https://youtube.com/shorts/OBRqQo8BpZk?si=3fAY14KjaDi-drCe
+- https://youtu.be/3B0joNsmWUQ?si=5beNIInD1ayDWZDH soi rolfcopter ms sam.
+- Incorrect specification detected. Woke agenda, confirmed. Disney is woke!
+- https://youtube.com/shorts/RWLpLSMop7w?si=BULwvGCD8GBcePY_
+- Query got nightmare. He was back into as entertainer, entertaining kids the audience. Suddenly, 1 by 1, one kid head exploded bloodily. Some got decapitated mysteriously, then that head also exploded after rolled few meters. It goes until no kids left. No kid. All died. Awake. What if really goes to my kids?
+- .
+- Be quick!!! My wick is running out!!!
+- .
+- Also, Kena. Clean your nail up! You full of dirt!
+- https://youtube.com/shorts/QK0CnRPx9Xs?si=zLgpjLa_ZwB3rRdJ
+- https://youtube.com/shorts/Dqri-tk6wxw?si=K2I0FecSe8GXTBZO
+- https://youtube.com/shorts/9VtOgNKou1A?si=SlqKz8tDcsvRUMgr
+- https://youtube.com/shorts/dPCinbIlj_c?si=lg5ymsRmtTNsWlDV
+- https://youtube.com/shorts/KU4dFOVkWGU?si=RlMuDRp-DOqjUp0W
+- https://youtube.com/shorts/o-92HJ7E2gw?si=xjFPnE2fX2zALj_U
+- https://youtube.com/shorts/A3DWhA3vt54?si=DjaH_W4mNDI7mjOz
+- https://youtu.be/86iYP6hscIc?si=lB87us97fJmfg-kH dies from cringe
+- https://youtu.be/9ceqPN0Ie_c?si=7erHQIrD1elYZ3bi
+- https://youtu.be/9E9tI139pvI?si=-IwcqRZBC2Bwb8Mz
+- https://youtube.com/shorts/0oLhxMwxemg?si=51G7xreF3epwOvaZ
+- https://youtu.be/OcuALmpcJJY?si=DBlMPUG-FVrk5pm7
+- https://youtu.be/jJYTotf7nSs?si=j2DaiDKnHY9x3Vsr
+- https://youtube.com/shorts/0IlqWIZqgx8?si=xoP0glIo3FTDcYy_
+- https://youtube.com/shorts/kE9h5UropRk?si=_DMqkJvKUYYtYc2b miku pipipu
+- https://youtube.com/shorts/jSsJu34W86o?si=QinXoasGXXENV1cN miku playlist
+- https://youtube.com/shorts/CXLEcXgND00?si=9vn2hdZBhUsRT5_J
+- https://youtube.com/source/fgAovZNCRvE/shorts?si=PWby1JVwu8vI5mBr kat kitty kat
+- https://youtu.be/FWKoOiQ1NVM?si=zuPRyNiHpvUnj2Pn lv1 fvn
+- https://youtube.com/shorts/eItK3m0FBes?si=-76yXn2JHri0uiE1
+- https://youtu.be/7IYliW_YyRY?si=-wxnFA8htI3taskP
+- https://youtu.be/fnCT7d7THpY?feature=shared
+- https://youtube.com/shorts/FhR3by3Qtek?si=ldVAo0xm2eUFXWFp
+- https://youtube.com/shorts/STmTXQ-8hzE?si=AMkH3oburWcWLa3q
+- https://youtu.be/JQBqHeNO95I?si=UqrYOh2o2S7cOW2R
+- https://youtu.be/QFWfFCmjH_s?feature=shared
+- https://youtu.be/HNlm152BQPM?feature=shared
+- https://youtu.be/HNlm152BQPM?feature=shared
+- https://youtube.com/shorts/Z-Q_30mL2S4?feature=shared
+- https://youtu.be/0xQJp8cbPDk?si=pqet_rGKpQGzlWW1 america jumpscare
+- https://youtube.com/shorts/yQE5F9e4gaE?si=kM7eqiNK22-H3nVu
+- https://youtu.be/jsm0ctLSgOI?si=t0Ah8TyVg4q_sESs
+- https://www.bbc.com/news/uk-wales-66687056
+- https://youtu.be/kmaBhSUx6iw?si=u3jxbpsFqVokrppf
+- https://youtube.com/shorts/WZBrrpa-Nyw?si=IqPa2kYn0URvUFil
+- https://youtu.be/MeqntrBY8Ik?si=lcJ9bOMwVz1lHxHu wa angel thesis
+- https://youtu.be/2VqgyHOD1tk?feature=shared
+- https://youtube.com/shorts/Bt0QRXYzlNM?si=uc3CPtZaXyNC3z27
+- https://youtube.com/shorts/-mvJSRJvB9g?si=haVtdVEMhDY03HFl
+- https://youtu.be/D80pMweNa1E?si=i6LTgwOcaXsNCNhu uh oh
+- https://youtu.be/hHWRoyMuiVs?si=eycoNLdqEFQ_xoiU
+- https://youtu.be/2DwM8vp5sZ8?si=MyDLlEVyIkxTFJRm
+- https://youtu.be/dBCg72HDj8I?si=3u6c5OowNNrP5qQ7
+- https://youtube.com/shorts/PSwieh0mZgE?si=A0NR__lahX30-FiL
+- https://youtu.be/OLPJGOS5lOs?si=C8sDs--jcoZFxt7x
+- https://youtu.be/yzFUvy8YnqE?si=bKy_nEr5WKEoMMCM
+- https://youtube.com/shorts/L8xk0D1wz0s?si=9WX7d-blGuZ7Uh_N YouTube a888888!! Breaking link in shorts
+- https://printables.com/model/563912-safe-from-the-rain
+- A
+- https://youtube.com/shorts/qRoo9y7pU14?si=vx_SL2Oj7JqeJB4G
+- https://youtu.be/kq0aTH-18Qs?si=ZXtM8YPgpXUOCWux
+- https://youtube.com/shorts/1SedKXifs9U?si=DEKWxh1mfg5xB8eJ
+- https://youtu.be/3JbVR7c2IG4?si=B5wdfqsUc702bGuJ
+- https://youtu.be/b65MvMmhFMo?si=2XRhv33A9hBKOCiZ
+- https://youtu.be/GcVqWdEdSzs?si=jbQO5OlRaFwwbw2r
+- https://youtube.com/shorts/l4ftD-nGKsI?si=96JCNOvZtQ5Q-PY5
+- https://youtube.com/shorts/aQi2h2dXZY4?si=uhumTluuRoWcQomq
+- https://youtube.com/shorts/Qy8hzxFk9LM?si=3_gn1dJUBs3sQKrD
+- https://youtu.be/GTh5J0HsIAg?si=9JR2nTmMaM_wRPlM morshu read entire bible no ai
+- https://youtu.be/SEJAnZU9kuU?si=4t_W-1JjNixIXmOr
+- https://youtu.be/xJbpX0nAAeI?si=RdDaABYpRsMafuwl
+- https://youtube.com/shorts/W1QlM5z8UMQ?si=kDTwPD0n4Tr5Vpua
+- https://youtube.com/shorts/fPMBFaMNOcE?si=CSEE5zvWVoQDsMO0
+- https://youtu.be/ZgcKs9qZGnI?si=JOrgUktBvBeLzYXZ
+- https://youtu.be/agh-NQVUFmE?si=dgMtLxTcRgd0qonN pippin startup
+- https://youtu.be/jz2hNxyE-Q4?feature=shared
+- https://youtu.be/ynQOgG7B8Ck?feature=shared
+- https://youtube.com/shorts/Q9ZDcvsHZE8?feature=shared
+- https://youtu.be/dg0ADqJULyM?si=3abVBvwyyN0v1Jeg
+- https://youtu.be/j5H36Ev6XF4?si=I4nRK7OTr_n8_nct
+- https://youtu.be/5XQq1cxVxa4?si=jetSHBb2uAyL3w8v
+- https://youtu.be/CgyWriVtqv4?si=7WbVGvE7BOk2uJAE
+- https://youtu.be/AjzGUc0K4SU?si=eTdkXMuA7iG7HYtx
+- https://youtu.be/7T1AQywFyK0?si=q_sxFPMpLm920WiS
+- https://youtu.be/k675dw-6Rfk?si=Ty2u6BTUEbqEvXuX
+- https://youtu.be/DksrPqOnfYk?si=X1MfVqMYNxsMliAt
+- https://youtu.be/oAKkFszgbso?si=2NxbJKr4Q1u5raUA
+- https://youtu.be/88ucxhJOggQ?si=ff1CGzNAhGlGvyWF nft gaming?! What bulls888ery this is?
+- https://youtu.be/ReblZ7o7lu4?si=brPm2m66LMaRvM_G
+- https://youtu.be/uKfdls1fqJE?si=DUWgVWcjzFyTywfP
+- https://youtu.be/FZuxvWymdPY?si=-UwAFOThiSVpXY2C
+- https://youtu.be/FZuxvWymdPY?si=_2bpC2v4ACyemxPQ
+- https://youtube.com/shorts/JZyY1dxN6Q8?si=HMr2HdV7VbdrpROX
+- https://youtube.com/shorts/-VXyMi7v5IY?si=mrOo18jJbNbyc4eY
+- https://youtube.com/shorts/GRM7cg2nVlI?si=kvyg-oimncCm1O6N
+- https://youtube.com/shorts/BZW1_iCt9G0?si=OsCU0H7j34lgQ_B_
+- https://youtu.be/HgcMB5K6-YU?si=xeiVS__hzDGhB2JF
+- https://youtu.be/1puBFkz-ibs?si=IqyLxCliWec4Qg7W
+- https://youtu.be/eMDccQCQW7k?si=qy61Bhv-2L4WN7S2
+- https://youtu.be/IHcAtqJ5OUg?si=JvmylEdKM6XR1Hvn candace original computer has virus
+- https://youtube.com/shorts/LM8BkYrBZjM?si=pfcQ8V1C-ZSzmpT-
+- https://youtube.com/shorts/Fr6TbIm8vrE?si=voWW46bKjLWgiO4R
+- https://youtube.com/shorts/YWfFI7nPEqo?si=gRDtvmmC1IFN3Wzx
+- https://youtu.be/MtBDOhTVAuE?si=mKSI3xesgWR2goO3
+- https://youtu.be/U5gKaF2UK_A?si=AEI65M-rKJKJb6WS
+- https://youtu.be/_na5IbnZi1E?si=CvcLuHBdjEu5SLf3
+- Dad: Heh, you were having 5. How much you have now?!
+- Son: 4
+- Dad: (shot him dead)
+- Son: point 9. God?!
+- God: Well done.
+- Yikes.
+- .
+- https://youtu.be/1KHYvrPmpx4?si=CFfkuYZSIqRyOnVV
+- https://youtu.be/BsnCpESUEqM?si=jAVFqt-26GPmDn7N
+- https://twitter.com/poligon046/status/1700630156811948260?t=BiyJACNrybQydD3uTy_UQw&s=19
+- https://youtu.be/te1AEj_RA64?si=0fYdprwAG2kax1Y8
+- https://youtube.com/shorts/HrL8HXlvlgE?si=wGCjQT4x3xRA4_Vy
+- https://youtube.com/shorts/ITogH7lJTyE?si=g9_x15hluN-RvXOw
+- https://youtu.be/ao1qVi5Qp3Y?si=o05PHYbfboVICKEo
+- https://hardwaretester.com/gamepad
+- https://controller.dl.playstation.net/controller/lang/en/fwupdater.html
+- https://www.playstation.com/en-us/support/hardware/pair-dualsense-controller-bluetooth/#compat
+- https://www.ign.com/articles/how-to-pair-ps5-controller-to-pc
+- https://www.pcgamingwiki.com/wiki/List_of_games_that_support_DualSense
+- https://www.pcgamer.com/ps5-dualsense-controller-on-pc/
+- https://pcplayerhub.com/what-games-on-pc-support-ps5-controllers/
+- https://www.reddit.com/r/pcgaming/comments/ym5afz/dualsense_supported_games_on_pc/
+- https://www.pcgamingwiki.com/wiki/Controller:DualSense#Games_with_adaptive_trigger_and_haptic_feedback_support
+- https://www.pcgamingwiki.com/wiki/List_of_games_that_support_tracked_motion_controllers_in_non-VR_gameplay
+- https://genshin.hoyoverse.com/en/news/detail/104060
+- https://github.com/Mxater/DualSenseSupport
+- https://github.com/josealissonbr/DualSenseAT/
+- https://www.pcgamingwiki.com/wiki/List_of_games_that_support_DualShock_4_light_bar
+- https://www.pcgamingwiki.com/wiki/List_of_games_with_Sony_button_prompts
+- https://www.pcgamingwiki.com/wiki/List_of_games_with_Sony_button_prompts_(Hackable/Limited)
+- https://www.playstation.com/en-us/legal/health-warning/
+- https://youtu.be/Ktqa11VT1xI?si=PCvKjwA_43QwYahf
+- https://youtube.com/shorts/Mn8ZCPbSUco?si=vW4kLLo3EGLuHkEv
+- https://youtube.com/shorts/FJX0sJz-jIA?si=b-c0s5bQIE0zOxQ_
+- https://youtube.com/shorts/c1TFQYqMsig?si=ipqYGmr9WR8tvKDK
+- https://youtu.be/EQWPumtDXk0?si=7V-lLl4YyIkkQ6Eg
+- https://youtu.be/VVGCqXZYIVs?si=9Y2sMpYNU5RXaTux
+- https://youtube.com/shorts/XE92Rlne_BI?si=AQAs_RUgODrUVkD1
+- https://href.li/?https://www.reddit.com/r/StarVStheForcesofEvil/comments/arrrqh/ok_first_of_all_who_made_this_and_second_of_all/
+- https://youtube.com/shorts/xjOJ6crDrv8?si=IHkefz77XsW4OMnr
+- https://youtube.com/shorts/YMqvo28WDsg?si=lPeSVUhiLOhWJUo9
+- https://youtube.com/shorts/KSMtInF7INU?si=W4sumLx-ccA4jm2_
+- https://youtube.com/shorts/z1EffHoklok?si=8DqWSIjKPEiqVCXI
+- https://youtu.be/K1ywBBJ3CSU?si=VYuFqYtCW-vEwBJM
+- https://youtu.be/uhDaMY-zxL4?si=nqdkySUwcJhZQN3v
+- Listen to Miku by Anamanaguchi on #SoundCloud
+- https://on.soundcloud.com/py3L9 You intentionally did that to us!!
+- Listen to "Miku" ft. Hatsune Miku (NES version) by Anamanaguchi on #SoundCloud
+- https://on.soundcloud.com/u56B2 NES
+- https://youtu.be/G2PDJTkFiA8?si=O1xEmdYOvx41yQ3A and sound.
+- https://youtu.be/n8wUkPiKWGg?si=0soalaIppd9pwiU6 ha?
+- https://youtu.be/iqA1o7L43IY?si=miapVi16xXZ8mNwZ
+- https://youtu.be/l3osiJRbfD8?si=Yko3H-Xl63byX_Xk
+- https://youtube.com/shorts/tjcUhnEslNw?si=6RrpVaIQf5ATVF6V
+- https://youtube.com/shorts/4ESU_oA1Tmk?si=EpaAI-_4RjQd_jsN
+- https://youtu.be/6WOLKaURlCk?si=lwDt78l_CiBFBu2S
+- https://youtube.com/shorts/Qga3OUsOFbA?si=TOuG7Z6v-HvS0HYo
+- https://youtube.com/shorts/YaehEBc72fw?si=BujhM6gr0WzfyR0a
+- https://youtu.be/NphofgZ29W8?si=7H7kU63TQrQW5Hhi
+- https://youtube.com/shorts/o39z-0hF_Zc?si=TS_IVmtiUNLqLDkp
+- https://youtube.com/shorts/_9c5yprwOWI?si=MFLrZ6YWUsZKRtEU
+- https://youtu.be/PAF14UQkaEY?si=FbOR1sW5ppWTL2gf
+- https://youtu.be/yiqEEL7ac6M?si=_yygLZP6MGe8BV2V
+- https://youtube.com/shorts/SjJIOj8WqQU?si=1AHLMhnOuboflsO-
+- https://youtube.com/shorts/W50c863U69M?si=la2UgQVylMuDSXFV
+- https://youtube.com/shorts/_KZ4WiBG8jk?si=w93EkmuvpruhYSwn
+- https://youtube.com/shorts/_PrUuFmqxGU?si=iYGYCm6xPUOR7MDP
+- https://youtube.com/shorts/gJMrJlJqZ44?si=3MWwFLsdR1fbzaWn
+- https://youtube.com/shorts/eAQIC6QME-4?si=kAOnuaEgR5CWFeGE
+- https://youtube.com/shorts/P6SgwnYFtYQ?si=S5MPacKqtbnx25pW
+- https://youtube.com/shorts/TOHwcYNRvss?si=NRDA3S_v_ZRTIMIR
+- https://youtube.com/shorts/ua4G339o-Qo?si=thC6MmPQGszbycNo
+- https://youtube.com/shorts/5u_N8EyJQRg?si=Phx6t9xWs3MUaQq3
+- https://youtube.com/shorts/FqiW9whtRXg?si=b0yLub1wGG_GTf8z
+- https://youtube.com/shorts/wPm8UjEdoZw?si=omSj8eSaCMmH3YCn
+- https://youtube.com/shorts/TxVxFBZAM_A?si=CDJq94KunULxzglx
+- https://youtube.com/shorts/ZeqfGjINaYA?si=QF2gBjt2QYuzt6ab
+- https://youtube.com/shorts/KqKe4nmLuU8?si=Jo8md1JZDaKVE0F9
+- https://youtube.com/shorts/6wjHbYoHfPM?si=BvPskZ14HzK6Sigp
+- https://youtube.com/shorts/E3dY40yKvFI?si=5nwvtnJWPlZCEeqc
+- https://youtu.be/4Kn9EpGqrOE?si=xerwwzHW9DvDL7b1
+- https://youtube.com/shorts/P4d3OGxPgxM?si=D2zzLrTlwaU4vbes
+- https://youtu.be/88uSUEzzMEo?si=HpQ7ka9BiKW-FT9y
+- https://youtube.com/shorts/9H_xiYEQkWA?si=Je5pUgnuy79jY0yY
+- https://youtube.com/shorts/bs8n3OVWcjI?si=-mrImurh9Q-NgLX5
+- https://youtu.be/xuaIhbXHsUs?si=N_TyGvlRcFG6LUyj
+- https://youtu.be/IQ_F-N2G9r0?si=u2v96-eJeAnBR2Tj
+- https://youtu.be/PslwQwPSGxs?si=TMizIU4eLjiPXwbc
+- https://youtube.com/shorts/FyXsAKa0Hgs?si=XAm0ufJatDEaQzCo
+- https://youtube.com/shorts/CinAHIimblk?si=3dShkecpWuNUAMno
+- https://youtu.be/4LXjBMJvV6M?si=nz8D6bPuG3JFaf9P
+- https://nitter.net/poligon046/status/1700630156811948260#m
+- https://youtube.com/shorts/W_FJNiv3ut4?si=2OlAxWsOb82n6U8m
+- https://youtu.be/iJFnYBJJiuQ?si=skgp2k1x-XvPR8Ke how sim card works
+- https://youtu.be/9EY_9KtxyPg?si=vfijV01I-foedu_u
+- https://youtu.be/neWc0H1k2Lc?si=9Gc7SX8B2TMbA1q_
+- https://youtu.be/duLJUpptSik?si=b7AfewUCVhsTkBQW
+- https://youtu.be/nxlm7pIvMdg?si=HlgxDaKmcr39rQjI
+- https://youtu.be/HUtkW2gjC8Q?si=U2unmvyJYXsFd0kJ
+- https://youtube.com/shorts/uqCh0pQ1K08?si=BvL0G4CqUm6Gch7t
+- https://youtube.com/shorts/f1wDphPEufc?si=FaZR6oLwZDo5IKPR
+- https://youtube.com/shorts/7tPWG9DUPAM?si=KdtzVaFemoiQP9Mk
+- https://youtube.com/shorts/KXRkiwTaWMM?si=MG4Rs9xxGJOSoKY1
+- https://youtube.com/shorts/TDfZuHjfCBM?si=Qwv0KfU_DL2oKa9N
+- https://youtube.com/shorts/salLryhxLX4?si=sApxaPPplRU5-F9p
+- https://youtube.com/shorts/GiQ56xjWOrg?si=G3APsrjeG1SP21MU
+- https://youtube.com/shorts/UUrU20rSkog?si=OvoPwYgSYEpGjLsJ
+- https://youtube.com/shorts/VSg-yIpTkAA?si=4bSxyDIsDVfcUrOd
+- https://youtu.be/tRtovW4H2Ec?si=ZksHTgg-q4QUHRMw
+- https://youtube.com/shorts/n4oDim8FM9M?si=yuHFlZUVmieCJPyx
+- https://youtube.com/shorts/JdW_69f-xBA?si=5p4X9P_ADayXPo38
+- https://youtu.be/PxdQ3PFO960?si=9lDbhuGzSy1YGy7m
+- https://youtu.be/MEda7SQxh18?si=4BTVCCrrI0YZJGWg
+- https://youtube.com/shorts/6x61DPmeieo?si=R8KRRFAajc-Cmuw2
+- https://youtu.be/FvzHyYzXEdw?si=kJo07dagPnl-5hGh
+- https://youtube.com/shorts/Z_a3MI4hXxg?si=yi1B5U4M6lH20tGK
+- https://youtube.com/shorts/ES8X0IQ_0c0?si=hhnbkQeSg1FzeXfu
+- https://youtube.com/shorts/UP_5hoJUN6w?si=hFCgR6TH67g8-eJQ
+- https://youtube.com/shorts/xyUF1MbWhjs?si=csBGAHAjg6casdIw
+- https://youtu.be/_chCIIvn3bI?si=5Wc90sYdyfi2nTK0
+- https://youtu.be/gUd_Tdh2bGY?si=vMHMNRqbuDqdR7bF
+- https://youtube.com/shorts/oC2kIAjC3Js?si=YYaeeMcw1yimzFt6
+- https://youtu.be/4QoFc-vzE8w?si=mVEc8D3sdxiPxPMZ rat: I live in a low income housing environment
+- https://youtu.be/jLaoRLldy_k?si=iJ4UPGDeoLVgqhaw
+- https://youtu.be/kduG9rdRMq8?si=MlQ6Wd_wtnxTDCE0
+- https://youtube.com/shorts/QYsuhk_OmW0?si=Fbl2lRHH9SgLqnNN
+- https://youtube.com/shorts/bo6_5zscYu4?si=HjOPpcovDMnh0wLw
+- https://youtu.be/L8qA9UuMsQo?si=GleumrZ_MUTcZMlr
+- https://youtu.be/hmGYZXz6-Ug?si=riD5fKO5HBKUJOYm pov second bus
+- https://youtu.be/S7woEXovruc?si=WlJFiJgcVXTd4LXK
+- https://youtu.be/Cj8N9CJKoOw?si=YyRujXnp5lGhQBJJ
+- https://youtu.be/6R90rn6OPfw?si=Ui8bh0m8cpFvK07i
+- https://youtu.be/h6VeHPO1X7A?si=hHwE4Cv8UK45zcOY
+- https://youtu.be/oBMFiGqqTVE?si=xEpIueY17-Ds5Dqt
+- https://youtube.com/shorts/dRXgOW1cNHg?si=Nv9g8aQgVW3mzQwP
+- https://youtu.be/SahA0_LuDKw?si=zrLC0I1-pURQFAZ6
+- https://youtu.be/Q3FeZw3Ru7A?si=iWokACBdvGej7z1o
+- https://youtu.be/OahjVNIliCw?si=oaiysmH6mFEc6TCl
+- https://youtu.be/HxOOBT2PBcw?si=3jXM7FBEf8AS9UQN
+- https://youtu.be/fitzOHgW_Cc?si=zvatM_TlJ7QRPotk
+- https://youtu.be/B7O0sQC5DgA?si=dLeyHBSf-b1krfz8
+- https://youtu.be/NZKCxIuJ-5M?si=IqoLWWihow0r86tX
+- https://youtube.com/shorts/19WbCi8SVeY?si=fkiSoKfUzwFB5bmo
+- https://youtube.com/shorts/QMU09B7cK6c?si=m-oXYeG5ZSWXNRMr
+- https://youtube.com/shorts/AoYVTpgfEuU?si=uCO8x2ZgwCb2NII9
+- https://youtu.be/AQeGBHxIyHw?si=VTnZ6URogcUdzem0
+- https://youtu.be/cqXGORM9qHI?si=CLqcs79nQn5fVOEi
+- https://www.youtube.com/live/lZjPrb8AHVs?si=x5Q-n7J10oX1TH1z
+- https://youtu.be/SZW-UQWyyyI?si=yLitZBYcDuRZtQb6
+- https://youtu.be/WQq_wKzvq5Q?si=YVleRXRZq3GSm1ry
+- https://youtu.be/LQ-7Qg41WSE?si=G26ylSVykK2p7V-x
+- Genius is spectrum I think. There is speech, exacta, problem solving, idk.
+- https://www.patreon.com/posts/89081989?utm_campaign=postshare_fan
+- https://youtu.be/BlSQTXV4ezU?si=woq4bJzcUhx9-KOR
+- https://youtu.be/ELUs1nByWnY?si=-BFeCMuQr0DqU--Z
+- https://www.youtube.com/live/VNTlLCbQIkk?si=DlppqCFL4rY8ciJj
+- https://youtube.com/shorts/I9EJBHx3J1U?si=sPUkI0LFIXvK21qp
+- http://www.openpool.cc/
+- https://github.com/alrusdi/foobillardplus
+- https://foobillard.sourceforge.net/ports.php
+- https://foobillardplus.sourceforge.net/download.html
+- https://youtu.be/saxNPy6nlVg?si=Trj2O47bIppOdDSD
+- https://www.neowin.net/software/notepad-857/
+- https://embeddedcomputing.com/technology/open-source/development-kits/design-and-build-your-own-custom-rp2040-dev-board
+- https://www.jagatreview.com/2023/09/bikin-driver-arduino-pakai-chatgpt/
+- https://hackaday.com/2023/09/08/homebrew-linear-actuators-improved/
+- https://www.youtube.com/watch?v=bQl6gj_6oa8
+- https://hackaday.com/2023/09/10/pi-pico-becomes-sram-for-1981-educational-computer/
+- https://hackaday.io/project/192655-picoram-2090
+- https://github.com/lambdamikel/picoram2090
+- https://www.youtube.com/watch?v=NQCIHpNaH1E
+- https://www.youtube.com/watch?v=EGr3MgVrxXM
+- https://www.youtube.com/watch?v=pc3135AeGKk
+- https://www.tumblr.com/n3rplex/717149122359115776/hey-ive-been-a-lurker-around-here-for-a-bit-and?source=share
+- https://twitter.com/yuukamiya68/status/1701234412329836929?t=ZqJ0A6rJZIPVb0MfNDo19w&s=19
+- https://twitter.com/mitsukayurie/status/1701165912894919011?t=KB7tmzopOHMvpZM04sQxjw&s=19
+- https://youtu.be/AHd_YTXkEY4?si=H7QPe5133n1xOKxZ
+- https://youtube.com/shorts/Frm5H719LuE?si=tFWh-mzGPboCW2mE
+- https://youtube.com/shorts/MvKitWtb-WU?si=THA7QKLJ7INxmQGw
+- https://youtube.com/shorts/XP7-US3fo7I?si=nRNaN6N1cnLgMmi9
+- https://youtu.be/W6zgffs7ef4?si=oVickVziarvwJC_H
+- https://youtu.be/__n3RRH5B_o?si=DScSqD5g-tGvId_V
+- https://youtu.be/ke7U27UAQeg?si=nI4K-jtRmwquOPUp
+- https://youtube.com/shorts/pl5zx69_LKg?si=LTC1wOIMnrI0HUqW
+- https://youtu.be/m7-vDLV3ukw?si=2owWurn076Kfq1bG
+- https://youtu.be/EXKgiciEl3o?si=G4YR5LAtmbOBv0us
+- https://youtube.com/shorts/XKtFxKo8Zb0?si=lS0OaT2SLqdRHoYy
+- https://youtube.com/shorts/WpX4kbJhY5Q?si=A00GAt693A9qS8Zh
+- https://youtu.be/meVQ3mD0Ask?si=CibRaz0YyMWPuSI2
+- https://youtube.com/shorts/odP2kHDJhvw?si=uFdNTdujhyQHa-_v
+- https://youtube.com/shorts/RWJRYNNrQjQ?si=gseOaw-KNQYJfHH6
+- https://youtube.com/shorts/iwB7qamapWo?si=L9sTem416dwohMfT
+- https://youtu.be/FeaMvir6UkU?si=SgLUxmH1i__BBzMo
+- https://youtu.be/vEhsRIWOyRQ?si=kmSU0kZWto35mWm0
+- https://youtu.be/VaAzwpoeXiM?si=mL2KOlHJ3-flMg5Q
+- https://youtu.be/ELUs1nByWnY?si=Q02ooQOGGx4DaS-p
+- https://youtube.com/shorts/lS36wTVk85M?si=ghtwasCZq0eZenUk
+- https://youtube.com/shorts/9vdP4YuYNYs?si=TNfzAl8D8v2egPaf
+- https://youtube.com/shorts/fEZqKgBp4Ms?si=3CwjY0zf4hzZsRtN
+- https://youtu.be/ZNVuIU6UUiM?si=MNGu1ygJgDjcGxwS
+- https://youtu.be/mmh819Lfgfs?si=LJqVDuHYhXW6xhC9
+- https://youtu.be/ILgSesWMUEI?si=YWAbgN5NYkBDspzQ
+- https://youtu.be/5qR52fqt-_Y?si=wybsgcgNbgjVRu9u
+- https://github.com/oven-sh/bun
+- https://github.com/oven-sh/bun/issues/43
+- https://youtu.be/VYPIsyue7ek?si=6OB1yQrL6_dd-rVR
+- https://youtu.be/VrsBV_hF5dQ?si=P24oQDFAIe4NIAqr
+- https://youtu.be/qVKvEaokV6I?si=gbTdW1h9Kv-Ljd5B
+- https://youtu.be/mPGZC8CW75g?si=qJphElgHHXgciru1
+- https://youtu.be/T9F1Wk8DQdg?si=Uf6VVr896MYoNnnu
+- https://youtube.com/shorts/HZvqSszBS3o?si=qc0aWJZKfcQTZREK cease?
+- Not crediting stl
+- https://youtu.be/NxsaHxON350?si=HqWafCzbUTeZpcIw
+- https://youtu.be/YI9vYH80DZo?si=Dy9dud8zyjdgpTYQ
+- Chat-sama, Chat-chan, whatever personified legion she is.
+- https://youtu.be/K78qVwe7Q1I?si=ybkWoz7ZO24ACzcb
+- https://youtu.be/XCSuXTxpVQs?si=h6sWK2YA2nMKGdxa
+- https://youtu.be/XCSuXTxpVQs?si=yUhbAcAh1moiEms4
+- https://youtu.be/bIIw_kZmO10?si=_gM29t2ZommYt3Pr
+- https://youtube.com/shorts/Q-ArAo3ncBI?si=Jd3SnQDN0oA0hyeP
+- https://youtu.be/QQ3OfyIM5uM?si=tfwLXaa15RvHulC6
+- https://youtube.com/shorts/GCZPP6byLsI?si=wWuAUQ8K1TV0noAK
+- https://youtube.com/shorts/VOVKU7MBzhc?si=o_XfkGRk40ck3-pM
+- https://youtube.com/shorts/gBdjZ4gR4A4?si=jjzqJys3n6oyDzE2
+- https://youtube.com/shorts/iLoK_YDF9-8?si=4BOLRPgR92gm2hcA
+- https://youtube.com/shorts/ZEzHEiPH8TM?si=9O4syInODFYA-74d
+- https://youtu.be/Wf-O289lFSU?si=3SzjoGGXymGAldtn
+- https://youtube.com/shorts/wAKz2XkZbLI?si=D2vgI7aHG5Izs8aW
+- https://youtube.com/shorts/o8K6HsTnqeE?si=O1TK8CXp88IxTcRT
+- https://youtube.com/shorts/-5n99BhC2i0?si=x01ElrhPnXY9a_FS
+- https://youtube.com/shorts/k8j3F4PxZOs?si=ChylNQ7W-GEkpURI
+- https://youtube.com/shorts/gM0-_fOdk-0?si=Gtaa2SWp9P1-VQq1
+- https://youtu.be/V18OWFO4esk?si=HGH9n4XHgv0XURtn
+- https://youtu.be/avcSzen7Ysw?si=UW1uvpBmjuoCJ3QP
+- https://youtu.be/1AmGJb2V0eI?si=yGBhGYS6KiofEMHv
+- https://youtube.com/shorts/plOcb3Dd1xU?si=mGytzWyDl_lpXrJi
+- https://youtu.be/S10wnsqX5X0?si=TQXOb560Zl1FmumB
+- NixOS, However.
+- https://twitter.com/slava__bobrov/status/1700837283648164126?t=PbbzQd_nTYNQjcuBbncn0Q&s=19
+- https://www.sciepro.com/
+- https://youtu.be/QRkmK_wXVLY?si=pvCrun_ir6V3HzQV
+- https://youtu.be/AqH6HnUmAl0?si=8y_D6fn_HVg62Btl
+- https://youtube.com/shorts/HJtxUk3RZw8?si=wHvz62IepbK4VQt-
+- https://youtube.com/shorts/Oakrevt9tzc?si=tHsXI9s9xPQGspEQ
+- https://youtube.com/shorts/Mw3EWH1vM4s?si=KMUgZmpCmrxdfejd
+- https://youtube.com/shorts/fMp6HDosojQ?si=E9LNWQlt6dTClKXh
+- https://youtu.be/1SAqYkTQ5OM?si=W5TZE6-hJRGh2EEJ
+- https://youtu.be/7gfY6TUx62o?si=_BIpYYCmF86Snl7m
+- https://youtu.be/aDdOchBejcc?si=cC6Vu2cy2xP1dN5m
+- https://youtu.be/4RUCkjRmWlQ?si=hjP2NvM7vcFgq5c4
+- https://youtube.com/shorts/8B0INLufExI?si=pP3jBNJAS9VpK5Eo
+- https://youtu.be/ucK4ntuh9m0?si=CdATsrEeXe5xTBKK
+- https://youtu.be/bBg7u3EHfRU?feature=shared
+- https://youtu.be/-sbTD2BqE2g?si=qIZ3FNsCGzmahlaG
+- https://www.tiktok.com/@passionwilliems/video/7160027018514681134?is_from_webapp=1&sender_device=mobile&sender_web_id=6916407706849871362
+- https://youtu.be/RWecZD78fSE?si=ZTMUAPXRPN3j3tIm
+- https://youtu.be/7RHrNc0fmtk?si=ng_n_eVObB4RI6zP
+- https://youtu.be/DoKqcDAhd8Q?si=4WX5wGsChl6BHGNm
+- https://youtube.com/shorts/xiMHNFaNCjc?si=VkMU-2JZ0uMn84wx
+- https://youtube.com/shorts/ryPFLuN6FOY?si=Q9l4hdHQ4khi433b
+- https://youtu.be/LdzRmfTyt88?si=bg2jAOJsDhd97cl-
+- https://youtu.be/jcohzOXC9GY?si=PqE54j9wj4rpBuCJ
+- https://youtube.com/shorts/z57GqSJb_hw?si=wrCm7Bt7yHOPfp6i
+- https://youtu.be/-DRC4as1rHs?si=hRhrUBw-H0uTihDA
+- https://youtu.be/agTmbxtj2d8?si=6Y7ab5BGoCgrWhaa
+- https://youtu.be/SUGUPlKxlGM?si=c9AzE4hSaqbY4UFm
+- Tom Scott goes to the Kena's dimension?!?!?!?
+- https://youtu.be/te1AEj_RA64?si=iuv9KswUiY4WXl31
+- https://youtu.be/_l5ZEjkt2tA?si=lrdLj1nbpyDaKmkK
+- https://youtu.be/EwLhi6597QU?si=7T-fuM1662AejrTK
+- https://youtu.be/AnmdoUgFbTE?si=aT3ToNP_O2Pd45_D
+- https://youtube.com/shorts/bMs6q87DeaY?si=267Iig9rqKSBIRJN
+- https://youtube.com/shorts/BwE3YtZfdLA?si=_hMx99-kDWYNKnvC
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3026990586
+- https://youtu.be/qorCytCoRLU?si=QXI8MXtjvSM4j5GC
+- https://youtu.be/9T_IHQ072Fo?si=gvel1D9E8uL1AJEZ
+- https://www.twitch.tv/videos/1905940632
+- https://youtube.com/shorts/u8hh7mlUa1E?si=zPQtRM8gjkfTmvW2
+- https://youtube.com/shorts/OuBwJ0x_-Wc?si=EcaLy4W75upXmtfw
+- https://youtube.com/shorts/JI7ALqJG_wo?si=4TACm5ixezmsip2R
+- https://youtube.com/shorts/TQZzENYCg40?si=3VuBxzaW1E7Oj7Lg
+- https://youtube.com/shorts/YnBEeIg-sCY?si=A04qlJP_WM-hARHI
+- https://youtube.com/shorts/yIU60G-Hgs8?si=p9dhD8in0u6OZEFX
+- https://youtube.com/shorts/5K3kM5b_7lk?si=-MLN8DsEhvY-Vh33
+- https://youtube.com/shorts/fkClzUZHrWg?si=DD_BXBPOtF7sDS2W
+- https://youtube.com/shorts/Iz08RGAiR54?si=y2TMBUXHRZANvzzi
+- https://youtube.com/shorts/a7JjSavLTVA?si=aofJ2ONMjQBHFVrR
+- https://youtu.be/k95m5757G-I?si=3PgHERcSIg-4kVZo
+- https://youtu.be/hUU1wZHnb5A?si=1WHCGVIUivwL-eX6
+- https://youtu.be/ygGfOWpjaWA?si=MmAzr1Eifxi6bjMM
+- https://youtu.be/q60NYnRF5Xw?si=zVn_H6m8q_Jkni1m
+- https://youtu.be/HWGeaVfGWXk?si=6138-XiTID_MMVyz
+- https://youtu.be/9uxiUzJNzRM?si=ycLTzRxyEk_LmjmC
+- https://youtu.be/90VulyK6n9U?si=759YEreVeBejlrFo
+- https://youtu.be/OnKfHAvIxBg?si=FqKHoGaOCo5K7H21
+- https://youtu.be/XzQJeYATnHs?si=WWZGuksWQGZ7nDo1
+- Pls SeeU MMD!!!
+- https://youtu.be/e9KlJfCVnIA?si=T7-xl4Gleo8mH1Lc
+- https://youtu.be/NmgOWKQj5-Y?si=bB_uNVrU08NHPYwU
+- https://youtu.be/R7xFZUC-QuI?si=N0fLcb2nZ_Fvet9d
+- https://youtube.com/shorts/7lvQAhic22Y?si=9Xdf056e65XyHaFB
+- https://youtu.be/2QTR78_-OWM?si=7tGdwF6qt2ZZ7QDo
+- https://youtu.be/Tt9lGX4N2Qw?si=Y0vzfGtqkqCRAWzN
+- https://youtu.be/kIr4tMVd7l4?si=4KybRXocLKUMAyGl
+- https://youtu.be/US5zHJygJrA?feature=shared
+- https://youtube.com/shorts/XP2s27EvyEQ?si=iYZCYstd4DVU4HUl
+- https://youtu.be/YWmbUMStlGI?si=RgZNGuF_ff4Tr2lc
+- https://youtu.be/K2GvFFF780E?si=ht2jGN_sksHQawJ7
+- https://youtu.be/YUDbfCWLCDk?si=bsPdw1WyXC7PV6aN
+- https://youtu.be/XNdIpVRkx98?si=idLBmE1zYSbdcTMK
+- https://youtu.be/NDNmIhncavA?si=drSoh_DjRlMSgszG
+- https://youtube.com/shorts/go9-SSZinVU?si=aP-agi4I6QlV9zCS
+- https://youtu.be/YR_ob6msbH0?si=iHn9jlTINItmHZGQ
+- https://youtu.be/8VBZ1upH93w?si=rGopvOozTAqc_lIC
+- https://youtu.be/mHt1yLzHQCE?si=6HGuWYHde1KvmPWM
+- https://youtu.be/TKvb-GDmOYo?si=7OhGBLk_WEJ85rNg
+- https://youtube.com/shorts/rXjapoe4HLc?si=mHH4JfKMn8enFcUF
+- https://youtube.com/shorts/PN-ehrgXcA8?si=jnhF6ukwKYPzPJTu
+- https://youtu.be/he7lwEBVT4A?si=8UGXEzpV0oIlPq8F
+- https://youtu.be/lTgPsNcOEdk?si=r5oSyaj-nOPI2h0Y
+- https://youtube.com/shorts/KPcHJHE5G34?si=k5zsUFArXQCuRhSb
+- https://youtube.com/shorts/SxmQkViK4DE?si=M3_MVvxtzLRD4_D5
+- https://youtu.be/8VBZ1upH93w?si=VE4EfdIEAjSJgaSj
+- https://youtu.be/silIdzgX2eQ?si=82hm_vKWyXhohBTy
+- https://youtu.be/8PLxq7weus4?si=AJ0KAoAABSmNmoBc
+- https://youtu.be/dLWTDp2Ciyc?si=q2i66132DfPCC5r1
+- https://youtube.com/shorts/Eaim3tfU-Fw?si=UocSWwU7pv3YErMt
+- https://youtube.com/shorts/wyo3ZGYNyQU?si=6hHlSLb13dcApWwO
+- Sfw
+- https://youtu.be/IC_4poGiEJo?si=-TdOUxvbaUQm5WyX
+- https://youtu.be/DF3hkJ4bVvc?si=Bf642XwRm3W9Mc_l
+- https://youtu.be/XzQJeYATnHs?si=JcSlRIHDplRGoIgp
+- https://youtube.com/shorts/9QZiwzvNfpI?si=f3GMGafy6SshcBWg dude that's elite manual limiter
+- https://youtube.com/shorts/SQULT2GckPw?si=_72nJClSqAea1G1u
+- https://youtu.be/wtyjt7s36bc?si=XK7FfefTAIWAAQdd
+- https://youtu.be/f-Z5VFNsy4o?si=A4ayw3X6HfBVD1cQ
+- Pls uganda knuckle cvr
+- https://youtube.com/shorts/BpEOFiMUcNo?si=SvxGYYXGUfhnlqm4
+- https://youtu.be/Bzr7a1gnzgw?si=xjW4dx167TqZ55x5
+- https://youtu.be/DE8Bl4PrZnc?si=rOESA58nFXN_zWp5
+- https://youtu.be/xNZyhfZITDE?si=x5ioMADxMpYhwGjy
+- https://youtu.be/pK5tYKteLDY?si=9dUN6Ph4dleoHLsL
+- https://youtu.be/jO7m9frL-3g?si=dMgr8eOAn5v9c_bQ
+- https://inworld.ai/
+- https://youtu.be/2YykPJHIQ60
+- https://youtu.be/nckKjw2I_sU?si=xTMFIaLQztbgnqjz
+- https://youtu.be/th252sKyFNU?si=n7oxgzVflEvqkCW7
+- https://youtube.com/shorts/FIiKo9YeF_E?si=0qS-WOecLUWeaaKX
+- https://youtube.com/shorts/0hRJgt7VXMg?si=SsazhIoBb1b1CbuA
+- https://youtube.com/shorts/plrKCiOSG00?si=2Gg1bUv-f3sBFenu
+- https://youtu.be/EkURp59BAas?si=94RRaAuzqACMOGYU
+- https://youtube.com/shorts/sV6A3JaJWlI?si=Yr34rk1uQ88-lEJx
+- https://youtu.be/rPNrHN83Bdk?si=WXNte7ITbpOYpv2j
+- https://youtu.be/x_QmvZRS85U?si=XaSM5aXjXgSGyxNl
+- https://youtube.com/shorts/5x_Vhe500qY?si=YJ7dTqG9DAQMWSxK
+- https://youtube.com/shorts/hp3F2bc37XI?si=HL2-WVLCIdecSk3v
+- https://youtube.com/shorts/hDSZ8yczHPM?si=oJEQtydpgKnauOm_
+- https://youtube.com/shorts/_tPN5930j0s?si=7gLeZ9A81cNqjKtw
+- https://youtube.com/shorts/_tPN5930j0s?si=7gLeZ9A81cNqjKtw
+- https://youtube.com/shorts/7nd97Ibuxs4?si=uj3SA2U7dvMNpL5Z
+- https://youtube.com/shorts/3uPgRiI9CTw?si=kMooH0Y3PUY2hFFQ
+- https://youtube.com/shorts/Yl-4M-0y_T8?si=yR6sRlzXArU7CG71
+- https://youtube.com/shorts/z-uBkKEOd2A?si=aJWzTUqRhuknUXgZ
+- https://youtube.com/shorts/NUj6K58n-58?si=YkZY32nyUqc7noyq
+- https://youtube.com/shorts/ngBY2nOpZ0w?si=aRthpS69ZndMsrz4
+- https://youtube.com/shorts/VXefdO_JEHg?si=yUKak9My1UU7UTSB
+- https://youtube.com/shorts/HYLoJzCiHoo?si=F7oU6ldZpQY6TDWm
+- https://youtu.be/yu91Jra3lpc?si=R2F81ahn81ZsB0_L
+- https://youtu.be/4ICduOfMbzw?si=jml7iqFdxi_-s50e
+- New! MeatReplica Salmon edition! Vegan Salmon meat! Why Sushi has to be that vegetable, if we love meat? Why no meat?
+- New! MeatReplica Chicken edition! Now Lontongs are 100% vegan!! Including the soup and egg.
+- https://youtu.be/jBjZvncMeD0?si=F_-1MuMGygnmR9-z lied to me. Ask wa is not open source.
+- https://youtube.com/shorts/Bc4ic9VR2kM?si=8Ul1H3xYpsijcQmu
+- https://youtube.com/shorts/7gGuN6vr23A?si=w0TYlC9GXM-ahfNc
+- https://youtu.be/xOwO4TguMPE?si=VJLtjKnuBiUy8vOc
+- https://youtu.be/60y4RuvB6NQ?si=TW_WMvsTL8gHuEdA
+- https://youtu.be/MhkH6BUNgwo?si=eh8IxL8tZjcSwP7y
+- https://youtu.be/TSvvuQDBQU8?si=jqWM9RSu-9wTXo0M
+- https://youtube.com/shorts/0gtYEj8tJuU?si=pnk0dHKzqArTDWz5
+- https://youtube.com/shorts/jIJBI_ZGzbM?si=oWD76C1VuKgDkUwC
+- https://youtu.be/EpJBHAbNI1w?si=xODhoS77FKqnOPB_
+- https://youtu.be/8Be8POFrqV8?si=2ZfZ7yenjgzO-5ZT
+- https://youtu.be/fklf09sZaq8?si=P6hKM21OBIMp0s6Q
+- https://youtu.be/7l5A_C44L8w?si=jsmK_F1Hnd-cf6iD
+- https://youtu.be/kTHQ5lTqjAo?si=rVCIerPP4kUchew7
+- https://youtu.be/WmuUs7PPeF8?si=RnY9JN-lR5PWCbdy
+- https://youtu.be/w7H_JP2NV3I?si=fh6bWRpd6ql21iIj
+- https://youtu.be/cZCupiKd3qo?si=TKkLv91FJgCNBQ6f
+- https://youtu.be/G9TdA8d5aaU?si=uu04O3NzYieBND2H
+- https://www.tumblr.com/silv-paru/728200843921358848?source=share
+- https://twitter.com/kRensama_/status/1701624092238197042?t=0gFO8ifVz_Da7ZylmoTGeQ&s=19
+- https://twitter.com/asagi_0398/status/1701499857343758501?t=0gFO8ifVz_Da7ZylmoTGeQ&s=19
+- https://www.patreon.com/posts/89189816?utm_campaign=postshare_fan
+- https://www.patreon.com/posts/89188361?utm_campaign=postshare_fan ugh whay paye
+- https://youtu.be/gz5nSco-En4?si=pYF56dr21pZnRflA
+- https://youtu.be/PEikGKDVsCc?si=Ict-_Mx2SfJNm84n
+- https://youtu.be/yFsI2IKzSgA?si=E_tFdOMv9e_vvjqQ
+- https://youtube.com/shorts/C_uDRU5KgIo?si=J4hK8CeRzBZ1toC7
+- https://youtu.be/QDvDb1a30NA?si=0s7GZDeN8-nOs8bL
+- https://youtu.be/O_gBLJ_YsOc?si=YTs07ZbvPuFV5x_g
+- https://youtu.be/mg9Y2fcT2Rs?si=dobcRZauing7XfIp
+- https://youtu.be/enR58PYHaWw?si=SvlKUBX9sFxRkmrc
+- https://youtube.com/shorts/ltpbEQA8Fwc?si=Lr8UztdP_tPYOhfF
+- https://youtu.be/e8imIy9Kjwg?si=HJO3A9cOy1vgCOgd
+- https://youtu.be/xqyUdNxWazA?si=uhohqGil1XCkt88Z
+- https://youtu.be/EcGXCJm3XMA?si=-Oq-In039Oe-iQmh
+- https://youtu.be/ql6mhhHCldY?si=8NSlhl4ITaEic1pf
+- https://youtu.be/XHTrLYShBRQ?si=Ck5JUUhOsxnH4MFy
+- https://youtu.be/XHTrLYShBRQ?si=Ck5JUUhOsxnH4MFy
+- https://youtu.be/jELeFXNJUOE?si=eBC3Un-Y4vIP_sEr
+- https://youtu.be/ZsJ-BHohXRI?si=8bwnQ-J_mrD0o3Nx
+- https://youtu.be/hdzLWqnc8b4?si=95xDj-0b7nGK7Di4
+- https://youtu.be/IErhhQag3sI?si=ESNftExCBcIPDOO8
+- https://youtube.com/shorts/48nCw8nuBV0?si=jHoaj_k1kqBcdlu-
+- https://youtu.be/QfsNPW_MmAA?si=WHHFEWilxmgdRted
+- https://youtu.be/XmDhS5aNQ7I?si=UNOIx2c1zyDzThuM
+- https://youtube.com/shorts/uHMW56oSsqA?si=MucJkJCpnEB_2rUq
+- https://youtube.com/shorts/4ZjfVtbtL9Y?si=04wcRizNgu3KGNfO
+- https://youtube.com/shorts/HxCVRw5FXY8?si=csbBvFB1Ta6FPT4A
+- https://youtube.com/shorts/ua3X4tQ5l9o?si=jRpgmS3y99B2tVIe
+- https://youtube.com/shorts/ua3X4tQ5l9o?si=jRpgmS3y99B2tVIe
+- https://youtube.com/shorts/oiXX_byAK5w?si=2Uvu9VQWH9kfwlxa
+- t
+- https://youtu.be/NIv42lrXjcc?si=kMdpwGOkcGi88tDh
+- https://youtu.be/60y4RuvB6NQ?si=CELRv42NyyqzYdy1
+- https://youtu.be/w8RyFYLTmFE?si=QC4H47FlbwCJvXh7
+- https://youtube.com/shorts/4SOZv1umQ3o?si=FGsmyfslOlRK1hnS fake
+- https://youtube.com/shorts/pViE8WadTtA?si=HVshv173bfN0bh3E
+- https://youtube.com/shorts/4qAMndqt7zo?si=Hqb29bMf_43-1m4x
+- https://youtube.com/shorts/hN6ft8DYO7w?si=qzh3r9ut3m_RPN8p
+- https://youtube.com/shorts/UlF9PqCx5nw?si=8BLeiqo2_gS-s3st
+- https://youtube.com/shorts/iUKBY7vIJJk?si=2jrPVi7e_eg5wmpD
+- https://youtube.com/shorts/qCwn5sd7p8Y?si=C1ziPxYtYOlIrFOO
+- https://youtube.com/shorts/456PsZdoTJI?si=qPZhPqCWsFzcXy--
+- https://youtu.be/OXvKEjoYULM?si=6jBWrB4EVzBGrTPZ
+- Pls retrive our billiard custom games odysee
+- https://youtu.be/UH0jTz5LCxw?si=WCSB_KtZuQyyz_3n
+- https://youtu.be/7KuLMe6KSVQ?si=536v_eTBxQrXNm-g
+- https://opentdb.com/
+- https://youtube.com/shorts/paJQiE6A5x4?si=gJ5cHGRoTfNDuSc5
+- https://youtube.com/shorts/Loo1b9T3rFc?si=RUBrmFQrcSTLTWyr
+- https://youtube.com/shorts/aLfx3-m1FUM?si=9YXlECBwJ8KdJQel
+- https://youtube.com/shorts/YoJyvS-BXhk?si=POh0qo448Y16fx4M
+- https://youtube.com/shorts/R4qS864GQGc?si=DuLckK5RsHgNodZ-
+- https://youtu.be/6tuiYTTPQvQ?si=YaMwYavVwT0HuCqX
+- https://youtu.be/obi1I3IsGY8?si=l3GnU9GrEA6hFTX8
+- https://youtu.be/atoRrXoQ0wk?si=LIU9c34zuKmhcyO7
+- https://youtube.com/shorts/XDSeepm0oAg?si=rhxSusudPP2h4-VF
+- https://youtube.com/shorts/XDSeepm0oAg?si=rhxSusudPP2h4-VF
+- https://youtu.be/p5s3PlhGwsA?si=OfiC5f81cWdd6MPM
+- https://youtu.be/p5s3PlhGwsA?si=QW7IXlQIJYU3ndEt
+- To use keycap puller, make its wire over the keycap base, and pull. Usually you rotate the wire encapsulating horizontally to get best grip coverage.
+- To use switch puller, hook these nails on the switch top & bottom, and pull like you're breaking it.
+- Media combines piece of puzzles your accidentally revealed card when you take it out of wallet to pay. Including your CVV.
+- https://youtu.be/webKHosR27Y?si=qV9gJK5NDsSrXgAj
+- https://steamcommunity.com/comment/ForumTopic/formattinghelp
+- https://www.alphr.com/excel-count-cells-with-text/
+- https://www.ablebits.com/office-addins-blog/multiply-excel-formulas/
+- https://odysee.com/@JOELwindows7:a/No-Mini-Snooker-set:8?r=AVNz6gwwweZr3tpaFMmC16x4sik5MUiL DIY snooker
+- https://odysee.com/@JOELwindows7:a/I-bought-mini-billiard-pool-table-reposta:d mini billiard
+- https://odysee.com/@JOELwindows7:a/Mini-billiard-ball-collision-reposta:7
+- https://odysee.com/@JOELwindows7:a/mini-billiard-bug-2-middle-pocket-reposta:c
+- https://odysee.com/@JOELwindows7:a/No-Mini-Snooker-set-reposta:5
+- https://odysee.com/@JOELwindows7:a/mini-billiard-pocket-bug:d?r=AVNz6gwwweZr3tpaFMmC16x4sik5MUiL
+- https://odysee.com/@JOELwindows7:a/mini-billiard-pocket-bug-reposta:f
+- https://odysee.com/@JOELwindows7:a/8-ball-billiard-mini-reposta:7
+- https://odysee.com/@JOELwindows7:a/Mini-billiard-pocket-size-reposta:8
+- https://odysee.com/@JOELwindows7:a/Tabletop-mini-Billiard-jam-clog-bug-reposta:f
+- https://odysee.com/@JOELwindows7:a/8-divisible-billiard:7
+- https://odysee.com/@JOELwindows7:a/Seeks-Nayn-Billiard:d
+- https://odysee.com/@JOELwindows7:a/Billiard-very-spaced:2
+- https://odysee.com/@JOELwindows7:a/Further-Henry-Stickmin-Ball-Situation:8
+- https://odysee.com/@JOELwindows7:a/Henry-Ball:1
+- https://odysee.com/@JOELwindows7:a/Henry-Ball:1?r=AVNz6gwwweZr3tpaFMmC16x4sik5MUiL
+- https://odysee.com/@JOELwindows7:a/Triangle-Bone-Billiard:0
+- https://odysee.com/@JOELwindows7:a/Billiard-somekind-bocce-kelereng:b
+- https://odysee.com/@JOELwindows7:a/8-ball-billiard-mini:8
+- https://odysee.com/@JOELwindows7:a/billiard-balls-arrangements:5
+- https://odysee.com/@JOELwindows7:a/billiard-mini-awkward-gameplay:b
+- https://odysee.com/@JOELwindows7:a/mini-billiard-return-system:5?r=AVNz6gwwweZr3tpaFMmC16x4sik5MUiL
+- https://youtube.com/shorts/RJQwaU1sNRQ?si=6d5qkWvAyPKWOtUx
+- https://youtu.be/MOggSa2UTlU?si=ENdPdi4NX3I58sz2
+- https://youtu.be/isvrIK7Dj4A?si=SXxad2O1MGZBf437
+- https://youtu.be/z0UzVSBqvro?si=yWYyuMOIQPPXXm5m
+- https://youtu.be/JinQIyEhfew?si=yzw_MqnGATkxSqSe
+- https://youtube.com/shorts/54BXZbauHDk?si=J5aVCdHEKKOLz6NG
+- https://youtube.com/shorts/QvSmses7-Lg?si=gN1gw2l3cDcFAlEA
+- https://youtu.be/JinQIyEhfew?si=yzw_MqnGATkxSqSe
+- https://youtu.be/kO5GGQYO55E?si=C4jhrD_fBH8H6pL9
+- https://youtube.com/shorts/JcxLUs8V9kI?si=8PrR22A8PugF8z9c
+- https://youtube.com/shorts/LUWdzzsFDyM?si=uHFfiOBHrCQtTTSI
+- https://youtube.com/shorts/Sd-khHYMe6g?si=p4_Ed_Gd_MISuS7U
+- https://youtube.com/shorts/psGDhLTmbdk?si=Pkl-nEXEqNYzJCzi
+- https://youtube.com/shorts/L1IoxRAayZc?si=czQTOxVz_PuqJgli
+- https://youtube.com/shorts/OJhaP1VpyE8?si=y9wqdGTEOWRpctpj
+- https://youtu.be/kO5GGQYO55E?si=MvOMHIVWGZwnidH3
+- https://youtu.be/aMp3weMX_kU?si=d9tEts3Ks7lqZXdV
+- https://youtu.be/dfqtGkDxhGs?si=7Pm4RBQqJLmCICeu
+- https://youtube.com/shorts/XLJ8CarRFrs?si=qpGAbwoistRxTERf
+- https://youtube.com/shorts/_ZIrNa7Fqs0?si=FLrms11AEfXZbZgh
+- https://youtu.be/E4Cnhz0t9_w?si=lFKFZNHFlYn7opGZ
+- https://youtube.com/shorts/L5kIXRdwGAI?si=ofIfpOSaVkahiWZi
+- https://youtu.be/G84p7eCplkI?si=9RQxeoo9P92YMOip
+- https://youtu.be/w4-tRJ3KtL0?si=YOHaKiGu2HnJfbnv
+- https://youtu.be/LMHN0rR5cYw?si=pFn1A1D30ERWv3BS
+- https://youtube.com/shorts/LmylBSqihR4?si=ZR-kMwOaxK71Bbl4
+- https://youtube.com/shorts/3cLWvYr-PMo?si=44x0IN960CDYQStR
+- https://youtube.com/shorts/Vhfa8dtBWss?si=QltEzaS6sweFPKSs
+- https://youtu.be/7UrVlT12WiE?si=Om9vH6Mi6eigcfeA
+- https://youtu.be/FCNtXx_XmmE?si=PN1xcbdyDo8z-6hW
+- https://youtu.be/msTm2nCs-sA?si=aIQi5ouiMYFsIRNT
+- https://youtu.be/OGzeGUDAtac?si=OZZpP2aUJH64fP_S
+- https://youtube.com/shorts/kOpUPQ_WTq8?si=8cw4H0nqMeoUx2mV
+- https://youtu.be/WmXoD1ovbqA?si=z5BvuePhh8LVFdDS
+- https://youtube.com/shorts/GwWFXlmrlnw?si=teb6VMLXtzyV5dKZ
+- https://youtube.com/shorts/UmVvBHC62qA?si=0ArMwxr2wDXVwWwh
+- https://x.com/TheDiamondMan_3/status/1699303218021273977?s=20
+- https://x.com/TheDiamondMan_3/status/1697322760513495277?s=20
+- https://x.com/TheDiamondMan_3/status/1691799891654127752?s=20
+- https://x.com/Animate_A_Thing?s=20 yeah peck you, moving on.
+- https://x.com/TheDiamondMan_3/status/1681732754575114268?s=20
+- https://youtu.be/i0miob8aMPA?si=hUUfeMYGbklMMKdQ
+- https://youtu.be/i0miob8aMPA?si=hUUfeMYGbklMMKdQ
+- https://youtu.be/g9JE7EmcDk8?si=jSHEzaUpY9SDkDxH
+- https://youtu.be/PJeIbMZsGgM?si=BueA2nGo8VqdzYmw
+- https://youtu.be/RiGUi0HwKzw?si=SD5RblQaQFU3q34K
+- https://youtu.be/AtesEubZzMs?si=rvvhMv2nkC5V0KM9
+- https://youtu.be/EzNiiyahH68?si=o9bLkpP45FLNofqk
+- https://mixed-news.com/en/meta-quest-pro-giveaway-rdc-2023/ facebook gave away Meta Quest Pro to Roblox devs attended in an expo
+- https://atari.com/products/atari-2600-plus
+- https://hackaday.com/2023/09/11/atari-introduces-a-new-old-console/
+- https://hackaday.com/2023/09/10/open-deck-is-your-window-to-shortcuts/
+- https://www.theguardian.com/games/2023/sep/13/unity-seeks-to-clarify-new-game-engine-charges-amid-outrage-from-developers
+- https://hackaday.com/2023/09/12/logic-analyzers-capabilities-and-limitations/
+- https://hackaday.com/2023/08/31/logic-analyzers-tapping-into-raspberry-pi-secrets/
+- https://martypc.blogspot.com/2023/09/hacking-book8088-for-better-accuracy.html
+- https://hackaday.com/2015/04/10/demoing-an-8088/
+- https://hackaday.com/2023/07/03/theres-always-room-for-another-cycle-accurate-pc-emulator/
+- https://hackaday.com/2023/09/12/book8088-slows-down-to-join-the-demoscene/
+- https://safing.io/business-model/
+- https://safing.io/pricing/#comparison ah s888 paywalled local features?!
+- Investigate feature is paid. There are those that new stuff.
+- WRONG!!! The paid SPN make sense, we specifically complain about these invesrigative features. Only those.
+- https://youtu.be/Ob0yt_fsTbc?si=gQKtOsOerOouOlep
+- https://youtu.be/_yEu2R1gYSs?si=ak4a8QpBHDg-PXlO
+- https://youtu.be/39aGHyUBIzQ?si=zk0EomeHm03Gq0Vx
+- https://youtu.be/mtE8AfVXKRU?si=cbOioX1UfBjyGbIC
+- https://youtu.be/8pqJ9S8iMQg?si=LGERu9UaWeDv5fKX
+- https://youtu.be/lwf4Sn-rj9E?si=9YrLUGPvi1OTLZKl
+- https://youtu.be/gVSqbpPSCP0?si=quvWgq736hkSsuZh
+- https://youtu.be/RRY1jrIDhvU?si=GO6ww6O4Bzwd3v58
+- https://youtu.be/rmA1AQ2d7D4?si=F4hKqJvVcZ5Nd4Rr
+- https://youtu.be/OZyJnbeYG_Q?si=hY4p2i-aKHcvU23F
+- https://youtu.be/BeQGY_WSGjo?si=Xh6T5IhwExIo-9O3
+- https://youtu.be/MFAja1z2zDA?si=qv-Kylw7dCqZ5r6T
+- https://youtube.com/shorts/lk4aDCHw9aU?si=3bl8o5K8rtV6jMsz
+- a
+- https://youtube.com/shorts/oo5Z8kOGJB4?si=hjBZHJfh_VFWud5T skibidi toilet 61. Speaker woman
+- https://youtube.com/shorts/ZNuG2Nl-wrA?si=RxeLnQSUx7y_cBYu
+- https://youtube.com/shorts/8GxDwN5Ssyk?si=XvXyBsAMAaqmxdWb
+- https://youtube.com/shorts/UUTGSsg1Rac?si=STxr1ApU-pisu0CR mongol toilet
+- https://youtube.com/shorts/_9RpTEnYo8c?si=NSaPXObgN8AKut3H
+- https://youtu.be/yQVZE6rA9YE?si=XdDpGkGoPf6SVOD1
+- https://youtube.com/shorts/4GinndwXlhk?si=yzxrK9eOAmwU64RN
+- https://youtube.com/shorts/OT_pYvTCskA?si=a_DPI1g2-F_KNM8R
+- https://youtu.be/sgeCm5hACKY?si=CzJXPucmlSbCSnNf
+- Sodafunk
+- https://youtube.com/@sodafunkch?si=u0GYuOHjj07nXZrk
+- https://youtu.be/IQWk2fbEMTs?si=kzRwxa0pttlTWotq
+- https://youtu.be/ryclyk2ctx4?si=vV3QcrEH8CUe-Ar3
+- https://youtu.be/IiB1jhm0UH8?si=4kiX758kyx4rh6Qm
+- https://youtu.be/g_5yzJr3Te0?si=Zzld1Sm_Z8Vw_7Hk sodafunk hi honey baka
+- https://youtube.com/shorts/y8X7v7EyeEs?si=LsNiRGvuEhpCaMvn
+- https://youtube.com/shorts/Gfq9pTQcmX8?si=9suCczQs3VZj1-D6
+- https://youtube.com/shorts/3FWlDYwpp2A?si=S15-fQcZPRIUzSlj
+- https://youtu.be/etfk8DkLyNQ?si=6xESXsPv6wwJYBWb
+- https://youtu.be/5tFVFAdk22s?si=QEOBpO5tQPeKg5dN
+- https://youtu.be/_9WNkH3v_lo?si=gMy0BqmgNHb-Y-Me
+- https://youtu.be/4cHxinb2LGI?si=rSjeEnh1UhZYQ-xi
+- https://youtube.com/shorts/JdSdgYiyBkE?si=1nY5-WpQSIdpUwrU hey this is phil
+- https://youtu.be/UEfmFuR1qBA?si=xrlf7CoEJyjeOmlu
+- https://youtube.com/shorts/AIIrUZNKIwM?si=8k5azv6Me8mhxRWf
+- https://youtube.com/shorts/YHBTwQn3YfI?si=bHJR0fsAsEZNtQlW
+- https://youtube.com/shorts/w7uOQiCJxQk?si=uwZ-sD8qr7OqULnC
+- https://youtube.com/shorts/2NRa89YAwlw?si=sUaZldNVqIBmzWLs
+- https://youtube.com/shorts/U4xrUjC3Ovc?si=mqoRZav0DH7-Lf_G
+- https://youtu.be/sYU3m4ARtNc?si=C5CldMuX2Nf8PwWs woodpecker pecks cctv bass boosted
+- https://youtu.be/1OoNTYXaZrM?si=j4zlfrmaBNuKmpJi second bus coming amiga
+- https://youtube.com/shorts/KMxqkQQpbOc?si=_oqXV9_M4WrSOpjc
+- https://youtu.be/305YfKMyqVw?si=bkLodsXiMf0lpGxA
+- https://youtu.be/esamrRznjrg?si=nf2XAxyWhUTkxHlb
+- https://youtu.be/Khu9BB2g4Ks?si=Wh5Hxk-q6pf50qX_
+- https://youtube.com/shorts/HPmhGs2IQRo?si=dIU0g5_S8W0skKDX
+- https://youtu.be/pIRNpDvGF4w?si=wm-7Q5oPEN45OcQt
+- https://youtu.be/9NN3of3eXls?si=zS1PDF-h13m1bwjv
+- https://youtu.be/IRcgHjGIGx4?si=YFp47p6wWRlNFrjJ
+- https://youtube.com/shorts/PtThT9ba8uU?si=bG2Z-8Gdc3HcuzPh
+- https://youtu.be/LAIsBob3ekA?si=_48VSCWA3s1PyAa6
+- https://youtu.be/z_4iG97pp6E?si=5xW-cZeagDqjVLFG
+- https://youtu.be/IjFiWlXC9lg?si=hUWREm4dSGoD0WtK
+- https://youtu.be/LVVf0dsmBjk?si=WuTtmHqSBRd4sHi6
+- https://x.com/mockingeu/status/1700840450003964288?s=20
+- https://youtu.be/ljXvcmzavJg?si=pGDsM2ZoAzz2R8sV
+- https://youtu.be/ikF0pZqpfYw?si=huGJZuGtVaYu5Zi7
+- https://youtu.be/4-O6Vx83bW8?si=a30lIz6lsQIn62ho
+- https://youtu.be/ljXvcmzavJg?si=5RKZN2PhIFAzGhB4
+- https://youtu.be/Dh01lrGoLEY?si=00JA1_gqv8ZM3Zxm ms sam war story
+- https://youtube.com/shorts/HQ71h_hAreM?si=Ch90uAep7OrOnHjt
+- https://youtube.com/shorts/8e6SYPyt19U?si=ruHqYaJDiDFvVNQk
+- https://youtube.com/shorts/iTqotRe2n9E?si=MaDE1cR_y1jey1LJ
+- https://youtu.be/Bj_H4TNAeiw?si=6QDmvMymGqeLGDgJ
+- https://youtube.com/shorts/th0ithlEkXY?si=xl9uXV9ON9lydrEh
+- https://youtu.be/ELQ1XxPUGNE?si=KA7CKaXmOr2o2m2R
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3034402842&searchtext=
+- TicTacToe Battleship?!?!?!?
+- https://youtu.be/USEjXNCTvcc?si=1Fptvg4YDG7uoICR
+- https://youtu.be/PZCxrf5o8uA?si=crXSTeeyS9_zhHYz
+- https://youtu.be/3BgMWQZB67c?si=NMeKJt7soUMYG0qF
+- https://youtu.be/NhtYt1cRFzw?si=zYqwQU_PaOfnbLL_
+- https://youtube.com/shorts/CxqU-P3QsWo?si=4-CV4m0x5qXen7VE
+- https://youtube.com/shorts/DvQfD-BzT84?si=xoUaQcKfbIRCM-27
+- https://youtu.be/uYZHLn8OoQ0?si=pD8SRDLYU00MUeg6
+- https://www.tumblr.com/spongebobssquarepants/727369912098684929?source=share should we? No? Idk.
+- https://youtu.be/1ML7jzqT-0o?si=vI6qJ82nGNgtzzJP
+- https://youtu.be/PZCxrf5o8uA?si=BWRl9TFqRtuGULsP
+- https://youtu.be/A9fJT13NT6g?si=7pCeQxu7LrM-2MD6
+- https://youtu.be/qNlA0Cw4V5Y?si=fLXv0Y6dY0jTNIem
+- https://youtu.be/MH2JHRBQ6ng?si=u1cGeZFvq0f34XSz
+- https://youtu.be/62DxELjuRec?si=mLOFnMZvN8pkFvQy
+- https://youtu.be/8dwfenxKYto?si=gsOcNQDJyLvvfqCG
+- https://youtu.be/1-t4_TmmxEw?si=QzVEZsH4UP34akVo
+- https://youtu.be/nhNNGLIuN28?si=dt5Z9GAIw6O5s5Sl
+- https://youtu.be/dPfLZmmUogs?si=hd4ADkltwYq3X8SN
+- https://youtu.be/AZsFxCToj-A?si=cPfr9g5ZqVU0HZu_
+- https://youtu.be/NB_k1cuwGI0?si=8pa40qMHLnaAP2Xp
+- https://youtu.be/2ftqbfusJ7E?si=ZDk0yVJR1Att-itj
+- https://youtube.com/shorts/ev3xnAYWxsM?si=XEuLP3zE2UcX3fhT
+- https://youtube.com/shorts/7MXJ1XaCkys?si=7am2UIKl1Z9R7AnP
+- https://youtube.com/shorts/O9WCSsjTBno?si=BqySFii8bKvY2Mg2
+- https://youtu.be/AP4fxEnn4NM?feature=shared
+- https://youtu.be/pVtaM-PawYc?feature=shared
+- https://youtu.be/FwFBrh_0qCE?feature=shared
+- https://youtu.be/-uKOHJLs-mo?si=r9j5lPogVYomdeNE
+- https://youtube.com/product/O10594600759534353527?si=1fHSKlSN72REdysR
+- https://youtube.com/shorts/RfzRuit7Ojs?si=z6V6aU3mi37Oia6Y
+- https://youtube.com/shorts/8W7R6VcUMuc?si=ml7pm3D_gLsfBzip
+- https://youtube.com/shorts/ea5JPQqE9Hs?si=Z8solrYO8pr9m-AT
+- https://youtu.be/FbZAce_ZO1o?si=vozfkIgJ8Q2LusgE
+- https://youtu.be/WovseL6RslQ?si=RikJ0WiioyJlgY33
+- https://youtu.be/tgOJpgzrLF0?si=ux9ms7TQUBJ4zI9c
+- https://youtu.be/b19w5cHUnPg?si=jIYCffn8RBDOsgmz
+- Pls add is singing css class wrapping. Portable. Span filled with class of singing
+- https://youtu.be/KUQlZr_NDjM?si=26BFOQLS1Uky6dXb
+- https://youtu.be/9bU3CcQiCOU?si=7aw5gKNzoS5fzIr0
+- https://youtube.com/shorts/2wOCRLrewTs?si=PL7wtePhszY4OSru
+- https://youtu.be/N3kuEuauWv4?si=6DIQ8QyAwiGR5s94
+- A laptop inspired from necromancer sexy woman with its obvious packaging made of mycelium. A mushroom composite used for biological coffin. You can bury your old laptop and other components and bury it. It will grow over it and preserve the environment.
+- https://youtu.be/N3kuEuauWv4?si=xexCn_ger9TvwibO
+- https://youtu.be/f1StocRzFBk?si=TJiOmArOJt6BeDzg
+- https://youtu.be/AurhO4Lf1Is?si=qTpkU3zK28PojDNE
+- https://youtube.com/shorts/18FByD5A_O4?si=nPHnqJ8asd2fhnOa
+- https://youtu.be/WxNdiOxG9ys?si=_sveECKd3gYkyXor
+- https://youtu.be/2pIgFMQedUs?si=cW27-coy4eUSkFgq
+- https://youtube.com/shorts/mQuvEHEARZg?si=NkjDFoimHMEALYTC
+- https://youtube.com/shorts/BShfBAziYNQ?si=0w0xixmE2bXrRn16
+- https://youtube.com/shorts/RTmafn2GcFs?si=Bm96cAOJ5IHYZvtk
+- https://youtube.com/shorts/tpR39h3sXP0?si=3rcZOSTv5wfyy4xc
+- https://youtube.com/shorts/AMf7nXkpdKI?si=6WVvNEZ2da13eFNc
+- https://youtube.com/shorts/n5LnMfCrLUg?si=jbu0-bJPTBxP4iaQ
+- https://youtube.com/shorts/E9owfUdqlg8?si=zai7TML7rHzgL2Bj
+- https://youtu.be/37PC0bGMiTI?si=c1ufGci3-izaWDyi
+- https://youtu.be/vtBqlFH0bGw?si=0t4TFT5taPmUGoUP
+- https://youtube.com/shorts/3nS2JaAsMEI?si=uzSQyFk-IUcf03sE
+- https://cloudskillsboost.google.com
+- https://youtube.com/shorts/a7K-kWT_C2A?si=VWYL4_5lsuNo9UOT
+- https://youtu.be/F-JJVXp3JeU?si=xhcEVeAZsVyCtcaH
+- https://youtube.com/shorts/QEMVCQmzgZA?si=BdcJQHq4AHE1nNTY
+- https://youtu.be/FJoohFXJ1oU?si=GLB2PAnr1PsKezDV
+- https://vt.tiktok.com/ZSLKxJnq6/
+- https://vt.tiktok.com/ZSLK93jK8/
+- https://vt.tiktok.com/ZSLKxjC8J/
+- https://nationalgeographic.grid.id/read/133673600/ada-indonesia-coy-kenapa-bangga-saat-ditayangkan-media-populer?page=all ada indonesia coy
+- https://www.reddit.com/r/indonesia/comments/zy45iu/ada_indonesia_coy/
+- https://youtube.com/shorts/4aHsiUcc52A?si=b8nZtyYZrf3HLDAZ
+- https://youtu.be/mVKAyw0xqxw?si=k66bEu9jO2cMB1A1
+- https://twitter.com/spldid/status/1702269790931611918?t=3l-D_z-cZRdnnxSNuZt74A&s=19
+- https://twitter.com/NavyHonorGuard/status/1702270250350461419?t=3l-D_z-cZRdnnxSNuZt74A&s=19
+- https://youtube.com/shorts/0hqWxlOSmDk?si=tAtq0IewrVPc8Sn4
+- https://youtube.com/shorts/ORD8DUDLn9g?si=wB_32yM9arOquY8V
+- https://youtube.com/shorts/UXpPaY50cTc?si=FBGUyWNzThZMMGT5
+- https://youtube.com/shorts/KlUNyb31__c?si=xhggTMqmPEWEGAXo
+- https://youtube.com/shorts/INif2IuTWqU?si=Ax5C6h9zv9YrP2jk
+- https://youtu.be/BQb4CCsKQ8c?si=uUPnZ2YSO-rl-n6U
+- https://youtu.be/mifyopCK9UM?si=g8DtkFYpoB7x-Pad
+- https://youtu.be/JYNyQcblzgI?si=QV8Tx8pwdDt3CVU6
+- https://youtu.be/Rv6SV_WO4mg?si=rhhHQTen8QMTe-CC
+- https://youtu.be/An83Mh_vdnc?si=wNILnLdiPN83TPTl throw wee
+- https://youtu.be/G9nqB8BwGHU?si=uEyoeSZOwIdP4yjR
+- https://youtube.com/shorts/J_jAQDR2xIA?si=KOXSUzUMgHYsylY7
+- https://youtube.com/shorts/aEhmX9OBC6c?si=zbeEp_O1h3f8z5ak
+- https://youtube.com/source/MCoSD9PKBog/shorts?si=U5eMtcGDVife4RsS i love you hoe
+- https://youtube.com/shorts/71LeGPGzsTU?si=5BFNvLAJtb3sw8gi
+- https://youtube.com/shorts/eR14v3dpH4w?si=TDpG_c-AdFjT7h2q
+- https://youtube.com/shorts/eR14v3dpH4w?si=TDpG_c-AdFjT7h2q
+- https://youtube.com/shorts/e50PZ23653A?si=sQerNffKxRD6K_uf
+- https://youtube.com/source/6E4qD0W_bE4/shorts?si=3gqkAFatBbLt63-1 paint the town red
+- https://youtu.be/m4_9TFeMfJE?si=SbkrJRDIQxDmby_w it's Doja Cat
+- https://youtu.be/BOcYUs8Wwvw?si=Jut_El859Y1SejiN
+- https://youtu.be/yuExTvs45mM?si=3HNxTK2_lERkcQ50
+- https://youtu.be/qXBN555aWes?si=BoU6hzkkZwJ9_YIn whey!?!?!?!?
+- https://youtube.com/shorts/Oo6QrFJcqoI?si=Qx02zimcsjCHmfRw
+- https://youtu.be/Rv6SV_WO4mg?si=2DRC1HfWmT8H48vg
+- https://youtube.com/shorts/RcLTDPlnr64?si=N-D0H4TC_ChvnrVS
+- https://youtube.com/shorts/0E2-SlESuu4?si=_0ElQaXqi-tZgV1Y
+- https://youtu.be/d8iVRQU-hzQ?si=5FSaHG1I1brLNrOq fart mrot
+- https://youtu.be/iI3pRSqjPsc?si=syFwFMNbRNqDwu8F
+- https://youtu.be/uNVXg-4LGrw?si=v6-aEm-eEGhf80GW doom prot
+- https://youtu.be/jKcRDgobqzA?si=7nqtxQIqhV2tdcZo fart toot
+- https://youtu.be/0nf_0Thk_4Q?si=mnaWmYkAxmCt4AC4 fart kyooooo
+- https://youtu.be/EqGncBNIQfE?si=7H7a0q6WoI17mCXQ andrew huang cloud collapse
+- https://youtube.com/shorts/LfVnPo0uDmw?si=YzYULoiU18t7wcry
+- https://youtu.be/FG3ohfDASao?si=Feh72Mpm-GWLGpnO
+- https://youtu.be/fllbajalaQ8?si=I8L_4ilCjpVl8NLy
+- https://youtube.com/shorts/4R0uVzr-kRo?si=i4JmiinElzWidFNF
+- https://youtube.com/shorts/gHkOenrOv14?si=MnYfnufgPmgxlG4t
+- https://youtube.com/shorts/VnkQ5dc6E8g?si=io-jZLXKIfQF_9-n
+- https://youtube.com/shorts/bRc1eH78A9s?si=qn65XRe89sKNNDm2
+- https://youtu.be/78uP_6LYf5U?si=u32jG6hi3v1-pYab
+- https://youtu.be/GynulDUOgDE?si=2MoZopf77VkEegWM
+- https://www.youtube.com/live/B1EEodgu16M?si=UjwFEQH2-BZmyjGu
+- https://youtube.com/shorts/QiTjA75zX2A?si=PqGcoeStERY3dAhd
+- https://youtube.com/shorts/xxaw8RFlfxs?si=VOj8r_ycN0Y-mk4d
+- https://youtu.be/YmL-BBqR9go?si=2Gi4KasX1F-v3C3D andrew huang grains of sands
+- https://youtu.be/dm-VYIK9HHo?si=7HA3G9eo-ihB5mq3 the toothbrush song
+- https://youtube.com/kidscbc
+- https://youtu.be/xn379KIG3d0?si=P1e9dN_iotuTumc8
+- https://youtu.be/c72UIIYMWs8?si=j-HRQOA9D3LLtKlI
+- https://youtu.be/96nlREQwKlE?si=VwyyZmLBBbtV6k5w liftoff
+- https://youtube.com/shorts/2MRlTlQ3tj4?si=aEb6sNR39y3Leiyt
+- https://youtube.com/shorts/d6_92Q9YYJ4?si=oGVrutkALUjPrB3x
+- https://youtu.be/JzMui0cdPQs?si=yarJYmgjhtdIucCl
+- https://youtu.be/MRS68CDu7VQ?si=Y52TWmq4IEBSGocZ banana banana banana banana 
+- CCIEP guy. Censored for Copyright Infringement Epidemy Prevention. They are not one. But many bodies. CCIEP #1, #2, etx.
+- https://youtu.be/ba5pIUxy1Jo?si=KFKv7EoILM-f-cHP
+- https://youtu.be/nghEWf5JvNw?si=PLfGQD5p79TqA6DW in the sun
+- https://youtu.be/g8_g5WXmMC0?si=eq8_3zFEHZ13_k81
+- https://youtube.com/playlist?list=OLAK5uy_lYGYg0BHJ0DjzAMFgr7jGi7ZvcJ6EkfZk&si=T9ZrxjaYmL-Gsaym ooo
+- https://youtu.be/eWM2joNb9NE?si=Bh6D8T4Gf-C-3pmk pink fluffy unicorn
+- https://youtu.be/g42W8ekUvjc?si=qErol5ICoKyR67kL **PUNK FLUFFY UNICORN**
+- https://youtu.be/cuqrmpHIGfI?si=Q4KkZk291-6CNPoG davie504 vs. 2setviolin meme battle 4 min
+- https://youtu.be/IOn1fRPtx8w?si=4u9GYu1ZDVLEAp4C stars of fireflies.
+- https://youtu.be/iyV3Une0n_Y?si=5fn9JWXjuaDGIkL5
+- https://youtube.com/shorts/Ug5Ed4KvksE?si=BsYLEFGz9QuuHeh6
+- https://vt.tiktok.com/ZSLKqS6dL/ backofspace
+- https://store.steampowered.com/app/714590/BACK_OF_SPACE/ this here.
+- https://youtu.be/7Cb40rjTv-o?si=0XxLsdTibvPOpv7K
+- https://youtube.com/shorts/hIjMtW7oOac?si=FxuTAdfnmv8KZciK
+- https://youtu.be/eX6k7lqAsYY?si=cYf8PzrRRSD6imhM
+- https://youtube.com/shorts/IZfdnTZ4tak?si=mzomKc5GUyOyZa74
+- https://youtube.com/shorts/eu_65kyNyY8?si=wtePY4Yc-UN24154
+- https://youtube.com/shorts/mXiRc-rIRkw?si=YeIfyzctK336s88O
+- https://youtube.com/shorts/tp2go7GB2Dg?si=nbKY3fj4YeWMa6RU xgimi
+- https://youtube.com/shorts/ww0LABMFAng?si=qnfdlVQ6CQ5W-ry2
+- https://youtu.be/HtX_llxnJ-8?si=Japx4pvxnQwzZIFA
+- https://youtu.be/JvZ6v6d0VpY?si=nljyFIuYbZZ8xzvv
+- https://youtu.be/8ysb15tlMm0?si=YfoTI2lEHc6SZnyw
+- https://x.com/meme_ta_so/status/1701179151699399077?s=20
+- https://x.com/meme_ta_so/status/1701179155096997903?s=20
+- https://youtu.be/mQePerNe7k0?si=-Tvt5JyclMtb2ERk
+- https://donttap.com
+- https://youtu.be/N5bEBQAueWA?si=OKOeesNuxB0LAITE
+- https://youtu.be/Gm5TlIxTUHw?si=dk42yS_aKWb5uomB
+- https://youtube.com/shorts/VaMBcvz_bto?si=qayZ0KpmD6Fj3Kcl
+- https://youtube.com/shorts/a7pzhwaX8AE?si=2aLoOi8nSPPR86EE
+- https://youtube.com/shorts/iWTv6AEx5ZU?si=SwYUahL0ZDAL_FeD
+- https://youtube.com/shorts/8iaz8SMuG5o?si=t8RJLEd6tGylkNXC
+- https://youtube.com/shorts/DFovWSepnxM?si=77pshXZRoWymxVML
+- https://youtube.com/shorts/VUjMZAAjniU?si=TJ4w5wsu0D-W1KWc
+- https://youtu.be/mZuvoflmHdA?si=SJkeMpD7nzUpJCBQ
+- https://youtu.be/FhEMJMDkUG8?si=PpRTduD9qd6Zii4V
+- https://youtu.be/5bzCeeGQkY8?feature=shared
+- https://youtu.be/jOjS8GIkjwY?si=L1leo8tOjn2ormAY
+- https://youtu.be/mZuvoflmHdA?si=ZJ8u2wf9dMySBalt
+- https://youtu.be/b8kIC9-Fxcs?si=7tL9TCaQ3--mb4Oa
+- https://youtu.be/zHY3wHZtNCU?si=TF8PwhvtGHMgH6X5
+- https://youtu.be/3l_Z71F-ECc?si=a_v3TceVlbMQYkeI
+- https://youtu.be/kHuNSrvp6Cw?si=zZpqCAPyEr1pJCNH
+- https://youtu.be/43lNIjYvDKQ?si=18LleVPoehZqwp48 full MK1 story full game 4 hr early copy
+- Raiden. The You Should meme. Uh oh.
+- .
+- Head
+- .
+- Headering
+- .
+- Bloons are neither bio, spirit, nor mage. Just rubber.
+- Idk who are you, Bloons. But certainly, you're a rubber. In monkey world, it's just alive, the logic you are.
+- https://youtu.be/f7EDFdA10pg?si=tHutWrMu5-t-3B1B
+- https://youtube.com/shorts/A3GHl-uIk-s?si=W_efzMB7BS-UOujw
+- https://youtube.com/shorts/JIXtcA5KaPY?si=bYmpER8iAuNbmY9q
+- Aglio Oglio.
+- A rich guy was eating at a restaurant in Italy. He was eating the spaghetti his mom chose. But this particular spaghetti is not delicious to him.
+- Darren Uffien: Uh, excuse me chef.
+- Tazzon: Yes sir?
+- Darren: I.. Uh.. what is this Spaghetti?
+- Tazzon: This is Aglio Oglio.
+- Darren: Oh. ... Whoo picked this one?
+- Tazzon: Your mother, sir. It's favourite.
+- Darren: (sigh because moms always never in tune with children)... Well, forgive me. Gotta be honest, that I somehow do not like this particular one, weird..
+- Tazzon: I see. It seems you do not like its taste setting. Perhaps next time you can try Bolognaise. Infact it's the most popular in this city.
+- Darren: Thaat... .... ..... (take out ketchup) but for now...
+- Bema (head chef): (gasp, not that ketchup!!)!??!!??
+- Darren: I'm sorry, Italians, I hope you can forgive me....., (squirt alot of them across the spaghetti)!!!!!!!!!
+- Bema: (heart shock & out of breath gasping)!?!?
+- Mira (wife of the head chef): (catch Bema) Oh dear!!
+- Darren: !!!! (Doned). Well.., (retaste)... Ah this works. Sorry. Hate to get foods to waste, what happened has happened.
+- .
+- .
+- .
+- .
+- https://youtu.be/-evZD-qK5LA?si=YUlJ8XX7gI_NwrbK
+- https://youtu.be/bskM58B0ZtM?si=oYG5Hpd2m-cx5ajf
+- https://youtu.be/hdZtvd_42sQ?si=doXkNI_Cb0rDhmYc
+- https://youtube.com/shorts/Xhkj3hUwoUU?si=IFvux212BOeoU5-a
+- https://youtube.com/shorts/AsKZNqK6bBI?si=z2MZWS7sbntDcFNV
+- https://youtu.be/hdZtvd_42sQ?si=XUxBXfCKGdj19sFb
+- https://youtu.be/CrAKFC_N5L8?si=Jgv3OaWEufNP4G1k
+- https://youtube.com/shorts/33ZMYUfL2qA?si=cRc-W61Mm3r4NNER
+- https://youtu.be/CrAKFC_N5L8?si=OrLLmGSUmRk3qY-V
+- https://youtube.com/shorts/pu_8k1OiLyo?si=bEHhogKVhyHfoZ2o
+- https://youtu.be/hgkgVKbIy_o?si=-WVoobGDyT5ya_Pm
+- https://youtu.be/grZigSpVDno?si=twgDN4NCJhxxbYnw
+- https://youtu.be/swz8sTT1nqE?si=I0ID3SQ9f3GvLogf
+- https://youtube.com/shorts/5UN0FwpAYfA?si=kyxqsnehpiB1dKvL
+- https://youtube.com/shorts/EMtSV1oaVoo?si=aZy-s4L-ZLHXPcrB
+- https://youtu.be/YMgEJyaalrc?si=d8yxvA8KW0BKu_Qo
+- https://youtu.be/Nv57fiLmFDM?si=MtM6J2h3havI4Iax
+- https://youtu.be/S4klLdcytBI?si=UTXuzLPr-6nttQBv
+- https://youtu.be/z-r4UecW7PM?si=6HJqFhU205dn64rl
+- https://youtu.be/M2LXKvXOkGg?si=TFP6WQpICAuarMqQ
+- https://youtu.be/oQGOvdwCfvk?si=XaAcDjgFJV4sUMG6
+- https://youtu.be/vq3RsJ35LKU?si=7sTjf-UL6DmIcRpR
+- http://www.firstsounds.org/sounds/volta/ first sounds ever.
+- https://youtube.com/shorts/b3jnR_Jh_LM?si=rLccAAFUqyxMEli7
+- https://youtu.be/Rte7VuVEwCA?si=GhtXf_CZIeXTpc5O
+- https://youtube.com/shorts/8xzUcxzY3q0?si=4kTtyim2ai2l_AXG
+- Kena fought glitch boss on second floor in Warnet during ug relic what?
+- Farhad: Hey be careful up there! If you break it, you replace it.
+- Yuob: Don't worry, I'll all of that.
+- .
+- https://youtu.be/qAsIwRXCq-I Among Us New map Fungle?!?!?!?
+- https://youtu.be/Rte7VuVEwCA?si=GhtXf_CZIeXTpc5O
+- https://youtu.be/Uoj6XIkz2y8?si=fuA3XUrtPaFEbgPL
+- https://youtu.be/nMWHBUTHmf0?si=4akLjlqWHc91yKka
+- https://youtu.be/5JFHfgbZ1aM?si=kIrBab9mKQjfN1Pn
+- https://youtu.be/uX7jb7QAJ8g?si=y7kFBLW_XEPbaKbJ actual heavy irl ft. That heavy va
+- https://youtu.be/GFEMTFPvwoo?si=T0Nl0_mY7qc9GixQ
+- https://youtube.com/shorts/gnuACGYSGl4?si=VwQWznUUkunTeH_f
+- https://youtube.com/shorts/03bXuJntxHo?si=eR5biWz6CtM8h8Pw
+- https://youtube.com/shorts/Mcm23traLPs?si=6vlWgXwMMe9HA8kd
+- https://youtu.be/tATCYWp6V9A?si=kKqy_-Ajay6v-gBz
+- https://youtu.be/ezgLvjjs3cI?si=LxH7YyYssYa1wVG8
+- https://youtu.be/gxO97-J0aa8?si=jcNmVOeC_LBAn0Wd
+- https://youtu.be/V3kAzOMy5CY?si=QdrDtP7vYovMuywJ
+- https://youtu.be/i19AHYojDkI?si=qhI-4zunnhTbPDJ3
+- https://youtube.com/shorts/jNJlny-nl0E?si=BYCUWJFxrSkh9se2
+- https://youtube.com/shorts/p4HXw8Rxnik?si=QAoGWBQAKY-c9WxY
+- https://youtube.com/shorts/THV156MB0Vw?si=V_I9M9cCkt3XgSrR
+- https://youtube.com/shorts/98Auml2vFuw?si=Sa7PkpDEHcxMrLnQ
+- https://youtube.com/shorts/wMO7ji8hrFA?si=IP29KZoi0GrSItKc
+- https://youtu.be/2AGIu_3SXAI?si=AZ3phbrvfjN-JvG1 wonderhoy
+- https://youtu.be/Z44ivJmABEQ?si=hk4ztkotqCOgWT_x
+- https://youtube.com/shorts/EK89n51h0QE?si=notRPRfhL_NtZDiQ
+- https://youtu.be/Czy4hhkQBXo?si=Tl90XZGe1tuE1K_z
+- https://youtu.be/_SwJkEudi74?si=qVk_rJRtI2h9pvxC
+- https://twitter.com/Exiadoon/status/1702284348572221493?t=ECTOSDF0QeMX4ASkZEv6PQ&s=19
+- https://twitter.com/uraha246/status/1702275061900837182?t=ECTOSDF0QeMX4ASkZEv6PQ&s=19
+- https://twitter.com/nokke_o/status/1702510538176258377?t=ECTOSDF0QeMX4ASkZEv6PQ&s=19
+- https://twitter.com/7BEN9I/status/1702245805141147880?t=ECTOSDF0QeMX4ASkZEv6PQ&s=19
+- https://twitter.com/misyune12/status/1702493316288569562?t=ECTOSDF0QeMX4ASkZEv6PQ&s=19
+- https://youtu.be/AfYkTJKN8Is?si=ZqdFW20KTyzUEMNV
+- https://youtube.com/shorts/FqlhGIcEkfk?si=7mHsJrD_BYDA1m6a
+- https://stackoverflow.com/a/832414
+- https://stackoverflow.com/a/27434185
+- Tbaey. Tongue cover upper lip and say. It sometimes audibly confusable with th.
+- https://youtube.com/shorts/I7GEmAhs1gA?si=1u0Dv1VqVqv6TGHj
+- https://youtube.com/shorts/f1_qdnX_QOQ?si=RslI8PmYE952CfiZ
+- https://youtu.be/fUM9B5Tf_44?si=_RJOlOd0yUJ7ss2Q
+- https://youtu.be/15eGpN9k4CI?si=1MR25gLPtYHFfywr
+- Conversation Starter Kit
+- https://youtube.com/shorts/x5IkbIgxbbA?si=g9XXPJHBwDJB5kYJ
+- https://youtu.be/cQs2viX32mM?si=az_Y3LXOtFPwZ8aG
+- https://youtu.be/PWe3JuOIMpA?si=ogfvKnQtJptQ3YJS
+- https://youtu.be/AUAD-0931RY?si=qg-pNXCN0JO7C9Zc
+- https://youtu.be/swz8sTT1nqE?si=423VfprhobfaF_Mn
+- https://youtu.be/zb5Wp_i8oQo?si=_D2EbDgNcBGeQbGR
+- https://youtube.com/shorts/rQe1-bmQ6PI?si=Th2YvEuyJn8YSLEO
+- https://youtu.be/RLAdZ6b9d-0?si=RWhz4NFLGIM6CN6k
+- https://youtube.com/shorts/DtmLPYe9sKw?si=DSKKj8RqWNWaaMd3
+- https://youtube.com/shorts/bSWZBxpJccI?si=FWVjE9PAbbRyKCLo
+- https://youtube.com/shorts/fXakIaCIim4?si=909D1AL6BCsyzUBV
+- https://youtube.com/shorts/WFKznuCEyBk?si=uOM8jvSExvetJs9M
+- https://youtube.com/shorts/8CdtHpGXyEw?feature=shared
+- https://youtube.com/shorts/Hh0M2PKjIxA?si=MYtg4aG4Mw_Nuc7u
+- https://youtube.com/shorts/j4IKZbac1ls?si=fLdG1xylkOKtraOr
+- https://youtu.be/Pd-9DhwO-vU?si=h9eqocsc4DHTm2qn
+- https://youtu.be/9_QsCLYs2mY?si=85BawqdMTU3qrgJ-
+- https://youtube.com/shorts/JHVJ1OUUNVw?si=oRMeUOssrvvSKRxK
+- https://youtu.be/y0TYxRriZvU?si=T-ocMaqhDsrQq3mF
+- https://youtu.be/sRRThySkpvM?si=AqPsqSwtvCEO7Whh
+- https://youtu.be/sVNW92esWyE?si=17PqVjxaur0ogNGR
+- https://youtu.be/z5pVMPLIBFU?si=QYUVUzVv6w-Fv6zs
+- https://youtu.be/40Jt793QfNM?si=AKsrYku8katN0Nze
+- https://youtu.be/wNT9TIfZyX0?si=TtrnMQCE2LlCBG-3
+- https://youtu.be/zuFlR6ZawsM?si=iw9Ug9dkhPUA-9Gk
+- https://youtu.be/XuvSLILCwrk?si=6cUvsxPnAGOEIYtH
+- https://youtu.be/CyJg1ZaZXlc?si=DxXKU6otkd47cTU5
+- https://youtu.be/dqL9zNn2VDM?si=YcYm_WiGGcKaZjPm
+- https://youtu.be/ylYVMWZLXd0?si=GMDBRSBjCLF_7a_2
+- https://youtube.com/shorts/F7INKr5Wmho?si=oBVsUpAvFeHjstJz
+- https://youtu.be/wXbF4Kou3Ww?si=SinHCgUI7hgI_6C4
+- https://youtu.be/jU-JgG3aVIM?si=g3wc06O3Wh72T5wp
+- https://youtu.be/FsEhY4SexV0?si=HJeQfdhEqzXWdwwQ
+- Perkedel theme pool balls. Special Protogen themed billiard balls.
+- Designed in Indonesia by Perkedel, made in Belgium by Aramith
+- https://youtu.be/EQzMKVGovAQ?si=EwUUJYw478gGfUCz
+- https://youtube.com/shorts/ZKI4w24j9Io?si=zd2-s3UFuns7ujHk
+- https://youtu.be/4iYtDknHL-A?si=HP6eTIE6LOiGRoZW
+- https://youtu.be/EQfHSv4X7YE?si=93pZrc8ioAAjlXb6
+- https://youtu.be/FF9poEGgZbw?si=z-wdeC4oZUadjnjy
+- https://youtu.be/I0eZNnfMX7E?si=zTOysycukfRo96M9
+- https://youtube.com/shorts/uDk9kZ7JQNI?si=ue-qvWstpHJskWMo
+- https://youtube.com/shorts/VHi60y6SQMA?si=jNb7DzP06_8plN4b
+- https://youtube.com/shorts/JHVJ1OUUNVw?si=2z5YSK6jNvmFou2T
+- https://youtube.com/shorts/T6M-wNTPDlk?si=-bJTzJz5kN52ubIE
+- https://youtu.be/LY0bDsGeQsE?si=AVTzryzDeIKXxBWl
+- https://youtu.be/hE_PNCgvyRA?si=e7nSvV-wngcB8xcf
+- https://youtu.be/lcKBE6cguwQ?si=5ZAF0w0hwBOHMPmd
+- https://youtu.be/NvTbhkO-EG0?si=AQygPB9oa0K9mrUi
+- https://youtube.com/shorts/YwUZPrgVzYc?si=lUXlf6hSpD0n80KV
+- https://youtu.be/LpiyISPaIZc?si=fH-j7adMH7cDj-p4
+- https://youtu.be/w556RjXsKyE?si=G-irAeA8o6_V6IO5
+- https://youtube.com/shorts/Rq7z_A_Foh8?si=kBo6b21mIZoBCIKO
+- https://youtube.com/shorts/Rq7z_A_Foh8?si=kBo6b21mIZoBCIKO
+- https://x.com/hachifukuDZ/status/1701561736116240578?s=20
+- https://youtube.com/shorts/u31Z53nNad0?si=tU2KsJT11VsX6FAi
+- https://youtube.com/shorts/PaoJ9XJ4GC4?si=QsnWMj5bEuVRUA_p
+- https://youtu.be/vQAcYcWMJkg?si=zrbXWQkjYaIVZKCY
+- https://youtu.be/b6wAYwOKgRY?si=GLlEr_835rA6yZVs
+- All void billiard table. Entire walls are pockets. Be careful not to pocket yourself.
+- https://youtu.be/HtWIbTqzWNE?si=uC2ju7zOoblEBYuw
+- https://youtube.com/shorts/1op4hb4Dvec?si=Utrg5sWDxxq1W3Uk
+- https://youtu.be/UZ5G0tVwBkI?si=sIAPdGhKoq0JnjJK
+- https://youtu.be/H_CsprLHC1s?si=NuiXeYhvKykA_met pls berchandyaa
+- https://vt.tiktok.com/ZSLEecb1c/ berchandyaa
+- https://vt.tiktok.com/ZSLEeTWeU/ c'mon!
+- https://vt.tiktok.com/ZSLEeotPJ/ original berchandyaa
+- https://vt.tiktok.com/ZSLEdL63c/
+- https://youtu.be/TkA18x3Pvzc?si=evtgm8kWD_ZXodOl
+- https://youtu.be/3tnQm_XzW2s?si=uUXh_vUPKgnWvDW7
+- https://youtu.be/ABDYEC1fbKo?si=NzsWx8dGJGRpEaZG
+- https://youtu.be/7hKvMBKXG9s?si=WLpp_ay7-nAD-B1D wonderhoy!!!
+- https://youtube.com/shorts/sqVTZ-p1TcI?si=0UgME9rsC3s2Iir6
+- https://youtu.be/Ta6Exs4jtTI?si=gjXdFSrMf_ElPap0 chinese doit spit
+- https://youtu.be/tyjpwYUEMYA?si=jfkNaS-t2tLca0E5 same
+- https://youtu.be/egIrNbkb3sc?si=4xrz3hZhOBAukni_
+- https://youtube.com/shorts/XnAuSN91vLM?si=v5GYj3u21ubRlRWV
+- https://youtube.com/shorts/pU6wlsmmSqM?si=E-6V0SbULcx0s-bE
+- https://youtu.be/ewxxE2xj1fY?si=CslLjv6LRCu6jvRy
+- https://youtube.com/shorts/kkZt1X3LEi4?si=qW01VeGK9yjoMQyU
+- https://youtu.be/v7-PjPp1JKw?si=rnIGSOgpd4tzQo_6 bamboo hit tonng
+- https://youtu.be/QB9jfOKxvE8?si=oOQ8iHIobaWiyz2y
+- https://youtube.com/shorts/PyIPCHM5Of0?si=pqXygo2aquTjfFSe
+- https://youtube.com/shorts/hWfjgfEsNvs?si=MlENwuiXrtpdhqFs
+- https://youtube.com/shorts/g45YogYPnik?si=USMypT69cyaRABcp
+- https://youtube.com/shorts/N6lt0TbocDU?si=LFXZjZKaOYlMohSJ
+- https://youtube.com/shorts/tBqx_zB5mEY?si=tGFJc3GtQq4E3uTf
+- https://youtu.be/Ci28GVh5_Bs?si=BUAx5ICYvz4FkE-S amen break snippet 136 BPM
+- https://youtu.be/GoVMsD97iZY?si=JQSqfi6EtZnoUI89
+- Confusing Mission. You are hired to help a proprietarist (who never download link) that have been robbed by a rogue activist. This rogue guy spread his assets (3D Model) to which none of them he intend not to share. The victim was robbed physically through dimensional attacks which what makes the robbery as smooth as butter. The robber intentionally skipped the password and other private keys because he is not interested with it unless it's necessary for cloud storage.
+- Which side you pick? Help proprietarist by deleting the files, OR, betray your client immediately and keep the file being spread?
+- Caveats are that you are asked by Government. The government sides with the victim. Again, will you betray yourself and your clan by deleting treasure, or loyal by keeping it leaked?
+- Bonus boost is that since it is leaked cheatingly, your clan is fine with deleting the file as long as you promise to remake based on what you see.
+- https://www.reddit.com/r/gamedev/comments/jumvi5/dualsense_haptics_leds_and_more_hid_output_report gone
+- https://github.com/Mxater/DS4Windows
+- https://www.pcgamingwiki.com/wiki/Controller:DualSense#Games_with_controller.27s_speaker_support
+- https://youtu.be/VkoKke-KSb4?si=pElQAiXlhr1jaHiM
+- https://youtu.be/nNGf1VxqU3c?si=NVshueyo69xo4TIv
+- https://youtube.com/shorts/qG-VjdY6T6E?si=uC10xCzURF7vAkd2
+- https://youtu.be/Yh-KYOq2_Qc?si=q0cJP6ULdPEWfCsc
+- https://youtu.be/mSbbgt6cA5Y?si=5Obxw6hyPuv_5XJN
+- https://youtube.com/shorts/qDXp0ufRqOw?si=lm2xqzLm4I2YbQLc
+- https://youtube.com/shorts/XOai8_-Fruw?si=ypswVyH2H430l7bY
+- https://youtu.be/owgGjg0jpww?si=ahV-7zFQBU5i9r4W
+- https://youtube.com/shorts/P2gV1lbv6uA?si=WmgM9P9Sz97__QNv
+- https://youtube.com/shorts/P-baX3NYXok?si=zBPdSHUaeZjZqHxF
+- https://youtube.com/shorts/q0lkK6bA5Zg?si=ddnVoatFQEtxAt25
+- https://youtu.be/yXDwI8AnNwA?si=VXrKc7ie1qITTXA-
+- https://youtu.be/oSNjHRxeLuA?si=CUFsm51gfAECxrgs
+- Chaos vs. Order Snooker. The chaos plays however he want, still following basic rules and guidelines. The chaos can pick any cue and is allowed to trickshot, and change equipment at any moment it desires. The order follows rules and guidelines but also must have clean shot, meaning no trickshot allowed. Both can chalk at anytime these wants. The basic rules are that with Snooker mechanics, the table detects what's come into the pocket and who player did it, and decides by rule whether this player continue playing or has to change. So say if chaos hits legal ball but pocketed illegal ball indirectly or even after legal ball hit first, it is still foul like usual.
+- https://youtu.be/w_JEezynhrc?si=XiPdZPkRgB1UPpkq
+- https://youtu.be/rask8MYJaB4?si=w8rTf1Yb9UbNIHU4
+- https://youtu.be/NPt-zxHJU4Y?si=KsF_o-Kl67QtKATk
+- https://youtu.be/u-wT2Gs3IDo?si=x-R2PELY0-bsYgSp
+- https://youtu.be/z6LS28SZC_A?si=D_UOcdnyuQauZ2UL
+- https://youtu.be/60kKskiJPT0?si=CAKkhT2O3PErWVME
+- https://youtu.be/gSex8XULbD0?si=Alw7IEtcJ-UoyRl5
+- https://youtube.com/shorts/NXBH_fNKgI0?si=JfIkS5Zgzo52H_e8
+- https://youtube.com/shorts/NW27_PFwvZI?si=EmQA5OKCQdlGrw4Q
+- https://youtu.be/OUtVIuRUZHY?si=2HERO42gCj7XamjK
+- https://youtu.be/znRRtKM8fuE?si=H8fCXlo7ApD40K3l
+- https://youtu.be/HPZ8ynn-mIY?si=9EYQi3LzyEIYOv33
+- https://youtu.be/ct4OjjG7JT0?si=OuJV-ZPncaCJn7U5
+- https://youtu.be/EElf6-aBL-U?si=CvvlkvyalX7UHv-y
+- https://youtu.be/-wHJdJlNP2k?si=g7GDXIytZX7ucig- 2 girls laughing stan twitter
+- https://x.com/SP0I0ppp/status/1702302667182408153?s=20
+- Stan X
+- https://youtube.com/shorts/8LoisKycx7M?si=pwBKqBW-9o6S69Rq
+- https://youtube.com/shorts/0jyVaTrpmZ4?si=EwacwN_heDI-fz6P
+- https://youtube.com/shorts/M-9ORD9LOGY?si=Jcgy7w8gxl-tGcNg
+- https://github.com/Moulberry/AxiomClientAPI
+- https://modrinth.com/mod/axiom
+- Axiom is Fabric, & proprietary. Commercial License required for use with paid commission project.
+- https://youtube.com/shorts/6LyaVB7EqbU?si=rVrf--FjVHt5jYYZ
+- https://youtu.be/wSVAX8zFey8?si=lAQxWVIPleLEt25M
+- https://youtu.be/0FpwdgfTkVo?si=YT3fbxC-8N2XB4wp
+- https://youtu.be/BA-NDCWvpOQ?si=IQXo1T1ITok1k4FY
+- https://youtu.be/BXCgFfvFIzs?si=JKgCnAt0UdeRHPjP
+- https://youtu.be/9CExOCK866Y?si=65y0IaZD80BxtMPR
+- https://youtu.be/izl2b8_kYC0?si=52DcAwgZf48IMUQS tom. Don't you believe it
+- https://youtu.be/a9U_C_q6WcU?si=ZbmDQJwJkUqBXOev and another
+- https://youtu.be/F3VFfG42cSI?si=pM7X7OiyAyeaTNQg
+- https://youtu.be/m1SwggDdO_s?si=LxedjV2SK1RHPSPS
+- https://youtu.be/UgHKz7EtLYI?si=tU3-_-p1NO4LUgg1
+- https://store.steampowered.com/app/1701800/Lunistice/
+- https://store.steampowered.com/app/2365810/Pseudoregalia/
+- https://youtu.be/oc26EKhZNyM?si=7Cqxkqb2oylwRfs9
+- https://youtu.be/XN7btAj3y2g?si=B3I6X9oacQ7T4ewG
+- https://youtu.be/aSYUTLEuZ_E?si=Y0edamdIGR79AoM9
+- Dibs kincaid
+- No, no psychonauts
+- https://youtu.be/m8niIHChc1Y?si=rKkAUkAKMlPwao05
+- https://youtu.be/ldQE2nvYPdU?si=_o9Hw8LYtsoqQwWu
+- https://store.steampowered.com/app/211260/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/24420/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/207140/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/225080/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/237870/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/241320/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/247080/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/248310/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/248800/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/250070/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/250260/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/250900/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/251630/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/252110/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/265610/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/265930/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/270210/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/283960/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/294280/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/302790/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/305880/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/310080/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/310360/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/312720/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/316030/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/317410/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/318530/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/320240/?snr=1_wishlist_4__wishlist-capsule
+- https://store.steampowered.com/app/320820/?snr=1_wishlist_4__wishlist-capsule
+- https://youtu.be/ZjYw2M-cCzE?si=x_VO4pUcLPEeA9AM
+- https://youtu.be/Y09gBIkAdrk?si=pp-OpYNNQlp94ySq game gone
+- https://store.steampowered.com/app/301860/Submerged/
+- https://www.flayrah.com/5761/freedom-planet-furry-platformer-inspired-furry-platformers
+- https://www.deviantart.com/krogher22/art/1693857346-Fullbody-3d-Platformer-Character-Fu-980758241
+- Where is it?!?!? It is similar with Ratchet or is a universe. She has flat chest, a wolf.
+- https://youtu.be/ASf_t86N7bE?si=thsfLPaf830Td5q4
+- https://youtu.be/oGFRyHx5jpY?si=oJf-v__UemtE7gm6
+- https://youtu.be/RmuvB0mKHyE?si=xW3rOPtuyf36erAE
+- https://youtu.be/g8uJRWwLLLU?si=JYNOsbRvvHSb7PBq
+- https://youtu.be/C1ObitoLwhM?si=OdowJcwpW9RTvT5E
+- https://youtu.be/dcCzKHTxflo?si=ffXp9qYhTWvvrdgj
+- https://youtu.be/Y_rwie8BaRs?si=G1A63u4aqJPfmLJq
+- https://gamejolt.com/games/echoes/392225
+- https://gamejolt.com/p/yay-amc5wruj
+- https://gamejolt.com/p/after-countless-attempts-i-finally-made-a-normal-looking-head-for-a-uyfrk3fq
+- Found it. It's **Skylar & Plux**!
+- https://www.youtube.com/watch?v=jFEfgutwl2I
+- Steam gone. Just one gone, worth sparsdating. Even still on GOG.
+- https://steamcommunity.com/app/452540/discussions/0/3043859512570108903/
+- It's also gone on GOG?
+- .
+- .
+- .
+- El Piji. LPG fuel. A common type of fuel used to power cooking stoves of various types and sometimes experimental LPG fueled vehicle, due to its similar liquid properties like gasoline, but much cleaner (I think lesser toxic gas like CO and some unstable ethanol, I think LPG had more percentage of CO2 and even lesser toxic gas?). The flame that it emits from all stoves of today are blue. In fact, a fire being had scalped entire stock of cooking stoves and its equipments and fuels from Earth, and that barely covers half of the population on their dimension. Problem solved.
+- .
+- Thank Leidenfrost otherwise you won't bind and the Disney magic would be dusted away.
+- .
+- These are the characters from Elemental:
+- Ember Lumen.
+- Wade Ripple.
+- Ashfa means dad.
+- Uhh Tishok.. to keep on doing while you still there, ha wa? Idk, basically YoLo here in my world. You live only once. So do it while you still there.
+- https://www.youtube.com/watch?v=zecnwqXe850&pp=ygUOaG9tb3NleCBrMTkxOTE%3D
+- Ember: Wow, it's been a pleasure to be here.
+- Yuob: Of course. You guys are welcome anytime.
+- Ember: One question.
+- Yuob: Yes, ask away.
+- Ember: I was really baffled during this. (Demonstrate hand holding Wade that did not vaporize him immediately)!
+- Yuob: (understood the idea, it's Leidenfrost) Oh. I get it. I know this is kinda weird. But it's real, no magic although it could be depending how you look. That's not a big surprise.
+- Ember: Wait?
+- Wade: Really?
+- Yuob: This.., is called Leidenfrost. What happened is that, when (to Ember) you hold your hand to Wade, that's what happen. Wade's skin, automatically vaporized juuust the surface of it into a slim barrier of vapors. But here, the best part is, that's it. It's really there, good tiny sheet of vapor, protecting you, Wade, and (to Ember) yourself. Simple! Leidenfrost! Why? Because you are.. uh damnit
+- Ember: ...
+- Yuob: May I, sorry this might sounds lewd, it's.. High temperature you are, and Wade you, comparably, way colder, which does makes Leidenfrost possible.
+- Ember: What about my vaporizing?
+- Yuob: See where there a difference. Leidenfrost, only works if at normal condition you be like this. Just you and her, in contact with each other, and a highest temperature delta slash differences. You did vaporized ☝️☝️ because.. the room is hot enough, temperature delta is lower, lower and lower, bam! You're boiling. Basically, killing slowly... nuhmm boling you slowly, from a.. not so hot condition. See? She hottest, room kinda hot. You do not want ever be there again where temperature delta is very low that could vaporize you (slow boiling), and you Ember, extinguish you (slow cooling).
+- Ember: Ahhh..
+- Yuob: Yeah you'll get this later. It's a bit of rocket science for this one.
+- Wade: Okey, thank you.. (confused with scientific stuffs)..
+- .
+- Tic-Tac-Close. Recursive tic-tac-toe game. Using if yiu win this cell, the cell marks who win in this cell. Move on to next cell, but it can only close 1 step horizontally, vertically, diagonally. When winner mark makes line pattern in row, that player wins.
+- .
+- Is putting game requires rent? If not then why take it off?
+- https://github.com/nondebug/dualsense
+- https://github.com/Motion-Project/motion
+- https://github.com/nondebug/dualsense
+- Camera RAW betrayal
+- https://github.com/Willow0349/motioncam-archive
+- https://github.com/Perkedel/motioncam-archive_Willow0349
+- https://github.com/v6p/motioncam
+- https://github.com/f0enix/motioncam
+- https://github.com/Perkedel/motioncam-archive_Willow0349
+- https://github.com/f0enix/motioncam/tree/main
+- https://github.com/TadiT7/motioncam
+- https://githubhelp.com/mirsadm/motioncam
+- https://github.com/mirsadm/motioncam this is where it gone.
+- https://github.com/Perkedel/motioncam_TadiT7
+- https://apkhome.io/id/motioncam-pro-apk/ I cannor find last beta, here hacked version because he betrayed us. Lemme archive.
+- https://web.archive.org/web/20220603033114/https://github.com/mirsadm/motioncam/issues
+- https://web.archive.org/web/20220603033114/https://github.com/mirsadm/motioncam no, push back
+- https://web.archive.org/web/20220509010117/https://github.com/mirsadm/motioncam/releases yess
+- https://web.archive.org/web/20220603033128/https://objects.githubusercontent.com/github-production-release-asset-2e65be/325541866/2f5fe7e0-67de-4703-837d-bbd0e557faeb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220603T033121Z&X-Amz-Expires=300&X-Amz-Signature=0220352123dca73de7f6bebb4f40eb8369e00e94b25c5a096b309797d52ff0bc&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=325541866&response-content-disposition=attachment%3B%20filename%3Dmotioncam-tools-0.22-win-x64.zip&response-content-type=application%2Foctet-stream
+- https://web.archive.org/web/20220603033128/https://objects.githubusercontent.com/github-production-release-asset-2e65be/325541866/a6e7a3fa-9b2a-4b50-8b31-534c563c08b7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220603%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220603T033121Z&X-Amz-Expires=300&X-Amz-Signature=3fcb8e49fecdafd6fd2e2ee0afd67553bd8cf634f744799a35573f9323a98bce&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=325541866&response-content-disposition=attachment%3B%20filename%3Dmotioncam-tools-0.2.2-macos-m1.zip&response-content-type=application%2Foctet-stream
+- https://web.archive.org/web/20220603033115/https://github.com/mirsadm/motioncam/releases/download/8.1.0-beta2/MotionCam.8.1.0-beta2.apk the old APK itself is the one that gone. Damn!!!
+- Finish.
+- .
+- Tips: break a protest screen with this `Pickaxe`.
+- Pls tiada hebat song with Joker stair dancing synce
+- .
+- https://youtu.be/u9lj-c29dxI?si=byVEgKD3YtXgoVnP Finally it's here, Blender movie, Wing it.
+- https://youtube.com/shorts/5rbUhHtl94U?si=JrZXvu2htxtIH9l0
+- https://youtu.be/oV1Qe_Wcgs8?si=suMV9H6MB1lqQQ3i skibidi toilet season 20
+- https://youtu.be/i_yE3yTJ26g?si=Pj-tTMytYh4S9yBt ulterior motives
+- https://youtu.be/QVuR9KOizDc?si=Rjz064QKGH-75ZzF killer bean full live action?!?!?!?!?!
+- https://youtube.com/shorts/9W9WZ4ev918?si=WcFYevMR7vn71aee
+- https://youtube.com/shorts/ixfAmDG5JLs?si=4lJdP1NI9vdBRYS5
+- https://youtu.be/qo4jH4zuzns?si=e-ImQiQ8l7auO3Ww emu otori
+- https://youtu.be/uqMfobX5paU?si=iJ0MGrSBv3XAsDnc
+- https://youtu.be/EVkAS33nyzI?si=rEjk6RgWGSwJFTpG
+- https://youtu.be/7gfY6TUx62o?si=9YHsPLfThcM8i_cT
+- https://github.com/Sanakan8472/copy-dialog-lunar-lander windows copy non bad apple lunar lander
+- https://www.youtube.com/live/ke2HFufcrrI?si=WL1_amTD_qoJ85Fw
+- https://youtu.be/fnFlBPSaS18?si=wDdIIBOZmP_Nxt8Y
+- https://youtube.com/shorts/CE5yMUisrVI?si=ADPAjJEKQnlqFA-t
+- https://youtu.be/5Tz66MJvuck?si=RdDMkYupsYJY7aT5 steal the show
+- https://youtube.com/shorts/oHzQHGh9qyQ?si=LD2cOPj3NYfaQOqE
+- https://youtube.com/shorts/BhEeP_6EZMo?si=XUMas-i-KgJflu3W
+- https://youtu.be/2w_K3CB8PuE?si=ilwUckyBu2gTQsjM
+- https://youtu.be/5emJgNiFbAA?si=EgjqEwdbYQg08BaG
+- https://youtu.be/JM2lGmdeXkk?si=8qM03_FiSt0dnO0w
+- https://youtu.be/i0j6AUq90Mo?si=PVOBxticlks_qM3T
+- https://youtu.be/nD0p8qrf7UI?si=Gnw4x3_lKyZB28fK
+- https://youtu.be/IO2NyiA1huQ?si=2wspvbZWqbhLcXRf
+- https://youtu.be/ctlz0R1tSZE?si=xGgXXSNO6leZmTId
+- https://youtu.be/EakvPIAeCcs?si=T_JeqiSz71loGARe
+- https://youtube.com/shorts/QsAF6Q-oLfA?si=kxS7J6Y9T4NFMkpx
+- When cases mixes together at the same time, it would be a film that may be very confusing to tell. A great adventure with multiple main quests to be solved together.
+- .
+- The non ownership is always a defeat, do not login your game account on someone's PC! The RAM can still be attacked by cold boot scrape attacks!
+- The guy is making pr0n with customized Tails. Government raid. Opened his room and the guy immediately yank off the Tails USB disk while gesturing hands up like magician. The computer aumatically shutdown destroy evidence because that's Tails feature. Government saw that he used yank off trick. Shot his head even he raised hand, because he destroyed pr0n working evidence. Government instruct to euthanize fugitives that tampered evidence, including magician style yank offs. Who fault? Government, or the guy? Vote and reason now.
+- The guy hand swift was grab and yank USB disk, drop it, and proceed hands up in blend.
+- That's beyond me. We are now on our own.
+- .
+- Wait what are you doing?!
+- Braile handshake code. A discreet agent to agent communication method. Sender has 4 letter braile code attached to wrist. Receiver accept handshake offer from sender, while swiftly feel those codes with index finger. Interpret meanings immediately to keep secret and after .5 second, the code gets pulled back fast. Terezi used this
+- https://youtu.be/gGP1XWhqXwM?si=2PnE2-MBRJ9wYCwS how billiard balls are made
+- https://youtu.be/Kj-jkVcYPpw?si=p-nzDhgXYrnwJ_P6 the cue
+- https://youtube.com/playlist?list=PLQWa6QqcYukQRHGagqnb10UWMXCYTM6to&si=eXRV_asxbQn0LrRM billiard manufacturing
+- https://youtu.be/L1vUh4WQ5Rs?si=81AN4DhFvsqx1h6k
+- Well nosey on!
+- https://albanymuskrat.wordpress.com/2013/07/13/the-albany-billiard-ball-company/
+- https://youtu.be/wBsib03uHw8?si=E-IxxGGtE_XeYQlG
+- https://youtube.com/shorts/VT6xhOyvHRc?si=MIa23IEOyzGaHKs5
+- https://youtube.com/shorts/cWSJ8pnGD3g?si=CVoEgrrJoIbv0Z6_
+- https://youtube.com/shorts/NknOzYWRMJg?si=dFnbfjRLykr04ien
+- https://youtu.be/jmjqoFsB3dU?si=vEdUfqf0D1WoAZt7
+- https://youtu.be/tgStN1ZkGIA?si=a6E61ORtaAlzBwkc
+- https://youtu.be/b2Y8lbVaEQY?si=NzsTHRpIJ_pObY-8
+- https://youtu.be/b2Y8lbVaEQY?si=NzsTHRpIJ_pObY-8
+- https://youtu.be/ZFx6R26aRHw?si=cRWQVYzzBYGKIZLR
+- Sfw
+- Dazas: However, I use NixOS.
+- https://youtu.be/dxfUg-Gc7_4?si=jaKJj_ID4f21t9c1 billiard ball factory
+- a
+- https://youtube.com/shorts/qpovznS6d_8?si=3Df-FO1tTSO5bcQX
+- https://youtube.com/shorts/5UJZQg7XDYM?si=T5Yp-D8krPNI_p2d
+- https://youtube.com/shorts/FdKLDFoEWyc?si=CfQsSvCaKEmQyTsi
+- https://youtube.com/shorts/cjj2AMuVlI8?si=XaUuuxWnZ0-Eyn_B
+- https://youtube.com/shorts/fPdugKdlYFE?si=WnG3lwkfspbhPoIg
+- https://youtube.com/shorts/Vj4GHjgnP6A?si=D4VlRE7XML0u7_2h
+- https://youtube.com/shorts/tjXdlJWlK-4?si=_brSGM6_zTmX1OKl
+- https://youtube.com/shorts/tGIgLJTacjA?si=CGYmDtTG80uoYXLL
+- https://youtu.be/QBl_UuXCfyE?si=-M4HbD_uZzmjYKSg
+- Sometimes wall Billiard. At every turn, one of 6 of these walls are removed, and previous ones gets returned. The starting removed wall is at kitchen (cue ball init) side, rotate clockwise. Be sure to not get any ball amd even yourself off the wall. You mist pocket the object, not throw it out sparta.
+- https://youtu.be/ymBbKWzL1vg?si=y8aMxWOSzi5uPkIi
+- https://youtu.be/56iYnvJwdBY?si=Qg-ffVb8h1qh2aGJ
+- https://youtube.com/shorts/GUiWhaIkF9Y?si=FyuODjCrCZrdxCwy
+- https://youtube.com/shorts/cbIg1nMFJG4?si=BoSc1qbspXw5rlYk
+- https://youtube.com/shorts/OwlNbirpLTY?si=HWKZPFw1H7ApWnmy
+- https://youtube.com/shorts/xlFYZxch7xk?si=l5_kV4VNtS75xWpR
+- https://youtube.com/shorts/okxhcdGPDfc?si=B3tF1fb4ryAxXq6C
+- https://youtube.com/shorts/HwsNf1oFN6c?si=gb9vI9tEdPU1XyFx
+- https://youtube.com/shorts/CnQr45XkkZE?si=cuBiHBgy-Ya1zxCZ
+- https://youtube.com/shorts/XzvfpexoEy4?si=B9gOeDeznNtKBogs
+- https://youtube.com/shorts/DRfLjwnYEZE?si=dYsHVCmlT7LalFf4
+- https://youtube.com/shorts/fjKLZll-ehs?si=UibYs7Nu8mxcWcqv
+- https://youtube.com/source/fFk0X3HKzYI/shorts?si=ksiJRWAGnEDhKyXA yoghurt challenge nctzen nct
+- https://youtube.com/shorts/fFk0X3HKzYI?si=D4gnK16vc8vPCzF5 aaa
+- https://youtube.com/shorts/BQShzSpg0gc?si=85yF2v8NPpOHBQXX
+- https://youtube.com/shorts/zrlGggXBqUY?si=oNpCLB8W0sjMMC2e
+- https://youtube.com/source/KhVMNFhYVYQ/shorts?si=F0wFnfOMOSpBOe5G rat size of crocs
+- https://youtube.com/shorts/KhVMNFhYVYQ?si=MY-Vrw6xYq7lDTaA
+- https://youtube.com/shorts/WSJC4m7LzgU?si=ZNqqGsxebjN8LRvK
+- https://youtube.com/source/ZWI35CeDeJQ/shorts?si=2DfRGK5UphwgDGym emo girl
+- https://youtu.be/yh_ydvIJAxg?si=93l2x6XXjPy-SpOA ye
+- Duolingo purple girl is named Lily
+- https://youtu.be/HQliEKPg1Qk?si=WSYhVX7iwXtWj3B8 lizzy boys
+- https://youtu.be/pXk9pOpKrlA?si=JAeit-47HUmQdtIj i like big boys
+- https://youtu.be/UtFyFF7oBzM?si=fjoEqdep9MUJKU_P
+- https://youtu.be/dgMlahF3-hs?si=yGScfbsPiT6VT2x_
+- https://youtu.be/LlucLlHexJQ?si=g3mym_zN0lA2INvt
+- After school
+- https://youtu.be/tDVyw2-lroA?si=ZObEjQ6s2pX-2ZO-
+- A
+- https://youtu.be/RyR4XoHJJv4?si=8Q-XiNZpjERRFqfJ
+- The girl with earing?!
+- https://twitter.com/SkyStuff7/status/1702801065542926682?t=76qQrfN3EAJXlz2gDMheIg&s=19
+- https://twitter.com/DailyFNFAnims/status/1702771768996266043?t=76qQrfN3EAJXlz2gDMheIg&s=19
+- https://youtube.com/shorts/fyd11hJe5Us?si=jE6cMBOKukngDNu1
+- https://youtu.be/HVv_IQKlafQ?si=2X_cNwCpemzOiBUJ
+- https://huggingface.co/papers/2308.04079
+- Kifis: Mbak cobain mbak, (demonstrate cigarette) (ignite front), (succ back)!!!!.. fooh, enak lo mbak!
+- Ember: Oke?
+- Kifis: (light up new cigarette), (carefully give to Ember & point where back to succ) hisap yang ini.
+- Ember: (succ back)!!!!!!
+- Kifis: 😯!!
+- Yuob: (reach Ember) Ember, We're done. (Saw she is using cigarette)??!!? (panikly take it off but)!!..
+- Ember: (blow the smoke to Yuob's face) fooh!!!
+- Yuob: HUAG!! (Cough in toxic air) EOUGHHHHOK.... (asnyc) AAAAAAAAAARRRKKKKKHHHAAAK...
+- Kifis: awowkwowkwowkwowk 🤣🤣🤣🤣🤣🤣🤣🤣!!!!
+- Ember: (giggles)!!
+- Yuob: Ember!! Why did you smoke?! (Realize).... but you're a fire....... (take off forcedly anyways, quiet) No!, (throw cigar to floor & step on it multiple times to douse fire)!!!!, (take and throw to booth demo trash can) get the hell out of here!, (immediately escort Ember out of scene)!!...
+- Kifis: Yuk dibeli, lagi diskon 80%!
+- already fled.
+- Ember: Why?!
+- Yuob: Cigarettes, harms others too, the smoke burns lungs, even worse. (send telepathy info about effect of smokes both user and people around)!.
+- Ember: 😞 Aaawh...
+- .
+- .
+- https://youtu.be/7U2555TkhwU?si=2aGou5Sy9CiIm0yb
+- https://youtube.com/shorts/_9bKgBVjJ2E?si=BtbZYSpmCRQtW-5U
+- https://youtube.com/shorts/izISNE_irHA?si=Prs8PYOjnAKoxNl5 sleep tracking ad
+- https://youtu.be/G2R2mtOkYjA?si=5YoIaZ9egEWHXjfV
+- https://youtu.be/AJTXsadruGQ?si=xgZMYWpMjsqzM1D0
+- https://youtu.be/lYgoxUUcmzc?si=lZZOV9YJsy0InGSY
+- https://youtube.com/shorts/3m1329JjILg?si=lwIhswvwACuL3lw6 sleep tracker raar
+- https://youtube.com/shorts/5H99nAWIs7I?si=zDypgtPdPn3G83zb sleep trackered
+- https://youtube.com/shorts/wXKRNPUt3QA?si=bZDwOvc8tZKLDQQS sleep tracker glass guy
+- https://youtube.com/shorts/YtblUe8VdSY?si=L2g47pXxWoMZAkzN
+- https://youtube.com/shorts/Ux4B7y-RKgg?si=Xjl1bs_Ec5sNNx9E
+- https://youtube.com/shorts/3c6oceoAGGg?si=yRxkVvqkNbUt6uYS
+- https://youtube.com/shorts/MwXSx3IOVFo?si=bjxiUCuTKXoARQEH
+- https://youtube.com/shorts/qF1bu8cSwiI?si=XmJolh0fmxSiKI8D
+- https://youtu.be/GD6qtc2_AQA?si=umXhNuqh8D0Ea2F_ the more you know
+- https://youtu.be/Zmvt7yFTtt8?si=7ZwNqF_Gb_tzwuQ1 Animated
+- https://youtu.be/xEVB-iVVfGM?si=3pOtY4r01xbZI6ML a
+- https://youtube.com/shorts/MO0jT9RT7aU?si=5bo7Fuyp7VfB7R1-
+- https://youtube.com/shorts/FZ7SrjytKkk?si=8K29ldlHm3wRodRt
+- https://youtu.be/xEVB-iVVfGM?si=NKYo1tnQszoIuLYx pls download
+- https://drive.google.com/drive/folders/1nqKN78QCrVk0QVo0XvB0tK-p34duwI_z yes. Meow custom taiko beatmap
+- https://youtu.be/xEVB-iVVfGM?si=_Ybttk_MENmNuLYD
+- https://drive.google.com/file/d/1l8smshS9jxzK_SCwLmDdssR40eLvykEQ/view?usp=sharing ai_sponge new file
+- https://www.instagram.com/p/CwmehM3IgkH/?igshid=MzRlODBiNWFlZA==
+- https://www.instagram.com/reel/CwYfbKSoszh/?igshid=MzRlODBiNWFlZA==
+- J
+- https://www.youtube.com/watch?v=Tp0qBhXliZI
+- https://www.youtube.com/watch?v=XJaVEqlUzjk
+- https://www.youtube.com/watch?v=h4TY05Pnbac
+- https://youtu.be/L4ivMJzcB-0?si=wcZ8Dm2Pel4JqO0T
+- https://youtu.be/D1m0FWG3kks?si=g-zsG-lxR_P8SKC3
+- https://youtube.com/shorts/ejg_PnHWRz4?si=kxDbrFNXmmyPzE_4
+- https://youtube.com/shorts/Yytc-2CZfaA?si=78fkjVyeNNdez2nF
+- https://youtu.be/tchwigktdzE?si=2ODPNwI9ctP95wrn
+- https://youtu.be/z0UzVSBqvro?si=5rO3kxtRW0sAQVLP
+- https://youtube.com/shorts/gelFj879XoM?si=LofoLppSr7CeYGAB
+- https://youtu.be/XD5R39ShW9U?si=5vlZ-fajK6g0FdEP
+- https://youtu.be/WzvSpOtXsp0?si=YYN3Be1AC8J9E7fF
+- https://youtu.be/06iRRwhYViM?si=ELlAcf_9sgTB4KCD
+- https://youtu.be/smBdunCOUbI?si=ptvE2S289QDZobTp
+- https://youtu.be/vi6m4nB-jOM?si=Td8r8rqIREedCrlD
+- https://youtu.be/6uS6en1XVyE?si=m11h2Wvkk-fvvsUs
+- https://youtu.be/lTgePS6p9i8?si=b8SIAlmLf0W1XcWF
+- https://pastebin.com/XXkFCY0T
+- https://youtu.be/f6XC_5FaQ_U?si=Vc_sNh8ugJ208q2t
+- https://youtu.be/Oy89Z5V3kw0?si=QLCq9y3s4Nw7u2la
+- https://youtu.be/etKpsgzYZuc?si=0KZ2-65UHznZceCw deltarune every duarr
+- https://youtu.be/DXmFCNyoX_0?si=DbGikP3ANLtv3jJY
+- https://youtu.be/ad-3dn2qUUs?si=LZF8uR36d035QzXh
+- https://youtube.com/shorts/s3HJ_-Fu4pg?si=5pKsthYqjux3hwyI
+- https://youtube.com/shorts/4f3hSYi8GWM?si=ILI8HU8iANn1xA13
+- https://youtube.com/shorts/1mkr8G7feVY?si=g-DfAaIrETM7x0cR
+- Bring boys. Check CVR if there is this Deltarune too
+- https://youtu.be/fzzGtz4v3YU?si=GPPJG8Vz_yfIq9iM
+- https://youtu.be/qnA-CZuHq7w?si=SPAFXgHreE_rc9VY
+- https://youtu.be/KrLj6nc516A?si=bqXC7lD4HazjgycV
+- Trodec. Hotel changed out.
+- Doric is Gold. Mercury are enemies. Doric is going to eat special buffet.
+- But Doric's advisor, Lumat found threat imminence. Change hotel to another city.
+- But the special buffet is exclusive to this hotel. So head chef rent that hotel for these chefs.
+- Stay. After stay, chefs clean their hotel room themselves. Head chef instruct chefs to spray entire room with washable purple paint to mark this room, so no cleaner of this hotel shall ever ignore any spot, even just a centimeter. While clean, this city's chefs had all ingredients here, head chef told them to ensure the ingredients stays here, especially the recipe PDF.
+- Checkout. Showtime! Chefs from the original hotel taught chefs in this hotel how to make this buffet. Head chef permit spreading the recipe. Now they follow it and began to produce the buffet together.
+- Doric arrive. Dinner time! Doric likes it. Suprised how did you know this? The original chefs reveals. They taught these chefs even.
+- Doric satisfied, want to go to night funs, directory sent. But Doric's bodyguard notified a threat imminent. Impossible! I come in surprise! Cancel fun, go home. Protect the Gold! Rumble, that has to be mercury
+- Go to parking basement to stair rather, good idea. Check car under for if bomb. May I shoot under? Yes, shoot. Clear, no reaction. Check inside. Ignite flame? Yes, center. No reaction. Go get in. Get out, oh no there'a that Mercury left there.
+- Better use Toll instead of plane, good idea. So there they go.
+- .
+- .
+- https://youtube.com/shorts/t9VL5aFoKhc?si=nhuMOHY0vcWta2p9
+- https://youtube.com/shorts/KXIASl4TMC8?si=U2EQqjpozsDqcQXa
+- https://youtube.com/shorts/jtJnIYwHCY0?si=66WsHuz9X9jHMNEF
+- https://youtu.be/Kemg1HNy0xc?si=DL1RKk35tGjUIt8-
+- https://youtu.be/uDblpuJTTkE?si=oQalhuYLthVma6Xt
+- https://youtube.com/shorts/QmuyyUSsWR8?si=aprxlbjUC8FA15iY
+- https://youtube.com/shorts/ioOBRkQJqfQ?si=_uG-Tfa-ysG2s_xg
+- https://youtu.be/YlLn5DXTRxI?si=FRIpPvwzWgerCeUw
+- https://youtu.be/B_0L5QnBmOQ?si=vR9aDt1DyPZs2zfQ
+- https://youtube.com/shorts/ZbRodvpLU2I?si=gWnH2ws0GnugLD16
+- https://youtube.com/shorts/eFNGPa0_Tnc?si=FmS8CCC-zgES0axd
+- https://youtube.com/shorts/zG_FTeZYLuE?si=SNlYnoa_5AqMysgC
+- https://youtu.be/Kemg1HNy0xc?si=eCl4lc0gT-5VHzIs
+- https://youtu.be/v5Ybv8UyJVs?si=hlmIALxzvzyZWRkb
+- https://youtu.be/xoB8FCqYQbg?si=JLwC_A94OC1QxMQ4
+- https://youtu.be/bLPPJY4g0eI?si=6KlLnriT4P1jIo8r
+- https://youtube.com/shorts/F-oLLqILsAU?si=1pDhpTdcX2COzp7G
+- https://youtu.be/X-NdGGSTVdM?si=naoAz6QQDJiMLMpd
+- https://youtu.be/Zko0iummMGw?si=VnLHMZSh8m2zxPAU
+- https://youtube.com/shorts/gCqvFqDoB9k?si=_fC0YG79c7A_WBdU
+- https://youtube.com/shorts/DmTzdjzc0EY?si=sp8oYhsJaX_V1JmA
+- https://youtube.com/shorts/S1EonBG5NGk?si=fygZxUs6f3hzQqy7
+- https://youtube.com/source/MCoSD9PKBog/shorts?si=7uZD-aCGR68m_ONq odetari i love you ho8
+- https://youtu.be/VudVSVu0gak?si=HreHIMOm2ojJ4Z8S ye
+- https://youtu.be/MCoSD9PKBog?si=i_M2jqaY53vI06bL uuu
+- https://youtu.be/mAmm0yzSNhw?si=2v9Ft4gcsK4vK940
+- https://youtube.com/shorts/vCa3F0lweYM?si=XRmSdz3SK8-IPZXY
+- https://youtu.be/qjYv0RR4jG0?si=mcOpToyEsC1C_JkZ
+- https://youtube.com/shorts/XYCgFRz3n04?si=Qvl-u0-7jpGpHuck
+- https://youtube.com/shorts/Rum9FQfg-Hk?si=CMOfhb7LQz4E_t-j
+- https://youtu.be/ZvM6j-lkadE?si=WhzBD0KiFG4Ggm9r
+- https://youtu.be/1nlKrlDJiCo?si=OejGNLOz_rzUpvk8
+- https://youtu.be/6IhFEHJG68Q?si=LRCS0cqsNLgViTqb
+- https://youtu.be/ncMCNdq_uH4?si=pa36hJrjiY4Zgs35
+- https://youtu.be/zGviW0_aNKs?si=teItCcxgwDHqNloY
+- https://youtu.be/38i6Nc2RO5k?si=uJCbtXgc4fzDhAGE
+- https://youtube.com/shorts/Je1yVix55is?si=JEnbZ84Uj_jPHMgt
+- https://youtu.be/LzwolcIo2Xs?si=SBbsoomvQmj79L1y you a888888!!! Limited time DLC?!?!? FOMO freaks!! 28 Sep 2023 - 27 Sep 2024
+- https://youtube.com/shorts/qWrxJOyYDQE?si=CkhiIuVGK4QDpGlU Hooo!!! STL not in desc
+- https://youtu.be/m99I05VJFLQ?si=ZuXIgdyn-BLr78mD
+- https://youtu.be/m99I05VJFLQ?si=ZuXIgdyn-BLr78mD
+- https://youtu.be/Iqz7ZDdP25A?si=e0NvWHO-rbFmn3lm there, Hextraction
+- https://thangs.com/designer/ZackFreedman?utm_source=youtube&utm_medium=video&utm_campaign=zack_f wow there's alot in here, download & print them all!!!
+- Melanie Martinez
+- https://youtube.com/shorts/_U2YQUOsaFk?si=x7ZX8tIggYKN7SJS
+- https://fishlicka.itch.io/juice-galaxy
+- https://youtu.be/YlR0CxLFWhY?si=KyaBf3h0B419HyHp
+- https://youtube.com/shorts/uO7waJWePUY?si=JSpEegx-njrfU5zt
+- Pls check Pokemon Infinite Fusion again
+- https://youtube.com/shorts/KMRWidCE_rI?si=-4DieSGDcVIXi1qd
+- https://youtube.com/shorts/AJ7q25kOUYk?si=nEj6akuXs4q4Y4ve
+- https://youtu.be/AEbOQ4XFN4M?si=VXjUHDiwdJBTE4Q_
+- https://youtube.com/shorts/G8JilytIkTM?si=ZaW2sUvKFY7pesbU
+- https://youtube.com/shorts/C8QgOvVyiL0?si=Y6TnqZxG03vtPYxC
+- https://youtu.be/hESa5SoC-A8?si=hoG0Ua0vKHJlWT5i
+- https://youtu.be/XfGlz2HqgTI?si=ux5TDVgQDRVnD6Tuhttps://youtu.be/XfGlz2HqgTI?si=ux5TDVgQDRVnD6Tuhttps://youtu.be/XfGlz2HqgTI?si=ux5TDVgQDRVnD6Tuhttps://youtu.be/XfGlz2HqgTI?si=ux5TDVgQDRVnD6Tu
+- https://youtu.be/G8pWp_OC_Aw?si=Zhi1Ar3mP9pJk-pYhttps://youtu.be/G8pWp_OC_Aw?si=Zhi1Ar3mP9pJk-pYhttps://youtu.be/G8pWp_OC_Aw?si=Zhi1Ar3mP9pJk-pY
+- https://www.instagram.com/p/CxRgZNFox72/?igshid=MzRlODBiNWFlZA==https://www.instagram.com/p/CxRgZNFox72/?igshid=MzRlODBiNWFlZA==
+- https://twitter.com/keetydraws/status/1703185764732039462?t=Ui6OYXzvWDsvwDo24_2_WQ&s=19
+- https://youtu.be/LVWsB0q8Sxs?si=cYBx7MKZufGtaYPehttps://youtu.be/LVWsB0q8Sxs?si=cYBx7MKZufGtaYPe
+- https://youtu.be/0XFurx0yrHI?si=yURGJF8c1DWNfvYAhttps://youtu.be/0XFurx0yrHI?si=yURGJF8c1DWNfvYA
+- furry
+- https://vt.tiktok.com/ZSLEw9ACL/
+- https://vt.tiktok.com/ZSLEwPjNm/https://vt.tiktok.com/ZSLEwPjNm/
+- https://youtu.be/KElWWGjDqg0?si=kHT2kcxAFlglXwuphttps://youtu.be/KElWWGjDqg0?si=kHT2kcxAFlglXwup
+- https://youtu.be/Wv3kZ8kntHU?si=QyS-s_hmnMGElGTJ here cooking show song
+- https://youtu.be/rjLl8-YK7zw?si=c9MoMfvsfRinTQUm aroma indosiar
+-  https://youtu.be/nvSDVfC0fzE?si=Pdb_LJQrgtbfpV5K
+- https://youtu.be/Rv5uS3EnIPw?si=YFYNxX7nQNe2Hy3x
+- https://vt.tiktok.com/ZSLEKAP4b/
+- https://vt.tiktok.com/ZSLEKDws2/
+- https://twitter.com/TokoTakki/status/1703216839806095858?t=XlvRoA914IWHk7-VRS9y8Q&s=19
+- des
+- https://twitter.com/c_starlett/status/1703152597220081731?t=TAPk-XpPGaVfuobi6pqrdw&s=19
+- https://gamejolt.com/p/e-gsqtyqsn
+- https://community.spiceworks.com/how_to/150784-acrobat-pro-error-before-you-can-perform-print-related-tasks-such-as-page-setup-or-printing-a-document-you-need-to-install-a-printer
+- https://youtu.be/NI_gtfL1054?si=_QWR2l4br8RJAFUq
+- https://youtu.be/TseT4C38UAg?si=A48AU_3KkhUEpfnU
+- https://youtube.com/shorts/JGgNGdbjv4I?si=xT92FSkJB7T3fjyQ
+- https://youtube.com/shorts/_8Uog_oRWYw?si=6JAJCgZbxV80Q028
+- https://youtube.com/shorts/hDkDX4nXETM?si=KRASH1bi7KHMSW3n
+- https://youtube.com/shorts/UP7RLkAuRvI?si=rmyv860BtnAJH_iE
+- https://youtube.com/shorts/nKiQLaUr-jY?si=36SGXs6BApMU_n5d
+- https://youtu.be/xBqjavW3TwM?si=uk-k8_q4sy_hmq7U
+- https://youtu.be/yj9KvpJfmp4?si=RXbKeXfSGD3UlhOD
+- https://youtu.be/ZhiJz1qfed0?si=a4OjtYlMWbGYxZ-C
+- https://youtu.be/0cE21Pnx4do?si=kH7UpOFYcWBIfIiw
+- https://youtube.com/shorts/CaahEekBH_Y?si=72FT-7FXZkMXPyfM
+- https://youtube.com/shorts/MRZPdr3F1nc?si=Pv_PsbM8vr7CywZW
+- https://www.youtube.com/live/ij2A_meSPV8?si=SS9mQmrqAWiRCVd2
+- https://vt.tiktok.com/ZSLoenM6S/
+- https://vt.tiktok.com/ZSLoeTp1H/
+- https://www.tumblr.com/joelwindows7/728725867294031872/gambeque-masterpost-of-my-favorite-csp?source=share
+- https://www.gamedeveloper.com/business/among-us-dev-predicts-install-fee-concessions-instead-of-reversal-after-call-with-unity
+- https://twitter.com/FuckedByUnity/status/1703412765870727638?t=i3XhosfCmRY5Ezx__2mmjQ&s=19
+- https://twitter.com/FuckedByUnity/status/1703401185686790144?t=i3XhosfCmRY5Ezx__2mmjQ&s=19
+- https://twitter.com/FuckedByUnity/status/1703387072940196297?t=i3XhosfCmRY5Ezx__2mmjQ&s=19
+- https://twitter.com/FuckedByUnity/status/1703379523415454194?t=i3XhosfCmRY5Ezx__2mmjQ&s=19
+- https://twitter.com/FuckedByUnity/status/1703356873930641797?t=i3XhosfCmRY5Ezx__2mmjQ&s=19
+- https://twitter.com/FuckedByUnity/status/1703334225007792356?t=i3XhosfCmRY5Ezx__2mmjQ&s=19
+- https://twitter.com/FuckedByUnity/status/1703183230038405527?t=i3XhosfCmRY5Ezx__2mmjQ&s=19
+- https://youtu.be/LlPOn0nAOeo?si=bMNgZhtXAZ1wHJEm
+- https://youtu.be/NnT3EkreWuQ?si=IR-176g5_2mHAbI-
+- https://youtu.be/_L711ozxQbw?si=RRlT_NxsuRkNkMkF
+- https://youtu.be/swP8bxOCm48?si=wl1EjsaaQmKpuozB
+- https://youtu.be/wsV_C9cMf8A?si=96qXpqKhO0xwtBZm
+- https://youtu.be/sBXdRNTYlYQ?si=J2q-38DcwcXKcBp1
+- https://youtu.be/jK7MU4a69fo?si=cIJ0bGJJQV5lw_wa
+- https://youtu.be/DERwBNEj-5A?si=4grAk9Ch8TaLOLFB
+- https://youtu.be/lCY7Yd_5QPs?si=29rC5R1aBuZCYUT9
+- https://youtu.be/lCY7Yd_5QPs?si=fNPDCFbF76CMwxFo
+- https://youtube.com/shorts/mJ9ooM0Mplc?si=x3YJEm_pJIReBYrX
+- https://youtu.be/6NPqQUFJKEU?si=0JlTs1njPpJQk8f3
+- https://youtube.com/shorts/I0mDXAAVSf0?si=CdaDiPz_xV7OkhhO
+- https://youtu.be/pmsU3i_h9w8?si=TLlQiliFaSvmJQul
+- https://youtu.be/FxDfo_elwYg?si=K6RXHDFdBqHMlqH8
+- https://youtu.be/e1SX0yWnZ1Y?feature=shared
+- drommer. I buy watches. One is circler and other is slim woman model. Slim woman model had bug in app mode. Go back to repair. Clerk girl went karen.
+- https://youtu.be/DLnMHSnDVHA?si=Vkc_o8jG8Dqu8BW_
+- https://youtu.be/aF4awWymwXI?si=m5B3_8MMWcJBAeTd
+- https://youtu.be/NVpsmybdas4?si=Uf0LSCswb-fCJUQu
+- https://vt.tiktok.com/ZSLo6asw7/
+- https://youtube.com/shorts/TWIGkfVlIOI?si=7UJStyiUVao9x6J2
+- https://youtube.com/shorts/ImdXOQkpTBQ?si=yb__zS4NW88kBu_0
+- https://youtu.be/MJ6ukDp8LIU?si=M5cpYUhpzs8wWMZ0
+- https://youtu.be/h1GNhJpxGMk?si=QMr77yAT1ypBbcT3
+- https://www.youtube.com/live/XITF2HvT0I8?si=zEzD2yN6XH_7T-L-
+- https://youtu.be/HIhgMt_qYpw?si=wGXiyorIYijvPmVz
+- https://youtu.be/vR-vNHh56AI?si=x7j7ji5WH1Zmu1uh
+- hey new MIDI
+- https://youtu.be/SL38JzF3XFo?si=jWqmiMIvDYinIgUm
+- https://mega.nz/#!0B1CRD6I!txpRdyIfOTbO26NLvlpdDiNq9BlRD12T3ZDylFMUf0E
+- https://mega.nz/#!RJ1y3BJY!CL0izktucKYygaUzaczXp9eGEct9okvRcbHIGC-sQ6E
+- https radixan.net
+- https://www.dropbox.com/sh/g55qfj8dw11i4tx/AABgtl9_ODUuYFK20BuwovCqa?dl=0
+- https://youtu.be/yQmOLqMQizQ?si=KSqorrFsXMwNwMt7
+- https://youtu.be/9jqQV9NUySg?si=bM7Q_K_YTO8_x3XQ
+- done
+- https://youtube.com/shorts/-omOZ7OssOs?si=QFedARx8vHI1juIf
+- https://youtube.com/shorts/dDhOhPY3mzo?si=j81TW7Dh2slRMuOS
+- https://youtu.be/niigKMHGnPI?si=2sxhnRL1LIILQal2
+- https://youtu.be/_y9_VoU0NZs?si=HlV-l6LdGaHq0u3O
+- https://youtu.be/GaTeFgemM8M?si=cBguoKT43cAidSvs
+- https://youtu.be/MTAeW2EYk1o?si=jRJf7yUPGv9RLabm
+- https://youtu.be/UptbjNjPjE0?si=X3dchwiCrWIUr093
+-  https://youtu.be/shmAGOTo824?si=R3HiA70jKhQyQ_zm marisa stole precious thing
+- https://youtu.be/VgJIAzsaS_Y?si=VcHYisCydKFZNoN7
+- https://youtu.be/kjBLZ1OuztE?si=vQquSDGwA6MFusta
+- https://youtu.be/MBvEPIcckPQ?si=4tewqQM-6FD6tZN7
+- https://youtube.com/shorts/dR9q6H0iRB4?si=l7JkCYBaF7c2By7Y
+- https://youtube.com/shorts/ZvdZWnJADGQ?si=cEfNzUqxaX1R7qEQ
+- https://youtube.com/shorts/QGDwz56v4Lk?si=4pqvqSMY9lozfTSp
+- https://youtu.be/qSi8Cuw4PC8?si=4xrlWQ3pYcHyaK-w
+- https://youtu.be/vQ98Qz0NuMk?si=3nNECB4wfBRsJ-oS
+- https://youtu.be/WIzsaXqorcM?si=qhEVVClKn1colOf3
+- https://youtu.be/LZ-Dj5_pRRU?si=aUjVRkC04rF09cEf
+- https://vt.tiktok.com/ZSLoMStmD/
+- https://youtu.be/YlLn5DXTRxI?si=UnNDcBIFgDTO2bn4
+- https://youtube.com/shorts/qfYdiBZiEyA?si=KTdaSdLIErD0aAkN
+- https://youtube.com/shorts/4Ke2Q-Z0Kuk?si=grhVLLslfxzI55xO
+- https://youtube.com/shorts/RjwQibbiG3w?si=ptj0TuIAKnA5jCGt
+- https://store.steampowered.com/sale/steam20?l=indonesian
+- https://partner.steamgames.com/steamdirect
+- run down this hill, I dare you
+- https://devicetests.com/
+- https://github.com/ungoldman/gamepad-tester
+- https://hardwaretester.com/gamepad/dataset
+- https://github.com/davidcmoffitt/Gamepad-Controller-Vibration-Test
+- https://gamepadtest.com/gamepad-controller-vibration-test/
+- https://devicechecker.org/gamepad-tester/
+- https://www.videogamerplus.com/2015/04/gamepad-vibration-test-how-to-check.html#
+- ftp://ftp.logitech.com/pub/techsupport/joystick/lws_clrc.exe
+- https://youtu.be/5a0ptWEmEr0?si=fKuNy3mMvCpjMr2S
+- https://youtu.be/A4Sm0Q2cGhk?si=0jk9v557VAER_n90
+- https://youtu.be/whhPipa6sBc?si=ITODE9GqPhqLcoyE
+- https://youtu.be/oLN3hddLgF4?si=9mZs1dlxYpEUbyuA
+- pls novaspirit tech song
+- https://youtu.be/4VO_ql8wQxE?si=6-uVNRkN1ofizys6
+- https://youtu.be/L0yuDU0aW1s?si=do0j9pR3hYVho_p8
+- https://youtu.be/kxBNKPXn0ys?si=3OaRtqg51dllm3Re
+- https://youtu.be/rbOxAoaM5a8?si=bhpm2edrgyKnRU9T
+- https://youtu.be/mCZRcxrEU2Q?si=BrbMOtNb4XiW89f2
+- https://github.com/imartinez/privateGPT
+- https://youtu.be/IeqeGTguFwk?si=JiK3afE_EbfRI5dG
+- https://youtu.be/IRzO4h_K7sk?si=7vTJ5TEinmvTCzVN
+- https://wej.k.vu/archlinux/arch_linux_arm_image_for_zipit_z2/
+- https://youtu.be/F7EVutm7eKA?si=XtD8_xlHKCX61E3c
+- https://youtu.be/elOFuFpPSJQ?si=oS2nvSJ27KnsVXeT
+- https://wiki.hyprland.org/
+- https://forum.manjaro.org/t/howto-use-wayland-with-proprietary-nvidia-drivers/36130/29
+- https://github.com/hyprwm/Hyprland/issues/1520
+- https://github.com/linuxmobile/hyprland-dots/tree/Sakura
+- https://youtu.be/cl2HlBCzu2U?si=BVoMI46DcSW87fXM
+- https://youtu.be/fsYimVXVBhc?si=0tLMogvLzCO3yIpY
+- https://youtu.be/pBkneYtLBJE?si=haeRAe1OZYR9Pmo5
+- https://hyprland.org/
+- https://github.com/linuxmobile/hyprland-dots
+- https://youtu.be/lunnbdFdPJE?si=y0EsZV2I63XCqUer
+- https://youtu.be/mZcRH1yF_do?si=0CWwcbUCuDo1p6ij
+- https://youtu.be/ZQC28Is_k2k?si=_unpS1CLU4kPKbUR
+- https://youtu.be/FsZyhqA9XaA?si=HHVVjydFrAU8enLQ
+- https://youtu.be/6Sw06swtgY0?si=PdNnYjeE-Mupn6AV
+- https://youtu.be/mNTGzNW3fRU?si=tN-HrF7p5fk95YqR
+- https://youtube.com/shorts/urOjlo5SmzA?si=BrdyiMPgaIZUxcuA
+- https://youtu.be/Nvv9kCFoJiA?si=Pw8yWbG2LDddPEg2
+- https://youtu.be/AGz0-9MHCys?si=1oEywuf5AmXeGNrn
+- https://youtu.be/XRpHIa-2XCE?si=NWWgfub_LgFK8Ta0
+- https://github.com/pbek/QOwnNotes
+- https://youtube.com/shorts/_fd0l338ueE?si=4r-Cag3e7FXONjWF
+- https://youtube.com/shorts/Skve2Z-pAcc?si=z0KtKpppADlW7m_R
+- https://youtu.be/99bZ01nKoAs?si=yk8sRP5_RcNj7hxp
+- https://youtube.com/shorts/7FuqriTkBus?si=kLlnDaOOPFuSfCJM
+- https://youtube.com/shorts/tSzIezumsps?si=O3Tj3aRrzjx4AirF
+- https://youtu.be/LuZiqLb70tM?si=jKajhTAe2jEnayuw
+- https://youtu.be/BKDsoeaHUXw?si=-DXJ1Ukp1tGK3PoV
+- https://youtube.com/shorts/nQLXtTb9SS8?si=7H0h56YIq0Wt0uyR
+- https://youtube.com/shorts/u-MTQbj0qLw?si=qi82XLTHmive8gtC
+- https://youtube.com/shorts/AysNkvehxtQ?si=f_CgBL3cbpVyJRI9
+- https://youtu.be/HvjO_p4g-cU?si=FPeN6ryD0Y0VVCiZ
+- https://youtu.be/O-aQA1HKctQ?si=itNrPCAndM4-1x4L
+- https://youtube.com/shorts/upqCzKHxWJw?si=zwTKqXdfWd1jzwzC
+- https://youtube.com/shorts/lApnqSPxQGo?si=nzOYNwuKfCdviVG5
+- https://youtu.be/yV8aXZs6EJ4?si=k9oKq1zY0FJEYq_s
+- https://youtu.be/LeEHnWSeXLA?si=mbM6vBpzRC2WyZZ6
+- https://medium.com/@davidoneacre/surviving-your-animation-thesis-a-post-mortem-of-my-own-short-film-b827f2cf1f15
+- https://youtu.be/OEOglPzZWTc?si=fZqEBlSFI0ndVkXG
+-  https://youtu.be/JeoJ8O33Dtk?si=Df8qCvWWwc1kT1qy offensive
 
 
 
