@@ -40216,7 +40216,22 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtu.be/V1aqZT7jbo8?si=kcDh4XbfTEbXNK9g What.cd . private torrent tracker site with strict must share back rules. This is not x0p1r4t3.
 - I get it now. We understand that nobody has all the power needed nor the will would be it.
 - But that fear shall not grant over your life  
-
+- https://youtube.com/shorts/x2Gv3_f9muU?si=vItLkOB_pSjhgUEK
+- https://youtu.be/sd-XR9HdC3g?si=Rg1aVkAraLbsH_m7
+- https://youtu.be/kb3CiujrdGU?si=4YwbMfJVRGD3j6Bg
+- https://youtube.com/shorts/QPPdJkpZLec?si=vt7pT6e51Bd4a9jj
+- https://youtube.com/shorts/GZXs9puNxHQ?si=N1p2gPjYGJiRQKWW
+- https://youtube.com/shorts/X5aZoHXrc7U?si=VD7AMMjoSLQcL5-M
+- https://youtu.be/Nk26PrKd9a4?si=3tzbsGkD4G4hjI-g
+- https://youtu.be/7pmdfo97LII?si=afADMRo_Ksk08rCX
+- https://youtu.be/6IhH1Vqb0sU?si=9V9zqX85OwxtPPhU
+- https://youtu.be/9uubHgXZzGk?si=U3kgeORUNqQxoh4K
+- https://youtu.be/IsEgWORLCpI?si=SSByN4J2WBgoU54v
+- https://youtu.be/6HS8P9RVh1c?si=cOqdO64n3IC8Ev6r
+- https://youtube.com/shorts/JB9tWBXxjVs?si=vbnc6LTIwsPAlWTa
+- https://youtube.com/shorts/0TlfI7DJF7k?si=Ca7Hv_woh5OEsEIQ
+- https://youtu.be/2mTAQLkOSq8?si=Yp6VloQYjgWuXfaR
+- https://youtu.be/1qIHCUWAgh4?si=hMgDAYLnnODEH7KH
 
 
 
