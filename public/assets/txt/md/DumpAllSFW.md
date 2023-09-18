@@ -40357,6 +40357,12 @@ https://www.pixiv.net/en/artworks/94794810
 - Not in empty space. Perhaps if you wanna be safe, Alexandria should've been on other ungoverned place. Then make this new place a nation on its own with sole purpose governing the libraries. There you can be as free libre as you want. This sounds familiar, don't you think, Zumi?? About your city that can leave Dasandim float away to space unknown just in case..
 - .
 - . 
+- https://youtu.be/B7gAdVqeQpw?si=hg6sFZD_2OgM2GiJ
+- https://youtu.be/y2CU59T8A3A?si=qBJop-ErKhDs9JQf percuma ukulele meme song tiktok viral without laugh
+- https://youtu.be/qYxihb7wuiM?si=SGjUX3nJXYrNcJuW video percuma ukulele
+- https://youtube.com/shorts/o-6sw9D5pcU?si=CmQb0UGEAbg2HFti
+- [ percuma ukulele laugh](https://youtu.be/EujXdR5m-uc?si=0XX3S7jkJ8M-Z8dA)
+- Cuiuiuiuiui. Assign modulation slider to Pitch bend range. Keep assign of MPE Each note shift bend to MPE Pitch Bend. Now you can press hold your chord, shift one finger left right uiuiuiuiui, and while that, push modulation slider up. from oo ee oo ee, **UWIIIUUWIIIUWIIU**.
 
 
 
