@@ -40234,6 +40234,27 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtu.be/1qIHCUWAgh4?si=hMgDAYLnnODEH7KH
 - https://www.qownnotes.org/installation/windows.html
 - https://github.com/pbek/QOwnNotes
+- https://medium.com/@supernote/the-history-of-electronic-paper-cdafa0d6cc38
+- https://youtu.be/VckU9UXI_XE?si=5r1ueZ29vPw60XSX
+- https://youtu.be/1w6TCOeNUp4?si=3ABV-W6TAsSq19ua
+- https://planetside.co.uk/ create landscape
+- https://youtu.be/B_8HDPBfvHI?si=cRZ1ipWExPGG_8_r
+- https://youtu.be/feF4jWr_k1M?si=afiYcVpF5bwXMgxR
+- https://youtu.be/oeM9fzQd5-w?si=T76O9Nhtyzc0XJj3
+- https://youtu.be/6r3AGu5xnuU?si=YOt-Vz8RBFgPkVWi
+- https://youtu.be/fChaKjikW40?si=99Ms51yaPdPHkRNo
+- https://youtu.be/fChaKjikW40?si=99Ms51yaPdPHkRNo posy likes switch
+- https://youtu.be/fChaKjikW40?si=99Ms51yaPdPHkRNo
+- https://youtu.be/azb6NUaEXBw?si=gik4lWnMxBKLdnWz
+- https://youtu.be/Q4494CAd4FQ?si=6FgeRHVQYg6IP-7l
+- https://youtu.be/HTljU5ghCKA?si=0wzu8v4YSIQB14Nv
+- https://youtu.be/0pUUk6XVQrw?si=nVBEjj_SzGNKRf-4
+- https://youtube.com/shorts/uTns3HT9Luo?si=KpDdqZYOoX_DChFt adhd fox
+- https://youtube.com/shorts/RFiRyFbr4Fg?si=UtGHVLKQiQeYOKsE
+- https://youtu.be/0pUUk6XVQrw?si=jjO8_29z8DB1gsZD
+- https://youtu.be/ZQIJol6DJLE?si=bp8BN6q4Hna-DfZ3
+- https://github.com/rxi/flux
+- https://love2d.org/forums/viewtopic.php?t=83180
 
 
 
