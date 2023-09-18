@@ -40340,7 +40340,14 @@ https://www.pixiv.net/en/artworks/94794810
 - https://twitter.com/therbayg/status/1684927985374076929?t=Qf8CRiEJl_7mnFmrParLfw&s=19 here fnaf dlc 3d model pls download
 - https://twitter.com/Mr_Trapx/status/1582134534581022720 gone
 - https://hackaday.com/2023/07/28/color-can-triple-qr-code-capacity/
-- 
+- https://youtu.be/_DmiCWTn9AM?si=ApZ8hIEVJ_nNvUwi
+- https://youtu.be/y4k3yKY96g8?si=Hf7T-stcRL2ra5gc
+- https://youtu.be/Cn9gdXyxU-U?si=MPH-TqdNyk9cim2k
+- https://youtube.com/shorts/HaaQ8cDukGc?si=uQkVWVL-Bzf6Z9dv
+- https://youtube.com/shorts/G1SDn37UnTs?si=YINW0q-SrlE--Um-
+- https://youtube.com/shorts/s3kUTX-r0jw?si=XGvjUyrFSK4MwGBc
+- https://youtu.be/OqHViq3_zEA?si=-gjAfV9bt8oZbJdq
+- https://youtu.be/8h2qjg6KfaM?si=IpQCySwDlUnipYac
 
 
 
