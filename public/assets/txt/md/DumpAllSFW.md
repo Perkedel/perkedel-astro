@@ -40210,7 +40210,12 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtu.be/LeEHnWSeXLA?si=mbM6vBpzRC2WyZZ6
 - https://medium.com/@davidoneacre/surviving-your-animation-thesis-a-post-mortem-of-my-own-short-film-b827f2cf1f15
 - https://youtu.be/OEOglPzZWTc?si=fZqEBlSFI0ndVkXG
--  https://youtu.be/JeoJ8O33Dtk?si=Df8qCvWWwc1kT1qy offensive
+- https://youtu.be/JeoJ8O33Dtk?si=Df8qCvWWwc1kT1qy offensive
+- https://youtu.be/9Z72h9cKUPc?si=ZnZu_H3ipQYo_pBi
+- https://youtu.be/V1aqZT7jbo8?si=44U4Szusp31hxFdT
+- https://youtu.be/V1aqZT7jbo8?si=kcDh4XbfTEbXNK9g What.cd . private torrent tracker site with strict must share back rules. This is not x0p1r4t3.
+- I get it now. We understand that nobody has all the power needed nor the will would be it.
+- But that fear shall not grant over your life  
 
 
 
