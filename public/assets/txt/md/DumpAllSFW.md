@@ -40255,6 +40255,92 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtu.be/ZQIJol6DJLE?si=bp8BN6q4Hna-DfZ3
 - https://github.com/rxi/flux
 - https://love2d.org/forums/viewtopic.php?t=83180
+- Retro Gadget offensive badluck brian meme: Gadget has 75 features packed in 1 single gadget; protected.
+- https://youtu.be/u5EbPNJG-lk?si=DZsfGlaGkROPBQLx
+- https://youtube.com/shorts/7bmsDg4BaKw?si=x5yT_ZRe0obzvohj
+- https://youtube.com/shorts/7bmsDg4BaKw?si=x5yT_ZRe0obzvohj
+- https://youtube.com/shorts/H1sXIUbpRCU?si=1a5WeTSv3Ww0BuNQ
+- https://youtu.be/y6mS_Qr01RQ?si=2OWN-1MzpX2pttnN
+- https://youtube.com/shorts/Zcch9o4BX5k?si=D0suFtqwrFO1UXLZ
+- https://youtube.com/shorts/_ly0arnLta4?si=biweJtekLrac5Z9R
+- https://youtube.com/shorts/tKdYU6iHUEo?si=-Ui5mJvzooOCF1ml
+- https://youtube.com/shorts/ecArHEtMCHM?si=b9z8ISrrF5H5Xobl
+- https://youtu.be/KTWHdLZZdGw?si=Dd2TC8R2do76e0u_
+- https://youtu.be/yf93wYfwmCo?si=RcdURnfH9K0A4vnJ
+- https://youtube.com/playlist?list=PLl4QzL2HFIdJ5A7IUp9e6KhJOO1RUX8iv&si=7RDKgmvsOq2UH7d4
+- https://youtu.be/FQ9l4v7zB3I?si=BlnwpLsy6eOCJ8wL
+- https://youtube.com/shorts/Q_vBaSsb2HQ?si=lgAgHf6Jht38bV72
+- https://youtube.com/shorts/QJqgqy9M4HU?si=SBfZwMeq_VGJ5Pj0
+- https://youtube.com/shorts/Ubwijb8AIwQ?si=cDeLCdq7UtX_vp77
+- https://youtube.com/shorts/qbrrJagvipI?si=vEkttW6LULfZulu-
+- https://youtube.com/shorts/c4r4jfT3Fio?si=aglrs9iVWHex1qL-
+- https://youtube.com/shorts/T56jbdNokBE?si=6K8gNNOMGJBh43xa
+- https://youtu.be/JQOl5VkUw8Y?si=nSiYqnTruX2QoQhT
+- https://youtu.be/OLKDV-_SCBs?si=x1u72Ls4y0gAThcz
+- https://youtu.be/FEiFPzbCo_E?si=fXWAd3GPVzh1mKGf
+- https://youtu.be/NGiHjrOrdhE?si=cOraTb6pzfpyJAmH
+- https://youtu.be/j50V8Isevyo?si=0bSWhOxCvWMrMkif
+- https://youtu.be/GtWVBY2ihBA?si=-gJpeY2gcaU_tnUf
+- https://youtu.be/BYqZet63wYQ?si=7SSS9NofwthTc0al
+- https://youtube.com/shorts/70-u4P86zqU?si=_k9-xsZva4ABoJJm
+- https://youtube.com/shorts/rgtuULCsO_0?si=bPEHuSP8wxpvRDDl
+- https://youtu.be/YFxytu_W2Wg?si=U9QM8cmk2bkPAB45
+- https://youtu.be/4KNj_DrP7SU?si=cmAqlMOyAcW0HUMU
+- https://youtube.com/shorts/RDqkB8DeHgM?si=EAVz0GfgD3F3vKQ7
+- https://youtube.com/shorts/yG9dAArUMWU?si=gItSDgLSR3lHTpON
+- https://youtube.com/shorts/NW4nv4Moq4I?si=qi-3XhtMVZ8anzFH
+- https://youtube.com/shorts/z9bVUXey5M0?si=CzxL1QsIHucLZmch
+- https://youtu.be/p4lhQbMUobU?si=ju0MxCqJYOLcT-aI
+- https://youtu.be/378CCT2a-7Y?si=ri4CXOVJhpH07MNi
+- https://www.reddit.com/user/Defender66x2/
+- https://youtube.com/shorts/UW37dEq-G5w?si=77XNHt-1fTlU1ZaR
+- https://youtube.com/shorts/Bt0QRXYzlNM?si=WW-O_36XdoHII5KW
+- https://youtube.com/shorts/n9JyQGM3Fhg?si=uT9_oUMEKzbWAEOv
+- https://youtube.com/shorts/CT3d32A090g?si=pozzh8Hhn5-lCiPr
+- https://youtube.com/shorts/6sjsJU24KbE?si=mic3lAzIgVu1SQhO
+- https://youtube.com/shorts/zM9gvWorvqk?si=NdnI6uIt2PDx_rNt
+- https://youtube.com/shorts/icx8qbxaUmw?si=o_jn-D2y-T7_IuEF
+- https://youtube.com/shorts/OnNCOndrUL4?si=fxxA7I9b-4t6cLhn
+- https://youtube.com/shorts/Zxf2MgYCOm0?si=mhCv-uMOVPH99lFf
+- https://youtube.com/shorts/Wcy13Asiz3U?si=BhoKyc0Y_S2M7P_F
+- https://youtube.com/shorts/z-5UM6pFOAU?si=BpCgStHkX_QNLx6z
+- https://youtube.com/shorts/6gZ1J8ZlKiU?si=DKpsKXv-CC9R_wv3
+- https://youtube.com/shorts/aQmqbyrdq8E?si=FaH0nWcg8CVigbeh
+- https://youtu.be/Q8NZvGsps0g?si=SeTiSwnxWK_OrMTt
+- https://youtu.be/c5IQJEBFWWc?si=9mMJiP9m9jfiQH-U
+- https://youtu.be/zd5OxRKsbxc?si=fkzKcre-JoMx_Mu-
+- https://youtu.be/TivIPNntAMU?si=IVZb9HJR963ddiw0
+- https://discord.gg/zHC2gJW tf2-blender Discord
+- https://youtu.be/OzYICn2fnR8?si=xKR9MKpY-kcKU-vt
+- https://youtube.com/shorts/92pK10_RpN4?si=kg70LTI9EeaXGa45
+- https://youtube.com/shorts/eS0Nznxf6Lg?si=fYim9zTDqASMyFmS
+- https://youtube.com/shorts/Kpzfanm1FMU?si=f90p0lP3HKRykXQX
+- https://youtube.com/shorts/5VGqLZj3vsM?si=Mgd5lHznd7wVomMY
+- https://youtu.be/-lqg-xc6BT0?si=WASTF5XEAvTtglHu
+- https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+- https://ultimatevocalremover.com/
+- https://youtu.be/0dsLxqiSrKI?si=GFChfVzbq41Dh5hH
+- https://youtube.com/shorts/GEG3MOdlCjE?si=og8u-wSvM74e4wHQ
+- https://youtube.com/shorts/P0aQ0nKACL8?si=cfaYPsEoX8zgVKfg
+- https://youtube.com/shorts/oZ1Py2RSNDs?si=TT3lPN21-1QbCc-K
+- https://twitter.com/asirisenpai/status/1688748440455626752?t=wEzYxhZolw5ruPhv2BD8bA&s=19
+- https://youtu.be/9dt2ncYRJU4?si=2_2Nw7AMcax5UId_
+- https://youtu.be/L1jRBlncX14?si=ttnXyTvbSRV_Q4t8
+- https://youtu.be/bQH03DqB5c4?si=fStf93KUcbR2ogmH able sisters grimecraft remix
+- https://youtu.be/hkTEWzMXkTk?si=lPlyZqEsmNO2R7Og 54 ambient
+- https://youtu.be/AC-9dCCOGSI?si=h-l20isoQ_7aIatf
+- https://youtu.be/8FIYJwn86mM?si=v3Qe6G-I1miqNYY2
+- https://youtube.com/shorts/sGSKmtVA3rI?si=nYHs9xx8_N8wASyz
+- https://youtube.com/shorts/wfNaSx1Oyhg?si=WI3jP9741OtRs6Mi
+- https://youtu.be/qN7uueLugA4?si=9Ycrx2qpvR1zBrk6
+- https://youtu.be/Sk9WyEfzWPg?si=-RZ06TT5nCRPWO__ explosive hydroforming steel sphere
+- https://youtu.be/54aPajPphOQ?si=qQftK4PCVjL7JxcD
+- https://youtu.be/UtFyFF7oBzM?si=P7N3ZXwadVCIwJTf
+- https://youtu.be/UHBOp7AUkc0?si=a0XQ5X4dBPfBSj5T
+- https://twitter.com/therbayg/status/1684927985374076929?t=Qf8CRiEJl_7mnFmrParLfw&s=19 here fnaf dlc 3d model pls download
+- https://twitter.com/Mr_Trapx/status/1582134534581022720 gone
+- https://hackaday.com/2023/07/28/color-can-triple-qr-code-capacity/
+- 
 
 
 
