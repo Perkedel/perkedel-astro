@@ -40232,7 +40232,8 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtube.com/shorts/0TlfI7DJF7k?si=Ca7Hv_woh5OEsEIQ
 - https://youtu.be/2mTAQLkOSq8?si=Yp6VloQYjgWuXfaR
 - https://youtu.be/1qIHCUWAgh4?si=hMgDAYLnnODEH7KH
-
+- https://www.qownnotes.org/installation/windows.html
+- https://github.com/pbek/QOwnNotes
 
 
 
