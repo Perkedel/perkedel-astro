@@ -40348,6 +40348,15 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtube.com/shorts/s3kUTX-r0jw?si=XGvjUyrFSK4MwGBc
 - https://youtu.be/OqHViq3_zEA?si=-gjAfV9bt8oZbJdq
 - https://youtu.be/8h2qjg6KfaM?si=IpQCySwDlUnipYac
+- The Mistakes of Alexandria. Surreal Blender Meme movie. inspired from that above what.cd destruction due to federals found them.
+- Alexandria in this film is a massive library of ever existed stuffs, from film, music, MIDI, to mere niche files like mods and 3D Models. The exact location has been leaked and federals are of their way. Forcedly, the CEO had to burn the entire place. No files will be saved, all gone. As the federal arrived, the fire had engulfed the whole reserved land, trapping the agents, and them all baked burn inside.
+- Here, our protagonist got called to recover the corpse. The protagonist successfully recovered all of the corpse with no miss at all. Mission accomplished. But after all that's done, the protagonist realized as he went through the rubbles. He found that this appears to be a library, but no books.
+- long short he investigated, he learned about this Alexandria. He went upset throw chairs and tables. the film rest of the moment should go. The moral is that you don't hold in your hand yourself. Share, even if they don't reply share. Alexandria that burn, won't be the end of Alexandria. Make more Alexandria.
+- Alexandria Mistake: Centralized & Restricted. You should not fear at all. Keeping file yourself is not archiving. Spread wide. if this gone, copies spreads.
+- Not learning. Do you figure out how & why did Alexandria got burned? If you don't learn the history, you'll only be doomed to repeat it.
+- Not in empty space. Perhaps if you wanna be safe, Alexandria should've been on other ungoverned place. Then make this new place a nation on its own with sole purpose governing the libraries. There you can be as free libre as you want. This sounds familiar, don't you think, Zumi?? About your city that can leave Dasandim float away to space unknown just in case..
+- .
+- . 
 
 
 
