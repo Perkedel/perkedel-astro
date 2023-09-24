@@ -40363,6 +40363,7 @@ https://www.pixiv.net/en/artworks/94794810
 - https://youtube.com/shorts/o-6sw9D5pcU?si=CmQb0UGEAbg2HFti
 - [ percuma ukulele laugh](https://youtu.be/EujXdR5m-uc?si=0XX3S7jkJ8M-Z8dA)
 - Cuiuiuiuiui. Assign modulation slider to Pitch bend range. Keep assign of MPE Each note shift bend to MPE Pitch Bend. Now you can press hold your chord, shift one finger left right uiuiuiuiui, and while that, push modulation slider up. from oo ee oo ee, **UWIIIUUWIIIUWIIU**.
+- https://www.msi.com/blog/upgrade-your-storage-to-spatium-ssds-step-by-step-guide
 
 
 
