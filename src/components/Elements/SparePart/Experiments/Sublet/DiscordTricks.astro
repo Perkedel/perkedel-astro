@@ -1,0 +1,63 @@
+---
+// from NoTextToSpeech https://youtu.be/MDSscZjzXb4?si=f5Z3wsYLDGe2zkdZ
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import PerkedelWoosie from '@components/Icons/PerkedelWoosie.astro';
+import Figurative from '@components/Elements/SparePart/Figurative.astro';
+---
+<h3 id="bonusDiscordTricks">Discord Weird Tricks</h3>
+<p>From <ButtonizedLink href='https://youtu.be/MDSscZjzXb4?si=f5Z3wsYLDGe2zkdZ' openInNewTab={true}>NoTextToSpeech's Video</ButtonziedLink></p>
+
+    <h4>Rebane's Discord <b style="color:cyan;background-color: gray;">Colored</b> Text Generator</h4>
+        <p><ButtonizedLink href='https://rebane2001.com/discord-colored-text-generator/' openInNewTab={true}>Rebane's Discord <b style="color:blue;">Colored</b> Text Generator</ButtonziedLink>Generate ANSI text wrapped inside Markdown code quotes</p>
+        <Figurative figcaption={'Initial Text content upon opening Rebane\'s <b style="color:cyan;background-color: gray;">Colored</b> Text Generator'}>
+            <code>
+                <pre>
+```ansi
+Welcome to [2;33mRebane[0m's [2;45m[2;37mDiscord[0m[2;45m[0m [2;31mC[0m[2;32mo[0m[2;33ml[0m[2;34mo[0m[2;35mr[0m[2;36me[0m[2;37md[0m Text Generator!
+```
+                </pre>
+            </code>
+        </Figurative>
+        <p>This web app allows you to generate colored text in Discord, Although using weird way through Markdown code quote interpretings. Did you know, Discord Desktop do in fact interprets code quote when told what is this code quote? This includes ANSI code language too!</p>
+        <p>You have various formating supported in the ANSI. It automatically wraps the formated ANSI text for you in a Markdown, marked what language so the color and other stuff appears. Simple Press <b style='background-color:gray;color:white;'>Copy text as Discord formated</b> and send away!</p>
+        <Figurative figcaption={'Our greeting text generated with Rebane\'s <b style="color:cyan;background-color: gray;">Colored</b> Text Generator'}>
+            <code>
+                <pre>
+```ansi
+[1;2mAhei[0m, [4;2m[1;2m[1;34m[1;33m[1;34m[1;41m[1;36m[1;37mDasandimian[0m[1;36m[1;41m[0m[1;34m[1;41m[0m[1;34m[0m[1;33m[0m[1;34m[0m[0m[0m! Welcome [2;32mto[0m [2;41m[2;37mPerkedel Technologies[2;40m[2;30m [2;45m[2;35m[0m[2;30m[2;45m[2;34m[2;32m[2;36m[2;37mCool[0m[2;36m[2;45m[0m[2;32m[2;45m [2;35mand[0m[2;32m[2;45m [2;37mgood[0m[2;32m[2;45m [2;31mamazing awesome[0m[2;32m[2;45m![0m[2;34m[2;45m[0m[2;30m[2;45m[0m[2;30m[2;40m[0m[2;37m[2;40m[0m[2;37m[2;41m[0m[2;41m[0m
+```
+                </pre>
+            </code>
+        </Figurative>
+        <Figurative figcaption={'Discord result of our greeting text generated with Rebane\'s <b style="color:cyan;background-color: gray;">Colored</b> Text Generator'}>
+            <img src='/assets/misc/NTTS_DiscordTricks/Rebane_Welcome_Perkedel_Discord.png' alt='Rebane Text Generator result image in Discord' title='Rebane Text Generator result image in Discord'></img>
+        </Figurative>
+    <h4>Invisible Attachment</h4>
+        <p><ButtonizedLink href='https://drive.google.com/drive/folders/1B0DLaZ5i0XUIu2SelOQBu6KXR6syH8zV' openInNewTab={true}>NoTextToSpeech's Invisible Attachment</ButtonziedLink></p>
+    <h4>Fake Nitro URL</h4>
+    <h4>Fake Invite URL Bamboozle</h4>
+    <h4>Platform Detect Tricks</h4>
+    <h4>Fake Account Warning</h4>
+    <h4>Fake Embed Bamboozle Bait</h4>
+    <h4>Discord App Protocols</h4>
+    <h4>Discord Banner icon Generator</h4>
+        <p><ButtonizedLink href='https://www.discordicon.com/badges-editor' openInNewTab={true}>Discord Banner Icon generator</ButtonziedLink>Upload pieces as Emoji & apply! (Apply everywhere requires Nitro)</p>
+    <h4>Credit</h4>
+        <ul>
+            <li><ButtonizedLink href='https://youtu.be/MDSscZjzXb4?si=f5Z3wsYLDGe2zkdZ' openInNewTab={true}>NoTextToSpeech's Video</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://rebane2001.com/discord-colored-text-generator/' openInNewTab={true}>Rebane's Discord <b style="color:blue;">Colored</b> Text Generator</ButtonziedLink>Generate ANSI text wrapped inside Markdown code quotes</li>
+            <li><ButtonizedLink href='https://gist.github.com/rebane2001/07f2d8e80df053c70a1576d27eabe97c' openInNewTab={true}>Rebane's Discord <b style="color:blue;">Colored</b> Text Generator SOURCE CODE</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://drive.google.com/drive/folders/1B0DLaZ5i0XUIu2SelOQBu6KXR6syH8zV' openInNewTab={true}>NoTextToSpeech's Invisible Attachment</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://drive.google.com/drive/folders/18-9X13abayITCKmToARWDljynvMzBXob' openInNewTab={true}>NoTextToSpeech's Fake Nitro</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://drive.google.com/drive/folders/1abXnbdz2S5E1VeJym6HdOLRViAjlFnco' openInNewTab={true}>NoTextToSpeech's Fake Invites</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://drive.google.com/drive/folders/1b4QqV3kWaPDv8pgAq1j1icJC611trv9L' openInNewTab={true}>NoTextToSpeech's Platform detector</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://drive.google.com/drive/folders/1JCp_emwJPBa7isZ9ajg4VnK3NFdGtjMI' openInNewTab={true}>NoTextToSpeech's Fake Account Warning</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://github.com/NoTextToSpeech/goofy-site' openInNewTab={true}>NoTextToSpeech's Bamboozle Embeds Goofy Site</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0' openInNewTab={true}>ghostrider-05's List of Discord App Protocol URLs</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://www.discordicon.com/badges-editor' openInNewTab={true}>Discord Banner Icon generator</ButtonziedLink>Upload pieces as Emoji & apply! (Apply everywhere requires Nitro)</li>
+            <li><ButtonizedLink href='https://www.w3schools.com/tags/tag_pre.asp' openInNewTab={true}>W3Schools: <code>pre</code> tag</ButtonziedLink></li>
+            <li><ButtonizedLink href='https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre' openInNewTab={true}>MDN: <code>pre</code> tag</ButtonziedLink></li>
+        </ul>
