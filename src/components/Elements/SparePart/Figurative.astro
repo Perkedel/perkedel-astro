@@ -8,10 +8,12 @@ const{
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <figure>
-    <slot>
-        <div style="min-height: 100px;min-width: 100%;border-style:dotted;border-radius:5px;align-content:center;text-align:center;">
-            <p><i>SAMPLE TEXT</i></p>
-        </div>
-    </slot>
+    <div width='90%'>
+        <slot>
+            <div style="min-height: 100px;min-width: 100%;border-style:dotted;border-radius:5px;align-content:center;text-align:center;">
+                <p><i>SAMPLE TEXT</i></p>
+            </div>
+        </slot>
+    </div>
     <figcaption set:html={figcaption}/>
 </figure>
