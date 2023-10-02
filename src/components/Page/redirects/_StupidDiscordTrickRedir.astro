@@ -23,6 +23,7 @@ export interface Props{
     thumbHeight?:String;
     nsfw?:Boolean;
     type?:String;
+    doNotRedirect?:Boolean; 
 }
 
 const{
@@ -33,6 +34,7 @@ const{
     thumbHeight = '202',
     nsfw=false,
     type='video.other',
+    doNotRedirect = false
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- Directly from https://github.com/NoTextToSpeech/goofy-site/blob/main/index.html -->
@@ -56,7 +58,8 @@ const{
     <!-- Stole the memes from https://github.com/iwakkrg/iwakkrg.github.io -->
     
     <!-- Redirect -->
-    <meta http-equiv="refresh" content={"0; url="+redirectsToSauce+""} />
+    {doNotRedirect?"":<meta http-equiv="refresh" content={"0; url="+redirectsToSauce+""} />}
+    
   </head>
   <body>
   </body>
