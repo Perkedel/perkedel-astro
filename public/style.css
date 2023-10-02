@@ -10,11 +10,13 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
 /* @import url('https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'); */
 
-/* Built in Homestuck CSS import */
-@import url('https://perkedel.netlify.app/assets/css/homestuck.css'); 
 
+/* Built in Homestuck CSS import */
+
+@import url('https://perkedel.netlify.app/assets/css/homestuck.css');
 
 /* @import url('https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'); */
 
@@ -32,7 +34,6 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 
 @import url("https://www.nerdfonts.com/assets/css/webfont.css");
 
-
 /* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
@@ -47,7 +48,6 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 /*WHY THE PECK WON'T YOU SAVE?!?!??!?!?!?!??!?!?!*/
 
 :root {
-
     --BGColor: black;
     /*
     https://codepen.io/CarlaVamp/pen/JjRNoVo
@@ -191,7 +191,6 @@ body {
     /*display: grid;*/
     /*grid-template-rows: 1fr auto;*/
     word-wrap: break-word;
-
     /* Oh boy counter
     https://www.w3schools.com/css/tryit.asp?filename=trycss_counters1
     https://www.w3schools.com/css/css_counters.asp
@@ -201,48 +200,48 @@ body {
     counter-reset: section;
 }
 
-body[data-background][background-color]{
+body[data-background][background-color] {
     /* Pls custom color will ya?! */
     background: attr(data-Background, black);
     color: attr(data-TextColor, white);
 }
 
-p{
+p {
     /* cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Tekselek_FromScreen.cur), default; */
 }
 
-
-h1{
+h1 {
     /* what???? */
 }
 
-h2{
+h2 {
     /* idk.. */
     /* counter-reset: subsection; */
 }
 
-h3{
+h3 {
     /* counter-increment: section; */
 }
 
+
 /* COUNTER!!! */
 
-h2.CountPls{
+h2.CountPls {
     /* idk.. */
     counter-reset: subsection;
 }
 
-h3.CountPls{
+h3.CountPls {
     counter-increment: section;
 }
 
-h2.CountPls::before{
+h2.CountPls::before {
     /* Yess, counter */
     counter-increment: section;
     content: counter(section) ". "
 }
 
-h3.CountPls::before{
+h3.CountPls::before {
     counter-increment: subsection;
     content: counter(section) "." counter(subsection) ". ";
 }
@@ -252,10 +251,11 @@ ol.CountPls {
     list-style-type: none;
 }
 
-ol.CountPls > li::before {
+ol.CountPls>li::before {
     counter-increment: orderedListSection;
-    content: counters(section,".") ". ";
+    content: counters(section, ".") ". ";
 }
+
 
 /* End counter */
 
@@ -447,7 +447,7 @@ header {
     margin: 0; */
 }
 
-.PerkedelHeadering{
+.PerkedelHeadering {
     color: white;
     flex-direction: row;
     width: auto;
@@ -455,7 +455,7 @@ header {
     background-color: rgb(0, 35, 100);
     justify-content: flex-start;
     align-items: center;
-    padding:1em;
+    padding: 1em;
     margin: 0;
 }
 
@@ -645,8 +645,7 @@ a[href*='//odysee.com']::before,
 a[href*='odysee.com']::before,
 a[href|='https://odysee.com']::before,
 a[href|='https://odysee.tv']::before,
-a[href|='https://help.odysee.tv']::before
-{
+a[href|='https://help.odysee.tv']::before {
     content: ' ' / "";
     content: url('https://api.iconify.design/simple-icons/odysee.svg') / "";
 }
@@ -664,7 +663,7 @@ a[href*='microsoftonline.com']::before {
     content: ' ' / "";
 }
 
-a[href*='fandom.com']::before{
+a[href*='fandom.com']::before {
     content: '📙 ' / "";
 }
 
@@ -769,17 +768,19 @@ a[href*='tiktok.com']::before {
     content: url('https://api.iconify.design/logos/tiktok-icon.svg') / "";
 }
 
+
 /* Extension */
 
 a[href$='.pdf']::before {
     content: '\eaeb ' / "";
 }
 
+
 /* PLS WORK LAH!!!! */
 
-a[href*='homestuck.com']::before, 
-a[href*='https://homestuck.com']::before, 
-a[href*='https://www.homestuck.com']::before, 
+a[href*='homestuck.com']::before,
+a[href*='https://homestuck.com']::before,
+a[href*='https://www.homestuck.com']::before,
 a[href*='mspa.com']::before,
 a[href|='https://homestuck.com']::before,
 a[href|='https://www.homestuck.com']::before {
@@ -789,8 +790,7 @@ a[href|='https://www.homestuck.com']::before {
 
 a[href*='homestuck2.com']::before,
 a[href|='https://homestuck2.com']::before,
-a[href|='https://www.homestuck2.com']::before
-{
+a[href|='https://www.homestuck2.com']::before {
     content: '🏡(2) ' / "";
     content: url('/assets/img/steal/Homestuck/HS2.png') / "";
 }
@@ -825,23 +825,24 @@ a[href*='hs.hiveswap.com/paradoxspace']::before {
     content: url('/assets/img/steal/Homestuck/PXS_icon.webp') / "";
 }
 
-a[href*='mspaintadventures.fandom.com']::before{
+a[href*='mspaintadventures.fandom.com']::before {
     content: '🧩 ' / "";
     content: url('/assets/img/steal/Homestuck/mspa-wiki-favicon.ico') / "";
 }
+
 
 /* Aside pls
 https://www.w3schools.com/tags/tag_aside.asp
 https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_aside2
 */
-aside{
+
+aside {
     width: 30%;
     padding-left: 15px;
     margin-left: 15px;
     float: right;
-    background-color: rgba(0,0,50,.5)
+    background-color: rgba(0, 0, 50, .5)
 }
-
 
 input {
     background-color: black;
@@ -862,15 +863,18 @@ input:disabled {
     color: gray;
 }
 
+
 /* Target
 Highlight clicked header URLs
 https://www.w3schools.com/cssref/tryit.php?filename=trycss3_target
 https://www.w3schools.com/cssref/sel_target.php
 */
-:target{
+
+:target {
     border: 2px solid navy;
     background-color: blue;
 }
+
 
 /* Status yo */
 
@@ -936,19 +940,19 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .ListDisplayTable {
     /* https://stackoverflow.com/a/30720612/9079640 */
-    display:table;
+    display: table;
 }
 
 .ListCenterContent {
     text-align: center;
 }
 
-.ListNoPadding{
-    padding:0;
+.ListNoPadding {
+    padding: 0;
 }
 
 .ListLiNoPadding li {
-    padding:0;
+    padding: 0;
 }
 
 
@@ -1032,7 +1036,8 @@ https://www.w3schools.com/cssref/sel_target.php
     color: blue;
 }
 
-.Buttonnize, .Buttonize {
+.Buttonnize,
+.Buttonize {
     background-color: darkorange;
     outline: none;
     color: black;
@@ -1043,23 +1048,27 @@ https://www.w3schools.com/cssref/sel_target.php
     display: inline-block;
 }
 
-.Buttonize:focus-visible, .Buttonize:focus-visible {
+.Buttonize:focus-visible,
+.Buttonize:focus-visible {
     outline: 4px dashed cyan;
     border-radius: 4px;
 }
 
-.Buttonnize:hover, .Buttonize:hover {
+.Buttonnize:hover,
+.Buttonize:hover {
     border-radius: 30px;
     background-color: orange;
     color: navy;
 }
 
-.Buttonnize:visited, .Buttonize:visited {
+.Buttonnize:visited,
+.Buttonize:visited {
     background-color: darkmagenta;
     color: white;
 }
 
-.Buttonnize:active, .Buttonize:active {
+.Buttonnize:active,
+.Buttonize:active {
     background-color: cyan;
     color: blue;
 }
@@ -1067,37 +1076,44 @@ https://www.w3schools.com/cssref/sel_target.php
 
 /* Troubled version of it */
 
-.Buttonnize.Dangerous, .Buttonize.Dangerous {
+.Buttonnize.Dangerous,
+.Buttonize.Dangerous {
     background-color: darkred;
     color: white;
 }
 
-.Buttonnize.Dangerous:hover, .Buttonize.Dangerous:hover {
+.Buttonnize.Dangerous:hover,
+.Buttonize.Dangerous:hover {
     background-color: red;
     color: yellow;
 }
 
-a.Buttonnize.Dangerous:active, a.Buttonize.Dangerous:active {
+a.Buttonnize.Dangerous:active,
+a.Buttonize.Dangerous:active {
     background-color: yellow;
     color: darkblue;
 }
 
-a.Buttonnize.Dangerous:visited:active, a.Buttonize.Dangerous:visited:active {
+a.Buttonnize.Dangerous:visited:active,
+a.Buttonize.Dangerous:visited:active {
     background-color: yellow;
     color: darkblue;
 }
 
-a.Buttonnize.Dangerous:visited, a.Buttonize.Dangerous:visited {
+a.Buttonnize.Dangerous:visited,
+a.Buttonize.Dangerous:visited {
     background-color: purple;
     color: white;
 }
 
-a.Buttonnize.Dangerous:visited:hover, a.Buttonize.Dangerous:visited:hover {
+a.Buttonnize.Dangerous:visited:hover,
+a.Buttonize.Dangerous:visited:hover {
     background-color: rgb(255, 0, 51);
     color: yellow;
 }
 
-a.Buttonnize.Dangerous:visited:hover:active, a.Buttonize.Dangerous:visited:hover:active {
+a.Buttonnize.Dangerous:visited:hover:active,
+a.Buttonize.Dangerous:visited:hover:active {
     background-color: yellow;
     color: darkblue;
 }
@@ -1333,7 +1349,9 @@ samp {
     font-family: 'NerdFontsSymbols Nerd Font', 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
+
 /* Keyboard button & pretty much button pls!! */
+
 kbd {
     /* https://www.w3schools.com/tags/tag_kbd.asp */
     border-radius: 2px;
@@ -1342,7 +1360,8 @@ kbd {
     font-family: 'NerdFontsSymbols Nerd Font', 'UbuntuMono Nerd Font', 'UbuntuMono-NF', 'UbuntuMono', 'Consolas', "Lucida Console", "Courier New", monospace;
 }
 
-#backTopButton, .backTopButton {
+#backTopButton,
+.backTopButton {
     /*
     https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
     */
@@ -1376,19 +1395,22 @@ kbd {
     /* Increase font size */
 }
 
-#backTopButton:focus-visible, .backTopButton:focus-visible {
+#backTopButton:focus-visible,
+.backTopButton:focus-visible {
     outline: 2px dashed cyan;
     border-radius: 4px;
 }
 
-#backTopButton:hover, .backTopButton:hover {
+#backTopButton:hover,
+.backTopButton:hover {
     background-color: blue;
     /* Add a orange background on hover */
     background-color: rgba(0, 0, 255, .75);
     /* & pls be transparent too if you can*/
 }
 
-#backTopButton:active, .backTopButton:active {
+#backTopButton:active,
+.backTopButton:active {
     background-color: orange;
     /* Add a orange background on click */
     background-color: rgba(255, 165, 0, 1);
@@ -1474,41 +1496,49 @@ kbd {
     https://www.w3schools.com/tags/tag_thead.asp
     */
 
+
 /* YOU IMBECILE!!! DIV DOES NOT HAVE ANYTHING!!! */
+
+
 /* https://www.w3schools.com/tags/tag_table.asp */
-div.table
-{
-    display:table;
-    border-collapse:separate;
-    border-spacing:2px;
-    border-color:gray;
+
+div.table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray;
 }
+
 div.thead {
     display: table-header-group;
     vertical-align: middle;
     border-color: inherit;
 }
+
 div.tbody {
     display: table-row-group;
     vertical-align: middle;
     border-color: inherit;
 }
-div.tfoot
-{
-    display:table-footer-group;
-    vertical-align:middle;
-    border-color:inherit;
+
+div.tfoot {
+    display: table-footer-group;
+    vertical-align: middle;
+    border-color: inherit;
 }
+
 div.th {
     display: table-cell;
     vertical-align: inherit;
     font-weight: bold;
     text-align: center;
 }
+
 div.td {
     display: table-cell;
     vertical-align: inherit;
 }
+
 div.tr {
     display: table-row;
     vertical-align: inherit;
@@ -1525,6 +1555,7 @@ div.td {
     /* What an idiot! div, instead of proper table tags?!?!??! */
     word-wrap: break-word;
 }
+
 
 /* td a:visited, */
 
@@ -1663,12 +1694,12 @@ https://youtu.be/T33NN_pPeNI
     /* overflow-x: auto; */
 }
 
-.hideScroll:hover{
+.hideScroll:hover {
     -ms-transition: background-color .05s, color .05s;
     transition: background-color .05s, color .05s;
 }
 
-.hideScroll:focus-visible{
+.hideScroll:focus-visible {
     -ms-transition: none;
     transition: none;
 }
@@ -1834,11 +1865,11 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     color: white;
 }
 
-.addressBarYeah{
-    display:none;
+.addressBarYeah {
+    display: none;
 }
 
-.BioLinksList{
+.BioLinksList {
     /* use:
     - Listnostyle
     - ListNoPadding
@@ -1848,19 +1879,19 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     margin: 0;
     margin-bottom: 4px;
     text-align: center;
-    padding:0;
+    padding: 0;
 }
 
-.BioLinks{
-    width:75%;
+.BioLinks {
+    width: 75%;
 }
 
-.genitalDetachedAlert{
+.genitalDetachedAlert {
     /* for non-included enter link */
-    font-size:.5em;
+    font-size: .5em;
 }
 
-.SpecialityImageWide{
+.SpecialityImageWide {
     /* https://jpegxl.info/art/
     yoink the CSS lol
     */
@@ -1870,46 +1901,53 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     /* lint */
 }
 
-.hideOverflows{
-    overflow:clip;
+.hideOverflows {
+    overflow: clip;
 }
 
-.hideOverflowsSide{
+.hideOverflowsSide {
     overflow-x: clip;
-  /* overflow-y: visible; */
+    /* overflow-y: visible; */
 }
 
-.scrollOverflows{
-    overflow:scroll;
+.scrollOverflows {
+    overflow: scroll;
 }
-.scrollOverflowsSide{
-    overflow-x:scroll;
+
+.scrollOverflowsSide {
+    overflow-x: scroll;
 }
+
 
 /* ROW & COLLUMN PLS */
 
-.row:after, .Row:after{
-    content:"";
+.row:after,
+.Row:after {
+    content: "";
     display: table;
     clear: both;
 }
 
-.column, .Column{
+.column,
+.Column {
     display: table-cell;
-    float:left;
+    float: left;
     width: 50%;
-    height:100%;
+    height: 100%;
 }
 
-.colLeft, .ColLeft{
-    width:25%
+.colLeft,
+.ColLeft {
+    width: 25%
 }
 
-.colRight, .ColRight{
-    width:75%
+.colRight,
+.ColRight {
+    width: 75%
 }
 
-.colVertCenter, .ColVertCenter{
+.colVertCenter,
+.ColVertCenter {
     /* margin: 0;
     position: absolute;
     top: 50%; */
@@ -1923,43 +1961,85 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     padding: 10px;
 }
 
+
 /* Marquee pls
 https://codepen.io/thomasbormans/pen/EjMBqO
 https://stackoverflow.com/questions/31951282/why-is-marquee-deprecated-and-what-is-the-best-alternative
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
 */
+
 @keyframes marquee {
-    0%   { transform: translate(100%, 0); }
-    100% { transform: translate(-100%, 0); }
+    0% {
+        transform: translate(100%, 0);
+    }
+    100% {
+        transform: translate(-100%, 0);
+    }
 }
+
 @keyframes marqueeReverse {
-    0%   { transform: translate(-100%, 0); }
-    100% { transform: translate(100%, 0); }
+    0% {
+        transform: translate(-100%, 0);
+    }
+    100% {
+        transform: translate(100%, 0);
+    }
 }
+
 @keyframes marqueeDown {
-    0%   { transform: translate(0, 100%); }
-    100% { transform: translate(0, -100%); }
+    0% {
+        transform: translate(0, 100%);
+    }
+    100% {
+        transform: translate(0, -100%);
+    }
 }
+
 @keyframes marqueeUp {
-    0%   { transform: translate(0, -100%); }
-    100% { transform: translate(0, 100%); }
+    0% {
+        transform: translate(0, -100%);
+    }
+    100% {
+        transform: translate(0, 100%);
+    }
 }
+
 @keyframes marqueePartial {
-    0%   { transform: translate(100%, 0); }
-    100% { transform: translate(-100%, 0); }
+    0% {
+        transform: translate(100%, 0);
+    }
+    100% {
+        transform: translate(-100%, 0);
+    }
 }
+
 @keyframes marqueePartialReverse {
-    0%   { transform: translate(-100%, 0); }
-    100% { transform: translate(100%, 0); }
+    0% {
+        transform: translate(-100%, 0);
+    }
+    100% {
+        transform: translate(100%, 0);
+    }
 }
+
 @keyframes marqueePartialDown {
-    0%   { transform: translate(0, 0); }
-    100% { transform: translate(0, -100%); }
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(0, -100%);
+    }
 }
+
 @keyframes marqueePartialUp {
-    0%   { transform: translate(0, -100%); }
-    100% { transform: translate(0, 0); }
+    0% {
+        transform: translate(0, -100%);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
 }
+
 .marquee {
     /* width: 450px; */
     /* line-height: 50px; */
@@ -1969,7 +2049,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
     overflow: hidden;
     box-sizing: border-box;
 }
-.marquee p, .marquee div {
+
+.marquee p,
+.marquee div {
     /* display: inline-block; */
     /* padding-left: 100%; */
     width: -moz-fit-content;
@@ -1980,23 +2062,40 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
     min-height: 100%;
     animation: marquee 15s linear infinite;
 }
-.marquee[direction='down'] p, .marquee[direction='down'] div, .marquee[direction='down'] .marquee{
+
+.marquee[direction='down'] p,
+.marquee[direction='down'] div,
+.marquee[direction='down'] .marquee {
     animation-name: marqueeDown;
 }
-.marquee[direction='up'] p, .marquee[direction='up'] div, .marquee[direction='down'] .marquee{
+
+.marquee[direction='up'] p,
+.marquee[direction='up'] div,
+.marquee[direction='down'] .marquee {
     animation-name: marqueeUp;
 }
-.marquee[direction='left'] p, .marquee[direction='left'] div, .marquee[direction='down'] .marquee{
+
+.marquee[direction='left'] p,
+.marquee[direction='left'] div,
+.marquee[direction='down'] .marquee {
     animation-name: marqueeLeft;
 }
-.marquee[direction='right'] p, .marquee[direction='right'] div, .marquee[direction='down'] .marquee{
+
+.marquee[direction='right'] p,
+.marquee[direction='right'] div,
+.marquee[direction='down'] .marquee {
     animation-name: marqueeRight;
 }
-.marquee[behavior='alternate'] p, .marquee[behavior='alternate'] div, .marquee[behavior='alternate'] .marquee{
+
+.marquee[behavior='alternate'] p,
+.marquee[behavior='alternate'] div,
+.marquee[behavior='alternate'] .marquee {
     animation-direction: alternate;
 }
 
+
 /* Perkedel Woosie animate pls */
+
 @keyframes PerkedelWoosieRotate {
     from {
         rotate: 0deg;
@@ -2005,13 +2104,18 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
         rotate: 360deg;
     }
 }
+
+
 /* #PerkedelWoosie, #PerkedelWoosieJXL */
+
 .PerkedelWoosie {
     animation-name: PerkedelWoosieRotate;
     animation-duration: 10s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
 }
+
+
 /* 
 ROtate faster with js:
 ```javascript
@@ -2019,16 +2123,18 @@ document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
 ```
 */
 
+
 /* Mozilla detail summary style!!
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
 */
+
 details {
     /* border: 1px solid blue; */
     border: 1px solid;
     border-radius: 4px;
     padding: 0.5em 0.5em 0;
 }
-  
+
 summary {
     font-weight: bold;
     margin: -0.5em -0.5em 0;
@@ -2045,7 +2151,10 @@ details[open] summary {
     margin-bottom: 0.5em;
 }
 
+
 /* You also need to decolorize for other classes too */
+
+
 /* .error details, .error details[open] summary,
 .info details, .info details[open] summary,
 .error > details, .error > details[open] summary,
@@ -2069,6 +2178,7 @@ details.warning, details[open].warning summary,
     border-bottom-color: inital;
 } */
 
+
 /*
 .warning details, .warning details[open] summary,
 .warning > details, .warning > details[open] summary,
@@ -2080,6 +2190,7 @@ details.warning, details[open].warning summary,
     border-bottom-color: black;
 }
 */
+
 
 /* MEDIA PLS!!!! */
 
@@ -2119,6 +2230,11 @@ details.warning, details[open].warning summary,
     header a:hover:visited {
         color: black;
     }
+    .PerkedelHeadering {
+        background-color: rgb(137, 255, 255);
+        /* background-color: default; */
+        color: black;
+    }
     nav {
         background: rgba(255, 255, 255, .25);
     }
@@ -2130,11 +2246,11 @@ details.warning, details[open].warning summary,
         /* color: attr(data-TextColor-Light,black); */
         /* scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189); */
     }
-    body[data-background-light][data-textcolor-light]{
-        background: attr(data-Background-Light,white);
-        color: attr(data-TextColor-Light,black);
+    body[data-background-light][data-textcolor-light] {
+        background: attr(data-Background-Light, white);
+        color: attr(data-TextColor-Light, black);
     }
-    :target{
+     :target {
         border: 2px solid blue;
         background-color: cyan;
     }
@@ -2185,7 +2301,7 @@ details.warning, details[open].warning summary,
         color: black;
     }
     aside {
-        background-color: rgba(0,200,200,.5);
+        background-color: rgba(0, 200, 200, .5);
     }
 }
 
@@ -2263,14 +2379,19 @@ details.warning, details[open].warning summary,
     .ListGalleryStyle {
         width: 100%;
     }
-    .BioLinks{
+    .BioLinks {
         /* width: 100%; */
     }
-
-    .column, .Column, .colLeft, .ColLeft, .colRight, .ColRight{
+    .column,
+    .Column,
+    .colLeft,
+    .ColLeft,
+    .colRight,
+    .ColRight {
         width: 100%;
     }
-    .colVertCenter, .ColVertCenter{
+    .colVertCenter,
+    .ColVertCenter {
         margin: 0;
         padding: 0;
     }
@@ -2307,7 +2428,8 @@ details.warning, details[open].warning summary,
         border: 2px solid darkblue;
         border-color: rgba(0, 0, 139, 0.5);
     }
-    #backTopButton, .backTopButton {
+    #backTopButton,
+    .backTopButton {
         background-color: default;
         /* Set a background color */
         color: default;
@@ -2405,7 +2527,7 @@ details.warning, details[open].warning summary,
     .SpecialityButton {
         background-color: initial;
     }
-    .addressBarYeah{
+    .addressBarYeah {
         display: initial;
     }
     aside {
@@ -2471,14 +2593,16 @@ details.warning, details[open].warning summary,
     }
 }
 
-@media screen and (prefers-reduced-motion: reduce), (update: slow) {
+@media screen and (prefers-reduced-motion: reduce),
+(update: slow) {
     /* Everything animation must be instant or not at all!
     https://developer.mozilla.org/en-US/docs/Web/Accessibility/Seizure_disorders
 
     */
     * {
         animation-duration: 0.001ms !important;
-        animation-iteration-count: 1 !important; /* Hat tip Nick/cssremedy (https://css-tricks.com/revisiting-prefers-reduced-motion/#comment-1700170) */
+        animation-iteration-count: 1 !important;
+        /* Hat tip Nick/cssremedy (https://css-tricks.com/revisiting-prefers-reduced-motion/#comment-1700170) */
         transition-duration: 0.001ms !important;
     }
 }
@@ -2653,7 +2777,6 @@ details.warning, details[open].warning summary,
         border: 2px solid cyan;
     }
 }
-
 
 
 /* } */
