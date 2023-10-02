@@ -25,12 +25,12 @@ export interface Props{
 }
 
 const{
-    redirectsToSauce = 'https://perkedel.netlify.app/@JOELwindows7'
-    videoURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/huh.gif'
-    imageURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/misery.gif'
-    thumbWidth = '250'
-    thumbHeight = '202'
-    nsfw=false
+    redirectsToSauce = 'https://perkedel.netlify.app/@JOELwindows7',
+    videoURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/huh.gif',
+    imageURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/misery.gif',
+    thumbWidth = '250',
+    thumbHeight = '202',
+    nsfw=false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <CoreRedirect
