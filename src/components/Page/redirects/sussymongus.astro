@@ -1,0 +1,35 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CorePage from '../__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreRedirect from './_CoreRedirects.astro';
+import SimpleDiscordTrickRedir from './_SimpleDiscordTrickRedir.astro';
+
+const nsfw = true
+const redirectsToSauce = 'https://www.youtube.com/@notexttospeech'
+const videoURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/stopit.mp4'
+const imageURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/animething.gif'
+const thumbHeight = '498'
+const thumbWidth = '421'
+---
+<SimpleDiscordTrickRedir
+    nsfw = {nsfw}
+    redirectsToSauce = {redirectsToSauce}
+    videoURL = {videoURL}
+    imageURL = {imageURL}
+    thumbHeight = {thumbHeight}
+    thumbWidth = {thumbWidth}
+>
+
+</SimpleDiscordTrickRedir>

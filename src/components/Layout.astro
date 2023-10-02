@@ -57,6 +57,8 @@ export interface Props {
   thumbnailAlt?:string;
   thumbnailAudio?:string;
   thumbnailVideo?:string;
+  thumbnailVideoWidth?:string;
+  thumbnailVideoHeight?:string;
   type?:string;
   description?: string;
   descriptionPrefix?: string;
@@ -136,6 +138,8 @@ const {
   thumbnailAlt = 'Perkedel banner',
   thumbnailAudio,
   thumbnailVideo,
+  thumbnailVideoWidth,
+  thumbnailVideoHeight,
   type = 'website',
   author = 'JOELwindows7',
   description = 'Perkedel NTLF+ASTR. Perkedel Technologies on Netflify with Astro framework',
@@ -362,6 +366,7 @@ const {
 
   <MSClarity ejectClarity={ejectClarity}/>
 
+  <slot name='afterHead'/>
   <ViewTransitions />
 </head>
 <!-- BODY AT BELOW -->

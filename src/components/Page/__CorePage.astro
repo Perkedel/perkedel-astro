@@ -34,6 +34,15 @@ export interface Props{
     customHeader?:boolean;
     addHeaderingClass?:string;
     noScripts?:boolean;
+    thumbnail?:string;
+    thumbnailType?:string;
+    thumbnailWidth?:number;
+    thumbnailHeight?:number;
+    thumbnailAlt?:string;
+    thumbnailAudio?:string;
+    thumbnailVideo?:string;
+    thumbnailVideoWidth?:string;
+    thumbnailVideoHeight?:string;
 }
 
 const{
@@ -53,6 +62,15 @@ const{
     customHeader = false,
     addHeaderingClass = '',
     noScripts = false,
+    thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+    thumbnailType = 'image/png',
+    thumbnailWidth = 4096,
+    thumbnailHeight = 2160,
+    thumbnailAlt = 'Perkedel banner',
+    thumbnailAudio,
+    thumbnailVideo,
+    thumbnailVideoWidth,
+    thumbnailVideoHeight,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <Layout
@@ -68,7 +86,17 @@ const{
     selectHeader={customHeader}
     addHeaderingClass={addHeaderingClass}
     noScripts={noScripts}
+    thumbnail = {thumbnail}
+    thumbnailType = {thumbnailType}
+    thumbnailWidth = {thumbnailWidth}
+    thumbnailHeight = {thumbnailHeight}
+    thumbnailAlt = {thumbnailAlt}
+    thumbnailAudio = {thumbnailAudio},
+    thumbnailVideo = {thumbnailVideo},
+    thumbnailVideoWidth = {thumbnailVideoWidth},
+    thumbnailVideoHeight = {thumbnailVideoHeight},
     >
+    <slot name='afterHead' slot='afterHead'/>
     <slot name="myHeadering" slot="myHeadering"/>
     <slot name="SettingContains" slot="SettingContains"/>
     <!-- <h1>{addHeaderTitle} {noNeedNSFW?"":"("+(nsfw?"FULL":"LITE")+" VERSION)"}</h1> -->

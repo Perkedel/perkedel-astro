@@ -1,0 +1,51 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CorePage from '../__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreRedirect from './_CoreRedirects.astro';
+
+export interface Props{
+    redirectsToSauce?:String;
+    videoURL?:String;
+    imageURL?:String;
+    thumbWidth?:String;
+    thumbHeight?:String;
+    nsfw?:Boolean;
+}
+
+const{
+    redirectsToSauce = 'https://perkedel.netlify.app/@JOELwindows7'
+    videoURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/huh.gif'
+    imageURL = '/assets/misc/NTTS_DiscordTricks/goofy-site/misery.gif'
+    thumbWidth = '250'
+    thumbHeight = '202'
+    nsfw=false
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CoreRedirect
+    nsfw={nsfw}
+    thumbnail = {thumbnail}
+    thumbnailWidth = {thumbWidth}
+    thumbnailHeight = {thumbHeight}
+    thumbnailVideo = {videoURL},
+    thumbnailVideoWidth = {thumbWidth},
+    thumbnailVideoHeight = {thumbWidth},
+>
+     <!-- Stole the memes from https://github.com/iwakkrg/iwakkrg.github.io -->
+     <h2>You should be redirected momentarily to {redirectsToSauce}</h2>
+        <p>if you didn't, probably your browser configuration prevented it.</p>
+        <p>If that's the case, <ButtonizedLink href={redirectsToSauce} openInNewTab={false}>Click here to go to <b>{redirectsToSauce}</b></ButtonizedLink> manually.</p>
+        <img src='/assets/misc/NTTS_DiscordTricks/goofy-site/trollface_PNG30.png' alt='trollface' title='youve been trolled, have a nice day'/>
+    <slot/>
+</CoreRedirect>

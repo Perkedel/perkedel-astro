@@ -1,0 +1,99 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CorePage from '../__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+
+export interface Props{
+    redirectsToSauce?:String;
+    nsfw?:boolean;
+    detachedGenital?:boolean;
+    addHeaderTitle?:string;
+    addMetaTitle?:string;
+    addKeywords?:string;
+    addDescriptions?:string;
+    skipHeader?:boolean;
+    skipNav?:boolean;
+    skipFooter?:boolean;
+    disableOverwhelmStatement?:boolean;
+    author?:string;
+    noNeedNSFW?:boolean;
+    thumbnail?:string;
+    thumbnailType?:string;
+    thumbnailWidth?:number;
+    thumbnailHeight?:number;
+    thumbnailAlt?:string;
+    thumbnailAudio?:string;
+    thumbnailVideo?:string;
+    thumbnailVideoWidth?:string;
+    thumbnailVideoHeight?:string;
+}
+
+const{
+    redirectsToSauce = 'https://example.com'
+    nsfw = false,
+    detachedGenital = true, // make the enter NSFW door not pre-rendered e.g. to avoid evil crawlers like Meta.
+    addHeaderTitle = '',
+    addMetaTitle = '',
+    addKeywords = '',
+    addDescriptions = '',
+    skipHeader = false,
+    skipNav = false,
+    skipFooter = false,
+    disableOverwhelmStatement = true,
+    author = 'JOELwindows7',
+    noNeedNSFW = false,
+    thumbnail = '/assets/img/perkedelbannerrender4KDCI.png',
+    thumbnailType = 'image/png',
+    thumbnailWidth = 4096,
+    thumbnailHeight = 2160,
+    thumbnailAlt = 'Perkedel banner',
+    thumbnailAudio,
+    thumbnailVideo,
+    thumbnailVideoWidth,
+    thumbnailVideoHeight,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    detachedGenital={detachedGenital}
+    addKeywords={'redirects, ' + addKeywords + ''}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    noNeedNSFW={noNeedNSFW}
+    thumbnail = {thumbnail}
+    thumbnailType = {thumbnailType}
+    thumbnailWidth = {thumbnailWidth}
+    thumbnailHeight = {thumbnailHeight}
+    thumbnailAlt = {thumbnailAlt}
+    thumbnailAudio = {thumbnailAudio},
+    thumbnailVideo = {thumbnailVideo},
+    thumbnailVideoWidth = {thumbnailVideoWidth},
+    thumbnailVideoHeight = {thumbnailVideoHeight},
+    >
+    <!-- https://github.com/NoTextToSpeech/goofy-site/blob/main/index.html -->
+    <slot name='afterHead' slot='afterHead'/>
+    <meta slot='afterHead' http-equiv="refresh" content={"0; url="+redirectsToSauce+""} />
+    <!--  <meta http-equiv="refresh" content="0; url=https://www.youtube.com/@notexttospeech" /> -->
+    <slot>
+        <h2>You should be redirected momentarily to {redirectsToSauce}</h2>
+            <p>if you didn't, probably your browser configuration prevented it.</p>
+            <p>If that's the case, <ButtonizedLink href={redirectsToSauce} openInNewTab={false}>Click here to go to <b>{redirectsToSauce}</b></ButtonizedLink> manually.</p>
+    </slot>
+</CorePage>
