@@ -37,6 +37,7 @@ export interface Props{
     thumbnailVideo?:string;
     thumbnailVideoWidth?:string;
     thumbnailVideoHeight?:string;
+    type?:string;
 }
 
 const{
@@ -62,6 +63,7 @@ const{
     thumbnailVideo,
     thumbnailVideoWidth,
     thumbnailVideoHeight,
+    type = 'website',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <CorePage
@@ -86,6 +88,7 @@ const{
     thumbnailVideo = {thumbnailVideo},
     thumbnailVideoWidth = {thumbnailVideoWidth},
     thumbnailVideoHeight = {thumbnailVideoHeight},
+    type={type}
     >
     <!-- https://github.com/NoTextToSpeech/goofy-site/blob/main/index.html -->
     <slot name='afterHead' slot='afterHead'/>

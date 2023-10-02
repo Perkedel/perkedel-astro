@@ -32,28 +32,31 @@ const{
     thumbWidth = '250',
     thumbHeight = '202',
     nsfw=false,
-    type='video.other',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<CoreRedirect
-    nsfw={nsfw}
-    thumbnail = {imageURL}
+<!-- Directly from https://github.com/NoTextToSpeech/goofy-site/blob/main/index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
 
-    thumbnailVideo = {videoURL}
-    thumbnailVideoWidth = {thumbWidth}
-    thumbnailVideoHeight = {thumbHeight}
-    redirectsToSauce={redirectsToSauce}
-    type={type}
->
-    <!-- 
-
-        thumbnailWidth = {thumbWidth}
-    thumbnailHeight = {thumbHeight}
-     -->
-     <!-- Stole the memes from https://github.com/iwakkrg/iwakkrg.github.io -->
-     <h2>You should be redirected momentarily to {redirectsToSauce}</h2>
-        <p>if you didn't, probably your browser configuration prevented it.</p>
-        <p>If that's the case, <ButtonizedLink href={redirectsToSauce} openInNewTab={false}>Click here to go to <b>{redirectsToSauce}</b></ButtonizedLink> manually.</p>
-        <img src='/assets/misc/NTTS_DiscordTricks/goofy-site/trollface_PNG30.png' alt='trollface' title='youve been trolled, have a nice day'/>
-    <slot/>
-</CoreRedirect>
+    <!-- Thumbnail image/gif -->
+    <!-- <meta property="og:image" content="https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/huh.gif"> -->
+    <meta property="og:image" content={imageURL}>
+    <meta property="og:type" content="video.other">
+    
+    <!-- Video Link -->
+    <!-- <meta property="og:video:url" content="https://raw.githubusercontent.com/discowd-nitro/media-files/main/media/misery.mp4"> -->
+    <meta property="og:video:url" content={videoURL}>
+    <!-- If you want a seamless transition between your thumbnail size and video size, adjust these values to match your thumbnail resolution. -->
+    <!-- However, it will be all wonky if your thumbnail is vertical and your video is horizontal. This works best with similar aspect ratios -->
+    <meta property="og:video:height" content={thumbHeight}>
+    <meta property="og:video:width" content={thumbWidth}>
+    
+    <!-- Stole the memes from https://github.com/iwakkrg/iwakkrg.github.io -->
+    
+    <!-- Redirect -->
+    <meta http-equiv="refresh" content={"0; url="+redirectsToSauce+""} />
+  </head>
+  <body>
+  </body>
+</html>
