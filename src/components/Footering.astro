@@ -4,6 +4,7 @@ import { Time } from '@astro-github-elements/time';
 import PerkedelIcon from './Icons/PerkedelIcon.astro'
 import RegenerateWordButton from './Elements/SparePart/RegenerateWordButton.astro';
 import BottomNavigating from '@components/Elements/SparePart/BottomNavigating.astro';
+import FreeWebHitCounter from '@components/Elements/SparePart/FreeWebHitCounter.astro';
 
 export interface Props{
   rating?:string;
@@ -49,4 +50,5 @@ const{
       like while during entryNSFW,
       those maybe who violates the warning. -->
     <p class="generateWord" id="generateWord"></p>
+    <FreeWebHitCounter nsfw={nsfw}/>
 </footer>

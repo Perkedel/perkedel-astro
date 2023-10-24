@@ -1,0 +1,26 @@
+---
+// use https://www.free-website-hit-counter.com/
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<Fragment>
+{   
+    nsfw ? "":
+        <Fragment>
+            <div align='center'>
+                <a href='https://www.free-website-hit-counter.com'>
+                    <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=157842&s=' border='0' alt='Free Website Hit Counter'>
+                </a>
+                </br>
+                <small>
+                    <a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a>
+                </small>
+            </div>
+        <Fragment/>
+}
+<Fragment/>
