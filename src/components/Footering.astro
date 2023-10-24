@@ -50,5 +50,5 @@ const{
       like while during entryNSFW,
       those maybe who violates the warning. -->
     <p class="generateWord" id="generateWord"></p>
-    <FreeWebHitCounter nsfw={nsfw}/>
+    <FreeWebHitCounter nsfw={(rating.includes('adult') || nsfw)}/>
 </footer>
