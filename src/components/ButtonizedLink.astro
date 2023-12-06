@@ -38,6 +38,8 @@ const {
     allowRefererNewTab = false,
     defaultShowURL = true,
 } = Astro.props as Props;
+
+const canonicalURL:String = new URL(Astro.url.pathname, Astro.site);
 ---
 <!-- https://docs.astro.build/en/guides/integrations-guide/prefetch/ -->
 <a 

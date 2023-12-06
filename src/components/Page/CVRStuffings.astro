@@ -1,0 +1,61 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import CorePage from './__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import FCKDRMIcon from '@components/Icons/FCKDRMIcon.astro';
+import EFFIcon from '@components/Icons/EFFIcon.astro';
+import DeffectiveByDesignIcon from '@components/Icons/DeffectiveByDesignIcon.astro';
+import DRMCompare from '@components/Elements/SparePart/Tables/DRMCompare.astro';
+import DRMFreeQuote from '@components/Elements/SparePart/DRMFreeQuote.astro';
+
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords={`CVR, ChilloutVR, VRChat, Unity, Mods, development, Made with Unity`}
+    addDescriptions='ChilloutVR Stuffs. a Project from X0p1r4t3 Eenvreensment'
+    addHeaderTitle='ChilloutVR Stuffs'
+    addMetaTitle='ChilloutVR Stuffs, Stuffs made for CVR'
+    author='JOELwindows7'
+    disableOverwhelmStatement={false}
+    >
+    <p>Here are stuffs we made for ChilloutVR</p>
+    <h2>Get Started</h2>
+    <h3>Visit</h3>
+    <p>Visit these worlds</p>
+    <ul>
+        <li>Dice Glow</li>
+        <li>Dice Glow Pt. 2</li>
+        {nsfw?:<Fragment>
+            <li>Corn Syrup</li>
+            </Fragment>
+        :""}
+    </ul>
+    <h3>Source Code</h3>
+    {nsfw?
+        <Fragment>
+            <p class='error'>Sorry, the source code URL is only available to adults. Pls open up below banner to visit the full version of this page. <b>You must be biologically adult!</b></p>
+            </Fragment>
+    :
+        <Fragment>
+            <p >Visit Github: <ButtonizedLink href='https://github.com/Perkedel/CVR_Stuffings'></ButtonizedLink></p>
+            </Fragment>
+    }
+</CorePage>
