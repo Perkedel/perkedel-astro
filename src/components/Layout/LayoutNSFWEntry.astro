@@ -16,6 +16,8 @@ const{
     addDescriptions = 'YOUR_DESCRIPTION!',
     addKeywords = 'YOUR_KEYWORDS, bla, blan, something',
 } = Astro.props.frontmatter || Astro.props as Props;
+
+const canonicalURL:String = new URL(Astro.url.pathname, Astro.site);
 ---
 <Layout 
     title={"Entering NSFW of " + entering}
@@ -31,7 +33,7 @@ const{
             Please be responsible, we intentionally do not bring complicated gate meaures<br/>
             so Archivers can crawl into easily<br/>
         </p>
-        <p><a href="nsfw" title="Consume the red pill you just picked" style="color:cyan;background-color:blue;border-radius:2px">&#xf0a9; enter &#xf0a8;</a> | <ButtonizedLink href=".." title="throw away the red pill"><span style="font-size:2.2em;font-weight:bolder;">🚫 GO BACK &#xfc38;</span></ButtonizedLink> </p>
+        <p><a href={canonicalURL + '/nsfw'} title="Consume the red pill you just picked" style="color:cyan;background-color:blue;border-radius:2px">&#xf0a9; enter &#xf0a8;</a> | <ButtonizedLink href=".." title="throw away the red pill"><span style="font-size:2.2em;font-weight:bolder;">🚫 GO BACK &#xfc38;</span></ButtonizedLink> </p>
         <details>
             <summary>FAQ</summary>
                 <ul>

@@ -12,6 +12,8 @@ export interface Props{
 const{
     detachedGenital=false,
 } = Astro.props.frontmatter || Astro.props as Props;
+
+const canonicalURL:String = new URL(Astro.url.pathname, Astro.site);
 ---
 <hr/>
 <details id="enterNSFWButton" class="enterNSFWButton">
@@ -20,7 +22,7 @@ const{
 <!-- <h2>Enter the FULL VERSION room, $0 & Permanent <b style="color:red;">&#xf901;</b></h2> -->
 <h2>Enter the FULL VERSION room, $0 & Permanent <Icon style="color:red;" height="36px" name="gg:pill" /></h2>
     <MessageBoxTemplate severity={1} paragraphTitle={true} headingTitle="18+ Only" detailSummary="Only for biologically mature audicences">
-        <p>Full version room also lists 69420 URLs! Please make sure your biological age is at & above your mature age!<br/>
+        <p>Full version page / room also lists 69420 URLs! Please make sure your biological age is at & above your mature age!<br/>
             e.g. <i>Homo sapiens</i>, derivatives, & alike, are <b>18 years old & up</b>.<br/>
             We intentionally do not require user account so archivers can easily crawl into it. You're welcome.<br/>
             However, please have respect. You mental is very important.
@@ -106,7 +108,7 @@ const{
         We apologize for this inconveniences. We wanted to make sure all gamers are safe from all abuses & harrasments done by said companies.
     </p>
     :
-    <p id="daNSFWLinkLol" class="daNSFWLinkLol" style="display:none;"><a href="enterNSFW">Enter</a></p>
+    <p id="daNSFWLinkLol" class="daNSFWLinkLol" style="display:none;"><a href={canonicalURL+"/enterNSFW"}>Enter</a></p>
     }
     
 
