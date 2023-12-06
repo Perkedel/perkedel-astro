@@ -11,7 +11,7 @@ pubDate: 2022-10-22
 keywords: 'Perkedel, Technologies, tech, about, us, tentang, kami'
 ---
 import ButtonizedLink from '@components/ButtonizedLink.astro'
-import GithubStats from 'astro-github-stats';
+// import GithubStats from 'astro-github-stats';
 import Github from "astro-github";
 
 # About Perkedel Technologies
@@ -56,9 +56,15 @@ Pardon, we have no business contact at the moment.
 <Github repo="Perkedel/perkedel-astro" />
 <p style="font-size:small;">Badge powered by <a href="https://github.com/mzaini30/astro-github#" target="_blank" rel="noopener noreferrer">mzaini30's GitHub Badge</a></p>
 
-<a href="https://github.com/Perkedel" target="_blank" rel="noopener noreferrer"><GithubStats username="Perkedel" topLanguages={true} showIcon={true}/></a><br/>
-<a href="https://github.com/JOELwindows7" target="_blank" rel="noopener noreferrer"><GithubStats username="JOELwindows7" topLanguages={true} showIcon={true}/></a><br/>
-<a href="https://github.com/Perkedel/perkedel-astro" target="_blank" rel="noopener noreferrer"><GithubStats username="Perkedel" repo="perkedel-astro" /></a><br/>
+<p>Please wait, GitHub Stats is being updated. <ButtonizedLink href='https://github.com/ayoayco/astro-github-stats/issues/9' openInNewTab={true}>See issue No. 9 in astro-github-stats</ButtonizedLink></p>
+{
+  /*
+  <a href="https://github.com/Perkedel" target="_blank" rel="noopener noreferrer"><GithubStats username="Perkedel" topLanguages={true} showIcon={true}/></a><br/>
+  <a href="https://github.com/JOELwindows7" target="_blank" rel="noopener noreferrer"><GithubStats username="JOELwindows7" topLanguages={true} showIcon={true}/></a><br/>
+  <a href="https://github.com/Perkedel/perkedel-astro" target="_blank" rel="noopener noreferrer"><GithubStats username="Perkedel" repo="perkedel-astro" /></a><br/>
+  */
+}
+
 <p style="font-size:small;">Stats powered by <a href="https://github.com/ayoayco/astro-github-stats" target="_blank" rel="noopener noreferrer">ayoayco's GitHub stats</a></p>
 
 {/*[![Perkedel Organisation GitHub stats](https://github-readme-stats.vercel.app/api?username=Perkedel)](https://github.com/Perkedel)*/}

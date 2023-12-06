@@ -25,7 +25,17 @@ const robotTxtExtraSays = `
 export default defineConfig({
     site: 'https://perkedel.netlify.app/',
     experimental: {
-        viewTransitions: true,
+        // viewTransitions: true,
+    },
+    i18n: {
+        defaultLocale: "en",
+        locales: ["en"],
+        routing: {
+            prefixDefaultLocale: false
+        },
+        fallback: {
+            id: "en"
+        }
     },
     integrations: [
         mdx({
