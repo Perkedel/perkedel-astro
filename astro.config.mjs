@@ -27,16 +27,16 @@ export default defineConfig({
     experimental: {
         // viewTransitions: true,
     },
-    i18n: {
-        defaultLocale: "en",
-        locales: ["en", "id"],
-        routing: {
-            prefixDefaultLocale: false
-        },
-        fallback: {
-            id: "en"
-        }
-    },
+    // i18n: {
+    //     defaultLocale: "en",
+    //     locales: ["en", "id"],
+    //     routing: {
+    //         prefixDefaultLocale: false
+    //     },
+    //     fallback: {
+    //         id: "en"
+    //     }
+    // },
     base: '/',
     integrations: [
         mdx({
