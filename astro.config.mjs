@@ -37,6 +37,7 @@ export default defineConfig({
             id: "en"
         }
     },
+    base: '/',
     integrations: [
         mdx({
 
