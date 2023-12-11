@@ -772,6 +772,10 @@ a[href*='unity.com']::before {
     content: '󰚯 ' / "";
 }
 
+a[href*='deviantart.com']::before {
+    content: ' ' / "";
+}
+
 /* Extension */
 
 a[href$='.pdf']::before {
