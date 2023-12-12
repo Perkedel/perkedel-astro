@@ -660,7 +660,7 @@ a[href*='microsoft.com']::before,
 a[href*='windows.com']::before,
 a[href*='live.com']::before,
 a[href*='microsoftonline.com']::before {
-    content: ' ' / "";
+    content: '󰍲 ' / "";
 }
 
 a[href*='fandom.com']::before {
