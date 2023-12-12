@@ -772,7 +772,9 @@ a[href*='tiktok.com']::before {
     content: url('https://api.iconify.design/logos/tiktok-icon.svg') / "";
 }
 
-a[href*='unity.com']::before {
+a[href*='unity.com']::before,
+a[href*='unity3d.com']::before
+ {
     content: '󰚯 ' / "";
 }
 
