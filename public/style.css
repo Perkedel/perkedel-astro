@@ -708,13 +708,14 @@ a[href*='archive.org']::before {
     content: ' ' / "";
 }
 
-a[href*='twitter.com']::before {
+a[href*='twitter.com']::before,
+a[href*='x.com']::before {
     content: ' 𝕏 ' / "";
 }
 
-a[href*='x.com']::before {
+/* a[href*='x.com']::before {
     content: '𝕏 ' / "";
-}
+} */
 
 a[href*='tumblr.com']::before {
     /* Speaking of Tumblr, I am banned. peck you, Automattic! */
