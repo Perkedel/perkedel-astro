@@ -791,6 +791,10 @@ a[href*='vimeo.com']::before {
     content: ' ' / "";
 }
 
+a[href*='gumroad.com']::before {
+    content: '󰓜 ' / "";
+}
+
 /* Extension */
 
 a[href$='.pdf']::before {
