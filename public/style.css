@@ -786,6 +786,10 @@ a[href*='wikipedia.org']::before {
     content: '󰖬 ' / "";
 }
 
+a[href*='vimeo.com']::before {
+    content: ' ' / "";
+}
+
 /* Extension */
 
 a[href$='.pdf']::before {
