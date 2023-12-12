@@ -679,7 +679,7 @@ a[href*='chdk.fandom.com']::before {
 
 a[href*='discord.com']::before,
 a[href*='discord.gg']::before {
-    content: 'ﭮ ' / "";
+    content: '󰙯 ' / "";
 }
 
 a[href*='github.com']::before {
