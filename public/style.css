@@ -807,6 +807,14 @@ a[href*='python.org']::before {
     content: ' ' / "";
 }
 
+a[href*='wordpress.com']::before {
+    content: ' ' / "";
+}
+
+a[href*='wordpress.org']::before {
+    content: ' ' / "";
+}
+
 /* Extension */
 
 a[href$='.pdf']::before {
