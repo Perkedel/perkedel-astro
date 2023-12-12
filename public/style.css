@@ -709,7 +709,11 @@ a[href*='archive.org']::before {
 }
 
 a[href*='twitter.com']::before {
-    content: ' ' / "";
+    content: ' 𝕏 ' / "";
+}
+
+a[href*='x.com']::before {
+    content: '𝕏 ' / "";
 }
 
 a[href*='tumblr.com']::before {
