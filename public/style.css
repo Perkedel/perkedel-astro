@@ -795,6 +795,10 @@ a[href*='gumroad.com']::before {
     content: '󰓜 ' / "";
 }
 
+a[href*='patreon.com']::before {
+    content: '󰢂 ' / "";
+}
+
 /* Extension */
 
 a[href$='.pdf']::before {
