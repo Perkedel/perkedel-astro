@@ -819,6 +819,10 @@ a[href*='wordpress.org']::before {
     content: ' ' / "";
 }
 
+a[href*='kickstarter.com']::before {
+    content: '󰝅 ' / "";
+}
+
 /* Extension */
 
 a[href$='.pdf']::before {
