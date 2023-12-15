@@ -6,6 +6,7 @@
 # https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_web.html
 # https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=id
 # https://developer.chrome.com/docs/lighthouse/seo/is-crawlable?utm_source=lighthouse&utm_medium=node&hl=id
+# https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=id
 
 /*
     X-Frame-Options: DENY
@@ -13,7 +14,10 @@
     Access-Control-Allow-Origin: *
     # Cross-Origin-Embedder-Policy: credentialless
     # Cross-Origin-Resource-Policy: same-site
-    x-robots-tag: all
+    X-Robots-Tag: all
+    X-Robots-Tag: max-video-preview:-1
+    X-Robots-Tag: max-image-preview:large
+    X-Robots-Tag: max-snippet:-1
 
 /assets
     Cross-Origin-Resource-Policy: cross-origin
