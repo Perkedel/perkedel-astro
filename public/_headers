@@ -9,7 +9,7 @@
 # https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=id
 
 /*
-    X-Frame-Options: DENY
+    X-Frame-Options: SAMEORIGIN
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
     # Cross-Origin-Embedder-Policy: credentialless
