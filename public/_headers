@@ -1,7 +1,27 @@
 # https://docs.netlify.com/routing/headers
 # https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_response_fields
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cross-Origin-Embedder-Policy
+# https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cross-Origin-Resource-Policy
+# https://resourcepolicy.fyi/
+# https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_web.html
 
 /*
     X-Frame-Options: DENY
     X-XSS-Protection: 1; mode=block
     Access-Control-Allow-Origin: *
+    Cross-Origin-Embedder-Policy: require-corp
+    Cross-Origin-Resource-Policy: same-site
+
+/assets
+    Cross-Origin-Resource-Policy: cross-origin
+
+/sounds
+    Cross-Origin-Resource-Policy: cross-origin
+
+/strayType
+    Cross-Origin-Resource-Policy: cross-origin
+
+/rawHTML
+    Cross-Origin-Opener-Policy: same-origin
+    Cross-Origin-Embedder-Policy: require-corp
+    Cross-Origin-Resource-Policy: same-site
