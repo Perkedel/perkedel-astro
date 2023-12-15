@@ -186,6 +186,13 @@ const {
   addHeaderingClass = '',
 // } = Astro.props as Props;
 } = Astro.props.frontmatter || Astro.props as Props;
+
+/*
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie
+https://developer.mozilla.org/en-US/docs/Web/API/Headers
+https://docs.astro.build/en/reference/api-reference/#astroresponse
+*/
+Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-preview:-1, max-image-preview:large');
 ---
 
 <!DOCTYPE html>

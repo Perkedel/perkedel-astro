@@ -98,5 +98,10 @@ export default defineConfig({
 
             // ...
         ]
-    }
+    },
+    // server:{
+    //     headers:{
+            
+    //     }
+    // }
 });
