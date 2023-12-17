@@ -31,6 +31,10 @@ const{
 const response = await fetch('https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/README.md');
 const markdown = await response.text();
 const content = marked.parse(markdown);
+
+const contribRes = await fetch('https://raw.githubusercontent.com/Perkedel/CVR_Stuffings/main/CONTRIBUTING.md');
+const contribMd = await contribRes.text();
+const contribContent = marked.parse(contribMd);
 ---
 <CorePage
     nsfw={nsfw}
@@ -64,16 +68,24 @@ const content = marked.parse(markdown);
             </Fragment>
     }
     <h2>Raw Markdown Content</h2>
-    {nsfw?
-        <Fragment>
-            <details>
-                <summary>Click here to reveal entire <code>README.md</code> from the GitHub repository. <i>Powered by Marked</i></summary>
-                <Fragment set:html={content}/>
-            </details>
-        </Fragment>
-    :
-        <Fragment>
-            <p class='error'>Sorry, <code>README.md</code> from the GitHub repository is only available for adults.</p>
-        </Fragment>}
+        <h3>Terms for idea submissions (<code>CONTRIBUTING.md</code>)</h3>
+
+        <details>
+            <summary>Click here to reveal entire <code>CONTRIBUTING.md</code> from the GitHub repository. <i>Powered by Marked</i></summary>
+            <Fragment set:html={contribContent}/>
+        </details>
+
+        <h3>Main (<code>README.md</code>)</h3>
+        {nsfw?
+            <Fragment>
+                <details>
+                    <summary>Click here to reveal entire <code>README.md</code> from the GitHub repository. <i>Powered by Marked</i></summary>
+                    <Fragment set:html={content}/>
+                </details>
+            </Fragment>
+        :
+            <Fragment>
+                <p class='error'>Sorry, <code>README.md</code> from the GitHub repository is only available for adults.</p>
+            </Fragment>}
     
 </CorePage>
