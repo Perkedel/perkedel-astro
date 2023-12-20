@@ -6572,5 +6572,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/GxQJ3LyQNko
 - https://www.youtube.com/watch?v=2ubZN5cCyi0
 - https://abema.tv/video/title/38-282
+- https://x.com/KerokeroCoder/status/1030605252280512512?s=20
+- https://x.com/KerokeroCoder/status/1030885562943561728?s=20
+- https://twitter.com/KerokeroCoder/status/1030885562943561728
+- https://ulmf.org/threads/game-dat-not-found.8405/
+- https://steamcommunity.com/app/373770/discussions/0/1496741765147580115/
+- https://www.cyberlink.com/support-center/faq/content?id=10449
 
 
