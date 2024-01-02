@@ -630,9 +630,13 @@ a[target*=blank]::after {
 
 a[target=_blank]::after.BioButtons,
 a[target=blank]::after.BioButtons,
-a[target*=blank]::after.BioButtons {
+a[target*=blank]::after.BioButtons,
+a::after.BioButtons,
+a::after.BioButtons,
+a::after.BioButtons {
     content: '';
 }
+
 
 
 /* https://www.w3schools.com/cssref/sel_attr_contain.php */
