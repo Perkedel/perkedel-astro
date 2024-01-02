@@ -96,4 +96,35 @@ package = "@netlify/plugin-sitemap"
 		"yandex"
 	]
 
-  
+# https://github.com/swyxio/netlify-plugin-rss
+[[plugins]]
+package = "netlify-plugin-rss"
+	[plugins.inputs]
+	# required configs, customize as needed
+	dirToScan = "/" # a subfolder to scan. "/" to scan all
+	authorName = "JOELwindows7"
+	site_url = "https://perkedel.netlify.app"
+	title = "Perkedel RSS Feed"
+	rssDescription = "Perkedel NTLF+ASTR RSS Feed"
+	categories = ['Technology', 'Game', 'App']
+
+	# # optional configs, defaults shown
+	# rssFaviconUrl = "https://perkedel.netlify.app/favicon.png"
+	# docs = "http://example.com/rss/docs.html"
+	# managingEditor = "authorName"
+	# webMaster = "authorName"
+	#copyright = "${authorName}"
+	copyright = "Perkedel Technologies"
+	# language = "en"
+	# pubDate = "new Date().toUTCString(),"
+	# ttl = "60" # aka refresh every hour
+
+	# # cheerio selectors for extractMetadataFromFile
+	# # defaults shown
+	# contentSelector = "main"
+	# publishDateSelector = # if not specified, we use the date of file creation
+	# descriptionSelector = "meta[name=description]" # probably no need to change
+	# titleSelector = "title" # probably no need to change
+
+	# # developer configs
+	# debugMode = false # (for development) turn true for extra diagnostic logging
