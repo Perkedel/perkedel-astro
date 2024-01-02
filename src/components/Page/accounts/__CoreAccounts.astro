@@ -141,9 +141,9 @@ rel="noopener noreferrer"
         </StatCard>
     </details>
     <h2 style="text-align:center;">BioLinks</h2>
-    <p class="BioButtonList" style='align-items:center;justify-content: center;'>
+    <p class="BioButtonList" style='align-items:center;justify-content: center;display:block;text-align:center;'>
         {linksButtons.map(datas =>(
-            <span>
+            <span style='margin-right:10px;margin-left:10px;'>
                 <ButtonizedLink 
                     classe="BioButtons BioButtonsSFW"
                     href={datas[0]} 
@@ -155,7 +155,7 @@ rel="noopener noreferrer"
             </span>
         ))}
         <br/>
-        {nsfw?linksNSFW.map(datas =>(
+        {nsfw?linksButtonsNSFW.map(datas =>(
             <span>
                 <ButtonizedLink 
                     classe="BioButtons BioButtonsNSFW"
