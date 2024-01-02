@@ -628,12 +628,12 @@ a[target*=blank]::after {
     content: ' 🔗 ';
 }
 
-a[target=_blank]::after.BioButtons,
-a[target=blank]::after.BioButtons,
-a[target*=blank]::after.BioButtons,
-a::after.BioButtons,
-a::after.BioButtons,
-a::after.BioButtons {
+a[target=_blank].BioButtons::after,
+a[target=blank].BioButtons::after,
+a[target*=blank].BioButtons::after,
+a.BioButtons::after,
+a.BioButtons::after,
+a.BioButtons::after {
     content: '';
 }
 
@@ -898,7 +898,7 @@ a[href*='mspaintadventures.fandom.com']::before {
     content: url('/assets/img/steal/Homestuck/mspa-wiki-favicon.ico') / "";
 }
 
-a::before.BioButtons {
+a.BioButtons::before {
     content: '';
 }
 
