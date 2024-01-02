@@ -44,9 +44,19 @@ export interface Props{
 
 // Add these yourself!
 const bioLinks:Array<Array<string | boolean>> = [
+    // Links SFW appears as bar list
     ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xfa9e;', false]
 ]
 const bioLinksNSFW:Array<Array<string | boolean>> = [
+    // Links NSFW appears as bar list
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xfa9e;', false]
+]
+const bioButtons:Array<Array<string | boolean>> = [
+    // Links SFW appears as Buttons
+    ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xfa9e;', false]
+]
+const bioButtonsNSFW:Array<Array<string | boolean>> = [
+    // Links NSFW appears as buttons
     ['https://example.org', 'Example URL', 'THUMB_IMAGE_URL', '&#xfa9e;', false]
 ]
 // end Add these yourself
@@ -58,6 +68,8 @@ const{
     photoURL = '/assets/img/mavrickle.png',
     links = bioLinks, // & assign your variable there like `links = your_biolinks_array` in your `<USERNAMELINK>` stuff like that
     linksNSFW = bioLinksNSFW, // Don't forget the NSFW links too if you had it. don't dare you cheat! you must be at biological mature age of your being!
+    linksButtons = bioButtons, // same as links, but in buttons
+    linksButtonsNSFW = bioButtonsNSFW, // same as linksNSFW, but in buttons
     thirdPartyEdit = false, // Admin will raise this flag if it was the other admin that created the Biolinks, not the author themselves.
     disableOverwhelmStatement = true, // This time shall be true to prevent non-rabbit hole explorer to see that plea at an unexpected time.
     addKeywords = '',
@@ -129,6 +141,33 @@ rel="noopener noreferrer"
         </StatCard>
     </details>
     <h2 style="text-align:center;">BioLinks</h2>
+    <p class="BioButtonList">
+        {linksButtons.map(datas =>(
+            <span>
+                <ButtonizedLink 
+                    classe="BioButtons BioButtonsSFW"
+                    href={datas[0]} 
+                    openInNewTab={!(datas[4] || false)}
+                    title={datas[1]} 
+                    >
+                    {datas[2] != ``?<img src={datas[2]} class='' height='24px'/>:<Fragment set:html={datas[3] || "&#xfa9e"}></Fragment>}
+                </ButtonizedLink>
+            </span>
+        ))}
+        <br/>
+        {nsfw?linksNSFW.map(datas =>(
+            <span>
+                <ButtonizedLink 
+                    classe="BioButtons BioButtonsNSFW"
+                    href={datas[0]} 
+                    openInNewTab={!(datas[4] || false)}
+                    title={datas[1] + ` (🥵 NSFW &#xfa8b;&#xf421;)`}
+                    >
+                    {datas[2] != ``?<img src={datas[2]} class='' height='24px'/>:<Fragment set:html={datas[3] || "&#xfa9e"}></Fragment>}
+                </ButtonizedLink>
+            </span>
+        )):""}
+    </p>
     <ul class="BioLinksList">
         {links.map(datas =>(
             <li>

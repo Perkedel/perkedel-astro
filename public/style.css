@@ -628,6 +628,12 @@ a[target*=blank]::after {
     content: ' 🔗 ';
 }
 
+a[target=_blank]::after.BioButtons,
+a[target=blank]::after.BioButtons,
+a[target*=blank]::after.BioButtons {
+    content: '';
+}
+
 
 /* https://www.w3schools.com/cssref/sel_attr_contain.php */
 
@@ -886,6 +892,10 @@ a[href*='hs.hiveswap.com/paradoxspace']::before {
 a[href*='mspaintadventures.fandom.com']::before {
     content: '🧩 ' / "";
     content: url('/assets/img/steal/Homestuck/mspa-wiki-favicon.ico') / "";
+}
+
+a::before.BioButtons {
+    content: '';
 }
 
 
