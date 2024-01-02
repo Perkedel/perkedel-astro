@@ -8,6 +8,7 @@ import robotsTxt from 'astro-robots-txt';
 // import embeds from 'astro-embed/integration';
 import remarkMermaid from 'astro-diagram/remark-mermaid';
 import webmanifest from "astro-webmanifest";
+import { rssSchema } from '@astrojs/rss';
 
 const robotTxtExtraSays = `
 # Wello
