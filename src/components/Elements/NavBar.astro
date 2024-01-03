@@ -32,7 +32,8 @@ const {
         <HistoryNavigateArrows/>
         <!-- <li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf053;</a></li> -->
         <li class="NavHistoryPutLeft"><a title="Go home to root of this website" href="/" class="NavBtn" id="HomeButton" style={Astro.url.pathname =='/'?"color:cyan;":""}>&#xf015;</a></li>
-        <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style={Astro.url.pathname.startsWith('/apps/')?"color:cyan;":""}>📦 Applications &#xf003b;</a></li>
+        <!-- <li class="NavPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style={Astro.url.pathname.startsWith('/apps/')?"color:cyan;":""}><span class="mobileHide">📦 Applications </span>&#xf003b;</a></li> -->
+        <li class="NavHistoryPutLeft"><a title="Go to apps page, list of applications" href="/apps/" class="NavBtn" id="AppsButton" style={Astro.url.pathname.startsWith('/apps/')?"color:cyan;":""}><span class="mobileHide">📦 Applications </span>&#xf003b;</a></li>
         <!--<li class="NavPutLeft"><a title="Go back one level in address bar path" href="../" class="NavBtn" id="BackButton">&#xf049; BACK &#xf9d4;</a></li>-->
 
         <!-- Poop button -->
