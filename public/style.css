@@ -2467,6 +2467,10 @@ details.warning, details[open].warning summary,
         margin: 0;
         padding: 0;
     }
+
+    .mobileHide{
+        display: none;
+    }
 }
 
 @media screen and (max-width: 100px) {
