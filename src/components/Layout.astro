@@ -438,6 +438,9 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
   <!-- ANNOYING AD -->
   <!-- <ImplementArchiveAnnoyingAdSpace enabled={false}/> -->
 
+  <!-- ADD YOUR ELEMENT OUTSIDE MAIN AT ABOVE -->
+  <slot name="outsideMainAbove"/>
+
   <!-- (MAIN IS HERE) -->
   <!-- (MAIN IS HERE) -->
   <!-- (MAIN IS HERE) -->
@@ -468,6 +471,9 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
 
   <!-- BACK TO TOP BUTTON -->
   <BackToTopButton/>
+
+  <!-- ADD YOUR ELEMENT OUTSIDE MAIN AT BELOW -->
+  <slot name="outsideMainBelow"/>
 
   <!-- FOOTER -->
   <!-- <Footering rating={rating} nsfw={rating.includes('adult')}/> -->

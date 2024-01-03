@@ -108,19 +108,28 @@ const{
         <slot name='TitleAfter'/>
     </h1>
         {disableOverwhelmStatement?"":<KolmoIsOverwhelmed/>}
+
+        <Fragment slot="outsideMainAbove">
+            <slot name="outsideMainAbove"/>
+        </Fragment>
+
         <slot>
             <p class="error"><i>Empty content!!!</i></p>
         </slot>
-        {noNeedNSFW?
-            ""
-        :
-            (
-            nsfw?
+
+        <Fragment slot="outsideMainBelow">
+            <slot name="outsideMainBelow"/>
+            {noNeedNSFW?
                 ""
             :
-                <EnterNSFWButton detachedGenital={detachedGenital}/>
-            )
-        }
-        <slot name="afterNSFWBar"/>
-        <slot name="afterMainScript" slot="afterMainScript"/>
+                (
+                nsfw?
+                    ""
+                :
+                    <EnterNSFWButton detachedGenital={detachedGenital}/>
+                )
+            }
+            <slot name="afterNSFWBar"/>
+            <slot name="afterMainScript" slot="afterMainScript"/>
+        </Fragment>
 </Layout>
