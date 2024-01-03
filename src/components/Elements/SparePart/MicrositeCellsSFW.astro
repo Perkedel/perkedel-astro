@@ -7,6 +7,9 @@ import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounce
 import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
 import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
 import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every 
+
+const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
+const padd:string = `${canonicalURL}/apps/microsites/`;
 ---
-<li><ButtonizedLink href='LetMeRenderService'>CHEAP & HIGH QUALITY BLENDER SERVICE COMMISSION</ButtonizedLink></li>
-<li><ButtonizedLink href='TwitterXRequiresLogin'>Twitter / X Requires Login</ButtonizedLink></li>
+<li><ButtonizedLink href={`${padd}LetMeRenderService`}>CHEAP & HIGH QUALITY BLENDER SERVICE COMMISSION</ButtonizedLink></li>
+<li><ButtonizedLink href={`${padd}TwitterXRequiresLogin`}>Twitter / X Requires Login</ButtonizedLink></li>

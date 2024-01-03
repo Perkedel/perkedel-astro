@@ -21,6 +21,9 @@ const{
     nsfw=false,
 
 }= Astro.props.frontmatter || Astro.props as Props;
+
+const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
+const padd:string = `${canonicalURL}/apps/microsites/`;
 ---
 <ListButtonizedLink>
     <!-- https://iconify.design/ -->

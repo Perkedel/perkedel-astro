@@ -1,0 +1,74 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CoreMicrosite from '@components/Page/microsites/_CoreMicrosite.astro';
+import WhatIsLetMeRender from '@components/Page/microsites/microparts/WhatIsLetMeRender.astro';
+import OrderRenderNow from '@components/Page/microsites/microparts/OrderRenderNow.astro';
+import RenderDiscounts from '@components/Page/microsites/microparts/RenderDiscounts.astro';
+import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
+import MessageRenderStatus from '@components/Page/microsites/microparts/MessageRenderStatus.astro';
+
+export interface Props{
+    nsfw?:boolean;
+}
+
+let detachedGenital:boolean = true;
+let noNeedNSFW:boolean = true;
+let addHeaderTitle = 'NOTICE: Retirement of Tumblr accounts & blogs';
+let addMetaTitle = 'We have been kept blocked by so many in Tumblr';
+let addKeywords:string = 'Tumblr, toxic, community, blocked, immature, Contact us';
+let addDescriptions:string = 'We have abandoned our Tumblr accounts, but the account kept up for posterity.';
+let skipHeader:boolean = false;
+let skipNav:boolean = false;
+let skipFooter:boolean = false;
+let disableOverwhelmStatement:boolean = true;
+let author = 'JOELwindows7';
+
+let maxNumCommissionSlot:number = 8;
+let maxNumPerTransactionSlot:number = 240;
+let maxGigabytePerFile:number = 2;
+
+const{
+    nsfw = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+
+const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
+const padd:string = `${canonicalURL}/apps/microsites/`;
+---
+<CoreMicrosite
+    nsfw={nsfw}
+    detachedGenital={detachedGenital}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    noNeedNSFW={noNeedNSFW}
+>
+<p>We have received message from our Tumblr division, that we have been blocked by so many cardiophilia tumblr, old friends, & more blogs (whose have cool posts) <b class="error">without given reason why</b>. Due to this devastating, overwhelming, and evercoming incidents like this, <span style="font-size:large;">we have decided that it is time to sunset all endeavour in Tumblr, <b class="error">For good</b></span>.</p>
+
+<p>For your clarification, blocking us means agravation & provocation towards keeping availability & existence, as well as ethics, norm, & behaviour in general.</p>
+
+<p><q>What did I do wrong?!</q></p>
+
+<p>We do not tolerate such action. However, things like this has no solution. Therefore, to keep our wellbeing from being harmed further, we have once again decided to retire all endeavour here with Tumblr, <b class="error">forever</b>. Including other unmentioned platforms we have lost count how many (especially ones notorious for the people using it that are toxic).</p>
+
+<p>As usual, all accounts, blogs, channels, etc. in it will be kept intact for posterity. We may comeback but only to reblog/re<del>tweet</del>post other cool stuffs, since there are still so many gamers stuck with Tumblr & other legacy platforms these days despite our efforts of whistleblowings.</p>
+
+<p>Our new all in one place where we tell story is TBA. But its place has been prepared, <ButtonizedLink href={`${canonicalURL}/apps/posts`} openInNewTab={true}>As you can see here</ButtonizedLink>. Stay tuned.</p>
+
+<p>In case you have question regarding the place we picked, unfortunately, <b class="error">LBRY inc. has been murdered by SEC</b>, <a>As you can see here</a>.</p>
+</CoreMicrosite>
