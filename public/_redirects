@@ -174,5 +174,14 @@
 /TwitterLogin /apps/microsites/TwitterXRequiresLogin
 /ElonMuskBetrayal /apps/microsites/TwitterXRequiresLogin
 
+# Tumblr users are toxic and likes to block us for no reason
+/TumblrBlocking /apps/microsites/TumblrRetired
+/Tumblr /apps/microsites/TumblrRetired
+/tumblrBlocked /apps/microsites/TumblrRetired
+/toxicTumblr /apps/microsites/TumblrRetired
+/TumblrInternalWar /apps/microsites/TumblrRetired
+/TumblrFreaks /apps/microsites/TumblrRetired
+/TumblrButtheads /apps/microsites/TumblrRetired
+
 # ChilloutVR
 /CVRStuffings /apps/CVRStuffings
