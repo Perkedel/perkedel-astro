@@ -16,6 +16,7 @@ import OrderRenderNow from '@components/Page/microsites/microparts/OrderRenderNo
 import RenderDiscounts from '@components/Page/microsites/microparts/RenderDiscounts.astro';
 import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
 import MessageRenderStatus from '@components/Page/microsites/microparts/MessageRenderStatus.astro';
+import VisitOutOtherSocialMedias from '@components/Page/microsites/microparts/VisitOutOtherSocialMedias.astro';
 
 export interface Props{
     nsfw?:boolean;
@@ -64,11 +65,7 @@ const{
             </div>
         </section>
         <p>Bummer</p>
-    <h2>Visit our other social medias!</h2>
-        <ul>
-            <li><ButtonizedLink href='/apps/profile/@JOELwindows7' openInNewTab={false}>Other Accounts</ButtonizedLink></li>
-            <li><ButtonizedLink href='https://odysee.com/$/invite/@JOELwindows7' openInNewTab={true}>Go to Odysee LBRY now!</ButtonizedLink></li>
-        </ul>
+    <VisitOutOtherSocialMedias/>
     <h2>What to do with your X account?</h2>
         <section class="hideScroll fromUpSideScroll preExpandSection">
             <div style='margin:auto;width:50%;padding:10px;'>

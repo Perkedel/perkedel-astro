@@ -16,6 +16,7 @@ import OrderRenderNow from '@components/Page/microsites/microparts/OrderRenderNo
 import RenderDiscounts from '@components/Page/microsites/microparts/RenderDiscounts.astro';
 import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
 import MessageRenderStatus from '@components/Page/microsites/microparts/MessageRenderStatus.astro';
+import VisitOutOtherSocialMedias from '@components/Page/microsites/microparts/VisitOutOtherSocialMedias.astro';
 
 export interface Props{
     nsfw?:boolean;
@@ -65,11 +66,11 @@ const padd:string = `${canonicalURL}/apps/microsites/`;
 
     <p>For your clarification, blocking us means agravation & provocation towards keeping availability & existence, as well as ethics, norm, & behaviour in general.</p>
 
-    <p><q>What did I do wrong?!</q></p>
+    <p style='font-size:xx-large;'><q>What did I do <b><u>wrong</u></b>?!</q></p>
 
-    <p>We do not tolerate such action of blocking us & other gamers for no reason, & these actions will not go unpunished. However, things like this has no solution. Therefore, to keep our wellbeing from being harmed much further, we have once again decided to retire all endeavour here with Tumblr, <b class="error">forever</b>. Including other unmentioned platforms we have lost count how many (especially ones notorious for the people using it that are toxic).</p>
+    <p><b class='error' style='font-size:large;'><u>We do not tolerate such action of blocking us & other gamers for no reason</u></b>, & these actions will not go unpunished. However, things like this has no solution. Therefore, to keep our mental health & other wellbeing parameters from being harmed much further, we have once again decided to retire all endeavour here with Tumblr, <b class="error">forever</b>. Including other unmentioned platforms we have lost count how many (especially ones notorious for the people using it that are toxic, egregious DNI rules, but not limited to such as platforms that are full of restrictability features, allows egregious above evil agenda accelerations, etc.).</p>
 
-    <p>As usual, all accounts, blogs, channels, etc. in it will be kept intact for posterity. We may comeback but only to reblog/re<del>tweet</del>post other cool stuffs, since there are still so many gamers stuck with Tumblr & other legacy platforms these days despite our efforts of whistleblowings.</p>
+    <p>As usual, all accounts, blogs, channels, etc. in it will be kept intact for posterity. We may comeback but <b class='warn'><u>only to reblog/re<del>tweet</del>post other cool stuffs</u></b>, since there are still so many gamers stuck with Tumblr & other legacy platforms these days despite our efforts of whistleblowings.</p>
 
     <p>Our new all in one place where we tell story is TBA. But its place has been prepared, <ButtonizedLink href={`/apps/posts`} openInNewTab={true}>As you can see here</ButtonizedLink>. Stay tuned.</p>
 
@@ -79,16 +80,9 @@ const padd:string = `${canonicalURL}/apps/microsites/`;
 
     <p>It means somebody, shall do it. Or else, it means nothing.</p>
 
-    <p>It ultimately shall be preserved, so it's a thing. The rules that exists, in long term will only hinders it to mean nothing. Rules shall phase eventually.</p>
+    <p style='font-size:x-large;'><b style='color:black;background-color:gray;'>It ultimately shall be preserved</b>, so it's a thing. The <i>rules</i> that exists, in long term will only hinders it to mean nothing. <i>Such rules</i> shall phase eventually.</p>
 </section>
 
-<section>
-    <!-- TODO: make this module -->
-    <h2>Visit our other social medias!</h2>
-        <ul>
-            <li><ButtonizedLink href='/apps/profile/@JOELwindows7' openInNewTab={false}>Other Accounts</ButtonizedLink></li>
-            <li><ButtonizedLink href='https://odysee.com/$/invite/@JOELwindows7' openInNewTab={true}>Go to Odysee LBRY now!</ButtonizedLink></li>
-        </ul>
-</section>
+<VisitOutOtherSocialMedias/>
 
 </CoreMicrosite>

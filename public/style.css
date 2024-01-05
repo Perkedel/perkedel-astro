@@ -658,6 +658,7 @@ a[href|='https://odysee.tv']::before,
 a[href|='https://help.odysee.tv']::before {
     content: ' ' / "";
     content: url('https://api.iconify.design/simple-icons/odysee.svg') / "";
+    /* color:purple; */
 }
 
 a[href*='reddit.com']::before,
