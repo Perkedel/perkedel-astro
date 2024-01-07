@@ -15,6 +15,7 @@ import Emoji from 'astro-emoji';
 import Cardiophilia from '@components/Page/Cardiophilia.astro';
 import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
 import MaturePostCantShowHere from '@components/Messages/MaturePostCantShowHere.astro';
+import fastRedact from 'fast-redact';
 
 
 export async function getStaticPaths() {
@@ -36,9 +37,11 @@ export async function getStaticPaths() {
 }
 
 const { entry, nsfw=true, isNSFW } = Astro.props;
-const { Content } = await entry.render();
+const { Content , headings, remarkPluginFrontmatter } = await entry.render();
+// const { CensoredContent}  = await Content.innerHTML;
 ---
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags}>
+    <!-- eee -->
     {nsfw?
         <Content nsfw={nsfw}/>
         :
@@ -47,9 +50,13 @@ const { Content } = await entry.render();
             <MaturePostCantShowHere/>
             :
             <Content nsfw={nsfw}/>
+            // <Fragment set:html={toCensor}/>
         }
         </Fragment>
     }
+    <section>
+        <p>{remarkPluginFrontmatter.minutesRead}</p>
+    </section>
     <Fragment slot={'endOfIt'}>
         <!-- {nsfw?
             ""

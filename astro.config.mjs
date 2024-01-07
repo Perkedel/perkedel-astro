@@ -9,6 +9,7 @@ import robotsTxt from 'astro-robots-txt';
 import remarkMermaid from 'astro-diagram/remark-mermaid';
 import webmanifest from "astro-webmanifest";
 import { rssSchema } from '@astrojs/rss';
+import { remarkReadingTime } from './remark-reading-time.mjs';
 
 const robotTxtExtraSays = `
 # Wello
@@ -98,7 +99,8 @@ export default defineConfig({
             remarkMermaid
 
             // ...
-        ]
+        ],
+        remarkPlugins: [remarkReadingTime],
     },
     // server:{
     //     headers:{

@@ -35,19 +35,29 @@ export async function getStaticPaths() {
     }));
 }
 
+const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
+
 const { entry, nsfw=false, isNSFW } = Astro.props;
-const { Content } = await entry.render();
+const { Content, headings, remarkPluginFrontmatter } = await entry.render();
+const toCensor = await Content.content;
+// TODO: censor pre-compiledly for SFW version
+// const { CensoredContent} = await Content.innerHTML;
 ---
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags}>
     {nsfw?
         <Content nsfw={nsfw}/>
         :
+        
         (entry.data.isNSFW?
             <MaturePostCantShowHere/>
             :
             <Content nsfw={nsfw}/>
+            // <Fragment set:html={toCensor}/>
         )
     }
+    <section>
+        <p>{remarkPluginFrontmatter.minutesRead}</p>
+    </section>
     <Fragment slot={'endOfIt'}>
     <!-- {nsfw?
         ""

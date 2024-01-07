@@ -44,6 +44,8 @@ export function getStaticPaths(){
     });
 }
 
+const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
+
 const allPosts = await getCollection("posts");
 const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
 ---
@@ -58,7 +60,7 @@ const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
         <ul>
           <!-- TODO: hide option if NSFW pls! -->
             {allPosts.map((post) => (
-                <li><ButtonizedLink href={"./" + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
+                <li><ButtonizedLink href={'/apps/posts' + (nsfw?'/enterNSFW/nsfw':'') + '/' + post.slug}>&#xeb99; {post.data.title} {post.data.isNSFW?<b class='warning'>🥵NSFW</b>:""}</ButtonizedLink></li>
             ))}
         </ul>
     {nsfw?
