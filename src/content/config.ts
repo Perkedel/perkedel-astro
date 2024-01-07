@@ -17,7 +17,7 @@ const postsCollection = defineCollection({
       tags: z.array(z.string()).optional(),
       footnote: z.string().optional(),
       isNSFW: z.boolean(),
-      nsfw: z.boolean().default(false),
+      nsfw: z.boolean().default(false).optional(),
     })
 });
 // Export a single `collections` object to register your collection(s)

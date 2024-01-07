@@ -38,7 +38,7 @@ export async function getStaticPaths() {
 const { entry, nsfw=true, isNSFW } = Astro.props;
 const { Content } = await entry.render();
 ---
-<LayoutMDX frontmatter={entry.data} nsfw={nsfw}>
+<LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags}>
     {nsfw?
         <Content nsfw={nsfw}/>
         :
@@ -50,5 +50,12 @@ const { Content } = await entry.render();
         }
         </Fragment>
     }
-
+    <Fragment slot={'endOfIt'}>
+        <!-- {nsfw?
+            ""
+            :
+            <EnterNSFWButton detachedGenital={false}/>
+            
+        } -->
+    </Fragment>
 </LayoutMDX>
