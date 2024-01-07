@@ -40,12 +40,12 @@ const { Content } = await entry.render();
 ---
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags}>
     {nsfw?
-        <Content />
+        <Content nsfw={nsfw}/>
         :
         (entry.data.isNSFW?
             <MaturePostCantShowHere/>
             :
-            <Content />
+            <Content nsfw={nsfw}/>
         )
     }
     <Fragment slot={'endOfIt'}>

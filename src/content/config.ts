@@ -1,6 +1,6 @@
 // https://docs.astro.build/en/guides/content-collections/#migrating-from-file-based-routing
 // Import utilities from `astro:content`
-import { z, defineCollection } from "astro:content";
+import { z, reference, defineCollection } from "astro:content";
 import { rssSchema } from '@astrojs/rss';
 // Define a schema for each collection you'd like to validate.
 const postsCollection = defineCollection({
@@ -12,8 +12,9 @@ const postsCollection = defineCollection({
       image: z.object({
         url: z.string(),
         alt: z.string()
-      }),
-      tags: z.array(z.string()),
+      }).optional(),
+      relatedPosts: z.array(reference('posts')),
+      tags: z.array(z.string()).optional(),
       isNSFW: z.boolean(),
     })
 });

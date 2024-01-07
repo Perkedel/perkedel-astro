@@ -40,13 +40,13 @@ const { Content } = await entry.render();
 ---
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw}>
     {nsfw?
-        <Content />
+        <Content nsfw={nsfw}/>
         :
         <Fragment>
         {entry.data.isNSFW?
             <MaturePostCantShowHere/>
             :
-            <Content />
+            <Content nsfw={nsfw}/>
         }
         </Fragment>
     }
