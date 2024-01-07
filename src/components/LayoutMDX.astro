@@ -47,12 +47,15 @@ type Props = MarkdownLayoutProps<{
     twitterSite?:string;
     twitterCard?:string;
     themeColor?:string;
+    timeToRead?:string;
     nsfw?:boolean;
     isNSFW?:boolean;
 }>;
 const { frontmatter,
         url,
         nsfw,
+        timeToRead,
+        keywords,
         // hideInfo = 'false',
 } = Astro.props ;
 
@@ -146,6 +149,10 @@ const { frontmatter,
                     <td>{frontmatter.description}</td>
                 </tr>
                 <tr>
+                    <td>Time to read</td>
+                    <td>{timeToRead}</td>
+                </tr>
+                <tr>
                     <td>Date</td>
                     <!-- The peck bro, why documentation & example isn't complete & covering every obvious cases? I hate guesswork! -->
                     <!--<td><LocalTime datetime={frontmatter.date} date/>, <TimeAgo datetime={frontmatter.date}/> (Edited <LocalTime datetime={frontmatter.dateMod} date/>, <TimeAgo datetime={frontmatter.dateMod}/>; Expires in <LocalTime datetime={frontmatter.dateExp} date/>, <RelativeTime datetime={frontmatter.dateExp}/>)</td>-->
@@ -153,7 +160,7 @@ const { frontmatter,
                 </tr>
                 <tr>
                     <td>Keywords</td>
-                    <td>{frontmatter.keywords}</td>
+                    <td>{keywords}</td>
                 </tr>
                 <tr>
                     <td>File</td>

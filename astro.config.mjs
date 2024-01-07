@@ -96,11 +96,12 @@ export default defineConfig({
             // for astro-diagram..
             // remarkGfm,
 
-            remarkMermaid
+            remarkMermaid,
 
             // ...
+            remarkReadingTime
         ],
-        remarkPlugins: [remarkReadingTime],
+        
     },
     // server:{
     //     headers:{

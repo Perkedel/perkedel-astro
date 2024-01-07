@@ -39,11 +39,11 @@ const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
 
 const { entry, nsfw=false, isNSFW } = Astro.props;
 const { Content, headings, remarkPluginFrontmatter } = await entry.render();
-const toCensor = await Content.content;
+// const toCensor = await Content.content;
 // TODO: censor pre-compiledly for SFW version
 // const { CensoredContent} = await Content.innerHTML;
 ---
-<LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags}>
+<LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags} timeToRead={remarkPluginFrontmatter.minutesRead}>
     {nsfw?
         <Content nsfw={nsfw}/>
         :
@@ -55,9 +55,12 @@ const toCensor = await Content.content;
             // <Fragment set:html={toCensor}/>
         )
     }
-    <section>
+    <!-- <section>
         <p>{remarkPluginFrontmatter.minutesRead}</p>
-    </section>
+    </section> -->
+    <!-- <section>
+        {entry.data.innerHTML}
+    </section> -->
     <Fragment slot={'endOfIt'}>
     <!-- {nsfw?
         ""

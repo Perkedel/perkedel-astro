@@ -37,10 +37,10 @@ export async function getStaticPaths() {
 }
 
 const { entry, nsfw=true, isNSFW } = Astro.props;
-const { Content , headings, remarkPluginFrontmatter } = await entry.render();
+const { Content, headings, remarkPluginFrontmatter  } = await entry.render();
 // const { CensoredContent}  = await Content.innerHTML;
 ---
-<LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags}>
+<LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags} timeToRead={remarkPluginFrontmatter.minutesRead}>
     <!-- eee -->
     {nsfw?
         <Content nsfw={nsfw}/>
@@ -54,9 +54,12 @@ const { Content , headings, remarkPluginFrontmatter } = await entry.render();
         }
         </Fragment>
     }
-    <section>
+    <!-- <section>
         <p>{remarkPluginFrontmatter.minutesRead}</p>
-    </section>
+    </section> -->
+    <!-- <section>
+        {entry.data.content}
+    </section> -->
     <Fragment slot={'endOfIt'}>
         <!-- {nsfw?
             ""
