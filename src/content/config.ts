@@ -8,14 +8,16 @@ const postsCollection = defineCollection({
       title: z.string(),
       pubDate: z.date(),
       description: z.string().optional(),
-      author: z.string(),
+      author: z.string().default('Anonymous'),
       image: z.object({
         url: z.string(),
-        alt: z.string()
+        alt: z.string().default('a thumbnail image'),
       }).optional(),
       relatedPosts: z.array(reference('posts')).optional(),
       tags: z.array(z.string()).optional(),
+      footnote: z.string().optional(),
       isNSFW: z.boolean(),
+      nsfw: z.boolean().default(false),
     })
 });
 // Export a single `collections` object to register your collection(s)
