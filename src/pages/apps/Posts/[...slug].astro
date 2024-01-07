@@ -52,15 +52,9 @@ const { Content, headings, remarkPluginFrontmatter } = await entry.render();
             <MaturePostCantShowHere/>
             :
             <Content />
-            // <Fragment set:html={toCensor}/>
         )
     }
-    <!-- <section>
-        <p>{remarkPluginFrontmatter.minutesRead}</p>
-    </section> -->
-    <!-- <section>
-        {entry.data.innerHTML}
-    </section> -->
+    
     <Fragment slot={'endOfIt'}>
     <!-- {nsfw?
         ""

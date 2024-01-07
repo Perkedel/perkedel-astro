@@ -39,7 +39,6 @@ const { Content, headings, remarkPluginFrontmatter } = await entry.render();
 // const { CensoredContent}  = await Content.innerHTML;
 ---
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags} timeToRead={remarkPluginFrontmatter.minutesRead}>
-    <!-- eee -->
     {nsfw?
         <Content />
         :
@@ -48,16 +47,10 @@ const { Content, headings, remarkPluginFrontmatter } = await entry.render();
             <MaturePostCantShowHere/>
             :
             <Content />
-            // <Fragment set:html={toCensor}/>
         }
         </Fragment>
     }
-    <!-- <section>
-        <p>{remarkPluginFrontmatter.minutesRead}</p>
-    </section> -->
-    <!-- <section>
-        {entry.data.content}
-    </section> -->
+    
     <Fragment slot={'endOfIt'}>
         <!-- {nsfw?
             ""
