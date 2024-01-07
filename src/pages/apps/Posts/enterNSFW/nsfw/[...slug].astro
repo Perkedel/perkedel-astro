@@ -16,8 +16,6 @@ import Cardiophilia from '@components/Page/Cardiophilia.astro';
 import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
 import MaturePostCantShowHere from '@components/Messages/MaturePostCantShowHere.astro';
 
-
-
 export async function getStaticPaths() {
     const blogEntries = await getCollection('posts');
     const paths = [
@@ -43,13 +41,13 @@ const { Content, headings, remarkPluginFrontmatter } = await entry.render();
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags} timeToRead={remarkPluginFrontmatter.minutesRead}>
     <!-- eee -->
     {nsfw?
-        <Content nsfw={nsfw}/>
+        <Content />
         :
         <Fragment>
         {entry.data.isNSFW?
             <MaturePostCantShowHere/>
             :
-            <Content nsfw={nsfw}/>
+            <Content />
             // <Fragment set:html={toCensor}/>
         }
         </Fragment>

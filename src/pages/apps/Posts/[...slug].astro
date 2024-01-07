@@ -45,13 +45,13 @@ const { Content, headings, remarkPluginFrontmatter } = await entry.render();
 ---
 <LayoutMDX frontmatter={entry.data} nsfw={nsfw} keywords={entry.data.tags} timeToRead={remarkPluginFrontmatter.minutesRead}>
     {nsfw?
-        <Content nsfw={nsfw}/>
+        <Content />
         :
         
         (entry.data.isNSFW?
             <MaturePostCantShowHere/>
             :
-            <Content nsfw={nsfw}/>
+            <Content />
             // <Fragment set:html={toCensor}/>
         )
     }
