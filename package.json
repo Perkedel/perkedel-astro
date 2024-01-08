@@ -11,6 +11,7 @@
     },
     "devDependencies": {
         "@netlify/plugin-sitemap": "^0.8.1",
+        "@rollup/plugin-yaml": "^4.1.2",
         "@tauri-apps/cli": "^1.2.0",
         "astro": "^4.0.2",
         "astro-remote": "^0.2.4",

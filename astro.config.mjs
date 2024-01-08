@@ -10,6 +10,7 @@ import remarkMermaid from 'astro-diagram/remark-mermaid';
 import webmanifest from "astro-webmanifest";
 import { rssSchema } from '@astrojs/rss';
 import { remarkReadingTime } from './remark-reading-time.mjs';
+import yaml from '@rollup/plugin-yaml';
 
 const robotTxtExtraSays = `
 # Wello
@@ -40,6 +41,9 @@ export default defineConfig({
     //     }
     // },
     base: '/',
+    vite: {
+        plugins: [yaml()]
+    },
     integrations: [
         mdx({
 
