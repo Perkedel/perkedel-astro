@@ -73,9 +73,11 @@ const author = 'JOELwindows7';
 // https://stackoverflow.com/a/2930915/9079640
 // https://stackoverflow.com/a/10398941/9079640
 const repl = '/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g';
+const reple = '\/opt\/build\/repo\/src\/components\/Page\/homestuck\/';
 const rapl = '/\.astro\./g';
+const raplo = '\.astro\.';
 function replacon(input:String){
-    return input.replaceAll(repl,'').replaceAll(rapl,'');
+    return input.replaceAll(reple,'').replaceAll(raplo,'');
 }
 for(let i=0; i < stories.length; i++){
     storySays[i] = [
