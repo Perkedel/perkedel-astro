@@ -71,12 +71,14 @@ const disableOverwhelmStatement = true;
 const author = 'JOELwindows7';
 
 // https://stackoverflow.com/a/2930915/9079640
+// https://stackoverflow.com/a/10398941/9079640
+const repl = '//opt/build/repo/src/components/Page/homestuck/g';
 for(let i=0; i < stories.length; i++){
     storySays[i] = [
-    (stories[i].file || "").replace('/^.*/opt/build/repo/src/components/Page/homestuck.*$/mg','').replace('/^.*.astro.*$/mg',''),
-        (stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").replace('/^.*/opt/build/repo/src/components/Page/homestuck.*$/mg','').replace('/^.*.astro.*$/mg',''),
+    (stories[i].file || "").replace('/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g','').replace('/\.astro./g',''),
+        (stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").replace('/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g','').replace('/\.astro./g',''),
         // profiles[i].photoURL || "/assets/img/mavrickle.png",
-        `/assets/img/StoryPic/${(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").replace('/^.*/opt/build/repo/src/components/Page/homestuck.*$/mg','').replace('/^.*.astro.*$/mg','')}.png` || "/assets/img/mavrickle.png",
+        `/assets/img/StoryPic/${(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").replace('/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g','').replace('/\.astro./g','')}.png` || "/assets/img/mavrickle.png",
     ]
 }
 ---
