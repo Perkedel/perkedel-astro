@@ -88,6 +88,8 @@ export interface Props {
   ejectClarity?:boolean;
   hideInfo?:boolean;
   nsfwConfirmation?:boolean;
+  useCustomGoBack?:Boolean;
+  customGoBack?:String;
   skipHeader?:boolean;
   skipNav?:boolean;
   skipFooter?:boolean;
@@ -170,7 +172,7 @@ const {
   colorScheme = 'light dark',
   ejectClarity = false,
   hideInfo = false,
-  nsfwConfirmation = false,
+  nsfwConfirmation = false, useCustomGoBack = false, customGoBack = '../../..',
   skipHeader = false,
   skipNav = false,
   skipFooter = false,
@@ -427,7 +429,7 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
 <!-- <body BackgroundColor={bgColor} TextColor={textColor} Background={bg}> -->
 <body data-background={bg} data-textcolor={textColor} data-background-light={bgLight} data-textcolor-light={textColorLight}>
   <!-- HEADER -->
-  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} skipHeader={skipHeader} skipNav={skipNav} customHeader={customHeader} selectHeader={selectHeader} addHeaderingClass={addHeaderingClass}>
+  <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} useCustomGoBack={useCustomGoBack} customGoBack={customGoBack} skipHeader={skipHeader} skipNav={skipNav} customHeader={customHeader} selectHeader={selectHeader} addHeaderingClass={addHeaderingClass}>
     <slot name="myHeadering" slot="myHeadering"/>
     <slot name="SettingContains" slot="SettingContains"/>
   </Headering>

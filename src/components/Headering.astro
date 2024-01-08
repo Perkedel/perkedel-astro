@@ -10,6 +10,8 @@ export interface Props {
   addKeywords?:string;
   handoverTitle?:string;
   nsfwConfirmation?:Boolean;
+  useCustomGoBack?:Boolean;
+  customGoBack?:String;
   skipHeader?:boolean;
   skipNav?:boolean;
   selectHeader?:string;
@@ -26,7 +28,7 @@ const {
   addDescriptions='',
   addKeywords='',
   handoverTitle = '???',
-  nsfwConfirmation = false,
+  nsfwConfirmation = false, useCustomGoBack = false, customGoBack = '../../..',
   skipHeader = false,
   skipNav = false,
   selectHeader = 'perkedel',
@@ -100,7 +102,7 @@ const {
   
   {skipNav?"":
     <Fragment>
-      <NavBar handoverTitle={handoverTitle} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation}>
+      <NavBar handoverTitle={handoverTitle} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} useCustomGoBack={useCustomGoBack} customGoBack={customGoBack}>
         <slot name="SettingContains" slot="SettingContains"/>
       </NavBar>
       <hr class="headeringHr"/>

@@ -19,6 +19,9 @@ import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 
 export interface Props{
     nsfw?:Boolean;
+    nsfwConfirmation?:boolean;
+    useCustomGoBack?:Boolean;
+    customGoBack?:String;
     detachedGenital?:Boolean;
     noNeedNSFW?:Boolean; // USE THIS SPARINGLY, E.G. ALL USERS LIST PAGE, NOT TOPIC ENDPOINT PAGE
     addDescriptions?:string;
@@ -46,7 +49,7 @@ export interface Props{
 }
 
 const{
-    nsfw=false,
+    nsfw=false, nsfwConfirmation = false, useCustomGoBack = false, customGoBack = '../../..',
     detachedGenital=false,
     noNeedNSFW=false,
     addDescriptions='???',
@@ -79,6 +82,7 @@ const{
     keywords={"tech, fun, novelty, open source, gratis, free, " + addKeywords}
     author={author}
     rating={(nsfw?"adult":"")}
+    useCustomGoBack={useCustomGoBack} customGoBack={customGoBack}
     skipHeader={skipHeader}
     skipNav={skipNav}
     skipFooter={skipFooter}
@@ -91,10 +95,11 @@ const{
     thumbnailWidth = {thumbnailWidth}
     thumbnailHeight = {thumbnailHeight}
     thumbnailAlt = {thumbnailAlt}
-    thumbnailAudio = {thumbnailAudio},
-    thumbnailVideo = {thumbnailVideo},
-    thumbnailVideoWidth = {thumbnailVideoWidth},
-    thumbnailVideoHeight = {thumbnailVideoHeight},
+    thumbnailAudio = {thumbnailAudio}
+    thumbnailVideo = {thumbnailVideo}
+    thumbnailVideoWidth = {thumbnailVideoWidth}
+    thumbnailVideoHeight = {thumbnailVideoHeight}
+    nsfwConfirmation={nsfwConfirmation} useCustomGoBack={useCustomGoBack} customGoBack={customGoBack}
     >
     <slot name='afterHead' slot='afterHead'/>
     <slot name="myHeadering" slot="myHeadering"/>

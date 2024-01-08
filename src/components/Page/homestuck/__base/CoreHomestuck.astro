@@ -27,10 +27,13 @@ export interface Props{
     disableOverwhelmStatement?:boolean;
     author?:string;
     noNeedNSFW?:boolean;
+    // customGoBack?:String;
+    filename?:String;
 }
 
 const{
     nsfw = false,
+    filename = '???',
     addHeaderTitle = '',
     addMetaTitle = '',
     addKeywords = '',
@@ -40,12 +43,16 @@ const{
     skipFooter = false,
     disableOverwhelmStatement = true,
     author = 'JOELwindows7',
-    noNeedNSFW = true,
+    // customGoBack = '../../..',
 } = Astro.props.frontmatter || Astro.props as Props;
+
+const useCustomGoBack = true;
+const noNeedNSFW = true;
+// const procGoBack = customGoBack;
 ---
 <CorePage
-    nsfw={nsfw}
-    addKeywords={'Homestuck, ' + addKeywords + ''}
+    nsfw={nsfw} useCustomGoBack={useCustomGoBack}
+    addKeywords={'Homestuck, fanfic, fan fiction, story, cyoa, choose your own adventure, ' + addKeywords + ''}
     addDescriptions={addDescriptions}
     addHeaderTitle={addHeaderTitle}
     addMetaTitle={addMetaTitle}
@@ -55,6 +62,7 @@ const{
     skipNav={skipNav}
     skipFooter={skipFooter}
     noNeedNSFW={noNeedNSFW}
+    customGoBack={'../../../'+filename}
     >
     <slot>
         <p>Empty</p>

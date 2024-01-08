@@ -9,9 +9,10 @@ import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningO
 import StatCard from '@components/Elements/SparePart/StatCard.astro';
 import CoreHomestuck from './__base/CoreHomestuck.astro';
 
+const filename = 'TestStuck'
 const addHeaderTitle = 'Testp';
 const addMetaTitle = 'Testp';
-const addKeywords = '';
+const addKeywords = 'test';
 const addDescriptions = '';
 const skipHeader = false;
 const skipNav = false;
@@ -24,7 +25,7 @@ const{
 ---
 <CoreHomestuck
     nsfw={nsfw}
-    addKeywords={'microsites, microsite, website, mini website, minis, ' + addKeywords + ''}
+    addKeywords={addKeywords}
     addDescriptions={addDescriptions}
     addHeaderTitle={addHeaderTitle}
     addMetaTitle={addMetaTitle}
@@ -33,6 +34,7 @@ const{
     skipHeader={skipHeader}
     skipNav={skipNav}
     skipFooter={skipFooter}
+    filename={filename}
 >
     <p>Halo</p>
 </CoreHomestuck>

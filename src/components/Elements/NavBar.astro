@@ -8,10 +8,12 @@ import SettingWindow from './SparePart/Options/SettingWindow.astro';
 import HistoryNavigateArrows from './SparePart/HistoryNavigateArrows.astro';
 import BerakSekarang from './SparePart/NavBtn/BerakSekarang.astro';
 export interface Props {
-  viewSourceURL?: string;
-  handoverTitle?:string;
-  rating?:string;
-  nsfwConfirmation?:Boolean;
+    viewSourceURL?: string;
+    handoverTitle?:string;
+    rating?:string;
+    nsfwConfirmation?:Boolean;
+    useCustomGoBack?:Boolean;
+    customGoBack?:String;
 }
 let currJustAddr = 'https://perkedel.netlify.app/'+Astro.url.pathname; // crack! the hostname returns `localhost` wtf?!
 let doViewSource = 'view-source:' + currJustAddr;
@@ -19,7 +21,7 @@ const {
     viewSourceURL = doViewSource,
     handoverTitle = '???',
     rating = '',
-    nsfwConfirmation = false,
+    nsfwConfirmation = false, useCustomGoBack = false, customGoBack = '../../..',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <nav class="navBar" class="navBar" transition:animate='morph'>
@@ -38,7 +40,7 @@ const {
 
         <!-- Poop button -->
         {(rating.includes('adult'))?
-        <BerakSekarang inConfirmation={nsfwConfirmation}/>
+        <BerakSekarang inConfirmation={nsfwConfirmation} useCustomGoBack={useCustomGoBack} customGoBack={customGoBack}/>
         :
         ""}
 
