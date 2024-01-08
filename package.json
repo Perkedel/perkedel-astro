@@ -5,6 +5,7 @@
     "scripts": {
         "dev": "astro dev",
         "start": "astro dev",
+        "sync": "astro sync",
         "build": "astro build",
         "preview": "astro preview",
         "tauri": "tauri"

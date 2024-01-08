@@ -1,0 +1,64 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CorePage from '@compnents/Page/__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+
+export interface Props{
+    nsfw?:boolean;
+    detachedGenital?:boolean;
+    addHeaderTitle?:string;
+    addMetaTitle?:string;
+    addKeywords?:string;
+    addDescriptions?:string;
+    skipHeader?:boolean;
+    skipNav?:boolean;
+    skipFooter?:boolean;
+    disableOverwhelmStatement?:boolean;
+    author?:string;
+    noNeedNSFW?:boolean;
+}
+
+const{
+    nsfw = false,
+    detachedGenital = true, // make the enter NSFW door not pre-rendered e.g. to avoid evil crawlers like Meta.
+    addHeaderTitle = '',
+    addMetaTitle = '',
+    addKeywords = '',
+    addDescriptions = '',
+    skipHeader = false,
+    skipNav = false,
+    skipFooter = false,
+    disableOverwhelmStatement = true,
+    author = 'JOELwindows7',
+    noNeedNSFW = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CorePage
+    nsfw={nsfw}
+    detachedGenital={detachedGenital}
+    addKeywords={'Homestuck, ' + addKeywords + ''}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    noNeedNSFW={noNeedNSFW}
+    >
+    <slot>
+        <p>Empty</p>
+    </slot>
+</CorePage>
