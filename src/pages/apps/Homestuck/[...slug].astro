@@ -18,6 +18,7 @@ import MaturePostCantShowHere from '@components/Messages/MaturePostCantShowHere.
 
 export async function getStaticPaths() {
     const blogEntries = await Astro.glob('/src/components/Page/Homestuck/*.astro');
+    // const contains = await blogEntries.map((blog))
     const paths = [
         {
             path: undefined,
@@ -37,6 +38,6 @@ export async function getStaticPaths() {
 const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
 
 const { entry, nsfw=false, isNSFW } = Astro.props;
-const { Content, headings, remarkPluginFrontmatter } = await entry.render();
+const { Content} = await entry.render();
 ---
 <Content/>
