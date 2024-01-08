@@ -2,9 +2,11 @@
 import BerakButton from "../BerakButton.astro";
 export interface Props{
     inConfirmation?:Boolean;
+    useCustomGoBack?:Boolean;
+    customGoBack?:String;
 }
 
-const{ inConfirmation = false} = Astro.props.frontmatter || Astro.props as Props;
+const{ inConfirmation = false, useCustomGoBack = false, customGoBack = '../../..',} = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- Flush NSFW. Return to SFW version. for us we go back 2 times (enterNSFW then regular sfw) -->
-<li class="NavHistoryPutLeft"><BerakButton inConfirmation={inConfirmation}/></li>
+<li class="NavHistoryPutLeft"><BerakButton inConfirmation={inConfirmation} useCustomGoBack={useCustomGoBack} customGoBack={customGoBack}/></li>
