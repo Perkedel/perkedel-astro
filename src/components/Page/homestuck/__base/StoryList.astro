@@ -72,13 +72,17 @@ const author = 'JOELwindows7';
 
 // https://stackoverflow.com/a/2930915/9079640
 // https://stackoverflow.com/a/10398941/9079640
-const repl = '//opt/build/repo/src/components/Page/homestuck/g';
+const repl = '/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g';
+const rapl = '/\.astro\./g';
+function replacon(input:String){
+    return input.replace(repl,'').replace(rapl,'');
+}
 for(let i=0; i < stories.length; i++){
     storySays[i] = [
-    (stories[i].file || "").replace('/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g','').replace('/\.astro./g',''),
-        (stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").replace('/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g','').replace('/\.astro./g',''),
+    replacon(stories[i].file || ""),
+        replacon(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???"),
         // profiles[i].photoURL || "/assets/img/mavrickle.png",
-        `/assets/img/StoryPic/${(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").replace('/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g','').replace('/\.astro./g','')}.png` || "/assets/img/mavrickle.png",
+        `/assets/img/StoryPic/${replacon(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???")}.png` || "/assets/img/mavrickle.png",
     ]
 }
 ---
