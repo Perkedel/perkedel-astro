@@ -17,7 +17,7 @@ import MaturePostCantShowHere from '@components/Messages/MaturePostCantShowHere.
 
 
 export async function getStaticPaths() {
-    const blogEntries = await Astro.glob('@components/Page/Homestuck/*.astro');
+    const blogEntries = await Astro.glob('/src/components/Page/Homestuck/*.astro');
     const paths = [
         {
             path: undefined,
