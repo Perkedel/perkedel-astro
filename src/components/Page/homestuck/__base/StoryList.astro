@@ -79,8 +79,8 @@ function replacon(input:String){
 }
 for(let i=0; i < stories.length; i++){
     storySays[i] = [
-    replacon(stories[i].file || ""),
-        replacon(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???"),
+    replacon(stories[i].file),
+        replacon(stories[i].file ),
         // profiles[i].photoURL || "/assets/img/mavrickle.png",
         `/assets/img/StoryPic/${replacon(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???")}.png` || "/assets/img/mavrickle.png",
     ]
