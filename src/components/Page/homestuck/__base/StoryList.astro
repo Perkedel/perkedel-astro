@@ -57,13 +57,13 @@ const {
     title = '', 
     text= '',
     nsfw = false,
-    
+    storyListing=[[".","Empty","/assets/img/mavrickle.png"]],
 } = Astro.props.frontmatter || Astro.props as Props;
 
-const addHeaderTitle = '';
-const addMetaTitle = '';
-const addKeywords = '';
-const addDescriptions = '';
+const addHeaderTitle = 'Stories';
+const addMetaTitle = 'Stories';
+const addKeywords = 'Homestuck, ';
+const addDescriptions = 'Game story sketch';
 const skipHeader = false;
 const skipNav = false;
 const skipFooter = false;
@@ -81,7 +81,7 @@ for(let i=0; i < stories.length; i++){
 ---
 <CorePage
     nsfw={nsfw}
-    addKeywords={'Homestuck, ' + addKeywords + ''}
+    addKeywords={addKeywords}
     addDescriptions={addDescriptions}
     addHeaderTitle={addHeaderTitle}
     addMetaTitle={addMetaTitle}
@@ -91,9 +91,10 @@ for(let i=0; i < stories.length; i++){
     skipNav={skipNav}
     skipFooter={skipFooter}
     >
+    <p>Stories pls</p>
     <ul>
         {
-            stories.map(story=>(
+            storySays.map(story=>(
                 <li>
                     <ButtonizedLink href={story[0]}>
                         
