@@ -1,0 +1,110 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import Cardiophilia from '@components/Page/Cardiophilia.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import CorePage from '@components/Page/__CorePage.astro';
+
+export interface Props{
+    title?:string;
+    text?:string;
+    nsfw?:boolean;
+}
+
+const stories = await Astro.glob('../*.astro'); // <- & this too, VERY IMPORTANT.
+
+let storySays:Array<Array<string|undefined>> = [
+    ["",""]
+];
+
+
+export function getStaticPaths(){
+    const pages = [
+      {
+        index: undefined,
+        title: "Posts",
+        text: "Welcome to the StoryMachine!",
+        nsfw:false,
+      },
+      {
+        index: "enterNSFW/nsfw",
+        title: "Posts 69",
+        text: "Welcome to the StoryMachine!",
+        nsfw:true,
+      },
+    ];
+    return pages.map(({ index, title, text, nsfw }) => {
+      return {
+        params: { index },
+        props: { title, text, nsfw },
+      };
+    });
+}
+
+const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
+
+// const allPosts = await getCollection("posts");
+const { 
+    title = '', 
+    text= '',
+    nsfw = false,
+    
+} = Astro.props.frontmatter || Astro.props as Props;
+
+const addHeaderTitle = '';
+const addMetaTitle = '';
+const addKeywords = '';
+const addDescriptions = '';
+const skipHeader = false;
+const skipNav = false;
+const skipFooter = false;
+const disableOverwhelmStatement = true;
+const author = 'JOELwindows7';
+
+for(let i=0; i < stories.length; i++){
+    storySays[i] = [
+    stories[i].url || "",
+        (stories[i].url || "/apps/Homestuck/???").substring("/apps/Homestuck/".length),
+        // profiles[i].photoURL || "/assets/img/mavrickle.png",
+        `/assets/img/StoryPic/${(stories[i].url || "/apps/Homestuck/???").substring("/apps/Homestuck/".length)}.png` || "/assets/img/mavrickle.png",
+    ]
+}
+---
+<CorePage
+    nsfw={nsfw}
+    addKeywords={'Homestuck, ' + addKeywords + ''}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    >
+    <ul>
+        {
+            stories.map(story=>(
+                <li>
+                    <ButtonizedLink href={story[0]}>
+                        
+                         
+                        {story[1]}
+                    </ButtonizedLink>
+                </li>
+            )
+            )
+        }
+    </ul>
+    <!-- <img src={story[2]} alt={`${story[1]}'s Thumbnail`} height='32px' transition:name={`Thumbnail-${story[1]}`}/> -->
+    <!-- <Icon height="24px" name="mdi:person-card-details" /> -->
+</CorePage>

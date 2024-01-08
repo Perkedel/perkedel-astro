@@ -31,7 +31,6 @@ export interface Props{
 
 const{
     nsfw = false,
-    detachedGenital = true, // make the enter NSFW door not pre-rendered e.g. to avoid evil crawlers like Meta.
     addHeaderTitle = '',
     addMetaTitle = '',
     addKeywords = '',
@@ -41,7 +40,7 @@ const{
     skipFooter = false,
     disableOverwhelmStatement = true,
     author = 'JOELwindows7',
-    noNeedNSFW = false,
+    noNeedNSFW = true,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <CorePage
