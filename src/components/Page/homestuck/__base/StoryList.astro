@@ -75,7 +75,7 @@ const author = 'JOELwindows7';
 const repl = '/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g';
 const rapl = '/\.astro\./g';
 function replacon(input:String){
-    return input.replace(repl,'').replace(rapl,'');
+    return input.replaceAll(repl,'').replaceAll(rapl,'');
 }
 for(let i=0; i < stories.length; i++){
     storySays[i] = [
