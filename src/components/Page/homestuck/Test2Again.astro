@@ -1,0 +1,40 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CorePage from '@compnents/Page/__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreHomestuck from './__base/CoreHomestuck.astro';
+
+const filename = 'Test2Again'
+const addHeaderTitle = 'Testp2';
+const addMetaTitle = 'Testp2';
+const addKeywords = 'test2';
+const addDescriptions = '2';
+const skipHeader = false;
+const skipNav = false;
+const skipFooter = false;
+const disableOverwhelmStatement = true;
+const author = 'JOELwindows7';
+
+const{
+    nsfw = false,} = Astro.props;
+---
+<CoreHomestuck
+    nsfw={nsfw}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    filename={filename}
+>
+    <p>Halo again</p>
+</CoreHomestuck>
