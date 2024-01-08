@@ -73,9 +73,9 @@ const author = 'JOELwindows7';
 for(let i=0; i < stories.length; i++){
     storySays[i] = [
     stories[i].file || "",
-        (stories[i].file || "src/components/Page/homestuck/???").substring("src/components/Page/homestuck/".length, '.astro'.length),
+        (stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").substring("/opt/build/repo/src/components/Page/homestuck/???".length, '.astro'.length),
         // profiles[i].photoURL || "/assets/img/mavrickle.png",
-        `/assets/img/StoryPic/${(stories[i].file || "/apps/Homestuck/???").substring("/apps/Homestuck/".length, '.astro'.length)}.png` || "/assets/img/mavrickle.png",
+        `/assets/img/StoryPic/${(stories[i].file || "/opt/build/repo/src/components/Page/homestuck/???").substring("/opt/build/repo/src/components/Page/homestuck/???".length, '.astro'.length)}.png` || "/assets/img/mavrickle.png",
     ]
 }
 ---
