@@ -40,7 +40,7 @@ export async function getStaticPaths() {
         },
     ]
     return blogEntries.map(entry => ({
-        params: { slug: replacon(entry.file) },
+        params: { slug: entry.file.replaceAll(repl).replaceAll(raplo) },
         props: { entry },
     }));
 }
