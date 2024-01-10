@@ -30,7 +30,7 @@ export async function getStaticPaths() {
         },
     ]
     return blogEntries.map(entry => ({
-        params: { slug: entry.url },
+        params: { slug: entry.file },
         props: { entry },
     }));
 }
