@@ -5,7 +5,7 @@ import rss, {
 import { getCollection } from "astro:content";
 
 // was export const get = () => rss({})
-export async function get() {
+export async function GET() {
     let posts = await getCollection('posts');
     let installPost = posts.map((post) => ({
         title: post.data.title,

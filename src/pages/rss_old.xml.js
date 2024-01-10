@@ -5,7 +5,7 @@ import rss, {
 import { getCollection } from "astro:content";
 
 // was export const get = () => rss({})
-export async function get() {
+export async function GET() {
     // let metaGlob = await import.meta.glob('./**/*.mdx');
     let metaGlob = await pagesGlobToRssItems(
         import.meta.glob('./**/*.{md,mdx}'),
