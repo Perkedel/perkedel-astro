@@ -1651,12 +1651,13 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 
 /* JOELwindows7 */
 .HS.JOELwindows7::before {
-    content: var(--HS-JOELwindows7-prefixConsecutive);
-}
-.HS.JOELwindows7:nth-child(-n+1)::before {
+    /* content: var(--HS-JOELwindows7-prefixConsecutive); */
     content: var(--HS-JOELwindows7-prefix);
-    /* --HS-JOELwindows7-Name: var(--HS-JOELwindows7-NameInit); */
 }
+/* .HS.JOELwindows7:nth-child(-n+1)::before {
+    content: var(--HS-JOELwindows7-prefix); */
+    /* --HS-JOELwindows7-Name: var(--HS-JOELwindows7-NameInit); */
+/* } */
 
 /* Arn */
 .HS.Arn::before {
