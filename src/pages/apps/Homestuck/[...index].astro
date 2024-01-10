@@ -1,0 +1,29 @@
+---
+import StoryList from "@components/Page/homestuck/__base/StoryList.astro";
+
+export function getStaticPaths(){
+    const pages = [
+      {
+        index: undefined,
+        title: "DialogLog",
+        text: "Welcome to the StoryMachineMachine!",
+        nsfw:false,
+      },
+      {
+        index: "enterNSFW/nsfw",
+        title: "DialogLog 69",
+        text: "Welcome to the StoryMachine! 69420",
+        nsfw:true,
+      },
+    ];
+    return pages.map(({ index, title, text, nsfw }) => {
+      return {
+        params: { index },
+        props: { title, text, nsfw },
+      };
+    });
+}
+
+const { title, text, nsfw } = Astro.props.frontmatter || Astro.props as Props;
+---
+<StoryList nsfw={nsfw}/>
