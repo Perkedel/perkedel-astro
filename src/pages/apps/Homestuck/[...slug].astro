@@ -22,7 +22,7 @@ const repl = '/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g';
 const reple = '\/opt\/build\/repo\/src\/components\/Page\/homestuck\/';
 const rapl = '/\.astro\./g';
 const raplo = '\.astro';
-function replacon(input:String){
+async function replacon(input:String){
     return input.replaceAll(reple,'').replaceAll(raplo,'');
 }
 
@@ -40,7 +40,9 @@ export async function getStaticPaths() {
         },
     ]
     return blogEntries.map(entry => ({
-        params: { slug: await entry.file.replaceAll('\/opt\/build\/repo\/src\/components\/Page\/homestuck\/').replaceAll('\.astro') },
+        // params: { slug: await entry.file.replaceAll('\/opt\/build\/repo\/src\/components\/Page\/homestuck\/').replaceAll('\.astro') },
+        // params: { slug: await replacon(entry.file),}
+        params: { slug: entry.file.replaceAll('\/opt\/build\/repo\/src\/components\/Page\/homestuck\/','').replaceAll('\.astro',''),}
         props: { entry },
     }));
 }
