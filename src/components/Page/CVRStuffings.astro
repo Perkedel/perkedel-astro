@@ -47,13 +47,23 @@ const contribContent = marked.parse(contribMd);
     >
     <p>Here are stuffs we made for ChilloutVR</p>
     <h2>Get Started</h2>
+    <h3>Setup</h3>
+    <p>
+        First, <ButtonizedLink href='https://store.steampowered.com/app/661130/ChilloutVR/' openInNewTab={true}>Download ChilloutVR (AlphaBlend Interactive)</ButtonizedLink>.<br/>
+        Then search below world!
+    </p>
     <h3>Visit</h3>
     <p>Visit these worlds</p>
     <ul>
-        <li>Dice Glow</li>
-        <li>Dice Glow Pt. 2</li>
+        <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=56925a80-f3d7-40c3-ab06-3d2b299ab77b' openInNewTab={true}>Zuuljedus' home world</ButtonizedLink></li>
+        <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=6b1b8855-9196-4e21-a418-f52a862651af' openInNewTab={true}>Dice Glow</ButtonizedLink></li>
+        <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=576dd214-4d23-4441-86f1-d0f56f3095da' openInNewTab={true}>Dice Glow Pt. 2</ButtonizedLink></li>
+        <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=6055a6c3-e589-45dc-a2c2-5de2d83ae449' openInNewTab={true}>Moving Spawns</ButtonizedLink></li>
+        <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=dd4303c8-3f5c-4fed-9d37-21e8836310e3' openInNewTab={true}>iPoly's Low Poly Server Room</ButtonizedLink></li>
+        <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=8f9c2b14-dba4-490c-b868-edacbc27516f' openInNewTab={true}>Surround Sound Mute Tester</ButtonizedLink> <b class='error'>not working properly</b></li>
+        <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=d55da2f2-6349-4558-ad6e-f74ce92945af' openInNewTab={true}>Minimum World</ButtonizedLink> <b class='error'>not reducing size</b></li>
         {nsfw?<Fragment>
-            <li>Corn Syrup</li>
+            <li><ButtonizedLink href='https://hub.abinteractive.net/worlds/detail?id=604d2db5-93b4-4511-8b53-a66e16cc6325' openInNewTab={true}>Corn Syrup</ButtonizedLink></li>
             </Fragment>
         :""}
     </ul>
