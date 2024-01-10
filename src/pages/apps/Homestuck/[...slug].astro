@@ -16,6 +16,16 @@ import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astr
 import MaturePostCantShowHere from '@components/Messages/MaturePostCantShowHere.astro';
 
 
+// https://stackoverflow.com/a/2930915/9079640
+// https://stackoverflow.com/a/10398941/9079640
+const repl = '/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g';
+const reple = '\/opt\/build\/repo\/src\/components\/Page\/homestuck\/';
+const rapl = '/\.astro\./g';
+const raplo = '\.astro';
+function replacon(input:String){
+    return input.replaceAll(reple,'').replaceAll(raplo,'');
+}
+
 export async function getStaticPaths() {
     const blogEntries = await Astro.glob('/src/components/Page/homestuck/*.astro');
     // const contains = await blogEntries.map((blog))
@@ -30,7 +40,7 @@ export async function getStaticPaths() {
         },
     ]
     return blogEntries.map(entry => ({
-        params: { slug: entry.file },
+        params: { slug: replaceon(entry.file) },
         props: { entry },
     }));
 }
