@@ -53,4 +53,4 @@ const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
 const { entry, nsfw=false, isNSFW } = Astro.props;
 const { Content} = await entry.default;
 ---
-<entry.default/>
+<entry.default nsfw={nsfw}/>
