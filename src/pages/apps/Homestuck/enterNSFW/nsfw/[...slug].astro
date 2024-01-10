@@ -1,0 +1,56 @@
+---
+import LayoutMDX from '@components/LayoutMDX.astro';
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import Cardiophilia from '@components/Page/Cardiophilia.astro';
+import EnterNSFWButton from '@components/Elements/SparePart/EnterNSFWButton.astro';
+import MaturePostCantShowHere from '@components/Messages/MaturePostCantShowHere.astro';
+
+
+// https://stackoverflow.com/a/2930915/9079640
+// https://stackoverflow.com/a/10398941/9079640
+const repl = '/\/opt\/build\/repo\/src\/components\/Page\/homestuck\//g';
+const reple = '\/opt\/build\/repo\/src\/components\/Page\/homestuck\/';
+const rapl = '/\.astro\./g';
+const raplo = '\.astro';
+async function replacon(input:String){
+    return input.replaceAll(reple,'').replaceAll(raplo,'');
+}
+
+export async function getStaticPaths() {
+    const blogEntries = await Astro.glob('/src/components/Page/homestuck/*.astro');
+    // const contains = await blogEntries.map((blog))
+    const paths = [
+        {
+            path: undefined,
+            nsfw:false,
+        },
+        {
+            path: "enterNSFW/nsfw",
+            nsfw:true,
+        },
+    ]
+    return blogEntries.map(entry => ({
+        // params: { slug: await entry.file.replaceAll('\/opt\/build\/repo\/src\/components\/Page\/homestuck\/').replaceAll('\.astro') },
+        // params: { slug: await replacon(entry.file),},
+        params: { slug: entry.file.replaceAll('\/opt\/build\/repo\/src\/components\/Page\/homestuck\/','').replaceAll('\.astro',''),},
+        props: { entry },
+    }));
+}
+
+
+const canonicalURL:URL = new URL(Astro.url.pathname, Astro.site);
+
+const { entry, nsfw=true, isNSFW } = Astro.props;
+const { Content} = await entry.default;
+---
+<entry.default nsfw={nsfw}/>

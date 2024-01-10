@@ -9,22 +9,23 @@ import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningO
 import StatCard from '@components/Elements/SparePart/StatCard.astro';
 import CoreHomestuck from './__base/CoreHomestuck.astro';
 
-const filename = 'TestStuck'
-const addHeaderTitle = 'Testp';
-const addMetaTitle = 'Testp';
-const addKeywords = 'test';
-const addDescriptions = '';
-const skipHeader = false;
-const skipNav = false;
-const skipFooter = false;
-const disableOverwhelmStatement = true;
-const author = 'JOELwindows7';
+const filename:String = 'TestStuck'
+const isNSFW:Boolean = false;
+const addHeaderTitle:String = 'Testp';
+const addMetaTitle:String = 'Testp';
+const addKeywords:String = 'test';
+const addDescriptions:String = '';
+const skipHeader:Boolean = false;
+const skipNav:Boolean = false;
+const skipFooter:Boolean = false;
+const disableOverwhelmStatement:Boolean = true;
+const author:String = 'JOELwindows7';
 
 const{
     nsfw = false,} = Astro.props;
 ---
 <CoreHomestuck
-    nsfw={nsfw}
+    nsfw={nsfw} isnsfw={isnsfw}
     addKeywords={addKeywords}
     addDescriptions={addDescriptions}
     addHeaderTitle={addHeaderTitle}

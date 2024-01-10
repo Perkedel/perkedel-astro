@@ -33,6 +33,7 @@ export interface Props{
 
 const{
     nsfw = false,
+    isNSFW = false,
     filename = '???',
     addHeaderTitle = '',
     addMetaTitle = '',
@@ -64,7 +65,26 @@ const noNeedNSFW = true;
     noNeedNSFW={noNeedNSFW}
     customGoBack={'../../../'+filename}
     >
-    <slot>
-        <p>Empty</p>
-    </slot>
+    {isNSFW?
+        <Fragment>
+            {nsfw?
+                <Fragment>
+                    <slot>
+                    <p>Empty</p>
+                    </slot>
+                </Fragment>
+                :
+                <Fragment>
+                    <p class='error'>Sorry, this DialogLog is fully NSFW, but you have not enabled 69420 mode. Please go back to <a href='/apps/Homestuck'>Story List</a> and enable it. <b>You must be biologically mature! (18+)</b></p>
+                </Fragment>
+            }
+        </Fragment>
+        :
+        <Fragment>
+            <slot>
+            <p>Empty</p>
+            </slot>
+        </Fragment>
+    }
+    
 </CorePage>
