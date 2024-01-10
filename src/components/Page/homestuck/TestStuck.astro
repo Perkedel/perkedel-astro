@@ -20,6 +20,11 @@ const skipNav:boolean = false;
 const skipFooter:boolean = false;
 const disableOverwhelmStatement:boolean = true;
 const author:String = 'JOELwindows7';
+const company:String = 'Perkedel Technologies';
+const licenseSay:String = 'CC4.0-BY-SA';
+const companyImgSrc:String = '/Perkedel_Icon.png';
+const licenseImgSrc:String = '';
+const licenseUrl:String = '';
 
 const{
     nsfw = false,} = Astro.props;
@@ -36,6 +41,12 @@ const{
     skipNav={skipNav}
     skipFooter={skipFooter}
     filename={filename}
+    endSay={endSay}
+    author={author}
+    company={company}
+    companyImgSrc={companyImgSrc}
+    licenseSay={licenseSay}
+    licenseImgSrc={licenseImgSrc}
 >
     <p>Halo</p>
 </CoreHomestuck>

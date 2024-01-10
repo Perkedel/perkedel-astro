@@ -1,0 +1,28 @@
+---
+export interface Props{
+    author?: string;
+    endSay?: string;
+    company?: string;
+    companyImgSrc?: string;
+    licenseSay?: string;
+    licenseImgSrc?: string;
+    licenseUrl?: string;
+}
+
+const{
+    endSay = 'End',
+    author = 'Anonymous',
+    company = 'Perkedel Technologies',
+    licenseSay = 'CC4.0-BY-SA',
+    companyImgSrc = '/Perkedel_Icon.png',
+    licenseImgSrc = '',
+    licenseUrl = '',
+}= Astro.props.frontmatter || Astro.props as Props;
+---
+<h2 set:html={endSay}/>
+    <p>
+        <!-- <span set:html={'by '+author}/><br/> -->
+        <span>by <b><a href={`/apps/profile/@${author}`}>{author}</a></b></span><br/>
+        <img src={companyImgSrc} alt='company logo' height='10px'/> <span set:html={company}/><br/>
+        <span set:html={licenseSay}/><br/>
+    </p>

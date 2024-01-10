@@ -13,8 +13,15 @@ import Emoji from 'astro-emoji';
 import CorePage from '@components/Page/__CorePage.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import Watermarking from '@components/Messages/Watermarking';
 
 export interface Props{
+    endSay?: string;
+    company?: string;
+    companyImgSrc?: string;
+    licenseSay?: string;
+    licenseImgSrc?: string;
+    licenseUrl?: string;
     nsfw?:boolean;
     isNSFW?:boolean;
     detachedGenital?:boolean;
@@ -45,6 +52,13 @@ const{
     skipFooter = false,
     disableOverwhelmStatement = true,
     author = 'JOELwindows7',
+    endSay = 'End',
+    author = 'Anonymous',
+    company = 'Perkedel Technologies',
+    licenseSay = 'CC4.0-BY-SA',
+    companyImgSrc = '/Perkedel_Icon.png',
+    licenseImgSrc = '',
+    licenseUrl = '',
     // customGoBack = '../../..',
 } = Astro.props.frontmatter || Astro.props as Props;
 
@@ -88,4 +102,12 @@ const noNeedNSFW = true;
         </Fragment>
     }
     
+    <Watermarking 
+        endSay={endSay}
+        author={author}
+        company={company}
+        companyImgSrc={companyImgSrc}
+        licenseSay={licenseSay}
+        licenseImgSrc={licenseImgSrc}
+    />
 </CorePage>
