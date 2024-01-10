@@ -40,7 +40,7 @@ export async function getStaticPaths() {
         },
     ]
     return blogEntries.map(entry => ({
-        params: { slug: entry.file.replaceAll(repl).replaceAll(raplo) },
+        params: { slug: entry.file.replaceAll('\/opt\/build\/repo\/src\/components\/Page\/homestuck\/').replaceAll('\.astro') },
         props: { entry },
     }));
 }
