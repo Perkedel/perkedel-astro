@@ -99,6 +99,8 @@ You can further make crazy the style with below classes
     /*  */
     --HS-Hemospectrum-Blue: #004182;
     /*  */
+    --HS-Hemospectrum-BlueFull: #0000ff;
+    /*  */
     --HS-Hemospectrum-BlueGreener: #005682; /* Who's error here, this is Vriska's & some other's blood color. */
     /*  */
     --HS-Hemospectrum-BlueBright: #3796c6; /* Many Blue characters featured in Hiveswap had this text color. */
@@ -112,6 +114,7 @@ You can further make crazy the style with below classes
     --HS-Hemospectrum-Indigo: #0021cb;
     /*  */
     --HS-Hemospectrum-IndigoDim: #000056; /* Use this for text color e.g. Equius Zahhak, Aradia but bot, etc. */
+    /*  */
     --HS-Hemospectrum-IndigoBitBright: #2121ac; /* Use this for text color e.g. Equius Zahhak, Aradia but bot, etc. */
     /*  */
     --HS-Hemospectrum-IndigoBright: #6464ff; /* Hiveswap Indigo characters uses this text color. */
@@ -167,6 +170,7 @@ You can further make crazy the style with below classes
     --HS-Hemospectrum-CyanKaorfa: rgba(125,255,255,1); /* Joel Robert Justiawan. */
     /*  */
     --HS-Hemospectrum-Orange: #ffa500; /* Baser Sediron. */
+    /*  */
     --HS-Hemospectrum-OrangeOranger: #f2a400; /* Dirk Strider. */
     --HS-Hemospectrum-Yellow: #FFFF00; /* Ananda Topilar. */
     --HS-Hemospectrum-YellowOrange: #FFC600; /* Avril Thorpe. */
@@ -1148,11 +1152,34 @@ You can further make crazy the style with below classes
 
     /* Tirta Gupadi. Viscous water gel slime blue girl with more viscous heart organ. 2nd descendant. */
     --HS-TirtaGupadi-color: var(--HS-Hemospectrum-BlueGreener);
-    --HS-TirtaGupadi-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-TirtaGupadi-bgColor: var(--HS-Hemospectrum-IndigoDim);
     --HS-TirtaGupadi-prefix: "Tirta Gupadi: " / "Teer Taa lar goop pah dee says, ";
     --HS-TirtaGupadi-fontStyle: normal;
 
-    /*  */
+    /* Appinn Deyo. Playful moderator & head system technician */
+    --HS-TirtaGupadi-color: var(--HS-Hemospectrum-Green);
+    --HS-TirtaGupadi-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-TirtaGupadi-prefix: "Appinn Deyo: " / "Up pin dayoh says, ";
+    --HS-TirtaGupadi-fontStyle: normal;
+
+    /* Pastor John Halim. gf's dad. Problematic, banished by churches for horrible behaviour */
+    --HS-JohnHalim-color: var(--HS-Hemospectrum-RustBrighter);
+    --HS-JohnHalim-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-JohnHalim-prefix: "Pastor John Halim: " / "Pastor John Haa leem says, ";
+    --HS-JohnHalim-fontStyle: normal;
+
+
+    /* Mindy Halim. son of John Halim. Ex of Baser. After Baser screwed up a bit her younger brother during group project over incomplete bibliography, she hates him permanent forever. */
+    --HS-MindyHalim-color: var(--HS-Hemospectrum-Purple);
+    --HS-MindyHalim-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-MindyHalim-prefix: "Mindy Halim: " / "Mindy Haa leem says, ";
+    --HS-MindyHalim-fontStyle: normal;
+
+    /* SEDIRON MODERATORS */
+
+    /* (Base) Moderator colors */
+    --HS-SocialModerators-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-SocialModerators-bgColor: var(--HS-Hemospectrum-Clear);
 
     /* EXTRA COLORED */
 
@@ -1632,6 +1659,12 @@ You can also customize the type of the information
     /* Now, Caliborn, you can scream as much as you like yey! */
 }
 
+/* Baser Sediron */
+.HS.BaserSediron, .HS-Name.BaserSediron, .HS-Dialog.BaserSediron {
+    color: var(--HS-BaserSediron-color);
+    background-color: var(--HS-BaserSediron-bgColor);
+}
+
 /* End Color overridenings */
 
 /* Names */
@@ -1972,6 +2005,36 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Lord English */
 .HS.LordEnglish::before {
     content: var(--HS-LordEnglish-prefix);
+}
+
+/* Baser Sediron */
+.HS.BaserSediron::before {
+    content: var(--HS-BaserSediron-prefix);
+}
+
+/* Teddy Sediron */
+.HS.BaserSediron::before {
+    content: var(--HS-BaserSediron-prefix);
+}
+
+/* Hamlet Sediron */
+.HS.HamletSediron::before {
+    content: var(--HS-BaserSediron-prefix);
+}
+
+/* Duron Sediron */
+.HS.HamletSediron::before {
+    content: var(--HS-DuronSediron-prefix);
+}
+
+/* Ananda Topilar */
+.HS.AnandaTopilar::before {
+    content: var(--HS-AnandaTopilar-prefix);
+}
+
+/* Nylar Rumanod */
+.HS.NylarRumanod::before {
+    content: var(--HS-NylarRumanod-prefix);
 }
 
 /* 
