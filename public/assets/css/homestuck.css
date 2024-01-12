@@ -1140,6 +1140,20 @@ You can further make crazy the style with below classes
     --HS-Nylar-prefix: "Nylar Rumanod: " / "Nye lar Room maan nodd says, ";
     --HS-Nylar-fontStyle: normal;
 
+    /* Chalar Gupadi. Pink Furry Fox girl. 1st descendant. Wife of Duron. Head PR since season 2 of Sediron */
+    --HS-NylarGupadi-color: var(--HS-Hemospectrum-BlueGreener);
+    --HS-NylarGupadi-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-NylarGupadi-prefix: "Chalar Gupadi: " / "Chal lar goop pah dee says, ";
+    --HS-NylarGupadi-fontStyle: normal;
+
+    /* Tirta Gupadi. Viscous water gel slime blue girl with more viscous heart organ. 2nd descendant. */
+    --HS-TirtaGupadi-color: var(--HS-Hemospectrum-BlueGreener);
+    --HS-TirtaGupadi-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-TirtaGupadi-prefix: "Tirta Gupadi: " / "Teer Taa lar goop pah dee says, ";
+    --HS-TirtaGupadi-fontStyle: normal;
+
+    /*  */
+
     /* EXTRA COLORED */
 
     /* Unknown. Character undefined in this CSS, or explicitly chosen. You may call these intentionally unnamed character (not explicit Unknown before reveal) "Cooling Fan" or "Kipas Angin" (you can even add honorary prefix like "Mr. / Bapak / Pak" & "Mrs. / Ms. / Ibu / Nyonya / Mbak"). I don't care you laughed either jokingly or an insult (like I did discussed somewhere around AHiT community way long time ago..), but I am serious. NAME YOUR CHARACTER, LAH!! */
