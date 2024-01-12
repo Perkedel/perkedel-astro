@@ -166,7 +166,9 @@ You can further make crazy the style with below classes
     /*  */
     --HS-Hemospectrum-CyanKaorfa: rgba(125,255,255,1); /* Joel Robert Justiawan. */
     /*  */
+    --HS-Hemospectrum-Orange: #ffa500; /* Baser Sediron. */
     --HS-Hemospectrum-OrangeOranger: #f2a400; /* Dirk Strider. */
+    --HS-Hemospectrum-Yellow: #FFFF00; /* Ananda Topilar. */
     --HS-Hemospectrum-YellowOrange: #FFC600; /* Avril Thorpe. */
     /*  */
     --HS-Hemospectrum-Creme: #d3ff8f; /* Jude Harley. */
@@ -187,7 +189,6 @@ You can further make crazy the style with below classes
     --HS-Hemospectrum-ClearOpaqueWhite50: rgba(255,255,255,.5); /* stain glass */
     /*  */
     --HS-Hemospectrum-ClearOpaqueWhite75: rgba(255,255,255,.75); /* stain glass */
-    
     /* end homospectrum */
 
     /* Extra Stuffs */
@@ -1101,6 +1102,44 @@ You can further make crazy the style with below classes
     --HS-SnowmanFelt-prefix: "🎱 Snowman: " / "Snowman says, ";
     /* Text color keyframes from init to end! */
 
+    /* SEDIRON SOCIAL MEDIA */
+
+    /* Baser Sediron. Founder & CEO of Sediron inc., the social media */
+    --HS-BaserSediron-color: var(--HS-Hemospectrum-Orange);
+    --HS-BaserSediron-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-BaserSediron-prefix: "Baser Sediron: " / "Baser Seu dee ron says, ";
+    --HS-BaserSediron-fontStyle: normal;
+
+    /* Hamlet Sediron. Father of Baser */
+    --HS-HamletSediron-color: var(--HS-Hemospectrum-Orange);
+    --HS-HamletSediron-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-HamletSediron-prefix: "Hamlet Sediron: " / "Hamlet Seu dee ron says, ";
+    --HS-HamletSediron-fontStyle: normal;
+
+    /* Ananda Topilar. Mother of Baser */
+    --HS-AnandaTopilar-color: var(--HS-Hemospectrum-Yellow);
+    --HS-AnandaTopilar-bgColor: var(--HS-Hemospectrum-GrayGrayer);
+    --HS-AnandaTopilar-prefix: "Ananda Topilar: " / "Ananda Top Pill Lar says, ";
+    --HS-AnandaTopilar-fontStyle: normal;
+
+    /* Duron Sediron. Son of Baser */
+    --HS-DuronSediron-color: var(--HS-Hemospectrum-Orange);
+    --HS-DuronSediron-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-DuronSediron-prefix: "Duron Sediron: " / "Duron Seu dee ron says, ";
+    --HS-DuronSediron-fontStyle: normal;
+
+    /* Teddy Sediron. Young brother of Duron */
+    --HS-TeddySediron-color: var(--HS-Hemospectrum-Yellow);
+    --HS-TeddySediron-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-TeddySediron-prefix: "Teddy Sediron: " / "Teddy Seu dee ron says, ";
+    --HS-TeddySediron-fontStyle: normal;
+
+    /* Nylar Rumanod. Mother of Duron, Wife of Baser. Shapeshifter. */
+    --HS-Nylar-color: var(--HS-Hemospectrum-MagentaBright);
+    --HS-Nylar-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-Nylar-prefix: "Nylar Rumanod: " / "Nye lar Room maan nodd says, ";
+    --HS-Nylar-fontStyle: normal;
+
     /* EXTRA COLORED */
 
     /* Unknown. Character undefined in this CSS, or explicitly chosen. You may call these intentionally unnamed character (not explicit Unknown before reveal) "Cooling Fan" or "Kipas Angin" (you can even add honorary prefix like "Mr. / Bapak / Pak" & "Mrs. / Ms. / Ibu / Nyonya / Mbak"). I don't care you laughed either jokingly or an insult (like I did discussed somewhere around AHiT community way long time ago..), but I am serious. NAME YOUR CHARACTER, LAH!! */
@@ -1129,6 +1168,12 @@ You can further make crazy the style with below classes
     --HS-Info-typeAria: 'Information. ';
     --HS-Info-prefix: var(--HS-Info-typeIcon, 'ℹ️')" " var(--HS-Info-typeName, 'INFO')": " / var(--HS-Info-typeAria, 'Information. ');
     --HS-Info-postfix: " " var(--HS-Info-typeIcon, 'ℹ️') / "";
+
+    /* Everyone. mark Everyone */
+    --HS-Everyone-color: var(--HS-Hemospectrum-GrayBright);
+    --HS-Everyone-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-Everyone-prefix: "everyone: " / "Everyone.";
+    --HS-Everyone-postfix: "" / "";
 
     /* d */
 
@@ -1209,6 +1254,13 @@ First, install text color basically. the prefix should be later.
     color: var(--HS-Info-color);
     /* text-shadow: var(--HS-Info-textShadow); */
     background-color: var(--HS-Info-bgColor);
+}
+
+/* Everyone */
+.HS.Everyone, .HS-Name.Everyone, .HS-Dialog.Everyone {
+    color: var(--HS-Everyone-color);
+    /* text-shadow: var(--HS-Everyone-textShadow); */
+    background-color: var(--HS-Everyone-bgColor);
 }
 /* 
 You can also customize the type of the information
@@ -1647,6 +1699,14 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 }
 .HS.Info::after {
     content: var(--HS-Info-postfix);
+}
+
+/* Everyone */
+.HS.Everyone::before {
+    content: var(--HS-Everyone-prefix);
+}
+.HS.Everyone::after {
+    content: var(--HS-Everyone-postfix);
 }
 
 /* JOELwindows7 */
