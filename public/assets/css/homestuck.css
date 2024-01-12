@@ -1139,16 +1139,16 @@ You can further make crazy the style with below classes
     --HS-TeddySediron-fontStyle: normal;
 
     /* Nylar Rumanod. Mother of Duron, Wife of Baser. Shapeshifter. */
-    --HS-Nylar-color: var(--HS-Hemospectrum-MagentaBright);
-    --HS-Nylar-bgColor: var(--HS-Hemospectrum-GrayBright);
-    --HS-Nylar-prefix: "Nylar Rumanod: " / "Nye lar Room maan nodd says, ";
-    --HS-Nylar-fontStyle: normal;
+    --HS-NylarRumanod-color: var(--HS-Hemospectrum-MagentaBright);
+    --HS-NylarRumanod-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-NylarRumanod-prefix: "Nylar Rumanod: " / "Nye lar Room maan nodd says, ";
+    --HS-NylarRumanod-fontStyle: normal;
 
     /* Chalar Gupadi. Pink Furry Fox girl. 1st descendant. Wife of Duron. Head PR since season 2 of Sediron */
-    --HS-NylarGupadi-color: var(--HS-Hemospectrum-BlueGreener);
-    --HS-NylarGupadi-bgColor: var(--HS-Hemospectrum-GrayBright);
-    --HS-NylarGupadi-prefix: "Chalar Gupadi: " / "Chal lar goop pah dee says, ";
-    --HS-NylarGupadi-fontStyle: normal;
+    --HS-ChalarGupadi-color: var(--HS-Hemospectrum-PinkPinker);
+    --HS-ChalarGupadi-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-ChalarGupadi-prefix: "Chalar Gupadi: " / "Chal lar goop pah dee says, ";
+    --HS-ChalarGupadi-fontStyle: normal;
 
     /* Tirta Gupadi. Viscous water gel slime blue girl with more viscous heart organ. 2nd descendant. */
     --HS-TirtaGupadi-color: var(--HS-Hemospectrum-BlueGreener);
@@ -1156,11 +1156,17 @@ You can further make crazy the style with below classes
     --HS-TirtaGupadi-prefix: "Tirta Gupadi: " / "Teer Taa lar goop pah dee says, ";
     --HS-TirtaGupadi-fontStyle: normal;
 
+    /* Milky Gupadi. Galaxy skinned fox girl. 3rd descendant */
+    --HS-MilkyGupadi-color: var(--HS-Hemospectrum-PurpleBitBright);
+    --HS-MilkyGupadi-bgColor: var(--HS-Hemospectrum-IndigoDim);
+    --HS-MilkyGupadi-prefix: "Tirta Gupadi: " / "Teer Taa lar goop pah dee says, ";
+    --HS-MilkyGupadi-fontStyle: normal;
+
     /* Appinn Deyo. Playful moderator & head system technician */
-    --HS-TirtaGupadi-color: var(--HS-Hemospectrum-Green);
-    --HS-TirtaGupadi-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-TirtaGupadi-prefix: "Appinn Deyo: " / "Up pin dayoh says, ";
-    --HS-TirtaGupadi-fontStyle: normal;
+    --HS-AppinnDeyo-color: var(--HS-Hemospectrum-Green);
+    --HS-AppinnDeyo-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-AppinnDeyo-prefix: "Appinn Deyo: " / "Up pin dayoh says, ";
+    --HS-AppinnDeyo-fontStyle: normal;
 
     /* Pastor John Halim. gf's dad. Problematic, banished by churches for horrible behaviour */
     --HS-JohnHalim-color: var(--HS-Hemospectrum-RustBrighter);
@@ -1174,6 +1180,12 @@ You can further make crazy the style with below classes
     --HS-MindyHalim-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-MindyHalim-prefix: "Mindy Halim: " / "Mindy Haa leem says, ";
     --HS-MindyHalim-fontStyle: normal;
+
+    /* Tony Halim. Younger brother of Mindy */
+    --HS-TonyHalim-color: var(--HS-Hemospectrum-BlueBright);
+    --HS-TonyHalim-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-TonyHalim-prefix: "Mindy Halim: " / "Mindy Haa leem says, ";
+    --HS-TonyHalim-fontStyle: normal;
 
     /* SEDIRON MODERATORS */
 
