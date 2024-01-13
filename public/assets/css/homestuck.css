@@ -1109,13 +1109,13 @@ You can further make crazy the style with below classes
     /* SEDIRON SOCIAL MEDIA */
 
     /* Baser Sediron. Founder & CEO of Sediron inc., the social media */
-    --HS-BaserSediron-color: var(--HS-Hemospectrum-Orange);
+    --HS-BaserSediron-color: var(--HS-Hemospectrum-OrangeOranger);
     --HS-BaserSediron-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-BaserSediron-prefix: "Baser Sediron: " / "Baser Seu dee ron says, ";
     --HS-BaserSediron-fontStyle: normal;
 
     /* Hamlet Sediron. Father of Baser */
-    --HS-HamletSediron-color: var(--HS-Hemospectrum-Orange);
+    --HS-HamletSediron-color: var(--HS-Hemospectrum-OrangeOranger);
     --HS-HamletSediron-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-HamletSediron-prefix: "Hamlet Sediron: " / "Hamlet Seu dee ron says, ";
     --HS-HamletSediron-fontStyle: normal;
@@ -1127,7 +1127,7 @@ You can further make crazy the style with below classes
     --HS-AnandaTopilar-fontStyle: normal;
 
     /* Duron Sediron. Son of Baser */
-    --HS-DuronSediron-color: var(--HS-Hemospectrum-Orange);
+    --HS-DuronSediron-color: var(--HS-Hemospectrum-OrangeOranger);
     --HS-DuronSediron-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-DuronSediron-prefix: "Duron Sediron: " / "Duron Seu dee ron says, ";
     --HS-DuronSediron-fontStyle: normal;
@@ -1143,6 +1143,12 @@ You can further make crazy the style with below classes
     --HS-NylarRumanod-bgColor: var(--HS-Hemospectrum-GrayBright);
     --HS-NylarRumanod-prefix: "Nylar Rumanod: " / "Nye lar Room maan nodd says, ";
     --HS-NylarRumanod-fontStyle: normal;
+
+    /* Nabilla Rumanod. Mother of Nylar, Wife of Gallonder Arnold. Shapeshifter. Principal of Main Crossban Intergalactic School (in Dasandim) until 2020. Dr of Psychology, gruaduated Cum Laude all 3 tiers in just 4 years, invented 62 ideas related to mental various sectors, all of which are free to download. */
+    --HS-NabillaRumanod-color: var(--HS-Hemospectrum-MagentaBright);
+    --HS-NabillaRumanod-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-NabillaRumanod-prefix: "Nabilla Rumanod: " / "Nabilla Room maan nodd says, ";
+    --HS-NabillaRumanod-fontStyle: normal;
 
     /* Chalar Gupadi. Pink Furry Fox girl. 1st descendant. Wife of Duron. Head PR since season 2 of Sediron */
     --HS-ChalarGupadi-color: var(--HS-Hemospectrum-PinkPinker);
@@ -1186,6 +1192,12 @@ You can further make crazy the style with below classes
     --HS-TonyHalim-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-TonyHalim-prefix: "Mindy Halim: " / "Mindy Haa leem says, ";
     --HS-TonyHalim-fontStyle: normal;
+
+    /* Leni Halim. Wife of John. a prostitute. very idiot. */
+    --HS-LeniHalim-color: var(--HS-Hemospectrum-RustBrighter);
+    --HS-LeniHalim-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-LeniHalim-prefix: "Leni Halim: " / "Lenny Haa leem says, ";
+    --HS-LeniHalim-fontStyle: normal;
 
     /* SEDIRON MODERATORS */
 
