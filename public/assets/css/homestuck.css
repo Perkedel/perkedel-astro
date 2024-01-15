@@ -1150,6 +1150,12 @@ You can further make crazy the style with below classes
     --HS-NabillaRumanod-prefix: "Nabilla Rumanod: " / "Nabilla Room maan nodd says, ";
     --HS-NabillaRumanod-fontStyle: normal;
 
+    /* Gallonder Arnold. Itteration 1980 (Gen Boomer-Millenial) Guarding Teacher in Crossban. Husband of Nabilla Rumanod, Father of Nylar.*/
+    --HS-GallonderArnold-color: var(--HS-Hemospectrum-GreenBright);
+    --HS-GallonderArnold-bgColor: var(--HS-Hemospectrum-GrayBright);
+    --HS-GallonderArnold-prefix: "Gallonder Arnold: " / "Gallonder Arnold says, ";
+    --HS-GallonderArnold-fontStyle: normal;
+
     /* Chalar Gupadi. Pink Furry Fox girl. 1st descendant. Wife of Duron. Head PR since season 2 of Sediron */
     --HS-ChalarGupadi-color: var(--HS-Hemospectrum-PinkPinker);
     --HS-ChalarGupadi-bgColor: var(--HS-Hemospectrum-GrayBright);
@@ -2037,17 +2043,17 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 }
 
 /* Teddy Sediron */
-.HS.BaserSediron::before {
-    content: var(--HS-BaserSediron-prefix);
+.HS.TeddySediron::before {
+    content: var(--HS-TeddySediron-prefix);
 }
 
 /* Hamlet Sediron */
 .HS.HamletSediron::before {
-    content: var(--HS-BaserSediron-prefix);
+    content: var(--HS-HamletSediron-prefix);
 }
 
 /* Duron Sediron */
-.HS.HamletSediron::before {
+.HS.DuronSediron::before {
     content: var(--HS-DuronSediron-prefix);
 }
 
@@ -2059,6 +2065,16 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Nylar Rumanod */
 .HS.NylarRumanod::before {
     content: var(--HS-NylarRumanod-prefix);
+}
+
+/* Nabilla Rumanod */
+.HS.NabillaRumanod::before {
+    content: var(--HS-NabillaRumanod-prefix);
+}
+
+/* Gallonder Arnold */
+.HS.GallonderArnold::before {
+    content: var(--HS-GallonderArnold-prefix);
 }
 
 /* 
