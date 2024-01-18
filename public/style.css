@@ -971,7 +971,7 @@ https://www.w3schools.com/cssref/sel_target.php
     color: gray;
 }
 
-.warning .warn {
+.warning, .warn {
     background-color: orange;
     color: black;
 }
