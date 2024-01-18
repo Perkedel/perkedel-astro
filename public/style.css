@@ -971,20 +971,20 @@ https://www.w3schools.com/cssref/sel_target.php
     color: gray;
 }
 
-.warning {
+.warning .warn {
     background-color: orange;
     color: black;
 }
 
-.warning a:link {
+.warning a:link, .warn a:link {
     color: blue;
 }
 
-.warning a:active {
+.warning a:active, .warn a:active {
     color: cyan;
 }
 
-.warning a:visited {
+.warning a:visited, .warn a:visited {
     color: gray;
 }
 
@@ -2528,7 +2528,7 @@ details.warning, details[open].warning summary,
         color: initial;
         border: 2px solid red;
     }
-    .warning {
+    .warning, .warn {
         background-color: initial;
         color: initial;
         border: 2px solid orange;
@@ -2797,7 +2797,7 @@ details.warning, details[open].warning summary,
         color: initial; */
         border: 2px solid red;
     }
-    .warning {
+    .warning, .warn {
         /* background-color: initial;
         color: initial; */
         border: 2px solid orange;
