@@ -38,6 +38,7 @@ export interface Props{
     noNeedNSFW?:boolean;
     // customGoBack?:String;
     filename?:String;
+    isWIP?:boolean;
 }
 
 const{
@@ -60,6 +61,7 @@ const{
     licenseImgSrc = '',
     licenseUrl = '',
     // customGoBack = '../../..',
+    isWIP = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 
 const useCustomGoBack = true;
@@ -80,6 +82,17 @@ const noNeedNSFW = true;
     noNeedNSFW={noNeedNSFW}
     customGoBack={'../../../'+filename}
     >
+    {isWIP?
+    <Fragment>
+        <section class='warn'>
+            <p style='font-size:large;'>UNDER CONSTRUCTION</p>
+            <p>Story is incomplete. Please stay tuned.</p>
+        </section>
+    </Fragment>
+    :
+    ''
+    }
+
     {isNSFW?
         <Fragment>
             {nsfw?

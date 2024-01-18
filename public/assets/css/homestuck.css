@@ -1138,7 +1138,7 @@ You can further make crazy the style with below classes
     --HS-TeddySediron-prefix: "Teddy Sediron: " / "Teddy Seu dee ron says, ";
     --HS-TeddySediron-fontStyle: normal;
 
-    /* Nylar Rumanod. Mother of Duron, Wife of Baser. Shapeshifter. */
+    /* Nylar Rumanod. Mother of Duron, Wife of Baser. Shapeshifter. Rumanod hearts color are blue like car paint. */
     --HS-NylarRumanod-color: var(--HS-Hemospectrum-MagentaBright);
     --HS-NylarRumanod-bgColor: var(--HS-Hemospectrum-GrayBright);
     --HS-NylarRumanod-prefix: "Nylar Rumanod: " / "Nye lar Room maan nodd says, ";
@@ -1165,20 +1165,51 @@ You can further make crazy the style with below classes
     /* Tirta Gupadi. Viscous water gel slime blue girl with more viscous heart organ. 2nd descendant. */
     --HS-TirtaGupadi-color: var(--HS-Hemospectrum-BlueGreener);
     --HS-TirtaGupadi-bgColor: var(--HS-Hemospectrum-IndigoDim);
-    --HS-TirtaGupadi-prefix: "Tirta Gupadi: " / "Teer Taa lar goop pah dee says, ";
+    --HS-TirtaGupadi-prefix: "Tirta Gupadi: " / "Teer Taa goop pah dee says, ";
     --HS-TirtaGupadi-fontStyle: normal;
 
     /* Milky Gupadi. Galaxy skinned fox girl. 3rd descendant */
     --HS-MilkyGupadi-color: var(--HS-Hemospectrum-PurpleBitBright);
     --HS-MilkyGupadi-bgColor: var(--HS-Hemospectrum-IndigoDim);
-    --HS-MilkyGupadi-prefix: "Tirta Gupadi: " / "Teer Taa lar goop pah dee says, ";
+    --HS-MilkyGupadi-prefix: "Tirta Gupadi: " / "Milky goop pah dee says, ";
     --HS-MilkyGupadi-fontStyle: normal;
+
+    /* Yanti Areluid. Mother of Chalar, Tirta, & Milky. Celestial humanoid, Areluids are furry & their form bounds since zygote from typical furry to novel furry. Areluids have no differentiator name, so Yanti name was given when they're married for legal reason intergalactically. */
+    --HS-YantiAreluid-color: var(--HS-Hemospectrum-Magenta);
+    --HS-YantiAreluid-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite25);
+    --HS-YantiAreluid-prefix: "Yanti Areluid: " / "Yanti Are ray looeedd says, ";
+    --HS-YantiAreluid-fontStyle: normal;
+
+    /* Dano Gupadi. Son of Haryadi, Wife of Yanti, Father of Chalar, Tirta, & Milky. */
+    --HS-DanoGupadi-color: var(--HS-Hemospectrum-GreenBright);
+    --HS-DanoGupadi-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite25);
+    --HS-DanoGupadi-prefix: "Dano Gupadi: " / "Daa no goop pah dee says, ";
+    --HS-DanoGupadi-fontStyle: normal;
+
+    /* Haryadi Gupadi. Grandpa, father of ..... . Rector of university part of Crossban until 2030. After he retired that time, he went home and Dano & Toraee are preparing up to move to Exiler. After the discussion, them all follow Sediron families. */
+    --HS-HaryadiGupadi-color: var(--HS-Hemospectrum-GreenBright);
+    --HS-HaryadiGupadi-bgColor: var(--HS-Hemospectrum-ClearOpaqueWhite25);
+    --HS-HaryadiGupadi-prefix: "Haryadi Gupadi: " / "Harr yah dee goop pah dee says, ";
+    --HS-HaryadiGupadi-fontStyle: normal;
+
+    /* Toraee. Wife of Haryadi */
+    --HS-Toraee-color: var(--HS-Hemospectrum-White);
+    --HS-Toraee-bgColor: var(--HS-Hemospectrum-Black);
+    --HS-Toraee-prefix: "Toraee: " / "Tor rah ee says, ";
+    --HS-Toraee-fontStyle: normal;
 
     /* Appinn Deyo. Playful moderator & head system technician */
     --HS-AppinnDeyo-color: var(--HS-Hemospectrum-Green);
     --HS-AppinnDeyo-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-AppinnDeyo-prefix: "Appinn Deyo: " / "Up pin dayoh says, ";
     --HS-AppinnDeyo-fontStyle: normal;
+
+    /* Riftering. Superfast flying guy. likes to fly around Sloatim space region. Was one of the council for Faculty of Social and Communication IT in Crossban until 2040 where he retires. Had ever saved Bella Harbor (daughter of Jason) from Mafia's (Yes, AHiT space Mafia) ransack in Kids Adventurous 2015 at Jason's Isolatip story. His favourite planet to tour is yes, Earth. When Sediron was completely shutdown, times after Sediron decided to donate the maintain rights to Crossban and this guy was the one "pushing the cardboard" into the Faculty office, and re-bring back but for dedicated purpose in Crossban. */
+    --HS-Riftering-color: var(--HS-Hemospectrum-CyanCyanner);
+    --HS-Riftering-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-Riftering-prefix: "Riftering: " / "Rifter ring says, ";
+    --HS-Riftering-fontStyle: normal;
+
 
     /* Pastor John Halim. gf's dad. Problematic, banished by churches for horrible behaviour */
     --HS-JohnHalim-color: var(--HS-Hemospectrum-RustBrighter);

@@ -4,28 +4,29 @@ import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be i
 import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
-import CorePage from '@compnents/Page/__CorePage.astro';
+// import CorePage from '@compnents/Page/__CorePage.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 import StatCard from '@components/Elements/SparePart/StatCard.astro';
 import CoreHomestuck from './__base/CoreHomestuck.astro';
 
-const filename:String = 'Test2Again'
+const filename:string = 'Test2Again'
 const isNSFW:boolean = false;
-const addHeaderTitle:String = 'Testp2';
-const addMetaTitle:String = 'Testp2';
-const addKeywords:String = 'test2';
-const addDescriptions:String = '2';
+const addHeaderTitle:string = 'Testp2';
+const addMetaTitle:string = 'Testp2';
+const addKeywords:string = 'test2';
+const addDescriptions:string = '2';
 const skipHeader:boolean = false;
 const skipNav:boolean = false;
 const skipFooter:boolean = false;
 const disableOverwhelmStatement:boolean = true;
-const endSay:String = 'End';
-const author:String = 'JOELwindows7';
-const company:String = 'Perkedel Technologies';
-const licenseSay:String = 'CC4.0-BY-SA';
-const companyImgSrc:String = '/Perkedel_Icon.png';
-const licenseImgSrc:String = '';
-const licenseUrl:String = '';
+const endSay:string = 'End';
+const author:string = 'JOELwindows7';
+const company:string = 'Perkedel Technologies';
+const licenseSay:string = 'CC4.0-BY-SA';
+const companyImgSrc:string = '/Perkedel_Icon.png';
+const licenseImgSrc:string = '';
+const licenseUrl:string = '';
+const isWIP:boolean = false;
 
 const{
     nsfw = false,} = Astro.props;
@@ -47,6 +48,7 @@ const{
     companyImgSrc={companyImgSrc}
     licenseSay={licenseSay}
     licenseImgSrc={licenseImgSrc}
+    isWIP={isWIP}
 >
     <p>Halo again</p>
     <p>
