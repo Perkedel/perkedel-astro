@@ -1126,7 +1126,7 @@ You can further make crazy the style with below classes
     --HS-AnandaTopilar-prefix: "Ananda Topilar: " / "Ananda Top Pill Lar says, ";
     --HS-AnandaTopilar-fontStyle: normal;
 
-    /* Duron Sediron. Son of Baser */
+    /* Duron Sediron. Son of Baser, Husband of Chalar. in Season 4 Finale of Sediron, Areluid invited him to their realm to help them resolve war against Barthesel that wants to claim the realm. Duron that has no idea decided if they could be in peace and share lands. But later, Highest council Areluid protested and begged Duron to review Barthesel, because Barthesel only wants breed & fetish farming. Then 1 day before the public outdoor peace treaty signing, all mind reader are set to holiday and sent to Perkedel internal dimension, leaving only Dasandimian (which includes Duron) as the only mind readers available. As Dasandim are notorious for brutal honesty, Barthesel has no choice but to succumb to Duron's reckless just read the mind anyway, exposing the truest secret to everyone in Areluid. */
     --HS-DuronSediron-color: var(--HS-Hemospectrum-OrangeOranger);
     --HS-DuronSediron-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-DuronSediron-prefix: "Duron Sediron: " / "Duron Seu dee ron says, ";
@@ -1204,6 +1204,18 @@ You can further make crazy the style with below classes
     --HS-AppinnDeyo-prefix: "Appinn Deyo: " / "Up pin dayoh says, ";
     --HS-AppinnDeyo-fontStyle: normal;
 
+    /* Jono Dearuf. Head of Faculty of Social and Communication IT in Crossban. was saved by Baser Sediron from self jump to hit head at a beach view edge-shore balcon close to his downward apartment complex, after being mass blocked by his entire classmate when he was still 5th grader, only to a little mistake. After Baser retired Sediron project, Jono replied the goodwill by improving Baser's social media into an instanceable Mastodon-like clone with lots of more configuration added in the deployment. Crossban becomes the new forker and maintaining this fork for all. Crossban then used this for sharing announcement and official group chat with strict rulings & moderated meme space. Everything at this point now done in memoriam for Baser (as he exiled forever after being framed by Harrassers through hijacked medias in other part of galaxies) */
+    --HS-JonoDearuf-color: var(--HS-Hemospectrum-Green);
+    --HS-JonoDearuf-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-JonoDearuf-prefix: "Jono Dearuf: " / "John oh day aa roof says, ";
+    --HS-JonoDearuf-fontStyle: normal;
+
+    /* Buto Dearuf. Father of Jono. Former head of Faculty of Social and Communication IT. Retired in 2025, where his son replaced him. */
+    --HS-ButoDearuf-color: var(--HS-Hemospectrum-Green);
+    --HS-ButoDearuf-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-ButoDearuf-prefix: "Buto Dearuf: " / "Boot toh day aa roof says, ";
+    --HS-ButoDearuf-fontStyle: normal;
+
     /* Riftering. Superfast flying guy. likes to fly around Sloatim space region. Was one of the council for Faculty of Social and Communication IT in Crossban until 2040 where he retires. Had ever saved Bella Harbor (daughter of Jason) from Mafia's (Yes, AHiT space Mafia) ransack in Kids Adventurous 2015 at Jason's Isolatip story. His favourite planet to tour is yes, Earth. When Sediron was completely shutdown, times after Sediron decided to donate the maintain rights to Crossban and this guy was the one "pushing the cardboard" into the Faculty office, and re-bring back but for dedicated purpose in Crossban. */
     --HS-Riftering-color: var(--HS-Hemospectrum-CyanCyanner);
     --HS-Riftering-bgColor: var(--HS-Hemospectrum-Clear);
@@ -1227,20 +1239,34 @@ You can further make crazy the style with below classes
     /* Tony Halim. Younger brother of Mindy */
     --HS-TonyHalim-color: var(--HS-Hemospectrum-BlueBright);
     --HS-TonyHalim-bgColor: var(--HS-Hemospectrum-Clear);
-    --HS-TonyHalim-prefix: "Mindy Halim: " / "Mindy Haa leem says, ";
+    --HS-TonyHalim-prefix: "Tony Halim: " / "Tony Haa leem says, ";
     --HS-TonyHalim-fontStyle: normal;
 
-    /* Leni Halim. Wife of John. a prostitute. very idiot. */
+    /* Leni Halim. Wife of John. a prostitute. very idiot. Turns out she is one of the product of Barthesel, the breeder. After Barthesel died for failure conquering Areluid (as Duron exposed the truest plan that he never change mind, forced breeding), He committed melt himself, killing his creation. Later, all offspring melted and turned to acid, including this one, Tony, Mindy, meaning these are a kamatussa. */
     --HS-LeniHalim-color: var(--HS-Hemospectrum-RustBrighter);
     --HS-LeniHalim-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-LeniHalim-prefix: "Leni Halim: " / "Lenny Haa leem says, ";
     --HS-LeniHalim-fontStyle: normal;
+
+    /* Barthesel. a kamatussa being, purpose for forced breeding and other tortuing fetish like a content-farm. He wants to conquer Areluid, to expand his place. Duron wanted Areluid and Barthesel in peace, but then Areluid begged for review. As when the public outdoor treaty, the mind reader required to be in place are set to holiday, leaving only couple that are Dasandimian, which includes Duron. Because Dasandimian are notorious for brutal honesty, Barthesel protest and begged next day, however Duron proceed anyways (Areluid priest: Dasandimian are known for their brutal honesty.., Wait I'm not finished yet!), exposing his truest plan that he still gonna do it. Duron then banished him to Judgement, followed by his creation spring that got provoked. The Judgement then prisoned him back to his own realm, and that day, he commited melt and die, killing all his creation followed by offspring that came by him, except Areluids because all of them are innocent and so immune to Kamatussa acids, despite of course, all the excruciating pains for just 40 minutes. */
+    --HS-Barthesel-color: var(--HS-Hemospectrum-RustBrighter);
+    --HS-Barthesel-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-Barthesel-prefix: "Barthesel: " / "Barthesel says, ";
+    --HS-Barthesel-fontStyle: normal;
 
     /* SEDIRON MODERATORS */
 
     /* (Base) Moderator colors */
     --HS-SocialModerators-color: var(--HS-Hemospectrum-LimeBright);
     --HS-SocialModerators-bgColor: var(--HS-Hemospectrum-Clear);
+
+    /* KAMATUSSA */
+
+    /* Kamatussa. the OG kamatussa. purposed for anti-porn. had ever murdered entire Vatastora planet for their lewd nature of producing energy, by breeding radiates clean energy and energy be captured. */
+
+    /* Miif. Cancel Culture master, opposite of forgive / maaf. He frames poor adults into grave guilts. Pretending to be in youth protection program and comfortably did all his scrupulous acts while at it. */
+
+    /*  */
 
     /* EXTRA COLORED */
 
@@ -2106,6 +2132,11 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Gallonder Arnold */
 .HS.GallonderArnold::before {
     content: var(--HS-GallonderArnold-prefix);
+}
+
+/* Appinn Deyo */
+.HS.AppinnDeyo::before {
+    content: var(--HS-AppinnDeyo-prefix);
 }
 
 /* 
