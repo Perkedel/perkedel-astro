@@ -639,9 +639,15 @@ a[target=blank].asw-container::after,
 a[target*=blank].asw-container::after,
 a.asw-container::after,
 a.asw-container::after,
-a.asw-container::after
+a.asw-container::after,
+a[target=_blank].asw-widget::after,
+a[target=blank].asw-widget::after,
+a[target*=blank].asw-widget::after,
+a.asw-widget::after,
+a.asw-widget::after,
+a.asw-widget::after
 {
-    content: initial;
+    content: '';
 }
 
 

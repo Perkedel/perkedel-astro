@@ -198,7 +198,7 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
 ---
 
 <!DOCTYPE html>
-<html lang={language}>
+<html lang={language} transition:animate="none">
 <head>
   <!--https://www.w3schools.com/tags/tag_meta.asp-->
   <!-- make sure the X UA Compatible -->
@@ -487,7 +487,7 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
   
   <!-- SCRIPT FINALLY -->
   <!-- client:idle client:visble client directive no longer available to scripts -->
-  {noScripts?'':<Fragment>
+  {noScripts?'':<Fragment transition:persist>
     <!-- Toastify https://apvarun.github.io/toastify-js/ -->
     <script is:inline type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
 
