@@ -645,7 +645,13 @@ a[target=blank].asw-widget::after,
 a[target*=blank].asw-widget::after,
 a.asw-widget::after,
 a.asw-widget::after,
-a.asw-widget::after
+a.asw-widget::after,
+a[target=_blank].asw-menu-btn::after,
+a[target=blank].asw-menu-btn::after,
+a[target*=blank].asw-menu-btn::after,
+a.asw-menu-btn::after,
+a.asw-menu-btn::after,
+a.asw-menu-btn::after
 {
     content: '';
 }
