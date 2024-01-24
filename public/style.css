@@ -633,8 +633,15 @@ a[target=blank].BioButtons::after,
 a[target*=blank].BioButtons::after,
 a.BioButtons::after,
 a.BioButtons::after,
-a.BioButtons::after {
-    content: '';
+a.BioButtons::after,
+a[target=_blank].asw-container::after,
+a[target=blank].asw-container::after,
+a[target*=blank].asw-container::after,
+a.asw-container::after,
+a.asw-container::after,
+a.asw-container::after
+{
+    content: initial;
 }
 
 
