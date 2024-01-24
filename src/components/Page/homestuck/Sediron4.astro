@@ -1,0 +1,72 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+// import CorePage from '@compnents/Page/__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreHomestuck from './__base/CoreHomestuck.astro';
+
+const filename:string = 'Sediron4'
+const isNSFW:boolean = false;
+const addHeaderTitle:string = 'ARENOD, THE MOVIE (Sediron Season 4 FINALE)';
+const addMetaTitle:string = 'Sediron S3';
+const addKeywords:string = 'Sediron, social media, drama, toxicity, expose,';
+const addDescriptions:string = 'The Kingdom';
+const skipHeader:boolean = false;
+const skipNav:boolean = false;
+const skipFooter:boolean = false;
+const disableOverwhelmStatement:boolean = true;
+const endSay:string = 'End';
+const author:string = 'JOELwindows7';
+const company:string = 'Perkedel Technologies';
+const licenseSay:string = 'CC4.0-BY-SA';
+const companyImgSrc:string = '/Perkedel_Icon.png';
+const licenseImgSrc:string = '';
+const licenseUrl:string = '';
+const isWIP:boolean = true;
+
+const{
+    nsfw = false,} = Astro.props;
+---
+<CoreHomestuck
+    nsfw={nsfw} isNSFW={isNSFW}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    filename={filename}
+    endSay={endSay}
+    company={company}
+    companyImgSrc={companyImgSrc}
+    licenseSay={licenseSay}
+    licenseImgSrc={licenseImgSrc}
+    isWIP={isWIP}
+>
+    <h2>Introduction</h2>
+        <p></p>
+        <p></p>
+    
+    <!-- 2030 -->
+    {nsfw?<Fragment>
+        
+        <!-- Sediron.
+            explore kingdom
+
+            unblock baltheser and get him fun.
+
+            the truth reveals, baltheser is kamatussa
+
+            peace treaty, expose truth, throw baltheser to Judgement. win.
+            
+            Dr Hymatt transform service. met customer (who wish to install human form for human-con party in ballroom underneath the main castle) with coincidentally very identical name (the earth name, not their birth name) to ones who hated / blocked Baser, from dad mom daugher and younger brother. even they came up with design matches with the look of each and everyone of them. They are entirely different people but somehow had same look, and not the assholes.
+            -->
+    </Fragment>:``}
+</CoreHomestuck>

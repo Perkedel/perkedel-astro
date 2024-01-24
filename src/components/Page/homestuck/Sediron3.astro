@@ -1,0 +1,75 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+// import CorePage from '@compnents/Page/__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreHomestuck from './__base/CoreHomestuck.astro';
+
+const filename:string = 'Sediron3'
+const isNSFW:boolean = false;
+const addHeaderTitle:string = 'Sediron Season 3';
+const addMetaTitle:string = 'Sediron S3';
+const addKeywords:string = 'Sediron, social media, drama, toxicity, expose,';
+const addDescriptions:string = 'The Accusations';
+const skipHeader:boolean = false;
+const skipNav:boolean = false;
+const skipFooter:boolean = false;
+const disableOverwhelmStatement:boolean = true;
+const endSay:string = 'End';
+const author:string = 'JOELwindows7';
+const company:string = 'Perkedel Technologies';
+const licenseSay:string = 'CC4.0-BY-SA';
+const companyImgSrc:string = '/Perkedel_Icon.png';
+const licenseImgSrc:string = '';
+const licenseUrl:string = '';
+const isWIP:boolean = true;
+
+const{
+    nsfw = false,} = Astro.props;
+---
+<CoreHomestuck
+    nsfw={nsfw} isNSFW={isNSFW}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    filename={filename}
+    endSay={endSay}
+    company={company}
+    companyImgSrc={companyImgSrc}
+    licenseSay={licenseSay}
+    licenseImgSrc={licenseImgSrc}
+    isWIP={isWIP}
+>
+    <h2>Introduction</h2>
+        <p>Sediron is a fictional social media exist here in Perkedel Cinematic Universe. Founded in Dasandim in 2009 by Baser Sediron & families. It is here to provide not just a communication, but also amazing creativity, where imagination is the only limit. It's to gather all Dasandimian as well as intergalactic beings to tell stories & share great events.</p>
+        <p>In this season, the mission has been failed, despite all efforts from many parties (of the good side) across galaxies. Harrassers somehow managed to win all medias across galaxies and began using it to spread propaganda, that since this conquer, are no longer debunkable by any truthblowers, nor even disputable by any means. In Harrasser's revenge for their arrests against, Sediron, has been accused with grave crime that all around him witnessed nothing such, but it's made validated anyway (except Dasandim of course).</p>
+    
+    <!-- 2030 -->
+    {nsfw?<Fragment>
+        
+        <!-- Sediron.
+            exile
+
+            return harddisk backup
+
+            
+
+            explore around Perkedel internal realm at ASTR
+
+            Perkedel break the chain of accusations to almost all medias across galaxies. Now those who chose to trust the actual truth, no longer place hate against Baser and make apologies tribute as much and as all year as possible.
+            But the damage has been done.
+            
+            -->
+    </Fragment>:``}
+    <!--  -->
+</CoreHomestuck>
