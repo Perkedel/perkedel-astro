@@ -742,8 +742,10 @@ a[href*='archive.org']::before {
     content: ' ' / "";
 }
 
-a[href*='twitter.com']::before,
-a[href*='x.com']::before {
+a[href*='//twitter.com']::before,
+a[href*='//Twitter.com']::before,
+a[href*='//X.com']::before,
+a[href*='//x.com']::before {
     content: ' 𝕏 ' / "";
 }
 
