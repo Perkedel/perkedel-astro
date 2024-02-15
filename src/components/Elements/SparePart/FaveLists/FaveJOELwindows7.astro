@@ -1,15 +1,11 @@
 ---
 import CoreFaveLists from "./_CoreFaveLists.astro";
 export interface Props{
-
-nsfw?:Boolean;
-
+    nsfw?:Boolean;
 }
 
 const{
-
-nsfw=false,
-
+    nsfw=false,
 } = Astro.props as Props;
 ---
 <CoreFaveLists nsfw={nsfw}>
@@ -23,7 +19,10 @@ nsfw=false,
                 <li>Ultrafast & Overclocked</li>
                 <li>Visible</li>
                 <li>Loud</li>
-                <li>Special & Novelty materials</li>
+                <li>Special, Exotic & Novelty materials</li>
+                <li>Xray: Colorized</li>
+                <li>Touch & Handle</li>
+                <li>Squeeze (safe)</li>
                 {nsfw?<Fragment>
                     <li>Sexually Stimulated: Orgasm</li>
                     
@@ -31,35 +30,105 @@ nsfw=false,
             </ul>
         </li>
         <!-- <li></li> -->
+        <li>Furry (humanoid)</li>
+        <li>Felines (cats)
+            <ul>
+                <li>Types: Domestic (irl pet), Humanoid (furry)</li>
+            </ul>
+        </li>
+        <li>Canines (dogs)
+            <ul>
+                <li>zero aggresiveness</li>
+            </ul>
+        </li>
+        <li> Rodents (mouse, rats, hamsters, guinea pigs)
+            <ul>
+                <li>Types: Domestic (irl pet), Humanoid (furry)</li>
+            </ul>
+        </li>
+        <li><b style="font-size:x-large;">Heterosexuality</b></li>
         {nsfw?<Fragment>
-            <li></li>
-            <li>Latex
+            <!-- <li></li> -->
+            <li>Latex Rubber
                 <ul>
                     <li>Suit: Skimp, Normal (cat suit), Partial, Full Wrap</li>    
                     <li>Shiny (low roughness)</li>    
                     <li>Metallic (high metallic)</li>    
                     <li>Transparent & Clear (transmission & low alpha)</li>    
-                    <li>Special shader codes e.g.: novel lighting reactions, hologram effects, etc.</li>    
-                    <li>(<i>EXAMPLE MATERIAL STANDARD</i>) Swimsuit</li>    
-                </ul>    
+                    <li>Special & exotic shader codes e.g.: novel lighting reactions, hologram effects, etc.</li>    
+                    <li>(<i>EXAMPLE MATERIAL STANDARD</i>) Swimsuit</li> 
+                    <li>Condition: Pristine, Permanent Pristine</li>    
+                </ul>
+            </li>
+            <li>Slime (material)</li>
+            <li>Crystal (material)</li>
+            <li>Breastplay
+                <ul>
+                    <li>Size: Giant, Largest, Large</li>       
+                </ul>
+            </li>
+            <li>
+                Sex
+                <ul>
+                    <li>Target: Crotch (default), Breast (paizuri)</li>    
+                </ul>
+            </li>
+            <li>Vore
+                <ul>
+                    <li>Condition: slide away</li>
+                    <li>Extras: heartbeat</li>
+                </ul>
+            </li>
+            <li>Micro
+                <ul>
+                    <li>Location: Chest, Heart organ, inside heart organ</li>
+                </ul>
+            </li>
+            <li>X-ray
+                <ul>
+                    <li>Target: Chest (heart organ)</li>
+                </ul>
             </li>
         </Fragment>:``}
     </Fragment>
-    <Fragment slot="okay">
-        <!-- <li></li> -->
+
+    <Fragment slot='okay'>
         <li>Cardiophilia
             <ul>
                 <li>Breathhold</li>
                 <li>Quiet</li>
+                <li>Squeeze</li>
+                <li>Take it off</li>
                 {nsfw?<Fragment>
-                    <li></li>
+                    <!-- <li></li> -->
                     
                 </Fragment>:``}
+            </ul>
+        </li>
+        <li>Belly
+            <ul>
+                <li>Swipe</li>
+            </ul>
+        </li>
+        <li>Canines (dogs)
+            <ul>
+                <li>Types: Humanoid (furry)</li>
+            </ul>
+        </li>
+        <li>Vibes
+            <ul>
+                <li>Appreciations:
+                    <ul>
+                        <li>Liked & Favourited</li>
+                        <li>Positive Comments</li>
+                    </ul>
+                </li>
             </ul>
         </li>
         {nsfw?<Fragment>
             <li>Breastplay
                 <ul>
+                    <li>Size: Medium</li>
                     <li>Grope</li>    
                     <li>Sucking</li>    
                     <li>Squeeze & Milk</li>    
@@ -67,41 +136,107 @@ nsfw=false,
                     <li>Cleavage</li>    
                 </ul>
             </li>
-            <li>Latex
+            <li>Latex Rubber
                 <ul>
                     <li>Matte (medium to high roughness)</li>  
                     <li>Opaque (medium to high roughness in trasmission & low alpha)</li>  
+                    <li>Condition: any good</li>
                 </ul>    
+            </li>
+            <li>
+                Sex
+                <ul>
+                    <li>Target: Bare (outside e.g. cum to face)</li>    
+                </ul>
+            </li>
+            <li>X-ray
+                <ul>
+                    <li>Target: any</li>
+                </ul>
             </li>
         </Fragment>:``}
     </Fragment>
+
     <Fragment slot="maybe">
-        <!-- <li></li> -->
+        
         <li>Cardiophilia
             <ul>
                 <li>Breathhold</li>
                 <li>Mechanical failures & explosions</li>
                 <li>Arrythmia</li>
                 <li>Bradycardia</li>
+                <li>Squeeze (unsafe & harmful)</li>
                 {nsfw?<Fragment>
                     
                     <li>Sexually Stimulated: Masturbation</li>
                 </Fragment>:``}
             </ul>
         </li>
-        <li> Assorted Throbbings
-            {nsfw?<Fragment>
-                    
-                <li>Penis</li>
-                <li>Vagina</li>
-            </Fragment>:``}
+        <li>Latex Rubber
+            <ul>
+                <li>Condition: Torn, Scratched</li>  
+            </ul>    
         </li>
+        <li> Assorted Throbbings
+            <ul>
+                <li>Non-living Object</li>
+                {nsfw?<Fragment>
+                    <li>Penis</li>
+                    <li>Vagina</li>
+                </Fragment>:``}
+            </ul>
+        </li>
+        <li>Belly
+            <ul>
+                <li>Expanding & Inflating (Inflation)</li>
+            </ul>
+        </li>
+        <!-- <li></li> -->
+        <li>Canines (dogs)
+            <ul>
+                <li>Types: Domestic</li>
+            </ul>
+        </li>
+        <li>Vibes
+            <ul>
+                <li>Feedback
+                    <ul>
+                        <li>Constructive</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        
         {nsfw?<Fragment>
             <li></li>
+            <li>
+                Cum
+                <ul>
+                    <li>Target: any</li>    
+                </ul>
+            </li>
+            <li>
+                Sex
+                <ul>
+                    <li>Target: oral</li>    
+                </ul>
+            </li>
+            <li>Breastplay
+                <ul>
+                    <li>Size: Small, null (flat / pettan)</li>       
+                </ul>
+            </li>
+            <li>Moobs (plumpy male pecs)</li>
+            <li>Vore
+                <ul>
+                    <li>Condition: any safe (e.g settle belly)</li>
+                </ul>
+            </li>
         </Fragment>:``}
     </Fragment>
+
     <Fragment slot="no">
-        <!-- <li></li> -->
+
         <li>Cardio troubles
             <ul>
                 <li>CPR (Cardio Pulmonary Resusitation): <i>all</i></li>
@@ -109,21 +244,102 @@ nsfw=false,
                 <li>Mirrored / Situs inversus / Dextrocardia (heart organ on the starboard / right)</li>
             </ul>
         </li>
-        <li></li>
+        <!-- <li></li> -->
+        <li>Smoking
+            <ul>
+                <li>Cigar Classics</li>
+                <li>Modern</li>
+                <li>Pipe</li>
+                <li>Vape</li>
+                <li>External (receives smoke from someone's smoking): any</li>
+                {nsfw?<Fragment>
+                    <li>Ganja & Marijuana</li>    
+                </Fragment>:``}
+                <li style="font-size:xx-large;font-weight:bolder">all</li>
+            </ul>
+        </li>
+        <li>Canines (dogs)
+            <ul>
+                <li>High aggressiveness</li>
+            </ul>
+        </li>
+        <li>Poisoning (Character dying in poison)</li>
+        <li>Choking: all</li>
+        <li><b style="font-size:x-large;">LGBT: All, such as</b>
+            <ul>
+                <li>Homosexuality (Gay & Lesbian)</li>
+                <li>Asexuality (No gender)</li>
+                <li>Queer (indecisive gender)</li>
+                <li>Trans (change gender)</li>
+                <li>Bisexuality (go to both gender)</li>
+                <li>Pansexuality (go to any gender)</li>
+                <li>etc.</li>
+            </ul>
+
+            <span style="font-size:small;">Disclaimer: Kaorfa nor entirity of Perkedel along with affiliates despise any gamers who had above LGBT specifications. Please report any harmful despisers you find.</span>
+        </li>
+        
         <li> Assorted Throbbings
-            {nsfw?<Fragment>
+            <ul>
+                <!-- <li></li> -->
+                {nsfw?<Fragment>
                     
-                <li>Snouts & Faces</li>
-                <li>Limbs: legs, hands</li>
-            </Fragment>:``}
+                    <li>Snouts & Faces</li>
+                    <li>Limbs: legs, hands</li>
+                </Fragment>:``}
+            </ul>
+            
+        </li>
+        <!-- <li></li> -->
+        <li>Vibes
+            <ul>
+                <li>Toxicity
+                    <ul>
+                        <li class="error">Blocked:
+                            <ul>
+                                <li style="font-size:x-large;" >Boundary building</li>
+                                <li>In defense of</li>
+                                <li>etc.</li>
+                            </ul>
+                        </li>
+                        <li>Harrassment: no reason</li>
+                        <li>Opinion agendas</li>
+                        <li>Spam Scammer</li>
+                    </ul>
+                </li>
+                <li>Feedback
+                    <ul>
+                        <li>Destructive</li>
+                        <li>Hatred upon terrible past doings (being received at)</li>
+                    </ul>
+                </li>
+            </ul>
         </li>
         {nsfw?<Fragment>
             <li>Bestialisty / Zoophilia (Non-humanoid animal(s) x humanoid(s))</li>
             <li>Breast torture
                 <ul>
                     <li>Cut slice</li>       
+                    <li>Cook</li>       
                 </ul>
             </li>    
+            <li>Gore
+                <ul>
+                    <li>Dismemberment</li>    
+                    <li>Abortion</li>    
+                    <li>Wounds & damagings</li>    
+                </ul>    
+            </li>
+            <!-- <li></li> -->
+            <li>Moobs (plumpy male pecs)</li>
+            <li>Anal</li>
+            <li>Shamer: all</li>
+            <li>Cooked (being fried and/or oven toasted)</li>
+            <li>Vore
+                <ul>
+                    <li>Condition: any harmful (e.g. munched)</li>
+                </ul>
+            </li>
         </Fragment>:``}
     </Fragment>
 </CoreFaveLists>

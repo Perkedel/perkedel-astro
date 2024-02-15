@@ -11,29 +11,39 @@ const{
 
 } = Astro.props as Props;
 ---
+<!-- Thancc, Dippy for the inspiration. btw, what was that website? -->
 <div class="row FaveLists">
-    <div class="column FaveListsCol FaveListsBest" style="background-color:navy">
-        <p class="info" style="font-weight: bold; font-size: larger;">Absolutely</p>
-        <ul>
-            <slot name="best"></slot>
-        </ul>
+    <div class="column FaveListsCol FaveListPositive">
+        <div class="row FaveListsSub">
+            <div class="column FaveListsCol FaveListsBest" style="background-color:navy">
+                <p class="info" style="font-weight: bold; font-size: larger;">Absolutely</p>
+                <ul>
+                    <slot name="best"></slot>
+                </ul>
+            </div>
+            <div class="column FaveListsCol FaveListsOkay" style="background-color: green;">
+                <p class="success" style="font-weight: bold; font-size: larger;">Okay</p>
+                <ul>
+                    <slot name="okay"></slot>
+                </ul>
+            </div>
+        </div>
     </div>
-    <div class="column FaveListsCol FaveListsOkay" style="background-color: green;">
-        <p class="success" style="font-weight: bold; font-size: larger;">Okay</p>
-        <ul>
-            <slot name="okay"></slot>
-        </ul>
-    </div>
-    <div class="column FaveListsCol FaveListsMaybe" style="background-color: darkgoldenrod;">
-        <p class="warn" style="font-weight: bold; font-size: larger;">Perhaps</p>
-        <ul>
-            <slot name="maybe"></slot>
-        </ul>
-    </div>
-    <div class="column FaveListsCol FaveListsNo" style="background-color: darkred;">
-        <p class="error" style="font-weight: bold; font-size: larger;">NO!!</p>
-        <ul>
-            <slot name="no"></slot>
-        </ul>
+    
+    <div class="column FaveListsCol FaveListNegative">
+        <div class="row FaveListsSub">
+            <div class="column FaveListsCol FaveListsMaybe" style="background-color: rgb(100,50,0);">
+                <p class="warn" style="font-weight: bold; font-size: larger;">Perhaps</p>
+                <ul>
+                    <slot name="maybe"></slot>
+                </ul>
+            </div>
+            <div class="column FaveListsCol FaveListsNo" style="background-color: rgb(75,0,0);">
+                <p class="error" style="font-weight: bold; font-size: larger;">NO!!</p>
+                <ul>
+                    <slot name="no"></slot>
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
