@@ -1,0 +1,39 @@
+---
+export interface Props{
+
+  nsfw?:Boolean;
+
+}
+
+const{
+
+  nsfw=false,
+
+} = Astro.props as Props;
+---
+<div class="row FaveLists">
+    <div class="column FaveListsCol FaveListsBest" style="background-color:navy">
+        <p class="info" style="font-weight: bold; font-size: larger;">Absolutely</p>
+        <ul>
+            <slot name="best"></slot>
+        </ul>
+    </div>
+    <div class="column FaveListsCol FaveListsOkay" style="background-color: green;">
+        <p class="success" style="font-weight: bold; font-size: larger;">Okay</p>
+        <ul>
+            <slot name="okay"></slot>
+        </ul>
+    </div>
+    <div class="column FaveListsCol FaveListsMaybe" style="background-color: darkgoldenrod;">
+        <p class="warn" style="font-weight: bold; font-size: larger;">Perhaps</p>
+        <ul>
+            <slot name="maybe"></slot>
+        </ul>
+    </div>
+    <div class="column FaveListsCol FaveListsNo" style="background-color: darkred;">
+        <p class="error" style="font-weight: bold; font-size: larger;">NO!!</p>
+        <ul>
+            <slot name="no"></slot>
+        </ul>
+    </div>
+</div>

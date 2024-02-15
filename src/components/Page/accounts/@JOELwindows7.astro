@@ -11,6 +11,7 @@ import { Icon } from 'astro-icon';
 import { Sprite } from 'astro-icon';
 import Emoji from 'astro-emoji';
 import CoreAccounts from './__CoreAccounts.astro';
+import FaveJOELwindows7 from '@components/Elements/SparePart/FaveLists/FaveJOELwindows7.astro';
 
 export interface Props{
     nsfw?:boolean;
@@ -122,6 +123,10 @@ const{
     <p>wow</p>
     <h3>YEY</h3>
         <p>Cool and good. yeyeyeyeye</p>
+    
+    <Fragment slot='FaveLists'>
+        <FaveJOELwindows7 nsfw={nsfw}/>
+    </Fragment>
     
     <Fragment slot='WikiStart'>
 

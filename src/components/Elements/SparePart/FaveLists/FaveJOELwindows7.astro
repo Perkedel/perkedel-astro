@@ -1,0 +1,112 @@
+---
+import CoreFaveLists from "./_CoreFaveLists.astro";
+export interface Props{
+
+nsfw?:Boolean;
+
+}
+
+const{
+
+nsfw=false,
+
+} = Astro.props as Props;
+---
+<CoreFaveLists nsfw={nsfw}>
+    <Fragment slot="best">
+        <li>Cardiophilia
+            <ul>
+                <li>Pounding</li>
+                <li>Female</li>
+                <li>Fast</li>
+                <li>Tachycardia</li>
+                <li>Ultrafast & Overclocked</li>
+                <li>Visible</li>
+                <li>Loud</li>
+                <li>Special & Novelty materials</li>
+                {nsfw?<Fragment>
+                    <li>Sexually Stimulated: Orgasm</li>
+                    
+                </Fragment>:``}
+            </ul>
+        </li>
+        <!-- <li></li> -->
+        {nsfw?<Fragment>
+            <!-- <li></li> -->
+        </Fragment>:``}
+    </Fragment>
+    <Fragment slot="okay">
+        <!-- <li></li> -->
+        <li>Cardiophilia
+            <ul>
+                <li>Breathhold</li>
+                <li>Quiet</li>
+                {nsfw?<Fragment>
+                    <!-- <li></li> -->
+                    
+                </Fragment>:``}
+            </ul>
+        </li>
+        {nsfw?<Fragment>
+            <li>Breastplay
+                <ul>
+                    <li>Grope</li>    
+                    <li>Sucking</li>    
+                    <li>Squeeze & Milk</li>    
+                    <li>Squirt</li>    
+                </ul>
+            </li>
+        </Fragment>:``}
+    </Fragment>
+    <Fragment slot="maybe">
+        <!-- <li></li> -->
+        <li>Cardiophilia
+            <ul>
+                <li>Breathhold</li>
+                <li>Mechanical failures & explosions</li>
+                <li>Arrythmia</li>
+                <li>Bradycardia</li>
+                {nsfw?<Fragment>
+                    
+                    <li>Sexually Stimulated: Masturbation</li>
+                </Fragment>:``}
+            </ul>
+        </li>
+        <li> Assorted Throbbings
+            {nsfw?<Fragment>
+                    
+                <li>Penis</li>
+                <li>Vagina</li>
+            </Fragment>:``}
+        </li>
+        {nsfw?<Fragment>
+            <!-- <li></li> -->
+        </Fragment>:``}
+    </Fragment>
+    <Fragment slot="no">
+        <!-- <li></li> -->
+        <li>Cardio troubles
+            <ul>
+                <li>CPR (Cardio Pulmonary Resusitation): <i>all</i></li>
+                <li>Heart attack: <i>all</i></li>
+                <li>Mirrored / Situs inversus / Dextrocardia (heart organ on the starboard / right)</li>
+            </ul>
+        </li>
+        <li></li>
+        <li> Assorted Throbbings
+            {nsfw?<Fragment>
+                    
+                <li>Snouts & Faces</li>
+                <li>Limbs: legs, hands</li>
+            </Fragment>:``}
+        </li>
+        {nsfw?<Fragment>
+            <li>Bestialisty / Zoophilia (Non-humanoid animal(s) x humanoid(s))</li>
+            <li>Breast torture
+                <ul>
+                    <li>Cut slice</li>       
+                </ul>
+            </li>    
+        </Fragment>:``}
+    </Fragment>
+</CoreFaveLists>
