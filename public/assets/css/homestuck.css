@@ -193,6 +193,8 @@ You can further make crazy the style with below classes
     --HS-Hemospectrum-ClearOpaqueWhite50: rgba(255,255,255,.5); /* stain glass */
     /*  */
     --HS-Hemospectrum-ClearOpaqueWhite75: rgba(255,255,255,.75); /* stain glass */
+    /*  */
+    --HS-Hemospectrum-Null: rgb(255, 255, 255); /* No coloring */
     /* end homospectrum */
 
     /* Extra Stuffs */
@@ -1254,6 +1256,26 @@ You can further make crazy the style with below classes
     --HS-Barthesel-prefix: "Barthesel: " / "Barthesel says, ";
     --HS-Barthesel-fontStyle: normal;
 
+    /* SEDIRON EXTRAS */
+
+    /* Latezer Roham. Chemical teacher in Crossban. Male */
+    --HS-LatezerRoham-color: var(--HS-Hemospectrum-Null);
+    --HS-LatezerRoham-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-LatezerRoham-prefix: "Latezer Roham: " / "Latezer Roham says, ";
+    --HS-LatezerRoham-fontStyle: normal;
+
+    /* Rahat Nolim. A Naughty girl. */
+    --HS-RahatNolim-color: var(--HS-Hemospectrum-Null);
+    --HS-RahatNolim-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-RahatNolim-prefix: "Rahat Nolim: " / "Rahat Nolim says, ";
+    --HS-RahatNolim-fontStyle: normal;
+
+    /* Dryck Wetticon. a class bully. */
+    --HS-DryckWetticon-color: var(--HS-Hemospectrum-Null);
+    --HS-DryckWetticon-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-DryckWetticon-prefix: "Dryck Wetticon: " / "Dryck Wetticon says, ";
+    --HS-DryckWetticon-fontStyle: normal;
+
     /* SEDIRON MODERATORS */
 
     /* (Base) Moderator colors */
@@ -2148,6 +2170,8 @@ In case you need to compensate contrast level depending on the color mode
 @media(prefers-color-scheme: light){
     /* All colors should be optimized for dark mode 1st, then this light mode 2nd */
     :root{
+        --HS-Hemospectrum-Null: black; /* No coloring */
+
         /* Text Stroke */
         --HS-TextShadow-Stroke: -1px -1px 0 #000,  
         1px -1px 0 #000,
