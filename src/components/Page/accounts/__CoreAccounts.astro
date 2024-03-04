@@ -13,6 +13,8 @@ export interface Props{
     fullName?:string;
     username:string;
     photoURL?:string;
+    linksButtons?:Array<Array<String | boolean | number>>;
+    linksButtonsNSFW?:Array<Array<String | boolean | number>>;
     links?:Array<Array<String | boolean | number>>;
     linksNSFW?:Array<Array<String | boolean | number>>;
     thirdPartyEdit?:Boolean;
@@ -25,6 +27,8 @@ export interface Props{
     birthDay?:int;
     birthMonth?:int;
     birthYear?:int;
+    bloodType?:int;
+    bloodRh?:boolean;
     location?:string;
     isFictional?:boolean;
     triviaLists?:Array<string>;
@@ -85,7 +89,7 @@ const{
     asOfYear = -1,
     myAgeWasThisThatYear = -1,
     useCustomImgSrc = false,
-} = Astro.props.frontmatter || Astro.props as Props;
+} = Astro.props as Props;
 ---
 <!-- 
 

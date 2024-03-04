@@ -7,9 +7,9 @@ export interface Props{
     yourName?:string; // name
     yourUsername?:string;
     yourGender?:int; // gender ID
-    yourBirthDay?:int;
-    yourBirthMonth?:int;
-    yourBirthYear?:int;
+    yourBirthDay?:number;
+    yourBirthMonth?:number;
+    yourBirthYear?:number;
     yourLocation?:string;
     isFictional?:boolean;
     yourBloodType?:int;
@@ -133,7 +133,7 @@ function calculateMonth(from:int):string{
     return '???';
 }
 
-function calculateAge():int{
+function calculateAge():number{
     if ((birthAlternateCalculate? (myAgeWasThisThatYear < 0 || asOfYear < 0) : yourBirthYear < 0) || yourBirthMonth < 0 || yourBirthDay < 0)
         return -1;
 
@@ -144,8 +144,8 @@ function calculateAge():int{
     let todayIs = new Date();
     let age = todayIs.getFullYear() - (birthAlternateCalculate? (asOfYear - myAgeWasThisThatYear) : yourBirthYear);
     let m = todayIs.getMonth() - yourBirthMonth;
-    if (m < 0 || (m === 0 && today.getDate() < yourBirthDay)) {
-        age--;
+    if (m < 0 || (m === 0 && todayIs.getDate() < yourBirthDay)) {
+        // age--;
     }
 
     return age;

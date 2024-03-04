@@ -74,7 +74,7 @@ const{
     thumbnailVideo,
     thumbnailVideoWidth,
     thumbnailVideoHeight,
-} = Astro.props.frontmatter || Astro.props as Props;
+} = Astro.props as Props;
 ---
 <Layout
     title={addMetaTitle + (nsfw?" NSFW🥵":"")}
@@ -87,7 +87,7 @@ const{
     skipNav={skipNav}
     skipFooter={skipFooter}
     customHeader={customHeader}
-    selectHeader={customHeader}
+    selectHeader={selectHeader}
     addHeaderingClass={addHeaderingClass}
     noScripts={noScripts}
     thumbnail = {thumbnail}

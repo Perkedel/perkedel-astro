@@ -20,14 +20,14 @@ const{
   addDescriptions='',
   addKeywords='',
   nsfwConfirmation = false,
-} = Astro.props.frontmatter || Astro.props as Props;
+} =Astro.props as Props;
 ---
 <!-- FOOTER -->
 <footer class="footering" id="footering">
     <hr class="footeringHr"/>
     <!-- <p title="(Static) Website compiled at datetime of..">&#xf00f0; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->
     <!--<p title="(Static) Website compiled at datetime of..">&#xf00f0; <LocalTime date time/></p>-->
-    <p title="(Static) Website compiled at datetime of..">&#xf00f0; <Time format="datetime" now/>, <Time format="relative" now/></p>
+    <!-- <p title="(Static) Website compiled at datetime of..">&#xf00f0; <Time format="datetime" now/>, <Time format="relative" now/></p> -->
     <p><PerkedelIcon/> <font size = "12">Perkedel Technologies</font></p>
     <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
 
