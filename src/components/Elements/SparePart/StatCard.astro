@@ -7,6 +7,7 @@ export interface Props{
     yourName?:string; // name
     yourUsername?:string;
     yourGender?:int; // gender ID
+    yourCustomPronoun?:string; // Custom pronoun if your gender is neo-gender
     yourBirthDay?:number;
     yourBirthMonth?:number;
     yourBirthYear?:number;
@@ -31,6 +32,7 @@ const{
     yourName = ``,
     yourUsername = ``,
     yourGender = -1,
+    yourCustomPronoun = '',
     yourBirthDay = -1,
     yourBirthMonth = -1,
     yourBirthYear = -1,
@@ -70,6 +72,25 @@ function whatGender(isIt:int):string{
             break;
     }
     return '???';
+}
+
+function whatPronoun(genderId:int, custom:string='They/them (singular)'):string{
+    // They/them singular a.k.a. `dia` in ID
+    // if Legion, then plural a.k.a. `mereka` in ID
+    if (genderId > 1){
+        return custom;
+    }
+    switch(genderId){
+        case 0:
+            return 'he/him';
+        case 1:
+            return 'she/her';
+    }
+    return custom;
+}
+
+function totalCalculateGender(gender:string, pronoun:string){
+    return `${gender} (${pronoun})`;
 }
 
 function calculateBloodType(id:int,isRh:boolean):string{
@@ -163,7 +184,8 @@ let customImgSrcUrl:string = authorImgSrc && authorImgSrc !== ''?authorImgSrc:`/
         <ul>
             <li><b>Name</b>: {yourName}</li>
             <li><b>Birthday</b> (Year / Month / Day): {yourBirthYear} / {calculateMonth(yourBirthMonth)} / {yourBirthDay}, <abbr title={calculateAgeSay+` Years old ${birthAlternateCalculate?`(predictably)`:``}`}>({calculateAgeSay})</abbr></li>
-            <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li>
+            <!-- <li><b>Gender</b>: <Fragment set:html={whatGender(yourGender)}/></li> -->
+            <li><b>Gender</b>: <Fragment set:html={totalCalculateGender(whatGender(yourGender),whatPronoun(yourGender, yourCustomPronoun))}/></li>
             <li><b>Location</b>: {yourLocation}</li>
             <li><b>Blood Type</b>: {calculateBloodType(yourBloodType,yourBloodRh)}</li>
             <li><b>Fictional?</b>: 

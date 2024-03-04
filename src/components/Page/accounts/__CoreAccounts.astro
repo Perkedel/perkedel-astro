@@ -24,6 +24,7 @@ export interface Props{
     skipNav?:boolean;
     skipFooter?:boolean;
     gender?:int; // gender ID
+    customPronoun?:string; // if your gender is neo-gender
     birthDay?:int;
     birthMonth?:int;
     birthYear?:int;
@@ -75,6 +76,7 @@ const{
     skipNav = false,
     skipFooter = false,
     gender = -1,
+    customPronoun = '',
     birthDay = -1,
     birthMonth = -1,
     birthYear = -1, // DO NOT SET MORE THAN 0 IF CHARACTER IS NOT FICTIONAL, Unless they wanted it.
@@ -125,6 +127,7 @@ rel="noopener noreferrer"
             yourLocation={location}
             isFictional={isFictional}
             yourGender={gender}
+            yourCustomPronoun={customPronoun}
             authorImgSrc={photoURL}
             yourBloodType={bloodType}
             yourBloodRh={bloodRh}
