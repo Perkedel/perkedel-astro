@@ -159,7 +159,7 @@
 /another/* /apps/another/:splat
 /another.html/* /apps/another/:splat
 /another_folder/* /apps/another_folder/:splat
-/no_script/* /apps/no_script
+/no_script/* /apps/no_script:splat
 
 # LetMeRender
 /LetMeRender /apps/microsites/LetMeRenderService
@@ -185,3 +185,6 @@
 
 # ChilloutVR
 /CVRStuffings /apps/CVRStuffings
+
+# jeremyyysan PNGTuber
+/PNGTuber/* /rawHtml/:splat

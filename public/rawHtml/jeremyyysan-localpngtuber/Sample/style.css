@@ -1,0 +1,139 @@
+:root{
+    --blink-timeout: 4000; /*Minimum time in ms between blinks. Default is 4000*/
+    --blink-fuzziness: 4000; /*Random time in ms added to time between blinks. (Actual time between blinks is between blink-timeout and blink-timeout + blink-fuzziness). Default is 4000*/
+    --blink-duration: 1200; /*Time in ms for the blink state, best to set to 100 if you're using a single image set to something higher if you're using a spritesheet or gif. Default is 1000*/
+    --soft-volume-threshold: 0.03; /* Volume level for the styleVolumeSoft */
+    --medium-volume-threshold: 0.10; /* Volume level for the styleVolumeMedium */
+}
+
+#tuberdiv {
+    transition: transform 0.2s, opacity 0.2s; /* This is the transition for all states. Check https://developer.mozilla.org/en-US/docs/Web/CSS/transition for more info.*/
+    /* Maximum width and height must be specified. Idk how to make the div automagically scale to the image without knowing what's the file name (or type)*/
+    width: 580px;
+    height: 630px;
+    background-repeat: no-repeat; /* Don't change! */
+    background-position: center bottom; /* Don't change! */
+}
+
+
+
+/****************************************************************
+*  Sample default states
+****************************************************************/
+/*Default state*/
+.styleNeutral {
+    transform: translateY(20px);
+    filter: brightness(1.0);
+    background: url('testgirl_neutral.png');
+}
+
+/****************************************************************
+*  Sample blink states
+****************************************************************/
+/*Blink state with GIF*/
+/* .styleBlink {
+    transform: translateY(20px);
+    background: url('testgirl_blink.gif');
+} */
+
+
+/*Blink state with single image*/
+/* .styleBlink {
+    transform: translateY(20px);
+    background: url('testgirl_blink.png');
+} */
+
+
+/*Blink state with spritesheet, note that "@keyframes flipbook" is required for this to work.
+- When setting the duration, take note that the last "frame" lasts significantly shorter than the other "frames". You have to add time in --blink-duration
+- Steps is the number of frames minus 1
+- to {background-position-x} should be the negative width of the spritesheet plus the width of one "frame"*/
+.styleBlink {
+    width: 580px;
+    height: 630px;
+    transform: translateY(20px);
+    background: url('testgirl_blink_spritesheet.png');
+    background-position-x: 0px;
+    animation: flipbook 0.5s steps(5, end) 1;
+    animation-fill-mode: forwards;
+}
+@keyframes flipbook {
+    from {
+        background-position-x: 0px;
+    }
+    to {
+        background-position-x: calc(-3480px + 580px); 
+    }
+}
+
+
+/****************************************************************
+*  Sample soft volume states
+****************************************************************/
+/*Soft volume state with single image*/
+.styleVolumeSoft {
+    transform: translateY(5px);
+    filter: brightness(1.0);
+    background: url('testgirl_talkSoft.png');
+}
+
+
+
+/****************************************************************
+*  Sample medium volume states
+****************************************************************/
+/* Medium volume state with single image*/
+.styleVolumeMedium {
+    transform: translateY(0px);
+    filter: brightness(1.0);
+    background: url('testgirl_talkLoud.png');
+}
+
+/* Medium volume state with keyframe animations, shake in this example*/
+/* .styleVolumeMedium {
+    animation: shake 0.05s infinite;
+    background: url('testgirl_talkLoud.png');
+}
+@keyframes shake {
+    0% {
+        transform: translateX(-5px) translateY(20px);
+    }
+    25% {
+        transform: translateX(5px) translateY(15px);
+    }
+    50% {
+        transform: translateX(-5px) translateY(15px);
+    }
+    75% {
+        transform: translateX(5px) translateY(20px);
+    }
+    100% {
+        transform: translateX(-5px) translateY(20px);
+    }
+} */
+
+/*Medium volume state with additional particle (Proof of concept, doesn't look pretty)*/
+/*.styleVolumeMedium {
+    transform: translateY(5px);
+    filter: drop-shadow(0px 0px 50px rgba(116, 250, 255, 1.0));
+    background: url('testgirl_talkLoud.png');
+}
+.styleVolumeMedium::before {
+    content: "";
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    -moz-border-radius: 7.5px;
+    -webkit-border-radius: 7.5px;
+    border-radius: 7.5px;
+    background-color: #69b6d5;
+    animation: drop 0.5s infinite;
+}
+@keyframes drop {
+    0% {
+        transform: translateX(0px) translateY(0px);
+    }
+    100% {
+        transform: translateX(0px) translateY(200px);
+    }
+}  */
