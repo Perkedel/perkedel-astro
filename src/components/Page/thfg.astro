@@ -1,0 +1,74 @@
+---
+import LayoutEmbedGame from '@components/Layout/LayoutEmbedGame.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+
+export interface Props{
+    nsfw?:Boolean;
+}
+
+const{
+    nsfw=false,
+} = Astro.props as Props;
+---
+<!-- 
+favIcon ='/rawHtml/LastFunkinMoments/assets/images/art/LFMicon64.png'
+    favIconType ='image/png'
+    favIconAlt ='/rawHtml/LastFunkinMoments/assets/images/art/LFMicon64.png'
+    favIconAltType ='image/png'
+    thumbnail = 'https://raw.githubusercontent.com/Perkedel/After-Church/master/RAW%20files/Inkscape/Week%20Strong/week-2022.09-thumb.png'
+    thumbnailType = 'image/png'
+ -->
+
+<LayoutEmbedGame
+    title="The Heart Fetish Game (THFG)"
+    name = "Heart simulator game"
+    src="https://thfg.xyz"
+    style = 'border:none;'
+    height = '500px'
+    width = '100%'
+    author = 'THFG'
+    description = "The Heart's Fetishist's Game, a heart torture simulator for us dark cardiophiles"
+    keywords = "tech, fun, novelty, gratis, free, game, html5, embed, embedded, web, online, game, game online, online game, free play, f2p, cardiophile, heartbeat, beating heart, stethoscope, medical, simulator"
+    
+    SauceURLs = {[
+        ['https://www.tumblr.com/joelwindows7/745940898616147968/jackpot?source=share','https://www.tumblr.com/joelwindows7/745940898616147968/jackpot?source=share','Post about it',''],
+        ['https://www.tumblr.com/thfgxyz?source=share','https://www.tumblr.com/thfgxyz?source=share','Follow thffxyz Tumblr for updates',''],
+        ]}
+    MiscEmbedsURLs = {[
+        // ['Example','https://example.com','.75em', '200px'],
+        // ['Example2','https://example.org','.75em', '200px'],
+    ]}
+    MiscEmbedsThings = {[
+
+    ]}
+    ChangelogURL = '#'
+    ChangelogIsExternalTab = {false}
+    thumbnail = ''
+    thumbnailType = 'image/svg'
+    thumbnailWidth = {1080}
+    thumbnailHeight = {1920}
+    thumbnailAlt = 'THFG Thumbnail'
+    noPreload = {true}
+    >
+
+    <!-- Place your extra content here -->
+    <!-- VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV -->
+    <!-- https://docs.astro.build/en/core-concepts/astro-components/#slots -->
+    <p slot="aboveEmbed"></p>
+    <p slot="bellowEmbed">
+        More Info at <ButtonizedLink href='https://www.tumblr.com/joelwindows7/745940898616147968/jackpot?source=share' openInNewTab={true}>This Tumblr</ButtonizedLink>. Please follow thfg's Tumblr for updates.<br/>
+        Bookmark now! <ButtonizedLink href='https://thfg.xyz' openInNewTab={true}>Play & Bookmark & Enjoy</ButtonizedLink>
+    </p>
+    <p slot="inDescription"></p>
+    <p slot="inMiscEmbeds"></p>
+
+    <!-- <iframe slot="inMiscEmbeds" src="" frameborder="0" width="500" height="245"></iframe> -->
+
+    
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+
+</LayoutEmbedGame>
