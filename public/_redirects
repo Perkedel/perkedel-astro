@@ -17,6 +17,8 @@
 
 # Mavrickle image!!!
 /mavrickle /assets/img/mavrickle.png 200
+/mavrickle.png /assets/img/mavrickle.png 200
+/mavrickle_phone /assets/img/mavrickle_phone.png 200
 /dummy /assets/img/mavrickle.png 200
 
 # ComputerCraft stuffs
