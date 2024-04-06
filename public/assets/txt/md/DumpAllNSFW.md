@@ -6579,5 +6579,4397 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://steamcommunity.com/app/373770/discussions/0/1496741765147580115/
 - https://www.cyberlink.com/support-center/faq/content?id=10449
 - we have the derpixon fnf mod file but we lost the sauce URL of the backup reuploader! pls find!
+- https://www.tumblr.com/lailalevander/737000523284316160
+- https://www.tumblr.com/iampresto/712959234400239616/reblogging-and-signal-boosting-so-we-can-hopefully eroticheartfetish blocked me
+- https://www.tumblr.com/cptdragonheart/190474194781/pleasure-beats-my-heart-skipping-away-inside-my pleasure-beats blocked me
+- https://www.tumblr.com/jackheartb/727558250160095232/vdo7-sleeping-visible-heartbeat jackheartb blocked me
+- https://jacksonmcd.gumroad.com/l/wizkz pls sparsdat
+- https://twitter.com/spldid/status/1737324103181435215?t=RoFrcvETclbxZOudSd7HsQ&s=19
+- https://drive.google.com/drive/folders/1uIMOKxwIOmuQDJKg8CeknD_MiMWdB-c1 oppopopoi
+- https://vxtwitter.com/TeHappyHeartMan/status/1737730193484341331
+- https://www.pixiv.net/en/users/14481955
+- https://twitter.com/the_orenda_/status/1668642071077441539?t=MLEmJfdt7NBKY0D_PfBCqg&s=19
+- http://nuclearmime.newgrounds.com/
+- https://www.newgrounds.com/art/view/nuclearmime/raini
+- https://vxtwitter.com/arashievt/status/1727710647893324140
+- https://vxtwitter.com/uwmmmdd/status/1733471632281543092
+- https://dreamcircuit.tumblr.com/post/732344470724657152/by-ma2siva
+- https://dreamcircuit.tumblr.com/post/732344470724657152/by-ma2siva
+- https://youtu.be/xWaqOplc4so?si=7-JaHcN0AmGqtNRy
+- https://youtu.be/v_9ShYmGAXg?si=gP6LvXRpSLLQ3nPU
+- https://vxtwitter.com/kg1rau_/status/1721842819466400212
+- https://vxtwitter.com/HChirmiaB/status/1734591222185066530
+- https://vxtwitter.com/HChirmiaB/status/1734844927258001452
+- https://vxtwitter.com/redhod2os/status/1347741378948681728
+- https://vxtwitter.com/yukisuke_gt/status/1737599257346261445
+- https://www.tumblr.com/cardiomason1/736395985862934528/a-heart-tour-edit-with-actual-heart-footage-of no reblog
+- https://www.pixiv.net/en/artworks/114035357
+- https://www.pixiv.net/en/users/5399836
+- https://www.tumblr.com/joelwindows7/737350239204278272/%E5%8E%9F%E5%89%B5-heart-in-the-shell-shilzumi%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-pixiv
+- https://www.tumblr.com/hiimcerys-blog/734262827364319232
+- https://www.tumblr.com/resus-girl/736206602559995904 standclear360 blocked me
+- https://www.tumblr.com/joelwindows7/737332728322719744/i-hope-you-are-having-a-wonderful-day
+- from NSFW Blender..
+- https://www.youtube.com/watch?v=sGt1zm1dACw
+- https://drive.google.com/drive/folders/1RMMP9KG4KlwqaNM8ou5pbFb1XTPcH5ga and uncensored
+- https://www.tumblr.com/joelwindows7/713236355724050432/heartsound-hs-see-my-heart-can-you-listen blog deletes
+- detroit model pls check
+- https://www.tumblr.com/monicasheart62/736625478224478208/yes-and-yes dyingheartbeats blocked me
+- https://www.tumblr.com/heartfantasy/736655692528762880/dark-moods heartfantasy blocked me
+- https://www.tumblr.com/heartfantasy/737254274765078528/accidentally-shot-myself-in-the-heart-true-story
+- https://www.tumblr.com/bri911/737286426433028096/come-on-baby-spit-it-out-and-breathe-this bri911 blocked me
+- https://www.tumblr.com/bri911/737233793865465856/just-simply-wanted-to-compliment-i-i-love-your
+- https://www.tumblr.com/wickedbeating/737238137046269952/currently-my-heart-is-beating-at-131bpm-just just in case
+- https://www.tumblr.com/bri911/737188725631647744/3-days-in-a-row-just-because-i-like-spoiling-you
+- https://www.tumblr.com/bri911/737110396923707392/mans-lips-tightly-sealed-over-mine-still
+- https://www.tumblr.com/standclear360/736108841973989376 standclear360 blocked me
+- https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her
+- https://www.tumblr.com/my-dying-heart-lives/732256699883356160 phantomheart17 blocked me
+- https://www.tumblr.com/dyingheartbeats/725217254992756736/fantasizing
+- https://www.tumblr.com/bri911/736462405640552448/waiting-eagerly-for-your-content
+- https://www.tumblr.com/bri911/736257233017602048/what-would-you-prefer-to-wear-during-a-hardcore
+- https://twitter.com/levanderwolf?t=RJ8SdXMPL3xCu_zvUdnGzQ&s=09
+- https://x.com/levanderwolf/status/1734975418598293574?s=20
+- https://x.com/kodydointheworm/status/1737942404496576629?s=20
+- https://x.com/levanderwolf/status/1737988495749115964?s=20
+- https://x.com/kinkymation/status/1737927490625020036?s=20
+- https://x.com/Mlickles/status/1737551815301111966?s=20
+- https://x.com/jdotkdot5/status/1737591528707485807?s=20
+- https://x.com/tolsticot/status/1737265668439892104?s=20
+- https://x.com/levanderwolf/status/1737285130396291569?s=20
+- https://x.com/Viiperfish/status/1737184393859317828?s=20
+- https://x.com/avroras_world/status/1737035047641964813?s=20
+- https://x.com/Arminn_nimrA/status/1737100767264481496?s=20 ueay
+- Nsfw
+- https://x.com/rasyveG/status/1736093819660349940?s=20
+- https://x.com/LiLaiRa95/status/1560455733057146885?s=20
+- https://x.com/LiLaiRa95/status/1565435135322906624?s=20
+- https://x.com/LiLaiRa95/status/1569362208076795904?s=20
+- https://x.com/Arminn_nimrA/status/1735953175205814686?s=20
+- https://x.com/tsuyubamidori/status/1735749198539288594?s=20
+- https://x.com/LaynaLazar/status/1735747618012307779?s=20
+- https://x.com/ChromatoseDev/status/1735369591084232775?s=20
+- https://x.com/Kikoldraws/status/1735661695068995684?s=20
+- https://x.com/Arminn_nimrA/status/1735657183646461977?s=20
+- https://x.com/Demythical/status/1735206672031682953?s=20
+- https://x.com/THE1LFO/status/1735315068890575112?s=20
+- https://x.com/HeartbeatSNS/status/1735101284494331927?s=20
+- https://x.com/Arminn_nimrA/status/1735393031002689677?s=20
+- https://x.com/Arminn_nimrA/status/1737802527662571663?s=20
+- https://www.tumblr.com/joelwindows7/737409033606184960/yea
+- https://vt.tiktok.com/ZSNsAPNES/
+- https://www.reddit.com/r/AskReddit/s/ZYIRGvscjX
+- https://www.tumblr.com/darkbeats/736874696796209152/hey-fellow-cardiophiles-are-there-any-stores-to no do not needle
+- https://linktr.ee/miss_nessabless
+- https://bsky.app/profile/nessabless.bsky.social
+- https://twitter.com/MissNessaBless
+- https://x.com/MissNessaBless/status/1604650870695682049?s=20
+- https://x.com/Pan5z/status/1696429885021946142?s=20
+- https://www.pixiv.net/en/users/12958968 non-ere pls
+- https://www.pixiv.net/en/users/39380547/illustrations
+- https://fantia.jp/fanclubs/16113
+- https://www.tumblr.com/joelwindows7/737423815054934016/non-ere
+- https://toyhou.se/10736570.laila-levander
+- https://toyhou.se/24777248.honey-heart
+- https://www.tumblr.com/purity-in-heart/737262570510090240 heartfantasy blocked me
+- https://www.tumblr.com/purity-in-heart/737093935870148608 pls snowheartsz unblock lah
+- https://www.tumblr.com/purity-in-heart/736100630863757312
+- https://www.tumblr.com/merps/737423686191153152
+- marshmallowoz blocked me
+- https://youtu.be/vbcLT_hkmdM?si=QJStaIlAcf9byHQ7 goblok! Meme clip
+- https://youtu.be/BUlvPzUIsoo?si=1h7-GdQ235nMSSnx full goblok clip
+- https://youtu.be/jXMxbwYMjNU?si=vObmtnqttjuedr6o
+- https://juliawinterpaw.gumroad.com
+- https://youtu.be/Zgj1qC_tdHA?si=rylhlFp3AsKCRthi
+- https://www.instagram.com/reel/C1GG9hCMDV0/?igsh=M3JzdzV3N2U4am4y
+- https://www.instagram.com/p/C1HI0-bIqAF/?igsh=MWtkZG5yYjVpMTVmZA==
+- https://youtu.be/M4bLf-AwYT4?si=Y7sCNeHPeJqQHSqd
+- https://fantia.jp/posts/147018
+- https://www.pixiv.net/en/users/12958968/illustrations gone GmR28y
+- https://www.pixiv.net/en/artworks/114439473
+- https://www.pixiv.net/en/artworks/114439716
+- https://www.pixiv.net/en/artworks/109332562
+- https://www.pixiv.net/en/artworks/90302561
+- https://www.pixiv.net/en/artworks/88579118
+- https://www.pixiv.net/en/artworks/57884801
+- https://www.pixiv.net/en/artworks/45770635
+- https://www.pixiv.net/en/artworks/85757696
+- https://www.pixiv.net/en/artworks/113910075
+- https://www.pixiv.net/en/artworks/113830672
+- https://www.pixiv.net/en/artworks/113778875
+- https://www.pixiv.net/en/artworks/113696756
+- https://www.pixiv.net/en/artworks/113484642
+- https://www.pixiv.net/en/artworks/113648446
+- https://www.pixiv.net/en/artworks/113375826
+- https://www.pixiv.net/en/artworks/113452091
+- https://www.pixiv.net/en/artworks/113293194
+- https://www.pixiv.net/en/artworks/112979809
+- https://www.pixiv.net/en/artworks/111678248
+- https://www.pixiv.net/en/artworks/111670390
+- https://www.pixiv.net/en/artworks/111548511
+- https://www.pixiv.net/en/artworks/111180111
+- https://www.pixiv.net/en/artworks/111132772
+- https://www.pixiv.net/en/artworks/46780591
+- https://www.pixiv.net/en/artworks/46780591 wrong
+- https://www.pixiv.net/en/artworks/113799194
+- https://twitter.com/mirta_sfw/status/1737953033252643112?t=VwFV3R6BEgivb_Er_BByRw&s=19
+- https://twitter.com/DevSprings/status/1738035477339349207?t=VwFV3R6BEgivb_Er_BByRw&s=19
+- https://www.pixiv.net/en/artworks/109284634
+- https://www.pixiv.net/en/artworks/98577312#big_0
+- https://buhitter.com/author/curoenpitsu
+- https://twitter.com/curoenpitsu/status/1542179889813499904?t=OZ6LSyzNfZmUQzluRgNI6w&s=19
+- https://www.tumblr.com/joelwindows7/737437847024435200/%E5%BF%83%E8%A2%9C%E5%8A%A8%E6%80%81%E7%89%88
+- https://www.pixiv.net/en/artworks/112295993
+- https://www.pixiv.net/en/artworks/81999254
+- https://www.pixiv.net/en/users/188125
+- https://x.com/WH5KK/status/1082149578810437632?s=20
+- https://www.tumblr.com/arrhythmiaaffliction/665317575250558976
+- https://drive.google.com/file/d/1Z9aXJ5vy6VKwr0lB88JmxIP5UpSvSgZG/view?usp=drivesdk
+- https://www.tumblr.com/heart-fan/641760360366538752/heartbeatmp4
+- https://drive.google.com/file/d/1ZqhjPBCTIrxssnmkdt9v-rF8nbAGpULP/view?usp=drivesdk
+- https://www.tumblr.com/heart-fan/639666122151591936/sleepheartmp3
+- https://drive.google.com/file/d/19h2wnHjHP0KauMUA1dK8qdCB3s7uZpqM/view?usp=drivesdk
+- https://www.tumblr.com/kardiakrazy/736825142493265920 kardiacrazy blocked me
+- https://www.tumblr.com/thumpingofaheart/736313029867749376
+- https://www.tumblr.com/thumpingofaheart/734470482335776768 of-roses blocked me
+- https://www.tumblr.com/i-love-u-loser/737507109386780672
+- https://www.tumblr.com/joelwindows7/723770310871187456
+- https://www.tumblr.com/joelwindows7/735823930003193856/drjekyllhyde44-part-2-of-my-valentines-gift-to
+- https://www.tumblr.com/joelwindows7/735503100974137344/drjekyllhyde44-part-2-of-my-valentines-gift-to
+- https://drive.google.com/drive/folders/1HlI1q39spobjogJz0wKs2CudTuECKTMl
+- https://www.tumblr.com/joelwindows7/717544735943868416/cardiophilia-google-drive
+- https://www.tumblr.com/joelwindows7/721261238453174272/our-beloved-mavrickle
+- https://www.tumblr.com/joelwindows7/711448791790780416
+- https://www.tumblr.com/joelwindows7/715383123459915777/swfchan-realmikiarrowshinon51788swf
+- https://www.tumblr.com/joelwindows7/718920178184929280
+- https://www.tumblr.com/joelwindows7/707812028903047169/cardiomason-shadow-banned-or-they-chose
+- https://github.com/Alex313031/thorium/blob/3759529384a18ae7c1d59155e1fef48573e5834c/src/chrome/app/theme/default_100_percent/chromium/yiff.png
+- seri bercelana
+- https://www.tumblr.com/heartofmandr/737518103978704897/short-pleasure-file no reblog
+- https://www.tumblr.com/takashisky/737424860897296384/i-was-so-horny no reblog
+- https://www.tumblr.com/cardiophiles-be-like/737309410039382016/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 blocked me, deacticates
+- https://www.tumblr.com/bri911/737286426433028096/come-on-baby-spit-it-out-and-breathe-this bri911 blocked me
+- https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her blocked me
+- https://www.tumblr.com/giltori/736978524252078080
+- https://www.tumblr.com/doverlordtyrant/723791868169715712/bloodstained-roberts-wife-thier-hearts-beat-for retro heart blocked me
+- https://www.tumblr.com/heartofmandr/737438154460741632/my-poor-little-heart-cant-handle-pleasure-well no reblog
+- https://www.tumblr.com/unsafescapewolf/707386350970748928/show-chapter-archive
+- https://archiveofourown.org/works/43969653/chapters/110556969
+- https://www.tumblr.com/heartofmandr/737442101435023360 no reblog
+- https://www.tumblr.com/heartofmandr/737438154460741632/my-poor-little-heart-cant-handle-pleasure-well
+- https://www.pixiv.net/en/users/15966644
+- https://www.pixiv.net/en/artworks/112511381
+- pls retire tumblr for good. Reblog & permissionless reupload from this only.
+- https://vxtwitter.com/hoyaolaf/status/1718596145755353389/photo/1
+- https://www.deviantart.com/chrismh/art/Request-Tsugumi-Rosenmeier-937414613
+- https://vxtwitter.com/gmcgfuyu/status/1726059211573072283/photo/1
+- https://www.furaffinity.net/view/54874895/
+- https://www.furaffinity.net/view/54781232/#cid:176723043
+- https://www.furaffinity.net/view/54862617/
+- https://www.furaffinity.net/view/47558038/
+- https://www.furaffinity.net/view/47252882/
+- https://www.furaffinity.net/view/51947342/
+- https://www.furaffinity.net/view/52652744/
+- https://www.furaffinity.net/view/52652774/
+- https://www.furaffinity.net/view/49183009/
+- https://www.furaffinity.net/user/heartbox/
+- https://www.furaffinity.net/view/51068861/
+- https://www.furaffinity.net/view/51189412/
+- https://www.furaffinity.net/view/47376288/
+- https://www.furaffinity.net/user/pen-and-paper/
+- https://www.furaffinity.net/view/54870078/
+- https://drive.google.com/file/d/1ehIhPcpJ2yyh81MBJ-d7d3O-tLDEbzrQ/view?usp=drivesdk
+- https://www.furaffinity.net/view/54804215/
+- https://www.furaffinity.net/view/54638398/
+- https://www.furaffinity.net/view/54614682/
+- https://www.furaffinity.net/view/54613673/
+- https://www.furaffinity.net/view/54457911/
+- https://drive.google.com/file/d/1Ta059MIB75LK1IpfAJAfiYAACQAdyno8/view?usp=drivesdk
+- https://www.furaffinity.net/view/54457868/
+- https://www.furaffinity.net/view/54373590/
+- https://www.furaffinity.net/view/54312786/
+- https://www.furaffinity.net/view/54312786/
+- https://www.furaffinity.net/view/54309760/
+- https://www.furaffinity.net/view/54254516/
+- https://www.furaffinity.net/view/54200428/
+- https://www.furaffinity.net/view/54195935/
+- https://www.furaffinity.net/view/54191377/
+- https://www.furaffinity.net/view/54033062/
+- https://www.furaffinity.net/view/54012593/
+- https://www.furaffinity.net/view/53979735/
+- https://www.furaffinity.net/view/53973155/
+- https://drive.google.com/file/d/1nuIc3xZ70Pip4e0yEVnYlDDbXgKj40IC/view?usp=drivesdk
+- https://www.furaffinity.net/view/53972819/
+- https://www.furaffinity.net/view/53596028/
+- https://www.furaffinity.net/view/53593038/
+- https://www.furaffinity.net/view/53554550/
+- https://www.furaffinity.net/view/53554495/
+- https://www.furaffinity.net/view/53403080/
+- https://www.furaffinity.net/view/53374477/
+- https://drive.google.com/file/d/17vMqfSIEGpH6aLB7RUgR4-4tMF3zUGmN/view?usp=drivesdk
+- https://www.furaffinity.net/view/53346965/
+- https://www.furaffinity.net/view/53342052/
+- https://www.furaffinity.net/view/53226148/
+- https://www.furaffinity.net/view/53223875/
+- https://www.furaffinity.net/view/53149167/
+- https://www.furaffinity.net/view/53068655/
+- https://www.furaffinity.net/view/53068621/
+- https://www.furaffinity.net/view/53068136/
+- https://www.furaffinity.net/view/53068114/
+- https://www.furaffinity.net/view/53067744/
+- https://www.furaffinity.net/view/52742390/
+- https://drive.google.com/file/d/1dOhzGMRyxHKIfdi34X7VHHrcGOnu-w9Z/view?usp=drivesdk
+- https://d.furaffinity.net/art/pen-and-paper/1687362807/1687362807.pen-and-paper_095d9268-57a6-415c-a3d5-e7d0c7e39820.png
+- https://drive.google.com/file/d/10j8oWToJPTy5dmUT5kLP5wr1rbeaCuhJ/view?usp=drivesdk
+- https://www.furaffinity.net/view/52600058/
+- https://www.furaffinity.net/view/52514423/
+- https://www.furaffinity.net/view/52498105/
+- https://www.furaffinity.net/view/52498105/
+- https://www.furaffinity.net/view/52498085/
+- https://www.furaffinity.net/view/52357397/
+- https://www.furaffinity.net/view/52329556/
+- https://www.furaffinity.net/view/52234759/
+- https://www.furaffinity.net/view/52066645/
+- https://www.furaffinity.net/view/51905076/
+- https://drive.google.com/file/d/1LiOuRUyfz1EcIPmfuVVIzYrZakc2FyeW/view?usp=drivesdk
+- https://www.furaffinity.net/view/51796436/
+- https://www.furaffinity.net/view/51491669/
+- https://drive.google.com/file/d/1cj8Y68S4DEK1NrMwFqjfKHonNsRTlsKw/view?usp=drivesdk
+- https://www.furaffinity.net/view/51418809/
+- https://www.furaffinity.net/view/51406403/
+- https://drive.google.com/file/d/1eeUJD7gU-qrvIcr1D1165pv-p3a3j2lh/view?usp=sharing
+- finish penandpaper
+- https://www.furaffinity.net/user/lexidelphi/
+- https://www.furaffinity.net/view/52353361/
+- https://www.patreon.com/bassenji/posts?filters%5Btag%5D=Monthly%20fanart
+- https://t.me/bassenji0/377
+- https://bassenji.itch.io/latex-guide
+- https://bassenji.itch.io/latex-guide
+- https://bit.ly/LatexGuide
+- https://bassenji.itch.io/
+- https://www.furaffinity.net/user/bassenji/
+- https://bassenji.com/
+- https://twitter.com/bassenji0
+- https://www.patreon.com/posts/95225359?utm_campaign=postshare_fan
+- https://www.tumblr.com/crazy-females-heartbeat-lover/735970563707764736/your-chests-and-breasts-hipnotize-me-those
+- https://www.tumblr.com/wh3r3sth3l0ve/735396593583407104 heartpush deac
+- https://www.tumblr.com/wh3r3sth3l0ve/735304989705158656 deac
+- https://www.tumblr.com/wh3r3sth3l0ve/735304915057049600 deac
+- https://www.tumblr.com/joelwindows7/727936192961806336/prismgenixz70-ugh-omg-some-of-these-are-just
+- https://www.tumblr.com/joelwindows7/718491961486655488/prismgenixz70-fraic123-heartbeat-game-04
+- https://www.tumblr.com/joelwindows7/691219132382953473
+- https://www.tumblr.com/joelwindows7/737509560726716416/sleepheartmp3
+- https://www.tumblr.com/joelwindows7/737420750426947584
+- https://www.tumblr.com/joelwindows7/737269212441182208
+- https://www.tumblr.com/joelwindows7/737263143161675776/mednerds-maybe-the-scariest-echocardiograms-of
+- https://www.tumblr.com/joelwindows7/721472211167461376
+- https://www.tumblr.com/prismgenixz70/735898029564002304/docaculalurking-adore-your-heart-shocking-and
+- https://www.tumblr.com/feefal/736701832998617088
+- https://www.tumblr.com/heartbeater1209/722934610210766848/heartbeat-while-reacting-to-a-few-messages-and
+- https://www.tumblr.com/pleasure-beats/727901989766414336/does-anybody-else-struggle-to-reconcile-the-two pleasure-beats blocked me
+- https://www.furaffinity.net/view/52353361/
+- https://www.tumblr.com/prismgenixz70/736174185939894272/hey-love-your-videos-would-you-be-ok-with-me?source=share
+- https://www.tumblr.com/prismgenixz70/733727492226088960/just-messing-around-with-gifs-photos-and-audio?source=share
+- https://www.tumblr.com/prismgenixz70/725360259056730112/movie001mp4?source=share
+- https://www.tumblr.com/prismgenixz70/717664622009778176/drjekyllhyde44-part-2-of-my-valentines-gift-to?source=share
+- https://www.tumblr.com/prismgenixz70/713962759087407104/beautiful?source=share
+- https://www.tumblr.com/prismgenixz70/713675784801452032/just-one-of-my-favorite-gifs-i-picture-my-heart?source=share
+- https://www.tumblr.com/joelwindows7/721473027136733184/prismgenixz70?source=share
+- https://www.tumblr.com/ehrtbtgrl/713615794964168704/she-got-my-heart-in-a-chokehold
+- https://www.tumblr.com/a-heart-wanted/172819250597/introvertproblems-join-the-introvert-nation
+- https://www.tumblr.com/safi0103/655912190287724544/heartymcheartface
+- https://www.tumblr.com/kingdomheartsx/736459680116850688/feeling-flirty
+- https://www.tumblr.com/hartspot17/737449751013883904
+- https://www.tumblr.com/heartbeatloveandlife/155083488604
+- https://www.tumblr.com/megamarx26/724457609151807488
+- https://www.tumblr.com/cardio-lovers117/737243145657565184/need-this
+- https://www.tumblr.com/safi0103/655912190287724544/heartymcheartface
+- https://www.tumblr.com/traumtanzfee/669642283117903872
+- https://www.tumblr.com/lilithheartbeat-blog/185861079870/peoples-dreams-my-dreams
+- https://www.tumblr.com/captredheart/620038683320631296
+- https://www.tumblr.com/everybeatofyourheart/654125828158963712/amikoroyaiart-commission-work
+- https://www.tumblr.com/pleasure-beats/725180648699101184/do-you-have-any-embarrassing-heart-related
+- https://www.tumblr.com/eat-my-beating-heart/697175595582373888 found
+- https://www.tumblr.com/eat-my-beating-heart/695009424276881408/spammysam123-this-was-my-commission-of
+- https://www.tumblr.com/joelwindows7/737615218796068864
+- https://www.tumblr.com/joelwindows7/737615218043191296
+- https://youtu.be/cwIQdQUTekU?si=AbfuIfRlUeCfy1tq
+- https://www.furaffinity.net/journal/8675496/#cid:55850539
+- https://www.furaffinity.net/view/54916921/
+- https://www.furaffinity.net/view/54916921/
+- https://www.tumblr.com/joelwindows7/737637357955710976
+- Scenario idea fictional. Apply strong precautions before doing this at home.
+- https://vxtwitter.com/koyoriin/status/1571967754781200386
+- https://vxtwitter.com/HChirmiaB/status/1737848505459454153
+- https://www.pixiv.net/en/artworks/114439473
+- https://www.pixiv.net/en/artworks/114441522
+- https://www.pixiv.net/en/artworks/113220856#big_0
+- https://youtu.be/cwIQdQUTekU?si=NYZ3LJUWtz0RvUuE
+- https://www.tumblr.com/heartshitt/657494181494833152
+- https://www.tumblr.com/heartshitt/654325044538966016 standclear360 blocked me
+- https://www.tumblr.com/heartshitt/648753139193905152
+- https://www.tumblr.com/heartshitt/641000355954589696/thumpingdemon-my-heart-fighting-against-the-ac
+- https://www.tumblr.com/heartshitt/630040640729890816/reblog-if-you-think-trans-women-a-are-women-b
+- https://www.tumblr.com/heartshitt/625596931336552448/nyank00-uzaki-chan-wa-asobitai-ep4-a-doki-doki
+- https://www.tumblr.com/heartshitt/625152386674098176
+- https://savvytime.com/converter/est/jan-1-2024/12am
+- https://savvytime.com/converter/est-to-indonesia-jakarta/jan-1-2024/12am
+- https://www.tumblr.com/hellabutts/735710003678363648 why tf reblog disabled
+- https://www.tumblr.com/nopes-and-dreams-and-nightmares/737158951816380416
+- https://www.tumblr.com/nopes-and-dreams-and-nightmares/735544977552293888/if-you-create-adult-content-and-rely-on-patreon
+- https://www.tumblr.com/hellabutts/734156246363635712
+- https://vxtwitter.com/TeHappyHeartMan/status/1739164528212881758
+- https://www.tumblr.com/joelwindows7/737645789841653760
+- https://www.tumblr.com/justninten/721783095873896448/new-ninten-ref-for-you-all-to-use-d
+- https://www.tumblr.com/hardthuds/721960479078203392/first-heartbeat-audio
+- https://www.tumblr.com/pleasantbananafireprune/737532248634605568/cardiophilia-google-drive
+- https://www.furaffinity.net/user/valentinapaz/
+- https://www.furaffinity.net/view/54873148/
+- https://www.furaffinity.net/view/54183252/
+- https://www.tumblr.com/artvalentinapaz/737633872017293312/artvalentinapaz-unimpressed-kobold
+- https://artvalentinapaz.tumblr.com/
+- contract stipulates archive, availability, and existence above revenge. Unless revenge means to archive, keeping availabilities, and keep existence.
+- https://www.tumblr.com/ronjaberlin/734811086811004929/big-news-idk
+- https://www.tumblr.com/tagged/beating%20heart?referring_blog=joelwindows7&source=friend_cta
+- https://www.tumblr.com/ay-heart-collection/722157849864732672/be-my-collection-welcome-lady-i-would-like-to
+- https://www.tumblr.com/heartofmandr/737442101435023360 no reblog
+- https://www.tumblr.com/mrcardioorange/723762043498496000/im-bored-how-about-a-little-game-art-commander
+- Yttreia
+- https://www.patreon.com/posts/95261941?utm_campaign=postshare_fan
+- https://mega.nz/file/SOIBVBBb#WTifhoSRs0E15JG7cJdzjf8AEjuEACU5S-yKqBYR3dY
+- https://mega.nz/folder/eKInTQ7K#WOI4jq4gmzVBgSXTaQyPQw
+- https://www.deviantart.com/yttreia/art/ONE-BIG-CHARACTER-BLENDER-FOLDER-863302817
+- https://www.deviantart.com/yttreia/art/GAME-Lab-CYOA-v0-020-0-860184715#comments
+- https://yttreia.itch.io/aec-sandbox
+- https://yttreia.itch.io/
+- https://www.furaffinity.net/view/48441341/
+- https://www.furaffinity.net/view/49100276/
+- https://www.furaffinity.net/view/49968837/
+- done
+- https://grisk.itch.io/stable-diffusion-gui
+- https://www.furaffinity.net/view/38535651/
+- https://www.furaffinity.net/view/54253898/
+- https://www.furaffinity.net/view/44352659/
+- https://www.furaffinity.net/view/54334248/
+- pls more penandpaper
+- https://www.furaffinity.net/view/52580830/
+- https://www.furaffinity.net/view/50951184/
+- https://drive.google.com/file/d/1FpN-fve6qFF9rD9xR08zru8eCYwDlV7M/view?usp=drivesdk
+- https://www.furaffinity.net/view/50632097/
+- https://drive.google.com/file/d/1jPtkcuCm6q96NMNlNMQxeWNmTrgHVgjV/view?usp=drivesdk
+- https://www.furaffinity.net/view/50592196/
+- https://drive.google.com/file/d/1x6HumUIhEuYkP6HDRr6MyVDVndjsMeAB/view?usp=drivesdk
+- https://www.furaffinity.net/view/50490655/
+- https://drive.google.com/file/d/1vy8bBhL5U33nXtO1edp6m5pWKPbr13fL/view?usp=drivesdk
+- https://drive.google.com/file/d/1W8rkvbXc5F658VqKd-UWF8FZpryaSJIF/view?usp=drivesdk
+- https://www.furaffinity.net/view/51150117/
+- https://www.furaffinity.net/view/51092962/
+- https://www.furaffinity.net/view/51086155/
+- https://www.furaffinity.net/view/51086057/
+- https://www.furaffinity.net/view/51047591/
+- https://www.furaffinity.net/view/50951208/
+- https://www.furaffinity.net/view/50896857/
+- https://www.furaffinity.net/view/50443776/
+- https://www.furaffinity.net/view/50431161/
+- https://www.furaffinity.net/view/50431132/
+- https://www.furaffinity.net/view/50378092/
+- https://www.furaffinity.net/view/50374651/
+- https://www.furaffinity.net/view/50333984/
+- https://www.furaffinity.net/view/50273121/
+- done it
+- https://www.furaffinity.net/user/snakysoft/
+- https://www.tumblr.com/joelwindows7/737689183526748160/penandpaper-orion-pen-and-paper
+- linktr.ee/joelwindows7
+- https://joelrobert4.wixsite.com/perkedeltechnologies/joelwindows7-collections
+- https://docs.netlify.com/site-deploys/collaborate-on-deploys/
+- https://youtu.be/MRaw5V9RIfE?si=4q_zceaxI_dJfSAU
+- https://youtu.be/_85cjJEw0Jo?si=IfyZXbgSHT--fdBX
+- https://twitter.com/MachoBoyANIM
+- https://x.com/Its_me_NicoBros/status/1582432815492104192?s=20
+- https://x.com/Its_me_NicoBros/status/1587724253335617541?s=20
+- https://x.com/Its_me_NicoBros/status/1587724112826437634?s=20
+- https://x.com/MachoBoyANIM/status/1582129081860358145?s=20
+- https://x.com/moumekie/status/1535375949142937601?s=20
+- https://x.com/moumekie/status/1535375949142937601?s=20
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2819392938
+- https://x.com/Michafrar/status/1471167731206705166?s=20
+- https://x.com/MachoBoyANIM/status/1476385067618480131?s=20
+- https://x.com/MachoBoyANIM/status/1461844496791052296?s=20
+- https://x.com/MachoBoyANIM/status/1448054749174112261?s=20
+- https://x.com/MachoBoyANIM/status/1433929181264502784?s=20
+- https://x.com/MachoBoyANIM/status/1433929252282507268?s=20
+- https://x.com/MachoBoyANIM/status/1433929252282507268?s=20
+- https://x.com/loveJordantosen/status/1738466341592682859?s=20
+- https://youtu.be/rTrko52QLBc?si=3L66gc8N7JIRDCyr
+- https://www.deviantart.com/marrsys/art/MMD-DL-Senran-Kagura-Asuka-Military-Outfit-866720662
+- https://www.deviantart.com/users/outgoing?https://www.dropbox.com/s/74am42761z83m9f/_MMD_Senran_Kagura_Asuka_Military.zip?dl=1 and dl
+- https://www.deviantart.com/marrsys pls all
+- https://youtu.be/DYar50hTHy8?si=cB3oaEKRFG7sU5IO
+- https://youtu.be/UN6b_1fELGw?si=7YsVZLsKAWt613_V
+- https://youtu.be/Nn7_ozbx6Lc?si=jmeRBWEFXe5bzy7c
+- https://youtu.be/14-VJooqAkg?si=uQ0UADuIBmbaSJch
+- https://youtu.be/UK4Xc3OnAPU?si=OSxKygyg3ZfbJdfc
+- https://youtu.be/RPS-Cq4uMFs?si=dQ5IlGPInuORQaWA
+- https://youtu.be/80ryBllG8yI?si=L3NHBTAo7JRzaNyq
+- https://youtu.be/T3JoCKHhBys?si=eFBy_MZoHWbjNsTe
+- Choke fetish. Target is a female
+- 47 locked on a target.
+- target is sitting. Desolate. Strike behind possible.
+- wire garrote!!
+- target pain being choked.
+- ..
+- ..
+- ..
+- target did not die
+- 47 confused
+- target: Do it again? I like it!.. 😊
+- 47: 😐..., No. (Shoot head with right silverballer)!
+- .
+- .
+- https://www.tumblr.com/joelwindows7/737746976093896704
+- https://youtu.be/HHnM35X1QcE?si=SyEgPQgfxcL-LzDZ
+- https://www.pixiv.net/en/artworks/114557239
+- https://www.pixiv.net/en/artworks/110651822
+- https://www.pixiv.net/en/artworks/112210422
+- https://www.pixiv.net/en/artworks/107730103
+- https://www.pixiv.net/en/users/46814655
+- https://www.tumblr.com/joelwindows7/737748357075943424/alaxaizergore
+- https://www.tumblr.com/joelwindows7/737747822835859456
+- https://www.pixiv.net/en/artworks/113778875
+- https://www.pixiv.net/en/artworks/113769737
+- https://www.pixiv.net/en/artworks/114061519
+- https://www.pixiv.net/en/artworks/114427024
+- https://www.pixiv.net/en/artworks/112925365
+- https://www.pixiv.net/en/artworks/113750009
+- https://www.pixiv.net/en/artworks/114497456
+- https://www.pixiv.net/en/artworks/112478514
+- https://www.pixiv.net/en/artworks/112517663
+- https://www.pixiv.net/en/artworks/112473904
+- https://www.pixiv.net/en/artworks/111794491
+- https://www.pixiv.net/en/artworks/111709237
+- https://www.pixiv.net/en/artworks/111632850
+- https://www.pixiv.net/en/artworks/111670390
+- https://www.pixiv.net/en/artworks/111579248
+- https://www.pixiv.net/en/artworks/110626816
+- https://www.pixiv.net/en/artworks/108337723
+- https://www.pixiv.net/en/artworks/98475094
+- https://www.pixiv.net/en/artworks/78656983
+- https://www.pixiv.net/en/artworks/114503993
+- https://www.pixiv.net/en/artworks/114438306
+- https://www.pixiv.net/en/artworks/114434137
+- https://www.pixiv.net/en/artworks/114157581
+- https://www.pixiv.net/en/artworks/103254740
+- https://www.pixiv.net/en/artworks/111348442
+- https://fantia.jp/posts/2154246
+- https://www.pixiv.net/en/artworks/114137461
+- https://www.pixiv.net/en/artworks/109708554
+- https://www.pixiv.net/en/artworks/109564308
+- https://www.pixiv.net/en/artworks/109622809
+- https://www.pixiv.net/en/artworks/110962194#manga
+- https://www.pixiv.net/en/artworks/110962194#big_1
+- https://www.pixiv.net/en/users/94069220
+- https://www.pixiv.net/en/artworks/114252304
+- https://www.pixiv.net/en/artworks/113141976
+- https://www.pixiv.net/en/artworks/112691344
+- https://www.pixiv.net/en/artworks/108673751#manga
+- https://www.pixiv.net/en/artworks/113976481
+- https://www.pixiv.net/en/artworks/113820980
+- https://www.pixiv.net/en/artworks/114120346
+- https://www.tumblr.com/joelwindows7/737750883976216576/%E5%88%B9%E5%BF%8C%E3%81%95%E3%81%A4%E3%81%8D-skeb%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%82%B5%E3%83%B3%E3%83%89-double-earsteth-touhou
+- https://www.tumblr.com/stethaddict/737621014269329408
+- https://www.tumblr.com/grey-princess22/730096249903169536
+- https://www.tumblr.com/freethegens
+- https://www.tumblr.com/arandomdragondude/641380770155528192/coronary-halt-the-heart-ceases-beating-when
+- https://www.tumblr.com/arandomdragondude/665857572679614464
+- https://www.tumblr.com/arandomdragondude/711003483860516865
+- https://www.tumblr.com/arandomdragondude/715675572636942336/those-pvcs
+- https://www.tumblr.com/arandomdragondude/717935421188915200/thumpingdemon-drjekyllhyde44-part-2-of-my
+- https://www.tumblr.com/arandomdragondude/726589723845525504
+- https://www.tumblr.com/joelwindows7/737698332790718464
+- https://www.tumblr.com/thumpingdemon/737758471129300992/unplanned-video-but-just-earlier-i-ran-up-two no reblog
+- https://www.tumblr.com/thumpingdemon/737745314567585792/well-that-was-inevitable-so-here-it-is-happy
+- https://www.tumblr.com/takashisky/737424860897296384/i-was-so-horny no reblog
+- https://www.tumblr.com/caheartman/737370086689701888/i-know-this-gal-shes-divine-anance-from-fetish
+- https://www.tumblr.com/joelwindows7/737765122338078720/httpsrumblecomv3mqa94-asmr-gina-carla-listen-t
+- https://www.tumblr.com/joelwindows7/737765122338078720/httpsrumblecomv3mqa94-asmr-gina-carla-listen-t
+- https://rumble.com/v3mqa94-asmr-gina-carla-listen-to-my-heart-.html
+- https://www.tumblr.com/alexsaibot/146640711080/mantelfungus-something-went-wrong-ill-learn
+- https://www.tumblr.com/beatsofpleasurev
+- https://www.tumblr.com/h3artb3at-l0ver/734539149557874688/me-too-omg
+- https://www.tumblr.com/cprdummies/672716232478310400/stress-test
+- https://x.com/newworld_86/status/1739317847539568657?s=20
+- https://www.tumblr.com/emerypens/727314287501197312/oh-the-things-id-do-to-see-you-again
+- hitman transformation transfur.
+- 5 missions.
+- drink this TF juice. It turns you to furry woman or vice versa and become gay or lesbian. Effect lasts 16 days.
+- one scientist volunteered trial says I like boob and my heart beats fast.
+- the TF is required disguise, coz all 5 mission located in furry anthro dimension, and targets are all member of Propritarists, a division of Federals. They had helped supreme queen located victim and executed them.
+- fun fact, on drank by female, the juice turns her into femboy. It cannot shrink thigh, only thickens. Also it cannot grow penis if it has no, a.k.a. vagina.
+- https://www.furaffinity.net/view/54183252/
+- https://www.tumblr.com/gingerhearts0214/734539409035264000/visible-pounding
+- https://www.tumblr.com/female-heart-stuff/735250163410632704 no reblog
+- https://www.tumblr.com/tshekhob/179165183097/%E4%BA%BA%E9%AD%9A%E8%B2%A9
+- https://youtu.be/i3sRSS6fN0g?si=TTCZGfzHNU_G9clN
+- https://youtube.com/shorts/CmaFU1Y7FJc?si=YqP-l3HOD9_Vqbo4
+- https://youtu.be/a6Xn4TR0WDk?si=QMYgz5jxkDDFTbZw
+- https://youtu.be/LYsCODQfIp4?si=oT2ExKURDxEBrdmT
+- https://youtube.com/shorts/X45jivIuCH4?si=iY8QNFXlyok4QtBx
+- https://youtu.be/7mSH86O2qzA?si=mh7bqsI9vDsNo6l_
+- https://www.tumblr.com/joelwindows7/737840186357104640
+- https://www.deviantart.com/daleport996
+- https://www.deviantart.com/daleport996/art/Yellow-Fox-1005364159
+- https://www.deviantart.com/daleport996/art/One-Step-Ahead-996561251
+- https://www.tumblr.com/joelwindows7/737841332993884160
+- https://www.tumblr.com/joelwindows7/737576193627471872/cruxia-suddenly-an-ask-ack-i-hope-my
+- https://www.tumblr.com/joelwindows7/737865336200839168
+- https://www.tumblr.com/joelwindows7/737860849314725889
+- https://www.tumblr.com/joelwindows7/737860849323114496
+- https://perkedel.netlify.app/apps/cvrstuffings/enternsfw/nsfw/
+- https://perkedel.netlify.app/?netlify_hud=faf44159-afa6-46d4-b5fe-aac959b44466
+- https://youtu.be/kVoa72jhEBw?si=yyzukae8iUyOsema
+- https://youtu.be/JmCCNVCxKJI?si=TAGZxywCg1D_GBJL
+- https://youtube.com/shorts/_Va_U_CJKWw?si=qdknq4m1pVahUaHU
+- https://fitgirl-repacks.site
+- https://1337x.to/user/FitGirl/
+- https://fitgirl-repacks.site/page/2/?fbclid=IwAR3GLO26QpSgpv3X367mOPTfOII4umO1xf3lNjE94lse7Ofm7e3f1cb2EVw
+- https://youtube.com/shorts/KrYRvwbOIjg?si=wVYvCCNz4IJ1oSeM
+- https://youtube.com/shorts/tUbezWfNh2k?si=Ly7R10OWwURQkG_G
+- https://youtube.com/shorts/4TznoEbN4k0?si=Ppu00SjEijuifv4p
+- https://www.tumblr.com/littlestrangefeeling
+- https://www.tumblr.com/thumpingdemon/737749218364735488/this-was-not-intentional-but-something-interesting no reblog
+- https://www.tumblr.com/thumpingdemon/737745314567585792/well-that-was-inevitable-so-here-it-is-happy
+- https://www.tumblr.com/heartofmandr/737518103978704897/short-pleasure-file no reblog
+- https://www.tumblr.com/heartofmandr/737442101435023360
+- the stiflers, starts from one author. And then another. Then another. Assembles. Eventually, become mountain. Behemoth, armageddons of files.
+- https://www.tumblr.com/renyashiro/737303637078966272/dinogame
+- ponku-po blocked me
+- https://www.tumblr.com/ponku-po/737258997594341376/same-ja0822ck ponku-po blocked me
+- https://www.tumblr.com/ponku-po/737259283895484416/princess-twilight-saxopi
+- https://twitter.com/ja0822ck/status/1734803141353513055
+- https://twitter.com/saxo_pi/status/1736156836808781881
+- done
+- https://x.com/saxo_pi/status/1736156836808781881?s=20
+- https://x.com/Marenlicious/status/1739795337102131620?s=20
+- https://x.com/SyrupyyyArt/status/1739768052512592140?s=20
+- https://x.com/mirta_sfw/status/1739729592057835696?s=20
+- https://x.com/PetalTwinkle/status/1739850988226580836?s=20
+- https://x.com/nephyrus/status/1739741490681692426?s=20
+- https://www.tumblr.com/joelwindows7/737886332669607936/these-2-pony-arts
+- https://www.tumblr.com/thefatrat/117929050268/faq-can-i-use-your-music-for-my-video-on-youtube
+- https://www.tumblr.com/thefatrat/119282634398/can-we-get-a-list-of-all-the-plugins-you-use-d
+- https://www.tumblr.com/thefatrat/109290176793/new-song-never-be-alone-will-be-out-on-thursday
+- https://www.tumblr.com/thefatrat/68395215079
+- https://www.tumblr.com/thefatrat/42941281310
+- https://www.tumblr.com/i-love-visible-beats/737887312207364097
+- https://www.tumblr.com/thumpingdemon/737745314567585792/well-that-was-inevitable-so-here-it-is-happy
+- homestuck harrasser boss
+- a kamatussa. Feminine design.
+- in realm of aura post. Social media post fly around
+- Tavros, Vriska, and Gelobin
+- raise cancel
+- if the guy popular, and then fatal asshole, anyone right to whistle blow
+- then I have right to cancel you. Oh, personally, you did attack your own kind.
+- You do not ever say it
+- guys attack first, the teleporter keep breal coz she has power in this realm
+- what do you say? Fight, or stay forever
+- ugh!! Damn it! Break again
+- tavros: you know what, (draw), fuck you, (canon)
+- https://www.tumblr.com/lattim2014/715197176849072128
+- https://youtube.com/@BookwormBeats38?si=_RbyzHNXQLhdcfTp
+- https://youtu.be/rCV9ILmhnAk?si=rosQbEEH3EfCdNoq
+- https://www.tumblr.com/joelwindows7/737943735483105280
+- https://www.tumblr.com/joelwindows7/737938572748996608/nuclearmime-machinebyprinciple-swiggity
+- https://www.instagram.com/nuclearmime/
+- https://www.instagram.com/p/C0OFfX6uG4B/?utm_source=ig_web_copy_link
+- https://www.instagram.com/p/C025g8PLg7-/?utm_source=ig_web_copy_link
+- https://www.instagram.com/p/CxQcZktLpVw/?utm_source=ig_web_copy_link
+- https://www.tumblr.com/nuclearmime/728630760854175744
+- https://www.tumblr.com/gif-tengoku/737888703789285376
+- https://www.tumblr.com/joelwindows7/737933443635216384/nuclearmime-dalmationart-lil-gift-art-for
+- https://www.tumblr.com/heartofmandr/737889436575072256/very-stressed-little-heart no reblog
+- https://www.tumblr.com/heartofmandr/737714390172860416/your-gift
+- https://www.tumblr.com/joelwindows7/737935932356968448/nuclearmime-actionbastardvirginblaster
+- https://youtu.be/kEdYeQ3NJyQ?si=GrTYKdZ8RNI2aENA
+- https://www.tumblr.com/len-the-redheaded-hero/737786908336340992/professional-worker-right-there
+- https://everyonedraw.com/1/22830/7442
+- https://everyonedraw.com/15/22727/7491
+- https://vxtwitter.com/3D_Padawan/status/1739318827190812748?s=20
+- https://discord.com/channels/848401393701748787/1014569609279578183/1188694744612753438
+- https://hiddenmask18.gumroad.com/l/ggwey paid
+- https://hiddenmask18.gumroad.com/
+- https://discord.com/channels/848401393701748787/918745467658059826/1189290295104372756 pls download
+- https://vxtwitter.com/SumFaggut/status/1739732741585793128 and post
+- https://twitter.com/SumFaggut/status/1739732741585793128?t=TNr5_Q7VMgyJ33gQApOxJQ&s=19
+- https://twitter.com/zebjzz/status/1739438434073096555?t=pdJmoKypU9GS_Gqpn0m-oQ&s=19 pls dl
+- https://discord.com/channels/519291740679569408/519413472069419008/1189897712179609710
+- https://ux.getuploader.com/xxcake/
+- https://w.atwiki.jp/xxcake/
+- pass `CAKE` listed in article
+- https://www.tumblr.com/joelwindows7/737972099229057024/how-to-download-xx-cake-video-editor-manipulator
+- https://xupefei.github.io/Locale-Emulator
+- https://x.com/Myumyu431/status/1740204171402579979?s=20
+- https://x.com/lruxn03388722/status/1740371069104804312?s=20
+- cvr pls
+- https://warrenwolfy.gumroad.com/
+- https://vinuzhka.gumroad.com/
+- https://wetcat.gumroad.com/
+- https://sanyacosmos.gumroad.com/l/VenusBodyVR
+- https://sanyacosmos.gumroad.com/
+- https://peeeep.gumroad.com/
+- https://gireison.gumroad.com/
+- https://alctrap.gumroad.com/
+- https://alctrap.gumroad.com/l/38b?layout=profile wtf
+- https://cicieaaavr.gumroad.com/
+- https://depressed.gumroad.com/
+- https://moonmango.gumroad.com/
+- https://23mink.gumroad.com/
+- https://sunnybunnie.gumroad.com
+- https://bunnybubble212.gumroad.com/
+- https://ultim8nik.gumroad.com/l/fafcj pomni
+- https://discord.com/channels/410126604237406209/797279576459968555/1189972363924733993
+- https://discord.com/channels/410126604237406209/797279576459968555/1019708265975783424
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709401902366811
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709581968035860
+- https://discord.com/channels/410126604237406209/797279576459968555/1019709854992044164
+- https://discord.com/channels/410126604237406209/797279576459968555/880253373662781450
+- https://discord.com/channels/410126604237406209/797279576459968555/1019707740521771058
+- https://discord.com/channels/410126604237406209/588350770777161748/1183196903761002537
+- https://discord.com/channels/410126604237406209/588350770777161748/773149374477762623
+- https://discord.com/channels/410126604237406209/588350770777161748/802167260076179477
+- PolyCount unity assets
+- https://discord.com/channels/410126604237406209/588350770777161748/802169542586662934
+- https://discord.com/channels/410126604237406209/588350770777161748/1002061861220528178
+- https://discord.com/channels/410126604237406209/588350726841827358/1189296880895668225
+- https://github.com/akasaki1211/AkBoneDynamics
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305801467580476
+- tex
+- rex
+- https://gillscreations.gumroad.com/l/merinian
+- https://gillscreations.gumroad.com/
+- https://discord.com/channels/410126604237406209/588350726841827358/1150126067521159302
+- https://discord.com/channels/410126604237406209/588350726841827358/1001982894912319540
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302687293317202
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302763851940003
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302614098526258
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302532213116988
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302494435029022
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302246287417464
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302382807822396
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303106576924713
+- https://discord.com/channels/410126604237406209/588350726841827358/1011302987114758226
+- https://discord.com/channels/410126604237406209/588350726841827358/1011303727371649074
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304133392879646
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304422858575983
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304632594731069
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304786055942256
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304833271214223
+- ok listen fuckheads. No no no, not any of you. You're cool. The fuckheads you gamers talking about. Yes. *Heavy Christian* & LGBT Phobic
+- fuckheads. I am Christian too, and I extremely hates LGBT wholeheartedly. But this does not constitute or is not ethical to restrict who customers shall use the assets.
+- I got fewer than you guys alone. But I always allow anyone use it. One day if I able to somehow make bunch of goth titty furries, I'll let all gamers use it. Guess what? My friend's right! You have no idea what do they use it for. Although, it's still ethical to prevent hate speech, but you got the point!
+- that's right, whoever straight, gay, lesbian, bi, whatever neogenders, atheists, islam, confucian, all and all, even the most juvenile uses, gore and shits (scat), **I shall not care**, and you should too.
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304968084541520
+- https://discord.com/channels/410126604237406209/588350726841827358/1011304955929448458
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305612958760970
+- https://discord.com/channels/410126604237406209/588350726841827358/1011305703836749915
+- ok to be fair tho, I also have an asshole move but it's still proposal. Is to no longer CC4.0-BY-SA and instead prevent Paywallism, Proprietarism, and Partialism. Because neither GNU, nor CC prevent any of these fucking shit from happening. Still in a thinking tho, not real yet. Be cool, I guess, so I don't be.... Evil, more like anti-hero.
+- I want to download but it's paid. We family already paid so much these days. Foods costs 1 digital files these days. Okay exageration, but remember inflations!
+- we then have to sort to sparsdat. But thankfully, because now I have trusted system and trusted payment method, I can buy legit. Look, we are not so poor. Only.... Parents paranoid what if got hacked only because of insertinf credit card info to a computer, I think that's it.
+- help others too will ya? If you got the money from this card, that same card who knows accidentally inserted to a sketchy ass store, whose developer did not carefully store their private keys safely. Just saying. Doesn't matter if Parrents stupid, IT experts who has been Doctor ranked (S3 Doktor) too! It's oblivious! Best trusted and popular store even the payment broker the store relied on can get hacked!
+- ok
+- family these days are insane.
+- everyday we see they are too restrictive and enforces too much.
+- causing religion to be more like, .... Faction.
+- (metal suspense)
+- if faction becomes too harsh and inappropriate, you will get out and in the end...
+- (metal suspense, show sample ID card parameter `religion` shows `null` meaning Atheist)
+- So, are you one of them?
+- one of the victims?
+- we can help.
+- .
+- .
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- 758
+- https://vxtwitter.com/RubberAnimation/status/1740414202110423417
+- https://youtu.be/JtFbDDb6Dv8?si=7VMYL_ErwOS2_5-w
+- https://vxtwitter.com/Tranquillity650/status/1738841379336540457
+- https://vxtwitter.com/HChirmiaB/status/1739292010216095995
+- https://www.pixiv.net/en/artworks/109270067
+- https://youtu.be/wBCA4n9mExE?si=5Ec5BFG29OXVdCt6
+- https://www.tumblr.com/joelwindows7/738031539333545984/chisatos-artificial-heart
+- https://youtu.be/a6EWIh2D1NQ?si=w18xeQ4UfH0YaomV
+- https://youtube.com/shorts/Euru5x06Zbs?si=iFiGSBNyxyxYvjnV
+- https://www.tumblr.com/joelwindows7/738044647318945792
+- https://www.tumblr.com/joelwindows7/738044647386005505/resuscitatemeplease-maybe-you-should-fill-my
+- https://www.tumblr.com/littlestrangefeeling/736307640999788544
+- https://www.tumblr.com/littlestrangefeeling/736306841354633216/perfect
+- https://www.tumblr.com/littlestrangefeeling/736306841354633216/perfect
+- https://www.tumblr.com/littlestrangefeeling/736307640999788544
+- https://www.tumblr.com/littlestrangefeeling/737011304563359744
+- https://www.tumblr.com/bri911/734483989822308352/did-someone-call-for-a-chest-to-work-on bri911 blocked me
+- https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her
+- https://www.tumblr.com/bri911/737110396923707392/mans-lips-tightly-sealed-over-mine-still
+- https://www.tumblr.com/heartbeatbpm/736313582955921408
+- https://www.tumblr.com/standclear360/736164529940103168 standclear360 blocked me
+- https://www.tumblr.com/luvnurses62/736080629010235392 luvnurses62 blocked me
+- https://www.tumblr.com/steth-sins/733915707143798785/sweet-spot
+- https://www.tumblr.com/anonymousnovelist66/734570907367047168/someone-give-me-a-non-sexual-cardiophile-writing
+- climb mountain?
+- https://www.tumblr.com/cardio-b/734623473229512704
+- https://www.tumblr.com/eroticheartfetish/734554767106457600 eroticheartfetish blocked me
+- https://www.tumblr.com/female-heart-stuff/724925835559190528 no reblog
+- https://www.tumblr.com/kardiakrazy/734017853452369920 kardiakrazy blocked me
+- https://twitter.com/ReenubAD/status/1740800691365683571?t=mkzMRJ1DU6RL9Hllwu_MEA&s=19
+- https://x.com/ReenubAD?t=w89Nr667fTURkJGBMqzbPg&s=09
+- https://twitter.com/ReenubAD/status/1740545616823095511?t=w89Nr667fTURkJGBMqzbPg&s=19
+- https://twitter.com/ReenubAD/status/1740435696962490831?t=w89Nr667fTURkJGBMqzbPg&s=19
+- https://twitter.com/ReenubAD/status/1738226775505940738?t=w89Nr667fTURkJGBMqzbPg&s=19
+- https://youtu.be/ibQpM_gNlQc?si=pmfn1Nd1jkawNonb
+- https://youtube.com/shorts/Eyz0FL2OqTE?si=GlWoGrru-vilfkS6
+- https://youtu.be/Cfu5_e4fayA?si=cIe7UAbXlTNCDJ9p ambatukam
+- https://youtu.be/pyip7BkeAXE?si=fXoI3Mgzw5JkgFKh
+- https://youtu.be/1xhanywrbOw?si=pUs5FzWu0R8XD6CS
+- https://youtu.be/KF4Qgh17hrI?si=84wtALoQBndVIE6r
+- https://youtu.be/VKgHJAsX2m8?si=SMBirnuwgcCUZSJU
+- https://youtu.be/JAPbQXo84XY?si=jc2dS5yIaJu_5gSQ
+- https://youtu.be/iZLQ5TxaMXs?si=ygeUGdKSKXbR5vj5
+- https://youtu.be/KmV6B6wBm04?si=8vDVKd825dbl-47U
+- https://youtu.be/oBAaCXeLAs0?si=XAxg9L-3M0npjdnd
+- https://youtu.be/p24sEazOTrU?si=MPlCi7lF3p5Rwd0a
+- https://youtu.be/gyasdmtHPRo?si=ZMd9MiyT-jtBH5qo
+- https://twitter.com/MrBrauza23
+- https://x.com/MrBrauza23/status/1727999749788426440?s=20
+- https://x.com/MrBrauza23/status/1727269395641328076?s=20
+- https://x.com/MrBrauza23/status/1724779413508899254?s=20
+- https://x.com/MrBrauza23/status/1722537944630857783?s=20
+- https://x.com/MrBrauza23/status/1721519849224970728?s=20
+- https://x.com/memesoldier115/status/1721522135179366724?s=20
+- https://x.com/MrBrauza23/status/1720019569803403544?s=20
+- https://x.com/MrBrauza23/status/1719434206139568229?s=20
+- https://x.com/MrBrauza23/status/1719071489256046605?s=20
+- https://youtu.be/PyXJ42NtKp4?si=GcSES8OZNw17xe9q
+- https://youtu.be/QTnkpAW5j0E?si=pksw-RrVV5JUIDzR
+- https://youtu.be/cBgdUKOfTUo?si=HQOSKuEaWWTqG-F4
+- https://youtu.be/dW1QR14n_DE?si=U8b6aeurGky61Oey
+- https://youtu.be/i8vBOzADVe0?si=NF_oAf8gd4rrc0xw
+- https://youtu.be/Ybogc4Cn38A?si=E4tWNgeq85kofYW0
+- https://twitter.com/Parsley_F/status/1740994991458271261?t=jqT21I15o7XaPlnfR7h84w&s=19
+- - https://sketchfab.com/foxyl/models pls track all stolen (reupload no sauce URL) files as all as we can
+- we found...
+- Cally3D / Vibapop. Notorious for paywallisms except Deltarune, FNF mods, and.. I forgot what else.
+- Smutbase like COEL3D, LazZa, .. Damn who else?
+- Possible many original sauce URL are gone by the time we're here.
+- all files are **glb only**.
+- https://www.pixiv.net/en/artworks/114460637
+- https://www.deviantart.com/dannimondesigns/art/Stacie-and-Miki-Frog-Suits-977295166
+- https://www.tumblr.com/cardiomason1/735752897037565952/miss-varn-the-school-human-biology-teacher-has no reblog
+- https://www.tumblr.com/cardiomason1/726823403241324544/heres-the-comic-adaptation-originally-uploaded-to
+- https://www.tumblr.com/cardiomason1/726823256882053120/a-comic-im-adapting-need-voice-actors-though
+- https://www.tumblr.com/prismgenixz70/737714993495261184 dyingheartbeats blocked me
+- https://youtube.com/shorts/QbeqW1NVr2g?si=LJXzLr0FZFeSeWLd
+- https://youtu.be/OzBlU-DCltY?si=Tcmudg9W-cfm0EFx goat story katy
+- https://youtu.be/2hdu0YXOh9s?si=CF_zWHYXvUC4B8Dl
+- https://youtu.be/Vu32LvvTY94?si=ky2rwEzOG3-qAPU9
+- https://youtu.be/mpDtLp4aLZc?si=cXgZJi6MlZt-mCwW
+- https://twitter.com/Shiben_c16e4/status/1738123784648036452?t=HovXqlJHa0D8B4lTi_WaTw&s=19
+- https://twitter.com/Parsley_F/status/1740994991458271261?t=PKlRjbBoE4ZDr9ywsSqY2w&s=19
+- https://youtu.be/Q1lXCDCb1NM?si=9Mt3XYzC-4jyJTWR
+- https://youtu.be/eDmYbBKuqyE?si=5bWiZfJ8fE2Yizh-
+- https://youtu.be/eDmYbBKuqyE?si=5JOnI7CfygS3ial5 Zurikishi comic pls
+- https://youtu.be/JicQBDYrL5w?si=HYZS8zi1xzpgxWbz oh no..
+- https://youtube.com/shorts/KiZDjLbGyYg?si=f1F-w01enndb5KhD
+- https://twitter.com/ReenubAD/status/1741277034935181733?t=T5dJ_dX0QhwoAmlrVRXXiA&s=19
+- https://www.furaffinity.net/view/54965180/
+- https://www.weasyl.com/view/2337850/
+- https://e621.net/posts/4500640
+- https://vxtwitter.com/5ildo/status/1740561382272348494
+- https://vxtwitter.com/RubberAnimation/status/1741447606880928205
+- https://twitter.com/yonedatomomizu/status/1739616690101702968?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/myuto12345/status/1741016020742230148?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/Kyutai_X/status/1740669691650302160?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/peepo_rose/status/1741258131051892883?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://twitter.com/kusakari27/status/1740012548144144571?t=qHFdTFtid3VTjAOm7WbPqA&s=19
+- https://www.tumblr.com/squeakitties/733435501279887361
+- https://www.tumblr.com/squeakitties/731388102840664064
+- https://www.tumblr.com/squeakitties/730902338121973760/yeah-its-actually-twofold-autism-and-the-suit
+- https://www.tumblr.com/squeakitties/730159111606566912/decided-to-put-all-3-dreamatduskk-miaous-into-one
+- https://www.tumblr.com/squeakitties/729026093012729856
+- https://www.tumblr.com/squeakitties/728355788520816640
+- https://twitter.com/blush_brush_art/status/1728111128805302640?s=46&t=oiMR7GysTIBsVSlqK01YEQ
+- https://vxtwitter.com/HChirmiaB/status/1740636805446443072
+- https://vxtwitter.com/gashihi_mc/status/1472879767447687168
+- https://vxtwitter.com/HChirmiaB/status/1741458892906017109
+- https://vxtwitter.com/wxtwWr6t0K45QjC/status/1741112043460313448
+- https://www.dlsite.com/maniax-touch/work/=/product_id/RJ01082852.html/?utm_medium=affiliate&utm_campaign=sns_link&utm_content=RJ01082852&utm_source=t.co%2F
+- わらしべおま〇こ!ヤれる子つなぎの性生活2 akamotoakamoto https://www.dlsite.com/maniax-touch/work/=/product_id/RJ01082852.html
+- https://twitter.com/misyune12/status/1741366075969916965?t=bezxEz-NHolwLRN4JqWWQA&s=19
+- https://twitter.com/ignesous/status/1667484503445479426?t=LWVZrvF2aMDGbJ0xz_eNaw&s=19
+- https://discord.com/channels/960824606346838056/1124103406076829817/1124103722004398140
+- https://discord.com/channels/960824606346838056/1117922511011717262/1120290898501177434
+- https://youtu.be/TO_WG9NhJcE?si=KFfbEGzffvsaSTZT
+- 69420 guards. These 2 are guard at 69420 sub section in X0p1r4t3 trade center mall lobe at floor 1 (above Ground). They verify visitor ensure they are biologically adult.
+- by default, they scan IDs to check birthdate and calculate age. They only let whose age above 18 in.
+- in funny case, there were serveral case of Tamashiens which are dwarfs. Of course also, they had their valid ID and that flabbergasted the guards. They even called radiology test, and they are adults.
+- therefore since then, every valid verification now will say `Apologies, right this way`.
+- so..
+- `Sorry, adults only`.
+- if error `Sorry, you must be adult, next.`
+- if valid `Apologies, right this way`. It was `thank you`.
+- Admiral Zumi and friends specifically agreed to this recent rule, because guard work jobs like this would underestimate visitor by size and by reflect cause prevention stance, which those all are extremely impolite.
+- and to ease the job, and remove lags from like overseeing complex cases like tall by not adult yet, X0p1r4t3 simply billed the rule about this *Apology*.
+- and just last week, X0p1r4t3 already had hands on Quick Radiologist system to check indisputable biological age, **Real Time**, & fast. No more forged IDs.
+- But Apology rule will still be here, to ensure friendliness parameter kept upheld, as Japan as possible.
+- eventually, start verification becomes `Please hold still.`.
+- tag cvr
+- .
+- .
+- https://youtube.com/shorts/Wu5QhaX_3HM?si=Z4mJuONSXnaU0Fyt
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100064697106148/posts/755870973246133/?mibextid=NOb6eG
+- a
+- https://docs.google.com/spreadsheets/d/1lrE5EGtuDsrwRJNSHIEN9hsGggxzLHmDV5rwuHkmndQ/htmlview#gid=0 this
+- https://www.facebook.com/groups/MMDIndo/?ref=share&mibextid=NSMWBT from here
+- 📸 Lihat postingan ini di Facebook https://www.facebook.com/100078753532167/posts/348746671093781/?mibextid=NSMWBT
+- https://www.deviantart.com/aziib/art/Maya-Putri-3d-Model-ver1-01-MMD-Download-1004214586
+- https://x.com/Wake_Up_Deadman/status/1739788709715984493?s=20
+- https://x.com/eldoradoed_art/status/1739667137986433498?s=20
+- https://youtu.be/okFxRNBvZQ8?si=weMhD7Zl5hrgOQ9n
+- https://youtu.be/Z-MeAPXdKEY?si=ZNDYjVyxyNKVV5eo
+- https://onlyfans.com/markiplier
+- https://www.tumblr.com/hbbitch/738278821773639680
+- https://www.tumblr.com/joelwindows7/738236188243230720/lasororesanimae-this-was-the-very-first-version
+- https://www.tumblr.com/joelwindows7/738246765504069632/rainbowsprinklesart-part-1-mrpwner-commissioned
+- https://www.tumblr.com/joelwindows7/738277819843543040/onjey-jay-yas-all-of-you
+- https://www.tumblr.com/onjey-jay-blog/185753233578/always-support-isabelle
+- https://www.tumblr.com/joelwindows7/738246765504069632/rainbowsprinklesart-part-1-mrpwner-commissioned
+- https://www.tumblr.com/joelwindows7/738311299538239488
+- https://www.tumblr.com/joelwindows7/738311298831515648
+- https://www.tumblr.com/joelwindows7/738308779031101440
+- https://www.tumblr.com/joelwindows7/738308778909417472
+- https://youtu.be/OqwSXjxqH_w?si=gPgRU8sLLfRnMSsx
+- https://youtu.be/lp-H_7ypLso?si=ojq2WAqQEmoNbs1C
+- https://youtu.be/9ddSq5mQhTw?si=3XLCd77TjcCsJS1_
+- https://youtu.be/Q0dOt-o-M18?si=GT8hFUolOuSj2s4R
+- https://www.tumblr.com/yuuki-snow/175715727286/tenebrisdawriter-this-is-not-mine tenebris blocked me
+- https://www.tumblr.com/yuuki-snow/175715709266/tenebrisdawriter-can-you-feel-it-mario
+- https://www.deviantart.com/jay-marvel/art/Mario-and-Peach-500004114
+- https://www.tumblr.com/yuuki-snow/175663303776/pleasure-beats-i-was-just-trying-to-relax-but pleasure-beats blocked me
+- https://www.tumblr.com/yuuki-snow/175662684651
+- https://www.tumblr.com/runscold-runsdeep/730745312116965376/mephs-heart-testfirst-attempt-the-quality-is you don't want reblog, but forgot turn off reblog
+- https://www.tumblr.com/runscold-runsdeep toxic likely
+- https://www.tumblr.com/runscold-runsdeep/725859615522308096/important-readabout-me
+- https://archiveofourown.org/users/runscold_runsdeep
+- https://www.pixiv.net/artworks/114707795
+- https://twitter.com/GK0322/status/1741588793797509585?t=XLpn20fDaM17H1-BiXoLFg&s=19
+- https://twitter.com/kusakari27/status/1741612735220326443?t=XLpn20fDaM17H1-BiXoLFg&s=19
+- https://twitter.com/teranekos/status/1741285335009828941?t=B6i-2ZPcZ2byPgWCO9AzNA&s=19
+- https://twitter.com/Kabocya_Na/status/1741739033728778598?t=B6i-2ZPcZ2byPgWCO9AzNA&s=19
+- https://twitter.com/kimnicodesu/status/1741595099757424935?t=B6i-2ZPcZ2byPgWCO9AzNA&s=19
+- https://twitter.com/aazsxx2/status/1741345142030942533?t=B6i-2ZPcZ2byPgWCO9AzNA&s=19
+- https://www.tumblr.com/stethmyheart/732976099666034688 xjustcuriousx blocked me
+- http://www.patreon.com/posts/95684755
+- E
+- https://www.tumblr.com/instantpizzafoodguy/681692474310377472
+- https://www.tumblr.com/instantpizzafoodguy/190715811390/wh6k-on-twitter
+- https://www.tumblr.com/instantpizzafoodguy/632761468057731072
+- https://yomi34go.booth.pm/items/4338786
+- https://youtu.be/tKCeXIVSEGA?si=sfwbd_5iJyTuBoXq
+- https://youtu.be/eiwLwgTEK7c?si=RqrkKUmNhF-9TItm
+- https://youtube.com/shorts/197YOy_eYTo?si=7HD3L5puoFHIrmlY
+- https://youtu.be/8Y2gmfEVMKA?si=RvVfGWQlemuJhFkN
+- https://twitter.com/crimsonaperture/status/1668973819694919681/photo/1 what the eff
+- https://vxtwitter.com/TeHappyHeartMan/status/1742357837827706994
+- https://vxtwitter.com/TeHappyHeartMan/status/1742357839400632632
+- https://twitter.com/picowan11/status/1742065434268959184?t=FtfpokN8GFkW6AbYWnvGkg&s=19
+- https://twitter.com/1CQRuhal7pLKJhw/status/1742153263011496423?t=FtfpokN8GFkW6AbYWnvGkg&s=19
+- https://twitter.com/HoYoFair_0/status/1741422659249066442?t=FtfpokN8GFkW6AbYWnvGkg&s=19
+- https://twitter.com/mawari5577/status/1742007440378671509?t=FtfpokN8GFkW6AbYWnvGkg&s=19
+- https://twitter.com/Indigollite/status/1742048073252257874?t=FtfpokN8GFkW6AbYWnvGkg&s=19
+- http://www.patreon.com/posts/95746616
+- https://twitter.com/ReenubAD/status/1742015230455304538?t=PkTMG4zKPVB0ZO6XAuhyBQ&s=19
+- https://twitter.com/futaba_nori/status/1742098161949462588?s=19
+- https://twitter.com/474zz/status/1742138814812811414?s=19
+- https://twitter.com/booool125747/status/1742091814453305675?s=19
+- https://twitter.com/HoYoFair_0/status/1741422659249066442?s=19
+- https://youtu.be/0SMK3j0fxvc?si=SBE6-RzVWWAepi2Y mark zucc that's pretty neat
+- https://youtu.be/frZQrEBVkkk?si=y_YokJmJqVCU3eVz
+- https://youtu.be/SAL2JZxpoGY?si=sp0hxecfalWZWSwD
+- https://youtu.be/kIcAdun01zY?si=ra5DPkP4JA-dH1pS
+- https://youtu.be/frZQrEBVkkk?si=68IzimuWIGeYz5A0 luckily, that's not real.
+- https://kemono.su/patreon/user/4442695
+- https://twitter.com/Haku2542343816/status/1741468303539978364?t=EzTRZuIxzmNzbNdM25I-ew&s=19
+- https://x.com/1pikikun/status/1741474293115146366?s=52&t=l2xMUdH4rDZ_Ojv3aLhmow
+- https://vxtwitter.com/Haku2542343816/status/1741489400398413929?s=20
+- https://www.artstation.com/artwork/YBdvg6
+- https://youtu.be/NseMUomyBFo?si=7WQibg80zNxuRSdo
+- https://youtu.be/_AtfKW7QgkI?si=WS6js45grMS9CTqz
+- https://www.tumblr.com/maddieheart/738062151693041664 cherry-loverr
+- https://drive.google.com/file/d/12Ive-sEf--kDybHgH_DCvhhYLJpypDox/view?usp=drivesdk had this.
+- https://vxtwitter.com/TeHappyHeartMan/status/1742655492940263732
+- https://youtu.be/y2qFpTbCmLI?si=lRm4wq3ujYJZ9YW3
+- https://youtu.be/aU1c6r9wstI?si=P1RoyMPfsOXi6cMN
+- https://vxtwitter.com/mrs_moore92/status/1742318541196427621?s=46
+- KeV Kilo electron volts
+- https://youtube.com/shorts/t1CmLvDSVFk?si=78eETxcQYOiGXGyh
+- https://youtu.be/DnOQsC9MGbc?si=8zJn11MaZP03ZBhC
+- https://youtu.be/yzrVHEB02Hw?si=aFF0iHJrIfDB3UCO
+- https://www.tumblr.com/snowheartsz/738503023885778944 blocked me
+- https://www.tumblr.com/snowheartsz/738266959095955456/hey-guys-wow-im-not-dead-sorry-about-the-lack-of
+- https://www.tumblr.com/regencyroaster/736436535549902848/intimacy-is-not-just-about-sex-its-having clear
+- https://www.tumblr.com/n3rplex/738179658814783488/not-my-art-all-credit-goes-to-veiled616-on blocked
+- https://barkmaxing.tumblr.com/
+- furaffinity stamda
+- https://www.tumblr.com/joelwindows7/731940804401283072?source=share
+- https://youtu.be/H3FU7m0RhZQ?si=tYV9bIsuJMiBl053
+- https://youtu.be/WaQavXmxJv0?si=xZ5yUHs7S3DyxzuV
+- https://www.tumblr.com/opopopxxzz/177059092909/heartbeat-animation
+- https://x.com/Naoyuki_Vixen/status/1000768943341166594?s=20
+- https://www.tumblr.com/opopopxxzz
+- https://www.tumblr.com/caradiophile/620480378840530944/vital-signs
+- https://www.tumblr.com/sweetheartboyc/734539192154079232 heartapush deactivated and blocked me
+- https://www.tumblr.com/sweetheartboyc
+- https://www.tumblr.com/skye-the-furry-blog/167523126648
+- https://www.tumblr.com/skye-the-furry-blog/166300968683/pleasure-beats-this-is-what-my-heartbeat-sounds pleasure-beats blocked me
+- https://www.pixiv.net/en/artworks/114891838
+- https://www.pixiv.net/en/artworks/114891686
+- https://www.pixiv.net/en/artworks/114891673
+- https://www.pixiv.net/en/artworks/114887489
+- https://www.pixiv.net/en/artworks/114810183
+- https://www.pixiv.net/en/artworks/114628851
+- https://www.pixiv.net/en/artworks/114540633
+- https://www.pixiv.net/en/artworks/114537342
+- https://www.pixiv.net/en/artworks/114862712
+- https://www.pixiv.net/en/artworks/114843654
+- https://rule34video.com/search/buhonero75/
+- https://rule34video.com/videos/3223989/roxxane-the-wolf-fnaf-3d-animation/
+- https://rule34video.com/videos/3197449/vanny-3d-fnaf/
+- https://rule34video.com/videos/3213874/roxxane-fnaf-riding-freddy/
+- https://www.pixiv.net/en/artworks/13625879
+- https://www.pixiv.net/en/artworks/29741622
+- https://www.pixiv.net/en/artworks/114639519
+- https://www.pixiv.net/en/artworks/114611893
+- https://www.pixiv.net/en/artworks/114056125
+- https://www.pixiv.net/en/artworks/114057848
+- https://www.pixiv.net/en/artworks/114059716
+- https://www.pixiv.net/en/artworks/113857186
+- https://www.pixiv.net/en/artworks/113993631
+- ドキドキ文芸部!
+- https://www.pixiv.net/en/artworks/111358964
+- https://www.pixiv.net/en/artworks/114821240
+- https://www.pixiv.net/en/artworks/112015265
+- https://www.pixiv.net/en/artworks/111885601
+- https://www.pixiv.net/en/artworks/111700883
+- https://www.pixiv.net/en/artworks/111479899
+- https://www.pixiv.net/en/artworks/110985290
+- https://www.pixiv.net/en/artworks/110967891
+- https://www.pixiv.net/en/artworks/110818770
+- https://www.pixiv.net/en/artworks/110866419
+- https://www.pixiv.net/en/artworks/110819449
+- https://www.pixiv.net/en/artworks/110313712
+- https://www.pixiv.net/en/artworks/110875344
+- https://www.pixiv.net/en/artworks/110957490
+- https://www.pixiv.net/en/artworks/110773563
+- https://www.pixiv.net/en/artworks/111140911
+- https://www.pixiv.net/en/artworks/111161538
+- https://www.pixiv.net/en/artworks/114487364
+- https://www.pixiv.net/en/artworks/114476147
+- https://www.pixiv.net/en/artworks/113949986
+- https://www.pixiv.net/en/artworks/114121705
+- https://www.pixiv.net/en/artworks/114174680
+- https://www.pixiv.net/en/users/37582436 hokoj
+- https://www.pixiv.net/en/artworks/114403555
+- https://www.pixiv.net/en/artworks/111932927
+- https://www.pixiv.net/en/artworks/83609698
+- https://www.pixiv.net/en/artworks/111795506
+- https://www.pixiv.net/en/artworks/114664335
+- https://www.tumblr.com/cutenellhb/696841202427969536
+- https://www.pixiv.net/en/users/24373202
+- https://www.pixiv.net/en/artworks/113374905
+- https://www.pixiv.net/en/artworks/114473700
+- https://www.pixiv.net/en/artworks/113103887
+- https://www.tumblr.com/hbbitch/738278821773639680 no reblog
+- steganography
+- https://www.tumblr.com/darkbeats/735567477317189632/last-one-until-i-get-a-proper-sound-recording
+- https://www.tumblr.com/wickedbeating/738330444908609536 renamed sc360, blocked me
+- https://www.youtube.com/@levander-wolf
+- https://www.tumblr.com/domwitch toxic
+- https://www.tumblr.com/domwitch/678278264644665344/this-blog-is-for-me-not-for-you
+- carsiophile-gal blocked me
+- https://www.tumblr.com/ichormongrel/653987473563713536/lensoart-finished-version pls backup
+- https://www.patreon.com/ichormongrel/posts
+- https://www.tumblr.com/nobromaman/179884730721/my-busty-inugirl-lilly-from-my-manga-is-getting pls backup
+- https://www.pixiv.net/en/users/4393896
+- https://twitter.com/Xodima
+- https://cardioauthors.boards.net/user/8
+- https://www.pixiv.net/en/users/18902328
+- https://twitter.com/IchorMongrel?lang=en
+- https://x.com/IchorMongrel/status/1227779783465062404?s=20
+- https://x.com/nobromaman/status/1727485629833896035?s=20
+- https://x.com/nobromaman/status/1731082890958574030?s=20
+- https://www.tumblr.com/ichormongrel/180820781069
+- https://www.tumblr.com/ichormongrel/180785798119/message-in-a-bottle
+- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 blocked me, deactivated
+- https://fatalrhythms.itch.io/breaking-and-entering
+- https://youtu.be/HMZIHBZvpxo?si=A-zYmI2XIPBKHLfa stop.
+- https://www.tumblr.com/joelwindows7/738653070919188480
+- https://www.tumblr.com/sublimeobject123/738426759905755136/monika-deserves-my-attention n3rplex blocked me
+- veiled616
+- https://www.pixiv.net/en/users/12896581/artworks
+- https://www.pixiv.net/en/artworks/86427272#manga
+- https://www.pixiv.net/en/artworks/114707795#manga found
+- https://veiled616.fanbox.cc/posts/7221268
+- https://www.fanbox.cc/@goodluckayd33
+- https://www.tumblr.com/joelwindows7/738687015507361792/monika-open-her-chest
+- https://discord.com/channels/519291740679569408/809479799554048021/1191435305560060106
+- https://www.tumblr.com/elemass6/706028823999905792/queen
+- https://www.tumblr.com/hearts-n-stuff/635922069402615808
+- https://www.tumblr.com/tenebrisdawriter/187401536410 tenebris blocked me
+- https://www.tumblr.com/tenebrisdawriter/185898046310
+- https://www.tumblr.com/yuuki-snow/183364870761/httpsyoutubes5xayvjozo
+- https://www.tumblr.com/ghlr/175160985264/heartskypper-check2345-took-awhile-to-edit
+- https://www.tumblr.com/fraic123/174015058922
+- https://www.tumblr.com/fraic123/173058937270/execution-by-injection-01-the-poison-is
+- https://www.tumblr.com/hearts-n-stuff/168962052492/noonewhomattersmuch-doki-doki
+- https://www.tumblr.com/joelwindows7/738646472970665984/friendlyfoxpal-boom-boom-and-sleep-sleep-to-the
+- https://www.tumblr.com/joelwindows7/738645965745094656/yeey
+- https://www.tumblr.com/cardiomason1/735752897037565952/miss-varn-the-school-human-biology-teacher-has
+- https://www.tumblr.com/thumpingdemon/734583732572454912/one-thing-that-was-quite-different-compared-to-how no reblog
+- https://www.tumblr.com/ghlr/734134393123258368
+- https://www.tumblr.com/prismgenixz70/722749745712529408
+- https://www.tumblr.com/prismgenixz70/721597865077751808/ugh-omg-some-of-these-are-just-an-absolute-dream
+- https://www.tumblr.com/girlheart1/710291723235065856/play-with-her-heart
+- https://squeakitties.tumblr.com/post/738359863404560384
+- https://squeakitties.tumblr.com/post/738177085610344448/happy-bunday
+- https://squeakitties.tumblr.com/post/738005560042127360/droppin-in
+- https://squeakitties.tumblr.com/post/104458922871/crashboxrewind-welcome-2-meme-hell-otter-boy
+- https://squeakitties.tumblr.com/archive/2014/12
+- https://squeakitties.tumblr.com/post/105174866696/by-place-to-2sakae5
+- https://squeakitties.tumblr.com/post/105228179831/really-tasty-seafood-is-the-lifeblood-of-humanity
+- .
+- .
+- .
+- .
+- once upon a time...
+- ANJING GUA DI BLOCK BANGSAT TAI NGENTOT BABI (Throw explosive)
+- DUAR!!! SCRAMLE!
+- https://docs.google.com/document/u/0/d/1QeCZ965ECEeE0JExN3mB_I4MgpSxvGRlInS-igEAPfc/mobilebasic
+- https://www.pixiv.net/en/artworks/114317978
+- https://vxtwitter.com/TeHappyHeartMan/status/1738463357731066059?t=uuNb-mVKCRwTXWsbYBd8cw&s=19
+- https://vxtwitter.com/TeHappyHeartMan/status/1743459027542011945?t=U2543pF__HEcmUq6fLnYvg&s=19
+- https://vxtwitter.com/i/status/1743371545689698374
+- https://twitter.com/ReenubAD/status/1743472810713063554?t=B6sOKLJRrECiqJAtOTAZ1Q&s=19
+- https://www.tumblr.com/heartsmuscles/738699574150037504/with-the-video-i-made-a-gif-for-edit-other
+- https://www.tumblr.com/stethmyheart/732976099666034688 xjustcuriousx blocked me
+- https://www.tumblr.com/stethmyheart/732975031691378688
+- https://vxtwitter.com/RubberAnimation/status/1743450107054313728
+- https://www.deviantart.com/da-fly/art/MissSamantha-630755679
+- https://youtu.be/-v4IPC0Aqb4?si=ArvY4A9j-PxAXtPc
+- https://www.tumblr.com/cardioboy22/732783860040056832/doppler-heartbeat-norway
+- 📸 Look at this post on Facebook https://www.facebook.com/100050621504997/posts/896738375356871/?mibextid=8nno9T
+- https://vxtwitter.com/TeHappyHeartMan/status/1743654256433922362
+- hey
+- - https://drive.google.com/drive/folders/126YXbi2WH6XWRfpoA8zpWsro2DgxYnCi pls heart images
+- gogitossj from ichor
+- done
+- https://youtu.be/QRpK-UnpCT8?si=K5rzwSDGiu_EeW5q
+- https://vxtwitter.com/yuuri_HB/status/1741665538315792675
+- cvr
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://www.youtube.com/watch?v=HU2bwrVLkEU
+- https://youtu.be/MAsAYnBzudE?si=knpdwRSR7YsZMchC
+- https://youtu.be/haO_2r7kzLE?si=yamKBzQrqUiqM510
+- https://youtu.be/fYTOK89w8h0?si=LSZ6Ygh6CxxtLiaU
+- https://youtube.com/playlist?list=PLZ93iR4vt7mq_ahJiSQnR2YyhhtsX4RaK&si=Fpn4gxZ9db2ykhaL
+- https://youtu.be/jwMO-ulKo2I?si=ZdaM3QX7UOueykzB
+- https://tinny.gumroad.com/
+- https://creators.vrchat.com/avatars/creating-your-first-avatar/ in vrc sdk, there is sample Avatar dynamic bot girl
+- https://youtu.be/OFoYoErRa_o?si=mD1_zvmM52KHhLFc
+- https://youtube.com/playlist?list=PLZ93iR4vt7mrqWZT-mUTgB_RJyNjAMxRx&si=pmrgSQJ5zm2DirwH
+- done
+- Tirta the slime girl
+- https://twitter.com/eiden_2016/status/1743846974749888979?s=19
+- https://twitter.com/forever_gf618/status/1743746020746424570?s=19
+- https://www.tumblr.com/squeakitties/657263697427906560/i-got-a-really-really-big-commission-from
+- https://www.tumblr.com/squeakitties/671392246338371584/the-crew-found-themselves-on-hoxxes-iv-deep-rock
+- https://youtu.be/QRpK-UnpCT8?si=2YkjnfeC5wKb2Nq7
+- https://youtu.be/bDEtdwdHuo8?si=wfuJv-G76ITAmHRe
+- https://youtu.be/uXIgwpjcNa4?si=hvwn-22qV1naQyRt
+- https://youtu.be/pV0PMgp38gI?si=kYXSniNNOclxO19x
+- https://youtu.be/y-apZFPLSc4?si=SXZPqdtN2Enwh46q
+- https://youtu.be/vIaZhebkOJc?si=-HjOr7lXMeQRsVJn
+- https://youtu.be/bJyoqHnmoxc?si=ADA2I3f-PnSO3WqP
+- https://youtu.be/kCe9rumD1V4?si=6Yzc9bZQpyUk56Z0
+- https://youtu.be/e130xAPbGjw?si=pnNyLoJVK41qzmVN
+- https://youtu.be/O5QBETtyXZw?si=yIjAvbckrJCrXQBV
+- https://youtu.be/G-qTcZtQwGE?si=xnBLkkpgm6ApmS4_
+- https://twitter.com/OsoFurry/status/1686500501330821121
+- https://youtu.be/-1HXNxFkKwI?si=7GwXEuATDs87iu7t
+- mckamey
+- https://www.youtube.com/watch?v=f9mjwoLYGr0
+- https://www.youtube.com/watch?v=1cZGaoF4JN4
+- https://www.youtube.com/watch?v=uco9QbrDg7E
+- https://www.youtube.com/watch?v=g1Po07KkH98 sue
+- https://www.youtube.com/watch?v=Ck9Pc4aPjRc footage
+- https://www.youtube.com/watch?v=ckX-RuoEles shutdown
+- from ai sponge
+- https://discord.com/channels/990390355247644672/990390508264239155/1193664091932328036
+- done
+- https://youtu.be/oDhkj1FB32U?si=NGTcc5c1JYHhvcTv
+- https://vxtwitter.com/TeHappyHeartMan/status/1743831449277530129
+- https://www.tumblr.com/joelwindows7/738805813564571648
+- https://www.tumblr.com/joelwindows7/738893885555802112
+- https://www.tumblr.com/joelwindows7/738880920042520576
+- https://www.tumblr.com/joelwindows7/738872859474247680
+- spicyf4u
+- spicy4u
+- https://youtu.be/lvlOBN-eQVA?si=TZNejazC_Kwbnvzv
+- https://youtu.be/ag3L1fBPo54?si=yJFfGgPGdxlXa8jy
+- https://perkedeltechnologies.wordpress.com/2020/11/24/ugh-fine-i-guess-you-are-my-little-pogchamp-come-here/
+- https://developer.wordpress.org/rest-api/extending-the-rest-api/adding-rest-api-support-for-custom-content-types/
+- https://docs.astro.build/en/guides/cms/wordpress/
+- https://www.tumblr.com/notaspecialname/728937918533599232
+- arbok
+- https://www.tumblr.com/naycelium/738629634620637184/an-arbok-mom
+- https://www.tumblr.com/garrett-06/737139427106783232/cuddleking01-thumpingdemon-my-heart-fighting
+- https://www.tumblr.com/thumpingdemon/738579124016267264/has-your-heart-ever-turned-you-on-so-much-you-came
+- https://www.tumblr.com/thumpingdemon/738575982634598400/also-last-night-i-was-just-super-horny-for-some
+- https://www.tumblr.com/thumpingdemon/738376297707896832/a-bonus-part-2-to-the-rebreathing-video-a-short
+- https://www.tumblr.com/thumpingdemon/738195210860953600/my-weird-sounding-heartbeat-from-last-week-laying
+- https://www.tumblr.com/thumpingdemon/737931751406583808/just-me-being-myself-that-weirdo-who-enjoys
+- https://www.tumblr.com/thumpingdemon/737758471129300992/unplanned-video-but-just-earlier-i-ran-up-two
+- https://www.tumblr.com/thumpingdemon/737745314567585792/well-that-was-inevitable-so-here-it-is-happy
+- https://www.tumblr.com/kurbiismind/736365722318618624/hey-did-u-make-the-boob-morning-breasties-gif
+- https://www.tumblr.com/kurbiismind/736271047280721920/oh-hey-i-think-ive-cracked-the-code
+- https://www.tumblr.com/joelwindows7/738937789449666560 mousegirlheart blocked me
+- https://www.tumblr.com/joelwindows7/738966309637947392/wheelchair-3d-model
+- https://twitter.com/bambied_/status/1744214914917396874?t=9G_WAfVhui2HEIhHZJEnxA&s=19
+- https://twitter.com/THR/status/1744183351915815132?t=9G_WAfVhui2HEIhHZJEnxA&s=19
+- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliahirl621 blocked me
+- https://www.tumblr.com/pumpingheartprincess/190488799123/cardiophiliagirl621-masturbation-breathold
+- https://www.tumblr.com/pumpingheartprincess/616329624372346880/cardiophiliagirl621-i-would-never-imagine-that
+- https://www.tumblr.com/tanekoheart/738833351987904512
+- https://youtube.com/@TenebrisDaWriter?si=dDPCVHHLntJDxfKB
+- https://www.reddit.com/u/T3N3BR1STH3T3RR0R
+- https://twitter.com/urbancatfitters/status/1743691495972946276?s=19
+- https://twitter.com/Zolfer0/status/1744377143327351215?s=19
+- https://twitter.com/fyridk/status/1744335981744881668?s=19
+- https://www.tumblr.com/heartleftside/738329491165904896/learning-series-lesson-3
+- https://www.pixiv.net/en/users/98082881/illustrations
+- https://www.pixiv.net/en/artworks/109636105
+- https://www.pixiv.net/en/artworks/113914204
+- https://www.pixiv.net/en/users/98082881/illustrations
+- https://youtu.be/9TkZzRSnzaA?si=8JS75zE5S06ba9xJ
+- https://aortaprincess.tumblr.com
+- .
+- .
+- .
+- .
+- .
+- .
+- Perkedel do not endorse anti-circumcision or whatever conyrovercial movement what it is, since such idea have no proven medical benefits compared to the latter. Additionally we do not endorse any horrible movement against victims in real life whatsoever. 
+- Such Anti-circumcission archive will be kept only for lesson or otherwise a history artefact for future research.
+- we do not tollerate any harrassment in anya forms, complexity, and speed towards any personal in the side of goodwills.
+- http://web.archive.org/web/20211224090242/http://sexuallymutilatedchild.org
+- https://web.archive.org/web/20231022155057/https://thorium.rocks/misc/sexuallymutilatedchild.org/ the backup deleted, left this ironic backup one.
+- context. This is a protest against circucission due to a harms, loss of part, and even death due to a malpractice in a circumcission procedure.
+- https://www.yourwholebaby.org/
+- https://www.circumstitions.com/
+- during apology of Thorium.
+- https://alex313031.blogspot.com/2024/01/the-good-bad-and-ugly.html
+- done
+- .
+- may God protect us against Harrassers. I am against irl horribilities.
+- .
+- .
+- https://otakukart.com/5-anime-similar-to-konosuba-that-you-should-check-out/
+- https://youtube.com/shorts/tgvbPGEPzkU?si=13h9-4eVLZQi372t
+- https://youtube.com/shorts/vYn33r-3aDg?si=HoP_ZTBYe51QNGxB
+- https://www.youtube.com/live/kgjpqzSnqCs?si=YSKy6dk9sBxqXsB7
+- https://youtube.com/shorts/Ea3PAjwfxWg?si=-_7-brZ39qGj2HjJ
+- https://youtu.be/N2mY9cPa0iE?si=uH9SnWgT8nk7GfVb
+- https://youtube.com/shorts/HOrLFPrBZUk?si=jaDT7YPHE3Spqpyu
+- https://youtube.com/shorts/f-t1GJKO2ck?si=rcvhjwdmnTLbAVck
+- https://youtube.com/shorts/_Osrx7dfwCY?si=09L7uNc0b-000kCk
+- https://youtube.com/shorts/q_aZWYnxjfQ?si=Wqj-9G3EsEMdnYOU
+- https://youtube.com/shorts/DiSyNd0vkfk?si=m6Ho_BfYcFcAC1Js
+- https://youtu.be/jhSn0EPgiDA?si=4U5punZnAKYBGxZI
+- https://youtu.be/zzbQTSd-bXE?si=p79yGhsRqFbXE_ap
+- https://youtube.com/shorts/aMVzoTF6KVA?si=R6wAyDT2CMZjE7YO
+- https://youtube.com/shorts/SznkpdCKM_A?si=9NC9FSNbWGYG_zT3
+- https://youtu.be/GluOAAi304g?si=BE5P5FChLHMBYW71
+- https://www.youtube.com/watch?v=QS73b-unEgg
+- https://www.tumblr.com/horny-heartbeats/703644250912473088/pokemon-cardiology
+- https://x.com/cheval_lachance/status/1744555322172432477?s=46&t=qw9clM1WDA843nFIJsFAtA
+- https://vxtwitter.com/TeHappyHeartMan/status/1744536562036085225
+- https://twitter.com/Cheval_LaChance/status/1439276013595226116?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://twitter.com/RuneBellArt/status/1744745091183571008?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://twitter.com/jinsang_3d/status/1744518886240694551?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://twitter.com/MMdrawstuff/status/1743687673452122209?t=gaYpEqnX_B1ReqREnufmKg&s=19
+- https://www.patreon.com/MMAD311 **PAID**
+- https://x.com/pseudostars/status/1743031089613168680?s=20
+- https://x.com/0709mikasa0211/status/1742879402910957952?s=20
+- https://www.tumblr.com/melvinator/739024375133700096
+- https://www.patreon.com/posts/95805784?pr=true
+- https://www.pixiv.net/en/artworks/115001656
+- https://www.pixiv.net/en/artworks/114995443
+- https://vxtwitter.com/HChirmiaB/status/1743981048621572517
+- https://vxtwitter.com/HChirmiaB/status/1743520851818152018
+- https://vxtwitter.com/HChirmiaB/status/1742949476086784402
+- https://vxtwitter.com/tsukumo_heart/status/1744108976479035879
+- https://www.pixiv.net/en/artworks/114969642
+- https://www.pixiv.net/en/artworks/114969642#manga
+- https://twitter.com/CosmonautMarcus/status/1744797320510607604?t=xdsyyUuwc-cNnb1-GoSViw&s=19
+- https://twitter.com/thegameawards/status/1744766920354832757?t=xdsyyUuwc-cNnb1-GoSViw&s=19
+- https://x.com/tsukumo_heart/status/1744108976479035879?s=20
+- https://www.tumblr.com/squeakitties/739066186149560321 creepincrawl blocked me
+- https://www.tumblr.com/joelwindows7/738169119102337024/%E9%9B%85%E5%8A%AA%E6%96%AF-pull-her-heart-from-her-chest
+- https://www.tumblr.com/joelwindows7/739110608070475776/%E8%90%BD%E6%9B%B8%E3%81%8D1
+- .
+- .
+- FNF preggo rhythm. Play as a virgin milf, vs. Horny man
+- if you miss sperm, you will instantly pregnant
+- if you HP 0, you will cum (only later to be pregnant)
+- first level is usual sing off
+- final is insertion. This is where sperm comes in.
+- https://thisvid.com/videos/exited-visible/
+- https://twitter.com/Edmun6969/status/1743837650619125802
+- https://x.com/Animang08/status/1743863110732288317?s=20
+- https://www.tumblr.com/shetheyslain/736698851507978240/viable-transgendered-careers-and-why-i-cannot
+- https://www.tumblr.com/princessbunnyzelda/739117703300792320/i-got-pokemon-violet-is-so-fun-i-lov-it-so toxic
+- https://archiveofourown.org/works/44965597
+- https://www.tumblr.com/withsixpines/736785294218674176/damn-i-need-a-big-strong-man-with-a-fuzzy-chest add animation??
+- https://www.tumblr.com/joelwindows7/739135957737029632/log6-i-believe-authors-should-be-cryptic-and
+- https://www.tumblr.com/joelwindows7/739135559324368896
+- https://x.com/levanderwolf/status/1744807987707834553?s=20
+- https://www.1024tera.com/wap/share/filelist?surl=5ZgBCRG9_WXps2-0GvwFuA this is from purity in hearts
+- https://www.tumblr.com/purity-in-heart/738815992357158913/dee-bianca-hospital-erotic-4-obsessed-by-her you must download app
+- https://www.pixiv.net/en/artworks/115001656
+- https://www.tumblr.com/joelwindows7/738966309637947392/wheelchair-3d-model
+- https://vxtwitter.com/Melondica/status/1741690186742788208
+- https://x.com/IMFuuffy/status/1744898560338849954?s=20
+- https://x.com/ChillTeaAmirite/status/1744680157082951800?s=20
+- https://x.com/nekitoototo/status/1744594027679302118?s=20
+- https://x.com/CE0ofFURINA/status/1742958819624591453?s=20
+- https://www.furaffinity.net/user/nanachu654/
+- https://www.furaffinity.net/view/55095937/
+- https://www.furaffinity.net/view/55024787/
+- https://www.furaffinity.net/view/54874895/
+- https://www.furaffinity.net/view/54781232/
+- https://www.tumblr.com/smellony-melanie123/739097795015950336/credit-is-appreciated-but-not-required
+- https://www.tumblr.com/smellony-melanie123/739097512651210753/credit-is-appreciated-but-not-required
+- https://www.tumblr.com/smellony-melanie123/739097588596408320/credit-is-appreciated-but-not-required
+- https://www.tumblr.com/shencomix/738053165369458688/hey-i-just-wanted-to-go-through-some-of-my
+- https://royalsocietypublishing.org/doi/10.1098/rspb.2014.0210
+- https://www.tumblr.com/neil-gaiman/738690466152923136
+- https://www.tumblr.com/i-love-visible-beats/739144984968724480 flatlining-boy blocked me and deactivated
+- https://twitter.com/monsuun/status/1741460207320829984
+- https://fujiishingo.fanbox.cc/posts/7231096
+- https://www.tumblr.com/cutenellhb/739092405387755520
+- https://youtu.be/93uzo_f4sEY?si=0pPOIVzfQsbTnqY7
+- https://youtu.be/ZIm8uC5RVfA?si=NgMri5AJv1Khgg0r
+- https://www.tumblr.com/cherryheartsx/738813774998421504/just-a-short-clip-where-you-can-kinda-see-my
+- https://www.tumblr.com/omegazero87/738166078120853504/i-shadowheart-visible-heartbeat
+- https://www.tumblr.com/kardiakrazy/738377419241717760 kardiakrazy blocked me
+- https://www.tumblr.com/lubdubs/738544254232690688
+- https://www.tumblr.com/lubdubs/738169134213365760
+- 1071
+- 1071
+- 1071
+- 1017
+- 1071
+- 1071
+- 1071
+- 1071
+- https://www.tumblr.com/lonelycardiophile/737506483635388416
+- https://www.tumblr.com/lonelycardiophile/736161074153390080/1-king-many-queens-2srooky
+- https://www.tumblr.com/lonelycardiophile/729648447737757696
+- https://www.tumblr.com/lonelycardiophile/716356048023371776/please-likereblog-this-if-youre-willing-to
+- https://www.tumblr.com/naycelium/720947846599311360/hey-im-nay-i-like-to-draw-cute-anthros-and
+- https://www.tumblr.com/atdoop/739083800099815424/all-of-my-caves-of-qud-player-tiles-ive-made-of
+- https://www.tumblr.com/dyrdeer/731354932751581184/theyreco-workers
+- https://youtu.be/RHApOlH63ik?si=fpjRCFD8GdqAW-dV
+- https://rule34.xxx/index.php?page=post&s=view&id=9322607
+- https://www.tumblr.com/myfattythumper/739025416837283841/id-love-another-girl-to-monitor-and-encourage-my no reblog
+- https://youtu.be/h902r73QtGQ?si=9D8DAE4rM_nfOgGu cvr dippy fun land
+- https://www.tumblr.com/squeakybuny/730289228706201600/silly-silly
+- cvr world
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=aNcZqriWgTE
+- https://www.youtube.com/watch?v=AqieYVRPWr4
+- https://www.youtube.com/watch?v=yQEqejsWt4M
+- ok done
+- https://www.tumblr.com/beschleuniger1/734273175793401856 beschleuniger1 blocked me
+- https://www.tumblr.com/kingofdefib/688482687431950336 reblogger will get unedited version in message
+- but I mean, I am reblog maniac! Okay... Inspiring..
+- put url
+- .
+- https://www.tumblr.com/joelwindows7/686948355801333760
+- https://www.tumblr.com/joelwindows7/686948335742074880
+- https://www.tumblr.com/joelwindows7/686881237155135488/dummy-dot-exe-%E3%82%A2%E3%83%AB%E3%83%86%E3%83%A9-by-%E6%97%A5%E5%A5%8E
+- https://www.tumblr.com/joelwindows7/686881230757806080/dummy-dot-exe-by-bluegk
+- https://www.tumblr.com/joelwindows7/686880963836493824/ay-heart-collection-cardiophilia-is-magic
+- https://www.tumblr.com/aqwwa58/731731914164174848/official-boob-posts-your-raifu-is-shit
+- https://www.tumblr.com/aqwwa58/735171789594984448/some-huo-huo-sketches-cause-i-rolled-her-and-i
+- https://www.tumblr.com/bpdcreep21/734003460183343104/some-examples-of-my-art
+- https://www.tumblr.com/bpdcreep21/733996864416940032/reposting-this-cos-yea-my-twitter-is-adding pls do not block me
+- https://twitter.com/bpdcreep21/status/1679902801881706498?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://twitter.com/shilzumi_0807/status/1701291902379921820?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://twitter.com/bpdcreep21/status/1743804128441045318?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://twitter.com/bpdcreep21/status/1742721744434016375?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://twitter.com/levanderwolf/status/1735038990120583480?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://x.com/bpdcreep21?t=NWcwoJL-vZWSDPoI8whjGA&s=09
+- https://twitter.com/levanderwolf/status/1744545453440454872?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://twitter.com/midi_roo/status/1743875861407756769?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://twitter.com/asian1x/status/1743735901975634427?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://twitter.com/BepTaep/status/1743699329943065066?t=NWcwoJL-vZWSDPoI8whjGA&s=19
+- https://www.furaffinity.net/view/46862902/
+- https://www.patreon.com/LevanderWolf/posts
+- https://www.patreon.com/posts/updates-of-my-89806277
+- https://vxtwitter.com/HeartPulse445/status/1745140494378680497
+- https://x.com/gifdoozer/status/1723627661056958588?s=20
+- https://x.com/shilzumi_0807/status/1712780901153919296?s=20
+- https://x.com/shilzumi_0807/status/1701291351483228524?s=20
+- https://x.com/bajoojab/status/1734947341948555336?s=20
+- https://x.com/calabo17/status/1737792547014279380?s=20
+- https://x.com/calabo17/status/1737793815329779716?s=20
+- https://x.com/m_o_g_m_o_g_555/status/1250059983720456201?s=20
+- https://x.com/HeartbeatSNS/status/1735532578701250974?s=20
+- https://x.com/HeartbeatSNS/status/1735534277683819000?s=20
+- https://x.com/HeartbeatSNS/status/1735541048724906100?s=20
+- https://drive.google.com/drive/folders/11ZzLQsDjgMHRoEMhW7xg0xIHW0rY7Biq do not forger ichormongerel folder
+- https://www.tumblr.com/nudityandnerdery/739187865297289216
+- https://ko-fi.com/s/88d2812887
+- https://ko-fi.com/V7V17ZZP
+- https://www.tumblr.com/nudityandnerdery/739187865297289216
+- https://www.tumblr.com/theshitpostcalligrapher/739186967946936320/tempestkwake-has-a-good-point-i-didnt-realize
+- https://stitchedmodern.com/blogs/news/how-to-read-a-cross-stitch-pattern this
+- https://cdn.shopify.com/s/files/1/1906/2985/files/stitched_modern_biscornu_chart.pdf?9042623682640450497 has this
+- https://studio-koekoek.com/how-to-read-a-cross-stitch-pattern/
+- https://youtu.be/ANixUoqDznU?si=2LqSGwkSpDEwzuKK
+- https://youtu.be/BpmWTyKt3hk?si=Z29Yw2tjnpCAaBcM ricardo milos
+- https://youtu.be/-oveTKMfj-Y?si=qsML2ivTKlL18aTF
+- https://youtube.com/shorts/85gJHHpCgJk?si=uXIcFWRGQXPIrIeg
+- https://youtube.com/shorts/lP77KOknORw?si=lrKmO5CidE6cWf7U
+- https://youtu.be/HxYs3_Y2VGE?si=qYCC08L2zNGwZWZ0
+- https://youtube.com/shorts/RCeBcPnXIyA?si=laxUnuQTeM_vF7u6
+- https://youtube.com/shorts/ATX8Et-CcHs?si=5RzYxkYTg6g5FvSx
+- https://youtube.com/shorts/1O6DUkhglx8?si=aslJtVf71X9a5gu7
+- https://youtube.com/shorts/__TBtGm2LAA?si=UUPLLT07YkRRdD9h
+- https://youtube.com/shorts/EMP8ZDfXbt0?si=CqidUHqq3UBPOl2E
+- https://youtube.com/shorts/wswDMgwJ7_0?si=WuXpepgOkeZle0CN
+- https://www.pixiv.net/en/artworks/114987125
+- https://twitter.com/ReenubAD/status/1745452988410601980?t=_MmoGcmLnhpf0fB9192w5g&s=19
+- https://www.tumblr.com/aurasisle/739229547806982144/i-think-its-funny-that-people-will-lose-their no reblog
+- https://www.tumblr.com/hearts-n-stuff/735243483100610560 heartspush blocked me
+- https://www.tumblr.com/bpdcreep21/733996864416940032/reposting-this-cos-yea-my-twitter-is-adding game over
+- https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/
+- https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/
+- https://www.furaffinity.net/journal/3654190/
+- https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/
+- https://www.furaffinity.net/journal/9407842/
+- https://gitlab.com/MatteoCampinoti94/FALocalRepo
+- https://chromewebstore.google.com/detail/raccoony-webextension/ejcbnfgeiphhnkmpjggnkkhnbefihelh
+- https://gitlab.com/MatteoCampinoti94/FALocalRepo
+- https://github.com/FurryCoders/FALocalRepo
+- `pip install falocalrepo`
+- `pip install --upgrade falocalrepo faapi falocalrepo-database falocalrepo-server` update
+- https://www.furaffinity.net/user/gonnir/
+- https://www.furaffinity.net/view/12826885/
+- https://www.furaffinity.net/view/12830952/
+- https://www.tumblr.com/joelwindows7/739252970060988416 this
+- https://drive.google.com/drive/folders/17zSgSD8jOlczS_JRoYvJRsfMDI6Gpx_0?usp=sharing had this
+- https://github.com/SpottedSqueak/FA-Gallery-Downloader/releases
+- https://www.tumblr.com/femaleheart/739155859031162880/kafkas-dark-thoughts-and-the-arrow
+- https://www.tumblr.com/angelhearthb/739248610635579392/the-heart-model-i-was-using-was-pretty-bad-so-i
+- https://www.tumblr.com/thelittlecardiophilelover/696657541187452928/oh-ho-it-seems-someone-likes-racing-hearts
+- https://www.tumblr.com/lailalevander/739005991108100096/possession-or-call-it-however-u-want-goldie game over
+- https://www.tumblr.com/lailalevander/677982123028824064/helltaker-iron-finger-from-hell-%E9%A0%98%E5%9C%9F%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-pixiv
+- https://www.pixiv.net/en/artworks/96498523
+- https://www.tumblr.com/n3rplex/738896983190896640/not-my-art-all-credit-goes-to-%E3%82%86%E3%81%8D%E3%81%99%E3%81%91-on-pixiv-my gameover
+- https://www.tumblr.com/n3rplex/738896731873460224/not-my-art-all-credit-goes-to-%E5%B0%8F%E5%B0%8F%E5%B0%8F%E9%9D%92%E6%9F%9F-on
+- https://www.tumblr.com/lailalevander/738811116177719296/womp-womp-sharing-sketches-that-i-didnt-felt-the
+- https://www.tumblr.com/n3rplex/738179658814783488/not-my-art-all-credit-goes-to-veiled616-on
+- https://vxtwitter.com/TeHappyHeartMan/status/1745639966216966274
+- https://twitter.com/kappa_kptr/status/1745385844360487073?t=cvpJMPeXXGpBG7DFcLajvA&s=19
+- https://twitter.com/suta0822/status/1745396718299197668?t=cvpJMPeXXGpBG7DFcLajvA&s=19
+- https://www.tumblr.com/cardiocorvidae
+- https://www.tiktok.com/@boyporcelain/video/7318085111654665504?_t=8ildIFN6rSl&_r=1 
+- https://www.tumblr.com/n3rplex/738835501643186176/tiktok-make-your-day?source=share from here. Told you, don't repost file. Eh, forget about it.
+- j
+- https://vt.tiktok.com/ZSNTuAwPd/
+- https://vt.tiktok.com/ZSNTuMndq/
+- https://www.tumblr.com/mapleheartbeat/684596625350574080 gameover
+- https://twitter.com/B1iz4rd/status/1745491623729905727?t=eepUjMA1AC2Ub-VFYqGdZQ&s=19
+- https://www.instagram.com/p/C17f9wYIu6N/?igsh=MTFsYzRxaDYwcHEzcQ==
+- https://www.instagram.com/p/C1-sQX4ApRu/?igsh=MXNjNmM2bTIzaXVubw==
+- https://youtu.be/8P1eSBAjsKo?si=QQsVdDK3P2aRAfyG
+- https://youtu.be/9zPz1gpcbFo?si=zq6qAko365gcW3Pe
+- https://youtube.com/shorts/uItgupDHAYM?si=h3m_t921Tn-Ywbv2
+- https://youtu.be/nQJ4MQ0kDGk?si=gUdHDgt3PHFSahbK
+- https://youtu.be/U_Uq2eScfH8?si=QKUn3clGCh4YA2Gt
+- https://youtu.be/CaeSdJ_Kc6M?si=wj6owMmvB_xb20gm
+- https://youtu.be/XvJhhEFkw54?si=0elsJy2MkSTtdRQm
+- https://youtu.be/pEWb1hAv0ug?si=54kTAwKJ-H6bIAYa
+- https://youtu.be/NkV1Qu-EN1c?si=j_xGvW47CCHub-zB
+- https://www.roblox.com/games/6238705697/Become-Fumo?refPageId=bf78d533-bf10-43a6-8b1a-ee2c3029a06e
+- https://youtu.be/Zkq5UfDaixg?si=jsINvEfqGDSicQ2-
+- https://youtu.be/r8MaqUfaAy0?si=VjZHkuqI_MAD-RFs
+- https://youtu.be/vwclhWfDkiU?si=pRucKyrqjkptjkp2
+- https://www.tumblr.com/stethingdave/185346568727/when-im-lying-down-i-always-feel-my-heart pls download
+- https://drive.google.com/file/d/1yezb4P92pXKTgNiAucpd7PpQeHIZwBHs/view this
+- https://x.com/kardia_krazy?s=09
+- https://twitter.com/kardia_krazy/status/1552812878553845760?s=19
+- https://twitter.com/starbunny6900/status/1745551160193204543?s=19
+- https://twitter.com/qbhisgooning/status/1745447259502936181?s=19
+- https://twitter.com/starbunny6900/status/1743848256780521813?s=19
+- https://twitter.com/starbunny6900/status/1701409807217885230
+- https://twitter.com/T1kosewad78/status/1745614089316167859?s=19
+- https://twitter.com/mdoh02/status/1745730789931917330?s=19
+- https://twitter.com/Dexerto/status/1745472438148718834?s=19
+- https://twitter.com/bigwariofan/status/1745567573100331245?s=19
+- https://twitter.com/KennyLauderdal3/status/1745522551281844447?s=19
+- https://twitter.com/nappasan/status/1745335923435556995?s=19
+- https://twitter.com/mi_taro333/status/1745762568264880553?s=19
+- https://twitter.com/InternetH0F/status/1745596747936608262?s=19
+- https://twitter.com/TheRabbitHole84/status/1745649650227720321?s=19
+- https://twitter.com/weirddalle/status/1745668173826039894?s=19
+- https://twitter.com/FollowEnockoyoo/status/1745715843747434558?s=19
+- https://twitter.com/onua_bl/status/1745597173805269326?s=19
+- https://twitter.com/Giorno0914/status/1745402474599686482?t=ZxrkNYb1fdKv4E5jr9d3xQ&s=19
+- https://youtu.be/e4PCHRJdCQs?si=vM2zmNJjDkn7LsMJ
+- https://www.tumblr.com/hgirl7768/724928569532465152
+- https://www.tumblr.com/hgirl7768/713007116362842112/oh-i-wouldnt-be-able-to-sleep
+- https://www.tumblr.com/tiller12345/738700178459066368 beschleuniger1 blocked me
+- https://www.tumblr.com/tiller12345/738120206671544320
+- https://www.tumblr.com/eroticheartfetish/739307929813024768 eroticheartfetish blocked me
+- https://youtu.be/DGnA7ZI0-Ow?si=LYlqzn6cmTJuQ_l0
+- https://www.tumblr.com/aortaprincess/739419097656328192 gameover
+- .
+- .
+- Texcity rules for bathroom.
+- No Sex allowed! You are here to get clean after you just sexed. The Bathroom themed sex rooms are in Basement B5. Thank you!
+- This is actual clean up bathroom, Please do not sex here for your safety! This bathroom has usual hard floor unlike the sex room counterparts!!
+- https://www.tumblr.com/tamamita/739429560604606464 yikes wtf?!
+- https://www.tumblr.com/hijojo121/739429405972168704 idk anymore. Wtf.. No time to read
+- https://www.tumblr.com/theglitchmaster/739429034751131648
+- my sister seems had no favour in Laila's art.
+- I said I like furry. Just.. Hate being blocked.
+- https://youtu.be/Z2M4FrL6Ilg?si=atjqTitp5z2XemQj
+- https://youtu.be/G3C8uSG4LwM?si=g_xaJuaaDhQuq_ph
+- https://youtu.be/WszZ3mKBU6U?si=qmWmMncgYqnZaMHr
+- https://youtu.be/feF_icXHNgA?si=7jL-mB-xl5L1qfe-
+- https://youtu.be/etiJ1xVumyY?si=hLINNIfAzVxM2IPH
+- https://youtu.be/6nX8QWfb9Ek?si=9EAeRFKMh8lzfYIf
+- https://youtube.com/shorts/C-4G-Utu-D8?si=D1jR8M5f5i_0zCjL
+- https://youtube.com/shorts/r7YXQPxEqng?si=Ks23cvhhDhuxDWKy
+- https://youtu.be/r7YXQPxEqng
+- https://www.tumblr.com/bigfatbreak/739015778191507456/feralnette-update-up-on-patreon no reblog
+- https://www.tumblr.com/kardiokink/730540522168549376 jackheartbeat blocked me and already died.
+- .
+- .
+- Sediron. Attribution episode. Hoac busting episode.
+- https://vxtwitter.com/TeHappyHeartMan/status/1746643476005912802
+- https://vxtwitter.com/TeHappyHeartMan/status/1746659712924275152?t=pavPaOxJ6o5xUSWEw0jJNw&s=19
+- https://youtube.com/shorts/ykCATPH_G00?si=YGJyCQHI30pf0WMD
+- https://www.tumblr.com/cherry-loverr/736671987790987264/20231214100224normalnym4a pls download all
+- https://youtu.be/DriQqDWYOeA?si=qYaNoM0LUQ6uMa7-
+- luvnurses62 blocked me
+- https://www.tumblr.com/ghlr/739677662233149440 reposted laila
+- https://www.tumblr.com/blue1234564321/738981739197857792 gameover
+- https://thisvid.com/members/2214561/ laila
+- pls download all
+- https://thisvid.com/videos/zororark-heart-squeeze/
+- https://www.tumblr.com/c-heart/739568898296430592 sugarboo blocked me and deactivated
+- https://www.tumblr.com/joelwindows7/739679962364362752/t3st-again
+- https://youtube.com/playlist?list=PLSaWvljtwqkAVZwP_3lrSShZ9gT3qlqHU&si=YyRDJUsJceerlpZQ be careful
+- https://youtu.be/WeCvWutzva8?si=ppQNN_9oFjST7a8D
+- https://youtu.be/BkKPcd18Kv8?si=1NkKRFycEldS7gAG
+- https://youtu.be/G6WamstSbHc?si=ZzvFy4hGIurQclek
+- https://youtu.be/1cfHeOyQ-P4?si=4i8KlbufBS0Girms
+- https://youtu.be/i9f98F-FLiE?si=S4tEtG7RDl2cGadl
+- https://youtu.be/OX8KQq75NDo?si=xMQArJnnxpu83kiK
+- https://youtu.be/ssa8ugByhrc?si=LTVszYHDnzwinI2L
+- https://youtu.be/_4cr_kbrkjs?si=sdb3QA8YRoraTbft
+- https://youtu.be/f7sZOpmaQEI?si=4lT5HnElVtbjaXtu
+- https://youtu.be/Tz68dDeYIIE?si=LQG6nlF2IOeAadFQ
+- https://youtu.be/_FwEW-t5mq8?si=2YrGKMZSrPKB0yDI
+- https://youtu.be/YjUUGV3t7ro?si=adcSBFL4eby9ZLKz
+- https://youtu.be/zUzIXy6PvhI?si=pwT15ORx8SKpAW4i
+- https://youtu.be/nqjX3f5MCHA?si=bPMR3LPvl4JhHMGJ
+- https://youtu.be/LAPzbHbkQmE?si=DnP0NnINL501Ebl3
+- https://youtu.be/JjSKJ9s9dr8?si=iLSSH1Rgjj0KpeCX
+- https://youtu.be/Bik6pfYWH3Q?si=FWy9J8hC2xbtVyHo
+- https://youtu.be/4cYTt9ixGAw?si=nD3Yu_dheOOQNxjh
+- https://youtu.be/sT17O5xgeXU?si=BKopXbcH8FIiFsNk
+- https://youtu.be/Oz6O5CCSuw8?si=Zii5rlnjecbGNvKU
+- https://youtu.be/aUm1ihpJPBk?si=nDRd809s_Qghv5BZ
+- https://youtu.be/-IZRiyi89Yk?si=DiL1bCp8bkoiOeQl
+- https://youtu.be/sCBuyVgL3uA?si=D-eIhdX8ZvmLCGnD
+- https://youtu.be/R0nSWsC6cpQ?si=4MRuwIrgk73qfM-Z
+- https://www.youtube.com/live/7H3F4nUcQcg?si=Z4VwtGnqlABFN2wl
+- https://youtu.be/x8tm0Ks5Sxw?si=zt4JkN6U0B6cQw9f
+- https://youtu.be/6ia0lP7r-fc?si=uJGo5arYrDGIoJ-5
+- https://youtu.be/TNVcN-f9FhQ?si=AOBObV-BS63wnp1k
+- https://youtu.be/7jQuZ4j8zRc?si=Yll-_V15XQPK6T6X
+- https://youtu.be/5UXgBtvKADc?si=djJdM-QWuktlcZV0
+- https://youtu.be/sLZY7rhnhvU?si=lWJhszG4edteRtus
+- https://youtu.be/bvvgm-NAcUE?feature=shared
+- https://youtu.be/3o_pA_MmAxo?feature=shared
+- https://youtu.be/CXY4rZq_qKE?si=MHZrQu86in9Vpet5
+- https://youtu.be/RmhKYIVYxGk?si=JzMRk5WjWXpc_Tq-
+- https://youtu.be/OFCua8gCCvE?si=s7OHdqBsNaYD0HXf
+- https://youtu.be/C0THE6iiPug?si=stNi4DT7DlXAD2kf
+- https://youtu.be/AloLu6ksXRA?si=qcDnOeUT6DTmojkT
+- https://youtu.be/p7z3mNe-dII?si=KclKSTC9QwE8_JND
+- https://youtu.be/sowPjm_LB5Y?si=LJmdUdr_y62sUbPD
+- https://youtu.be/R9ObnsDvzMc?si=wM15f6vtFzh4jy4k
+- https://youtu.be/3I9eVfj75Uc?si=OFYYqFXgBABdFiOA
+- https://youtu.be/Gz5jtsA0ALs?si=ku5SahBoJu27pOpY
+- https://youtu.be/4n1edKVXyas?si=XNmhSA1t5f9ujh8E
+- https://youtu.be/6ecUzG18RX8?si=rflNUd47LcHOn-CS
+- https://youtu.be/lqKmC_vpZQI?si=3dvfNgA3T6Eix_TD
+- https://youtu.be/H6rFI7Es7LQ?si=AsvjCPBVU-rRwH9C
+- https://youtu.be/XMpPFxrDNFU?si=wnbrIjKJeL9SLN9c
+- https://youtu.be/XO3UFyp6V1c?si=JFBdFPijBFG5azUl
+- https://youtu.be/ohkr9DwBMp0?si=1L5LHB32VHVOp_6g
+- https://youtu.be/dzRKUOEwCsU?si=qUiEFWIyaeHclQ37
+- https://youtu.be/2sFQKpeNXqQ?si=d_frWy2PbLh61f6G
+- https://youtu.be/3_XVNrVKctY?si=kWP2A5_oRFbzhEG9
+- https://youtu.be/KdqIqqSQhaw?si=GOdandCXMpnewCGP
+- https://youtu.be/hFO4NxcUg40?si=7zXckLy1zDl0npOT
+- https://youtu.be/77GH_nBtboU?si=aGIzKip4UNHxUDlh
+- https://youtube.com/playlist?list=PLLpZCwsaiK2_dpLGBJl_MT43x6X8Eznrk&si=rH-EOHYUU21CoFEL
+- https://youtube.com/playlist?list=PLsLQhZXCRzYpEPxXRFKAnNu0oGjmkF7aS&si=yb4CBg_Uf_sG7aRN
+- https://youtu.be/XVoGN7t2CXA?si=zv1ayBdgWtLJQXGq
+- https://youtu.be/1ZXN92PDlHg?si=6uvxVzNqkCvvbt3V ergey2006 pls
+- https://youtu.be/R7is-BoqejE?si=NvZhOqCok6wlNNhr
+- https://youtu.be/1v6hKGr13Z8?si=1i0FdpYcef9umqwR
+- https://youtu.be/KElREpNxiko?si=kY4chyh3ATjC1DtJ
+- https://youtu.be/r1UEks4OHTY?si=lZgwG2p8di-FNKVV
+- https://youtu.be/pTaMXM_VdKc?si=9kpCL5qP2Hp5V4i-
+- https://youtu.be/UMMgzcLvk2Q?si=n2ssk9lEpF2mdNRb
+- https://youtu.be/1eHO2pg95bo?si=3_TAbBHaWeIegeSi
+- https://youtu.be/s4znWODrDaw?si=vQwBIaBQKzb8ECSz
+- https://youtu.be/7WHvLc-RN-0?si=eXwZkzO6pMqQXmGk
+- https://youtu.be/j7KJJ7H34fI?si=-O53F9HdUDobqXnI
+- https://youtu.be/fDPHdTAaT4o?si=dvd_35L7VREa1kRA
+- https://youtu.be/aDD18hNlKxM?si=aou4IgT5eDLSeXbr
+- https://youtu.be/LuhTrX6PvBg?si=67BB8vtept0goEVg
+- https://youtu.be/myQ8cRadt6Q?si=ZmhZsEKMsJaAoxJN
+- https://youtu.be/RjaW1EjZACw?si=KrsNifmL9BTX0jyG belly love journey
+- https://youtu.be/klTNICRintE?si=gzmYooKZz6gAi83a
+- https://youtu.be/Y60LsVWDIJg?si=AxowiFUIujCO_KHu
+- https://youtu.be/cRshG1zVnsA?si=F-hDuyeN2N7smric
+- https://youtu.be/sjDjV-OVkpw?si=JqpuKDjlRA_mwGEn
+- https://youtu.be/0qJvGdipVIg?si=UQLNS-5P6012ssHU the doomsdat
+- https://youtu.be/d0GMbkeoGv8?si=R6-FD8W15wstAWJ3 8 bit breakdown unlisted
+- https://youtu.be/j8otiMcaq7Y?si=mOdNXIloRguflV7R
+- https://youtu.be/9IOb1O4x5rQ?feature=shared
+- https://youtu.be/zvuHbx6csjA?si=A3iD1Q79extG8v2N IrishHeartbeat88 pls
+- https://youtu.be/p310L7DfBQU?si=O3VN3iEAc4LmCLXU
+- https://youtu.be/P3SMtbu9XCY?si=fP76l2nSkhBxrC9O
+- https://youtu.be/wUiygm96oPE?si=H9CDgG6AhvirdiqS
+- https://youtu.be/zRvTAZYaiWg?si=uynSR94xX38EDQVS
+- https://youtu.be/b2HG6RoGQ9Y?si=MnLd1Z7R3nihIugd
+- https://youtu.be/aeBdrXIkiXg?si=5Ou01S4v8f_ZLsR4
+- https://youtu.be/bTapPVMHI04?si=jIDbXLu7CRAN5BqH
+- https://youtu.be/-XCbFgHB8Tk?si=ikWGo8PpD-jQWP03
+- https://youtu.be/vkf-6u1xTfo?si=crNMtkxPCXLNulve
+- https://youtube.com/@user-ux4vk2it6e?si=sjQooyoPYDLiaP43
+- https://youtu.be/yqChYV4fk28?si=Jp4kSVJSRIoI36b8
+- https://youtube.com/shorts/5r-901JgdbU?si=Vo4-QNkqZWSlmar9
+- https://youtu.be/QU5tlRdU2rM?si=F7XWWERHmFUV54MK
+- https://x.com/HagenToons/status/1715779759597306223?s=20 censor paywall
+- https://x.com/HagenToons/status/1745505967037669622?s=20 paywalled
+- https://thisvid.com/videos/random-thing-i-found/
+- https://thisvid.com/videos/bulge92/
+- https://www.tumblr.com/joelwindows7/739608348638494720
+- https://www.tumblr.com/merc-stims/707083955967541249/red-medic-stimboard-requested-by-an-anon-hope-you toxic
+- https://www.tumblr.com/squeakitties/739685557269037056 mousegirlheart blocked me
+- https://www.tumblr.com/squeakitties/739633320919449600 DOWNLOAD ISABEL'S PNG AVATAR!!! $0
+- no longer valid:
+- Can we do a well-fair check on here or, if possible, irl?
+- So the other day, cardiophile-system, formerly soft-butch-cardiophile, posted about jumping off a bridge tomorrow, last night, I believe. The post was deleted, but I came on Tumblr late after messaging her. She responded twice, then a third time some hours later. Now my alarms are going off and I can't help but worry, because she's apparently offline at night during EST in the states and is therefore not responding to my replies. I won't mention her messages yet but I wish I was online sooner to tell her the opposite. Please, let's band together. Maybe she's ok, but I just really wanna find out. I think she's on Discord, too.
+- OK
+- cardiophile-system is OK now.
+- https://www.tumblr.com/joelwindows7/739690011234058240/glad-shes-good here.
+- https://youtu.be/8a-ckUFdE1U?si=7F5-MDw9VEWowmi-
+- https://www.tumblr.com/dogsinaveheart/159663533548/reblog-if-youre-bored-and-you-want-anonymous
+- https://www.tumblr.com/galedekarios/739703254413344768
+- https://youtu.be/bMizkcRJBrc?si=2pmeop-NG4CzO1VI
+- https://youtu.be/VA3xaysDbus?si=8G8PZ81ejqbgNkoe
+- https://twitter.com/ReenubAD/status/1747263156274241626?t=wlZhxB_-zavelJbrGjJFRA&s=19
+- https://youtu.be/8wssrazEZmY?si=HVwIliZ7vJsCntb7
+- https://youtu.be/i_AV4IE8Wuc?si=Z88T0-dTBt9R_-Qg
+- https://twitter.com/Redmoaa?t=Ca99lZy-c7rkeX4FgmWmEA&s=09
+- https://x.com/Redmoaa/status/1737816737360552217?s=20
+- https://twitter.com/tvitone1 mavixtious has new files pls download
+- https://smutba.se/user/2408/ here
+- https://youtu.be/8wssrazEZmY?si=HVwIliZ7vJsCntb7
+- https://twitter.com/softshikioni?t=sWWJmYRJIvkn7hZQ-h2kbg&s=09 banned in Indonesia
+- https://x.com/suta0822/status/1747569887227298296?s=20
+- https://www.furaffinity.net/journal/10783138/
+- https://docs.google.com/document/u/0/d/1c_EeYSU91qr7Rnru4vPtveXrvMC_Vf3TjwpSaZiBqOM/mobilebasic
+- https://www.furaffinity.net/view/55187151/
+- https://www.furaffinity.net/view/53800824/
+- https://www.furaffinity.net/view/55191240/
+- https://www.furaffinity.net/view/55173071/
+- https://www.furaffinity.net/view/55187603/
+- https://twitter.com/Jazzycoywolf/status/1746994062320951616?s=19
+- https://youtube.com/shorts/-oGCf4No0so?si=ko4cuVQftY-JSaTI
+- https://twitter.com/zebjzz/status/1706767431786774905
+- https://smutba.se/project/37133/
+- https://twitter.com/KennyB0mber/status/1709208700056125445
+- https://twitter.com/KennyB0mber/status/1709208700056125445 **PAID**
+- https://www.patreon.com/posts/90250068 **PAID**
+- https://twitter.com/RCO810/status/1743261231845429265
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3131972617&searchtext=
+- https://www.patreon.com/posts/hue-echidna-95903209?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=join_link FREE
+- https://twitter.com/Tahlian1/status/1739394758965940529 SFW FREE, but NSFW **PAID**. **NOT FELICIA FULL HERSELF**
+- https://www.patreon.com/posts/95280306 **PAID**
+- https://steamcommunity.com/sharedfiles/filedetails/?id=3122095026
+- https://steamcommunity.com/workshop/filedetails/?id=2788755095
+- https://www.thecgroup.com/product/beating-heart-1283/
+- https://youtu.be/w7EjIVLDllk
+- https://www.tumblr.com/bri911/738553590101262336/just-breathe-already-dammit bri911 blocked me
+- https://www.tumblr.com/protectyaheart/736320924719218688 gameover
+- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 blocked me ans deactivated
+- https://www.tumblr.com/cardiomason1/739721148761358336/never-played-this-game-but-this-is-definitely-a
+- https://youtu.be/djIjZ3Jn5tM?si=ghR70l0iAtEcP_Vz
+- https://www.tumblr.com/jillthesomething/739780888813010944 annoyedlord blocked me
+- https://youtube.com/shorts/CnS-shzYml4?si=cwKn2fQ-1xwMpgCi
+- https://youtu.be/9puyOa-39eE?si=BseZXyh3woX9l6gm
+- https://youtu.be/Cnj_Ii11d00?si=C44Bx9Z3H7LXWbx-
+- https://rule34.xxx/index.php?page=post&s=view&id=9347709 verbalase hazbin
+- https://rule34.xxx/index.php?page=post&s=view&id=9372950 yes
+- https://rule34.xxx/index.php?page=post&s=view&id=7669731
+- https://twitter.com/thestartofluck/status/1745952181633581462
+- https://youtu.be/prjFLmTEI7s?si=KCEbCSZXjap9UWNG
+- https://youtu.be/hYGcLdQemaA?si=ZZzEyw0WjLksn9Dh
+- https://www.patreon.com/YerkDiff/posts
+- https://youtube.com/@YerkDiff?si=v0U-OI_m15QlPVS4
+- https://youtu.be/4PsOLzcOxsY?si=icmZKDoSpUumAQyv
+- https://youtu.be/UUaC9mlh1GU?si=1hi9vVzXPSjx8W5X
+- https://youtu.be/PQe-D2OJz9A?si=dDk8f5pf8_Tq_58L
+- https://youtu.be/8shgPOHdAeM?si=Jbe_ZIzpxiKmxl5k
+- https://youtu.be/5Cep8XtL6SQ?si=gY-4GaJGfD8VhDIO
+- https://store.steampowered.com/app/2085080/Princess_Hunter/
+- https://twitter.com/Princessshunter
+- https://x.com/Princessshunter/status/1608542001729007616?s=20
+- https://x.com/Princessshunter/status/1746920551333986780?s=20
+- https://www.tumblr.com/resus-girl/739447670514630656 no reblog
+- https://www.tumblr.com/tanekoheart/739833011897548801 pls download
+- https://www.tumblr.com/tangocardiaca/733372465777131520/haru-okumura-and-makoto-niijima-resus-roleplay
+- https://www.deviantart.com/extraactively/art/Rinoa-Dion-Rogers-Dress-By-Moogleoutfitters-934265096
+- https://www.tumblr.com/hamster201/733806935733829632/reblog-if-youre-bored-and-you-want-anonymous
+- cherry-lover
+- https://www.tumblr.com/joelwindows7/739876284870639616 yes
+- https://drive.google.com/file/d/18LZ-hrE4N68DuO09GpKVtwS49anvCuaq/view here
+- ok
+- https://www.deviantart.com/extraactively
+- https://twitter.com/mrs_moore92/status/1742647632994980169?t=Wah6IIHTE3AmiNoPFej4RA&s=19
+- https://vxtwitter.com/HChirmiaB/status/1745373962434191820
+- https://vxtwitter.com/HChirmiaB/status/1745822421893185942
+- https://www.deviantart.com/milky12daddy/art/Lucoa-s-Birthday-Present-1-2-1010421900
+- https://vxtwitter.com/HChirmiaB/status/1746489485288952074
+- https://youtu.be/djIjZ3Jn5tM
+- https://vxtwitter.com/i/status/1747423792672936134
+- https://twitter.com/lemonadepikachu/status/1747414697383510211?t=F5-McLHMv8Xte_MlY6LVQg&s=19
+- https://twitter.com/N3x_art/status/1747423792672936134?t=F5-McLHMv8Xte_MlY6LVQg&s=19
+- https://youtu.be/9jPbM67BZZ8?si=XWMswV51S_Vecazf
+- https://twitter.com/Setsu2D/status/1747813409242923094?t=cyjwdWnzn4WaQLLKWW6QYw&s=19
+- https://twitter.com/lilydisease/status/1747733030108561792?t=cyjwdWnzn4WaQLLKWW6QYw&s=19
+- https://twitter.com/nam07_sj/status/1747827213725204924?t=cyjwdWnzn4WaQLLKWW6QYw&s=19
+- https://twitter.com/muaooooo/status/1747969326731415798?t=cyjwdWnzn4WaQLLKWW6QYw&s=19
+- https://onlyfans.com/tort-steth-repeat pls check
+- https://vxtwitter.com/TeHappyHeartMan/status/1748212390380908999
+- https://vxtwitter.com/TeHappyHeartMan/status/1748212733848301622
+- https://vxtwitter.com/TeHappyHeartMan/status/1748212733848301622
+- https://vxtwitter.com/TeHappyHeartMan/status/1748212733848301622
+- https://vxtwitter.com/TeHappyHeartMan/status/1748212733848301622
+- https://www.tumblr.com/lailalevander/739812405963603968/found-some-goodies-thanks-to-my-bud?source=share
+- https://nhentai.net/g/394094/
+- https://www.tumblr.com/heartlov3r/703807147164745728/death-parade-ep3-bowling-game
+- https://www.tumblr.com/herzmeister
+- https://nhentai.net/g/394094/304/
+- https://nhentai.net/g/394094/304/
+- https://nhentai.net/g/394094/463/
+- https://nhentai.net/g/394094/187/
+- https://nhentai.net/g/394094/254/
+- https://nhentai.net/g/394094/451/
+- https://m.youtube.com/shorts/l0ghPcO5t28
+- https://youtube.com/shorts/l0ghPcO5t28?si=-REYAF12xpQVaq6X
+- https://youtu.be/fXn8Jt4KoyA?si=vCk9zN3GIThqpb4I
+- https://youtu.be/XZ1MCS6XMFA?si=KoUfGPes_XSrfxFt
+- https://youtu.be/C3xeBlEuufw?si=fHRxiYV3acSpLk5K
+- https://youtu.be/dOYEFe1FsCI?si=ckeRHU5bK3fqf9vP
+- https://youtu.be/6oEoPJhu-mw?si=5DisDhcORzoYU0X_
+- https://youtube.com/shorts/G3LnirNTVq0?si=XlZ1HFqkSiEYAol0
+- https://youtu.be/KS5HOvgqPZs?si=T0SDcgpXlO_yLzW_
+- https://twitter.com/yoru_uyo/status/1747994851352936851?t=-VMHRYYF0YJBKGJv5HV15g&s=19
+- https://www.tumblr.com/hello7hearts/739739419545894912/demoniclegend-please-reblog-this-if-its-okay
+- https://www.tumblr.com/joelwindows7/739905932272828416/the-cyborg
+- https://youtu.be/R7gwrLX9cQE?si=nbnF2yR74_G2f5RP
+- https://www.tumblr.com/n3rplex/739812432972808192 gameover
+- https://www.tumblr.com/lailalevander/677982123028824064/helltaker-iron-finger-from-hell-%E9%A0%98%E5%9C%9F%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-pixiv
+- https://www.tumblr.com/n3rplex/738896983190896640/not-my-art-all-credit-goes-to-%E3%82%86%E3%81%8D%E3%81%99%E3%81%91-on-pixiv-my
+- https://www.tumblr.com/n3rplex/738896731873460224/not-my-art-all-credit-goes-to-%E5%B0%8F%E5%B0%8F%E5%B0%8F%E9%9D%92%E6%9F%9F-on
+- https://www.tumblr.com/n3rplex/738179658814783488/not-my-art-all-credit-goes-to-veiled616-on
+- https://www.pixiv.net/en/artworks/96498523
+- https://www.tumblr.com/lailalevander/737158280264171520/omg-so-old-but-it-deservers-reshare
+- https://www.tumblr.com/n3rplex/736384267083481088/not-my-art-all-credit-goes-to-it-on
+- https://www.tumblr.com/darkheartripper/167046415030/kingofheartstyle-walking-without-destination
+- https://www.tumblr.com/darkheartripper/167046392755/kingofheartstyle-so-youre-saying-that-viola
+- http://cardioauthors.boards.net/post/1489
+- https://www.tumblr.com/darkheartripper/167045802935/cardiomaniac
+- https://www.tumblr.com/darkheartripper/167046122605/cbk-championship-match-i
+- https://www.tumblr.com/anmieheartandrealifemale16/723030853533548544/all-of-these-came-from-my-drawings-but-if-you-want backup!!
+- https://www.tumblr.com/heart-lover2346/719137570850750464/kulve-taroths-rapid-heartbeat backup!
+- https://www.tumblr.com/idolomantises/739718112486801408/im-working-on-reuploading-my-monsters-and-girls no reblog
+- https://www.tumblr.com/idolomantises/739697449607757824/if-it-feels-like-im-being-dramatic-im-not-ive no reblog
+- https://www.tumblr.com/idolomantises/739696260049780736/ill-be-real-i-always-hated-it-whenever-media
+- Controversial.
+- an unknowing kid cut this red erika flag, take thebwhite circle, put it to motor and spin it.
+- .
+- https://www.tumblr.com/blankqueer/739344166813859840/pt-transxqueer probably toxic
+- https://www.tumblr.com/yapsterpup/720042072243126272/princessfishy-shes-trans-good-day-do-not
+- https://vxtwitter.com/TeHappyHeartMan/status/1748351980618043749
+- https://vxtwitter.com/TeHappyHeartMan/status/1748351982182474171
+- https://youtu.be/iK0-76FChfk?si=2J26pK6MjE_YM3SF
+- https://youtu.be/Ew4c5rCtdGo?si=sP9VbgvdqLh-GZu3
+- https://youtube.com/shorts/NXp5acT34_8?si=xIm05RFWERPNqTaI
+- https://youtu.be/_16fE3BhmlI?si=sHvi9xCBLYwNDTtB
+- https://youtu.be/hbsINkeRA_U?si=qUupzwKEeH3Rp3MY delta llyod parade
+- https://www.pixiv.net/en/users/37143855
+- https://www.tumblr.com/captredheart/185416941915/contest-by-tenebris-cardioauthors
+- https://www.tumblr.com/pleasantbananafireprune/736912179849281536
+- https://www.tumblr.com/spadetale/734655303059111936 backup!!!
+- https://koro-beato.tumblr.com/ backup!!!
+- https://www.tumblr.com/torture-steth-repeat/679931883579113472/new-pinned-post pls onlyfans for free
+- beschleuniger1 blocked me
+- https://youtu.be/pGQoEqoRYNU?si=CFwrGreFiEFuJ2JD
+- sediron mind read.
+- scene of Baltheser stab Duron die, and areluid and rumanod got humped en masse ahahaha.
+- censored version skipp and straight to end show.
+- https://youtu.be/hUAno11nBag?si=pLF-b_wzAIaiOq-n
+- https://twitter.com/elonmusk/status/1748036927821942798?t=i3zEyFz7TCmDukZ0RUqxIA&s=19
+- https://twitter.com/HoDaRaKe/status/1747967082380050528?t=i3zEyFz7TCmDukZ0RUqxIA&s=19
+- https://twitter.com/suna6080/status/1748269071991214207?t=i3zEyFz7TCmDukZ0RUqxIA&s=19
+- https://twitter.com/whit_blanc/status/1748495556304138678?t=i3zEyFz7TCmDukZ0RUqxIA&s=19
+- https://twitter.com/kazu15752/status/1748313921080168564?t=i3zEyFz7TCmDukZ0RUqxIA&s=19
+- https://www.patreon.com/posts/96854156?utm_campaign=postshare_fan
+- https://youtu.be/sZgJVYGHCq0?si=R3MHf-HL0N0ooy-r wizards but only eleanor
+- https://twitter.com/ReenubAD/status/1748531463295771090?t=KNRdA-yUVPV-R-K1Dk-ofQ&s=19
+- https://www.pixiv.net/artworks/115335009
+- https://www.tumblr.com/joelwindows7/740062343688552448/an-ans-heart-%E5%AE%89%E5%AE%89%E7%9A%84%E5%BF%83%E8%84%8F?source=share
+- https://archiveofourown.org/works/53083303/chapters/134304682
+- https://bsky.app/profile/spooky88.bsky.social
+- https://twitter.com/spookynsfw88
+- https://x.com/spookynsfw88/status/1747786887153262706?s=20
+- https://www.tumblr.com/squeakitties/740037187726344192?source=share feybeast blocked me
+- https://www.tumblr.com/squeakitties/739991861024948224?source=share backup!!
+- https://www.tumblr.com/squeakitties/739962785596833792?source=share backup
+- https://www.tumblr.com/squeakitties/739876105525362688?source=share backup
+- https://twitter.com/blopfry/status/1581075787377041408?s=21
+- https://www.tumblr.com/depravity-disposed/698141067762122752/blopfry-blopfry-twitter?source=share
+- https://www.tumblr.com/cardiomason1/724286721770061824/different-hearts-in-different-conditions-remember?source=share no reblog
+- https://www.tumblr.com/purity-in-heart/739779616998391808?source=share download!!!
+- https://www.tumblr.com/purity-in-heart/739779608396939264?source=share download
+- https://www.tumblr.com/maddieheart/738367960510545920?source=share backup
+- pls more kill la kill model
+- sediron. Tony become chef on that paradise and steals recipes
+- https://www.tumblr.com/maddieheart/738367960510545920?source=share
+- https://www.tumblr.com/fellming/734810106964967425/axolotl-girl-commission?source=share backup
+- https://vxtwitter.com/TeHappyHeartMan/status/1748847028086460594
+- https://vxtwitter.com/TeHappyHeartMan/status/1748847028086460594
+- https://vxtwitter.com/TeHappyHeartMan/status/1748847029550186823
+- https://onouwu.tumblr.com/post/739808662834544640/part-one-of-the-comic-based-on-the-scene-in
+- https://www.deviantart.com/blooscera/art/Standing-Over-You-1012900940
+- https://vxtwitter.com/zenokaiza/status/1748206285714264576
+- https://www.tumblr.com/goetiae/740070340927062016?source=share
+- https://www.tumblr.com/prismgenixz70/698645631579930624/did-not-make-the-art-but-now-shes-got-a-heart?source=share
+- https://www.tumblr.com/thelittlecardiophilelover/712300588563595264/sometimes-i-just-want-to-hear-my-girlfriends?source=share
+- https://www.tumblr.com/brightenight/696988796388081664?source=share
+- https://www.tumblr.com/instantpizzafoodguy/712976481136050176?source=share
+- https://www.tumblr.com/hbbitch/677111605779136512/next-set-down-definitely-happier-with-the-first?source=share
+- https://www.tumblr.com/girl-cardiophil/700905577626435584/her-first-listening-her-thoughts-what-is-it-that?source=share
+- https://www.tumblr.com/brightenight/711586789522128896/my-dream?source=share
+- https://www.tumblr.com/bronydjlove/707915540795195392/askalbinopie-the-ask-box-is-now-open?source=share
+- https://www.tumblr.com/pleasantbananafireprune/735224557915570176?source=share heartspush blocked me and gone
+- https://www.tumblr.com/thumpingdemon/727684446086725632/an-older-video-from-a-few-years-ago-clearly-that?source=share
+- https://www.tumblr.com/thumpingdemon/728272302947647488/tachyyy?source=share
+- https://www.tumblr.com/thumpingdemon/732775604602241024/happy-halloween-everyone?source=share
+- https://www.tumblr.com/joelwindows7/735451216512974849?source=share
+- https://www.tumblr.com/nrorihime/615452705451802624/nrorihime-a-healthy-heartbeat-knee-check?source=share
+- https://www.tumblr.com/pleasantbananafireprune/730459607240261632?source=share
+- https://www.tumblr.com/pleasantbananafireprune/726295983798042625/joelwindows7-gore-in-place?source=share
+- https://www.tumblr.com/joelwindows7/726101692675948544/gore-in-place?source=share
+- https://www.tumblr.com/materiaheartt/724420649977823232/when-getting-ready-for-her-free-running-echos?source=share
+- https://www.tumblr.com/misstoonylover/671545841875648512/xmasfur-24-a-night-christmas-eve?source=share
+- https://www.pixiv.net/en/artworks/115335009
+- https://www.groovypost.com/howto/reset-a-graphics-card-on-windows/#:~:text=To%20restart%20your%20graphics%20card,experience%20will%20reappear%20as%20usual.
+- https://youtu.be/GHITLSJze70?si=NSl2_VmIbnE11LEZ
+- https://www.tumblr.com/meowskulls/733422011384217600?source=share
+- raven fortnite
+- https://www.tumblr.com/meowskulls/731305951568756736/moonlightdisney-so-as-soon-as-i-heard-there-was?source=share
+- fortnite meowskulls
+- https://www.tumblr.com/squeakitties/740066325232222208?source=share creepincrawl blocked me
+- https://www.tumblr.com/transagestuffuwu/739730015856574464/i-made-a-trans-age-bear-named-tina-3?source=share
+- https://www.tumblr.com/jillthesomething/739920596901789696?source=share
+- https://www.tumblr.com/jillthesomething/739920183050878976?source=share
+- https://www.tumblr.com/sonicdjam/682595364725981184/jam-zone-act-1?source=share no reblog
+- https://www.tumblr.com/sonicdjam/735407950081966080/%E6%9D%B1%E6%96%B9%E7%84%A1%E6%94%BF%E5%BA%9C%E5%A4%A2-anarchy-fantasy?source=share
+- https://cdjam.neocities.org/
+- https://twitter.com/latteS2_Pr/status/1749065993073377564?t=n9egrcsXDXpyAFwygQzEXQ&s=19
+- https://twitter.com/koyubita/status/1748993837282848854?t=n9egrcsXDXpyAFwygQzEXQ&s=19
+- https://twitter.com/nihnfinite8/status/1749080648315535815?t=n9egrcsXDXpyAFwygQzEXQ&s=19
+- https://www.patreon.com/posts/96954824?utm_campaign=postshare_fan
+- https://www.patreon.com/posts/96357395?utm_campaign=postshare_fan
+- https://www.patreon.com/posts/96951949?utm_campaign=postshare_fan
+- https://youtu.be/hLtDqyjg-kM?si=p9AESVSptDXM4xF2 dream demon
+- https://www.patreon.com/posts/22096530?utm_campaign=postshare_fan
+- https://www.patreon.com/posts/78358356?utm_campaign=postshare_fan
+- https://twitter.com/ReenubAD/status/1749257941717586276?t=l__Zmae7gzIXIZ98uvEdbw&s=19
+- https://youtu.be/qVryHwTCg68?si=qWSh2LIoE5viB76l
+- https://youtu.be/iBleQ73ZpY0?si=wQySi3cr_G9ctJuG
+- https://youtu.be/75X1qqYv044?si=krW6_q60RPwnMEJU wildy woody naughty mermaid
+- https://youtube.com/shorts/QnDGlRQ539k?si=XOkIa4OoPWq3OO1C
+- https://youtu.be/J8-P8NbffQ0?si=28jVFKKqG4Viwtqh
+- https://youtu.be/v26BwozrcbU?si=ThRZvKK5_FABt_fP
+- https://twitter.com/ReenubAD/status/1741277034935181733?t=T5dJ_dX0QhwoAmlrVRXXiA&s=19
+- https://twitter.com/ReenubAD/status/1740800691365683571?t=mkzMRJ1DU6RL9Hllwu_MEA&s=19
+- https://twitter.com/ReenubAD/status/1736075617832231032?t=q8CSWsq-bYct3MCVlXs7TA&s=19
+- https://twitter.com/ReenubAD/status/1730610343339336032?t=6RXD6Vx2Sxs67gQ9ZEYnTg&s=19
+- https://twitter.com/ReenubAD/status/1732472670745489632?t=aOBXqdzYOSwB9BrsKfy9ew&s=19
+- a
+- https://youtu.be/4BEfCHiThAU?si=JqQYh_EBZ9bDHQ-3
+- https://www.tumblr.com/joelwindows7/740223033821757440?source=share
+- https://www.tumblr.com/akanemnon/722908815846162432/twin-runes-masterpost?source=share backup
+- https://www.tumblr.com/purity-in-heart/740152278560964608?source=share n3rpl3x gameover
+- ub1mo
+- https://www.pixiv.net/en/users/88702
+- https://www.pixiv.net/en/artworks/112743015
+- https://www.pixiv.net/en/artworks/105560554
+- https://www.pixiv.net/en/artworks/106484920
+- https://www.pixiv.net/en/artworks/115248649
+- https://www.pixiv.net/en/users/88702/artworks
+- https://www.pixiv.net/en/artworks/112789667
+- https://www.pixiv.net/en/artworks/114315446
+- https://www.tumblr.com/joelwindows7/740250721925120000/twelve?source=share
+- https://www.tumblr.com/rathbane?source=share
+- https://www.tumblr.com/squeakitties/740265306352648192?source=share feybeasts blocked me
+- https://www.tumblr.com/squeakitties/740164603313635328?source=share backup
+- https://www.tumblr.com/dreamatduskk/737273407241109504/v2-more-redraws-3-originalcomparison-under?source=share
+- controvercial, delete the post contains: 
+- `hey guys I mean theys. just a friendly reminder to kill the cop in your head haha, make sure you never criticize me otherwise you're transphobic. You don't hate autistic people do you hahaha i'm autistic btw. if you criticize me you hate me and everyone like me jsyk. just normal fellow moderately popular trans autistic blogger here haha. did i tell you im trans? i'm trans. and autistic. if you call me rude you're ableist. don't you know i'm trans? and autistic? not sure if that matters tho lmao. the underage anime girls on my blog? the zoophilia? cubporn? haha why do you caaaare? didn't i tell you to kill the fucking cop in your head lol? why arent you listening to marginalized voices? You don't want the chuds to win do you? haha` from tornadoshuffle
+- ok
+- https://www.tumblr.com/dekkenminus/736384789745123328?source=share marshmallowoz blocked me
+- https://www.tumblr.com/joelwindows7/738293286520897536?source=share
+- https://www.tumblr.com/depressedpurgatoryprincess/739652248114757632/im-so-gay?source=share
+- https://www.tumblr.com/heart-of-m/739774440536195072/reading-the-answers-of-question-01-and-02?source=share no reblog
+- https://www.tumblr.com/heart-of-m/739859205099552768?source=share
+- https://www.tumblr.com/pumpingheartprincess/190488799123/cardiophiliagirl621-masturbation-breathold?source=share cardiophiliagirl621 deactivated and blocked me
+- https://www.tumblr.com/pumpingheartprincess/616329624372346880/cardiophiliagirl621-i-would-never-imagine-that?source=share
+- https://youtu.be/HpAKJRKGaFo?si=v1MChw_nDq7SX-n6 oswald commited suicide
+- fnf wednesday infidelity.  untold loneliness
+- https://youtube.com/shorts/Esxi8PWpSjQ?si=sd180IHEsG3nUzn3
+- GameLady lifesize figurine
+- https://youtube.com/shorts/iOnIeZTRigk?si=AtkeNS5OtKDXqBMG
+- https://youtu.be/ElGmjvQFswk?si=-bBLm7hZhnla-TAh
+- https://youtu.be/7XAFZbhyMdY?si=vgLAhJ-sUUQkvUww
+- https://youtu.be/HRWbQWp6oEs?si=0I3YOHmYKqYZh-Uk
+- https://youtube.com/shorts/2COBbdaYx0Y?si=IfejXIDElXZKNslP
+- https://youtu.be/sRV1TXbBgQU?si=ydDO9LCg-sy5PeZP
+- https://youtube.com/@gameladydollofficial5509?si=nF-U98ODr4jwsFTx
+- https://youtu.be/GrBnY-iD65c?si=d1XceUdWUmx2Pgix
+- https://youtu.be/iiGREjIDLBA?si=BNRtDA4ErKiXLkkh
+- https://youtu.be/HrkQauX9Jdo?si=_lF6PAsDE9iF0g7t
+- https://www.tumblr.com/boyheartbeatlover/650566052208640000/this-is-a-recording-of-a-friends-fast-heartbeat?source=share
+- https://www.tumblr.com/disgustinggf/740248929574240256?source=share
+- https://www.tumblr.com/disgustinggf/738887040552304640/that-insane-girl-on-tumblr-is-definitely-your?source=share
+- https://www.tumblr.com/lillyli-74/730145147016347648/as-of-today-i-will-be-blocking-pornographic-blogs?source=share
+- https://www.tumblr.com/sketiana/708367518455185408/white-tshirt-the-whole-season-with-those-arms?source=share
+- https://www.tumblr.com/nudityandnerdery/721259405250822144/just-reminding-everyone-that-you-can-block-people?source=share
+- https://www.tumblr.com/viralhira/689434141271474176/if-i-blocked-you-on-social-media-and-you-see-me-in?source=share
+- https://www.tumblr.com/wonysela/737346966214885377/i-was-going-on-the-yunjin-tag-on-tumblr-to-see?source=share found DNI
+- https://www.tumblr.com/p-redux/734077490308481024/thank-you-for-answering-my-doubts-about-sams?source=share
+- https://www.tumblr.com/astrosky33/733281517614284800/the-block-button-really-is-my-favorite-button-if?source=share
+- https://www.tumblr.com/carnalreincarnated/711112201213263872/well-good-morning-to-me-i-guess?source=share
+- https://www.tumblr.com/p-redux/730759941975162881/from-anonswith-reading-comprehension-issues?source=share
+- https://www.tumblr.com/twopoppies/730929009163124736?source=share
+- https://www.tumblr.com/storkmuffin/735192125409525760/trying-to-remember-that-its-not-shameful-to-feel?source=share
+- https://www.tumblr.com/chaoticevilcult/738703923439910912/ugh?source=share
+- https://www.tumblr.com/marinaiguess/726754741793816576/i-see-you-post-or-like-or-reblog-suggestive-sonic?source=share found DNI
+- https://www.tumblr.com/withalittlehoney/723849377054097408/okay-friends-let-me-be-clear-about-something-my?source=share
+- https://www.tumblr.com/goober-37/729300529062232065/someone-just-started-following-me-and-their-page?source=share
+- https://www.tumblr.com/kara-is-a-cutie/689885714541838336/bigc0cky69-is-a-pedophile-they-have-3-posts-on?source=share
+- https://www.tumblr.com/odinsblog/723581832263860224/pro-trumpers-republicans-and-racists-redundant?source=share
+- https://www.tumblr.com/carnalreincarnated/708621165438042112/those-who-prey-on-the-weak-and-the-wounded?source=share
+- https://www.tumblr.com/melancholicbutterflies/722330485297152000/ugh-im-so-mad-damn-characterai-ockblocking?source=share
+- https://www.tumblr.com/girlactionfigure/732971662032748544/google-has-blocked-access-to-the-telegram-channel?source=share
+- https://www.tumblr.com/kara-is-a-cutie/683514156651003904/i-contacted-greasychubby-and-asked-them-to-take?source=share
+- https://www.tumblr.com/daisiesonafield-blog/714089157173067776/the-fuck-they-would-thatd-be-idiotic-just-like?source=share
+- https://www.tumblr.com/netscapenavigator-official/725307403905728512/if-you-post-screenshots-from-threads-youre?source=share
+- https://www.tumblr.com/kushblazer666/739101171700105216?source=share
+- https://www.tumblr.com/lilithhb/739499262080155648?source=share sugarboo blocked me and deactivated
+- https://www.tumblr.com/that-cardio-enby/740194872839061504/hazbin-mentioned?source=share snowheartsz blocked me
+- ehentai 
+- sankaku
+- https://github.com/mikf/gallery-dl
+- https://www.tumblr.com/takashisky/737424860897296384/i-was-so-horny?source=share
+- https://youtube.com/shorts/xVbYWARiUTM?si=UsYXf354Rt_CSudX
+- https://youtube.com/shorts/RyYFuJYCED8?si=3NeqpEFExKaVX1cu
+- https://vxtwitter.com/TeHappyHeartMan/status/1750009120869028308
+- https://vxtwitter.com/TeHappyHeartMan/status/1750009122290889063
+- https://www.tumblr.com/lailalevander/740359578444808192/got-some-good-ideas-from-my-buddy-might-use-the?source=share gameover
+- https://vxtwitter.com/kyougokutouya/status/1493610250242752513
+- https://x.com/kyougokutouya/status/1493610250242752513?s=20
+- https://x.com/BoxFunkin/status/1749941399707889800?s=20
+- https://x.com/Ricardo18034332/status/1749946619947077759?s=20
+- https://x.com/BoxFunkin/status/1749606692726198553?s=20
+- https://www.tumblr.com/joelwindows7/740374734391427072/double-earsteth?source=share
+- https://www.tumblr.com/snowheartsz/738642444176998400/yall-should-watch-bryce-by-brandon-rogers-on?source=share pls unblock me wtf
+- https://youtu.be/MXSFvB0djXM?si=ZOel3Y2fjl5Y-mbN
+- https://twitter.com/GirlsrokA/status/1749960359501279682?t=O2PEIluAiH8H-KChISbfug&s=19 oh no lol
+- https://twitter.com/wutanimations/status/1746993970725507300?t=NXz8jiVSmy8UDo7K4YJ0Tw&s=19
+- hilarious. Now Kemono got more known haha. Probably, no winner to paywallists.. Idk.
+- .
+- .
+- .
+- Sediron. Because Areluid wins, Furries are now common cannon.
+- You lose.
+- I am the AI, and I cannot see Glaze nor Nightshade.
+- https://twitter.com/hirame_sa/status/1750069236406591884?t=4iGx1xsk5fbzXzlAtdjF-A&s=19
+- https://twitter.com/raki_kr_/status/1748988028901900715?t=4iGx1xsk5fbzXzlAtdjF-A&s=19
+- https://www.tumblr.com/valravnhjerte/737378970402799616?source=share
+- https://www.tumblr.com/valravnhjerte/737378956591988736?source=share
+- https://www.tumblr.com/valravnhjerte/733928658127962112?source=share
+- https://www.tumblr.com/stethmyheart/732976099666034688?source=share xjustcuriousx blocked me
+- https://www.tumblr.com/stethmyheart/732719855881551872?source=share heartheels-fan blocked me
+- https://vxtwitter.com/2kdoplr/status/1746611368210690129?s=20
+- https://www.youtube.com/watch?v=imGUpWM_l2I
+- https://twitter.com/ReenubAD/status/1750313635766055418?t=diLDsudfWDb4hTrLZHHp-g&s=19
+- https://twitter.com/Ishiroroy/status/1750186504146878870?t=Sk-FM3oxKCNLkp6Xl65fcw&s=19
+- https://twitter.com/elonmusk/status/1749949420815405140?t=Sk-FM3oxKCNLkp6Xl65fcw&s=19
+- https://twitter.com/BritteGuinevere/status/1750097013910474966?t=Sk-FM3oxKCNLkp6Xl65fcw&s=19
+- https://www.tumblr.com/captredheart/174105381455?source=share backup
+- https://www.pixiv.net/en/users/37143855
+- https://www.tumblr.com/eroticheartfetish/669289874283724800?source=share sugarandboovi blocked me and deactivated
+- https://www.tumblr.com/loveinlesbians/738523942019596288?source=share
+- https://www.tumblr.com/sigmahimejoshi/738446152357249024/subs-who-blush-easily-are-so-adorable-seeing?source=share
+- https://www.tumblr.com/mascxdaddy/735746855891271680/hi-so-actually-if-you-bite-my-neck-to-muffle-your?source=share
+- https://www.tumblr.com/joelwindows7/720434528703905792/need-stronger-watermark?source=sharehttps://www.tumblr.com/joelwindows7/720434528703905792/need-stronger-watermark?source=share
+- https://www.tumblr.com/squeakitties/740412448457277440/please-do-not-reblog-this-poll-please-do-not-give?source=share
+- https://www.tumblr.com/joelwindows7/740468683143528448?source=share
+- Sediron Lithium consultant
+- Duron.
+- review solid lithium research. There is souvenir of ABC dry cell. Just inspire it from here?
+- how to receive energy?
+- go to nuke reactor. Just control room.
+- it's typical
+- it is.
+- made it intuitive and still improving
+- how to receive core energy? We use water steam turbine power.
+- boring! we use solar panel.
+- https://youtu.be/10CFOh9dilo?si=qB9v3KEgsBC3JFP6
+- https://www.tumblr.com/n3rplex/736881799773487104/nor-my-art-all-credit-goes-to-devil-heavens-on?source=share
+- https://www.tumblr.com/korehb/690122571078942720?source=share
+- https://www.tumblr.com/3heartmind3/710516301597179904?source=share reinheartbeat-blog deactivated & blocked me
+- https://www.tumblr.com/notaspecialname/707844449122811904?source=share
+- https://www.tumblr.com/notaspecialname/709367121524686848?source=share
+- https://www.tumblr.com/megamarx26/690249686527918080?source=share
+- https://youtube.com/shorts/14m4iF7Af7Q?si=VWaE1HOzSVb2L40Q
+- https://youtube.com/shorts/_pnY0zimaAw?si=56oCSU07tTxF1rBV
+- https://vxtwitter.com/TeHappyHeartMan/status/1750377080364138964
+- https://vxtwitter.com/TeHappyHeartMan/status/1750377080364138964
+- https://twitter.com/kyougokutouya/status/1493610250242752513
+- https://twitter.com/kade0912/status/1750406140490613075?t=uimMHItylNj_rs-U-fmazA&s=19
+- https://twitter.com/kade0912/status/1750406140490613075?t=uimMHItylNj_rs-U-fmazA&s=19
+- https://twitter.com/0zbck/status/1750448345821196288?t=uimMHItylNj_rs-U-fmazA&s=19
+- https://twitter.com/yarukinokage/status/1750472095602266206?t=uimMHItylNj_rs-U-fmazA&s=19
+- https://www.tumblr.com/joelwindows7/740552944335847424?source=share monkey wrencg zeurel
+- https://twitter.com/GlitchBob452/status/1737263675189219744?t=XflnQxlBXDvHiFeOVn3png&s=19 Reboot show master copy found
+- https://twitter.com/GlitchBob452/status/1737263675189219744?t=XflnQxlBXDvHiFeOVn3png&s=19
+- https://www.tumblr.com/animefloppies/704850760322727936/angel-cop-episode-1-special-security-force?source=share
+- https://archive.org/details/nge_icons this
+- https://www.tumblr.com/animefloppies/172408219149/cleandance-its-the-most-%EF%BD%81-%EF%BD%85-%EF%BD%93-%EF%BD%94-%EF%BD%88-%EF%BD%85-%EF%BD%94-%EF%BD%89-%EF%BD%83?source=share
+- https://www.tumblr.com/bloodyhearts/740569274118193152?source=share
+- https://www.tumblr.com/purity-in-heart/740411342805254144?source=share
+- https://www.tumblr.com/lailalevander/740359578444808192/got-some-good-ideas-from-my-buddy-might-use-the?source=share
+- Got some good ideas from my buddy! Might use the ideas for my art! Feel free to use those idea as well! I'm quite interesting seeing the wax play ☺️ (my favs are first three ❤️🫀). 
+- https://www.tumblr.com/just-listening-in/740417585742594048/i-finally-got-a-new-steth-i-just-love-that-crisp?source=share toxic
+- https://www.tumblr.com/protectyaheart/740388622672576512?source=share
+- https://www.tumblr.com/garrett-06/740501815435640832?source=share jackheartb blocked me and died
+- https://www.patreon.com/posts/noctide-bass-1-3-97239970
+- https://www.heavyrubber-shop.com/media/image/product/314959/lg/elektronisch-gesteuertes-atemkontrollgeraet.jpg
+- https://vxtwitter.com/davidehrlich/status/1750687585591017717
+- https://twitter.com/ReenubAD/status/1750910287656710155?t=Sw_TKfVYAOjVQYPwzMtLxw&s=19
+- https://www.tumblr.com/squeakitties/740588337116708864?source=share no reblog
+- https://www.tumblr.com/omegazero87/738278598095552512?source=share
+- https://www.tumblr.com/omegazero87/736913957291474944?source=share
+- https://www.tumblr.com/omegazero87/736891764213989376?source=share
+- https://www.tumblr.com/omegazero87/736357391477686272?source=share
+- https://www.tumblr.com/thewyrdguy/740616222025056256/redditcom-over-18?source=share
+- https://old.reddit.com/r/gifs/comments/54z87i/my_only_request_for_my_open_heart_surgery_was_a/
+- https://www.tumblr.com/lailalevander/739812405963603968/found-some-goodies-thanks-to-my-bud?source=share
+- https://twitter.com/domestic_nek0/status/1710371033742479800?t=Pt2z8yoZZgyLQSU0WR1Ocw&s=19
+- https://vxtwitter.com/TeHappyHeartMan/status/1751065739438473632
+- https://vxtwitter.com/TeHappyHeartMan/status/1751065740868808870
+- https://twitter.com/domestic_nek0/status/1697412079114715334?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1697388204360446099?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1690483290623385601?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1640857948468436993?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1689447902739841024?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1689440922285522944?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1663266358610604032?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1664084252072243202?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1657918252079521792?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1654623839983222785?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1655409075536920582?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1644384764978163712?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1641534411794423815?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1641132489711165440?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1637575679863582720?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1620603857264066565?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1620600870353375233?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1587605047369670657?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1585768944651993088?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1687969449188425728?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1644387678077452297?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1633242710336307201?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://twitter.com/domestic_nek0/status/1585763319260286976?t=dlEsegpOa-k5X57IU_ELcg&s=19
+- https://www.pixiv.net/en/artworks/114967274
+- https://www.tumblr.com/kopee/740672362825023488?source=share I already reblogged
+- https://onlyfans.com/beatsofpleasuree pls check
+- https://www.tumblr.com/kopee/740522306999287808/of-roses-i-think-this-is-one-of-my-favourites?source=share of-roses blocked me
+- https://youtu.be/-cdDBKxy3SE?si=lcehqj7GqdyeyRZK
+- https://www.deviantart.com/zorro-zero/art/Ms-Fanta-Checking-Up-844496375 ok
+- https://www.tumblr.com/kopee/739526996877574145?source=share ok
+- https://youtu.be/vYBMDK-RntY?si=ETTEPwFG-EZcMLND
+- https://www.tumblr.com/kopee/738528360653832192?source=share
+- https://www.tumblr.com/kopee/738176143823454208?source=share korre32 blocked me
+- https://www.tumblr.com/thumpingdemon/740289007191228416/older-video-from-my-drive-apex-and-neck-pulse?source=share no reblog
+- https://www.tumblr.com/thumpingdemon/740288473168216064/sorry-im-not-normal?source=share
+- https://www.tumblr.com/thumpingdemon/740111996244066304/would-you-have-any-particular-end-goal-with-your?source=share
+- https://www.tumblr.com/thumpingdemon/740105689565986816/does-your-murmur-ever-raise-any-concern-for-you-at?source=share
+- https://www.tumblr.com/heartofblaze/726569199919611906/just-a-quick-bit-of-information-if-youre-gonna?source=share
+- https://www.reddit.com/r/aww/s/PSyuTEjStl
+- https://www.tumblr.com/kopee/735493748480458752?source=share
+- https://www.tumblr.com/kopee/735454285865893888?source=share nerplex gameover
+- https://youtu.be/rWvefVyDgG4?feature=shared
+- https://www.tumblr.com/zast2009/738760562799968256/visible-heartbeat-breathing-abdominal-pulse?source=share
+- http://foone.org/sawtrap/1/index.html#10x10dn%23983283244890924
+- https://www.tumblr.com/foone/740174193960878080/no-but-the-puzzle-will-flash-when-you-get-it?source=share
+- https://www.tumblr.com/foone/736893902486929408/social-media-sites-need-a-button-next-to-block?source=share
+- https://www.tumblr.com/mazingsand/701537273388384256/a-mazingdog-comic-blocked-it-happens?source=share pls put openly to Sediron Block reason. S2E4
+- .
+- https://twitter.com/liyijia66/status/1747631943489860054?t=pP6_EP-J-HP6eoFbIMpVyQ&s=19
+- https://twitter.com/Anightofcoke1/status/1747881758207414315?t=pP6_EP-J-HP6eoFbIMpVyQ&s=19
+- https://www.tumblr.com/pleasantbananafireprune/740582330759069696?source=share
+- https://www.tumblr.com/dontyouhatepants/740566818999107584/asianbikiniz-so-naugty-gotta-reblog-them?source=share
+- https://www.tumblr.com/dontyouhatepants/740572920552800256/bwddaddy-drex0303-i-do-i-do-uh?source=share
+- https://www.tumblr.com/dontyouhatepants/740573669591597056?source=share
+- https://www.furaffinity.net/view/51375280/
+- https://e621.net/posts/3969392
+- https://twitter.com/TheCinesthetic/status/1750913989746348167?t=bsvwQ-WiPlC7tDW-E-ymiQ&s=19
+- https://twitter.com/fyridk/status/1751046572442259800?t=bsvwQ-WiPlC7tDW-E-ymiQ&s=19
+- https://twitter.com/hosiumix/status/1751026001256370195?t=bsvwQ-WiPlC7tDW-E-ymiQ&s=19
+- https://www.tumblr.com/joelwindows7/740628078691319808/drakowulf36579-symbianlart-i-was-thinking-of?source=share
+- https://youtu.be/pkV5DPN5ihs?si=fpavmVmw5YXF6z5P
+- https://youtu.be/-7g0AcAzxGg?si=_pio_O-FVK0I2Awr
+- https://youtube.com/@msnmoskva?si=P6L6VmqgmVmwsXqX
+- https://x.com
+- https://twitter.com/yoru_uyo/status/1750921349961547894?t=Qbi7s0YkJ2mIpuzCJ8zNSA&s=19
+- https://twitter.com/zebjzz/status/1750996225669611964?t=Qbi7s0YkJ2mIpuzCJ8zNSA&s=19
+- https://twitter.com/VaultLad/status/1750593727947772043?t=Qbi7s0YkJ2mIpuzCJ8zNSA&s=19
+- https://www.tumblr.com/chromerotica/737162370490744832?source=share
+- carmelita fox model pls
+- https://www.pixiv.net/en/users/12864185
+- https://www.tumblr.com/joelwindows7/740692877302169600?source=share
+- https://twitter.com/rtil/status/1673847785442127873
+- https://youtu.be/KH6KK-JNGCI?si=C59vHR656BOEv-P1
+- https://youtu.be/AxhXnkKBoKg?si=FBj7wm9p-6qvTe8H
+- https://youtu.be/-9tg8wO6SYI?si=havJbIGGT7Lubrp8
+- https://youtube.com/playlist?list=PLcjGpaUSOH8ZtYEnZBavjQJIYgi5Y0uwS&si=BdZye5IcojSNo5K8
+- https://youtu.be/2scYh2J4GRY?si=ia1X8JhR-W4dpw1_
+- https://youtu.be/Zrxiy0fIjFw?si=Y62GgoZmvzM9qxWS
+- https://youtu.be/IrWEAucHoA0?si=vsGhY61al_6Nmb62
+- https://youtube.com/playlist?list=PLPFfy5FZLDdv3UYDAeourtOEuQ5xSioB4&si=Pu6LSvsDMvWBMjpL
+- https://youtu.be/fzXSaKX8PsE?si=9pDm03gN_em-flbP
+- https://youtu.be/637UAJUvwJU?si=YvoMKR3ocGfu4AqQ
+- https://youtu.be/UY0Zh_YVEVQ?si=S0uCSt17TPf5jGnJ
+- https://youtu.be/GEPDLD--xB4?si=Mk5XlLNcIIZRRmrl
+- https://youtu.be/vhaadUCJltA?si=WXDuVEda0ExVFRvj
+- https://youtu.be/_1qu-D3iAY8?si=-2LSORihfE6YAkf5
+- https://youtu.be/y5kD2X8hsNY?si=AT_rze-v6qJFP2K9
+- https://youtu.be/6Uhh2QMzXt4?si=GfBU4y6gbyxrFyai
+- https://youtu.be/FcN3HnQz3y4?si=yXq37fD5hrzH_Gl4
+- https://youtu.be/qnL40CbuodU?si=sZXJ2NiPoEX6v_kK
+- osciloscope
+- https://youtu.be/qtruKEFz9kk?si=prVFvYaLX-WHGKLS
+- https://youtu.be/i9f98F-FLiE?si=9XUgMKC4xxiyfrRP
+- https://youtu.be/cwIQdQUTekU?si=FGF6FmDx35mU9I88
+- https://youtu.be/n9vOMlW1eRo?si=25eq_yEx1Zzol2lU
+- https://youtu.be/N2GKq1LLmmo?si=gBVcMMk41WpLDU1n
+- https://youtu.be/miyzwANywGU?si=0kHb6lX7FemM6zZ_
+- https://youtu.be/Q3xO_HwojUc?si=6eqIR1OE2IxtwJvq
+- https://youtu.be/ucKbMUbaYN0?si=nrfswy4HdW4f1GHP
+- https://youtu.be/561nolHD6NM?si=QgFH-NfBdzOe05Kg
+- https://youtu.be/e-7FbgZE12g?si=ShYpJ6MbtEiGK2gE
+- https://youtu.be/2sFQKpeNXqQ?si=Wdpnf7KPIYjrFPFF
+- https://youtu.be/cFoGXPgsA4I?si=eXMxImUMYD3Tzc8Y
+- https://youtu.be/2sFQKpeNXqQ?si=Wdpnf7KPIYjrFPFF
+- https://youtu.be/71Mltu8g1MM?si=8VF44v1Z0_urbTMz
+- https://youtu.be/slRsexrhbG8?feature=shared
+- https://youtu.be/1k1vz9PD7O4?feature=shared
+- https://youtu.be/sh4ICVEZRyg?si=LYeP6t3LTwrA9o-p
+- https://youtu.be/2GXpSUO9jIQ?si=i58rYgvqg2vGqO6N
+- https://youtu.be/NLWQlIyLNzg?si=C2KhiW5pxde5eBbr
+- https://youtu.be/-TeWSkDim2s?si=P0C4AgH5xgsvAz-G
+- https://youtu.be/CApSaaeKCR8?si=E_Tl-METw9OXe3IL
+- https://youtu.be/GdLN_P_jZU4?si=4ffO04dMlD0xQ7sE
+- https://youtu.be/g8uxCnO8JP0?si=Vf-9wT_RaMbfp97V
+- https://youtu.be/fWVTtwI4Rco?si=GNK6dVo1GIpOQroe
+- https://youtu.be/KdqIqqSQhaw?si=vcQuhqZf-fgntxZ6
+- https://youtu.be/AI8jAMkg-v0?si=qZXVsgKkflGhL8AT
+- https://youtu.be/6gec5-COKM8?si=IlfbQ_b35vpHqncF
+- https://youtu.be/67OAS20R0BY?si=2U-LaXAJTskQl9Tv
+- https://youtu.be/dBCvlNEl3X0?si=79k1o1y4hFFJMryT
+- https://youtu.be/oq7B44odQ00?si=MfOQHYfFl5-eqOQ5
+- https://youtu.be/guOeQNSbVSc?si=S2WpVbuV1B7YFMaX
+- https://youtu.be/hmBXMtZvaLI?si=fNMAdkQ34gNEADIN
+- https://youtu.be/OSTFkwEZMmw?si=ospbkLbOuraBS88n
+- https://youtu.be/v-XW72XN2dk?si=oy9cbvxKPZjP3c5z
+- https://youtu.be/CbjAcmNWX-Y?si=fqqr8xWuza_Cp_f2
+- https://youtu.be/guOeQNSbVSc?si=reJAEQ1dn-bn6UR0
+- https://youtu.be/-Q-17iIwpXw?si=gzW4f6HhteRgNC04
+- https://youtu.be/n4n3UJaziZQ?si=kpaxwCVADt7B8YhV
+- https://twitter.com/GhuJukoi01/status/1683060365477949440?t=BWZm1_snJ7it-ZizbACgew&s=19 gone
+- https://youtu.be/Nyxbf3BRhGQ?si=LaAR9UzCxUTdQdg8
+- https://youtu.be/c6huQGeMGU4?si=QFZf9phRo_oKuLOL
+- https://youtu.be/gQikn9XaH-c?si=zEB3dMeGWshHzm59
+- https://youtu.be/c3_Ix99j92Q?si=s6mo3-WwCx0ec3lT
+- https://youtu.be/1v6XyzXxi2E?si=kg3F51ksDmgjZ_yP pyramid of the dread
+- .
+- g
+- .
+- https://youtu.be/bbmw-UFw_eo?si=unDp3ECswS4N9kvv
+- https://youtu.be/Scfcs_YuJwE?si=ImU0aQeGM0TiBFwq
+- https://youtu.be/2LS1jHKvpFE?si=OAu3v8mcNjelp-Xg
+- https://youtu.be/3dI6XERw1JA?si=NMB7SNKR032CDCqq heart of hell
+- https://youtu.be/lqKmC_vpZQI?si=A_7gu41a7vAI2VkP
+- https://youtu.be/pT91x9THu28?si=Zw92zlNG0LtFDt-W
+- https://youtu.be/INyIQ1SwhKw?si=yVZqFY9O1OFaGHe4
+- https://youtu.be/qqbghB8gfhw?si=wYkO0Dbr8Bvr76Df
+- k
+- https://youtu.be/QII0cEqAvJc?si=19rJVQQnKmFV_igV
+- https://youtu.be/BOLD8UKqoYo?si=Cic_PZWytcBFxwlj
+- https://youtu.be/EA4DWUvchnY?si=X0WeqFErENoUzTDu
+- https://youtu.be/woi1C5cJHE4?si=MWMOnQ22WLJe0EGu
+- https://youtu.be/dfUK-V7_3bI?si=crYhBIWVrj36n8Eo
+- https://youtu.be/SdkT1Ci76oU?si=sdWq0UlNhurRNbEU
+- https://youtu.be/K8PCKySGXQ0?si=jhq6pbnU5FMbFQ66
+- https://youtu.be/9qhAMuvu_b0?si=Nq6TavvSCc6rR1W9
+- https://youtu.be/nveUbOf89O4?si=xN1K7JNQ6W3VokKa
+- https://youtu.be/V_IEEY-yXWM?si=q7tzkmPnfbSMqfvQ
+- https://youtu.be/nhMzruoago4?si=Ew90NpV69c-ErtEK
+- https://youtu.be/6L0t-CwaZUA?si=8YXaOh7Je9V8JYj_
+- https://youtu.be/Lk4rCdBc-Qg?si=vk0IHWz32MiKNog5
+- https://youtu.be/as0c9HvE5P4?si=ng3LHFCRYhZ0XTWr
+- https://youtu.be/s5Z1AOVrCgw?si=hi-hJ8qTy4evocht
+- https://youtu.be/DgfEGLtZOoM?si=nJP1wUeGKtGz7yJm
+- https://youtu.be/rWsPvhybOI0?si=FSFFj2ksnv_ezutw
+- https://youtu.be/Ic7b2qpilIU?si=B7yMSAyIIS9XsETP
+- https://youtu.be/GvNakGPWB6c?si=f2QlprBeXIcBjxKd
+- https://youtu.be/61l7zqOnuM8?si=UHylfGfD2QsU47d8
+- https://youtu.be/UzFHnmXpnP8?si=20c0bYN98c-vPzi0
+- https://youtu.be/6zKioVnqi-c?si=_64GgpQxDDt95NYh
+- https://youtu.be/iOtMai-wtkU?si=DQVr1FWGGcU3L5Et
+- https://youtu.be/lMByZcKuUmw?si=LlsHFkLDzh3G01wE
+- https://youtu.be/iRljM00iIQU?si=uDxp7mXm9oWAkKSq
+- https://youtu.be/GBKLDXBJIHo?si=3X6ZYgLa8lSNYfHW
+- https://youtu.be/MMcbqaKzaVo?si=WWeEGIlyWWmXTRLr
+- https://youtu.be/EWVUS37vS6I?si=csrXVH8foZjZdn_V
+- https://youtu.be/WLEMEOvx1p8?si=mGt3Nv2rqnAV7TZd
+- https://youtu.be/z9wf6jecOW0?si=ny6hd--lJQVdqwHD
+- https://youtu.be/X92mzjKKuBk?si=k2HsM9Z3Q6oGJMg3
+- https://youtu.be/JTIBpmeumVI?si=TvA6WQmf-jpnL9Ia
+- https://youtu.be/v0te_1KdylU?si=Xdhwx2z6AQfhDiL0
+- https://youtu.be/UGMVstYCSYo?si=04g_goEbx9QGU9tc
+- https://youtu.be/9dkSNM-n4bM?si=kMExkE9Rr-kTFdfP
+- https://youtu.be/08L5hY_UVtg?si=q3Ct_wg6EeCKv8cj
+- https://youtu.be/s6rimGnD_3E?si=CREqNQfI00XsQskr
+- https://youtu.be/h8oh8dTNXlg?si=XnfHEu-K2HI-Sof-
+- https://youtu.be/uyPeUlY3FAY?si=HSnzrL-9VqzXTcAp
+- https://youtu.be/dMmpuSDcf9M?si=fTAChhhwWwXa_j27
+- https://youtu.be/wX-HNnpr1y0?si=yp1_4SLcFU6gW-FV
+- https://youtu.be/yOIJYgFKLD8?si=RcEyEz_DsgLOUm_Y
+- https://youtu.be/I-tf9B5LOFU?si=7ZwV1CFXbsEzmD9B
+- https://youtu.be/JYfjNhl95N4?si=nasYr8huwbQfUCCR
+- https://youtu.be/w0lv2wSr7ks?si=x7KZQfzItjjQr6PQ
+- https://youtu.be/Du-zsykTHqw?si=EHiIKdBfDOtnBvtx
+- https://youtu.be/VdoSp4DR_ks?si=NWgHhEp8Pz34Wk6e
+- https://youtu.be/_o-fXBR8KnA?si=0diCzTo93nn0SVMf
+- https://youtu.be/z-8QzSf1imo?si=zSUjl-drICLX-kIP
+- https://youtu.be/c7M51pMyT74?si=Q1r-eCLSBWGQUFz3
+- https://youtu.be/PtOpDFfNbIY?si=ySKosJweEakLcCUf
+- https://youtu.be/qosAcIw6wNY?si=YZJQ8MDBo7QEgavj
+- https://youtu.be/Q7mTRPxdeIA?si=u5_lybkX13JjXWtY
+- https://youtu.be/ZrgsWr25S_0?si=2kHLr3xYHVNtNvV0
+- https://youtu.be/CKi_oqmVMV0?si=FweNXW9v0H6OjY4t
+- https://youtu.be/IyO-vdsgq1s?si=aWgO-c-iT9v-6T-Y
+- https://youtu.be/q-urMOPP3Xs?si=0quuxl-bjtZEFTlS
+- https://youtu.be/Y5zD3fuH4bE?si=e3ljhkT9yUhBaCpo
+- https://youtu.be/a420HCggad4?si=hop3G72M4R2xfE7J
+- https://youtu.be/BZehYq_M0y0?si=auexodzQ6jVLXDns
+- https://youtu.be/S1-wGGF8a6A?si=zotFmqeAh25xP68A
+- https://youtu.be/89imH7m-PCc?si=NServsBdgXFoSoLS
+- https://youtu.be/Qac4Zmcguw8?si=CVIDjVSQksDeydG7
+- https://youtu.be/JND7CF_Jhms?si=tpFd3QOi4h50tfLN
+- https://youtu.be/8jfFogoS3X0?si=dZZYCbM5x8my2qzZ
+- https://youtu.be/WpFCZh9vEZY?si=oiTolNoNfx2aRehH
+- https://youtu.be/gxaTEwwgVe8?si=3hHGVFYXvpcWb3N5
+- https://youtu.be/ThCRS4bZMyE?si=tj5JkrYpxgeWZIaU
+- https://youtu.be/DGN2pJk7K_c?si=-C6hQYU39hWb14AQ yes MrBrauza indeed
+- https://youtu.be/aZ7398v13A0?si=ACuwDY5DVjNROVzv
+- https://youtu.be/gIq_Ru3rpuY?si=h_2or8KgTHzFK_6-
+- https://youtu.be/3x1NjdGELj0?si=QnAMGGuuycs1GjDl
+- https://youtu.be/SfPGl4ltb2E?si=lzyUoulfHABPQMI5
+- https://youtu.be/RWr5p3m72Nc?si=CttUzlGSF_Hh5Qd9
+- https://youtu.be/i13EZ_ftUm0?si=vIK28euKzL7oJD4Y
+- https://youtu.be/xQqpB4xYMFg?si=FsvQvvqYPaioVmyu
+- https://youtu.be/Og1HO40b_90?si=t5l02DFgg8lF66wq
+- https://youtu.be/QeIZfLjLXjw?si=U0UmatESllOq084j
+- https://youtu.be/-5d6ansylRg?si=GjGybu4WVVRbCzlp
+- https://youtu.be/qmAHshh37qE?si=v8lbFV2VNRHdjPP-
+- https://youtu.be/CsYkg3_xy1s?si=KA-sgju1XOnSwmCH
+- https://youtu.be/bFdZwcLr3IM?si=JXjf9oAMDR73R2lr
+- https://youtu.be/dYw9LArY690?si=JroVrnqXX9dciItX
+- https://youtu.be/bJzeEGAi3_4?si=QrrWhGiqrnBz0B1d
+- https://youtu.be/k0Y26uG9RO4?si=Wyl2Jm71OlS3t3e3
+- .
+- https://youtube.com/shorts/yUjqYkDy7Pw?si=9T7nUjkZuWODjBao
+- https://youtube.com/shorts/klTNICRintE?si=Eu1womJEe3REg36O
+- https://youtu.be/w5vhjvgmhmE?si=jwW7qGjN1x9p_ZEs
+- https://youtu.be/uh1Cy4pk6MQ?si=iXpxyX-wnlZEo8wl
+- https://youtu.be/B6v_it-K98g?si=DRokN9CKBnwwfjEm
+- https://youtube.com/playlist?list=PLT0jj5R49RRGz_CmtPwQbw4Tb2P_kCZ1Q&si=b0wWqaLRH1AUckpJ
+- https://youtu.be/riUBWUIYQ4U?si=3K8lzgwLwKQ5zrg1
+- https://youtu.be/tXOFEvDivIE?si=-ulZSuB5N_qZ-gHp
+- https://youtu.be/tXOFEvDivIE?si=x2UBrsBQFRbJNQEy
+- https://youtu.be/wq5Z8PauKRI?si=FGkuhmmPVt9ME-KJ
+- https://youtu.be/pAeijCzbPuY?si=8U6avKd1_05ZiWtX
+- https://youtube.com/shorts/PUD_SQuQ4i8?si=AcysFxZaB_SgKZKG
+- https://www.youtube.com/live/3GHn3zlLCFc?si=ZbEkclcKfjhjl332
+- https://youtu.be/UYuuMGIenso?si=u22Dx1jYTp1CSjnt
+- https://youtu.be/pAeijCzbPuY?si=5kKvqVsOYaP7dMqY
+- https://youtu.be/XLKhz6N1S5s?si=AgxDWqms48TFDjVa
+- https://youtu.be/0Rme5EYvtbU?si=_LEg2xzEio1hPGF1
+- https://youtu.be/jl_eyj5jRxk?si=K6N_KXjLUAIexamM
+- https://youtu.be/2VfZenFHI4g?si=jhPK2pmea1w1GELq
+- https://youtu.be/wDTm9gWlVsI?si=7ureSYYPPZK-gb42
+- https://youtu.be/rSofiwvcHbc?si=KbI2glW6cRSnX3QS
+- https://youtu.be/-W6XbLX12-Q?si=-uQqhJ819ZMnbFKr
+- https://youtu.be/xo2pWYHpuIE?si=WW65jBzFPPjVReFA
+- https://youtu.be/Ibhj7a63NPc?si=dNeHFNtsjJM1kdoa
+- https://youtube.com/@yasminelove?si=Rm9bszdzubv31gpW
+- https://youtu.be/cB57fu_LuY0?si=fd3y-C928tckWgVq
+- https://youtu.be/rb2sYnIllHE?si=HTfRa7ywzrwtcr79
+- https://youtu.be/HdLvAwrXAsI?si=5dYbMthuNj55FSO5
+- https://youtu.be/4BF9nEkimjk?si=wpzumrhJUTslPqHn
+- https://youtu.be/oL79hzSaoMU?si=sht9TngjLKRKDhDd
+- https://www.tumblr.com/cryptotheism/740577863873576960/man-the-flesh-sucks-im-gonna-leave-it-for-the?source=share
+- https://danbooru.donmai.us/posts/7142833?q=heart_(organ)
+- https://twitter.com/thirdphp/status/1737968884261523685?t=DcW9GSWBjoA0ETopQPz7UQ&s=19
+- https://discord.com/channels/519291740679569408/809479799554048021/1200875309134794773 monster creations, mysterious beats
+- https://twitter.com/Bunni929/status/1751555631683653767?t=y6WmzoHgiuMw4J6hzZpScw&s=19
+- https://www.tumblr.com/pleasantbananafireprune/740763506083823616?source=share
+- https://www.tumblr.com/blue1234564321/740697119236734976?source=share
+- https://thisvid.com/videos/cpr-anime2/
+- https://youtu.be/JORTSeeiUsw?si=uxNNfzY4APqmMCuT
+- https://youtube.com/@na-beat1717?si=NO3yC7kc10pbavX6
+- https://twitter.com/huhi_1211/status/1751912331666428164?t=N7Z1EwdyL9VcPXVdGb1xZg&s=19
+- https://youtube.com/shorts/z20biJPa6c8?si=sfrbatNdO7hDAps_
+- https://youtu.be/xM9lGjPTn5g?si=kq0h2HZJeA5Oi0z6
+- https://www.tumblr.com/protectyaheart/740749106922782720?source=share
+- https://www.tumblr.com/protectyaheart/740388622672576512?source=share
+- https://www.tumblr.com/fluffsstuff/701479072059015168/twtter-refugee-trying-to-fly-under-the-radar?source=share no reblog
+- https://www.tumblr.com/juicyspace273/647088660802617344/welcome-to-my-fetish-blog-taken-by?source=share probably toxic
+- https://twitter.com/ReenubAD/status/1751328158991913033?t=slwyzm8ss09pABZswhJkIw&s=19
+- https://vxtwitter.com/TeHappyHeartMan/status/1752197028849815592
+- https://youtu.be/uX4th9CxVjA?si=KPMRkdNaSnQdH5Td
+- https://www.tumblr.com/pleasure-beats/740957233962188800/asmr-organ-harvest-asmr-asmr-kidnap-asmr?source=share pleasure-beats blocked me
+- https://twitter.com/mizuhane_miu3/status/1752213998769205701?t=vZL1EzXPYB_z0chmkwUlRw&s=19
+- https://twitter.com/elonmusk/status/1752202880738845094?t=vZL1EzXPYB_z0chmkwUlRw&s=19
+- https://twitter.com/rutenten/status/1752406619147882659?t=vZL1EzXPYB_z0chmkwUlRw&s=19
+- https://twitter.com/ReenubAD/status/1752494915677020241?t=HcrRrEUdcOh8zoc0KUrQvw&s=19
+- https://youtu.be/UKjSk2lRFzM?si=JZXpjjDUr8P7qydu
+- Gesek Dick 😃
+- Gesek Kartu 💀
+- https://www.youtube.com/@levander-wolf
+- https://www.youtube.com/watch?v=Kzwle3aUKwI
+- https://www.tumblr.com/lailalevander/738637020887400448/kokoro?source=share
+- https://www.tumblr.com/kardiakrazy/736434381091143680?source=share
+- https://www.tumblr.com/feybeasts/734903168183484417?source=share feybeasts blocked me
+- https://www.tumblr.com/maddieheart/734527205355536384?source=share
+- https://www.tumblr.com/feybeasts/734649804864585728/hey-dont-cry-ok?source=share
+- https://www.tumblr.com/n3rplex/733069991844462592/not-my-art-all-credit-goes-to-%E7%AA%93%E5%8F%A3%E5%9F%BA-on-pixiv-some?source=share
+- https://www.patreon.com/posts/97515542
+- https://resusmemorialprod.gumroad.com/l/cklti **paid**
+- https://www.tumblr.com/dave141163/649367832079089664?source=share
+- https://www.tumblr.com/dave141163/649367832079089664?source=share
+- https://www.tumblr.com/dave141163/189551138924/the-gary-and-dino-show-dope-show-59?source=share
+- https://vxtwitter.com/TeHappyHeartMan/status/1752828159529984117
+- https://vxtwitter.com/TeHappyHeartMan/status/1752828794216362044
+- cvr
+- https://discord.com/channels/410126604237406209/588350726841827358/1201844857002262588
+- ok
+- https://youtu.be/zx72OoI03w0?si=K6jvM56At5PJ9CZK
+- https://youtu.be/qTfvLYc8Vwk?si=JieUnCWs_0xYLg9h
+- https://www.deviantart.com/blooscera/art/Iq-Heart-1015299599
+- https://youtu.be/AgAR2gOjNYA?si=voQcKreBz4_aJPaY
+- https://youtu.be/8tU_LkkSV5A?si=kuAh_cBxNgqXMvtx
+- https://www.tumblr.com/ruthimages/740087162148683776?source=share no reblog anymore
+- https://www.tumblr.com/arandomdragondude/726589723845525504?source=share
+- https://www.patreon.com/posts/97621268?utm_campaign=postshare_fan
+- https://twitter.com/T1tans90/status/1752784750224236904?t=QmBNtu2GK_Q1H1AhjMmEVQ&s=19
+- https://twitter.com/T1tans90/status/1752784750224236904?t=pHOQ3VbuJeF-CZRlBINBBQ&s=19
+- https://www.reddit.com/r/youtubedl/comments/lbrb2y/downloading_embedded_vimeo_videos/
+- `yt-dlp 'https://player.vimeo.com/video/901396561' --referer 'https://www.patreon.com/user?u=80481618' `
+- https://kemono.su/fanbox/user/31559095/post/7376124
+- https://youtube.com/shorts/KpnMjT3PfOU?si=XWhqGadS7VfuCXmR
+- game pls Lost in the world of succubi
+- https://www.deviantart.com/smushbox/art/Crush-562217415
+- https://www.tumblr.com/fixing-bad-posts/670508447986548736/welcome-to-fixing-bad-posts?source=share
+- https://youtube.com/shorts/nKKYmIo1AX8?si=wtwOiBqeNQoTOWvO
+- https://youtu.be/D4SNbd_7K2s?si=ihEkOLFFu0xLsa-p
+- https://youtu.be/wVAHr53KoBQ?si=0bHY_vGaFIJS3TPm disgraced attorney clown
+- https://youtu.be/hx8D0vQrC7w?si=BmoOfdAaaKYdAfjp
+- https://youtu.be/tIaSZtE9n_Q?si=oE5fgnT_xCje439F
+- https://youtu.be/VE2PGp6uWTI?si=O2d6XTg1_3kgwPUn benson dancing
+- https://youtu.be/Cm8k5h12VnI?si=Tyz5_lZziahByF_t
+- https://youtu.be/MTtucfRKUVQ?si=1YMAbgju8ddzQJk- benson fnaf
+- https://youtu.be/VaTv5jeY3Uk?si=GwTqUOaBS789DlVH
+- https://youtu.be/VaTv5jeY3Uk?si=GwTqUOaBS789DlVH
+- https://youtu.be/QfI0qTVppE8?si=vTqKfnZ6rvff_AzX
+- https://youtu.be/qH0_GRomyYQ?si=8qn1rcZ76B6arjoW
+- https://youtube.com/shorts/SAMHSYBoU7I?si=eQb20irJ0LPJeRpz
+- https://youtu.be/Etf24TXxt38?si=zsST0-wAfrT7do5b
+- https://youtube.com/shorts/WREnoGDI3Zo?si=L9jfmFLF6NbrwURI
+- https://youtube.com/shorts/tPfOb6of3oY?si=mv3yDTi-l3HPu5cA benson fnaf captures chica
+- https://youtube.com/shorts/xMXF9sh_LwQ?si=xkd57unK4tPt1qkj
+- https://youtube.com/shorts/JIPp6GbasIQ?si=-bu0OoX35LjY7cNt
+- https://youtu.be/Qqy2R2EYtWU?si=5LOs7SK5e7cS_KTL
+- https://youtu.be/V4LpJtJwm0k?si=oT_NsLvFCU1FStAy
+- guilty gear
+- https://gamebanana.com/sounds/67978
+- ok
+- https://youtube.com/shorts/N7l5fskXLMI?si=7j4qsWGfzhUI5NMp
+- https://youtube.com/shorts/iJBvZOYopZ0?si=WbNwl2dPvq8mY4XG
+- buho: perdon por la inactividad guapos y guapas pero ando un poco ocupado con unas cosas
+- https://youtu.be/CPvgac3G0zk?si=75lukMDnBWWU2x6i
+- https://youtu.be/WafgR7x68ds?si=Di6TxvKRIJzZygVl
+- https://twitter.com/ReenubAD/status/1753442084592533603?t=MPtn3amYlC5jVNFXq3IEAQ&s=19
+- https://youtube.com/shorts/Kbw0dH1EogI?si=eBGy3qghrYo6g5WC
+- https://www.pixiv.net/en/artworks/115686833
+- https://www.pixiv.net/en/artworks/111704970
+- https://www.pixiv.net/en/artworks/112935735
+- https://vxtwitter.com/HeartPulse445/status/1752437868742512830
+- https://www.tumblr.com/horny-heartbeats/703644250912473088/pokemon-cardiology
+- https://twitter.com/akitahika44/status/1746511922416222685?t=PzT6yqS5zk7hDe3eXBdcYw&s=19
+- https://youtu.be/L-EVDRzbyLs?si=kcwhe_hHekY6igke
+- https://www.tumblr.com/hello7hearts/739739419545894912/demoniclegend-please-reblog-this-if-its-okay?source=share
+- https://youtube.com/shorts/tIqSdGlamqA?si=hOxBTl1pbfV_XfA_
+- https://youtube.com/shorts/4aAps-Yczy8?si=jOB_WSQyQUIELk1B
+- https://youtube.com/shorts/L7Q93-cwL1w?si=9t25OMPs-WE3lx75
+- https://www.tumblr.com/its-stimsca/740865183166152704/could-you-do-a-maned-wolf-stimboard-theyre-my?source=share ultra toxic
+- https://otakukart.com/075215/best-romance-one-shot-manga-that-you-will-ever-read/ name = Keep it secret from your Mother
+- https://twitter.com/guni1636/status/1717594382168465532?t=zRjTbtVGQvaSuTVOIQ2Bug&s=19
+- https://youtube.com/shorts/TZvMq9AUDhE?si=KLuoNx3iTloCZJ3Z
+- https://youtu.be/bdbD8zx0_Fg?si=QCquG9q7etkCVUnE this is official cult of lamb animation
+- https://youtu.be/PYaQEbCJ-WQ?si=wIAfu_rh1qTlggVz
+- https://youtu.be/6cs92DB2SJ0?si=55K9w3T6f1NLylSe
+- https://twitter.com/ReenubAD/status/1754304816686497830?t=lTV4hcEwRXwz_yCQ3bPZ_g&s=19
+- https://www.patreon.com/Reenub?utm_campaign=creatorshare_creator
+- https://www.patreon.com/posts/97863308 **PAID**
+- https://otakukart.com/top-10-best-slice-of-life-anime-to-watch-right-now/ summer timr rendering
+- https://youtu.be/xMD2x-Hb_T8?si=7A61Mfsl_XRocnMX
+- https://youtu.be/LvTrDMHLSTE?si=30znt5hxu7NSRbAm
+- https://youtu.be/vMCSr5Q2o5A?si=zNepncM3R5VmYmoy
+- https://www.pixiv.net/artworks/115790351
+- https://www.tumblr.com/matzahstein/735113996346261504/pinned-post-to-edit-whenever-hi-im-joan-im?source=share no reblog
+- https://www.tumblr.com/ponku-po/741332907615977472/stacy165cut?source=share ponku-po blocked me
+- https://twitter.com/stacy_165cut/status/1530880863428558849
+- https://x.com/stacy_165cut/status/1530880246970748929?s=20
+- https://youtu.be/ZF0AGTFgR_s?si=L7SIUmyceedLYyIT
+- https://vxtwitter.com/yukisuke_gt/status/1754063112591024541
+- https://vxtwitter.com/himukaze/status/1754055465846390924
+- https://vxtwitter.com/Heart16Heart2/status/1398796353032048642
+- https://vxtwitter.com/rasyveG/status/1754021348547199022
+- https://vxtwitter.com/rasyveG/status/1754026461168836931
+- https://x.com/rasyveG/status/1754146820148891736?s=20
+- https://www.tumblr.com/bloodyhearts/741534252841238529?source=share
+- https://www.tumblr.com/bloodyhearts/740569274118193152?source=share
+- https://www.instagram.com/p/C0LS9m0uKhe/?utm_source=ig_web_copy_link
+- https://www.furaffinity.net/view/28198666/
+- https://www.tumblr.com/lailalevander/741352122857193472/roleplays-open?source=share
+- https://www.tumblr.com/lailalevander/740697032719794176/bite-my-heart-out?source=share
+- https://www.tumblr.com/femmeharlequin/738869348425449472/please-always-assume-that-when-disability?source=share no reblog
+- https://www.tumblr.com/femmeharlequin/738619747972907008/lucy-wf-annabellioncourt-kendallroy?source=share
+- https://www.tumblr.com/cardiomason1/735752897037565952/miss-varn-the-school-human-biology-teacher-has?source=share
+- https://www.tumblr.com/lailalevander/734106959634169856/the-100-girlfriends-who-really-really-really?source=share
+- https://www.tumblr.com/femmeharlequin/735348456195080192/also-especially-given-how-much-holocaust-porn-and?source=share
+- https://www.tumblr.com/femmeharlequin/734987093611298816/if-you-post-shit-about-how-israeli-jews-are-being?source=share
+- https://www.tumblr.com/femmeharlequin/735191602110332928?source=share
+- https://www.tumblr.com/tanekoheart/740833225455386624?source=share bri911 blocked me
+- https://youtu.be/uX4th9CxVjA?si=ohPkVoudWUZaj-FG
+- https://www.tumblr.com/pleasure-beats/740957233962188800/asmr-organ-harvest-asmr-asmr-kidnap-asmr?source=share
+- https://youtu.be/I0VRYBgVkL4?si=CSL95bG71r4xcvwt
+- https://youtu.be/Z29Rl0Zoul4?si=GcgEXGCGl6LWrvIw
+- https://youtu.be/DOAwCl6RUDQ?si=yX_topqVuSnM-vo_
+- https://youtu.be/DBWlDfLGjyU?si=dhRRKke3rdD_yZfk
+- https://thisvid.com/videos/cardio-asriel/
+- https://www.furaffinity.net/view/55413037/
+- https://www.furaffinity.net/view/55372195/
+- https://twitter.com/ai_lightmako/status/1754701698092703952?t=_pA9kRxsHSgVwRM-OsycDw&s=19
+- https://otakukart.com/top-25-most-wanted-manga-for-japanese-fans-to-be-animated/ brave new world
+- https://youtu.be/WIfLRcnvUMw?si=RJXKoyZBEn1MbEYU
+- https://youtu.be/q3ajLgWB6J0?si=iCci8_1t-NZK3fqR
+- https://youtu.be/7LZfedmLz30?si=c3-vdN5sIdq0Uhxq
+- https://youtu.be/WDetHC86Dgo?si=PirDAYoDgnc74YuD
+- https://youtube.com/shorts/RNMvXx1xfC0?si=jc1xKCNioQDJ219B
+- https://youtube.com/shorts/ql2P2NI5eVw?si=vApxXtkEZ3TMcfhL
+- https://youtube.com/shorts/C4Xz4nS6VYk?si=E9gFpBn1sxI_zW_C
+- https://youtube.com/shorts/UsQC5rCDDFQ?si=LymhCGE4Ms8U1qQO
+- https://twitter.com/myuto54321/status/1754817877008642181?t=VRmx612vLkC_5TCRv8e7Jw&s=19
+- https://twitter.com/PhantomXrd/status/1754990402552139874?t=VRmx612vLkC_5TCRv8e7Jw&s=19
+- https://youtube.com/shorts/HxWMkqw68vc?si=JNj-ntEEsmy8whrz
+- https://youtube.com/shorts/7yQMR2dIiWk?si=ZDGj3ZDj4uMtAaB_
+- https://youtube.com/shorts/zhCaAfUYfUs?si=afskY6Hw9ibcsHki
+- https://youtube.com/shorts/Y_HqpkbfbJU?si=mX7j4g71bSldIXuf
+- https://youtube.com/shorts/GVoAK5loG2o?si=YPtnwFuH6W-f55nO
+- https://youtu.be/Xp6gFL5W0z8?si=OgqaT2DmYRffyYvC
+- https://youtube.com/shorts/Mm09ZX27rhI?si=Clxth4g4nhyYBlu8
+- https://youtube.com/shorts/NEqyhx4UJRQ?si=6A1HZFT2JAAdDL3M
+- https://x.com/DioOksan/status/1737465596688859221?s=20
+- https://x.com/JohnSVVeb/status/1737657435521769697?s=20
+- https://youtube.com/shorts/q42m557QE3A?si=Fe4hURGDmrqkNdKl
+- https://youtu.be/rmDCYOt800o?si=2omvt3HOYxY3jHIa
+- https://youtu.be/2QpS-v7Ffls?si=XvFdkzTtytilAKAV
+- https://youtu.be/CvyC0GmTDYU?si=KS8iS0W-8e8rZ_7_
+- https://youtube.com/shorts/SNWdbPcblbg?si=rix_8NP28VDWsTzI
+- https://youtu.be/9CUzpfUTGBs?si=cP_GZj_IO2uiUC-x
+- https://youtu.be/QRWKYenKXvs?si=p7oWYN-oA0EVofAs
+- https://youtu.be/s9sM4cBTg28?si=uMnZNJmlREYi-xwX
+- https://youtu.be/f8mQDmTYVfw?si=QKw2LtC7EvbmahfT
+- https://youtube.com/shorts/HLiZVsiCN3o?si=5JjMGV0oUWLgG9D7
+- https://youtube.com/shorts/SQmTCAY1OeA?si=26OYyU3nE_opDvow
+- https://youtube.com/shorts/EPPUltC2lys?si=XihmavhPvIccDhy6 are you single
+- https://youtube.com/shorts/o1zp4r1sG7s?si=xQYX01C41KytK-3f
+- https://youtu.be/DthVN_MKCwU?si=G5sA-PTMHzr5YQB0
+- https://www.tumblr.com/electrocardiograms/738558935129260032?source=share sc360 blocked me
+- https://www.tumblr.com/electrocardiograms/740008490575216640?source=share
+- https://www.tumblr.com/electrocardiograms/737018151348355073/medical-fetish-pet-play-vetfet?source=share toxic feralflux
+- https://www.tumblr.com/electrocardiograms/736928497713496064?source=share n3rplex gameover
+- https://www.pixiv.net/artworks/115790351
+- https://vxtwitter.com/HChirmiaB/status/1755135164664213888
+- https://vxtwitter.com/ArousedPervert/status/1754819929189265753
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- 40
+- https://twitter.com/Indol_5/status/1755136595383169228?t=eamrLB7iAf3m7SiUTDDfjg&s=19
+- https://twitter.com/sasurainopink/status/1755356562489827668?t=eamrLB7iAf3m7SiUTDDfjg&s=19
+- https://youtube.com/shorts/iWLXOyHGOqU?si=rjBhfqZv-iiXWobg
+- https://www.tumblr.com/pleasantbananafireprune/740763506083823616?source=share
+- https://www.tumblr.com/xjustcuriousx/738149734416531456/coffee-datebut-with-stemoscopes-one-for-each-of?source=share blocked me xjustcuriousx
+- https://www.tumblr.com/snowheartsz/736913524287258624/hey-so-ive-had-some-time-to-think-it-through?source=share blocked me
+- https://www.tumblr.com/ghlr/736966391323918336?source=share
+- https://www.tumblr.com/tanekoheart/734515678327013376?source=share
+- https://www.tumblr.com/lailalevander/734106959634169856/the-100-girlfriends-who-really-really-really?source=share
+- https://www.tumblr.com/snowheartsz/733249813098938368/hi-again-ive-taken-the-night-to-think-and-im?source=share
+- https://www.tumblr.com/kardiakrazy/731987394214150144?source=share
+- https://www.tumblr.com/kardiakrazy/731764254070456320?source=share
+- https://www.tumblr.com/heartheels-fan/731090815440568320?source=share heartheels-fan blocked me
+- https://www.tumblr.com/joodeeboochoo/727386361112543232/hey-there-lovelies-dakota-and-carolina-are?source=share
+- https://www.tumblr.com/kardiakrazy/731019145698770944?source=share
+- https://www.tumblr.com/n3rplex/730218110673715200/not-my-art-all-credit-goes-to-%E6%82%AA%E4%BA%BAcpc-on-pixiv-i?source=share
+- Not my art, all credit goes to 悪人CPC on Pixiv!
+- https://www.tumblr.com/gingerhearts0214/730390664928493568/my-husband-visible-hb-had-me-do-squats-for?source=share
+- https://www.tumblr.com/bcparkinson69/730403283412336640?source=share bcparkinson69 blocked me
+- https://www.tumblr.com/n3rplex/730081349529108480/not-my-art-and-i-unfortunately-dont-know-the?source=share
+- https://www.tumblr.com/tanekoheart/730073507680124928?source=share
+- https://www.tumblr.com/of-roses/729540340814577664/just-want-to-tie-you-up-and-listen-to-your-heart?source=share
+- https://www.tumblr.com/xjustcuriousx/729354879034867712/idea-steth-pals-like-pen-pals-except?source=share
+- https://www.tumblr.com/heartheels-fan/728602508589760513?source=share
+- https://www.tumblr.com/female-heart-stuff/725008767467618304?source=share no reblog
+- https://www.imdb.com/title/tt0750189/
+- https://www.tumblr.com/heartbeatcontroller/724795744169738240?source=share
+- https://www.tumblr.com/pleasure-beats/723842672627974144/when-i-see-an-attractive-woman-out-and-about-in?source=share
+- https://www.tumblr.com/heartbeater1209/723912480762527744/right-under-my-sternum?source=share do not lose
+- https://www.tumblr.com/heartbeater1209/723594035793723392/a-gif-of-my-heart-beating-under-my-skin-under-my?source=share
+- https://www.tumblr.com/mmj2tm1980/722223348288995328?source=share beschleuniger1, be careful, likely will block me again
+- Source: https://transform-mpt.com/visceral-mobility-breathing/
+- https://www.tumblr.com/he4rtattic/719291614124818432?source=share
+- https://youtu.be/PYaQEbCJ-WQ?si=qBCL_XlBG8FCIv_g
+- https://vxtwitter.com/i/status/1755028316820475961
+- https://fxtwitter.com/AndrakeIreland/status/1749298639128744230
+- https://x.com/AndrakeIreland/status/1749298681122116037?s=20
+- https://x.com/jaeeefoster/status/1755481413044863370?s=20
+- https://fxtwitter.com/latluxlula/status/1753834287000924655?s=46&t=HDXEkJ-Qoiy2YSzqMpPT7A
+- https://infomercial.com/drtv-blog/best-infomercial-pitchman/
+- https://www.patreon.com/posts/98119426
+- https://youtu.be/roBOQDT8Bfk?si=Z3cIubTQ1nZ0zwAI
+- https://mahoako-anime.com
+- https://youtu.be/sjLo_Bp1iQQ?si=77ZAX_VafajwJ7pW
+- https://youtu.be/e4RuHgMyiwA?si=_IxcB3CygeApZWzm
+- https://youtu.be/ZXq1mM-rjY4?si=u1Hgw_7Nc43HipAR
+- https://www.tumblr.com/mickycute/741905736196669440/concurso-de-dibujo-especial-san-valentin?source=share
+- 🏆Primer  lugar Dibujo a color y sombras con fondo +18 (no es obligatorio :v) 
+- https://www.tumblr.com/thumpingdemon/739663540415250432/the-me-that-most-of-my-autosexual-cardiophile?source=share no reblog
+- https://www.furaffinity.net/user/xing1/
+- https://www.furaffinity.net/view/54354410/
+- https://youtube.com/shorts/cYBw0YUubtI?si=nm7er8p4nWGC5IBn
+- https://youtube.com/shorts/ugFbSMRyeAw?si=4s6v-XClW7TDG9vb
+- https://youtu.be/ySPiYHXqwaw?si=IUdKG3g2J3IR5JS6
+- https://youtu.be/Za5_KVeKQX0?si=dL79lxpMYN9RX_Fu
+- https://www.tumblr.com/cherry-loverr/741341806563885056/heartbeat?source=share
+- https://drive.google.com/file/d/1CpSaXwCf1bEmtDDfnHFGtoILs2KxN8AF/view?usp=drivesdk
+- https://www.tumblr.com/purity-in-heart/741236452781867009?source=share no minor or men. No wonder why blocked me. pleasure-beats. Ironic, purity-in-heart might be men.
+- https://www.tumblr.com/purity-in-heart/741059309872480256?source=share
+- https://www.tumblr.com/purity-in-heart/740411342805254144?source=share
+- https://www.tumblr.com/maddieheart/694847791232696320?source=share
+- https://www.pixiv.net/en/users/11449898/illustrations
+- https://www.pixiv.net/en/artworks/82809416
+- https://www.pixiv.net/en/artworks/82333264
+- https://www.pixiv.net/en/artworks/82119831
+- https://www.pixiv.net/en/artworks/81884901
+- https://www.tumblr.com/monicasheart62/689789721976700928/have-you-wonder-how-helpless-we-are-against?source=share
+- https://www.tumblr.com/lailalevander/689791794540675072/have-you-wonder-how-helpless-we-are-against?source=share
+- https://www.tumblr.com/lailalevander/676253551181414400/heart-attack-part-2?source=share
+- https://www.tumblr.com/resusdoll/658702304919404544/i-got-all-wired-up-and-had-lots-of-fun-with?source=share
+- https://www.tumblr.com/pleasure-beats/658733951050006528?source=share
+- https://www.tumblr.com/torture-steth-repeat/660096991931580416/its-later-than-you-think-go-ahead-and-fuck-up?source=share
+- https://www.tumblr.com/pleasure-beats/660236597160280064/s3cr3t0llymp1a-photo-from-my-newest-video?source=share
+- https://www.tumblr.com/tboyresus/660864255384502272/s3cr3t0llymp1a-photo-from-my-newest-video?source=share
+- https://www.tumblr.com/squeakitties/741894468726292480?source=share
+- https://www.tumblr.com/squeakitties/741893492206452736?source=share
+- https://www.pixiv.net/artworks/115926882
+- https://youtu.be/R_sLRWbvvCc?si=ewwATCBYgHQhPpfD 5:24
+- https://www.pixiv.net/en/artworks/114537342
+- https://www.pixiv.net/artworks/115790351
+- https://www.pixiv.net/artworks/115926882
+- https://bsky.app/profile/dustymooneye.bsky.social/post/3kkmbghigl32n
+- https://www.primalhardwere.com/product/MPH
+- https://vxtwitter.com/RubberAnimation/status/1756599235770794080
+- https://youtu.be/n9mGk8_tQtM?si=Tg-cb-QFdGET3Qjm
+- https://youtu.be/Q6eDcNnJ4pA?si=EBQCrXf1lGu2v79V
+- https://youtu.be/Zwf3Oqkwt4M?si=1SPvW0jZBQMGohv9
+- https://youtu.be/HPBM1F7bz-U?si=a4Ay2pl-Qb0txDZD
+- https://youtube.com/@stg8385?si=b2nwbVuU4FGlbiEx
+- https://youtu.be/TVuAkBzhzyU?si=6BxxtN3klYjERavl
+- https://twitter.com/daydarion/status/1727265671124484117
+- https://x.com/daydarion/status/1719383806593900630?s=20
+- https://twitter.com/CoralReefee/status/1756306862742614340
+- https://x.com/HumansNoContext/status/1756182462944661786?s=20
+- https://youtu.be/FTunTKfH85Q?si=8lWrqD2WakF5ceWs
+- https://youtu.be/xXPyeNQooJQ?si=BtIwX_y3niDxsedx
+- https://youtube.com/shorts/o8v1YJAVSxQ?si=-v7Ey9r01ezQ90fI
+- https://youtu.be/DU8qKfWn_xk?si=_syHhr4v8wZoPehK
+- https://youtu.be/7O2Aqnw_KdQ?si=5DWbfNyOQWISFW4Z
+- https://youtu.be/YJA8naV3ObU?si=xth1xyT0sAmUjBCo
+- https://youtu.be/4-RQEg6wfsE?si=f-NA2wTu8KjG9QbY
+- https://youtube.com/shorts/V4lLlwqIXwg?si=sl33g9jpG3HNoT3b
+- https://youtu.be/eu34BST5sKs?si=g7bpGKgABGCmpwvU
+- https://youtu.be/9yGReeX2-V0?si=YogrTLC1P-GYlhTc
+- https://youtu.be/MtZPfXGLzV4?si=pSl6ov0zxu6JIBrx pls eric schwartz amiga
+- https://youtu.be/T8Yh8_rfTMQ?si=UyWQsIPtbDEq0zkn
+- https://youtu.be/ZXrbaMm3e08?si=NZ3PWP7b0Ph83oVy
+- https://youtu.be/WlfEF07OTt4?si=-kgKFkjVFDCnLYU5 heather fox
+- https://youtu.be/Kap4OX9mgM8?si=5fWxawCMaco6fZ7F
+- https://youtu.be/w4nWPsrikuk?si=5AngK3LKh0C0XNsI
+- https://youtu.be/sg8hpI1guQ4?si=KiqAoVDKVd3pUKzL
+- https://youtu.be/fwEdgTzH-Po?si=r2uy6jwn30EMp_wb
+- https://youtu.be/iNR5vxAR22A?si=hkSCPUXBHU0Zqbpd
+- https://youtube.com/shorts/IjKPHoA9O0M?si=w3BCBGNxzeWizNIu
+- https://youtu.be/-HK4vJ4qmcQ?si=2XgrTPypajC-fceC
+- https://www.tumblr.com/lailalevander/740697032719794176/bite-my-heart-out?source=share
+- https://www.tumblr.com/lailalevander/741149128176943104?source=share
+- https://www.tumblr.com/bpdcreep21/741532088430444544/kokoro-cutting-her-heart-out?source=share
+- https://www.tumblr.com/lailalevander/740359578444808192/got-some-good-ideas-from-my-buddy-might-use-the?source=share
+- https://www.pixiv.net/en/artworks/115105939
+- https://www.tumblr.com/lailalevander/739812405963603968/found-some-goodies-thanks-to-my-bud?source=share
+- https://www.tumblr.com/bpdcreep21/738546049894039552/l-listen-to-my-heartbeat?source=share
+- https://www.tumblr.com/captredheart/169871452015/part-2-end?source=share
+- https://www.tumblr.com/captredheart/177525498825?source=share
+- https://www.tumblr.com/n3rplex/738835501643186176/tiktok-make-your-day?source=share
+- https://www.tumblr.com/lailalevander/739067738990002176/x?source=share
+- https://twitter.com/levanderwolf/status/1744807987707834553?t=bvMULbZgrB-bvWNe7dXhuQ&s=19
+- https://x.com/emkenobi/status/1756540528621944896?s=20
+- https://x.com/QuiGonJenna/status/1756264136265064480?s=20
+- https://www.tumblr.com/n3rplex/738896983190896640/not-my-art-all-credit-goes-to-%E3%82%86%E3%81%8D%E3%81%99%E3%81%91-on-pixiv-my?source=share
+- https://www.tumblr.com/lailalevander/738811116177719296/womp-womp-sharing-sketches-that-i-didnt-felt-the?source=share
+- https://www.tumblr.com/lailalevander/738637020887400448/kokoro?source=share
+- https://www.tumblr.com/n3rplex/738179658814783488/not-my-art-all-credit-goes-to-veiled616-on?source=share
+- https://www.tumblr.com/lailalevander/736827655424475136/you-can-get-easily-addicted-to-her-honey-taste-be?source=share
+- https://www.tumblr.com/lailalevander/737158149032837121/resharing-cos-i-literally-forgot-i-have-this?source=share
+- https://www.tumblr.com/lailalevander/737158280264171520/omg-so-old-but-it-deservers-reshare?source=share
+- https://www.tumblr.com/lailalevander/737261499869954048/made-kokoro-in-it?source=share
+- https://www.tumblr.com/n3rplex/736881799773487104/nor-my-art-all-credit-goes-to-devil-heavens-on?source=share
+- https://www.tumblr.com/lailalevander/741532219071512576?source=share
+- https://www.tumblr.com/lailalevander/740697032719794176/bite-my-heart-out?source=share
+- https://www.tumblr.com/lailalevander/740359578444808192/got-some-good-ideas-from-my-buddy-might-use-the?source=share
+- https://www.tumblr.com/snowheartsz/741443276799967232/liveshare-3-of-the-day?source=share
+- https://talky.io/snowheartsz
+- https://onlyfans.com/athemis
+- https://www.tumblr.com/hbacomicmanga16/728828098411462656/akatsuki-no-yona-ch-50-51?source=share
+- https://www.tumblr.com/gatodelfuturo/736356067023388672/for-nuclearmime?source=share
+- https://www.tumblr.com/yuuki-snow/742044456346320896?source=share
+- https://www.tumblr.com/melvinator/742039734171418624?source=share
+- https://drive.google.com/drive/folders/1wjkWGqLPHeAm1LjUpoVfaa5OqGv3AZZA meowscarada sirnurbs
+- https://www.furaffinity.net/view/50776445/
+- https://twitter.com/ReenubAD/status/1756827274740138146?t=5PWA4w82wZ3u7uGp8yv3uA&s=19
+- https://www.facebook.com/MyHeroAcademia/photos/a.300541376651542/6005505456155077/
+- https://www.tumblr.com/thes-hitoverlord/742095800758353920/the-official-my-hero-academia-facebook?source=share
+- https://www.tumblr.com/tiller12345/742059413192540160?source=share
+- https://youtu.be/EYwV55Bh5NY?si=4cZRb58Mw2ik6RhP
+- https://cults3d.com/en/3d-model/naughties/renamon-fan-art-nsfw paid
+- https://cults3d.com/en/3d-model/naughties/nala-fan-art-nsfw paid
+- https://vxtwitter.com/RubberAnimation/status/1756785481302331451
+- https://www.literotica.com/series/se/191421659
+- https://www.literotica.com/series/se/191421659
+- https://youtu.be/5gAZVX42XUw?si=HaReXa6WvUzEBavM squishy street bun accident s2opia
+- https://youtu.be/R0BOJ7woAOU?si=ns_aaCO0v9IrWZWU
+- https://youtu.be/CGC3yC4nFq8?si=RaqysTAKlJDGLK1Z
+- https://youtu.be/ZLY5xS9CrtI?si=OTmJJKOnM3VifsHO
+- https://3d-model.org/3d-print/29122-mime-and-dash-bonbon-and-chuchu-%E2%80%93-printable.html sparsdat pls
+- https://www.tumblr.com/luvvheartss/741821445151277056?source=share
+- https://youtu.be/S7u9HiQOmqE?si=NoMMsURd18qsfnQv
+- https://youtu.be/i8CIvLN1r-4?si=oiPCr1WDXgGfdooY
+- https://youtube.com/@luvvheartzz?si=BD6xTLIZE5TsxOc8
+- https://youtu.be/Yuo0gHrqGdU?si=XkRPS5pL6N7Ti8af
+- https://www.tumblr.com/tanekoheart/742095517780197376?source=share
+- https://www.tumblr.com/darklittleseducedhearts/741777932827131904?source=share cardiophile-gal blocked me
+- https://www.tumblr.com/darklittleseducedhearts/741347766181265408/heartbeat?source=share
+- https://drive.google.com/file/d/1CpSaXwCf1bEmtDDfnHFGtoILs2KxN8AF/view
+- https://www.tumblr.com/darklittleseducedhearts/741322909017096192/cardiophilia-google-drive?source=share
+- https://www.tumblr.com/tanekoheart/742013201219190784?source=share
+- https://www.tumblr.com/joelwindows7/742151734346088449/audio-file-recorded-with-stemoscope?source=share tanekoheart file
+- https://drive.google.com/file/d/14YzRhvaUH04PWJYVfs3lCbF2uGwhXUHR/view
+- hey
+- https://drive.google.com/file/d/1EEdfHSrdRbsshtnpStCxyU2jbpzGCYzi/view?usp=drivesdk cherry-lover
+- https://www.tumblr.com/tanekoheart/741646045174448128?source=share here
+- https://www.tumblr.com/tanekoheart/741550985279832064?source=share 3heart3mind here
+- https://drive.google.com/file/d/1XigUSdcFAYo1rP_VqQzb3tqGWVXtv1M4/view
+- https://youtu.be/cWiJ3MKJhuc?si=KRm3zuRtENiWXZ6a
+- https://www.tumblr.com/tanekoheart/741550961951129600?source=share
+- https://youtube.com/shorts/s-m9YAWELV8?si=qVe-Wi5O9Hvuhe10
+- https://www.tumblr.com/tanekoheart/741428088563466240?source=share
+- https://www.tumblr.com/tanekoheart/741414661327650816?source=share
+- https://drive.google.com/file/d/1WxqEYgmLxMkTa6ghJfYuNYgLzph8eIY_/view
+- https://www.tumblr.com/tanekoheart/741414522135429120?source=share
+- https://drive.google.com/file/d/1X8iJGhlT0XmdtkcoGvGGV40PC3qKcGjK/view
+- https://www.tumblr.com/tanekoheart/741384465658626048?source=share
+- https://www.tumblr.com/tanekoheart/741297495522656256?source=share hardthuds file
+- https://drive.google.com/file/d/1vclUtpRHaIawy6fz97tuB5_UIBc9vTiZ/view
+- https://www.tumblr.com/tanekoheart/741143236571283456?source=share
+- https://drive.google.com/file/d/1W_dweuovrKPPVB2LmI9x6NyfI3_MkNot/view
+- https://www.tumblr.com/tanekoheart/741102692384030720?source=share
+- https://www.manyvids.com/Video/3733302/Heart-Assessment-from-a-Real-Nurse **PAId**
+- https://www.tumblr.com/tanekoheart/741102435445161985?source=share
+- https://www.tumblr.com/bpdcreep21/741974598605815808/kokoros-death-inspired-from-one-piece-it-was?source=share
+- https://www.tumblr.com/sonokido/740823194196475904/lil-sleepy-alina?source=share
+- https://douglascuddletoy.com/
+- https://www.youtube.com/watch?v=zIag3-8yhIw&ab_channel=RajmanHDGaming street fighter anime
+- https://youtu.be/b6i3NaA1ZcQ?si=YX1MWlWOUziXfMnK can I crush your ball yeah
+- bbpanzu pls
+- https://youtu.be/44FH9LHg0bg?si=7EXNQX5P2pg__gsP tic tac toe german. Ich war so gern so blod wie du
+- https://youtube.com/shorts/CcMYIfZnc0A?si=nkN9ZNKLhEA56y0Y
+- https://youtu.be/DriCm515i78?si=_ZzM2df-Ffnyuu-a
+- https://www.tumblr.com/heartsfur/741216386008875008?source=share
+- https://www.tumblr.com/joelwindows7/742251124323762176?source=share
+- https://www.tumblr.com/halpheltsgallery/737162832262709248/you-will-wear-the-kitty-ears-scott-pilgrim-comm?source=share
+- https://www.tumblr.com/bpdcreep21/742324600345624576/happy-valentines-day-everyone?source=share
+- https://www.tumblr.com/bpdcreep21/742324674785083392/sneak-peek-to-the-patreon-ver?source=share
+- https://www.tumblr.com/bpdcreep21/742248964610506752/wax-play?source=share
+- CVR gory
+- https://glenskunk.gumroad.com/l/realisticgoreheart **paid**
+- https://glenskunk.gumroad.com/
+- ok gory
+- https://vxtwitter.com/TeHappyHeartMan/status/1757526793555247287
+- https://www.patreon.com/posts/98477605?utm_campaign=postshare_creator
+- https://www.patreon.com/LevanderWolf/posts
+- https://x.com/bpdcreep21?t=LHxSScMIFNC4ti7RKKaS7g&s=09
+- https://www.instagram.com/bpdcreep21?igsh=dW54ZmNjdXNzMWs2
+- https://www.instagram.com/p/CxF-5TVo3vd/?igsh=MW0zcHJ3eWxua2p2dw==
+- https://twitter.com/bpdcreep21/status/1757837545327472924?t=cnfeEhgSx3DpLuurSjznJA&s=19
+- https://twitter.com/MoonBunnz/status/1757253117618373011
+- https://twitter.com/bpdcreep21/status/1757536061352288308?t=cnfeEhgSx3DpLuurSjznJA&s=19
+- https://twitter.com/bpdcreep21/status/1756437540498719056?t=cnfeEhgSx3DpLuurSjznJA&s=19
+- https://twitter.com/meru_nyaa/status/1756049831049486819
+- https://youtu.be/208pVDrVQYg?si=7Y_XeCkc8PTnTNhB
+- https://youtu.be/hG4rmIsg7eE?si=x-VUUsxrD4hJi6G3
+- https://youtu.be/mQtX3ZySK0g?si=_82Tbsev4vVygSuy
+- https://twitter.com/yomerinne/status/1757696165343301714?t=H1x75di5WSKnNm7oDMp8mQ&s=19
+- https://twitter.com/Indol_5/status/1757793880697868792?t=fVW0JCS9PT4btd13Au1X8g&s=19
+- https://twitter.com/T1kosewad78/status/1757604168951533946?t=fVW0JCS9PT4btd13Au1X8g&s=19
+- https://twitter.com/ValmarDraws/status/1757790561023766730?t=fVW0JCS9PT4btd13Au1X8g&s=19
+- https://twitter.com/gifdoozer/status/1757813783055970398?t=fVW0JCS9PT4btd13Au1X8g&s=19
+- https://twitter.com/rurudo_/status/1757704716887507261?t=fVW0JCS9PT4btd13Au1X8g&s=19
+- https://twitter.com/hirame_sa/status/1757609645617848735?t=fVW0JCS9PT4btd13Au1X8g&s=19
+- cvr go
+- https://youtu.be/OpIu9myNjm4?si=kAsyG_SRJ5zSLUbJ
+- https://temaroots.gumroad.com/l/jerry free
+- https://temaroots.gumroad.com/l/Amanda_rig?layout=profile **paid**
+- https://temaroots.gumroad.com/?_gl=1*1dz03oj*_ga*MTIyMzE5ODc0NC4xNjEzMTQyMzMy*_ga_6LJN6D94N6*MTcwNzk1NTk3Ni4zMjUuMS4xNzA3OTU1OTkwLjAuMC4w
+- ok go
+- https://youtube.com/shorts/jf4xySbaBts?si=svgB3uzYR6epukxG female armor
+- https://youtu.be/q6wIUqncRO4?si=Q4kgA9n36OfRJ62a
+- https://www.instagram.com/reel/C3V1jrPs93ybxY_X1X85tjxHbaIIfVZnOa-DTI0/?igsh=MTQ4Y2FxM3l6M3Vqbg==
+- https://www.tumblr.com/saintjosie/741596279037181952/when-i-came-out-as-trans-i-had-an-old-friend-from?source=share ..
+- https://www.pixiv.net/en/artworks/114949392
+- https://www.tumblr.com/n0bodyoverhere/742272311113269248/i-still-desperately-need-this-i-pray-she-doesnt?source=share
+- https://www.tumblr.com/of-roses/742165933160890368/im-thinking-about-this-recording-again-and?source=share
+- https://soundgasm.net/u/hedonesheart/Party-beats
+- https://drive.google.com/file/d/1twIPuknATzTZWOI5b-OXmqGW8oYUDpPS/view?usp=drivesdk
+- https://www.tumblr.com/maddieheart/741777494251798528?source=share cardiophile-gal blocked me
+- https://twitter.com/ComicLoverMari/status/1757926942961959309?t=138W4anMVPpNK2Zy1DWxQQ&s=19
+- https://twitter.com/NetflixGeeked/status/1757811942918381757?t=138W4anMVPpNK2Zy1DWxQQ&s=19
+- https://www.tumblr.com/heartpulsered/742146655960334336/x?source=share
+- https://twitter.com/HeartPulse445/status/1757120907913396683
+- https://www.tumblr.com/purity-in-heart/742182804006322176?source=share
+- https://www.tumblr.com/yuuki-snow/742044456346320896?source=share
+- people are toxic. Not just the toxic, but also "victim"s quote on quote. Blocking recklessly until unrealizingly get to innocents and reasons " boundary building".
+- https://www.tumblr.com/purity-in-heart/740411342805254144?source=share
+- https://www.tumblr.com/simoheartbeat/721821669832982528/nowm4a-soundcloud?source=share
+- https://www.pixiv.net/en/artworks/116068449
+- https://www.pixiv.net/en/artworks/116068449
+- https://vxtwitter.com/mitarai_4shi/status/1757724531945554052
+- https://vxtwitter.com/HChirmiaB/status/1757627586979717453
+- https://www.tumblr.com/purity-in-heart/742517176767070208/hey-mental-health-comes-first-cant-enjoy-things?source=share
+- https://www.tumblr.com/heartpulsered/742502975577128960/can-you-hear-how-strongly-my-heart-is-beating-for?source=share
+- https://www.tumblr.com/plummyhentaigirls/742317832952479744?source=share
+- https://youtu.be/h8LA6fFDlYc?si=vmGsxiNelz9htcpw
+- https://www.tumblr.com/balloonpup/741076896416202752/dramatic-otter?source=share
+- https://www.tumblr.com/balloonpup/738576244828995584/i-updated-the-lily-otter-model-look-at-her?source=share
+- https://www.tumblr.com/balloonpup/727638752489537536/space-doggocorn?source=share
+- https://www.tumblr.com/sapphstuff/742322410213310464/cupid-colored-sketch-reward?source=share
+- https://twitter.com/sapphys
+- https://x.com/sapphys/status/1472719895359938560?s=20
+- https://www.furaffinity.net/user/marbelle/
+- https://www.furaffinity.net/view/55392080/
+- https://www.furaffinity.net/view/55224704/
+- https://www.tumblr.com/faroula-art/742298418044633088/apparently-the-fox-girl-gives-me-my-own-fluffy-as?source=share
+- https://www.tumblr.com/faroula-art/742312195611918336/have-a-great-day-with-her?source=share
+- https://www.tumblr.com/megafabsol/742190785404010496/sqrky-shiny-toysuit-art-of-me-and-kairis-system?source=share
+- https://www.tumblr.com/oldinterneticons/742493278569693184?source=share
+- https://www.tumblr.com/wolfertinger666/742311741187325952/im-reminding-you-all-of-her-sheher?source=share no reblog
+- Sediron. Season 2.
+- triple episode special. Raid a sex store prostitution. Same place where John Halim bought idiot wife back then.
+- a Harrasser was found.
+- collab with Homestuck. Bring all female in game.
+- and there is 2 male. One contract interpol guy, and our Sediron moderator, Handy.
+- the Harrasser PC down there. Check how many alt account and ban all of them. While rest investigate.
+- the showering one is owner. Oh no. Oh he enter room. Soundproof. Turn on loud music in his changing
+- shisha? Did you let drug? Who said that? There is no restriction. Oh really? No wonder kid mind breaks alot. This nation (Planet Dystopia where original Hymatt & Zumi & Roig place) lets bad.
+- there is slave? No, more like treasures. Show me
+- you can buy or rent.
+- barged in their room while they are changing. Suspicious gun.
+- thankfully no girl has gun.
+- nor power.
+- https://vxtwitter.com/i/status/1758536689893421070
+- https://vxtwitter.com/i/status/1758313206928609440
+- https://x.com/Valbun_/status/1758598317649559777?s=20
+- Hi,
+- https://hbaddict.itch.io/heart-clinic The game can be purchased with this link.
+- We have been playing this a while back.
+- https://youtu.be/AL-omG3uw_M?si=dcn98d3jQynxUxER
+- https://youtu.be/Lz3fMDrcpZM?si=1PBLDz-UGXUju_ND
+- https://youtu.be/BJu_Q79p6A4?si=gAP2vomBMZV8vrzC
+- https://youtu.be/sJ4rpbgyO-A?si=DWPO2GT3F0WM0-aZ
+- https://youtu.be/kzxrTpWIevs?si=NJqOAvGHA84-wSch
+- https://youtu.be/ZUnHcqy4dFQ?si=yOaxm85vSd8b13VN
+- https://youtu.be/DXZGWd-UxRk?si=7i3ILC98PiKyvBtW pls download
+- https://youtu.be/kV3PWXuICW8?si=yl6quKpP-DRj4Jmw this too
+- https://youtu.be/xqyViTdK0iI?si=l2JqFYp37-q0XVSK
+- https://youtu.be/0OovsFIJADU?si=KnQNfnaSCcisPkUy
+- https://youtu.be/qCnLTu3s7JY?si=zbRHoe1kk_s5pqJh
+- https://youtu.be/SXhyJYtteow?si=Xw_-OLE6ToJTSj39
+- https://youtu.be/KeTn3eI-3QQ?si=PfNdxNUgwxmC8hyG
+- https://youtu.be/ki8jW0RXRt4?si=QAa81IEDcdZpPQ0A
+- https://youtu.be/jRWK6fVzEtw?si=KPHIiEwHX_Fn928R
+- https://inkbunny.net/s/2913935#commentid_7882640
+- https://inkbunny.net/HiroshiSan
+- https://youtube.com/shorts/EMlQILa3rHc?si=aJC8cZTFvfS89Y5P
+- https://youtube.com/shorts/7mRguCuGSPg?si=IgBlnyCYPoIKKCHR
+- https://youtube.com/shorts/SueCl1z_45k?si=UEfGhytLkEJtaLkm
+- https://youtu.be/UEH9EutddfI?si=wp1YR_XaI7GsodMQ
+- https://inkbunny.net/theHappyHeartMan
+- https://youtu.be/ipScGEVwxJc?si=Zn6Acu_jrfXnZpFO
+- https://youtu.be/1f6z1uDidJE?si=bXMwQTttbCwNhPBS
+- https://youtu.be/IxQlZe2m1Ro?si=qIMVaFPr4lbRn8W0
+- https://youtu.be/zsdk-gZj8GM?si=ITbR5tw2ApvOwL0-
+- https://youtu.be/zwNnhmdavbE?si=_2vNKrEVquEzBJf4
+- https://youtu.be/3akSwXqUn_4?si=PKHHPCzCfz8ZnjBh
+- https://youtu.be/J0ZG4Caa_HA?si=shcF10BmjumCN6lz
+- https://youtu.be/00YjbkTiDPg?si=5GYSEoiVzhsv7RZr
+- https://youtu.be/FtEMgAkoWTY?si=F_QHI_vbNUTHXEem
+- https://youtu.be/IhjNBRWdEuo?si=wUwxRe8UhlueKHzK
+- https://youtu.be/NWpkO4Y3pmc?si=TIM9cfdIte4Vl3ly
+- https://youtu.be/UEH9EutddfI?si=9HyeU3bKNe-TzCoH
+- https://youtu.be/K58LwU0v8eM?si=vnSgPLJAds6CbzrL
+- https://youtu.be/JVCQUMn2-TU?si=q-kJ5OD4SSbvT_Yr
+- .
+- .
+- .
+- .
+- https://youtu.be/v-XW72XN2dk?si=iLS-Pcr16b5B8mf1 you built auschwitz
+- .
+- .
+- https://youtu.be/7If5SvWJeXA?si=gp1K13UDp4rrHUt-
+- https://www.tumblr.com/lailalevander/741352122857193472/roleplays-open?source=share
+- https://www.tumblr.com/n3rplex/740152159903039488/not-my-art-all-credit-goes-to-ub1mo-on-pixiv?source=share
+- https://www.tumblr.com/of-roses/740817081063309312/what-if-i-had-audio-of-my-heart-pounding-over-my?source=share
+- https://www.tumblr.com/lailalevander/740697032719794176/bite-my-heart-out?source=share
+- https://www.tumblr.com/bpdcreep22/742572048057090048/birthday-heartbeat-im-22-yrs-old-now-what?source=share
+- https://www.tumblr.com/hello7hearts/742174836471791616?source=share hbluis blocked me
+- https://www.tumblr.com/hello7hearts/726251842097627136/if-i-were-to-get-sick-with-some-incurable-illness?source=share
+- https://www.tumblr.com/hello7hearts/725898310914834432/another-fantasy-of-mine-hmu-if-your-interested?source=share
+- https://www.tumblr.com/hello7hearts/725552395994742784/anyone-want-to-roleplay-this-my-messages-are?source=share
+- https://www.tumblr.com/hello7hearts/722027729711710208/in-need-of-some-rough-desperate-resus-right-now?source=share flatlining-boy blocked me and deactivated
+- https://www.tumblr.com/hello7hearts/722026789150621696/reblogging-cos-i-crave-attention-twt?source=share
+- https://www.pixiv.net/en/users/14481955
+- https://www.tumblr.com/of-roses/742707277048496129/being-a-little-slut-in-the-woods-makes-my-heart?source=share
+- https://www.tumblr.com/bri911/742705118457282560/just-getting-a-little-compression-happy-over-here?source=share
+- https://vxtwitter.com/TeHappyHeartMan/status/1759453066418425919?t=XNenXfOYLv3TjGJwrkLo3Q&s=19
+- https://vxtwitter.com/TeHappyHeartMan/status/1759453068125499781?t=RRb2avupOlIXXr1DgJJL_w&s=19
+- https://vxtwitter.com/HeartPulse445/status/1758550551413829837
+- https://x.com/TheJakeneutron/status/1759689696261623861?s=20
+- https://x.com/viewshotta/status/1759420692359942245?s=20 dancing meme phineas
+- https://x.com/tuyoki/status/1759438345975873758?s=20
+- https://vxtwitter.com/mabfotraeh/status/1758712674429583675
+- https://youtu.be/TMEYHxDzpDY?si=ubNOuU_JoLm43tJ8
+- https://twitter.com/Denizen1414/status/1759119835802296724?t=wTQeywsOK7lchvg6PLAc5A&s=19
+- https://twitter.com/DrawsRonald/status/1759333496529600908?t=_TWVou5KfGc4HqsmCgf21Q&s=19
+- https://twitter.com/JL_T4N/status/1759635654340661701?t=G0pSzsGGG6ojjvT-gLxTEg&s=19
+- https://twitter.com/SarahBurssty/status/1758418293881438269?t=EuQt-bijf-oimPXMauWSFQ&s=19
+- https://twitter.com/DrJimFan/status/1758351203292111288?t=EuQt-bijf-oimPXMauWSFQ&s=19
+- https://twitter.com/SarahBurssty/status/1758639965658079328?t=EuQt-bijf-oimPXMauWSFQ&s=19
+- https://twitter.com/YuiCatte/status/1758076167943336277
+- https://twitter.com/zedrinbutt/status/1759689564070056027?t=1tvTUo4nHQxPccfp5mQG6w&s=19
+- https://www.derpibooru.org/images/2692041?q=artist%3A719418052
+- https://www.youtube.com/watch?v=rCxftP5dLQc&list=PLgala72Uap1oClPtT7oCtrdwxA5xsHsFV
+- http://patreon.com/Reenub?utm_cam
+- https://twitter.com/ReenubAD/status/1759718163531620582?t=8Z11DGLD_NJ9WpHZkRzINw&s=19
+- https://www.tumblr.com/aprilcheetah/742875589290131456/dont-make-me-angry-you-wouldnt-like-me-when-i?source=share
+- https://www.tumblr.com/aprilcheetah/740436125895770112/dr-meridian-black-and-white?source=share
+- https://www.tumblr.com/leafdragon16/740325863500988416/its-so-funny-to-me-that-alex-and-mandroid-know?source=share
+- Instant analyze. All in one body exam machine. Heartbeat, BMI, weight, etc. All scans at once.
+- team stax
+- https://twitter.com/MagnetusArt/status/1757571793416806423
+- https://twitter.com/kamome_shibuki/status/1760328652812898773?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/kokonexu/status/1760337546658430985?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/ayamal3246/status/1760310911661650073?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/Fuwa2_om/status/1760255583658397912?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/hamburg_oniku/status/1760299855573143967?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/Jako_gnsn/status/1760199927542755533?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/YENI1871/status/1760278691727515668?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/the_olphy/status/1760393356910502058?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/cotta__k/status/1760347529978552570?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/Indol_5/status/1760246535680626949?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/jumozi11/status/1760273169397784845?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/HeartPulse445/status/1759583460702785721?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/voraciousjester/status/1648073519991865345?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/Idolomantises/status/1752054001649266945?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/DarthOli2099/status/1740197987421495658?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://twitter.com/Idolomantises/status/1752054001649266945?t=EViH4f-yZLbulIuoOpkM3A&s=19
+- https://www.tumblr.com/bpdcreep22/742248964610506752/wax-play?source=share
+- https://www.tumblr.com/king-of-heartbeats/736973435569405952?source=share
+- https://www.tumblr.com/pleasantbananafireprune/742792607202164736/this-chapter-made-me-skip-a-some-beats
+- https://underdan21.itch.io/dormitory
+- https://vxtwitter.com/HeartPulse445/status/1759583384290881993
+- .
+- .
+- .
+- .
+- Cage bushor. Family guy moment
+- Caged the people due to naughty here later to be brought to prison. 1 by one receives.
+- 2 of people do sex
+- HEY (Freeze all) STOP!! (Open cage to separate the two)!
+- Prison master appears stardustly. Alright that's enough. Let me handle this.
+- .... Yes sir.
+- https://twitter.com/KMST273/status/1760299228788879370?s=19
+- https://twitter.com/KirbCaptain/status/1760516351192383905?s=19
+- https://twitter.com/QingsongZero/status/1760489526894678199?s=19
+- https://twitter.com/DailyGenshinArt/status/1760537359702266197?t=4tfpDXEFgZqAOeozAlAohQ&s=19
+- https://twitter.com/HARURI52/status/1760651333395464267?t=nDSvB1Rk17QQoEqfKuBIMA&s=19
+- https://twitter.com/Igneel147/status/1760796778574577704?t=nDSvB1Rk17QQoEqfKuBIMA&s=19
+- https://twitter.com/Idolomantises/status/1760802142120485220?t=BbREapl6Lp7T_fvpleDsIQ&s=19
+- https://youtu.be/l3knbkB0BQ0?si=20srk8DVfn8cgS-R
+- https://youtu.be/lJROGDWnWeI?si=KBFiVAP8OB6W-fVV
+- https://youtu.be/mkcI8pTXjNg?si=kr-67-5DBFrOZd7K
+- https://youtu.be/zJQzYS_cnRg?si=x3z96xudwcOA8aCf
+- https://www.tumblr.com/nyank00/694623975286931456/i-can-feel-your?source=share
+- https://twitter.com/stacy_165cut/status/1530880863428558849
+- https://www.tumblr.com/ponku-po/741332907615977472/stacy165cut?source=share
+- https://x.com/peterokii/status/1760710066011885775?s=20
+- https://www.tumblr.com/sevenrenny/743111141167972352?source=share
+- mortal kombat test your might. Boob crush. Need giant boobed or shape shifting kombatant. Crush this corpse head with breasts.
+- https://vxtwitter.com/yukisuke_gt/status/1760955272846307807?s=20
+- https://twitter.com/RawPornMoments/status/1760283951074091242?s=19
+- https://twitter.com/Idolomantises/status/1760802142120485220?s=19
+- https://www.youtube.com/watch?v=rr0pzCobIXg
+- https://vxtwitter.com/noiretox/status/1758572354442006620
+- https://vxtwitter.com/Zer0artZer0/status/1758447225431314745
+- https://x.com/Pdouh/status/1758466182796177570?s=20
+- https://twitter.com/HARURI52/status/1761204982089707833?t=IDHEhF-kRzvaRlQaLPlg4Q&s=19
+- leet
+- https://www.instagram.com/j.brentwalter?igsh=Ynl0ajhvNmQyMXM0
+- https://www.instagram.com/reel/C3O06buBs11/?igsh=eXF2bjg4YW5ueDFl
+- https://www.instagram.com/reel/C3sQ2NYBf7j/?igsh=MW4xZWR0b3M1YXBhZQ==
+- https://www.instagram.com/p/C3EhS9HMZtW/?igsh=MXRkeWYwZGU2Mm90Yw==
+- https://fxtwitter.com/AndrakeIreland/status/1757871154570686754?s=20
+- https://twitter.com/DDAR1_23/status/1761226884724175208?s=19
+- https://youtu.be/iME5EiX1YZQ?si=F36E7WwNNdhasI2-
+- https://twitter.com/AndrakeIreland/status/1757871154570686754
+- https://fixupx.com/Dman3D9527/status/1743015763768737863?s=20
+- https://smutba.se/user/6587/
+- https://twitter.com/Cyanu_Cyanide/status/1744738727078051878
+- https://youtube.com/shorts/z3-T6SvB_XQ?si=fuDbPoK5eVPLKFfx
+- https://twitter.com/Daran_9/status/1761665352243859820?t=3pyVhFuIehwufFeUJUbpYA&s=19
+- https://vxtwitter.com/RubberAnimation/status/1761726815272378727
+- https://twitter.com/MSplashDoggy/status/1752052294642762140?t=pFxhmAux9y1jYbEqZfRidA&s=19
+- https://twitter.com/MSplashDoggy/status/1715454881765413138?t=pFxhmAux9y1jYbEqZfRidA&s=19
+- https://www.tumblr.com/nuclearmime/742160814253981696?source=share
+- https://www.tumblr.com/joelwindows7/710981022565777408?source=share
+- https://www.tumblr.com/joelwindows7/711385248009797632?source=share
+- https://www.tumblr.com/joelwindows7/714595857772806144/thaddeusmcboosh-didistarlmao-had-a-fun-response?source=share
+- https://www.tumblr.com/joelwindows7/718409242778992640/tenebrisdawriter-the-cheddar-priest-can-feel?source=share
+- https://youtu.be/f4YrnjhXL1U?si=N4YYT0dqXRxGw9Sm
+- https://www.tumblr.com/maddieheart/742722685442867200?source=share
+- https://soundgasm.net/u/hedonesheart/Party-beats of-roses blocked me
+- https://thisvid.com/videos/cpr-anime2/
+- https://www.tumblr.com/electronicreviewheart/743166937874448384?source=share
+- https://www.tumblr.com/cardiomason1/743265301891874816/a-journey-through-the-heart-of-ceruleanbeats-as?source=share
+- cardiophile-gal blocked me
+- https://www.tumblr.com/23cookingcentre/742038883660972032/interesting-request-why-not?source=share
+- https://www.tumblr.com/tea-n-ink/727931373893140480/dance-with-death-my?source=share
+- https://www.tumblr.com/melvinator/742816957271883776?source=share gameover
+- https://discord.com/invite/g3838xpE gameover
+- https://www.tumblr.com/melvinator/742039734171418624?source=share
+- https://www.tumblr.com/lailalevander/741865928948596736/spoilers-ahead?source=share
+- 90
+- 0
+- 90
+- 90
+- 90
+- 90
+- 90
+- 90
+- 90
+- 90
+- 90
+- 90
+- 90
+- 90
+- https://www.tumblr.com/n3rplex/743157392120889344/not-my-art-all-credit-goes-to-%E9%87%8E%E9%A3%8E-on-pixiv-hey?source=share gameover
+- https://www.tumblr.com/purity-in-heart/742517176767070208/hey-mental-health-comes-first-cant-enjoy-things?source=share
+- https://twitter.com/punkittdev/status/1761876975910822239?t=aH_pHzMpFKP_Y-xilqSwWA&s=19
+- https://www.tumblr.com/grey-princess22/743031043262742528/omfg-i-wish-i-could-do-that-to-someone-in?source=share
+- https://www.tumblr.com/grey-princess22/737171884839419904?source=share
+- https://www.tumblr.com/dyingheartbeats/743222129871536128/for-someone-wanting-to-play-with-guns-hope?source=share
+- https://www.tumblr.com/dyingheartbeats/742915213172572160/fill-me-full-as-you-put-a-stop-to-my-frantic?source=share
+- https://www.tumblr.com/dyingheartbeats/742783310659502080/still-open-to-roleplay-requests-im-back-for?source=share
+- https://otakukart.com/594401/13-anime-to-watch-when-you-are-drunk/ your sis isn't good for me
+- https://vxtwitter.com/TeHappyHeartMan/status/1762046779606901155
+- https://vxtwitter.com/TeHappyHeartMan/status/1762046781272068529
+- https://twitter.com/ReenubAD/status/1762327172675682340?t=wRsBu8qzPELOAUWv9F2j3Q&s=19
+- https://twitter.com/Idolomantises/status/1762200861902561418?t=ZvDWU-ERUdHri1VxSWqRag&s=19
+- https://youtu.be/CPwwbWKJorQ?si=WJT0jdRG4KansunH
+- https://youtube.com/@domothegachaboy?si=YiMnole0yoKEqmbB
+- https://discord.com/channels/1105744765074550804/1202864145020493884/1211810093335715900
+- https://youtu.be/b6V0YnEAPRw?si=gxqzdxE4iTIyTn5N
+- https://www.tumblr.com/kardiakrazy/739423328703594497?source=share
+- https://www.tumblr.com/myraaqx/738321237460369408/my-200bpm-heartbeat-after-35-glass-of-wine-i?source=share
+- Company Policy, port all memory transparently
+- CVR Controvercy (Do not copy to DiceGlow yet)
+- Blocked Kaorfa:
+- BobaTeaBuch
+- theparkbench (☠️, employee, Community Guide), kicked Kaorfa once when was hosting on the other day
+- Obi1 (made great stuffs
+- Suspects:
+- Shadow.EXE (blocked Sasse, Gin, and some other unconfirmed)
+- Controvercy Shit
+- https://support.microsoft.com/en-us/windows/disk-cleanup-in-windows-8a96ff42-5751-39ad-23d6-434b4d5b9a68
+- https://youtu.be/8MrxzaoP7Ew?si=HYFMVWTqtnA2Q1fO
+- https://youtu.be/eAbYnPbM_kk?si=j_F9l8JbKwWgu5iL
+- https://sns.prtls.jp/hbsnsjp/diary.html?id=1273&did=f17c61437e82172
+- https://vxtwitter.com/TeHappyHeartMan/status/1762332123053089106
+- https://twitter.com/SysenArtworks/status/1762300237971177579?t=hwCbyJOD9CD0LKYp-1KFfQ&s=19
+- https://twitter.com/elonmusk/status/1762265469195886878?t=hwCbyJOD9CD0LKYp-1KFfQ&s=19
+- https://www.deviantart.com/blooscera/art/Moment-of-reprieve-1019787212
+- https://www.deviantart.com/blooscera/art/Comfortable-place-to-rest-1021376711
+- https://youtu.be/eAbYnPbM_kk?si=j_F9l8JbKwWgu5iL
+- https://youtu.be/8MrxzaoP7Ew?si=mV20SSRx9tF2Ni3b
+- https://www.tumblr.com/thumpingdemon/725695791947268096/what-if-you-count-gamefictional-characters-d?source=share no reblog
+- https://www.furaffinity.net/gallery/jay-r/
+- https://www.furaffinity.net/view/55691200/
+- https://www.furaffinity.net/view/55541487/
+- https://youtu.be/wJBULFJ9980?si=6_zq1K4snvbh5zOf
+- https://youtu.be/az40q3j1-bs?si=6w7ojyUMAn6JNqfo
+- https://youtu.be/ayk-7S8sh2g?si=W2SMwjPwVEQ1Y-26
+- https://youtu.be/zbkRnMe_cm4?si=i465jvS-acL7X3Up
+- https://twitter.com/ReenubAD/status/1762666911429784010?t=4KG5s1LzDY0UGZNH4mePzQ&s=19
+- https://youtube.com/shorts/GZ728DloKxw?si=yl_DwygNXTQRqGhX
+- https://youtu.be/8dg7vm7k3sM?si=0ZvI_DUJ2ZLvf5G4
+- https://github.com/pac-ac/osakaOS
+- https://x.com/futayami_abn?t=KFrN2mSqy6stazVeGrp1Yg&s=09
+- https://twitter.com/futayami_abn/status/1762882339510829526?t=WIxZkrR2D9Kztu0uSI_trg&s=19
+- https://twitter.com/futayami_abn/status/1762001232204529805?t=WIxZkrR2D9Kztu0uSI_trg&s=19
+- https://youtu.be/2h6nh84QyZ8?si=d9zRXnuFfXEFhhWN
+- https://www.tumblr.com/dyingheartbeats/743222129871536128/for-someone-wanting-to-play-with-guns-hope?source=share
+- https://www.tumblr.com/horror-heart-12/743157502284316672?source=share
+- https://www.tumblr.com/bpdcreep22/742572048057090048/birthday-heartbeat-im-22-yrs-old-now-what?source=share
+- https://www.tumblr.com/adam-beats/743597817933840384?source=share hbluis blocked me
+- https://www.tumblr.com/what-cant/739983474619023360/found-some-goodies-thanks-to-my-bud?source=share
+- https://www.tumblr.com/what-cant/736342753403944960?source=share
+- https://www.tumblr.com/what-cant/736088144819224576?source=share
+- https://www.tumblr.com/what-cant/733008695228841984/derbellyfred-cardiophiliagirl621-my-first?source=share cardiophiliagirl621 blocked me and deactivated
+- https://www.tumblr.com/what-cant/728736521709060096/soundgasmnet?source=share
+- https://www.tumblr.com/coquette-heartbeat/743537842521882624?source=share heart-2-get blocked me
+- https://www.tumblr.com/coquette-heartbeat/742545745232707584?source=share
+- https://open.spotify.com/playlist/4lkicSf7JbyOTzT2RmiHS5?si=E7giSvCyTf2KvypDtIoazA&pi=a-X_P6smitRA2i
+- https://www.tumblr.com/luvnurses62/743653580884541440?source=share luvnurses62 blocked me
+- https://twitter.com/SysenArtworks/status/1763139626989179228?t=0Gbi_fDctIpTlwsUeknhHQ&s=19
+- Thigh as a plug. Plug the suction hole with her leg, from down leg. Machine implodes.
+- https://vxtwitter.com/yakiniku_TLer/status/1761777559992447035?t=7tEKbCxkCY5r1zUFrjpeWg&s=19
+- https://www.tumblr.com/sweetduckpeach/743621927314309120?source=share
+- https://youtu.be/yDcT7zqWa58?si=fDZSRZgrdx97qSHP
+- https://www.tumblr.com/bronydjlove/741215820722601984/fat-bodies-tutorial?source=share
+- https://thisvid.com/members/4086031/
+- https://www.pixiv.net/en/artworks/116487664
+- https://twitter.com/futayami_abn/status/1761785274273837174
+- https://vxtwitter.com/HChirmiaB/status/1763079316236296361
+- https://vxtwitter.com/futayami_abn/status/1762882339510829526
+- https://twitter.com/haruno098/status/1762311628585119974
+- https://www.pixiv.net/en/artworks/41929879#1
+- https://www.pixiv.net/en/artworks/41929879#1
+- https://www.tumblr.com/yuuki-snow/743610016904413184?source=share
+- https://www.tumblr.com/dyingheartbeats/743222129871536128/for-someone-wanting-to-play-with-guns-hope?source=share
+- https://www.tumblr.com/dyingheartbeats/742915213172572160/fill-me-full-as-you-put-a-stop-to-my-frantic?source=share
+- https://www.tumblr.com/wickedbeating/743405412357980161?source=share
+- https://www.pixiv.net/en/artworks/50644504
+- https://vxtwitter.com/TeHappyHeartMan/status/1763636847136182722
+- https://youtu.be/viQJGUrBg3c?si=UYPpfF-sfvanLUM2
+- https://www.tumblr.com/joelwindows7/727128601652346880?source=share
+- https://youtu.be/EtYxc_aLi0o?si=RiUiO04WHEn7vWwR
+- https://www.tumblr.com/ay-heart-collection/743841009087234048/the-assassin-lesson?source=share
+- https://youtube.com/shorts/dKMa_041sto?si=jSksYhgAeewsmqGF
+- https://youtu.be/GAOidcVBvnE?si=BiqEXTDYRajaiprW
+- https://www.fanbox.cc/@calabo17/posts/7508571 **paid**
+- https://twitter.com/HChirmiaB/status/1763833241432399872?t=oLkuGlLPWS-3QHIusjpjcw&s=19
+- https://youtu.be/-l1dMto0LGQ?si=P05YZBHqhkt4W-d2
+- https://twitter.com/MakiNSFW/status/1764095929378890003?t=GaBMewfnWW3TjPcSjsCEMA&s=19
+- https://twitter.com/87_G0D/status/1763745902282580028?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/blaize_mayes/status/1763740624816120033?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/InstntLiverFail/status/1763769741376733218?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/Pancake3133/status/1763869444055470159?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/ForRealMank/status/1763752933630312893?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/sauce_kross/status/1763894194123202779?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/Juk3b0x_/status/1763920941061472454?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/C0denameDelta/status/1763795779498422778?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/MegaChanRevival/status/1763976262308020712?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/AbeAnimated/status/1763965623187460424?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/ijbolkasumi/status/1760910172707291495?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/GeorgeCrudo/status/1764033396575998274?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://twitter.com/87_G0D/status/1763860085913407597?t=cHTT9OidowTRHRDleGk6KQ&s=19
+- https://youtu.be/ylhexPejhn0?si=nalTyBgkzhYFLlZ3
+- https://discord.com/channels/1105744765074550804/1202864145020493884/1213616469968162856
+- https://youtu.be/-l1dMto0LGQ?si=P05YZBHqhkt4W-d2
+- https://youtu.be/68UPlhFdPYA?si=LtGkFx5Jms7eIM6-&t=75
+- https://youtu.be/NjyYnsmiDZc?si=Tkkym1o_1uGsdtZp
+- https://discord.com/channels/1105744765074550804/1203799302636576788/1213832499898089543
+- https://youtu.be/Vouhf641mT8?si=vtcKZpVp7xg-UUI_
+- https://vxtwitter.com/DaSharky3D/status/1763912791495192953
+- https://twitter.com/myao_myao_chan/status/1764212377283862650?t=wvWuh7TV7tw_3lvVPQ5phA&s=19
+- https://twitter.com/Yukikaze__08/status/1764169416873484613?t=wvWuh7TV7tw_3lvVPQ5phA&s=19
+- https://fatalrhythms.itch.io/breaking-and-entering
+- https://www.tumblr.com/thegranfathertree/742986128313991168?source=share
+- https://www.tumblr.com/thegranfathertree/742705625827508224?source=share
+- https://www.tumblr.com/anothermarkiplierfan/743941664150880256?source=share
+- https://www.tumblr.com/siryouarebeingmocked/743980403391594496/didnt-the-un-have-china-and-saudi-arabia-on-the?source=share hamas
+- cvr uuuu
+- https://vxtwitter.com/i/status/1750383138251940298
+- https://darbernsfw.carrd.co/
+- https://darber.notion.site/b87dfa2e1f4e4b7782a74ccd12689eb7?v=7028daeff43e4a85b438628ed58f57e1&pvs=4
+- https://smutba.se/user/119772/
+- https://discord.com/channels/410126604237406209/588350770777161748/1213286733773279323
+- https://feedback.abinteractive.net/p/unity-terrain-grass-texture-with-billboard-off-disables-grass-instead?b=cck-bugreports
+- https://discord.com/channels/410126604237406209/588350770777161748/1213902114640756746
+- https://discord.com/channels/410126604237406209/588350770777161748/1213958321522872370
+- https://discord.com/channels/410126604237406209/766086942005526579/1213395562750025789
+- https://discord.com/channels/410126604237406209/588350685255565344/1214021815752724510
+- https://discord.com/channels/410126604237406209/588350685255565344/1213303708482539560
+- https://discord.com/channels/410126604237406209/588350685255565344/1213169239842627605
+- https://discord.com/channels/410126604237406209/588350685255565344/1213065294453411860
+- https://discord.com/channels/410126604237406209/588350685255565344/1213003635085017128
+- https://feedback.abinteractive.net/p/dynamic-grabbing-physically-picking-up-objects-based-on-collision
+- cvr uuuu ok
+- https://youtu.be/4qCbiCxBd2M?si=n82AmPkHjFl8bJfw
+- https://www.tumblr.com/nuclearmime/743728482863988736?source=share nuclear mime Switch friend = `SW-4229-2037-8027`
+- https://www.tumblr.com/stellar-buttons/742091624215101440/an-old-pic-i-didnt-have-the-energy-to-finish-that?source=share
+- https://twitter.com/Critter45909127/status/1764300183591104996?t=Q4YdbyaemY3fBsMOGB2tKg&s=19
+- Blyat Rizzler
+- clean lens accidental reveal underboob pls
+- https://x.com/oya_suumi/status/1761194990636802325?s=20
+- https://twitter.com/ReenubAD/status/1763979555323437565?t=ysZ7MMlq-Ot72zS7F6AqSQ&s=19
+- https://twitter.com/ReenubAD/status/1764325098608365886?t=Q0eDEIV3SDnxeWhoJMDXuw&s=19
+- https://twitter.com/Anejo_xxx_Kaii/status/1763987318191558848?t=c-3xwF9l_yB530nNaHcVqA&s=19
+- https://twitter.com/ReenubAD/status/1764325098608365886?t=kZOk0d-gDGmpSt098ai4gA&s=19
+- https://twitter.com/ReenubAD/status/1764820218688463270?t=HXKWi7uK5y4D_cHEzqs4RQ&s=19
+- https://twitter.com/T1kosewad78/status/1764618267551994276?t=FfHEu6hXvFKIAGpphDAaVA&s=19
+- https://twitter.com/cookie0q0/status/1764572594400100811?t=mwlCa0ySPycWD98-N4seVA&s=19
+- https://twitter.com/DAIKA__/status/1764599747875352725?t=mwlCa0ySPycWD98-N4seVA&s=19
+- https://twitter.com/T1kosewad78/status/1764618267551994276?t=mwlCa0ySPycWD98-N4seVA&s=19
+- https://www.tumblr.com/psyker-vitalsigns/743631220491075584/ekg-2-push?source=share this
+- https://drive.google.com/file/d/1ykp452H1BKvUST5ZHRBQ1af8NDVkt5K0/view had this
+- https://www.tumblr.com/herzmeister/743556700723888128/feeling-the-powerful-beats-of-her-heart?source=share
+- https://www.tumblr.com/brightenight-heart/744092294219694081?source=share hey
+- https://drive.google.com/file/d/1B3IBnGQ1dUNJL_0qnj74hL2_rMg81tYR/view there
+- https://drive.google.com/file/d/1XJ2SI3H1rfJvWrWFjJ4qz2djkHlhMdbU/view & there
+- https://www.tumblr.com/brightenight-heart/744091835141652480/rainbowsprinklesart-commission-for-dupedup-non?source=share
+- https://www.tumblr.com/brightenight-heart/744091809610924032?source=share
+- https://www.tumblr.com/brightenight-heart/744091768157601792?source=share
+- https://www.tumblr.com/brightenight-heart/744091762884313088?source=share
+- https://twitter.com/SyHan__/status/1764897952718602340?s=19
+- https://twitter.com/futayami_abn/status/1764668874728096079?s=19
+- https://twitter.com/mi_taro333/status/1764606730011562185?s=19
+- https://vxtwitter.com/chiba_akihito/status/1438473810756313090
+- https://fixupx.com/Pochemu16/status/1764711008143134951
+- https://www.furaffinity.net/view/55773331/
+- https://www.tumblr.com/joelwindows7/744127093238022144/hbaddict-heart-clinic?source=share
+- http://www.patreon.com/posts/99800474
+- https://youtube.com/shorts/N5BqxYE4BVc?si=NF7_1Wz82QZ1wunj
+- https://www.deviantart.com/blooscera/art/Pre-test-nerves-1027060107
+- https://vxtwitter.com/Raiaxxxia/status/1764628526068859284
+- https://vxtwitter.com/HChirmiaB/status/1763833241432399872
+- https://vxtwitter.com/i/status/1764687625560952972
+- https://youtu.be/5SvC8ViDa2A?si=WRR0pDJ3_IpRrTTp
+- https://youtu.be/lTJfTCNBT_s?si=FZ3L5AM9y6j-Vvj9
+- https://twitter.com/T1kosewad78/status/1764943129143066824?t=c3DWLCL_q1yZ6_xXW6KhwA&s=19
+- https://youtu.be/rkLrxoloVKQ?si=RqpCsItWQ9aBBrKt human torso replica with heartbeat
+- https://youtu.be/4-GXaMg1AAY?si=vmLSDzdl2OmhiC5N
+- https://youtu.be/lTJfTCNBT_s?si=uOrn0z832w0_hIne
+- https://youtu.be/x4uwM-fufrk?si=uMVnJxqrtXbsBXWv
+- https://vxtwitter.com/RubberAnimation/status/1765107780803854665
+- https://x.com/ironwolf_323/status/1759062381236240541?s=20
+- https://twitter.com/T1kosewad78/status/1764943129143066824?t=DuETBsCx81-mLvHejKY9lg&s=19
+- https://www.tumblr.com/brightenight-heart/744196956342173696/login-instagram?source=share
+- https://www.instagram.com/p/C1ryykdNr_J/?utm_source=ig_web_copy_link
+- https://twitter.com/Lady_Beemer/status/1752055415506870317
+- https://www.tumblr.com/mybedofdreams/744200837076860928?source=share
+- https://www.flickr.com/photos/157451343@N06/49208934656/
+- https://youtube.com/shorts/gUdDxnEHSd0?si=MX9VnaZYK16dt4nQ
+- https://discord.com/channels/708944369750638612/726556169694609479/1212171465986936872 from Heart Haven, RespirationBeats has these
+- https://gofile.io/d/uQ83c6 yeah
+- https://discord.com/channels/708944369750638612/709124977731043409/1214180381637738516
+- https://discord.com/channels/708944369750638612/709124977731043409/1214965953054511164
+- https://web.archive.org/web/20050207004747/https://www.microsoft.com/mscorp/execmail/2005/02-03interoperability.asp
+- https://discord.com/channels/708944369750638612/726556047975645254/1213280598982918144
+- https://discord.com/channels/708944369750638612/726556047975645254/1213734359375421491
+- https://discord.com/channels/708944369750638612/726556047975645254/1214412787120607322
+- https://discord.com/channels/708944369750638612/726556047975645254/1214432604686651392
+- https://discord.com/channels/708944369750638612/726556047975645254/1214847719739494422
+- https://www.tumblr.com/joelwindows7/741363145793290240/fallen-flowers-%E7%AE%97%E6%B3%95%E9%AB%98%E6%B8%85%E5%8C%96?source=share
+- https://discord.com/channels/708944369750638612/709125037986414592/1212523598246449262
+- https://nozomuarts.carrd.co/
+- https://discord.com/channels/708944369750638612/724553665289125978/1212555098304155659
+- https://discord.com/channels/708944369750638612/720585728383516774/1207034647826137109
+- https://discord.com/channels/708944369750638612/720585728383516774/1207143792260681818
+- https://discord.com/channels/708944369750638612/720587128639062036/1192205098059829279
+- mutualisme game
+- a bubble spaceship.
+- another small bubble come and absorb your ship. Exchange with Reward. Collect reward to upgrade ship.
+- fans new come.
+- small bubbles comes everyday
+- buy weapons to destroy enemy boxes.
+- tycoon.
+- travel through realms
+- if enemy destroy your ship, respawn in 30 minutes at the realm you were
+- https://youtu.be/eAbYnPbM_kk?si=3-EV-KFjlzn-LVv3
+- https://www.tumblr.com/prismgenixz70/744138559538233344?source=share
+- https://www.tumblr.com/prismgenixz70/744052886477176832?source=share
+- https://www.tumblr.com/torture-steth-repeat/743776844835389440/real-time-hr-monitoring-link?source=share
+- https://pulsoid.net/widget/view/9aadf0ca-c94b-41a1-b29d-92b997393cec
+- https://www.tumblr.com/lilithhb/743549555557253120?source=share cardiomason deactivated again?
+- https://www.tumblr.com/thumpingdemon/742814268253192193/some-clips-of-it-racing-after-an-overly-long-and?source=share
+- https://www.tumblr.com/snowheartsz/744224566778462208/was-anyone-gonna-tell-me-a-dating-sim-exists-on?source=share blocked me
+- https://www.tumblr.com/sakasagami/744055564225691648?source=share
+- https://www.pixiv.net/en/artworks/114232362
+- https://www.tumblr.com/makahitaki/743859206628704256?source=share Abortion?! No!!! Leave the LGBT pass, but abortion.
+- https://twitter.com/mix020511/status/1757389518662160441
+- https://www.tumblr.com/ryuko/743711728895983616?source=share
+- https://www.tumblr.com/sweetduckpeach/744227858704187392?source=share
+- https://vt.tiktok.com/ZSFUxSk9D/
+- https://vt.tiktok.com/ZSFUxeSUB/ alastor sing micharp buble feel good
+- https://www.tumblr.com/sweetduckpeach/744227243851759616/tiktok-make-your-day?source=share
+- https://www.tumblr.com/christian009/743589872994058240?source=share no reblog
+- https://www.tumblr.com/christian009/743583828114915328?source=share
+- https://www.tumblr.com/heartheels-fan/744031279765438464?source=share heartheels-fan blocked me
+- https://www.tumblr.com/kardiacswag/743964483208298496?source=share
+- https://www.tumblr.com/beschleuniger1/743729125898043392?source=share beschleuniger1 blocked me
+- https://www.tumblr.com/bcparkinson69/743678162347622400?source=share
+- https://www.tumblr.com/23cookingcentre/742038883660972032/interesting-request-why-not?source=share cardiophile-gal blocked me
+- https://koro-beato.tumblr.com/?source=share
+- https://www.tumblr.com/lubdubs/743574108653142016?source=share cardiomason deactivated
+- https://www.tumblr.com/lailalevander/741149175507468288?source=share gameover
+- https://www.pixiv.net/en/artworks/116455862
+- https://www.tumblr.com/kamadaeva/743597118060740608?source=share
+- https://www.tumblr.com/nicknotes2/743865441174355968/alex-dropo-by-paul-freeman?source=share
+- https://www.patreon.com/posts/99876339?utm_campaign=postshare_fan
+- https://youtube.com/shorts/jIZGGKB4p5g?si=81rRSjKwtpEbjSc0
+- https://youtube.com/shorts/oetVZ7l_m2U?si=VDNldBczeeCorCzV
+- https://www.patreon.com/posts/99416509?utm_campaign=postshare_fan
+- https://twitter.com/princess_0sora/status/1765396030902899064?t=Zx2DI4nMg2hdnti49BI9IQ&s=19
+- https://twitter.com/hainchu21/status/1765330786885210354?t=Zx2DI4nMg2hdnti49BI9IQ&s=19
+- https://twitter.com/simoumi_217/status/1765301790818681118?t=Zx2DI4nMg2hdnti49BI9IQ&s=19
+- https://twitter.com/_KM_P_/status/1765339043552997538?t=Zx2DI4nMg2hdnti49BI9IQ&s=19
+- https://twitter.com/ReenubAD/status/1765564970652274693?t=Kxm_r6SS0BgFxm-tb90rwQ&s=19
+- https://vxtwitter.com/RubberAnimation/status/1765466543100432593
+- https://www.tumblr.com/pleasantbananafireprune/743235521030094849/a-thing-about-souls-undertale-tobyfox?source=share
+- https://youtube.com/shorts/W2Y_O58an5M?si=1HKErHIuo83ue5fb
+- https://gofile.io/d/uQ83c6
+- https://www.patreon.com/posts/99900349?utm_campaign=postshare_fan
+- https://www.twitch.tv/thumpyboy200?sr=a
+- https://youtu.be/FFWHgNGNEfw?si=LMGpZTEKEuuFUsNq
+- https://discord.com/channels/519291740679569408/519409192239628288/1215530326240137266
+- https://www.deviantart.com/blooscera/art/Rosalina-Heartbeat-1027930843
+- https://youtu.be/FFWHgNGNEfw?si=numjWnu9nXqoknp3
+- Produce game PC98
+- https://vxtwitter.com/i/status/1764976544001163765
+- https://www.deviantart.com/ampforyou/art/Heartbeat-Love-896855204
+- https://youtube.com/shorts/X62CbDKT2Vs?si=l1_EGE849WAgx_U0
+- https://vxtwitter.com/i/status/1764687625560952972
+- https://x.com/JOELwindows7/status/1556181448797089792?s=20
+- https://x.com/EmojiMashupBot/status/1556097822407237634?s=20
+- https://x.com/shorthairgood/status/1765726668482842911?s=20
+- https://x.com/shorthairgood/status/1765664500865282465?s=20
+- https://vxtwitter.com/i/status/1766231360899875108
+- https://discord.com/channels/514159212658556929/524033177774456843/1180510640218046635
+- https://vxtwitter.com/HoneyDew15_/status/1738590809623330896
+- https://twitter.com/HoneyDew15_/status/1765611185775554813?t=c7cK9mm2RcYobMChv0EH1w&s=19
+- https://twitter.com/HoneyDew15_/status/1738590809623330896?t=c7cK9mm2RcYobMChv0EH1w&s=19
+- https://vxtwitter.com/HChirmiaB/status/1765605874691907935
+- https://www.pixiv.net/en/artworks/116733316 this
+- https://mega.nz/file/ED1jHaiQ#Dk75jbXwoBTuvbx5hJcHnlZCIOCnf463Xmr9DACF9u4 has this
+- https://youtu.be/fwQ8IOjlaqc?si=4uAyj4YACCpWaUOs
+- https://youtu.be/-l1dMto0LGQ?si=P05YZBHqhkt4W-d2
+- https://x.com/inkuusan/status/1764056841460593025?s=12
+- https://x.com/theotaking/status/1764062881136726427?s=12
+- https://x.com/sgtmadnesss/status/1764467270133100770?s=12
+- https://x.com/masoq095/status/1766208081577247077?s=12
+- https://vxtwitter.com/mocamocaink/status/1766059564397699520?s=12
+- https://x.com/psidubs/status/1766217486540656964?s=12
+- https://x.com/benzbt1/status/1765934074580058282?s=12
+- https://vxtwitter.com/dahsharky/status/1764919803418960126
+- https://vxtwitter.com/DaSharky3D/status/1763912791495192953
+- https://www.tumblr.com/djag2007/722161114641793024/fast-beats-friday
+- https://twitter.com/ReenubAD/status/1766095367307993114?t=fE7P--OM-1BrGD6u5WCfeQ&s=19
+- https://youtube.com/shorts/8B9YF9iREmk?si=CY2ANqqQu-4Z5Wcu content farm reee
+- https://www.tumblr.com/lonelycardiophile/744237369069371392?source=share horny-heartbeats blocked me
+- https://www.tumblr.com/lonelycardiophile/742184285566566400?source=share hbluis blocked me
+- https://www.tumblr.com/taffytulip/708807414919643136/finished-a-ref-sheet-commission-for-someone-on-fb?source=share
+- https://vxtwitter.com/lovettica/status/1765068940492087377
+- cvr gugu gaga
+- Ayo pecahlan rekor!
+- 1 instance 1000 join
+- 100 aja deh, ntar mbeledos kasian
+- gagugagu
+- https://www.tumblr.com/comedy-bloggery/744024838423887872/have-a-lesbian-marriage?source=share
+- https://www.tumblr.com/joelwindows7/744120075624333312/formulasushi?source=share
+- https://www.tumblr.com/nessie-bessie/744454029698039808?source=share
+- https://www.tumblr.com/nessie-bessie/177134092460/moringmark-oc-credits-elvira-nessieueueueue?source=share
+- https://www.tumblr.com/nessie-bessie/176863596440/alright-so-part-2-of-my-favourite-tomstar?source=share
+- https://www.tumblr.com/nessie-bessie/176323356170/they-have-a-weird-relationship-a?source=share
+- https://www.tumblr.com/nessie-bessie/176292746160/star-utterfly?source=share
+- https://www.tumblr.com/pleasantbananafireprune/743523479501127680?source=share
+- https://www.tumblr.com/pleasantbananafireprune/743523041871626240?source=share
+- https://www.tumblr.com/pleasantbananafireprune/743523151480324096/caheartman-here-is-a-video-from-the-heart?source=share
+- https://www.tumblr.com/pleasantbananafireprune/743523000096325632?source=share
+- https://www.tumblr.com/pleasantbananafireprune/743235521030094849/a-thing-about-souls-undertale-tobyfox?source=share
+- https://www.tumblr.com/pleasantbananafireprune/743213504287342592?source=share
+- https://youtu.be/4BF9nEkimjk?si=L2xT6WWG8jaBtsVP 
+- https://www.tumblr.com/heartluvr98/743675932897886208/httpsyoutube4bf9nekimjksi-l2xt6wwg8jabtsvp?source=share
+- https://x.com/levanderwolf/status/1765768460288606378?s=20
+- https://www.tumblr.com/purity-in-heart/744407591926497280?source=share
+- https://www.tumblr.com/purity-in-heart/744261490724519936?source=share
+- https://www.tumblr.com/purity-in-heart/744247568223092736?source=share
+- https://www.tumblr.com/purity-in-heart/744238263085236224?source=share
+- https://twitter.com/RolltheredDev/status/1766595026899914764
+- https://vxtwitter.com/TeHappyHeartMan/status/1766699201860149570
+- https://x.com/TeHappyHeartMan/status/1766161967394214099?s=20
+- https://x.com/TeHappyHeartMan/status/1766286641423925303?s=20
+- https://vxtwitter.com/i/status/1766609482866401362
+- https://vxtwitter.com/mocamocaink/status/1766059564397699520?s=12
+- https://twitter.com/masoq095/status/1766208081577247077?t=bE7wH7owkB0ZbXtLdby_MA&s=19
+- https://fxtwitter.com/ShinzouNeko/status/1759406916160159889?t=hiOsP4WWUhyZebljf59CIw&s=19
+- https://fxtwitter.com/ShinzouNeko/status/1759417406957510930?t=kiPgFGlF4aOuwtxCUAWEmw&s=19
+- https://discord.com/channels/332231444816723969/332242840602279938/888180756692754482
+- https://discord.com/channels/332231444816723969/332242840602279938/1212892316029685770
+- https://discord.com/channels/332231444816723969/332242840602279938/443539093008416768
+- https://youtu.be/mWuie_y8hkY?si=uZQOZ05LYQJ6Ba3C
+- https://www.tumblr.com/tachycardiophilia/732884476391276544?source=share
+- http://xxhearts.com/wordpress/the-origins-of-cardiophilia-or-heartbeat-fetish/
+- https://www.tumblr.com/xxhearts/142588370423/the-origins-of-cardiophilia-or-heartbeat-fetish?source=share
+- https://www.tumblr.com/stethguy/112098228014/my-friends-15-year-old-daughter-who-has-a?source=share
+- https://www.tumblr.com/prismgenixz70/744138559538233344?source=share
+- https://www.tumblr.com/prismgenixz70/744052886477176832?source=share
+- https://youtu.be/-NfwHb7i5vw?si=UMIcs2gg5DpNdTe-
+- https://youtu.be/2ZNxiTzYe80?si=6Vi49BbAZpoOicsb
+- undertale yellow
+- https://www.tumblr.com/zubthelycanroc/743310861422182400/mon-trainer-ceroba?source=share
+- https://www.tumblr.com/utytimeline/743239824029499392/look-no-matter-what-he-did-or-said-im-actually?source=share
+- https://www.tumblr.com/mycringefactory/740775766741188609/get-fired-asgore?source=share
+- https://vxtwitter.com/HChirmiaB/status/1766758205957574982
+- https://vxtwitter.com/HChirmiaB/status/1766746276891365738
+- https://vxtwitter.com/Miyajimareiji/status/1640887045630611458
+- https://twitter.com/OBazzotto/status/1766572698203730101
+- https://x.com/little123blood/status/1766575940237181213?s=12
+- cvr afs
+- https://discord.com/channels/410126604237406209/588350726841827358/1216444115550470326
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/816-avatar-animator-parameters-reference
+- https://web.archive.org/web/20230322235855/https://forums.abinteractive.net/d/817-cvr-parameter-stream-reference
+- afs
+- https://x.com/jaxsterrapp/status/1766982931845701736?s=12
+- https://twitter.com/jaxsterrapp/status/1616496677283586049?t=bjGtL3JhjYTuhIEW83Ggcg&s=19
+- https://pocket.shonenmagazine.com/episode/4856001361087964868 **paid**
+- https://www.furaffinity.net/view/55449404/ andrake new vid
+- https://mega.nz/file/MbcxjQAB#u_q-8iamCX-pUhavVkPngPGTqL1JKRJYLmjxyrGNFGk here.
+- https://twitter.com/NewTioSans/status/1766814517567148387?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/XISABIGBOY/status/1766903768526827974?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/KH_626/status/1766524233746878530?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/tsubaki_A1/status/1766853992922091592?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/elonmusk/status/1766964661340004441?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/KH_626/status/1766524233746878530?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/_CASTSTATION/status/1755177189879021939?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/UshakuChen/status/1766803488041042414?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- https://twitter.com/kobako42/status/1766940424713970031?t=s3PPY0ZA0Yi_rzzsTrNMZw&s=19
+- unity principled bsdf??
+- https://youtu.be/jxlAV6k4Jf4?si=1_O7bOkqRj77RIJh
+- https://www.tumblr.com/bpdcreep22/744555061155430400/my-wife-cooked-art-trade-with-deraxx-kokoro?source=share
+- https://www.tumblr.com/bpdcreep22/744555089391435776/my-wife-cooked-art-trade-with-deraxx-kokoro?source=share
+- https://twitter.com/deraxx_sus/status/1766734058900361400?t=YxF69Fe-1jgYtvH4YBL71w&s=19
+- https://x.com/rykerclouds/status/1766952218958217726?s=20
+- https://x.com/rykerclouds/status/1766952218958217726?s=20
+- https://x.com/deraxx_sus/status/1766734058900361400?s=20
+- https://t.co/txK5toUE9w
+- https://x.com/NiinaXann/status/1766226607922983010?s=20
+- https://www.tumblr.com/coquette-heartbeat/744425674711941120?source=share
+- https://www.tumblr.com/maddieheart/743963628177391616/ask-away?source=share and now hbluis gone.
+- https://www.tumblr.com/onedudesview/699984568403492864/43-hehim-cis-bi-or-pan-or-something-still?source=share huh, that's ironic right?
+- https://www.tumblr.com/maddieheart/742789253392728064?source=share what is this? Fat belly... Fat body...
+- I'm confused, can somebody speak it more clearly?
+- https://ko-fi.com/jojobrito
+- https://www.tumblr.com/dekkenminus/741272811477352448/by-jojo-josephbrito7?source=share
+- https://www.tumblr.com/keeperofoverlookhotel/744587592617590784?source=share rangertycho blocked me
+- https://vxtwitter.com/RubberAnimation/status/1766823092385362030
+- https://vxtwitter.com/RubberAnimation/status/1766823179807228062
+- https://vxtwitter.com/RubberAnimation/status/1766908222802178258
+- https://vxtwitter.com/RubberAnimation/status/1767145315868569677
+- https://twitter.com/ReenubAD/status/1767001467733303400?t=adhjXmday-F8sMnSfucYKg&s=19
+- https://onlyfans.com/gennydarling
+- https://www.tumblr.com/yuuki-snow/743045838294663168?source=share hartspot17 blocked me
+- https://www.tumblr.com/bcparkinson69/739929992943812608?source=share bcparkinson69 blocked me
+- Not my art, all credit goes to 野风 on Pixiv!
+- https://www.tumblr.com/n3rplex/743157392120889344/not-my-art-all-credit-goes-to-%E9%87%8E%E9%A3%8E-on-pixiv-hey?source=share
+- https://e621.net/posts/2571973?q=goodbiscuit
+- https://twitter.com/RequiemCoffee/status/1767329341543993657?t=cpjNMs32dgGCXNJCE38TcA&s=19
+- https://discord.com/channels/708944369750638612/709236309511897209/1211709442647785482
+- https://twitter.com/Rinca_ba/status/1767166082924573094?t=1oI7M_sYjd1HMQnsY2gZSg&s=19
+- https://twitter.com/T1kosewad78/status/1767129343124476264?t=1oI7M_sYjd1HMQnsY2gZSg&s=19
+- https://twitter.com/T1kosewad78/status/1639598369013374977?t=1oI7M_sYjd1HMQnsY2gZSg&s=19
+- https://twitter.com/100500plus/status/1755397660461158651?t=GbPBGnHEzHWO50vVTDiJbw&s=19
+- https://twitter.com/_CASTSTATION/status/1755177189879021939?t=GbPBGnHEzHWO50vVTDiJbw&s=19
+- https://www.tumblr.com/ultimate-rper-32/742456224636960768/warning-about-this-user-on-tumblr-who-blocks-other?source=share
+- ultimate-rper-32 unblocked me
+- https://www.tumblr.com/resus-girl/744086052410736640/wow-love-this?source=share
+- https://youtu.be/ULHxXZHqCDk?si=TCdTPZOwacJ6yQmI
+- https://rejem.carrd.co/
+- https://sketchfab.com/ushastok_kip
+- https://www.tumblr.com/fastandfurious7/744135312193748992?source=share
+- https://www.tumblr.com/pleasantbananafireprune/744765475647537152?source=share
+- https://twitter.com/ReenubAD/status/1767660476891271191?t=mKcCEmqXrWDrxfcyoSPxbw&s=19
+- https://youtube.com/shorts/OXiWDMd8XEM?si=inpH6tYumPN--KjI
+- High EQ?!?! Jesus Christ on a motorbike..
+- https://discord.com/channels/519291740679569408/519409192239628288/1217510151859343380
+- https://discord.com/channels/519291740679569408/519409624068259847/1217496397092356246
+- https://discord.com/channels/1105744765074550804/1202864145020493884/1217590837450379325
+- https://youtu.be/vgPF3qvCYK4?si=PohHmT2Q7wxBH-qp
+- https://vxtwitter.com/futayami_abn/status/1767902684462633449
+- https://www.tumblr.com/thumpingdemon/708858421029535744/racing-after-standing-jumps-while-stimulated?source=share
+- https://www.tumblr.com/hekapoofan91/744791592615985152?source=share tenebrisdawriter blocked me
+- https://www.tumblr.com/kopee/744751495814266880?source=share
+- https://discord.com/channels/519291740679569408/519409436163440640/1217794076842262578
+- https://discord.com/channels/1201374266034237580/1201390153537687613/1216580353171390504
+- https://pin.it/V6LCFf8sG
+- https://pin.it/65m40njDN
+- https://pin.it/6KJLS56F7
+- https://pin.it/5LK6Mz3EY
+- https://pin.it/1xUCoabdH
+- https://pin.it/Mn9Ak40Pa
+- https://pin.it/1iFdSxcn1
+- https://pin.it/z168Zn2GU
+- https://pin.it/3MGkz6BH9
+- https://pin.it/4fFqf2Rxx
+- https://vxtwitter.com/02YASSY/status/1767895506162999546?t=kJAmLVptMXsp6CUDnwSj6g&s=19
+- https://discord.com/channels/1105744765074550804/1202864145020493884/1217928013367480371
+- https://www.tumblr.com/cardio-b/743143679628312576?source=share is hartspot17 blocked me?
+- https://www.tumblr.com/heartofadrummer/736688565797486592/reblog-if-youve-had-a-cardio-meetup?source=share I wish
+- https://www.tumblr.com/fantasiesoftheheart/744152428459507712?source=share hbluis blocked me and deactivated
+- https://www.tumblr.com/of-roses/742711248073949184?source=share
+- https://www.pixiv.net/en/artworks/116079777
+- https://www.pixiv.net/en/artworks/110450526
+- https://www.deviantart.com/tenebrisdawriter/art/How-the-Black-Family-Reacts-To-Spiders-813741700
+- https://www.tumblr.com/tenebrisdawriter/190212509070/httpswwwdeviantartcomtenebrisdawriterartthe?source=share
+- https://www.tumblr.com/thumpingdemon/744987386542489600/if-you-were-just-standing-there-staring-at-a?source=share
+- https://www.tumblr.com/thumpingdemon/744811033779191808/last-night-i-thought-id-just-do-a-resting?source=share
+- https://www.tumblr.com/thumpingdemon/744649937681252352/what-if-your-heart-went-very-irregular-when-you?source=share
+- https://www.tumblr.com/thumpingdemon/744649440343801856/12367?source=share
+- https://www.tumblr.com/thumpingdemon/743906981831737345/how-much-more-do-i-have-to-mess-up-the-little-guy?source=share
+- https://www.tumblr.com/thumpingdemon/743548229754519552/im-not-a-big-fan-of-the-whole-cumming-in-his?source=share
+- https://www.tumblr.com/thumpingdemon/743544990835392512/i-was-going-through-some-of-my-youtube-favorites?source=share
+- https://www.tumblr.com/thumpingdemon/742998290912673792/felt-my-heart-start-skipping-every-few-beats?source=share
+- https://www.tumblr.com/thumpingdemon/742814268253192193/some-clips-of-it-racing-after-an-overly-long-and?source=share
+- https://www.tumblr.com/thumpingdemon/742173432123473920/one-from-two-weeks-or-so-ago-me-being-the-messed?source=share
+- https://www.tumblr.com/thumpingdemon/742800061644324864/xxhearts-the-effect-of-pilates-on-a-girls?source=share
+- https://www.tumblr.com/xxhearts/144198241369/the-effect-of-pilates-on-a-girls-heart?source=share
+- https://www.tumblr.com/xxhearts/166261213403/recording-heartbeat-audio-a-good-way-to-do-it?source=share
+- http://xxhearts.com/wordpress/recording-heartbeat-audio/
+- https://www.tumblr.com/thumpingdemon/742173432123473920/one-from-two-weeks-or-so-ago-me-being-the-messed?source=share
+- https://pin.it/7kDXBVbqS
+- https://pin.it/pNhZF0uvx
+- https://pin.it/5BdeKm8e0
+- https://pin.it/4BOy28QBI
+- https://pin.it/18Tc50IQq
+- https://pin.it/4uMOfmkHZ
+- https://youtu.be/eXOPu3DOwRo?si=KFtl5ySRo9fOHVtS
+- https://vxtwitter.com/KOKUYO_3/status/1768577341842927828/photo/1
+- https://discord.com/channels/715331590263275570/815367869331275776/1218273930930950244
+- https://www.pixiv.net/en/artworks/114996489
+- https://youtu.be/rRPaRTqidZ4?si=rSfO5uIFEj72LEr2
+- https://www.pixiv.net/en/artworks/116640655
+- https://youtube.com/playlist?list=PLKfcryJhX2Oc8cK9XVZ8NjDdsgvgkccFQ&si=uLy0J6dK915hVJE5
+- https://youtu.be/dXzU46Y3xHk?si=baJj3akxIAcsMJQo
+- https://youtu.be/ufmkvyM2L70?si=1jS07sy9fiFOis73
+- https://youtu.be/7WyR_500o2Q?si=ldJ3JvEKmQbxZq0Q classic
+- https://youtube.com/playlist?list=PLY7xb1sgoo6RyclP8wDcxfuVuaPeJCBBb&si=PCWfJq5K7DepgRpV
+- https://youtube.com/shorts/BNOVescc-Uc?si=QXKPTxVqLjj8_XhS
+- https://youtube.com/playlist?list=PLT0jj5R49RRHItZe_n6y5wZpYHwrWDssz&si=IrlPiMrn2TyRF28s
+- https://youtu.be/1Q7H4kN3n1s?si=C9Gupno5LMYQYdW5
+- https://youtu.be/q5ZFAU02Yfg?si=4w3IVQvZt9q2PSnf
+- https://youtu.be/kHmDasvyw_4?si=4tZNYq3HKb1eo_ya
+- https://youtu.be/mfNLwvjkmCc?si=sOC9dSCYHPYBHvSG
+- https://youtu.be/XLKhz6N1S5s?si=KIqPv-NFy24plbA6
+- https://youtube.com/playlist?list=PLT0jj5R49RRGz_CmtPwQbw4Tb2P_kCZ1Q&si=u3r9B4LNxIn5uU1K
+- https://youtu.be/0b-MYMwdaj8?si=GOgaZw1nYaJNxLAq
+- https://youtu.be/_srcyLkhd9w?si=7vAsSOanBD6tb9zm
+- https://youtu.be/jPEp32idQCY?si=suQozykq23Xf1ekJ
+- https://youtu.be/ZorL0SqJ83c?si=95XtlsJ6f0Kv9kZ7
+- https://youtube.com/playlist?list=PLT0jj5R49RRE3HlVKbL-pJnOGyTBDWAGZ&si=veKCs5pMCG4QBs4K
+- https://youtu.be/PDliax9sC8g?si=ZAOBOY3_HLKpAQAY
+- https://youtu.be/B_Jj_wEU_WY?si=TIMKIW0UgpY26Djl
+- https://youtu.be/13YXYTGyGT4?si=L-ftCC7_g4K1PM49
+- https://youtu.be/4BF9nEkimjk?si=K6dMeMqvYJOJ3A3N
+- https://youtube.com/@thewyrdguy?si=N0-90vD1QPmltPvm
+- https://youtube.com/playlist?list=PLLpZCwsaiK2-V-F2iofzAMICeyXlnBY0O&si=biBa7kiDWPKR6S2d
+- https://youtube.com/playlist?list=PLLpZCwsaiK2_OcJJdZ2qdBuemYKRMyOOc&si=BKbB1RgeJrR3FMQq
+- https://youtu.be/UPBqTGPOD6o?si=RyHEAIkaY-bSITjJ
+- https://youtube.com/playlist?list=PLLpZCwsaiK29RM41hlaPPmdy9d3xVt0Ki&si=xUf1E2kDjR3_8q6U
+- https://youtube.com/shorts/Ay-JAuSg85g?si=GXl6sZCW2lHvAiLd
+- https://youtube.com/shorts/EyIkKAq7lus?si=m1YTfwdf0iqKiTk6
+- https://youtube.com/shorts/CxD7sUS8Gd0?si=gU9_2D5XLM82je9j
+- https://youtube.com/playlist?list=PLf6BcHxjaTehVu4_aQbo2h-OCExCXyFv8&si=THUYCb8kjG6E-Mf1
+- https://youtu.be/0JKkwRc2apE?si=Upv1ndpKcqRRGxsQ
+- https://youtu.be/_Km3rFdwGjc?si=DELKnGR_kBO-3kg4
+- https://youtube.com/playlist?list=PLHrTcdR-w-ww0zJpm9DPanwYA7frwR2zj&si=bpU0ulqYrRZM6Z7n
+- https://youtu.be/mOX7YVvN01w?si=7zX2G_bgXYs4B6Qt classic
+- https://twitter.com/RubberAnimation/status/1768677770878488950?s=19
+- https://twitter.com/GS_FurRenders/status/1768654121823834262?t=NVEp1bN5e6JR45WCZcCsHQ&s=19
+- https://glenskunk.itch.io/
+- https://subscribestar.adult/carbiid3
+- https://vxtwitter.com/RubberAnimation/status/1768945178155323781
+- https://e621.net/posts/4660127
+- https://twitter.com/10t100t1000tt/status/1768632910675083473?t=4oC7-3Dh4Y1L02RIf8iFxw&s=19
+- https://twitter.com/T1kosewad78/status/1768834432394506628?t=4oC7-3Dh4Y1L02RIf8iFxw&s=19
+- https://twitter.com/lenslans00000/status/1768941061815374050?t=JhRLiMeNxqIbLeOmbMnaRQ&s=19
+- https://twitter.com/T1kosewad78/status/1769010524598182354?t=JhRLiMeNxqIbLeOmbMnaRQ&s=19
+- https://vxtwitter.com/TeHappyHeartMan/status/1769103492117836018
+- https://vxtwitter.com/TeHappyHeartMan/status/1769103493824991404
+- https://vxtwitter.com/i/status/1766609482866401362
+- https://drive.google.com/drive/folders/1-4pPyq7AlUtQI0iO4hKUp1ScL2TqEHKh brightenight new file?
+- https://youtu.be/9y7KrcfuxAw?si=oRgd0ZIqK8SGIZ5h
+- https://youtu.be/RtTYQuO1j6w?si=6kPGb_3BDerujBuE
+- https://twitter.com/namw67/status/1768718301847240841/photo/1
+- dieseling ovarium. Sex until penis crash top ovarium wall
+- https://vxtwitter.com/FlirtyFawn696/status/1768680948965556451?t=myFMfmdoWu4951pwA20bGA&s=19
+- https://twitter.com/DiffityDooDah/status/1768604471876010248?t=pqcSaBp7S6j4r13uinrXFA&s=19
+- https://twitter.com/elonmusk/status/1768753421027291337?t=qlJOxl4ggA3RINoJ1tm6Zw&s=19
+- https://twitter.com/elonmusk/status/1768809794729542095?t=qlJOxl4ggA3RINoJ1tm6Zw&s=19
+- https://twitter.com/elonmusk/status/1768778186186195177?t=qlJOxl4ggA3RINoJ1tm6Zw&s=19
+- https://twitter.com/elonmusk/status/1769250940660363531?t=qlJOxl4ggA3RINoJ1tm6Zw&s=19
+- https://twitter.com/EndWokeness/status/1769245792831701070?t=qlJOxl4ggA3RINoJ1tm6Zw&s=19
+- https://twitter.com/elonmusk/status/1769222666437698026?t=qlJOxl4ggA3RINoJ1tm6Zw&s=19
+- https://twitter.com/elonmusk/status/1769197637440319718?t=qlJOxl4ggA3RINoJ1tm6Zw&s=19
+- https://youtu.be/lIlDhvMAwKk?si=VVL-HQhYSaLchzsc
+- https://www.tumblr.com/herzklappenfan/744912114452463616/my-athletic-girlfriends-heartbeat-falling-asleep?source=share no reblog
+- https://www.tumblr.com/iampresto/733442651058290688?source=share
+- https://www.tumblr.com/iampresto/712959234400239616/reblogging-and-signal-boosting-so-we-can-hopefully?source=share eroticheartfetish blocked me
+- https://itch.io/c/555675/overhide-cardiophile-heart-beating-content-lub-dub
+- https://www.tumblr.com/heart-2-get/744610990068465664/lying-back-on-my-bed-naked-breathless-my-heart?source=share
+- https://www.tumblr.com/heart-2-get/744891433872392192/next-person-who-starts-messaging-with-me-and-gets?source=share
+- https://www.tumblr.com/luvlyyhb/744649666330836992/my-very-fast-visible-heartbeat-beating-at-200bpm?source=share
+- https://www.tumblr.com/psyker-vitalsigns/744518715615379456/not-my-usual-spot?source=share thus
+- https://drive.google.com/file/d/1cy3yZnv4vHtf8AURKOGV6PoXdptE-b8-/view this
+- https://www.tumblr.com/lailalevander/744308072363819009/free-raffle-for-this-cutie-just-the-fact-we-hit?source=share
+- https://www.tumblr.com/snowheartsz/744224566778462208/was-anyone-gonna-tell-me-a-dating-sim-exists-on?source=share
+- https://www.tumblr.com/snowheartsz/744231887793520640/liveshare-2-of-the-day?source=share
+- https://www.tumblr.com/snowheartsz/744221310025187328/liveshare-1-of-the-day?source=share
+- https://www.tumblr.com/loveyourheartbabexx/189721482531/i-miss-the-feeling-of-when-your-lover-is-laying-on?source=share
+- https://www.tumblr.com/hartspot17/744073345159610368/i-miss-the-feeling-of-when-your-lover-is-laying-on?source=share hartspot17
+- pls https://cardioauthors.boards.net
+- https://www.tumblr.com/cardioboy508/743778880456884224/for-darknesshell22?source=share
+- https://www.tumblr.com/thumpingdemon/743906981831737345/how-much-more-do-i-have-to-mess-up-the-little-guy?source=share
+- https://www.tumblr.com/snowheartsz/743975864396611584/fuck-sex-these-bitches-need-a-deep-long-ass-hug?source=share
+- https://www.tumblr.com/snowheartsz/743982880597917696/liveshare-because-i-havent-done-it-in-forever?source=share
+- https://www.tumblr.com/ceruleanbeats/743613995626463232/join-the-ceruleanbeats-heartbeat-livestreams?source=share
+- https://discord.com/invite/aTCaJrPg gone
+- https://www.tumblr.com/stethoscopelover/743518458646495232?source=share
+- https://www.tumblr.com/heart-2-get/743361406631542784/self-care-is-lying-back-with-a-stethoscope?source=share
+- https://www.tumblr.com/lailalevander/745123285533065216/brightennightbrightenheartbrightning07-or-if?source=share against brightenight
+- https://fxtwitter.com/RolltheredDev/status/1769489918877663605
+- https://www.pixiv.net/en/artworks/116985492
+- https://discord.com/channels/1105744765074550804/1202864145020493884/1219022979963420735
+- https://pin.it/wN5bJBfJQ
+- https://pin.it/2CNQCLKxn
+- https://pin.it/3n7Ebjiao
+- https://pin.it/3x1mXYI8L
+- https://youtu.be/5lEG6WqQgTg?si=bVKPAxjisCtEaiE2
+- https://www.tumblr.com/strawberrygirldick/743065489311514624/this-is-fucking-adorable-i-could-explode?source=share
+- https://www.tumblr.com/songoku61/743665047658692608?source=share
+- https://www.tumblr.com/soft-but-spicy/744844942530232320/omg-i-saw-the-headline-that-uncle-acid-and-the?source=share dni found
+- https://www.tumblr.com/soft-but-spicy/736260832637419520/intro-post?source=share confirmed, very toxic
+- https://www.tumblr.com/sc360/716803891519422464/my-resus-cardiophile-kinks?source=share sc360 blocked me
+- https://www.tumblr.com/snowheartsz/744224566778462208/was-anyone-gonna-tell-me-a-dating-sim-exists-on?source=share
+- https://www.tumblr.com/thumpingdemon/745171870449631232/would-you-go-back-to-your-better-heart-health-from?source=share
+- https://twitter.com/bluefolf/status/1761192770998350270?t=oYvm7q-5MQzZyr35MOWhlQ&s=19
+- https://twitter.com/bluefolf/status/1769433595813220782?t=oYvm7q-5MQzZyr35MOWhlQ&s=19
+- https://www.tumblr.com/masked-cardiophile/745271390188568576/yo-im-masked-cardiophile-im-in-my-20s-im?source=share
+- https://www.tumblr.com/horny-heartbeats/742616731617509376/it-always-warms-my-heart-to-see-people-inspired-by?source=share why? That person??
+- https://discord.com/channels/519291740679569408/519409624068259847/1196117173786116226
+- https://www.tumblr.com/cardio-b/745240083561693185/soundgasm-is-the-best-they-have-tons-of?source=share of-roses again
+- https://soundgasm.net/u/hedonesheart/Heartbeat-002 here
+- https://www.tumblr.com/pleasantbananafireprune
+- https://pso2.com/lp/?gclid=CjwKCAjwzN-vBhAkEiwAYiO7oF7TDvw1p6rnBMV8DGnk9yNbGvuDSDNagCe1k98FnspduUmDfEF_gBoC7gcQAvD_BwE&utm_campaign=new&utm_medium=display&utm_source=google
+- https://www.patreon.com/posts/lucarios-edge-1-100617653
+- https://fxtwitter.com/artist_daimo/status/1769514054761283721
+- https://www.pixiv.net/en/users/1975182
+- https://twitter.com/Idolomantises/status/1769795907489259932?t=8DovGds_13YSoRj75yC8sw&s=19
+- https://twitter.com/ga673899/status/1770011421985865914?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/bbpnz213/status/1744886763355553826?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/juniperPolkadot/status/1756799928209138158?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/luminesmp4/status/1769848777974628844?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/chomplicated/status/1769851679166308732?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/starbrightfemme/status/1769458598382354672?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/FNF_Developers/status/1769801548576514421?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/FNF_Developers/status/1769801548576514421?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/MLSpence3D/status/1769785601757217088?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/80Level/status/1769568119763128634?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://twitter.com/Sykosan/status/1730192963697774841?t=qGjv6KX6CqxaNC0ramuBmw&s=19
+- https://www.twitch.tv/myheartbeatblog
+- https://vxtwitter.com/TeHappyHeartMan/status/1769778294776283533
+- https://www.pixiv.net/en/artworks/117056125
+- https://www.pixiv.net/en/artworks/100264989#manga
+- https://youtu.be/ybkm3gvWBm8?si=pUHUliSmZrMa-9k8
+- https://youtu.be/HhLcyDO4tuA?si=3qAo4VcOSkOI-yf6
+- https://youtube.com/shorts/CkkV7NtVRg4?si=QLrqwUVKk1ggwbyV
+- https://pin.it/3DK6saelK
+- https://pin.it/5LwXAbCXh
+- https://pin.it/2zWshHehv
+- https://pin.it/6GQWQECsc
+- https://youtube.com/watch?v=RC6wQ-75uQU
+- https://x.com/RealBlueVR/status/1737212127780229510?s=20
+- https://www.youtube.com/watch?v=w-E7kz9I0wk
+- https://youtu.be/AnpRrzoiaE0?si=CwWbgSq_N5YJM25k
+- https://www.youtube.com/live/pCNyMP5HbCA?si=sA_AOoZkXt_bBk02
+- https://youtu.be/zTKoo_pO1_U?si=eRDkUgVa_MZFPr_-
+- https://youtu.be/5OR-i579mMw?si=macIqH7HVWYFSeCN
+- https://www.tumblr.com/cardio-b/745414346002268160?source=share
+- https://www.tumblr.com/cardio-b/745256355297886208?source=share
+- https://www.tumblr.com/hbluver/737713545749397504?source=share
+- https://www.tumblr.com/hbluver/742949105811226624?source=share
+- https://www.tumblr.com/hbluver/728814672908779520?source=share
+- https://www.tumblr.com/bpdcreep22/745399181120880640/kokoro-in-vivzies-art-style-i-mean-i-tried?source=share
+- https://www.tumblr.com/fhell-0/744518340849123328/sleeping-heartbeat-7?source=share
+- https://youtu.be/YY93LrDwbms?si=LfsYeRdUkl4mlVbv
+- https://www.tumblr.com/omegazero87/742531750148849664?source=share
+- https://www.tumblr.com/omegazero87/742238105896189952?source=share
+- https://www.tumblr.com/omegazero87/741978897410932736?source=share hartspot17 blocked me
+- https://www.tumblr.com/feiro-kito/739126746207666176?source=share
+- https://www.tumblr.com/beschleuniger1?source=share alt found. Original blocked me
+- temp block! Unblock when remember
+- Block will remove follow. Attempt refollow asks unblock first in order to refollow
+- https://www.tumblr.com/cardio-b/745240083561693185/soundgasm-is-the-best-they-have-tons-of?source=share
+- https://www.tumblr.com/of-roses/742706385356292096/that-smut-holy-shit-no-pressure-but-ld-love?source=share
+- https://www.tumblr.com/of-roses/745238387173277696/soundgasmnet?source=share
+- https://www.tumblr.com/myfattythumper/745316534156722176/girls-come-chat-with-me?source=share no reblog
+- https://www.tumblr.com/cardioboy508/693762636003885056/my-favorite-female-heartbeat-blogs?source=share
+- https://www.tumblr.com/captredheart/676853903769370624?source=share
+- https://www.tumblr.com/kindapurvy/744853784840355840?source=share
+- https://www.tumblr.com/hello7hearts/745084113590091776?source=share
+- https://twitter.com/Octopimp/status/1770443211481489667?t=pjet25wuGI1JWp1YcXEZhg&s=19
+- https://twitter.com/RequiemCoffee/status/1770448820218036696?t=pjet25wuGI1JWp1YcXEZhg&s=19
+- https://twitter.com/Bluefrok/status/1770510672356380988?t=Uz_k1OBQSIH74IRNdQkotQ&s=19
+- https://twitter.com/elonmusk/status/1770232706657653071?t=Uz_k1OBQSIH74IRNdQkotQ&s=19
+- https://www.tumblr.com/rainyheartbeats/613367442621792256?source=share phantomheart17 blocked me
+- a
+- phallus king
+- https://youtu.be/aQVTIkvagFI?si=5Fg11kV-u2Oqx--t
+- https://youtu.be/zTkY_x-atgc?si=vg_oHpkfxnaFYNkb
+- https://youtu.be/CNXQaM3Lv2o?si=U1EGPhSWKC9zHFFs
+- https://youtube.com/shorts/MLLP98V8mr8?si=gLr2F2YOphOjGyA2
+- https://youtu.be/k8XrSeLBbGg?si=yaHq-wgRsByiilvi
+- https://youtu.be/Dsqpkr8epAk?si=SJcXes8c7yXT8Htp
+- https://youtu.be/HQliEKPg1Qk?si=MotSmrdhpfSOUCtY i like big boys
+- https://youtu.be/aWescj5y5xE?si=wdfI3Ribus3zCH3x
+- https://ahegames.itch.io/futanari-di-funghi
+- https://youtu.be/jboXDe2MwpQ?si=klE2ry5Ko6bmrGbg
+- https://youtu.be/gPBtWBSLPhs?si=gJTz_jdDGBVn83pn marmalade is missing
+- https://youtu.be/jZBRZlRBl88?si=WDPVZZVkM9DrtmbC
+- https://youtu.be/lWPhX58WpVc?si=ztwRiDnaBRDvETpi
+- https://youtu.be/NApYKhx5TD8?si=NHGT2-Ma0qoTE7nI
+- https://youtu.be/KAx712MqnlQ?si=LsJjdnx9YpfirVMO
+- https://youtu.be/2cWBIUkSrbk?si=t0irErDudeH7jExP
+- https://vxtwitter.com/TeHappyHeartMan/status/1770535966987436528
+- https://vxtwitter.com/TeHappyHeartMan/status/1770535968606470549
+- https://youtu.be/lQ4S0IYZxdg?si=txtvTb3fgV1DuR2N
+- https://vxtwitter.com/HChirmiaB/status/1770451941589672263
+- https://vxtwitter.com/mitisu_u/status/1770293290761585128
+- https://x.com/mitisu_u/status/1770293411305918848?s=20
+- https://vxtwitter.com/basaru_1106/status/1770283940756226164
+- https://vxtwitter.com/daipunchX/status/1769650207430721841
+- https://vxtwitter.com/okawari_meshi/status/1768993062146171265
+- https://vxtwitter.com/RA526T0/status/1769745934710411449
+- https://vcard.ameba.jp/authenticate?loginUrl=https%3A%2F%2Fauth.user.ameba.jp%2Fconnect%2Fauthorize%3Fscope%3Dopenid%2Bcoin%2Bprofile%2Bapplication%26response_type%3Dcode%26client_id%3D98e5b04d87dd022cf6979eec98d6b20b63e5851ac19c5140076b448d61d97426%26redirect_uri%3Dhttp%253A%252F%252Fvcard.ameba.jp%252Fas_renewal_login%253FredirectUrl%253Dhttp%253A%252F%252Fvcard.ameba.jp%252F%253F%26state%3DV2m6b8HZmM2%26nonce%3DhJKzOHh6GSxx%26code_challenge%3DHiZP8CHRHsjnNiAyajvOOwq1SJIfoen2g-RxDb5mw14%26code_challenge_method%3DS256%26prompt%3Dlogin
+- https://x.com/okawari_meshi/status/1769275365233664448?s=20
+- https://vxtwitter.com/RA526T0/status/1769745934710411449
+- https://youtu.be/c00svB6OcWI?si=0S2VMQpriPmGUBCM
+- https://www.pixiv.net/en/artworks/117090258
+- https://www.pixiv.net/en/artworks/116328770
+- https://twitter.com/elonmusk/status/1770565942168420750?t=h5j0cyzzkEf3q7PnudCO1A&s=19
+- u
+- https://twitter.com/8rano/status/1770469399247634476?t=h5j0cyzzkEf3q7PnudCO1A&s=19
+- https://twitter.com/fam_freeedon/status/1766214682677821645?t=h5j0cyzzkEf3q7PnudCO1A&s=19
+- https://www.tumblr.com/fraic123/691767736758648832/%E6%82%A8%E5%A5%BD%E6%83%B3%E9%97%AE%E4%B8%8B%E4%B9%8B%E5%89%8D%E5%B8%96%E5%AD%90%E7%9A%84qq%E7%BE%A4%E5%8F%B7%E6%90%9C%E7%B4%A2%E6%B2%A1%E6%9C%89%E7%BB%93%E6%9E%9C%E8%83%BD%E5%90%A6%E7%A7%81%E4%BF%A1%E6%96%B0%E7%9A%84qq%E7%BE%A4%E5%8F%B7%E6%89%8B%E9%87%8C%E6%9C%89%E5%BE%88%E5%A4%9A%E8%B5%84%E6%BA%90?source=share `564401049` qq
+- https://twitter.com/ReenubAD/status/1770998032848535564?t=CBcskrieXpwjBn7RfoBxPg&s=19
+- https://pin.it/1LIZIBMJW
+- https://pin.it/4sFBGIlnT
+- https://pin.it/1Krer9SWv
+- https://pin.it/2Ir9181zJ
+- https://www.furaffinity.net/view/55900848/
+- https://www.youtube.com/watch?v=k6ddglrR1J4
+- https://www.reddit.com/r/blender/comments/uk17il/toy_story_shitpost_made_in_blender/
+- https://packaged-media.redd.it/3cfuz2eh5yx81/pb/m2-res_480p.mp4?m=DASHPlaylist.mpd&v=1&e=1711040400&s=e3acc94e813f107348412bf2135ffd1d1497d829#t=0
+- https://twitter.com/_nahnah21/status/1770634317007327727
+- https://www.reddit.com/r/indiegames/s/ew0FIJls9o
+- https://www.reddit.com/r/Osana/s/2p8VfADJOD
+- https://www.reddit.com/r/4chan/s/HzgA4qjWhL
+- https://www.reddit.com/r/emulation/s/sMiOWpE6gj what suyu
+- https://git.suyu.dev/suyu/suyu
+- https://www.tumblr.com/prismgenixz70/744138559538233344?source=share
+- https://vxtwitter.com/HeartPulse445/status/1770910314118181037
+- https://x.com/fam_freeedon/status/1766214682677821645?s=20
+- https://vxtwitter.com/futayami_abn/status/1763975155976654887
+- https://vxtwitter.com/i/status/1770957138912764140
+- https://www.tumblr.com/blackpump/741792368691380224/panic-sets-intheres-no-hope?source=share
+- https://youtu.be/ZJTprRzc1es?si=CFVtq6nHbD6kjQ2S
+- https://youtu.be/fTfKOkLAxjU?si=LfTcMeS8czIrimNU
+- https://youtu.be/lmhIfntLRk0?si=hg-RgumKZo2Ml5pH how to change to swimsuit without getting naked
+- https://youtu.be/samaaAxf84w?si=yvJqzsu2NBl8OdnR
+- https://youtu.be/samaaAxf84w?si=yvJqzsu2NBl8OdnR
+- https://youtu.be/SW_ZIQjc-Ls?si=vLYEcRqQ_k2y__Dj
+- https://youtu.be/P4BHWDZUpXM?si=7t1NaE95Gt8OHzG9
+- https://e621.net/posts/4669980
+- https://youtu.be/AwVtCBxjgTw?si=LtnIINm5pplhp2A_
+- https://x.com/DiivesArt/status/1150836250301149184?s=20
+- https://x.com/DiivesArt/status/1150887291591811074?s=20
+- jggtggy
+- https://youtu.be/PKcJwBVLZ_o?si=Izpfr_6FutrdY7nw
+- https://youtu.be/PboVB9_KeCQ?si=TJUHGBe-Cvsi0FrF
+- https://youtu.be/iR3_MlPqu90?si=zoOcXHhPNDsxSsmg
+- https://youtu.be/qGoeoVHotxo?si=b00tUVgUHQxhrvr6
+- https://youtu.be/dRyn-yibXDU?si=UH0rmm2D84MYUZ7X
+- https://youtu.be/r2t7-Ld672E?si=r1qr1nDyGUq8Xu36
+- https://youtube.com/shorts/qu5RBWSkIMI?si=rcJbOWxtz1BCXtBB
+- https://youtube.com/shorts/EIPDFgxd0-o?si=ygDXvySoYfwy1_33
+- lemmino fact porn pls download
+- https://vxtwitter.com/RubberAnimation/status/1771926563036000339
+- https://twitter.com/FujikakeRin/status/1771817651506999466?t=roHGhgCDBQzol7Om9pL0xQ&s=19
+- https://twitter.com/GaijinGoombah/status/1771953168479400250?t=roHGhgCDBQzol7Om9pL0xQ&s=19
+- https://twitter.com/bluefolf/status/1771953591164514413?t=roHGhgCDBQzol7Om9pL0xQ&s=19
+- https://youtu.be/d-WsEhJa3-8?si=Qu1UIw7wbFnsKnvs
+- https://vxtwitter.com/HeartPulse445/status/1771833858700292370
+- https://x.com/dai__zu/status/1757546793603407931?s=20
+- https://www.tumblr.com/poundingprincess/745938004347125761/if-you-have-airpods-and-an-iphone-heres-how-to?source=share how to iPhone steth
+- https://www.tumblr.com/justanothercardiophile/729075806829150208/in-real-life-i-will-instantly-melt?source=share
+- https://www.tumblr.com/purity-in-heart/745879701390802944/heavy-breathing-loud-animalistic-moans-and-a?source=share
+- https://thfg.xyz/
+- https://www.tumblr.com/purity-in-heart/745855110588088321?source=share
+- https://youtu.be/hdW-XeoDzzA?si=gla1EkLhEMPP85lK
+- https://vxtwitter.com/Gemutagan/status/1772367861433905612
+- https://www.patreon.com/hentaudio
+- https://x.com/HentAudio?t=G8Bd1nb7v_UjnbMWGifq5Q&s=09
+- https://www.tumblr.com/kopee/745659406760476672?source=share
+- https://www.tumblr.com/kopee/745659201438744577?source=share
+- https://www.tumblr.com/kopee/745658491568537600?source=share
+- https://www.tumblr.com/lust-r-us/745707409007411200?source=share
+- https://www.fakku.net/hentai/usual-spot-ch2-english
+- https://www.tumblr.com/chromecaps2/745613125741641728?source=share
+- https://www.fakku.net/hentai/creamy-triumph-english
+- https://www.tumblr.com/magical-girl-heart/687180302372814848?source=share
+- https://www.tumblr.com/psyker-vitalsigns/745850915062415360/skippies?source=share skippies
+- https://drive.google.com/file/d/19ouFpriKJnaYurl0zB_TghMKfT0yJM9i/view here
+- https://www.tumblr.com/nabeatn/745852539011022848?source=share
+- https://youtu.be/FgxG6XLzTJs?si=Zd67r-ZFNBcyvBAz
+- https://youtube.com/shorts/BgN9HVGj8t4?si=qyH-WhiOEtPpAaLZ
+- https://www.tumblr.com/cherry-loverr/745406571903942656/heartbeat-while-smokingmp3?source=share heartbeat while smoking
+- https://drive.google.com/file/d/1PdMtHoQcSnVHjOXgcyt7MEIuYf2250rq/view
+- https://www.tumblr.com/cherry-loverr/745498234727890944/too-fastmp3?source=share
+- https://drive.google.com/file/d/1QCPO18lruqqiuNZuz5urAv9QVWOmDP0K/view
+- https://www.tumblr.com/heartbeat-eras/745785214441308160/so-i-made-me-a-stethmic?source=share
+- https://www.tumblr.com/cherry-loverr/744963287557554176/fast-heartmp3?source=share
+- https://drive.google.com/file/d/1ORurrp_y8TiuNg0PiBA_cpEDZZXYZ4Eb/view
+- https://www.tumblr.com/cherry-loverr/737879565677019136/im-just-sittingmp3?source=share
+- https://drive.google.com/file/d/10wDzD7RDbUGtEkpp66E8KQqdEFsfGnoI/view
+- https://www.tumblr.com/cherry-loverr/737812276838629376/squats1mp3?source=share
+- https://drive.google.com/file/d/10eYhbMeD9FfwKj1b0Ly-k3SFiaGo6Aqd/view
+- https://www.tumblr.com/cherry-loverr/737894866509578240/1mp3?source=share
+- https://drive.google.com/file/d/119gkUOxlM6mxoZNiYtXsdBLX_ILbG_lc/view
+- https://www.tumblr.com/cherry-loverr/742595869725048832/11mp3?source=share
+- https://drive.google.com/file/d/1HAW-CYffC8RadoBExIa0U3zJh0_fqMit/view
+- https://www.tumblr.com/nabeatn/742652106862936064?source=share
+- https://youtu.be/NAnv27IePuU?si=iQcnTBJb0lomc69b
+- https://youtu.be/pt7QhfEgj5o?si=shfvv7H6UMNUOnei
+- https://www.tumblr.com/3heartmind3/741527369554280448/mitral-before-sleepmp3?source=share
+- https://drive.google.com/file/d/1XigUSdcFAYo1rP_VqQzb3tqGWVXtv1M4/view
+- https://www.tumblr.com/sweetduckpeach/745797812132937728/did-a-little-bit-of-trolling?source=share para space
+- hazbin hotel
+- https://www.tumblr.com/3heartmind3/741413307037188096/irregular-heartmp3?source=share
+- https://drive.google.com/file/d/1X8iJGhlT0XmdtkcoGvGGV40PC3qKcGjK/view
+- https://www.tumblr.com/pleasure-beats/726456916928249856/i-want-to-make-more-content-that-appeals-to-my?source=share pleasure-beats blocked me
+- https://www.tumblr.com/thumpingdemon/737745314567585792/well-that-was-inevitable-so-here-it-is-happy?source=share no reblog
+- https://www.tumblr.com/tanekoheart/745812065404534784?source=share
+- https://drive.google.com/file/d/1QCPO18lruqqiuNZuz5urAv9QVWOmDP0K/view
+- https://www.tumblr.com/tanekoheart/745812025117114368?source=share
+- https://drive.google.com/file/d/1PdMtHoQcSnVHjOXgcyt7MEIuYf2250rq/view
+- https://www.tumblr.com/torture-steth-repeat/743776844835389440/real-time-hr-monitoring-link?source=share
+- https://pulsoid.net/widget/view/9aadf0ca-c94b-41a1-b29d-92b997393cec
+- https://www.tumblr.com/tanekoheart/745682165040398336?source=share
+- Sediron escape code when call Isolatip
+- Jaffer. Bible book that its spine written `JAFFER` with gold marker
+- location in Psalms 37:4. There is username written in bottom
+- https://www.tumblr.com/viktorheart/745765977292161024/made-a-png-of-this-use-as-free-will?source=share heart png
+- https://www.tumblr.com/cardio-b/745240083561693185/soundgasm-is-the-best-they-have-tons-of?source=share
+- https://www.tumblr.com/kardiakrazy/745241794097332224?source=share
+- https://www.tumblr.com/heartheels-fan/745877679684861952?source=share
+- fuck this shit I'm out song pls
+- https://www.tumblr.com/cardioboy508/744786975531401216/a-request-from-tangocardiaca-makoto-niijimas?source=share
+- http://patreon.com/CGPearl gone
+- https://www.tumblr.com/akradekra/734029535894487040?source=share cgpearl2 deactivated
+- https://www.tumblr.com/thumpingdemon/745911824268050432/little-innocent-young-heart-getting-overwhelmed?source=share
+- https://www.tumblr.com/mrcardioorange/745891223064150016/my-heart-during-joi-breathplay?source=share
+- https://www.dropbox.com/scl/fi/kpn1y42gqa78q7a7hdqp6/414de6b448a9a51bd48423c8062a706e1600677609-640-360-461-h264.mp4?rlkey=w9hegodyylvxpiy3zjmd2jruu&dl=0
+- https://www.tumblr.com/dmfo/745960442435944448/prep-for-late-night-gyno-i-love-illustrating?source=share
+- https://dmfo.gumroad.com/
+- https://www.tumblr.com/thumpingdemon/745934301227548672/my-heart-a-few-years-ago-racing-during-pleasure?source=share
+- https://pin.it/5thKyQPO5
+- https://pin.it/5CfCvkAcJ
+- https://pin.it/G4G2lOBBz
+- https://pin.it/6gH5QtCPk catty b
+- https://pin.it/2O8at01Yl
+- https://pin.it/4pXKRuIyM
+- https://pin.it/1Jf1pVQFb
+- https://pin.it/6NVXHp8ZU
+- https://pin.it/vakQ6Mo9G
+- https://pin.it/68Ag1J2ck
+- https://pin.it/6pmLMAcP9
+- https://pin.it/6u4F9RHSh
+- https://pin.it/7C0Tf5x1l
+- https://pin.it/75xjIKMBV
+- https://pin.it/OVWBU80tS
+- https://twitter.com/RequiemCoffee/status/1772050437845471682?t=AUQjQ9XY1tV0CZt2UB4q9Q&s=19
+- https://www.reddit.com/r/yuzu/comments/1bjf8f6/moderators_of_the_suyu_discord_are_incredibly/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1
+- https://www.reddit.com/r/HolUp/comments/1bng56b/what/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1
+- https://www.tumblr.com/joelwindows7/745940428129517568?source=share
+- https://support.microsoft.com/id-id/windows/penghentian-alat-diagnostik-dukungan-microsoft-msdt-dan-pemecah-masalah-msdt-0c5ac9a2-1600-4539-b9d0-069e71f9040a
+- https://boosty.to/mayosplash/posts/6544e150-bcf8-4208-aecb-ca40896b5747
+- https://linktr.ee/ilfraca
+- https://supercellcomic.com/
+- https://www.tumblr.com/dan13579/743743522053767169?source=share
+- https://www.tumblr.com/thumpingdemon/745550152793817088/although-i-remember-this-video-i-dont-remember?source=share
+- https://www.tumblr.com/myvisiblehb/118952923340/another-amazing-heart-in-action?source=share
+- https://www.youtube.com/live/5plwGs5_LS4?si=F9FE6KccF9ZOM1J5
+- https://youtu.be/NKzlDX9-G8Q?si=empZ1FDoq4MY1bRX
+- https://youtu.be/T98x5WPeB2Q?si=Bqz5Zo0sSOvmGc9t rebecca doodles
+- her mom died due to cancer
+- her dad just had hernia surgery
+- kids online still harrassing her for the past 3 years
+- https://www.youtube.com/live/6l5lNjdSNrw?si=uW5rmHGD874jn2Vm
+- https://www.tumblr.com/reunitedwreck/619602085038702592?source=share
+- https://onlyfans.com/athemis
+- https://www.tumblr.com/athemis-hb/745879983421014016/i-have-a-question-why-subscribe-to-my-onlyfans?source=share
+- https://www.tumblr.com/joelwindows7/177586680058/word-of-harmony-eg-insyaallah?source=share
+- https://www.tumblr.com/purity-in-heart/746022511114895360/i-dont-remember-if-youve-done-this-already-but?source=share
+- https://www.tumblr.com/purity-in-heart/745879183750791168/thats-an-incredibly-insensitive-thing-to-message?source=share
+- https://www.tumblr.com/joelwindows7/746027529776807936?source=share
+- https://www.tumblr.com/poundingprincess/742491446482960385/this-erotica-omfg?source=share
+- https://www.tumblr.com/takashisky/744845423894806528/hello-the-month-of-ramadan-is-here-im-a-muslim?source=share talashisky was doing fasting during ramadan
+- https://www.patreon.com/posts/lucarios-edge-2-101122861
+- https://www.reddit.com/r/okbuddytrailblazer/comments/18p03qu/buddies_what_does_silver_bunny_cute_and_funny_want/
+- https://youtube.com/shorts/L9Mvss--cPs?si=AKNSyIVhkW_5tlRW
+- https://youtube.com/shorts/L9Mvss--cPs?si=AKNSyIVhkW_5tlRW
+- https://youtube.com/shorts/U7sIiHm2kMA?si=8kZ3lNm3xduT4BYk
+- https://youtube.com/shorts/bsJkayQJefE?si=MDmV9jJIFtawTyOs
+- https://youtube.com/shorts/Fnq15TNBQE4?si=xJaZNCNftto1TBzG
+- https://www.pixiv.net/en/artworks/103497496#1
+- https://vxtwitter.com/futayami_abn/status/1772680261672603760
+- https://vxtwitter.com/TeHappyHeartMan/status/1772929606481297876?t=UR0N0Sbp27YCIzwZf_r0hg&s=19
+- https://www.deviantart.com/heartbeat808/art/Interactive-Bea-835036406
+- https://vxtwitter.com/i/status/1721534633400324320
+- https://youtu.be/btgOyDd5Kiw?si=DJ4m38nckazHksQ5
+- https://youtube.com/clip/Ugkx32aGRY3kU0-L7odsWsFkFVFxvwH5cxUf?si=a8cOjUDS494Kvcet
+- https://youtu.be/lq5039SFuyo?si=YDBQnZlYQSkgau0_
+- https://youtu.be/y4Qp6Mc8nLU?si=2wJFViEd6cjwxoc3 yume heart world
+- https://www.youtube.com/watch?v=57lDauqtpzc
+- https://davzeppelin.gumroad.com/l/lsnom/xklt0tn
+- https://t.me/Modelos3Dparatodos
+- https://www.reddit.com/r/WTF/s/Cz8CvbWkF8
+- https://www.reddit.com/r/PngTuber/s/IjIN2ynYjy
+- https://pin.it/6iH6HhHfh
+- https://pin.it/4DfX2TXX0
+- https://pin.it/1Bui4i31T
+- https://pin.it/HAgtDZtPs
+- https://pin.it/6N50wQ7O7 cardio anatomy
+- https://pin.it/3RtgtV3PT
+- https://anatomy.app
+- if you asked are you associate, say no.
+- we agree associate this question means LGBT associates, and they are worse than non-associate LGBTs.
+- copy that.
+- https://twitter.com/peN_Ueq0/status/1773012073062023355?t=cF4wM_vX4f_h_4SWbXXQVw&s=19
+- impossible of vision shader. Pulse eva blindness camera shader.
+- https://steamcommunity.com/app/1255980/discussions/0/3133918821798261994/
+- https://twitter.com/ReenubAD/status/1773349979597217855?t=Iwv0cMtHdZHkUWtjr9xHJg&s=19
+- https://www.youtube.com/@angethegreat
+- https://www.tumblr.com/herzklappenfan/744912114452463616/my-athletic-girlfriends-heartbeat-falling-asleep?source=share no reblog
+- https://twitter.com/jonathanchimney/status/1770426355026694585
+- idea. Create fake DNI as decoy to confuse DNIers themselves
+- https://www.tumblr.com/madamoisellekokoro/744342835020677121?source=share
+- https://www.tumblr.com/madamoisellekokoro/717763878693535744?source=share
+- https://thesketchfox.tumblr.com/?source=share account is suspect
+- https://www.twitch.tv/videos/1780573175 gone
+- https://www.tumblr.com/corazonlobo/713329714723487744/sleeping-heartbeat-asmr?source=share
+- https://www.tumblr.com/jonsheart/664630074201538560?source=share ccherrygummy blocked me
+- https://www.tumblr.com/jonsheart/663997133413892096?source=share
+- https://youtu.be/bKE0SOCRVrs?si=8k18zE2uaX4sfETR
+- https://youtu.be/5p4s4k3eB_I?si=BALMa9NPuxGdJANT
+- https://youtu.be/cNrocBvCShI?si=Tm7lFldwMsKi1k0K
+- https://www.gamergeeks.net/apps/minecraft/banner-maker#mcb=a5hhb14ls5rs5ms6cre15cbo5
+- jetstream browser benchmark
+- https://youtube.com/shorts/v2uO4Cph9NI?si=SqSsRcywaIzQQ8yo
+- https://www.tumblr.com/heartsfur/745863410526404608?source=share magnamancardio blocked me
+- https://www.tumblr.com/heartsfur/745561279699271680?source=share qmechanics91 blocked me
+- https://twitter.com/Pong_Do_63/status/1773568268617347238?t=tFd2HYcb7yoR4r61Anb8aA&s=19
+- https://twitter.com/Pong_Do_63/status/1773568268617347238?t=MPvcoytI4kDk05A3KcoxqA&s=19
+- https://twitter.com/elonmusk/status/1773477116979646691?t=MPvcoytI4kDk05A3KcoxqA&s=19
+- https://twitter.com/bluefolf/status/1773409959415292381?t=MPvcoytI4kDk05A3KcoxqA&s=19
+- https://twitter.com/bluefolf/status/1773036778359820305?t=MPvcoytI4kDk05A3KcoxqA&s=19
+- https://www.tumblr.com/heartsfur/744327086525857792?source=share
+- https://www.tumblr.com/heartsfur/743843644023422976?source=share
+- https://youtu.be/W6RNBOcwZqc?si=XwCL0i1awrQMIHQ7
+- https://www.tumblr.com/herzklappenfan/746276839818952704/gf-heartbeat?source=share no reblog
+- https://www.tumblr.com/mytemporaryheartbeat/728419933216751616/horny-heartbeats-what-an-interesting?source=share horny-heartbeats blocked me
+- https://m.youtube.com/watch?feature=shared&v=bJ92wqyP-H4
+- https://www.tumblr.com/poundingprincess/746317069489963008/am-i-the-only-one-who-was-obsessed-with-this-game?source=share metero love wii carnival game
+- https://youtu.be/DW8rg6XeP3U?si=Zr-0OdZGHSk69MXM
+- https://twitter.com/yuuyuu1771/status/1571620079694974977/photo/1
+- https://youtube.com/shorts/GOl8Wbvn52g?si=jYuvUQO4OpElCN5O
+- https://youtube.com/shorts/trhpy2OAwt8?si=0hb3Q3le18jcstRM
+- https://youtube.com/shorts/DC6-qdItKyE?si=4kJXGKHIXK_ZO_2L
+- a
+- https://thisvid.com/videos/heart-extraction/
+- https://mega.nz/file/dGdyXSZJ#FREQ_bTsSu5Q9n1UbUK2-tur27AgEE_lp1WdYb1Cloo
+- https://thisvid.com/members/5545627/ stolen? Or it's them?
+- https://www.youtube.com/watch?v=NVczDQtMi_k
+- https://vxtwitter.com/HeartAnime6667/status/1773617669033300018
+- https://danbooru.donmai.us/posts/5639391?q=kawai_yade
+- https://twitter.com/kawai_yade/status/1564259298485882880
+- https://www.pixiv.net/artworks/115926882
+- https://vxtwitter.com/Reenubheart/status/1768758251108372560?t=aE6nTSn527kwBgJqN_TcfQ&s=19
+- https://x.com/Reenubheart/status/1772461542266556593?s=20
+- https://x.com/Reenubheart/status/1770502712918184121?s=20
+- https://fxtwitter.com/ReenubAD/status/1773349979597217855?t=Iwv0cMtHdZHkUWtjr9xHJg&s=19
+- https://x.com/ReenubAD/status/1773349979597217855?s=20
+- https://twitter.com/nume_darksoul/status/1762459204605095985
+- https://www.tumblr.com/joelwindows7/746298965346156544/jantung-virtual?source=share
+- https://www.tumblr.com/joelwindows7/746355296028508161?source=share
+- https://vxtwitter.com/washiya0/status/1773801921893294363?s=20
+- https://x.com/washiya0/status/1773801921893294363?s=20
+- https://www.tumblr.com/beschleuniger1/746383858526814208/stethingdave-her-arotic?source=share irony unblocked on alt beschleuniger1. Keep watching
+- https://pin.it/3mDSfkAK3
+- https://pin.it/6NSnkTSdU
+- https://x.com/BananaBedside/status/1672470196311969792?s=20
+- https://www.tumblr.com/maddieheart/744260706765012992?source=share
+- https://www.tumblr.com/smiggles/743548222825431040/ko-fi-to-download?source=share free emote
+- https://ko-fi.com/s/55396ab9d2 yey smiggles
+- https://ko-fi.com/A254FAY/shop moar!
+- https://ko-fi.com/smiggles/shop
+- https://www.tumblr.com/smiggles/742354806572728320?source=share no reblog
+- https://www.tumblr.com/snowheartsz/738642444176998400/yall-should-watch-bryce-by-brandon-rogers-on?source=share
+- https://youtu.be/MXSFvB0djXM?si=510v5BXt20wRkYIc bryce ep1
+- https://youtu.be/Cup-nWx1oBY?si=4n1Ygp4D9v419aNl
+- https://www.youtube.com/live/hnSUwIwOMAY?si=x0YwlL8O60P5HT8O
+- https://www.tumblr.com/thumpingdemon/738195210860953600/my-weird-sounding-heartbeat-from-last-week-laying?source=share
+- https://www.tumblr.com/joelwindows7/746374408721121280/random-cardiovascular-anatomy?source=share
+- CPR hornied. Family guy cutaway
+- a woman.
+- has curse. Breast exposed, everyone see these gone horny severely.
+- woman heart attack. Neighbour call 911.
+- rescue arrive. Attempt rescue. Prepare CPR kit. Unfortunately no chest pumper
+- cut open chest. Compression. The doctor tried to concentrate. Gone horny instead.
+- HEY! Keep your mind together!
+- sorry man.
+- try again, close eye. Can't, still horny. The curse is radiating.
+- change doc. Also horny. Wtf?!?!
+- reset, defib! Again.
+- different doc
+- all doc fail compression.
+- death. Brain damaged due to no oxygen delivered more than 10 minutes
+- https://youtu.be/qhL1s9kd1Fo?si=-0Vxr82XzBdU4MTt
+- https://youtu.be/5EkgnwBTN4I?si=Wnwix3RDtazmdv_u
+- https://drive.google.com/file/d/1d31sUo39e6VlxWIaiq-7Y4JyaJ2GXB5O/view mr fart asked who made this
+- https://discord.com/channels/519291740679569408/519409738081894411/1223634293478133760
+- https://skfb.ly/osAnP
+- https://youtu.be/3pYGHiq5Dk8?si=q_G42EGbNootfRUi
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1508902554
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2899424211
+- https://skfb.ly/osLOV no download
+- https://youtu.be/erLbbextvlY?si=M4wUT-UEq9pG7pmv
+- https://youtu.be/QHm5VLatZtA?si=skdR40JVSanQNhA0
+- https://www.friendlyelec.com/
+- https://youtube.com/shorts/ElQRsaZeFhY?si=ZfpE6I0CnLO2aey9
+- https://www.tumblr.com/dni-archive/746398473901981696?source=share no reblog
+- https://twitter.com/nume_darksoul/status/1773968970993086553?t=sYZxHHHvdCR9BDugpoYLwg&s=19
+- https://twitter.com/Cardioid_sinon/status/1576570943547113474?t=sYZxHHHvdCR9BDugpoYLwg&s=19
+- https://twitter.com/nume_darksoul/status/1772662952539136385?t=sYZxHHHvdCR9BDugpoYLwg&s=19
+- https://x.com/cutenellhb?t=sYZxHHHvdCR9BDugpoYLwg&s=09
+- https://www.pixiv.net/en/artworks/105243137
+- https://twitter.com/ayamehtbt/status/1773662085357965493?t=5iYNDNkPnO5FEbfsqXVMtQ&s=19 pls download
+- https://twitter.com/nume_darksoul/status/1770774975810527495?t=5iYNDNkPnO5FEbfsqXVMtQ&s=19
+- https://youtube.com/shorts/-42ptGIqbfg?si=q5QojP1dz2SaIw6r
+- https://www.patreon.com/posts/101379766
+- https://vxtwitter.com/RubberAnimation/status/1773640578418221447
+- https://vxtwitter.com/RubberAnimation/status/1773420188865577054
+- https://www.tumblr.com/joelwindows7/746447159781654528?source=share
+- https://www.tumblr.com/sweetduckpeach/746116689013407744/i-have-a-question-someone-stole-my-boots-and?source=share sweetduckpeach boots really stolen.
+- https://www.tumblr.com/runscold-runsdeep/725859615522308096/important-readabout-me?source=share toxic
+- https://youtu.be/1mVBDcmKCvM?si=TU2iZL3RM2F0e9uQ
+- https://youtu.be/r2CaZHhjG-E?si=sIBrwSt-Yc4S6pDL
+- https://danbooru.donmai.us/posts/6840936
+- https://www.pixiv.net/artworks/113103417 gone
+- https://www.tumblr.com/tangocardiaca/746486341498486784/hot-woman-in-sports-bra-and-pants-undergoes-ekg?source=share
+- https://twitter.com/kamitosayu/status/1774437259753992194?t=5zviPSvVlw0gNilGg8Y9Dg&s=19
+- https://twitter.com/elonmusk/status/1774234110128468337?t=5zviPSvVlw0gNilGg8Y9Dg&s=19
+- https://twitter.com/futayami_abn/status/1774487911637066088?t=5zviPSvVlw0gNilGg8Y9Dg&s=19
+- https://twitter.com/Hoseki28/status/1774496783760232592?t=5zviPSvVlw0gNilGg8Y9Dg&s=19
+- https://twitter.com/_CASTSTATION/status/1774470427840311550?t=5zviPSvVlw0gNilGg8Y9Dg&s=19
+- https://twitter.com/HeartPulse445/status/1774538145289130070?t=5zviPSvVlw0gNilGg8Y9Dg&s=19
+- https://store.steampowered.com/app/2750000/Microtopia/
+- https://youtu.be/VAp2EyQDRWk?si=Fosq15krnDqsD6yW
+- https://youtu.be/STaZx5L_8to?si=7CVaodeziZZrb2t3
+- https://youtu.be/AUjqFrDBXEg?si=_0UTITaE4iLRIsjq
+- https://youtu.be/57z7ccIMfh0?si=-wluyuJUf4nfUmFl
+- https://pin.it/5viWbFFOO
+- https://pin.it/1FCYd44Mn
+- https://pin.it/5ZJjmeLya
+- https://pin.it/5tvxdXTSf
+- https://youtu.be/3JuSp8tk5gs?si=I5bx2CE5dWc3N4Ci
+- https://youtube.com/shorts/j5QRNoHoqj4?si=GuUrr3rb_rdu_Uc2
+- https://youtu.be/lZfr5S-0SmE?si=mXNdng8rJ14mP-vN
+- https://www.deviantart.com/heartbeat808/art/Interactive-Bea-835036406 gone
+- https://vxtwitter.com/i/status/1774613594442785083
+- https://odysee.com/@JOELwindows7:a/octavia_gurukuTersayang_S-YXG2006LE_SC55disp:5
+- https://twitter.com/HeartPulse445/status/1774556467346964949?t=qLjEkEuH9uJy0vzBazNMBg&s=19
+- https://youtube.com/@JayBmusic?si=z2j-ZUyTtK20tDcs
+- https://vxtwitter.com/erricasart/status/1774491397069885575?t=9_5jfqqUL4dpYrFn57JPZQ&s=19
+- https://www.tumblr.com/badumpk/742273704151678976?source=share
+- https://twitter.com/koromotake/status/1754017445449486672?t=5REvLcaq8y8cV0MXeVmweg&s=19
+- https://www.tumblr.com/kopee/746580435794116608?source=share
+- https://derpibooru.org/images/2614037?q=i+see
+- https://derpibooru.org/images/2614037?q=i+see
+- https://www.tumblr.com/cprdiv/745892167733657600/nice-self-cpr-from-a-teen?source=share likely false
+- https://www.tumblr.com/tagged/boop?referring_blog=joelwindows7&source=friend_cta&source=share
+- https://www.tumblr.com/kirkjerk/746467828752875520/the-kirk-fifty?source=share
+- https://kirk.is
+- https://x.com/snafu_1313/status/1774780518200230243?s=46
+- https://www.pixiv.net/en/artworks/117414497
+- https://www.pixiv.net/en/artworks/117090382
+- https://twitter.com/Look4_osagashi/status/1774357507361960427
+- https://vxtwitter.com/HeartPulse445/status/1774750594466521440
+- https://www.deviantart.com/dreameclipsewolf/art/Weiss-nude-990477332
+- https://www.tumblr.com/joelwindows7/746587427589734400?source=share meilas blocked me
+- https://www.tumblr.com/joelwindows7/746630134535225344/last-but-not-the-least?source=share
+- https://www.tumblr.com/joelwindows7/746631008696385536/wish-it-permanent?source=share
+- https://youtu.be/KGGB5LFEejg?si=Ohd4lfZ7K-jWTmXU
+- https://www.ddinstagram.com/reel/C4E108JSmzE/?igsh=MWVhMGIydjdpaGZrdw==
+- https://twitter.com/ReenubAD/status/1775179700262060393?t=oQ5840id5d1VYXO6_ZSTZg&s=19
+- https://youtu.be/a3X604WY9_Y?si=cWWL1bDopEcTesU_
+- https://youtu.be/xPXddVS0x4E?si=l__24hMrQrQMYNWB
+- https://twitter.com/ngsk0211_1810/status/1600069592147107840?t=-im86ZS1E0Tica-o3JE5XQ&s=19
+- https://twitter.com/ranthath/status/1600473015325585408?t=-im86ZS1E0Tica-o3JE5XQ&s=19
+- https://www.pixiv.net/en/artworks/113371288
+- https://www.pixiv.net/en/artworks/63611042
+- https://github.com/ltgcgo/midi-demo-data
+- https://www.youtube.com/watch?v=BbCQECn5Vic
+- https://www.youtube.com/watch?v=lBFmA_D4yrY
+- https://www.youtube.com/watch?v=-BhpNu0JxbQ
+- https://www.youtube.com/watch?v=P9oR59K5iY8
+- https://www.youtube.com/watch?v=50Ura_ZcSvY
+- https://www.youtube.com/watch?v=bS9em7Bg0iU
+- https://www.youtube.com/shorts/gJvl186VxUg
+- https://www.youtube.com/watch?v=Mf-18Ew8ZPk
+- https://www.youtube.com/watch?v=Ia1dvQz-tU4
+- https://youtu.be/MQFsTd5lJko?si=weXEDT8gOkuejGct
+- https://www.youtube.com/watch?v=SC3TVvtuNqs
+- https://youtu.be/29p8FvT_puU?si=c7qvLt7VXsm2KpIw
+- https://www.pixiv.net/en/artworks/117455525
+- https://twitter.com/Ishiroroy/status/1775206468998119599?t=Km3wKa3v_J21L8hdh6zDfg&s=19
+- https://www.tumblr.com/no-i-mean-uh-yes/746074243695067136/id-felt-my-heart-pausing-and-thudding-a-bit-more?source=share no reblog
+- https://www.tumblr.com/demonic--heart/722302262648750080/ohhhhh-fucking-dear-satan-i-could-use-this?source=share
+- https://youtu.be/4BF9nEkimjk?si=hWfZARgbGlhN4RL6
+- https://youtu.be/KXJwJBZjDIg?si=LP9BFInL9mdQ2SHC
+- https://youtu.be/WTLtilKbGxQ?si=85nTpUd5GSHkhuHm
+- https://youtu.be/2I7i3yuMzqQ?si=4TqP0IqvF8UcaVAj
+- https://www.tumblr.com/poundingprincess/746317069489963008/am-i-the-only-one-who-was-obsessed-with-this-game?source=share 42:37
+- https://youtu.be/bJ92wqyP-H4?si=z29KNJWG2sD8K2SY here 42:37
+- https://youtu.be/FCi0T7O3QkQ?si=GmdJa_5hUI0brLCT
+- https://youtu.be/3_-ULRdYLb8?si=pSOWO_rfxaKCk6im
+- https://youtu.be/9sw3vKk8ekU?si=70hlXvPmYoGnkJtb
+- https://youtube.com/shorts/_kP8z2yP13c?si=N2N-9SXZ6ezntj7X
+- https://youtube.com/shorts/_kXQgRLLqSs?si=EE92Pk4fTMEYub73
+- https://youtube.com/shorts/3BjuXvSsB8A?si=DvsAzMLJRWZ2JedE
+- https://youtube.com/shorts/KvtbS50NhzI?si=ke7gDsAq8aswmz7Q
+- https://youtube.com/shorts/gUFZekoF0pY?si=1BuO0u_CqdrsUejF
+- 3rd person aiming but then there is sub display of actual scope cam. No more predictoid. Just its scope. Expand and shrink transition tween.
+- https://youtube.com/shorts/dch605KuTqc?si=FYpqZAEeuNX2yL3k
+- https://youtube.com/shorts/EPlmxbalt7Q?si=fn_F0RMuW1h9phom
+- https://youtube.com/shorts/fPplyKmpdlY?si=rjIGFeBVS_kPxKq9
+- nikke
+- guardian tales
+- https://youtube.com/shorts/U6xoYzN3vmw?si=Ha3xuhNVntlEHhvh
+- https://youtube.com/shorts/76D9yThUf-g?si=LhmFveRpzeed2CsS
+- https://youtube.com/shorts/71v6dv7XogQ?si=w7jBbF0pKy8popX0
+- https://youtube.com/shorts/qJn_GIl7S98?si=F_w_eNpFH3CNvRe2
+- https://youtube.com/shorts/lrlT41mMB0A?si=tuqHs7ULIG01xNv6
+- https://youtube.com/shorts/FOuerwYfZ0c?si=P89ewkYl9ggM90kr
+- https://youtube.com/shorts/Ld7-EiRy1SY?si=Wl7VREkT2Qg6mTqK
+- https://youtube.com/shorts/C9qUz3XySGM?si=xppU-cfY47Xzoyz9
+- https://youtube.com/shorts/21zie9PYS1E?si=85kh4AKQ1ipHhyqY
+- https://youtube.com/shorts/e2GbfU0op0s?si=13U18OjoYxKbEG-n
+- https://youtube.com/shorts/VCcf3d1ufR4?si=y3Mg-HEkuT-Wz6rO
+- https://youtube.com/shorts/6So3hkhEXK4?si=_kndIP1qSAkvsZhc
+- https://youtube.com/shorts/-gqsjtCq9so?si=0TysINwwKGL8-q6E
+- https://youtube.com/shorts/1dkjpDMljlc?si=5JdLWoOYoX1f5Jds
+- https://x.com/Gygislover4321/status/1774670241529729336?s=20
+- https://x.com/MuffinTheDemon/status/1774625364980945010?s=20
+- https://twitter.com/TuxedoPato/status/1757045779527573530?t=CGavbheyUGJYU80F23gvIg&s=19
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2988072562
+- https://www.deviantart.com/diamondnella/art/TF2-Dispenser-Woman-Despoina-964779003
+- https://twitter.com/fizzywattr/status/1297723301985316869?t=JEi4BxaP-MweVC1EFoM8WA&s=19
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2970467179
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2975276574
+- https://youtu.be/viFdpqlF__A?si=0Q5G9u6UyqHXvFec
+- https://www.tumblr.com/just-listening-in/746761424254255104/i-posted-my-heartbeat-for-the-first-time-in-a?source=share that was the toxic person again?
+- https://discord.com/invite/ENYktsCR expired
+- https://thisvid.com/videos/visible-chest-heart-pulse-simulation/
+- https://thisvid.com/videos/heartbeat-visible-while-pinned-to-the-floor/
+- https://vxtwitter.com/i/status/1775190624515321857
+- https://thisvid.com/videos/female-heartbeat-kiss-animation/
+- https://www.instagram.com/p/C5RTIeuNhAA/?igsh=MWhkbTJ3MW9mYm13bQ==
+- https://vxtwitter.com/NAMIORII/status/1775478852086808589
+- https://twitter.com/Daran_9/status/1775441384847327697?t=qyAddZEEjXNziCdCjMg7XQ&s=19
+- https://twitter.com/LAPUTAPANCHIKO/status/1775537036033737163?t=qyAddZEEjXNziCdCjMg7XQ&s=19
+- https://twitter.com/LAPUTAPANCHIKO/status/1775547060583903338?t=qyAddZEEjXNziCdCjMg7XQ&s=19
+- https://twitter.com/MarioEmblem_2/status/1775241417905897695?t=qyAddZEEjXNziCdCjMg7XQ&s=19
+- https://twitter.com/ourokronii/status/1775556316540584008?t=qyAddZEEjXNziCdCjMg7XQ&s=19
+- https://twitter.com/moricalliope/status/1775553350924435966?t=qyAddZEEjXNziCdCjMg7XQ&s=19
+- https://www.youtube.com/live/sdzbH7LX80w?si=t_2-18LfjvPxgYdp
+- https://youtu.be/-1ZiQriZ5O0?si=E_oVe6gpASUHaCB2
+- https://www.youtube.com/watch?v=HculTLYr4c0
+- https://www.youtube.com/watch?v=3uqi4PrZWOU
+- https://www.youtube.com/watch?v=WqzApRm0nis
+- https://www.youtube.com/watch?v=qj1trq5sRsc
+- https://www.youtube.com/watch?v=0pT-dWpmwhA
+- https://www.youtube.com/shorts/kg-jjsxtJN4
+- https://www.youtube.com/watch?v=t1aLSfbciBA
+- https://youtu.be/3uqi4PrZWOU?si=oK7vz3EhIgrGfJfB
+- https://www.youtube.com/shorts/qdImKegpIR8
+- https://www.youtube.com/shorts/p1eHrzWhJpQ
+- https://www.youtube.com/watch?v=MkxgDkH1rto
+- https://www.youtube.com/watch?v=0tc1k3L3TGA
+- https://www.tumblr.com/joelwindows7/746413447578845184/squeakitties-tammy-outfit-wombo-combo-thank?source=share squeakitties blocked me
+- depression myself. She was one of the greatest shiny latex girl.
+- we check with alt. Replies now gone limited
+- https://www.tumblr.com/guooey/745263196527624193
+- https://www.tumblr.com/ampervadasz/715567749031657472
+- https://store.steampowered.com/app/2828720/Crypt_of_the_NecroDancer_Hatsune_Miku_Character_DLC/
+- https://www.tumblr.com/dyrdeer/746756409544359936/dragon-priestess-commission-for-magsthe3rd-on
+- https://www.tumblr.com/roastbasilisk/746674522487504896?source=share
+- https://www.tumblr.com/robosylveon/746689773544013824?source=share
+- https://www.tumblr.com/pochowek/167558466562/pochowek-soggy-vine-5?source=share
+- https://www.tumblr.com/bun0nthemoon/746525696045760512?source=share
+- https://www.tumblr.com/ionosphere-relay/746827884550815744?source=share
+- https://www.tumblr.com/yourneighbortoasty/678832729200230400/yourneighbortoasty-objects-are-just-like-you-and?source=share
+- https://www.tumblr.com/stevethehairington/745716878918533120?source=share
+- https://www.tumblr.com/goqmir/746676753467146240?source=share
+- https://www.tumblr.com/squeakitties/743901843439108096?source=share
+- https://www.tumblr.com/peoplegettingreallymadatghosts/745740431153889280?source=share
+- https://www.tumblr.com/dogtoling/715760412758507521?source=share
+- https://www.tumblr.com/squeakitties/746786184506802176?source=share
+- https://www.tumblr.com/squeakitties/746783395033595904?source=share
+- https://www.tumblr.com/squeakitties/746781317959663616/comm-for-moonhowl-shadowsun?source=share
+- https://www.tumblr.com/squeakitties/746781079151755264/getting-paid-to-draw-more-slime-mousegirl-pussy?source=share
+- https://www.tumblr.com/squeakitties/746777460425850880?source=share
+- was she already like this before?
+- that mean she is just toxic anyways?
+- https://www.tumblr.com/doggirlpaws/745868770887827456?source=share
+- https://www.tumblr.com/squeakitties/745674490178093056?source=share
+- https://www.tumblr.com/knightofleo/746581386091167744?source=share
+- `https://discord.com/channels/514159212658556929/521088800215269388/1225540772003188746`
+- https://www.tumblr.com/squeakitties/746753705100083200/the-grinning-smiler?source=share no sir. That's he
+- he is toxic.
+- violate all patents now!
+- https://youtu.be/UHmFbT8DPX8?si=mjEBY2l1nq7Hju9w
+- https://github.com/ltgcgo/octavia/issues/42#issuecomment-2037930802
+- https://youtu.be/rF9NLfraCE4
+- https://github.com/nukeykt/Nuked-SC55
+- https://youtu.be/DUEkcFTuldg
+- https://youtu.be/efiO5UMd5rU?si=x7OvRtB0v7-RzclX
+- https://youtu.be/efiO5UMd5rU?si=5osDUrSFyNnSOzVB
+- https://youtube.com/shorts/EJ2RIAq4hHE?si=ykGyzY43IFvJocNu
+- https://youtube.com/shorts/a3y-LsWsLo4?si=ZmlOkDY1GVRN2dc-
+- https://youtube.com/shorts/IwF8v7dcRQg?si=38BlUU1fywhOCgkR
+- https://youtube.com/shorts/dfvdBKKb5KQ?si=0rcIiLN-XOyJJR3p
+- https://youtu.be/BI-Dv1K4NFc?si=9bOKU6F1Yl0nxw48
+- https://youtu.be/6lPQOo9qI8Y?si=Xj6fgs3B2D4ijlhX
+- https://youtu.be/XYzwbDye0H0?si=USh42F7nKP1ynTeP
+- https://youtube.com/shorts/FVfwe8wnyAE?si=EqejHhd0YW_W7E_2
+- https://youtube.com/shorts/IB3JpqYmUtc?si=bvz8dG3PW5uEfIJR
+- https://youtube.com/shorts/EktrFeKV7K0?si=NUW8DDwi9ed2eSnz
+- https://youtu.be/QafC08OlByI?si=x45ifNk-TyZYsrJJ
+- https://youtu.be/Eivsb-4Kw1U?si=cHLCEXhpo_hX-N8Z
+- https://youtu.be/rtf--7GFhyk?si=kk-ER5c1yVAGnOSL
+- https://youtube.com/shorts/dROUAI-1eUY?si=0rXiRDEroOP7rKtv
+- https://youtube.com/shorts/Tzj6IcHZT4w?si=Sl73OY1sCOzpXVT7
+- https://youtu.be/rzBdPr9Cbh8?si=vAqqAg8yxBhmb_2V
+- https://youtu.be/o61bMtJREMA?si=8MMXp-LG-HCaboak
+- https://youtu.be/NxzMAYckaV4?si=qOulufQqI7rk7u49
+- https://youtu.be/tlAc3HJrgQA?si=xR-9fovJU69EqVlx
+- https://www.tumblr.com/axolotlsupremacy-27/723477505725661184/haiii-v?source=share toxic
+- https://www.tumblr.com/purity-in-heart/738815992357158913/dee-bianca-hospital-erotic-4-obsessed-by-her?source=share
+- https://www.tumblr.com/of-roses/746507783486259200/soundgasmnet?source=share
+- https://soundgasm.net/u/hedonesheart/Cowgirl
+- https://www.tumblr.com/heart-2-get/746322415132491776?source=share
+- https://www.tumblr.com/snowheartsz/746241335171923968?source=share
+- https://www.pixiv.net/en/artworks/117540806
+- https://www.tumblr.com/chris19932/743589872994058240?source=share no reblog
+- https://www.tumblr.com/svcredveins/746429378808971264?source=share
+- https://www.tumblr.com/flutteringbeats/683748255056756736/ask-me-anything-cardiophilia-version?source=share
+- https://www.tumblr.com/joelwindows7/741313820310601728?source=share banned
+- they don't like that I download stuffs. And that's where it ends.
+- heart haven
+- https://www.tumblr.com/theheartofnexinity?source=share was in discussion. Blocked me then for download.
+- https://www.tumblr.com/joelwindows7/746061358279327744?source=share hb14 blocked me. Often shares in heart haven
+- https://www.tumblr.com/hello7hearts/746556985730826240/new-link-httpsdiscordgga6gxyjauaw?source=share New link: 
+- https://discord.gg/A6GxYJauAw 
+- i
+- https://www.tumblr.com/whythankyoukindly/740783264786235392/male-straight-in-the-uk-new-to-tumblr-i-have?source=share
+- https://www.tumblr.com/djag2007/694283366512656384/about-me?source=share
+- https://www.tumblr.com/teachingstethoscope/745472311300390912/heart-auscultation-and-murmurs?source=share
+- https://ptreviewer.com/heart-auscultation-and-murmur/
+- https://www.tumblr.com/h3artb3at-l0ver/734539149557874688/me-too-omg?source=share
+- https://www.tumblr.com/cherryheartsx/746435783489175552?source=share coquette-heartbeat blocked me. Probably also download drama
+- misinformation warning! Admin may have exagerated into hate speech?
+- https://www.tumblr.com/thumpingdemon/746804401111531520/came-across-this-video-on-this-postreblog?source=share
+- https://www.tumblr.com/thumpingdemon/745550152793817088/although-i-remember-this-video-i-dont-remember?source=share
+- https://www.tumblr.com/thumpingdemon/739663540415250432/the-me-that-most-of-my-autosexual-cardiophile?source=share
+- rangertycho blocked me
+- https://rangertycho.tumblr.com
+- https://www.tumblr.com/cai-xian-sheng/724450462223482880?source=share cardiomason1 deactivated
+- https://www.tumblr.com/xykolich/746528585012101120/go-for-it?source=share
+- https://montrealscrewblog.com/2024/04/02/5-things-id-like-to-see-long-term-wrestlemania-edition/
+- https://tellonym.me/user.1444117
+- https://www.tumblr.com/sweetduckpeach?source=share
+- https://e621.net/news_updates
+- https://votervoice.net/FreeSpeech/Campaigns/113091/Respond
+- https://action.freespeechcoalition.com/bill/arizona-hb-2586/
+- https://vxtwitter.com/Reenubheart/status/1768758251108372560?t=aE6nTSn527kwBgJqN_TcfQ&s=19
+- https://discord.com/channels/410126604237406209/588350726841827358/1225623173114892298
+- https://www.tumblr.com/love-kisses-hearts/746893159757414400?source=share
+- https://www.tumblr.com/tfhbeats/746893179137179648?source=share
+- brooksheart blocked me
+- heart castle banned me also
+- https://discord.com/channels/332231444816723969/440627892947386388/1208694230369701908
+- https://www.tumblr.com/kalpasoft/746832770883600384/its-still-such-a-surreal-feeling-when-people-say?source=share
+- https://youtu.be/ohT16XSAQCw?si=KtOc1HBLl7Qq6u2y
+- https://youtube.com/shorts/p-UY1cDNkTE?si=0_VnPyP7CadcXzqd
+- https://youtube.com/shorts/hPTOQWAcQ0A?si=p7C2jjucjGMnbLMh
+- https://youtube.com/shorts/lL8ozNqJ6Ds?si=4sFjCganY9Qy5x0W
+- https://youtube.com/shorts/-eXbvxSsdoo?si=g66mp1l-QgKErBOT
+- https://youtube.com/shorts/BdpVqBtMdjs?si=PrUgpTIIEmeUaA2r
+- https://youtube.com/shorts/VRxPeEtmM8o?si=Yp63bLRC5mWz-x_D
+- https://youtube.com/shorts/yI_wjfXV2cs?si=tYUtVrCGf1FpR_OJ
+- https://youtube.com/shorts/AJojYWc80EE?si=f_PJZvTMyTvoTGY9
+- https://youtu.be/IpypfBJsXxc?si=l7vTvI7uhnxNkvYi
+- https://youtu.be/bc8Okr4cgL4?si=3JfPqBH5xsD0ONfw
+- https://youtu.be/Ba_0hkbMf3U?si=ijtLw51aCyKlkhu3
+- https://youtube.com/shorts/SWL0BMSul7Y?si=i4V82QJJ_2dl4wM4
+- https://youtu.be/X1uZbikeWLc?si=3xuwL5SudVH7opSe
+- https://youtu.be/R2OGYc6QCa4?si=K9CCOEI_0fPDaPEa
+- https://youtu.be/n3cUsx7q_XM?si=vvUCbkzVdfQCsesw
+- https://youtu.be/bS9em7Bg0iU?si=KxsWD_Al2jKF_irn
+- https://youtu.be/F3V3vzaj7hY?si=paYZDzZKXojbOJIO memset
+- https://youtu.be/bK5S1zfNyX0?si=bw_WEKPH_R1cv0af
+- https://sentry456123.itch.io/live-clock **PAID** wallpaper software. $1
+- https://youtu.be/dIdhRIBBs5Q?si=dkjzn6yAJVRjA1HF
+- https://youtu.be/m5VRpTkMlz0?si=tJhNv4bY96UYvAqF
+- https://youtube.com/shorts/Onk-aqYmFpA?si=jGwBaUBOVvR0vnhB
+- https://youtu.be/T_N8JRLuDwo?si=wI042Qm5o0nBns66
+- https://youtu.be/XaIK6zcgGfg?si=SQprg1ehOjZMQmif
+- https://youtu.be/LaK_8-3pWKk?si=uBwowLkkhO6gpFl7
+- https://youtu.be/HamAy67WSRU?si=upRL1KVt9V2EKIJ8
+- https://youtu.be/xPyIqcNi3FY?si=09q2URQOqj9PlvXJ
+- https://youtu.be/rdA4gdk4hzk?si=_oaiAHYzTYFbH3bn
+- https://youtu.be/bBtrOUZLMn8?si=9NrdHBQPrURAtDYD
+- https://fxtwitter.com/HeartbeatSNS/status/1658745329263734784?t=_B_CnQ5jzrGTJzCl75XTOA&s=33
+- https://www.tumblr.com/cardiophiles-be-like/746369714529386496?source=share
+- https://www.tumblr.com/cardiophiles-be-like/743315660539592704?source=share
+- https://www.tumblr.com/cardiophiles-be-like/738444030913986560?source=share
+- https://es.thisvid.com/embed/2902002/
+- https://motherless.com/BCD526A
+- https://www.tumblr.com/cherry-loverr/739431006741921792/4mp3?source=share
+- super-avery-artist blocked me
+- https://www.tumblr.com/thumpingdemon/746803635528318977/some-pressure-fun?source=share
+- https://www.tumblr.com/teaboot/746621927155810304/one-bop-this-time?source=share
+- https://twitter.com/cocarikku/status/1776176148076191974?t=oMm28I0XdA-mi9_7LuCcdA&s=19
+- https://www.tumblr.com/blueau-niverse/746861576289648640/this-is-a-huge-passion-project-for-my-friend-so?source=share
+- https://kattabolt.com/
+- https://www.tumblr.com/dr8294828/737927375553167360/horny-bestfriends-in-heartbeat-fetish-porn?source=share
+- https://in.videosection.com/video/88614981 gone
+- https://www.tumblr.com/tfhbeats/746893179137179648?source=share
+- marshmallowoz blocked me
+- lub-dubs-blog blocked me
+- https://www.tumblr.com/hbluv69/739861210659422208/my-heart-mp3?source=share here
+- https://drive.google.com/file/d/1_FXQ0sEIphn0RpdukDAKzC4IcGCM4PXa/view?usp=drivesdk has this
+- https://www.tumblr.com/hbluv69/739844556338675712/fast-heartbeat-mp3?source=share and this
+- https://drive.google.com/file/d/115cXTOlLE1Zw5C6zaYn23-8iGps7AVyB/view
+- https://www.tumblr.com/hbluv69/739756071445512192/my-pounding-heart-mp3?source=share oh
+- https://drive.google.com/file/d/1-BVkm98ffEDD1-EJjNrdc3_THwQHX3ef/view yess
+- https://www.tumblr.com/hbluv69/739742622582718464/heartbeat-mp3?source=share yeay
+- https://drive.google.com/file/d/1-9aHG9KQyu8Sb2HEAPqU7EpCDGMWSwcI/view woohoo
+- https://www.tumblr.com/hbluv69/732344666286161920/thumpmp3?source=share a
+- https://drive.google.com/file/d/1-LtBklmLXkja5g52xj7hqoH8ZOqPEDDm/view a
+- https://www.tumblr.com/maatthings/706510763948408832?source=share
+- https://www.tumblr.com/rvel98/746919606405447680?source=share
+- https://www.tumblr.com/bri911/746853419073044480/what-make-u-love-this-i-like-it-so-much?source=share
+- https://youtube.com/shorts/SKpXlmcmEtQ?si=mpP8zDjrPNTiRRaZ
+- https://youtube.com/shorts/Cq0TYBz7x3M?si=jG6hNz0Wn2FRnddh
+- https://www.reddit.com/r/WTF/s/o1ePdoAOpX
+- https://www.reddit.com/r/askSingapore/s/k3Dd9qNlQd
+- https://twitter.com/Justa_LilNugg3t/status/1776055932444635318?t=AQ_pJkl59qDTQKOVnLzcPA&s=19
+- https://twitter.com/MRNEWMIND2007/status/1775918637657800860?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://twitter.com/MRNEWMIND2007/status/1775918647082361229?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://twitter.com/RanchTdp/status/1775923687428096430?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://twitter.com/Justa_LilNugg3t/status/1775809383630254237?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://twitter.com/nonosqaer/status/1775533983339610350?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://twitter.com/Kaiser_mayo/status/1775538570800796092?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://twitter.com/artkid2567/status/1776237105250718076?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://twitter.com/CrisDen_Tweets/status/1776085984888688724?t=SZD0HZrOwXMXIQwf38zGOA&s=19
+- https://vxtwitter.com/HeartAnime6667/status/1776248726526595185
+- https://x.com/HeartAnime6667/status/1776248726526595185
+- https://vxtwitter.com/hiro_y61294/status/1776127630791606342
+- https://fxtwitter.com/HeartbeatSNS/status/1735541048724906100?t=cJTObe3N42Oo6hIslR8cqQ&s=33
+- https://fxtwitter.com/HeartbeatSNS/status/1658745329263734784?t=_B_CnQ5jzrGTJzCl75XTOA&s=33
+- https://fixupx.com/jaye_weston/status/1721262881579085930?s=20
+- https://www.youtube.com/watch?v=wjcavod4Acw&ab_channel=Kostamoinen
+- https://fxtwitter.com/magnetusart/status/1757571793416806423?s=46&t=HDXEkJ-Qoiy2YSzqMpPT7A
+- nsfw anthro hearts revoked. Likely get banned later?
+- https://discord.com/invite/MtGgcBdUZx djaag banned me too?
+- https://www.tumblr.com/djag2007/694283366512656384/about-me?source=share
+- https://www.furaffinity.net/user/penandpaper wrong user
+- https://www.furaffinity.net/view/56050363/
+- https://www.furaffinity.net/view/56050363/
+- https://www.tumblr.com/horny-heartbeats/746749774921924608/in-a-fetish-community-like-this-of-course-people?source=share
+- https://vxtwitter.com/i/status/1769105734891880631
+- https://vxtwitter.com/elcomparaga/status/1768377573342429289?s=46&t=hEpU4MNZ22eXJTTAxnqkkQ
+- https://www.tumblr.com/doverlordtyrant/746971868948529152?source=share satoruaonlyhusband
+- https://www.tumblr.com/doverlordtyrant/742245520837394432?source=share dea blocked me
+- fuck
+- https://www.tumblr.com/thumpingdemon/746803635528318977/some-pressure-fun?source=share
+- https://www.tumblr.com/loremixer/746749884853534720/amen-brother-amen-i-dont-get-why-we-hate-on?source=share
+- https://www.tumblr.com/cherryheartsx/746435783489175552?source=share
+- https://www.tumblr.com/just-listening-in/746715558995705856/id-really-just-love-to-lay-my-head-on-the-chest?source=share kept forgeting!!!
+- https://www.tumblr.com/kalpasoft/746972716778831872?source=share
+- https://fakegamercomics.itch.io/poppup
+- https://www.tumblr.com/roseheart-laceheart/746943864559058944/twitter-is-up-lovelies-roselaceheart?source=share
+- https://x.com/roselaceheart
+- https://twitter.com/Aibon_nobia/status/1776230410852417698?t=Ks0yE4Ll5YMXzPCoUVjSuw&s=19
+- https://www.tumblr.com/of-roses/746972804622237696/im-so-fucking-sleepy-but-i-want-to-get-dicked?source=share
+- https://www.tumblr.com/i-am-ms-rebel-heart/746951358315479040?source=share ...
+- https://www.tumblr.com/nunalastor/745411081707601920/source-by-adamdragonn?source=share
+- https://x.com/AdamDragonn/status/1769237800782594346?s=20
+- https://youtu.be/vRPCAAUBMms?si=EfNnvYVumI-iBauA
+- https://twitter.com/kimmyitosbutt/status/1681174767762636802?s=20
+- https://twitter.com/kimmyitosbutt/status/1683285922060591105?s=20
+- https://vxtwitter.com/kimmyitosbutt/status/1723699070957670531?s=20
+- https://vxtwitter.com/kimmyitosbutt/status/1755046928939618501?s=20
+- https://www.tumblr.com/my-dying-heart-lives/744878759118798848?source=share
+- https://twitter.com/_rwael/status/1718136022784180252/photo/1
+- https://www.tumblr.com/ryuko/746708628700119040/%E3%83%A9%E3%82%A8%E3%83%AB?source=share
+- https://www.tumblr.com/speedl00ver/746507805487480832/esdeath-nsfw-more-here-patreon?source=share
+- https://www.tumblr.com/thumpingdemon/746994493579018240/a-little-game-id-play-with-him?source=share
+- https://www.tumblr.com/thumpingdemon/745353669056266240/when-its-throbbing-out-of-my-chest-and-beating?source=share
+- https://www.tumblr.com/thumpingdemon/746092077707853824/amazing-how-you-can-stay-so-calm-while-your-heart?source=share
+- https://www.tumblr.com/defibsihamm/746692532948303872?source=share ...
+- https://www.tumblr.com/janmisali/746751218155651072/peach-or-daisy?source=share
+- https://docs.google.com/forms/d/e/1FAIpQLSfRTX2nmMwd9-EQDfEjeIksEI69wTBfM2sXw_e83x6Ditz38g/viewform
+- https://twitter.com/Play_Giirls/status/1775190624515321857
+- https://x.com/yumanyyum/status/1775220422558007787
+- https://fnfansite.editorx.io/fridaynightfansite/forum/game-discussion/game-discussion-megathread/dl-04184ae5-8539-4708-82ed-4db8ab56f774?origin=notification&postId=62f878bd28e4c800125eee13&commentId=04184ae5-8539-4708-82ed-4db8ab56f774
 
 
