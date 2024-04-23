@@ -3993,7 +3993,7 @@ https://youtu.be/rLUOJ65EQes?si=kgYGzhh6cymaqdYp
 - https://store.steampowered.com/app/1747330/A_Lose_Hero_in_the_Castle_of_the_Succubi/
 - https://youtube.com/shorts/evGGNDvq4aE?si=rJTUPSx08KwsvDZF
 - https://unadulteratedinternetbeard.tumblr.com dangerous person
-- https://www.tumblr.com/kardiakrazy/728911472020914176?source=share kardacrazy blocked me
+- https://www.tumblr.com/kardiakrazy/728911472020914176?source=share kardiacrazy <span style='display:none;'>blocked me</span>
 - https://www.fanbox.cc/@calabo17/posts/6748288
 - https://youtu.be/9g1nW6yRiyM?si=pUG16rsGspdJjb6L how to breast Blender
 - https://shizzyzzzzzz.gumroad.com/l/queenvexus?layout=profile
@@ -4069,7 +4069,7 @@ https://youtu.be/rLUOJ65EQes?si=kgYGzhh6cymaqdYp
 - https://www.tumblr.com/nabeatn/727388436587282433?source=share
 - https://appnee.com/filepacker/ sketchy
 - https://web.archive.org/web/20230528171525/https://sexmod.cc/
-- https://www.tumblr.com/n3rplex/731283149830635520?source=share blocked me: heartheels-fan
+- https://www.tumblr.com/n3rplex/731283149830635520?source=share <span style='display:none;'>blocked me</span>: heartheels-fan
 - https://youtu.be/mipejf-3SeQ?si=4QZ2d7eU6bdWOzxc
 - https://youtu.be/rx_XChFWoHE?si=kxxKrJ51fxL8c-4P
 - https://youtu.be/DolY0DMryiE?si=xrwQTTZdSOgTrA5e
@@ -4872,7 +4872,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/randouworks/status/1728003120121405601?t=kqRJIyGPskPVIT_8hzMkQg&s=19
 - https://twitter.com/Man_SU_11/status/1727974017846616506?t=kqRJIyGPskPVIT_8hzMkQg&s=19
 - https://twitter.com/talesshinja/status/1727990692545274313?t=kqRJIyGPskPVIT_8hzMkQg&s=19
-- https://www.tumblr.com/sapphic-heartbeats/734396881203036160 of roses blocked me
+- https://www.tumblr.com/sapphic-heartbeats/734396881203036160 of-roses <span style='display:none;'>blocked me</span>
 - https://twitter.com/Vruzzt/status/1620467321205829638
 - https://www.gamergeeks.net/apps/minecraft/banner-maker#mcb=a5hhb14ls5rs5ms6cre15cbo5
 - `/give @p lime_banner{BlockEntityTag:{Base:5,Patterns:[{Pattern:hhb,Color:14},{Pattern:ls,Color:5},{Pattern:rs,Color:5},{Pattern:ms,Color:6},{Pattern:cre,Color:15},{Pattern:cbo,Color:5}]}} 1`
@@ -5167,7 +5167,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.pixiv.net/en/artworks/111097198
 - https://www.pixiv.net/en/artworks/114035357
 - https://www.tumblr.com/joelwindows7/733085138755420160/aharn
-- nerplex blocked me
+- nerplex <span style='display:none;'>blocked me</span>
 - just stop
 - https://www.tumblr.com/cai-xian-sheng/724450462223482880
 - https://www.tumblr.com/cai-xian-sheng/735977217463566336 nerplex blocked
@@ -5334,7 +5334,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://vxtwitter.com/TeHappyHeartMan/status/1734996672067875279
 - https://www.tumblr.com/ghostbaymax/736537497355599872/femboy-fox-pulse?source=share
 - https://rule34.xxx/index.php?page=post&s=view&id=8817676
-- https://eroticheartfetish.tumblr.com blocked me login required
+- https://eroticheartfetish.tumblr.com <span style='display:none;'>blocked me</span> login required **TOXIC FOUND**
 - https://www.tumblr.com/josieloveshearts/733221785815957504/if-youre-gonna-dm-someone-and-talk-to-them-read
 - https://www.tumblr.com/bizarrio9000/733721486107492352 pls inspire to about being blocked
 - https://www.tumblr.com/pulsedoppler/732826105800753152/my-cardiophile-blog
@@ -5761,9 +5761,9 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/8ghtr4f7BsM?si=O8Sw3VDoVSnhDg-Z
 - https://youtu.be/zPCZTE9fgb0?si=iW4Mqc9vLWo-49cC
 - shin megame tensei
-- https://www.tumblr.com/squeakitties/736732395197415424 cemetrything blocked me
+- https://www.tumblr.com/squeakitties/736732395197415424 cemetrything <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/moctor/736238465968160768/wake-the-fuck-up-new-smug-just-dropped then did you upload uncle smugjug to sketchfab?
-- https://www.tumblr.com/squeakitties/736686762525704192 creepincrawl blocked me
+- https://www.tumblr.com/squeakitties/736686762525704192 creepincrawl <span style='display:none;'>blocked me</span>
 - https://www.furaffinity.net/view/35083824/#cid:144753888 aygee's Sofi has no 3d model download
 - https://www.furaffinity.net/user/zorryn was modeled my Zorryn
 - https://www.furaffinity.net/view/35083797/
@@ -5943,12 +5943,12 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/shorts/jM31rfDYn3E?si=1e5WvX6SMlXitQcp
 - https://youtube.com/shorts/jM31rfDYn3E?si=1e5WvX6SMlXitQcp
 - https://cardioauthors.boards.net/thread/482/contest-tenebris?page=1#post-4174
-- https://www.tumblr.com/joelwindows7/724640008419590144/contest-by-tenebris-cardioauthors tenebris blocked me. He also purged everything
+- https://www.tumblr.com/joelwindows7/724640008419590144/contest-by-tenebris-cardioauthors tenebris <span style='display:none;'>blocked me</span>. He also purged everything
 - https://www.tumblr.com/joelwindows7/711857160174387200
 - login is required.
 - https://www.instagram.com/joelwindows7/
 - https://www.youtube.com/@TenebrisDaWriter/videos
-- https://www.tumblr.com/prismgenixz70/734730688065126400/beautiful-work-thank-you resus lurker blocked me
+- https://www.tumblr.com/prismgenixz70/734730688065126400/beautiful-work-thank-you resus lurker <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/heartofmandr/735539787245682688/heart-while-kissing no reblog
 - https://vxtwitter.com/ReenubAD/status/1730610343339336032?t=f978cK_yzHLSCOW3PeaseQ&s=19
 - https://twitter.com/ReenubAD/status/1732472670745489632?t=aOBXqdzYOSwB9BrsKfy9ew&s=19
@@ -6029,8 +6029,8 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/asterblaster/735474151074250752
 - https://twitter.com/ecstasysemen/status/1730252640406458562?s=20
 - heart needle psa
-- https://www.tumblr.com/prismgenixz70/734730688065126400/beautiful-work-thank-you resuslurker blocked me
-- https://www.tumblr.com/purity-in-heart/736100630863757312 snowheartsz  blocked me
+- https://www.tumblr.com/prismgenixz70/734730688065126400/beautiful-work-thank-you resuslurker <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/purity-in-heart/736100630863757312 snowheartsz  <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/purity-in-heart/736007341966770176 blocked. Snowheart
 - a reason of alt email seems found. Because shadowban.
 - https://www.pixiv.net/en/artworks/112980219
@@ -6059,7 +6059,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - .
 - the 200 children is just fake. You have none. But you could've ended like them
 - https://twitter.com/FThump45?t=aXIRTW5qvByiPVnKTcj6Kw&s=09
-- https://www.tumblr.com/n3rplex/736881799773487104/nor-my-art-all-credit-goes-to-devil-heavens-on nerplex again. Blocked me
+- https://www.tumblr.com/n3rplex/736881799773487104/nor-my-art-all-credit-goes-to-devil-heavens-on nerplex again. <span style='display:none;'>blocked me</span>
 - https://www.pixiv.net/en/artworks/114218374
 - https://www.reddit.com/r/ZettaiRyouiki/s/yIlYCCObEs
 - https://www.pixiv.net/en/artworks/110992457
@@ -6141,7 +6141,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - Micharl Buble: It beginning to look a lot like, Christ-maaas..
 - Christmas Spirit changed JOELwindows7
 - I dance like flapping bird, wear christmas red hat.
-- https://www.tumblr.com/yuuki-snow/736900189892263936 n3rplex blocked me, original video
+- https://www.tumblr.com/yuuki-snow/736900189892263936 n3rplex <span style='display:none;'>blocked me</span>, original video
 - .
 - .
 - kena report gajelas
@@ -6150,12 +6150,12 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - Christianity
 - https://www.tumblr.com/cai-xian-sheng/724450462223482880 reblog disabled
 - https://www.tumblr.com/fuckyeahreligionpigeon/736882553162743808
-- https://www.tumblr.com/garrett-06/736734843116945408 standclear blocked me
+- https://www.tumblr.com/garrett-06/736734843116945408 standclear <span style='display:none;'>blocked me</span>
 - maybe because I am not Gay, or because my homophobic? Idk.
 - I never harrass LGBT, why would I? There is always a better way.
 - https://www.tumblr.com/thumpingofaheart/736313029867749376
 - https://www.tumblr.com/thumpingofaheart/734470482335776768 of-roses blocking
-- https://www.tumblr.com/king-of-heartbeats/734666137246269440 heartspush blocked me
+- https://www.tumblr.com/king-of-heartbeats/734666137246269440 heartspush <span style='display:none;'>blocked me</span>
 - https://youtu.be/PeuH0YmWkI4?si=AnXugyIt0kqe3fXM
 - https://youtu.be/lo1Nlv4QSRE?si=MHNEC8D0Pe4FavjC
 - https://youtu.be/plq-mAQLPgM?si=Qr3mKe6ruZNS0EF8
@@ -6201,11 +6201,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/Foon_Hei_Gor/status/1736640843715682396?t=q5SlguG7axFOfbG-AGqvAg&s=19
 - https://www.tumblr.com/king-of-heartbeats/736973435569405952
 - https://www.tumblr.com/joelwindows7/736938834448793600/%E5%B0%81%E5%8D%B0%E8%80%85-%E7%99%BD
-- https://www.tumblr.com/tenebrisdawriter/178647952885/why-does-the-flintstones-reboot-look-like-a-mid tenebris blocked me
+- https://www.tumblr.com/tenebrisdawriter/178647952885/why-does-the-flintstones-reboot-look-like-a-mid tenebris <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/tenebrisdawriter/655537416718991360
-- https://www.tumblr.com/tenebrisdawriter/662077480365162496 speedy23 deactivated. Tenebris blocked me
+- https://www.tumblr.com/tenebrisdawriter/662077480365162496 speedy23 deactivated. Tenebris <span style='display:none;'>blocked me</span>
 - https://www.pixiv.net/en/artworks/111176188 yor AI_TOYBOX
-- https://www.tumblr.com/heartbeat-hideaway/736631870414045184 heartspush blocked me
+- https://www.tumblr.com/heartbeat-hideaway/736631870414045184 heartspush <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/ththump/727397382760939520/meeksnpoke-my-girlfriend-is-perfect-four-page just in case
 - https://7559067910969.gumroad.com/l/jdBJl?layout=profile this
 - https://www.tumblr.com/meeksnpoke/149911172680 from meekstape
@@ -6288,13 +6288,13 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.wfdownloader.xyz/download
 - https://github.com/johanneszab/TumblThree/releases
 - https://github.com/TumblThreeApp/TumblThree
-- https://www.tumblr.com/yuuki-snow/737065275251441664 flatliningboy blocked me and deactivated
+- https://www.tumblr.com/yuuki-snow/737065275251441664 flatliningboy <span style='display:none;'>blocked me</span> and deactivated
 - https://www.pixiv.net/en/artworks/113375826
 - https://www.pixiv.net/artworks/113535711
 - https://www.pixiv.net/en/artworks/109367437
 - https://www.pixiv.net/artworks/114006751
 - https://www.tumblr.com/heartsfur/736988624999120896 zircon files pls download
-- https://www.tumblr.com/heartsfur/736898048802897920 flatlining boy blocked me
+- https://www.tumblr.com/heartsfur/736898048802897920 flatlining boy <span style='display:none;'>blocked me</span>
 - https://www.wfdownloader.xyz/blog/tumblr-downloader-for-images-and-videos
 - https://www.wfdownloader.xyz/download
 - https://www.reddit.com/r/godot/s/XtGV8c04gu
@@ -6398,7 +6398,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/shorts/5vENIPJCsC0?si=sxmpM2uuSP8HCW5x
 - https://youtube.com/source/iV6SDdKsCrU/shorts?si=mnDsNrx8zbYM6-9c KORDHELL killers from the northside
 - https://youtube.com/shorts/cKfhT423CAk?si=NfQro62XMIFFmw0u
-- https://www.tumblr.com/purity-in-heart/737072938716643328/youre-funny-you-want-everyone-on-good-behavior snowhearts still heart?! Fucking hell. Blocked me
+- https://www.tumblr.com/purity-in-heart/737072938716643328/youre-funny-you-want-everyone-on-good-behavior snowhearts still heart?! Fucking hell. <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/snowheartsz/736913524287258624/hey-so-ive-had-some-time-to-think-it-through noo.. 
 - https://youtu.be/ZA88u9v6AOI?si=1UlhpXA4U1bNhQVN
 - https://youtu.be/uRB7iUCX4KQ?si=IYVteCX3CNfLWuEc
@@ -6409,7 +6409,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/shorts/CYTyvuBPLZs?si=m8E0xxK6AbMv13A5
 - https://youtube.com/shorts/0-bZ_ci3Y34?si=4kcbR6dItZRhiXrS
 - https://x.com/JOELwindows7/status/1526085113099845632?s=20
-- https://www.tumblr.com/pleasblock66/736393495759192064 marshmallowoz blocked me
+- https://www.tumblr.com/pleasblock66/736393495759192064 marshmallowoz <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/joelwindows7/737166055489830912/joelwindows7s-profile-thisvidcom
 - https://www.tumblr.com/heartlaboratory
 - https://jackheartb.tumblr.com
@@ -6417,7 +6417,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/athletearrhythmia/733255027949502464/two-asks-in-my-inbox-note-how-one-is-anon-the
 - https://youtu.be/fXDwTcPNSkE?si=TSXODObpXCPrjOBf
 - https://youtu.be/XV11kplLoxw?si=FyRJoiTmz-dDK38Y
-- https://www.tumblr.com/monicasheart62/736625478224478208/yes-and-yes dyingheart blocked me
+- https://www.tumblr.com/monicasheart62/736625478224478208/yes-and-yes dyingheart <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/clawmarks/737061296689774592/prehensile-porcupine-an-unidentified
 - https://www.reddit.com/r/Pimax/s/yg1wwm2cYY
 - https://www.reddit.com/r/godot/s/PDDurvYrrb
@@ -6559,7 +6559,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - 0			00:00:00.000
 - 1.582064			00:00:01.582
 - https://www.tumblr.com/dudeforgirlshearts/732398092236783616
-- https://www.tumblr.com/dudeforgirlshearts/737103835050459136 pump-her-chest blocked me
+- https://www.tumblr.com/dudeforgirlshearts/737103835050459136 pump-her-chest <span style='display:none;'>blocked me</span>
 - https://talky.io/snowyheartbeat
 - https://twitter.com/DahSharkySFM/status/1737391083787624619
 - https://sns.prtls.jp/hbsnsjp/diary.html?id=211&did=914e2d3227e78a8
@@ -6580,9 +6580,9 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.cyberlink.com/support-center/faq/content?id=10449
 - we have the derpixon fnf mod file but we lost the sauce URL of the backup reuploader! pls find!
 - https://www.tumblr.com/lailalevander/737000523284316160
-- https://www.tumblr.com/iampresto/712959234400239616/reblogging-and-signal-boosting-so-we-can-hopefully eroticheartfetish blocked me
-- https://www.tumblr.com/cptdragonheart/190474194781/pleasure-beats-my-heart-skipping-away-inside-my pleasure-beats blocked me
-- https://www.tumblr.com/jackheartb/727558250160095232/vdo7-sleeping-visible-heartbeat jackheartb blocked me
+- https://www.tumblr.com/iampresto/712959234400239616/reblogging-and-signal-boosting-so-we-can-hopefully eroticheartfetish <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/cptdragonheart/190474194781/pleasure-beats-my-heart-skipping-away-inside-my pleasure-beats <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/jackheartb/727558250160095232/vdo7-sleeping-visible-heartbeat jackheartb <span style='display:none;'>blocked me</span>
 - https://jacksonmcd.gumroad.com/l/wizkz pls sparsdat
 - https://twitter.com/spldid/status/1737324103181435215?t=RoFrcvETclbxZOudSd7HsQ&s=19
 - https://drive.google.com/drive/folders/1uIMOKxwIOmuQDJKg8CeknD_MiMWdB-c1 oppopopoi
@@ -6607,24 +6607,24 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.pixiv.net/en/users/5399836
 - https://www.tumblr.com/joelwindows7/737350239204278272/%E5%8E%9F%E5%89%B5-heart-in-the-shell-shilzumi%E3%81%AE%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88-pixiv
 - https://www.tumblr.com/hiimcerys-blog/734262827364319232
-- https://www.tumblr.com/resus-girl/736206602559995904 standclear360 blocked me
+- https://www.tumblr.com/resus-girl/736206602559995904 standclear360 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/joelwindows7/737332728322719744/i-hope-you-are-having-a-wonderful-day
 - from NSFW Blender..
 - https://www.youtube.com/watch?v=sGt1zm1dACw
 - https://drive.google.com/drive/folders/1RMMP9KG4KlwqaNM8ou5pbFb1XTPcH5ga and uncensored
 - https://www.tumblr.com/joelwindows7/713236355724050432/heartsound-hs-see-my-heart-can-you-listen blog deletes
 - detroit model pls check
-- https://www.tumblr.com/monicasheart62/736625478224478208/yes-and-yes dyingheartbeats blocked me
-- https://www.tumblr.com/heartfantasy/736655692528762880/dark-moods heartfantasy blocked me
+- https://www.tumblr.com/monicasheart62/736625478224478208/yes-and-yes dyingheartbeats <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/heartfantasy/736655692528762880/dark-moods heartfantasy <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/heartfantasy/737254274765078528/accidentally-shot-myself-in-the-heart-true-story
-- https://www.tumblr.com/bri911/737286426433028096/come-on-baby-spit-it-out-and-breathe-this bri911 blocked me
+- https://www.tumblr.com/bri911/737286426433028096/come-on-baby-spit-it-out-and-breathe-this bri911 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/bri911/737233793865465856/just-simply-wanted-to-compliment-i-i-love-your
 - https://www.tumblr.com/wickedbeating/737238137046269952/currently-my-heart-is-beating-at-131bpm-just just in case
 - https://www.tumblr.com/bri911/737188725631647744/3-days-in-a-row-just-because-i-like-spoiling-you
 - https://www.tumblr.com/bri911/737110396923707392/mans-lips-tightly-sealed-over-mine-still
-- https://www.tumblr.com/standclear360/736108841973989376 standclear360 blocked me
+- https://www.tumblr.com/standclear360/736108841973989376 standclear360 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her
-- https://www.tumblr.com/my-dying-heart-lives/732256699883356160 phantomheart17 blocked me
+- https://www.tumblr.com/my-dying-heart-lives/732256699883356160 phantomheart17 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/dyingheartbeats/725217254992756736/fantasizing
 - https://www.tumblr.com/bri911/736462405640552448/waiting-eagerly-for-your-content
 - https://www.tumblr.com/bri911/736257233017602048/what-would-you-prefer-to-wear-during-a-hardcore
@@ -6671,11 +6671,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/joelwindows7/737423815054934016/non-ere
 - https://toyhou.se/10736570.laila-levander
 - https://toyhou.se/24777248.honey-heart
-- https://www.tumblr.com/purity-in-heart/737262570510090240 heartfantasy blocked me
+- https://www.tumblr.com/purity-in-heart/737262570510090240 heartfantasy <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/purity-in-heart/737093935870148608 pls snowheartsz unblock lah
 - https://www.tumblr.com/purity-in-heart/736100630863757312
 - https://www.tumblr.com/merps/737423686191153152
-- marshmallowoz blocked me
+- marshmallowoz <span style='display:none;'>blocked me</span>
 - https://youtu.be/vbcLT_hkmdM?si=QJStaIlAcf9byHQ7 goblok! Meme clip
 - https://youtu.be/BUlvPzUIsoo?si=1h7-GdQ235nMSSnx full goblok clip
 - https://youtu.be/jXMxbwYMjNU?si=vObmtnqttjuedr6o
@@ -6729,9 +6729,9 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://drive.google.com/file/d/1ZqhjPBCTIrxssnmkdt9v-rF8nbAGpULP/view?usp=drivesdk
 - https://www.tumblr.com/heart-fan/639666122151591936/sleepheartmp3
 - https://drive.google.com/file/d/19h2wnHjHP0KauMUA1dK8qdCB3s7uZpqM/view?usp=drivesdk
-- https://www.tumblr.com/kardiakrazy/736825142493265920 kardiacrazy blocked me
+- https://www.tumblr.com/kardiakrazy/736825142493265920 kardiacrazy <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/thumpingofaheart/736313029867749376
-- https://www.tumblr.com/thumpingofaheart/734470482335776768 of-roses blocked me
+- https://www.tumblr.com/thumpingofaheart/734470482335776768 of-roses <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/i-love-u-loser/737507109386780672
 - https://www.tumblr.com/joelwindows7/723770310871187456
 - https://www.tumblr.com/joelwindows7/735823930003193856/drjekyllhyde44-part-2-of-my-valentines-gift-to
@@ -6747,11 +6747,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - seri bercelana
 - https://www.tumblr.com/heartofmandr/737518103978704897/short-pleasure-file no reblog
 - https://www.tumblr.com/takashisky/737424860897296384/i-was-so-horny no reblog
-- https://www.tumblr.com/cardiophiles-be-like/737309410039382016/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 blocked me, deacticates
-- https://www.tumblr.com/bri911/737286426433028096/come-on-baby-spit-it-out-and-breathe-this bri911 blocked me
-- https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her blocked me
+- https://www.tumblr.com/cardiophiles-be-like/737309410039382016/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 <span style='display:none;'>blocked me</span>, deactivates
+- https://www.tumblr.com/bri911/737286426433028096/come-on-baby-spit-it-out-and-breathe-this bri911 <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/giltori/736978524252078080
-- https://www.tumblr.com/doverlordtyrant/723791868169715712/bloodstained-roberts-wife-thier-hearts-beat-for retro heart blocked me
+- https://www.tumblr.com/doverlordtyrant/723791868169715712/bloodstained-roberts-wife-thier-hearts-beat-for retro heart <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/heartofmandr/737438154460741632/my-poor-little-heart-cant-handle-pleasure-well no reblog
 - https://www.tumblr.com/unsafescapewolf/707386350970748928/show-chapter-archive
 - https://archiveofourown.org/works/43969653/chapters/110556969
@@ -6866,7 +6866,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/prismgenixz70/735898029564002304/docaculalurking-adore-your-heart-shocking-and
 - https://www.tumblr.com/feefal/736701832998617088
 - https://www.tumblr.com/heartbeater1209/722934610210766848/heartbeat-while-reacting-to-a-few-messages-and
-- https://www.tumblr.com/pleasure-beats/727901989766414336/does-anybody-else-struggle-to-reconcile-the-two pleasure-beats blocked me
+- https://www.tumblr.com/pleasure-beats/727901989766414336/does-anybody-else-struggle-to-reconcile-the-two pleasure-beats <span style='display:none;'>blocked me</span>
 - https://www.furaffinity.net/view/52353361/
 - https://www.tumblr.com/prismgenixz70/736174185939894272/hey-love-your-videos-would-you-be-ok-with-me?source=share
 - https://www.tumblr.com/prismgenixz70/733727492226088960/just-messing-around-with-gifs-photos-and-audio?source=share
@@ -6906,7 +6906,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.pixiv.net/en/artworks/113220856#big_0
 - https://youtu.be/cwIQdQUTekU?si=NYZ3LJUWtz0RvUuE
 - https://www.tumblr.com/heartshitt/657494181494833152
-- https://www.tumblr.com/heartshitt/654325044538966016 standclear360 blocked me
+- https://www.tumblr.com/heartshitt/654325044538966016 standclear360 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/heartshitt/648753139193905152
 - https://www.tumblr.com/heartshitt/641000355954589696/thumpingdemon-my-heart-fighting-against-the-ac
 - https://www.tumblr.com/heartshitt/630040640729890816/reblog-if-you-think-trans-women-a-are-women-b
@@ -7142,8 +7142,8 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/heartofmandr/737442101435023360
 - the stiflers, starts from one author. And then another. Then another. Assembles. Eventually, become mountain. Behemoth, armageddons of files.
 - https://www.tumblr.com/renyashiro/737303637078966272/dinogame
-- ponku-po blocked me
-- https://www.tumblr.com/ponku-po/737258997594341376/same-ja0822ck ponku-po blocked me
+- ponku-po <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/ponku-po/737258997594341376/same-ja0822ck ponku-po <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/ponku-po/737259283895484416/princess-twilight-saxopi
 - https://twitter.com/ja0822ck/status/1734803141353513055
 - https://twitter.com/saxo_pi/status/1736156836808781881
@@ -7313,19 +7313,19 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/littlestrangefeeling/736306841354633216/perfect
 - https://www.tumblr.com/littlestrangefeeling/736307640999788544
 - https://www.tumblr.com/littlestrangefeeling/737011304563359744
-- https://www.tumblr.com/bri911/734483989822308352/did-someone-call-for-a-chest-to-work-on bri911 blocked me
+- https://www.tumblr.com/bri911/734483989822308352/did-someone-call-for-a-chest-to-work-on bri911 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/bri911/737004535128702976/female-mid-thirties-found-unconscious-in-her
 - https://www.tumblr.com/bri911/737110396923707392/mans-lips-tightly-sealed-over-mine-still
 - https://www.tumblr.com/heartbeatbpm/736313582955921408
-- https://www.tumblr.com/standclear360/736164529940103168 standclear360 blocked me
-- https://www.tumblr.com/luvnurses62/736080629010235392 luvnurses62 blocked me
+- https://www.tumblr.com/standclear360/736164529940103168 standclear360 <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/luvnurses62/736080629010235392 luvnurses62 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/steth-sins/733915707143798785/sweet-spot
 - https://www.tumblr.com/anonymousnovelist66/734570907367047168/someone-give-me-a-non-sexual-cardiophile-writing
 - climb mountain?
 - https://www.tumblr.com/cardio-b/734623473229512704
-- https://www.tumblr.com/eroticheartfetish/734554767106457600 eroticheartfetish blocked me
+- https://www.tumblr.com/eroticheartfetish/734554767106457600 eroticheartfetish <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/female-heart-stuff/724925835559190528 no reblog
-- https://www.tumblr.com/kardiakrazy/734017853452369920 kardiakrazy blocked me
+- https://www.tumblr.com/kardiakrazy/734017853452369920 kardiakrazy <span style='display:none;'>blocked me</span>
 - https://twitter.com/ReenubAD/status/1740800691365683571?t=mkzMRJ1DU6RL9Hllwu_MEA&s=19
 - https://x.com/ReenubAD?t=w89Nr667fTURkJGBMqzbPg&s=09
 - https://twitter.com/ReenubAD/status/1740545616823095511?t=w89Nr667fTURkJGBMqzbPg&s=19
@@ -7372,7 +7372,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/cardiomason1/735752897037565952/miss-varn-the-school-human-biology-teacher-has no reblog
 - https://www.tumblr.com/cardiomason1/726823403241324544/heres-the-comic-adaptation-originally-uploaded-to
 - https://www.tumblr.com/cardiomason1/726823256882053120/a-comic-im-adapting-need-voice-actors-though
-- https://www.tumblr.com/prismgenixz70/737714993495261184 dyingheartbeats blocked me
+- https://www.tumblr.com/prismgenixz70/737714993495261184 dyingheartbeats <span style='display:none;'>blocked me</span>
 - https://youtube.com/shorts/QbeqW1NVr2g?si=LJXzLr0FZFeSeWLd
 - https://youtu.be/OzBlU-DCltY?si=Tcmudg9W-cfm0EFx goat story katy
 - https://youtu.be/2hdu0YXOh9s?si=CF_zWHYXvUC4B8Dl
@@ -7456,10 +7456,10 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/lp-H_7ypLso?si=ojq2WAqQEmoNbs1C
 - https://youtu.be/9ddSq5mQhTw?si=3XLCd77TjcCsJS1_
 - https://youtu.be/Q0dOt-o-M18?si=GT8hFUolOuSj2s4R
-- https://www.tumblr.com/yuuki-snow/175715727286/tenebrisdawriter-this-is-not-mine tenebris blocked me
+- https://www.tumblr.com/yuuki-snow/175715727286/tenebrisdawriter-this-is-not-mine tenebris <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/yuuki-snow/175715709266/tenebrisdawriter-can-you-feel-it-mario
 - https://www.deviantart.com/jay-marvel/art/Mario-and-Peach-500004114
-- https://www.tumblr.com/yuuki-snow/175663303776/pleasure-beats-i-was-just-trying-to-relax-but pleasure-beats blocked me
+- https://www.tumblr.com/yuuki-snow/175663303776/pleasure-beats-i-was-just-trying-to-relax-but pleasure-beats <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/yuuki-snow/175662684651
 - https://www.tumblr.com/runscold-runsdeep/730745312116965376/mephs-heart-testfirst-attempt-the-quality-is you don't want reblog, but forgot turn off reblog
 - https://www.tumblr.com/runscold-runsdeep toxic likely
@@ -7472,7 +7472,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/Kabocya_Na/status/1741739033728778598?t=B6i-2ZPcZ2byPgWCO9AzNA&s=19
 - https://twitter.com/kimnicodesu/status/1741595099757424935?t=B6i-2ZPcZ2byPgWCO9AzNA&s=19
 - https://twitter.com/aazsxx2/status/1741345142030942533?t=B6i-2ZPcZ2byPgWCO9AzNA&s=19
-- https://www.tumblr.com/stethmyheart/732976099666034688 xjustcuriousx blocked me
+- https://www.tumblr.com/stethmyheart/732976099666034688 xjustcuriousx <span style='display:none;'>blocked me</span>
 - http://www.patreon.com/posts/95684755
 - E
 - https://www.tumblr.com/instantpizzafoodguy/681692474310377472
@@ -7519,7 +7519,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/shorts/t1CmLvDSVFk?si=78eETxcQYOiGXGyh
 - https://youtu.be/DnOQsC9MGbc?si=8zJn11MaZP03ZBhC
 - https://youtu.be/yzrVHEB02Hw?si=aFF0iHJrIfDB3UCO
-- https://www.tumblr.com/snowheartsz/738503023885778944 blocked me
+- https://www.tumblr.com/snowheartsz/738503023885778944 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/snowheartsz/738266959095955456/hey-guys-wow-im-not-dead-sorry-about-the-lack-of
 - https://www.tumblr.com/regencyroaster/736436535549902848/intimacy-is-not-just-about-sex-its-having clear
 - https://www.tumblr.com/n3rplex/738179658814783488/not-my-art-all-credit-goes-to-veiled616-on blocked
@@ -7532,10 +7532,10 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://x.com/Naoyuki_Vixen/status/1000768943341166594?s=20
 - https://www.tumblr.com/opopopxxzz
 - https://www.tumblr.com/caradiophile/620480378840530944/vital-signs
-- https://www.tumblr.com/sweetheartboyc/734539192154079232 heartapush deactivated and blocked me
+- https://www.tumblr.com/sweetheartboyc/734539192154079232 heartapush deactivated and <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/sweetheartboyc
 - https://www.tumblr.com/skye-the-furry-blog/167523126648
-- https://www.tumblr.com/skye-the-furry-blog/166300968683/pleasure-beats-this-is-what-my-heartbeat-sounds pleasure-beats blocked me
+- https://www.tumblr.com/skye-the-furry-blog/166300968683/pleasure-beats-this-is-what-my-heartbeat-sounds pleasure-beats <span style='display:none;'>blocked me</span>
 - https://www.pixiv.net/en/artworks/114891838
 - https://www.pixiv.net/en/artworks/114891686
 - https://www.pixiv.net/en/artworks/114891673
@@ -7596,11 +7596,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/hbbitch/738278821773639680 no reblog
 - steganography
 - https://www.tumblr.com/darkbeats/735567477317189632/last-one-until-i-get-a-proper-sound-recording
-- https://www.tumblr.com/wickedbeating/738330444908609536 renamed sc360, blocked me
+- https://www.tumblr.com/wickedbeating/738330444908609536 renamed sc360, <span style='display:none;'>blocked me</span>
 - https://www.youtube.com/@levander-wolf
 - https://www.tumblr.com/domwitch toxic
 - https://www.tumblr.com/domwitch/678278264644665344/this-blog-is-for-me-not-for-you
-- carsiophile-gal blocked me
+- carsiophile-gal <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/ichormongrel/653987473563713536/lensoart-finished-version pls backup
 - https://www.patreon.com/ichormongrel/posts
 - https://www.tumblr.com/nobromaman/179884730721/my-busty-inugirl-lilly-from-my-manga-is-getting pls backup
@@ -7614,11 +7614,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://x.com/nobromaman/status/1731082890958574030?s=20
 - https://www.tumblr.com/ichormongrel/180820781069
 - https://www.tumblr.com/ichormongrel/180785798119/message-in-a-bottle
-- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 blocked me, deactivated
+- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 <span style='display:none;'>blocked me</span>, deactivated
 - https://fatalrhythms.itch.io/breaking-and-entering
 - https://youtu.be/HMZIHBZvpxo?si=A-zYmI2XIPBKHLfa stop.
 - https://www.tumblr.com/joelwindows7/738653070919188480
-- https://www.tumblr.com/sublimeobject123/738426759905755136/monika-deserves-my-attention n3rplex blocked me
+- https://www.tumblr.com/sublimeobject123/738426759905755136/monika-deserves-my-attention n3rplex <span style='display:none;'>blocked me</span>
 - veiled616
 - https://www.pixiv.net/en/users/12896581/artworks
 - https://www.pixiv.net/en/artworks/86427272#manga
@@ -7629,7 +7629,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://discord.com/channels/519291740679569408/809479799554048021/1191435305560060106
 - https://www.tumblr.com/elemass6/706028823999905792/queen
 - https://www.tumblr.com/hearts-n-stuff/635922069402615808
-- https://www.tumblr.com/tenebrisdawriter/187401536410 tenebris blocked me
+- https://www.tumblr.com/tenebrisdawriter/187401536410 tenebris <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/tenebrisdawriter/185898046310
 - https://www.tumblr.com/yuuki-snow/183364870761/httpsyoutubes5xayvjozo
 - https://www.tumblr.com/ghlr/175160985264/heartskypper-check2345-took-awhile-to-edit
@@ -7665,7 +7665,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://vxtwitter.com/i/status/1743371545689698374
 - https://twitter.com/ReenubAD/status/1743472810713063554?t=B6sOKLJRrECiqJAtOTAZ1Q&s=19
 - https://www.tumblr.com/heartsmuscles/738699574150037504/with-the-video-i-made-a-gif-for-edit-other
-- https://www.tumblr.com/stethmyheart/732976099666034688 xjustcuriousx blocked me
+- https://www.tumblr.com/stethmyheart/732976099666034688 xjustcuriousx <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/stethmyheart/732975031691378688
 - https://vxtwitter.com/RubberAnimation/status/1743450107054313728
 - https://www.deviantart.com/da-fly/art/MissSamantha-630755679
@@ -7746,11 +7746,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/thumpingdemon/737745314567585792/well-that-was-inevitable-so-here-it-is-happy
 - https://www.tumblr.com/kurbiismind/736365722318618624/hey-did-u-make-the-boob-morning-breasties-gif
 - https://www.tumblr.com/kurbiismind/736271047280721920/oh-hey-i-think-ive-cracked-the-code
-- https://www.tumblr.com/joelwindows7/738937789449666560 mousegirlheart blocked me
+- https://www.tumblr.com/joelwindows7/738937789449666560 mousegirlheart <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/joelwindows7/738966309637947392/wheelchair-3d-model
 - https://twitter.com/bambied_/status/1744214914917396874?t=9G_WAfVhui2HEIhHZJEnxA&s=19
 - https://twitter.com/THR/status/1744183351915815132?t=9G_WAfVhui2HEIhHZJEnxA&s=19
-- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliahirl621 blocked me
+- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliahirl621 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/pumpingheartprincess/190488799123/cardiophiliagirl621-masturbation-breathold
 - https://www.tumblr.com/pumpingheartprincess/616329624372346880/cardiophiliagirl621-i-would-never-imagine-that
 - https://www.tumblr.com/tanekoheart/738833351987904512
@@ -7827,7 +7827,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/CosmonautMarcus/status/1744797320510607604?t=xdsyyUuwc-cNnb1-GoSViw&s=19
 - https://twitter.com/thegameawards/status/1744766920354832757?t=xdsyyUuwc-cNnb1-GoSViw&s=19
 - https://x.com/tsukumo_heart/status/1744108976479035879?s=20
-- https://www.tumblr.com/squeakitties/739066186149560321 creepincrawl blocked me
+- https://www.tumblr.com/squeakitties/739066186149560321 creepincrawl <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/joelwindows7/738169119102337024/%E9%9B%85%E5%8A%AA%E6%96%AF-pull-her-heart-from-her-chest
 - https://www.tumblr.com/joelwindows7/739110608070475776/%E8%90%BD%E6%9B%B8%E3%81%8D1
 - .
@@ -7867,7 +7867,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/shencomix/738053165369458688/hey-i-just-wanted-to-go-through-some-of-my
 - https://royalsocietypublishing.org/doi/10.1098/rspb.2014.0210
 - https://www.tumblr.com/neil-gaiman/738690466152923136
-- https://www.tumblr.com/i-love-visible-beats/739144984968724480 flatlining-boy blocked me and deactivated
+- https://www.tumblr.com/i-love-visible-beats/739144984968724480 flatlining-boy <span style='display:none;'>blocked me</span> and deactivated
 - https://twitter.com/monsuun/status/1741460207320829984
 - https://fujiishingo.fanbox.cc/posts/7231096
 - https://www.tumblr.com/cutenellhb/739092405387755520
@@ -7875,7 +7875,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/ZIm8uC5RVfA?si=NgMri5AJv1Khgg0r
 - https://www.tumblr.com/cherryheartsx/738813774998421504/just-a-short-clip-where-you-can-kinda-see-my
 - https://www.tumblr.com/omegazero87/738166078120853504/i-shadowheart-visible-heartbeat
-- https://www.tumblr.com/kardiakrazy/738377419241717760 kardiakrazy blocked me
+- https://www.tumblr.com/kardiakrazy/738377419241717760 kardiakrazy <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/lubdubs/738544254232690688
 - https://www.tumblr.com/lubdubs/738169134213365760
 - 1071
@@ -7904,7 +7904,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.youtube.com/watch?v=AqieYVRPWr4
 - https://www.youtube.com/watch?v=yQEqejsWt4M
 - ok done
-- https://www.tumblr.com/beschleuniger1/734273175793401856 beschleuniger1 blocked me
+- https://www.tumblr.com/beschleuniger1/734273175793401856 beschleuniger1 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/kingofdefib/688482687431950336 reblogger will get unedited version in message
 - but I mean, I am reblog maniac! Okay... Inspiring..
 - put url
@@ -7966,7 +7966,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.pixiv.net/en/artworks/114987125
 - https://twitter.com/ReenubAD/status/1745452988410601980?t=_MmoGcmLnhpf0fB9192w5g&s=19
 - https://www.tumblr.com/aurasisle/739229547806982144/i-think-its-funny-that-people-will-lose-their no reblog
-- https://www.tumblr.com/hearts-n-stuff/735243483100610560 heartspush blocked me
+- https://www.tumblr.com/hearts-n-stuff/735243483100610560 heartspush <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/bpdcreep21/733996864416940032/reposting-this-cos-yea-my-twitter-is-adding game over
 - https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/
 - https://addons.mozilla.org/en-US/firefox/addon/furaffinity-extender/
@@ -8045,9 +8045,9 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/e4PCHRJdCQs?si=vM2zmNJjDkn7LsMJ
 - https://www.tumblr.com/hgirl7768/724928569532465152
 - https://www.tumblr.com/hgirl7768/713007116362842112/oh-i-wouldnt-be-able-to-sleep
-- https://www.tumblr.com/tiller12345/738700178459066368 beschleuniger1 blocked me
+- https://www.tumblr.com/tiller12345/738700178459066368 beschleuniger1 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/tiller12345/738120206671544320
-- https://www.tumblr.com/eroticheartfetish/739307929813024768 eroticheartfetish blocked me
+- https://www.tumblr.com/eroticheartfetish/739307929813024768 eroticheartfetish <span style='display:none;'>blocked me</span>
 - https://youtu.be/DGnA7ZI0-Ow?si=LYlqzn6cmTJuQ_l0
 - https://www.tumblr.com/aortaprincess/739419097656328192 gameover
 - .
@@ -8070,7 +8070,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/shorts/r7YXQPxEqng?si=Ks23cvhhDhuxDWKy
 - https://youtu.be/r7YXQPxEqng
 - https://www.tumblr.com/bigfatbreak/739015778191507456/feralnette-update-up-on-patreon no reblog
-- https://www.tumblr.com/kardiokink/730540522168549376 jackheartbeat blocked me and already died.
+- https://www.tumblr.com/kardiokink/730540522168549376 jackheartbeat <span style='display:none;'>blocked me</span> and already died.
 - .
 - .
 - Sediron. Attribution episode. Hoac busting episode.
@@ -8079,13 +8079,13 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/shorts/ykCATPH_G00?si=YGJyCQHI30pf0WMD
 - https://www.tumblr.com/cherry-loverr/736671987790987264/20231214100224normalnym4a pls download all
 - https://youtu.be/DriQqDWYOeA?si=qYaNoM0LUQ6uMa7-
-- luvnurses62 blocked me
+- luvnurses62 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/ghlr/739677662233149440 reposted laila
 - https://www.tumblr.com/blue1234564321/738981739197857792 gameover
 - https://thisvid.com/members/2214561/ laila
 - pls download all
 - https://thisvid.com/videos/zororark-heart-squeeze/
-- https://www.tumblr.com/c-heart/739568898296430592 sugarboo blocked me and deactivated
+- https://www.tumblr.com/c-heart/739568898296430592 sugarboo <span style='display:none;'>blocked me</span> and deactivated
 - https://www.tumblr.com/joelwindows7/739679962364362752/t3st-again
 - https://youtube.com/playlist?list=PLSaWvljtwqkAVZwP_3lrSShZ9gT3qlqHU&si=YyRDJUsJceerlpZQ be careful
 - https://youtu.be/WeCvWutzva8?si=ppQNN_9oFjST7a8D
@@ -8191,7 +8191,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://thisvid.com/videos/bulge92/
 - https://www.tumblr.com/joelwindows7/739608348638494720
 - https://www.tumblr.com/merc-stims/707083955967541249/red-medic-stimboard-requested-by-an-anon-hope-you toxic
-- https://www.tumblr.com/squeakitties/739685557269037056 mousegirlheart blocked me
+- https://www.tumblr.com/squeakitties/739685557269037056 mousegirlheart <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/squeakitties/739633320919449600 DOWNLOAD ISABEL'S PNG AVATAR!!! $0
 - no longer valid:
 - Can we do a well-fair check on here or, if possible, irl?
@@ -8237,12 +8237,12 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://steamcommunity.com/workshop/filedetails/?id=2788755095
 - https://www.thecgroup.com/product/beating-heart-1283/
 - https://youtu.be/w7EjIVLDllk
-- https://www.tumblr.com/bri911/738553590101262336/just-breathe-already-dammit bri911 blocked me
+- https://www.tumblr.com/bri911/738553590101262336/just-breathe-already-dammit bri911 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/protectyaheart/736320924719218688 gameover
-- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 blocked me ans deactivated
+- https://www.tumblr.com/cutenellhb/737746683942813696/pumpingheartprincess-cardiophiliagirl621 cardiophiliagirl621 <span style='display:none;'>blocked me</span> ans deactivated
 - https://www.tumblr.com/cardiomason1/739721148761358336/never-played-this-game-but-this-is-definitely-a
 - https://youtu.be/djIjZ3Jn5tM?si=ghR70l0iAtEcP_Vz
-- https://www.tumblr.com/jillthesomething/739780888813010944 annoyedlord blocked me
+- https://www.tumblr.com/jillthesomething/739780888813010944 annoyedlord <span style='display:none;'>blocked me</span>
 - https://youtube.com/shorts/CnS-shzYml4?si=cwKn2fQ-1xwMpgCi
 - https://youtu.be/9puyOa-39eE?si=BseZXyh3woX9l6gm
 - https://youtu.be/Cnj_Ii11d00?si=C44Bx9Z3H7LXWbx-
@@ -8352,7 +8352,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/spadetale/734655303059111936 backup!!!
 - https://koro-beato.tumblr.com/ backup!!!
 - https://www.tumblr.com/torture-steth-repeat/679931883579113472/new-pinned-post pls onlyfans for free
-- beschleuniger1 blocked me
+- beschleuniger1 <span style='display:none;'>blocked me</span>
 - https://youtu.be/pGQoEqoRYNU?si=CFwrGreFiEFuJ2JD
 - sediron mind read.
 - scene of Baltheser stab Duron die, and areluid and rumanod got humped en masse ahahaha.
@@ -8372,7 +8372,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://bsky.app/profile/spooky88.bsky.social
 - https://twitter.com/spookynsfw88
 - https://x.com/spookynsfw88/status/1747786887153262706?s=20
-- https://www.tumblr.com/squeakitties/740037187726344192?source=share feybeast blocked me
+- https://www.tumblr.com/squeakitties/740037187726344192?source=share feybeast <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/squeakitties/739991861024948224?source=share backup!!
 - https://www.tumblr.com/squeakitties/739962785596833792?source=share backup
 - https://www.tumblr.com/squeakitties/739876105525362688?source=share backup
@@ -8401,7 +8401,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/girl-cardiophil/700905577626435584/her-first-listening-her-thoughts-what-is-it-that?source=share
 - https://www.tumblr.com/brightenight/711586789522128896/my-dream?source=share
 - https://www.tumblr.com/bronydjlove/707915540795195392/askalbinopie-the-ask-box-is-now-open?source=share
-- https://www.tumblr.com/pleasantbananafireprune/735224557915570176?source=share heartspush blocked me and gone
+- https://www.tumblr.com/pleasantbananafireprune/735224557915570176?source=share heartspush <span style='display:none;'>blocked me</span> and gone
 - https://www.tumblr.com/thumpingdemon/727684446086725632/an-older-video-from-a-few-years-ago-clearly-that?source=share
 - https://www.tumblr.com/thumpingdemon/728272302947647488/tachyyy?source=share
 - https://www.tumblr.com/thumpingdemon/732775604602241024/happy-halloween-everyone?source=share
@@ -8419,7 +8419,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - raven fortnite
 - https://www.tumblr.com/meowskulls/731305951568756736/moonlightdisney-so-as-soon-as-i-heard-there-was?source=share
 - fortnite meowskulls
-- https://www.tumblr.com/squeakitties/740066325232222208?source=share creepincrawl blocked me
+- https://www.tumblr.com/squeakitties/740066325232222208?source=share creepincrawl <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/transagestuffuwu/739730015856574464/i-made-a-trans-age-bear-named-tina-3?source=share
 - https://www.tumblr.com/jillthesomething/739920596901789696?source=share
 - https://www.tumblr.com/jillthesomething/739920183050878976?source=share
@@ -8463,18 +8463,18 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.pixiv.net/en/artworks/114315446
 - https://www.tumblr.com/joelwindows7/740250721925120000/twelve?source=share
 - https://www.tumblr.com/rathbane?source=share
-- https://www.tumblr.com/squeakitties/740265306352648192?source=share feybeasts blocked me
+- https://www.tumblr.com/squeakitties/740265306352648192?source=share feybeasts <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/squeakitties/740164603313635328?source=share backup
 - https://www.tumblr.com/dreamatduskk/737273407241109504/v2-more-redraws-3-originalcomparison-under?source=share
 - controvercial, delete the post contains: 
 - `hey guys I mean theys. just a friendly reminder to kill the cop in your head haha, make sure you never criticize me otherwise you're transphobic. You don't hate autistic people do you hahaha i'm autistic btw. if you criticize me you hate me and everyone like me jsyk. just normal fellow moderately popular trans autistic blogger here haha. did i tell you im trans? i'm trans. and autistic. if you call me rude you're ableist. don't you know i'm trans? and autistic? not sure if that matters tho lmao. the underage anime girls on my blog? the zoophilia? cubporn? haha why do you caaaare? didn't i tell you to kill the fucking cop in your head lol? why arent you listening to marginalized voices? You don't want the chuds to win do you? haha` from tornadoshuffle
 - ok
-- https://www.tumblr.com/dekkenminus/736384789745123328?source=share marshmallowoz blocked me
+- https://www.tumblr.com/dekkenminus/736384789745123328?source=share marshmallowoz <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/joelwindows7/738293286520897536?source=share
 - https://www.tumblr.com/depressedpurgatoryprincess/739652248114757632/im-so-gay?source=share
 - https://www.tumblr.com/heart-of-m/739774440536195072/reading-the-answers-of-question-01-and-02?source=share no reblog
 - https://www.tumblr.com/heart-of-m/739859205099552768?source=share
-- https://www.tumblr.com/pumpingheartprincess/190488799123/cardiophiliagirl621-masturbation-breathold?source=share cardiophiliagirl621 deactivated and blocked me
+- https://www.tumblr.com/pumpingheartprincess/190488799123/cardiophiliagirl621-masturbation-breathold?source=share cardiophiliagirl621 deactivated and <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/pumpingheartprincess/616329624372346880/cardiophiliagirl621-i-would-never-imagine-that?source=share
 - https://youtu.be/HpAKJRKGaFo?si=v1MChw_nDq7SX-n6 oswald commited suicide
 - fnf wednesday infidelity.  untold loneliness
@@ -8517,8 +8517,8 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/daisiesonafield-blog/714089157173067776/the-fuck-they-would-thatd-be-idiotic-just-like?source=share
 - https://www.tumblr.com/netscapenavigator-official/725307403905728512/if-you-post-screenshots-from-threads-youre?source=share
 - https://www.tumblr.com/kushblazer666/739101171700105216?source=share
-- https://www.tumblr.com/lilithhb/739499262080155648?source=share sugarboo blocked me and deactivated
-- https://www.tumblr.com/that-cardio-enby/740194872839061504/hazbin-mentioned?source=share snowheartsz blocked me
+- https://www.tumblr.com/lilithhb/739499262080155648?source=share sugarboo <span style='display:none;'>blocked me</span> and deactivated
+- https://www.tumblr.com/that-cardio-enby/740194872839061504/hazbin-mentioned?source=share snowheartsz <span style='display:none;'>blocked me</span>
 - ehentai 
 - sankaku
 - https://github.com/mikf/gallery-dl
@@ -8550,8 +8550,8 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/valravnhjerte/737378970402799616?source=share
 - https://www.tumblr.com/valravnhjerte/737378956591988736?source=share
 - https://www.tumblr.com/valravnhjerte/733928658127962112?source=share
-- https://www.tumblr.com/stethmyheart/732976099666034688?source=share xjustcuriousx blocked me
-- https://www.tumblr.com/stethmyheart/732719855881551872?source=share heartheels-fan blocked me
+- https://www.tumblr.com/stethmyheart/732976099666034688?source=share xjustcuriousx <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/stethmyheart/732719855881551872?source=share heartheels-fan <span style='display:none;'>blocked me</span>
 - https://vxtwitter.com/2kdoplr/status/1746611368210690129?s=20
 - https://www.youtube.com/watch?v=imGUpWM_l2I
 - https://twitter.com/ReenubAD/status/1750313635766055418?t=diLDsudfWDb4hTrLZHHp-g&s=19
@@ -8560,7 +8560,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/BritteGuinevere/status/1750097013910474966?t=Sk-FM3oxKCNLkp6Xl65fcw&s=19
 - https://www.tumblr.com/captredheart/174105381455?source=share backup
 - https://www.pixiv.net/en/users/37143855
-- https://www.tumblr.com/eroticheartfetish/669289874283724800?source=share sugarandboovi blocked me and deactivated
+- https://www.tumblr.com/eroticheartfetish/669289874283724800?source=share sugarandboovi <span style='display:none;'>blocked me</span> and deactivated
 - https://www.tumblr.com/loveinlesbians/738523942019596288?source=share
 - https://www.tumblr.com/sigmahimejoshi/738446152357249024/subs-who-blush-easily-are-so-adorable-seeing?source=share
 - https://www.tumblr.com/mascxdaddy/735746855891271680/hi-so-actually-if-you-bite-my-neck-to-muffle-your?source=share
@@ -8580,7 +8580,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/10CFOh9dilo?si=qB9v3KEgsBC3JFP6
 - https://www.tumblr.com/n3rplex/736881799773487104/nor-my-art-all-credit-goes-to-devil-heavens-on?source=share
 - https://www.tumblr.com/korehb/690122571078942720?source=share
-- https://www.tumblr.com/3heartmind3/710516301597179904?source=share reinheartbeat-blog deactivated & blocked me
+- https://www.tumblr.com/3heartmind3/710516301597179904?source=share reinheartbeat-blog deactivated & <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/notaspecialname/707844449122811904?source=share
 - https://www.tumblr.com/notaspecialname/709367121524686848?source=share
 - https://www.tumblr.com/megamarx26/690249686527918080?source=share
@@ -8605,7 +8605,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - Got some good ideas from my buddy! Might use the ideas for my art! Feel free to use those idea as well! I'm quite interesting seeing the wax play ☺️ (my favs are first three ❤️🫀). 
 - https://www.tumblr.com/just-listening-in/740417585742594048/i-finally-got-a-new-steth-i-just-love-that-crisp?source=share toxic
 - https://www.tumblr.com/protectyaheart/740388622672576512?source=share
-- https://www.tumblr.com/garrett-06/740501815435640832?source=share jackheartb blocked me and died
+- https://www.tumblr.com/garrett-06/740501815435640832?source=share jackheartb <span style='display:none;'>blocked me</span> and died
 - https://www.patreon.com/posts/noctide-bass-1-3-97239970
 - https://www.heavyrubber-shop.com/media/image/product/314959/lg/elektronisch-gesteuertes-atemkontrollgeraet.jpg
 - https://vxtwitter.com/davidehrlich/status/1750687585591017717
@@ -8647,13 +8647,13 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.pixiv.net/en/artworks/114967274
 - https://www.tumblr.com/kopee/740672362825023488?source=share I already reblogged
 - https://onlyfans.com/beatsofpleasuree pls check
-- https://www.tumblr.com/kopee/740522306999287808/of-roses-i-think-this-is-one-of-my-favourites?source=share of-roses blocked me
+- https://www.tumblr.com/kopee/740522306999287808/of-roses-i-think-this-is-one-of-my-favourites?source=share of-roses <span style='display:none;'>blocked me</span>
 - https://youtu.be/-cdDBKxy3SE?si=lcehqj7GqdyeyRZK
 - https://www.deviantart.com/zorro-zero/art/Ms-Fanta-Checking-Up-844496375 ok
 - https://www.tumblr.com/kopee/739526996877574145?source=share ok
 - https://youtu.be/vYBMDK-RntY?si=ETTEPwFG-EZcMLND
 - https://www.tumblr.com/kopee/738528360653832192?source=share
-- https://www.tumblr.com/kopee/738176143823454208?source=share korre32 blocked me
+- https://www.tumblr.com/kopee/738176143823454208?source=share korre32 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/thumpingdemon/740289007191228416/older-video-from-my-drive-apex-and-neck-pulse?source=share no reblog
 - https://www.tumblr.com/thumpingdemon/740288473168216064/sorry-im-not-normal?source=share
 - https://www.tumblr.com/thumpingdemon/740111996244066304/would-you-have-any-particular-end-goal-with-your?source=share
@@ -8904,7 +8904,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/ReenubAD/status/1751328158991913033?t=slwyzm8ss09pABZswhJkIw&s=19
 - https://vxtwitter.com/TeHappyHeartMan/status/1752197028849815592
 - https://youtu.be/uX4th9CxVjA?si=KPMRkdNaSnQdH5Td
-- https://www.tumblr.com/pleasure-beats/740957233962188800/asmr-organ-harvest-asmr-asmr-kidnap-asmr?source=share pleasure-beats blocked me
+- https://www.tumblr.com/pleasure-beats/740957233962188800/asmr-organ-harvest-asmr-asmr-kidnap-asmr?source=share pleasure-beats <span style='display:none;'>blocked me</span>
 - https://twitter.com/mizuhane_miu3/status/1752213998769205701?t=vZL1EzXPYB_z0chmkwUlRw&s=19
 - https://twitter.com/elonmusk/status/1752202880738845094?t=vZL1EzXPYB_z0chmkwUlRw&s=19
 - https://twitter.com/rutenten/status/1752406619147882659?t=vZL1EzXPYB_z0chmkwUlRw&s=19
@@ -8916,7 +8916,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.youtube.com/watch?v=Kzwle3aUKwI
 - https://www.tumblr.com/lailalevander/738637020887400448/kokoro?source=share
 - https://www.tumblr.com/kardiakrazy/736434381091143680?source=share
-- https://www.tumblr.com/feybeasts/734903168183484417?source=share feybeasts blocked me
+- https://www.tumblr.com/feybeasts/734903168183484417?source=share feybeasts <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/maddieheart/734527205355536384?source=share
 - https://www.tumblr.com/feybeasts/734649804864585728/hey-dont-cry-ok?source=share
 - https://www.tumblr.com/n3rplex/733069991844462592/not-my-art-all-credit-goes-to-%E7%AA%93%E5%8F%A3%E5%9F%BA-on-pixiv-some?source=share
@@ -9004,7 +9004,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/vMCSr5Q2o5A?si=zNepncM3R5VmYmoy
 - https://www.pixiv.net/artworks/115790351
 - https://www.tumblr.com/matzahstein/735113996346261504/pinned-post-to-edit-whenever-hi-im-joan-im?source=share no reblog
-- https://www.tumblr.com/ponku-po/741332907615977472/stacy165cut?source=share ponku-po blocked me
+- https://www.tumblr.com/ponku-po/741332907615977472/stacy165cut?source=share ponku-po <span style='display:none;'>blocked me</span>
 - https://twitter.com/stacy_165cut/status/1530880863428558849
 - https://x.com/stacy_165cut/status/1530880246970748929?s=20
 - https://youtu.be/ZF0AGTFgR_s?si=L7SIUmyceedLYyIT
@@ -9027,7 +9027,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/femmeharlequin/735348456195080192/also-especially-given-how-much-holocaust-porn-and?source=share
 - https://www.tumblr.com/femmeharlequin/734987093611298816/if-you-post-shit-about-how-israeli-jews-are-being?source=share
 - https://www.tumblr.com/femmeharlequin/735191602110332928?source=share
-- https://www.tumblr.com/tanekoheart/740833225455386624?source=share bri911 blocked me
+- https://www.tumblr.com/tanekoheart/740833225455386624?source=share bri911 <span style='display:none;'>blocked me</span>
 - https://youtu.be/uX4th9CxVjA?si=ohPkVoudWUZaj-FG
 - https://www.tumblr.com/pleasure-beats/740957233962188800/asmr-organ-harvest-asmr-asmr-kidnap-asmr?source=share
 - https://youtu.be/I0VRYBgVkL4?si=CSL95bG71r4xcvwt
@@ -9073,7 +9073,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/shorts/EPPUltC2lys?si=XihmavhPvIccDhy6 are you single
 - https://youtube.com/shorts/o1zp4r1sG7s?si=xQYX01C41KytK-3f
 - https://youtu.be/DthVN_MKCwU?si=G5sA-PTMHzr5YQB0
-- https://www.tumblr.com/electrocardiograms/738558935129260032?source=share sc360 blocked me
+- https://www.tumblr.com/electrocardiograms/738558935129260032?source=share sc360 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/electrocardiograms/740008490575216640?source=share
 - https://www.tumblr.com/electrocardiograms/737018151348355073/medical-fetish-pet-play-vetfet?source=share toxic feralflux
 - https://www.tumblr.com/electrocardiograms/736928497713496064?source=share n3rplex gameover
@@ -9099,21 +9099,21 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/sasurainopink/status/1755356562489827668?t=eamrLB7iAf3m7SiUTDDfjg&s=19
 - https://youtube.com/shorts/iWLXOyHGOqU?si=rjBhfqZv-iiXWobg
 - https://www.tumblr.com/pleasantbananafireprune/740763506083823616?source=share
-- https://www.tumblr.com/xjustcuriousx/738149734416531456/coffee-datebut-with-stemoscopes-one-for-each-of?source=share blocked me xjustcuriousx
-- https://www.tumblr.com/snowheartsz/736913524287258624/hey-so-ive-had-some-time-to-think-it-through?source=share blocked me
+- https://www.tumblr.com/xjustcuriousx/738149734416531456/coffee-datebut-with-stemoscopes-one-for-each-of?source=share <span style='display:none;'>blocked me</span> xjustcuriousx
+- https://www.tumblr.com/snowheartsz/736913524287258624/hey-so-ive-had-some-time-to-think-it-through?source=share <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/ghlr/736966391323918336?source=share
 - https://www.tumblr.com/tanekoheart/734515678327013376?source=share
 - https://www.tumblr.com/lailalevander/734106959634169856/the-100-girlfriends-who-really-really-really?source=share
 - https://www.tumblr.com/snowheartsz/733249813098938368/hi-again-ive-taken-the-night-to-think-and-im?source=share
 - https://www.tumblr.com/kardiakrazy/731987394214150144?source=share
 - https://www.tumblr.com/kardiakrazy/731764254070456320?source=share
-- https://www.tumblr.com/heartheels-fan/731090815440568320?source=share heartheels-fan blocked me
+- https://www.tumblr.com/heartheels-fan/731090815440568320?source=share heartheels-fan <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/joodeeboochoo/727386361112543232/hey-there-lovelies-dakota-and-carolina-are?source=share
 - https://www.tumblr.com/kardiakrazy/731019145698770944?source=share
 - https://www.tumblr.com/n3rplex/730218110673715200/not-my-art-all-credit-goes-to-%E6%82%AA%E4%BA%BAcpc-on-pixiv-i?source=share
 - Not my art, all credit goes to 悪人CPC on Pixiv!
 - https://www.tumblr.com/gingerhearts0214/730390664928493568/my-husband-visible-hb-had-me-do-squats-for?source=share
-- https://www.tumblr.com/bcparkinson69/730403283412336640?source=share bcparkinson69 blocked me
+- https://www.tumblr.com/bcparkinson69/730403283412336640?source=share bcparkinson69 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/n3rplex/730081349529108480/not-my-art-and-i-unfortunately-dont-know-the?source=share
 - https://www.tumblr.com/tanekoheart/730073507680124928?source=share
 - https://www.tumblr.com/of-roses/729540340814577664/just-want-to-tie-you-up-and-listen-to-your-heart?source=share
@@ -9152,7 +9152,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/Za5_KVeKQX0?si=dL79lxpMYN9RX_Fu
 - https://www.tumblr.com/cherry-loverr/741341806563885056/heartbeat?source=share
 - https://drive.google.com/file/d/1CpSaXwCf1bEmtDDfnHFGtoILs2KxN8AF/view?usp=drivesdk
-- https://www.tumblr.com/purity-in-heart/741236452781867009?source=share no minor or men. No wonder why blocked me. pleasure-beats. Ironic, purity-in-heart might be men.
+- https://www.tumblr.com/purity-in-heart/741236452781867009?source=share no minor or men. No wonder why <span style='display:none;'>blocked me</span>. pleasure-beats. Ironic, purity-in-heart might be men.
 - https://www.tumblr.com/purity-in-heart/741059309872480256?source=share
 - https://www.tumblr.com/purity-in-heart/740411342805254144?source=share
 - https://www.tumblr.com/maddieheart/694847791232696320?source=share
@@ -9266,7 +9266,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtube.com/@luvvheartzz?si=BD6xTLIZE5TsxOc8
 - https://youtu.be/Yuo0gHrqGdU?si=XkRPS5pL6N7Ti8af
 - https://www.tumblr.com/tanekoheart/742095517780197376?source=share
-- https://www.tumblr.com/darklittleseducedhearts/741777932827131904?source=share cardiophile-gal blocked me
+- https://www.tumblr.com/darklittleseducedhearts/741777932827131904?source=share cardiophile-gal <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/darklittleseducedhearts/741347766181265408/heartbeat?source=share
 - https://drive.google.com/file/d/1CpSaXwCf1bEmtDDfnHFGtoILs2KxN8AF/view
 - https://www.tumblr.com/darklittleseducedhearts/741322909017096192/cardiophilia-google-drive?source=share
@@ -9349,7 +9349,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/of-roses/742165933160890368/im-thinking-about-this-recording-again-and?source=share
 - https://soundgasm.net/u/hedonesheart/Party-beats
 - https://drive.google.com/file/d/1twIPuknATzTZWOI5b-OXmqGW8oYUDpPS/view?usp=drivesdk
-- https://www.tumblr.com/maddieheart/741777494251798528?source=share cardiophile-gal blocked me
+- https://www.tumblr.com/maddieheart/741777494251798528?source=share cardiophile-gal <span style='display:none;'>blocked me</span>
 - https://twitter.com/ComicLoverMari/status/1757926942961959309?t=138W4anMVPpNK2Zy1DWxQQ&s=19
 - https://twitter.com/NetflixGeeked/status/1757811942918381757?t=138W4anMVPpNK2Zy1DWxQQ&s=19
 - https://www.tumblr.com/heartpulsered/742146655960334336/x?source=share
@@ -9449,11 +9449,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/of-roses/740817081063309312/what-if-i-had-audio-of-my-heart-pounding-over-my?source=share
 - https://www.tumblr.com/lailalevander/740697032719794176/bite-my-heart-out?source=share
 - https://www.tumblr.com/bpdcreep22/742572048057090048/birthday-heartbeat-im-22-yrs-old-now-what?source=share
-- https://www.tumblr.com/hello7hearts/742174836471791616?source=share hbluis blocked me
+- https://www.tumblr.com/hello7hearts/742174836471791616?source=share hbluis <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/hello7hearts/726251842097627136/if-i-were-to-get-sick-with-some-incurable-illness?source=share
 - https://www.tumblr.com/hello7hearts/725898310914834432/another-fantasy-of-mine-hmu-if-your-interested?source=share
 - https://www.tumblr.com/hello7hearts/725552395994742784/anyone-want-to-roleplay-this-my-messages-are?source=share
-- https://www.tumblr.com/hello7hearts/722027729711710208/in-need-of-some-rough-desperate-resus-right-now?source=share flatlining-boy blocked me and deactivated
+- https://www.tumblr.com/hello7hearts/722027729711710208/in-need-of-some-rough-desperate-resus-right-now?source=share flatlining-boy <span style='display:none;'>blocked me</span> and deactivated
 - https://www.tumblr.com/hello7hearts/722026789150621696/reblogging-cos-i-crave-attention-twt?source=share
 - https://www.pixiv.net/en/users/14481955
 - https://www.tumblr.com/of-roses/742707277048496129/being-a-little-slut-in-the-woods-makes-my-heart?source=share
@@ -9564,11 +9564,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/joelwindows7/718409242778992640/tenebrisdawriter-the-cheddar-priest-can-feel?source=share
 - https://youtu.be/f4YrnjhXL1U?si=N4YYT0dqXRxGw9Sm
 - https://www.tumblr.com/maddieheart/742722685442867200?source=share
-- https://soundgasm.net/u/hedonesheart/Party-beats of-roses blocked me
+- https://soundgasm.net/u/hedonesheart/Party-beats of-roses <span style='display:none;'>blocked me</span>
 - https://thisvid.com/videos/cpr-anime2/
 - https://www.tumblr.com/electronicreviewheart/743166937874448384?source=share
 - https://www.tumblr.com/cardiomason1/743265301891874816/a-journey-through-the-heart-of-ceruleanbeats-as?source=share
-- cardiophile-gal blocked me
+- cardiophile-gal <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/23cookingcentre/742038883660972032/interesting-request-why-not?source=share
 - https://www.tumblr.com/tea-n-ink/727931373893140480/dance-with-death-my?source=share
 - https://www.tumblr.com/melvinator/742816957271883776?source=share gameover
@@ -9647,16 +9647,16 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/dyingheartbeats/743222129871536128/for-someone-wanting-to-play-with-guns-hope?source=share
 - https://www.tumblr.com/horror-heart-12/743157502284316672?source=share
 - https://www.tumblr.com/bpdcreep22/742572048057090048/birthday-heartbeat-im-22-yrs-old-now-what?source=share
-- https://www.tumblr.com/adam-beats/743597817933840384?source=share hbluis blocked me
+- https://www.tumblr.com/adam-beats/743597817933840384?source=share hbluis <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/what-cant/739983474619023360/found-some-goodies-thanks-to-my-bud?source=share
 - https://www.tumblr.com/what-cant/736342753403944960?source=share
 - https://www.tumblr.com/what-cant/736088144819224576?source=share
-- https://www.tumblr.com/what-cant/733008695228841984/derbellyfred-cardiophiliagirl621-my-first?source=share cardiophiliagirl621 blocked me and deactivated
+- https://www.tumblr.com/what-cant/733008695228841984/derbellyfred-cardiophiliagirl621-my-first?source=share cardiophiliagirl621 <span style='display:none;'>blocked me</span> and deactivated
 - https://www.tumblr.com/what-cant/728736521709060096/soundgasmnet?source=share
-- https://www.tumblr.com/coquette-heartbeat/743537842521882624?source=share heart-2-get blocked me
+- https://www.tumblr.com/coquette-heartbeat/743537842521882624?source=share heart-2-get <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/coquette-heartbeat/742545745232707584?source=share
 - https://open.spotify.com/playlist/4lkicSf7JbyOTzT2RmiHS5?si=E7giSvCyTf2KvypDtIoazA&pi=a-X_P6smitRA2i
-- https://www.tumblr.com/luvnurses62/743653580884541440?source=share luvnurses62 blocked me
+- https://www.tumblr.com/luvnurses62/743653580884541440?source=share luvnurses62 <span style='display:none;'>blocked me</span>
 - https://twitter.com/SysenArtworks/status/1763139626989179228?t=0Gbi_fDctIpTlwsUeknhHQ&s=19
 - Thigh as a plug. Plug the suction hole with her leg, from down leg. Machine implodes.
 - https://vxtwitter.com/yakiniku_TLer/status/1761777559992447035?t=7tEKbCxkCY5r1zUFrjpeWg&s=19
@@ -9820,7 +9820,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://pulsoid.net/widget/view/9aadf0ca-c94b-41a1-b29d-92b997393cec
 - https://www.tumblr.com/lilithhb/743549555557253120?source=share cardiomason deactivated again?
 - https://www.tumblr.com/thumpingdemon/742814268253192193/some-clips-of-it-racing-after-an-overly-long-and?source=share
-- https://www.tumblr.com/snowheartsz/744224566778462208/was-anyone-gonna-tell-me-a-dating-sim-exists-on?source=share blocked me
+- https://www.tumblr.com/snowheartsz/744224566778462208/was-anyone-gonna-tell-me-a-dating-sim-exists-on?source=share <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/sakasagami/744055564225691648?source=share
 - https://www.pixiv.net/en/artworks/114232362
 - https://www.tumblr.com/makahitaki/743859206628704256?source=share Abortion?! No!!! Leave the LGBT pass, but abortion.
@@ -9832,11 +9832,11 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/sweetduckpeach/744227243851759616/tiktok-make-your-day?source=share
 - https://www.tumblr.com/christian009/743589872994058240?source=share no reblog
 - https://www.tumblr.com/christian009/743583828114915328?source=share
-- https://www.tumblr.com/heartheels-fan/744031279765438464?source=share heartheels-fan blocked me
+- https://www.tumblr.com/heartheels-fan/744031279765438464?source=share heartheels-fan <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/kardiacswag/743964483208298496?source=share
-- https://www.tumblr.com/beschleuniger1/743729125898043392?source=share beschleuniger1 blocked me
+- https://www.tumblr.com/beschleuniger1/743729125898043392?source=share beschleuniger1 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/bcparkinson69/743678162347622400?source=share
-- https://www.tumblr.com/23cookingcentre/742038883660972032/interesting-request-why-not?source=share cardiophile-gal blocked me
+- https://www.tumblr.com/23cookingcentre/742038883660972032/interesting-request-why-not?source=share cardiophile-gal <span style='display:none;'>blocked me</span>
 - https://koro-beato.tumblr.com/?source=share
 - https://www.tumblr.com/lubdubs/743574108653142016?source=share cardiomason deactivated
 - https://www.tumblr.com/lailalevander/741149175507468288?source=share gameover
@@ -9893,8 +9893,8 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/djag2007/722161114641793024/fast-beats-friday
 - https://twitter.com/ReenubAD/status/1766095367307993114?t=fE7P--OM-1BrGD6u5WCfeQ&s=19
 - https://youtube.com/shorts/8B9YF9iREmk?si=CY2ANqqQu-4Z5Wcu content farm reee
-- https://www.tumblr.com/lonelycardiophile/744237369069371392?source=share horny-heartbeats blocked me
-- https://www.tumblr.com/lonelycardiophile/742184285566566400?source=share hbluis blocked me
+- https://www.tumblr.com/lonelycardiophile/744237369069371392?source=share horny-heartbeats <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/lonelycardiophile/742184285566566400?source=share hbluis <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/taffytulip/708807414919643136/finished-a-ref-sheet-commission-for-someone-on-fb?source=share
 - https://vxtwitter.com/lovettica/status/1765068940492087377
 - cvr gugu gaga
@@ -9988,15 +9988,15 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - I'm confused, can somebody speak it more clearly?
 - https://ko-fi.com/jojobrito
 - https://www.tumblr.com/dekkenminus/741272811477352448/by-jojo-josephbrito7?source=share
-- https://www.tumblr.com/keeperofoverlookhotel/744587592617590784?source=share rangertycho blocked me
+- https://www.tumblr.com/keeperofoverlookhotel/744587592617590784?source=share rangertycho <span style='display:none;'>blocked me</span>
 - https://vxtwitter.com/RubberAnimation/status/1766823092385362030
 - https://vxtwitter.com/RubberAnimation/status/1766823179807228062
 - https://vxtwitter.com/RubberAnimation/status/1766908222802178258
 - https://vxtwitter.com/RubberAnimation/status/1767145315868569677
 - https://twitter.com/ReenubAD/status/1767001467733303400?t=adhjXmday-F8sMnSfucYKg&s=19
 - https://onlyfans.com/gennydarling
-- https://www.tumblr.com/yuuki-snow/743045838294663168?source=share hartspot17 blocked me
-- https://www.tumblr.com/bcparkinson69/739929992943812608?source=share bcparkinson69 blocked me
+- https://www.tumblr.com/yuuki-snow/743045838294663168?source=share hartspot17 <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/bcparkinson69/739929992943812608?source=share bcparkinson69 <span style='display:none;'>blocked me</span>
 - Not my art, all credit goes to 野风 on Pixiv!
 - https://www.tumblr.com/n3rplex/743157392120889344/not-my-art-all-credit-goes-to-%E9%87%8E%E9%A3%8E-on-pixiv-hey?source=share
 - https://e621.net/posts/2571973?q=goodbiscuit
@@ -10024,7 +10024,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/vgPF3qvCYK4?si=PohHmT2Q7wxBH-qp
 - https://vxtwitter.com/futayami_abn/status/1767902684462633449
 - https://www.tumblr.com/thumpingdemon/708858421029535744/racing-after-standing-jumps-while-stimulated?source=share
-- https://www.tumblr.com/hekapoofan91/744791592615985152?source=share tenebrisdawriter blocked me
+- https://www.tumblr.com/hekapoofan91/744791592615985152?source=share tenebrisdawriter <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/kopee/744751495814266880?source=share
 - https://discord.com/channels/519291740679569408/519409436163440640/1217794076842262578
 - https://discord.com/channels/1201374266034237580/1201390153537687613/1216580353171390504
@@ -10040,9 +10040,9 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://pin.it/4fFqf2Rxx
 - https://vxtwitter.com/02YASSY/status/1767895506162999546?t=kJAmLVptMXsp6CUDnwSj6g&s=19
 - https://discord.com/channels/1105744765074550804/1202864145020493884/1217928013367480371
-- https://www.tumblr.com/cardio-b/743143679628312576?source=share is hartspot17 blocked me?
+- https://www.tumblr.com/cardio-b/743143679628312576?source=share is hartspot17 <span style='display:none;'>blocked me</span>?
 - https://www.tumblr.com/heartofadrummer/736688565797486592/reblog-if-youve-had-a-cardio-meetup?source=share I wish
-- https://www.tumblr.com/fantasiesoftheheart/744152428459507712?source=share hbluis blocked me and deactivated
+- https://www.tumblr.com/fantasiesoftheheart/744152428459507712?source=share hbluis <span style='display:none;'>blocked me</span> and deactivated
 - https://www.tumblr.com/of-roses/742711248073949184?source=share
 - https://www.pixiv.net/en/artworks/116079777
 - https://www.pixiv.net/en/artworks/110450526
@@ -10140,7 +10140,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/lIlDhvMAwKk?si=VVL-HQhYSaLchzsc
 - https://www.tumblr.com/herzklappenfan/744912114452463616/my-athletic-girlfriends-heartbeat-falling-asleep?source=share no reblog
 - https://www.tumblr.com/iampresto/733442651058290688?source=share
-- https://www.tumblr.com/iampresto/712959234400239616/reblogging-and-signal-boosting-so-we-can-hopefully?source=share eroticheartfetish blocked me
+- https://www.tumblr.com/iampresto/712959234400239616/reblogging-and-signal-boosting-so-we-can-hopefully?source=share eroticheartfetish <span style='display:none;'>blocked me</span>
 - https://itch.io/c/555675/overhide-cardiophile-heart-beating-content-lub-dub
 - https://www.tumblr.com/heart-2-get/744610990068465664/lying-back-on-my-bed-naked-breathless-my-heart?source=share
 - https://www.tumblr.com/heart-2-get/744891433872392192/next-person-who-starts-messaging-with-me-and-gets?source=share
@@ -10175,7 +10175,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/songoku61/743665047658692608?source=share
 - https://www.tumblr.com/soft-but-spicy/744844942530232320/omg-i-saw-the-headline-that-uncle-acid-and-the?source=share dni found
 - https://www.tumblr.com/soft-but-spicy/736260832637419520/intro-post?source=share confirmed, very toxic
-- https://www.tumblr.com/sc360/716803891519422464/my-resus-cardiophile-kinks?source=share sc360 blocked me
+- https://www.tumblr.com/sc360/716803891519422464/my-resus-cardiophile-kinks?source=share sc360 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/snowheartsz/744224566778462208/was-anyone-gonna-tell-me-a-dating-sim-exists-on?source=share
 - https://www.tumblr.com/thumpingdemon/745171870449631232/would-you-go-back-to-your-better-heart-health-from?source=share
 - https://twitter.com/bluefolf/status/1761192770998350270?t=oYvm7q-5MQzZyr35MOWhlQ&s=19
@@ -10230,9 +10230,9 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://youtu.be/YY93LrDwbms?si=LfsYeRdUkl4mlVbv
 - https://www.tumblr.com/omegazero87/742531750148849664?source=share
 - https://www.tumblr.com/omegazero87/742238105896189952?source=share
-- https://www.tumblr.com/omegazero87/741978897410932736?source=share hartspot17 blocked me
+- https://www.tumblr.com/omegazero87/741978897410932736?source=share hartspot17 <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/feiro-kito/739126746207666176?source=share
-- https://www.tumblr.com/beschleuniger1?source=share alt found. Original blocked me
+- https://www.tumblr.com/beschleuniger1?source=share alt found. Original <span style='display:none;'>blocked me</span>
 - temp block! Unblock when remember
 - Block will remove follow. Attempt refollow asks unblock first in order to refollow
 - https://www.tumblr.com/cardio-b/745240083561693185/soundgasm-is-the-best-they-have-tons-of?source=share
@@ -10247,7 +10247,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/RequiemCoffee/status/1770448820218036696?t=pjet25wuGI1JWp1YcXEZhg&s=19
 - https://twitter.com/Bluefrok/status/1770510672356380988?t=Uz_k1OBQSIH74IRNdQkotQ&s=19
 - https://twitter.com/elonmusk/status/1770232706657653071?t=Uz_k1OBQSIH74IRNdQkotQ&s=19
-- https://www.tumblr.com/rainyheartbeats/613367442621792256?source=share phantomheart17 blocked me
+- https://www.tumblr.com/rainyheartbeats/613367442621792256?source=share phantomheart17 <span style='display:none;'>blocked me</span>
 - a
 - phallus king
 - https://youtu.be/aQVTIkvagFI?si=5Fg11kV-u2Oqx--t
@@ -10382,7 +10382,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - hazbin hotel
 - https://www.tumblr.com/3heartmind3/741413307037188096/irregular-heartmp3?source=share
 - https://drive.google.com/file/d/1X8iJGhlT0XmdtkcoGvGGV40PC3qKcGjK/view
-- https://www.tumblr.com/pleasure-beats/726456916928249856/i-want-to-make-more-content-that-appeals-to-my?source=share pleasure-beats blocked me
+- https://www.tumblr.com/pleasure-beats/726456916928249856/i-want-to-make-more-content-that-appeals-to-my?source=share pleasure-beats <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/thumpingdemon/737745314567585792/well-that-was-inevitable-so-here-it-is-happy?source=share no reblog
 - https://www.tumblr.com/tanekoheart/745812065404534784?source=share
 - https://drive.google.com/file/d/1QCPO18lruqqiuNZuz5urAv9QVWOmDP0K/view
@@ -10494,7 +10494,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://thesketchfox.tumblr.com/?source=share account is suspect
 - https://www.twitch.tv/videos/1780573175 gone
 - https://www.tumblr.com/corazonlobo/713329714723487744/sleeping-heartbeat-asmr?source=share
-- https://www.tumblr.com/jonsheart/664630074201538560?source=share ccherrygummy blocked me
+- https://www.tumblr.com/jonsheart/664630074201538560?source=share ccherrygummy <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/jonsheart/663997133413892096?source=share
 - https://youtu.be/bKE0SOCRVrs?si=8k18zE2uaX4sfETR
 - https://youtu.be/5p4s4k3eB_I?si=BALMa9NPuxGdJANT
@@ -10502,8 +10502,8 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.gamergeeks.net/apps/minecraft/banner-maker#mcb=a5hhb14ls5rs5ms6cre15cbo5
 - jetstream browser benchmark
 - https://youtube.com/shorts/v2uO4Cph9NI?si=SqSsRcywaIzQQ8yo
-- https://www.tumblr.com/heartsfur/745863410526404608?source=share magnamancardio blocked me
-- https://www.tumblr.com/heartsfur/745561279699271680?source=share qmechanics91 blocked me
+- https://www.tumblr.com/heartsfur/745863410526404608?source=share magnamancardio <span style='display:none;'>blocked me</span>
+- https://www.tumblr.com/heartsfur/745561279699271680?source=share qmechanics91 <span style='display:none;'>blocked me</span>
 - https://twitter.com/Pong_Do_63/status/1773568268617347238?t=tFd2HYcb7yoR4r61Anb8aA&s=19
 - https://twitter.com/Pong_Do_63/status/1773568268617347238?t=MPvcoytI4kDk05A3KcoxqA&s=19
 - https://twitter.com/elonmusk/status/1773477116979646691?t=MPvcoytI4kDk05A3KcoxqA&s=19
@@ -10513,7 +10513,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/heartsfur/743843644023422976?source=share
 - https://youtu.be/W6RNBOcwZqc?si=XwCL0i1awrQMIHQ7
 - https://www.tumblr.com/herzklappenfan/746276839818952704/gf-heartbeat?source=share no reblog
-- https://www.tumblr.com/mytemporaryheartbeat/728419933216751616/horny-heartbeats-what-an-interesting?source=share horny-heartbeats blocked me
+- https://www.tumblr.com/mytemporaryheartbeat/728419933216751616/horny-heartbeats-what-an-interesting?source=share horny-heartbeats <span style='display:none;'>blocked me</span>
 - https://m.youtube.com/watch?feature=shared&v=bJ92wqyP-H4
 - https://www.tumblr.com/poundingprincess/746317069489963008/am-i-the-only-one-who-was-obsessed-with-this-game?source=share metero love wii carnival game
 - https://youtu.be/DW8rg6XeP3U?si=Zr-0OdZGHSk69MXM
@@ -10642,7 +10642,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://twitter.com/Look4_osagashi/status/1774357507361960427
 - https://vxtwitter.com/HeartPulse445/status/1774750594466521440
 - https://www.deviantart.com/dreameclipsewolf/art/Weiss-nude-990477332
-- https://www.tumblr.com/joelwindows7/746587427589734400?source=share meilas blocked me
+- https://www.tumblr.com/joelwindows7/746587427589734400?source=share meilas <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/joelwindows7/746630134535225344/last-but-not-the-least?source=share
 - https://www.tumblr.com/joelwindows7/746631008696385536/wish-it-permanent?source=share
 - https://youtu.be/KGGB5LFEejg?si=Ohd4lfZ7K-jWTmXU
@@ -10742,7 +10742,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.youtube.com/shorts/p1eHrzWhJpQ
 - https://www.youtube.com/watch?v=MkxgDkH1rto
 - https://www.youtube.com/watch?v=0tc1k3L3TGA
-- https://www.tumblr.com/joelwindows7/746413447578845184/squeakitties-tammy-outfit-wombo-combo-thank?source=share squeakitties blocked me
+- https://www.tumblr.com/joelwindows7/746413447578845184/squeakitties-tammy-outfit-wombo-combo-thank?source=share squeakitties <span style='display:none;'>blocked me</span>
 - depression myself. She was one of the greatest shiny latex girl.
 - we check with alt. Replies now gone limited
 - https://www.tumblr.com/guooey/745263196527624193
@@ -10814,7 +10814,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - they don't like that I download stuffs. And that's where it ends.
 - heart haven
 - https://www.tumblr.com/theheartofnexinity?source=share was in discussion. Blocked me then for download.
-- https://www.tumblr.com/joelwindows7/746061358279327744?source=share hb14 blocked me. Often shares in heart haven
+- https://www.tumblr.com/joelwindows7/746061358279327744?source=share hb14 <span style='display:none;'>blocked me</span>. Often shares in heart haven
 - https://www.tumblr.com/hello7hearts/746556985730826240/new-link-httpsdiscordgga6gxyjauaw?source=share New link: 
 - https://discord.gg/A6GxYJauAw 
 - i
@@ -10823,12 +10823,12 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/teachingstethoscope/745472311300390912/heart-auscultation-and-murmurs?source=share
 - https://ptreviewer.com/heart-auscultation-and-murmur/
 - https://www.tumblr.com/h3artb3at-l0ver/734539149557874688/me-too-omg?source=share
-- https://www.tumblr.com/cherryheartsx/746435783489175552?source=share coquette-heartbeat blocked me. Probably also download drama
+- https://www.tumblr.com/cherryheartsx/746435783489175552?source=share coquette-heartbeat <span style='display:none;'>blocked me</span>. Probably also download drama
 - misinformation warning! Admin may have exagerated into hate speech?
 - https://www.tumblr.com/thumpingdemon/746804401111531520/came-across-this-video-on-this-postreblog?source=share
 - https://www.tumblr.com/thumpingdemon/745550152793817088/although-i-remember-this-video-i-dont-remember?source=share
 - https://www.tumblr.com/thumpingdemon/739663540415250432/the-me-that-most-of-my-autosexual-cardiophile?source=share
-- rangertycho blocked me
+- rangertycho <span style='display:none;'>blocked me</span>
 - https://rangertycho.tumblr.com
 - https://www.tumblr.com/cai-xian-sheng/724450462223482880?source=share cardiomason1 deactivated
 - https://www.tumblr.com/xykolich/746528585012101120/go-for-it?source=share
@@ -10842,7 +10842,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://discord.com/channels/410126604237406209/588350726841827358/1225623173114892298
 - https://www.tumblr.com/love-kisses-hearts/746893159757414400?source=share
 - https://www.tumblr.com/tfhbeats/746893179137179648?source=share
-- brooksheart blocked me
+- brooksheart <span style='display:none;'>blocked me</span>
 - heart castle banned me also
 - https://discord.com/channels/332231444816723969/440627892947386388/1208694230369701908
 - https://www.tumblr.com/kalpasoft/746832770883600384/its-still-such-a-surreal-feeling-when-people-say?source=share
@@ -10883,7 +10883,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://es.thisvid.com/embed/2902002/
 - https://motherless.com/BCD526A
 - https://www.tumblr.com/cherry-loverr/739431006741921792/4mp3?source=share
-- super-avery-artist blocked me
+- super-avery-artist <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/thumpingdemon/746803635528318977/some-pressure-fun?source=share
 - https://www.tumblr.com/teaboot/746621927155810304/one-bop-this-time?source=share
 - https://twitter.com/cocarikku/status/1776176148076191974?t=oMm28I0XdA-mi9_7LuCcdA&s=19
@@ -10892,8 +10892,8 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://www.tumblr.com/dr8294828/737927375553167360/horny-bestfriends-in-heartbeat-fetish-porn?source=share
 - https://in.videosection.com/video/88614981 gone
 - https://www.tumblr.com/tfhbeats/746893179137179648?source=share
-- marshmallowoz blocked me
-- lub-dubs-blog blocked me
+- marshmallowoz <span style='display:none;'>blocked me</span>
+- lub-dubs-blog <span style='display:none;'>blocked me</span>
 - https://www.tumblr.com/hbluv69/739861210659422208/my-heart-mp3?source=share here
 - https://drive.google.com/file/d/1_FXQ0sEIphn0RpdukDAKzC4IcGCM4PXa/view?usp=drivesdk has this
 - https://www.tumblr.com/hbluv69/739844556338675712/fast-heartbeat-mp3?source=share and this
@@ -10938,7 +10938,7 @@ https://youtu.be/-T9uHqlFFyo?si=DPuF1ibp4K5elMoi
 - https://vxtwitter.com/i/status/1769105734891880631
 - https://vxtwitter.com/elcomparaga/status/1768377573342429289?s=46&t=hEpU4MNZ22eXJTTAxnqkkQ
 - https://www.tumblr.com/doverlordtyrant/746971868948529152?source=share satoruaonlyhusband
-- https://www.tumblr.com/doverlordtyrant/742245520837394432?source=share dea blocked me
+- https://www.tumblr.com/doverlordtyrant/742245520837394432?source=share dea <span style='display:none;'>blocked me</span>
 - fuck
 - https://www.tumblr.com/thumpingdemon/746803635528318977/some-pressure-fun?source=share
 - https://www.tumblr.com/loremixer/746749884853534720/amen-brother-amen-i-dont-get-why-we-hate-on?source=share
