@@ -187,6 +187,7 @@
 
 # ChilloutVR
 /CVRStuffings /apps/CVRStuffings
+/CVR /apps/CVRStuffings
 
 # jeremyyysan PNGTuber
 /PNGTuber/* /rawHtml/jeremyyysan_localpngtuber/:splat
