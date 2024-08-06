@@ -18,7 +18,7 @@ import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 import HarrassedByYouTubeAgain from '@components/Messages/HarrassedByYouTubeAgain.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
 // import DetailSummary from '@components/Elements/SparePart/DetailSummary';
-import DumpEverything from '@components/Elements/SparePart/DumpEverything.astro';
+// import DumpEverything from '@components/Elements/SparePart/DumpEverything.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -37,15 +37,27 @@ const{
     author='JOELwindows7'
     >
     <p>
-        All Links there is to it. Too lazy to sort or even label. Pls Archive anyways.
+        <!-- All Links there is to it. Too lazy to sort or even label. Pls Archive anyways. -->
+        <b class='error'>Sorry, we are out of performance.</b> In order to avoid performance issues both in compilations & viewing (<i class='warning'>among other things</i>), with heavy heart, we decided to sunset these dump links.<br/>
+        Thank you for using our service.
+    </p>
+    <p>Dump link files can still be viewed here:</p>
+    <p>
+        <ul>
+            <!-- <li><ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/blob/main/public/assets/txt/md/DumpAllSFW.md' openInNewTab={true}>SFW</ButtonizedLink></li> -->
+            <li><ButtonizedLink href='/public/assets/txt/md/DumpAllSFW.md' openInNewTab={true}>SFW</ButtonizedLink>, <ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/blob/main/public/assets/txt/md/DumpAllSFW.md' openInNewTab={true}>GitHub</ButtonizedLink></li>
+            <li>{nsfw?<ButtonizedLink href='/public/assets/txt/md/DumpAllNSFW.md' openInNewTab={true}>NSFW</ButtonizedLink>, <ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/blob/main/public/assets/txt/md/DumpAllNSFW.md' openInNewTab={true}>GitHub</ButtonizedLink>:"..."}</li>
+        </ul>
     </p>
     <h2>Begin Dumps</h2>
     <details>
         <summary>Click here to toggle open/close</summary>
-        <DumpEverything nsfw={nsfw}/>
+        <!-- <DumpEverything nsfw={nsfw}/> -->
+         <p>Empty</p>
     </details>
     <h2>End Dumps</h2>
-    <p>We apologize for inconveniences. Due to sheer amounts of sauces coming right up, we are unable to review each sauce & properly label them accordingly. Thank you for your understanding.</p>
+    <!-- <p>We apologize for inconveniences. Due to sheer amounts of sauces coming right up, we are unable to review each sauce & properly label them accordingly. Thank you for your understanding.</p> -->
+    <p>We apologize for inconveniences. Due to bajillion amounts of sauces coming right up, we are no longer able to keep up the demands. Thank you for your understanding.</p>
     
 
 </CorePage>
