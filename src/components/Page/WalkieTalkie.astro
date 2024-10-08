@@ -49,11 +49,25 @@ const{
     <p>Dikarenakan struktur website kami, kami hanya dapat melayani informasi dalam bahasa Inggris untuk saat ini. Ini dikarenakan bahwa target audience kami merupakan para brikers baik internasional maupun intergalaktik, sehingga lebih baik untuk kita semua secara rata2 diprioritaskan terlebih dahulu. Mohon untuk dimaklumi, terima kasih.</p>
 
     </MessageBoxTemplate>
+
+    <MessageBoxTemplate
+    severity={1}
+    paragraphTitle={true}
+    headingTitle={"Incomplete Informations"}
+    detailSummary={"We need your help"}
+    opens={false}
+    >
+    <p>The rabbit hole regarding this topic of wceload not only is vast, but also relevant to this day. Unfortunately, <b class='error'>no full, concrete, trustworthy & confirmed infomation available at hand</b>. Only few snippets, demo, everything but short & concise question answers. Therefore you may see errors & inaccuracies. We apologize for any of such incident occurences. If you have any ideas, fixes, and more, please don't hesitate to let us know, using our GitHub issue below:</p>
+
+    <p><ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/issues/new?assignees=JOELwindows7&labels=bug&projects=&template=bug.yml' openInNewTab={true}>GitHub Submit Issue: WalkieTalkie</ButtonizedLink> Accepts Language: EN, ID.</p>
+
+    </MessageBoxTemplate>
+
     <p>Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!<br/>Here, you'll find informations about everything radio communications, its successors, and mods.</p>
 
     <section id='section-AnalogHamRadio'>
         <h2>Analog Ham Radio</h2>
-            <p></p>
+            <p>The OG of Radio Communications. <a href='https://en.wikipedia.org/wiki/Walkie-talkie' target='_blank' rel='noopener noreferrer'>Established in 1937 by Donald Hings, Motorola, & friends</a>, where its initial purpose began for soldiers, now all essential communication that requires seamlessness, speed, & reliability.</p>
     </section>
 
     <section id='section-DMR'>
@@ -65,14 +79,59 @@ const{
                 detailSummary={"Debunking Misconceptions, sorta"}
                 opens={false}
             >
-            <p>As far we have researched, DMR is just a complicated glorified POC. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you connect your HT to. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
+            <p>As far we have researched, DMR is just a complicated glorified POC. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you connect your HT to. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection to the Hotspot and/or POC devices</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
 
             </MessageBoxTemplate>
-            <p>Successors to Analog Ham, DMR is the major improvement in the radio communications. Beside resolving disadvantages of the Analog, it also adds more feature such as Messages, & ability to send special data.</p>
+            <p>Successors to Analog Ham, DMR is the major improvement in the radio communications. Beside resolving disadvantages of the Analog, it also adds more feature such as Messages, & ability to send special datas.</p>
     </section>
 
     <section id='section-POC'>
         <h2>POC</h2>
-            <p></p>
+            <p>As the world of radio got so convoluted, the world now requires more bandwidth & spaces for people & companies to communicate as reliable as possible. POC presents as the latest protocol that provides all advantages of radio, using a simple yet reliable system, to continue the best communication experience. POC uses already existing common infrastructure of today, which is Internet to establish its communication. Note that it's called <code>Cellular</code> because typically, portable POC radio uses SIM cards to access cellular network. But now, it's simply <code>using Internet</code> since it now also utilizes other connection types such as WiFi.
+            <br/>
+            POC is very powerful the more powerful the application system is. Your communication experience with POC is basically depends on how good is the application system is, & what features it has.
+            <br/>
+            Because POC is basically just a Social Messenger, not only it's very easy to use, but also <b style='font-size:xx-large' class='success'><i>More License Free</i></b> (legally speaking). You may still need to subscribe to use and/or obtain certain features, but usually not as strict nor complicated as above 2 protocols.
+            </p>
     </section>
+
+    <section id='section-license'>
+        <h2>License</h2>    
+            <p>Radio has alot of potential & it's freedom capability that allows broadcastability by anyone. In order to keep orders in the world of radio, a license system is required to keep frequency air cleans from rogue signals. Ensuring the frequencies cleans is essential for keeping the safety & security of the people & businesses remain upheld.
+            <br/>
+            Note, these section only applies typically for Analog Ham & DMR. Some galaxies & realms may require license also for POC / Social Messengers. Correct.<span title="TV Series: Sediron (????). Season 3, After a Harrasser attacked Sediron HQ due to Baser's insists of Block Reason Enforcement, the intergalactic world becomes unsafe for all. Few weeks after Sediron family were thought dead killed by the that Harrasser in their escape realm, (which btw, they are teleported to Saorfa then brought to Areluid now Arenod), Zumi & friends proposed extreme rule that requires everyone around the galaxies in order to even social media is to register for license like driving license, to keep the social air clean. In total, all 3: Ham, DMR, & POC now require license. Although as of Sediron serial and around forward until Surreal Blender Meme x ZZZ fangame, it applies only to Sloantim cluster where Dasandim planet system resides.">.</span> that will be for later days. Anyways..
+            </p>
+
+            <h3>Obtaining License</h3>
+                <p>Following informations are the instructions, website portals, places, & documents to aid people of the region to obtain license.</p>
+
+                <h4>Indonesia</h4>
+                    <p>You can visit this website below, SDPPI. Here, you can register & obtain both Residential (RAPI (Radio Antar Penduduk Indonesia)) & Ham (ORARI (Organisasi Radio Amatir Indonesia)) license proposals (to get IKRAP & IAR respectively).</p>
+                    <p><ButtonizedLink href='https://iar-ikrap.postel.go.id/' openInNewTab={true}>SDPPI IKRAP & IAR Registration Portal</ButtonizedLink></p>
+                    <p>Once you have registered, paid the fee, & printed the proposal, head over to the nearest RAPI & ORARI offices respectively near you.<br/>
+                        <ul>
+                            <li>For RAPI, simply complete the fee & process your proposal in the physical office. Once finished, you'll be given callsign few days later that you can read on the SDPPI portal again</li>
+                            <li>For ORARI, not only to complete the fee, <b class='warn'>you are also required to take exam in the physical office or place</b>. Track the schedule & location in the <ButtonizedLink href='https://iar-ikrap.postel.go.id/site/informasiUNAR' openInNewTab={true}><code>INFORMASI</code> banner menu, <code>Jadwal Pelaksanaan UNAR</code></ButtonizedLink>. Once finished & you passed, you'll be given callsign few days later that you can read on the SDPPI portal again</li>
+                        </ul>
+                        <br/>
+                        Please note, <b class='warn'>callsign for RAPI & ORARI are different</b>! Use which correctly on which comm realm you use. Also, the difference between the two are the service area. RAPI is whole Indonesia, while ORARI is international (basically Ham radio in general). If you are unsure, try ORARI first, since RAPI is considerably the <i>LITE version</i> of Ham Radio Comms. Even though is hard & might by toxic, an old acquintance of mine once said to go there first if I'd like to begin it this radio comms. However, if registering license & how hardcore is the ethic to you, you can try just any POC first.
+                        <br/>
+                        Chances are, you already did with Discord, MS Team (Formerly Skype & Windows Live Messenger), Yahoo Messenger, TeamSpeak, VRChat, ChilloutVR, etc. Though are less authentic for the context of PTT of course. Simply learn new morely basic ethics of:
+                        <ul>
+                            <li>Roger</li>
+                            <li>Brik</li>
+                            <li>Secu (read: Sekyu)</li>
+                        </ul>
+                        followed by name & rough locations, etc. finished with
+                        <ul>
+                            <li>over</li>
+                            <li>ganti</li>
+                        </ul>
+                    </p>
+                <h4>USA</h4>
+                    <p>From this experience of the Geerling family, which YouTube video can be viewed below</p>
+                    <p><ButtonizedLink href='https://youtu.be/PIeavEhUhSw' openInNewTab={true}>Geerling Engineering - It's ILLEGAL for my Dad to transmit!</ButtonizedLink></p>
+    </section>
+
+    <p style='font-size:xx-small'>Zenless Zone Zero & the logo <code>ZZZ</code> Copyright Hoyoverse<span title="Surreal Blender Meme x ZZZ is a fangame from Perkedel Tecnologies featuring characters from legendary gacha game Zenless Zone Zero. The experience you have been long time ago has now returned in a new formula with the setting at this point now aligns around the release time of this fangame. The story tells about a Hollow that somehow appeared in Surreal Blender Meme realm. Lancaster a.k.a. L (read: Lima) & friends are confused for how it happened. Luckily, Eitch a.k.a. H (read: Hotel) were able to call for help, which are the people from the Zenless universe. Fight all the EWthereals & other thugs once again in the same or similar format as in the original game that has been lost in time, all offline & GRATIS. The reason that we highlight this, is because in this fangame is full of HT Radios usage. In the main story, you get a quest regarding about this very HT & Rigs. From how to use, and utilizations. In the middle of the story, the Surreal Military issued a special DMR-like technology since the Ether consentration around the mission area becomes too strong, it destroyed every types of communication band possibles. The Military managed to create a special inter-dimensional band that allows frequency to travel not only in realm, but also across realms. It even unifies & simplify DMR connection with the special inter-dimensional antenna, so no more Hotspot will be required. Just 1 hotspot in Arenod Sediron Royal Palace. Spoiler alert, in the final chapter, you will find out that the final Hollow (Hollow Zero of Surreal) was being taken benefit by a Radio scalpers who scalp radios to be destroyed to ruin communication because of his terrible past, which is being betrayed by his own friends. His goal was to destroy all communications so no more connections & no betrayals, by disturbing airwaves multiple alt accounts, etc. etc. ('I am lost, just like you guys' as boss defeated & about to be arrested). This final boss right here while initially looks common, but too strong like Thanos once the epic final fight began. In fact, combination of Proprietarist & Ethereal. Even the final level is like Avengers Endgame, with chain attacks spans more than 3! You will stop chain attack once one of his combination strips off, and repeat until all. First Ether, Second Proprietarism, then Physical. Once defeated, Lancaster arrested him.">.</span></p>
 </CorePage>
