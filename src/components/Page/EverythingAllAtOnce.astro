@@ -27,6 +27,26 @@ export interface Props{
 const{
     nsfw=false,
 } = Astro.props.frontmatter || Astro.props as Props;
+
+/*
+13.13.59 [build] Building static entrypoints...
+13.14.01 [ERROR] [vite] x Build failed in 1.43s
+Expected ":" but found ","
+  Hint:
+    Browser APIs are not available on the server.
+
+    Move your code to a <script> tag outside of the frontmatter, so the code runs on the client.
+
+    See https://docs.astro.build/en/guides/troubleshooting/#document-or-window-is-not-defined for more information.
+
+  Stack trace:
+    at failureErrorWithLog (W:\starring codes\Astro Projects\perkedel-astro\node_modules\esbuild\lib\main.js:1472:15)
+    at responseCallbacks.<computed> (W:\starring codes\Astro Projects\perkedel-astro\node_modules\esbuild\lib\main.js:622:9)
+    at Socket.readFromStdout (W:\starring codes\Astro Projects\perkedel-astro\node_modules\esbuild\lib\main.js:600:7)
+    at addChunk (node:internal/streams/readable:559:12)
+    at Readable.push (node:internal/streams/readable:390:5)
+
+*/
 ---
 <CorePage
     nsfw={nsfw}
@@ -46,7 +66,7 @@ const{
         <ul>
             <!-- <li><ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/blob/main/public/assets/txt/md/DumpAllSFW.md' openInNewTab={true}>SFW</ButtonizedLink></li> -->
             <li><ButtonizedLink href='/public/assets/txt/md/DumpAllSFW.md' openInNewTab={true}>SFW</ButtonizedLink>, <ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/blob/main/public/assets/txt/md/DumpAllSFW.md' openInNewTab={true}>GitHub</ButtonizedLink></li>
-            <li>{nsfw?<ButtonizedLink href='/public/assets/txt/md/DumpAllNSFW.md' openInNewTab={true}>NSFW</ButtonizedLink>, <ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/blob/main/public/assets/txt/md/DumpAllNSFW.md' openInNewTab={true}>GitHub</ButtonizedLink>:"..."}</li>
+            <li>{nsfw?<Fragment><ButtonizedLink href='/public/assets/txt/md/DumpAllNSFW.md' openInNewTab={true}>NSFW</ButtonizedLink>, <ButtonizedLink href='https://github.com/Perkedel/perkedel-astro/blob/main/public/assets/txt/md/DumpAllNSFW.md' openInNewTab={true}>GitHub</ButtonizedLink></Fragment>:"..."}</li>
         </ul>
     </p>
     <h2>Begin Dumps</h2>
