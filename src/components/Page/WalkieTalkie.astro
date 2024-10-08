@@ -37,5 +37,41 @@ const{
     disableOverwhelmStatement={true}
     noNeedNSFW={true}
     >
-    <p>Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!</p>
+    <MessageBoxTemplate
+        severity={0}
+        paragraphTitle={true}
+        headingTitle={"Informasi berikut hanya tersedia dalam bahasa Inggris untuk saat ini"}
+        detailSummary={"Information in English"}
+        opens={false}
+    >
+    <p style="font-size: 1.5rem;">Kami memohon maaf atas ketidaknyamanan Anda.</p>
+    <p>Dikarenakan struktur website kami, kami hanya dapat melayani informasi dalam bahasa Inggris untuk saat ini. Ini dikarenakan bahwa target audience kami merupakan para brikers baik internasional maupun intergalaktik, sehingga lebih baik untuk kita semua secara rata2 diprioritaskan terlebih dahulu. Mohon untuk dimaklumi, terima kasih.</p>
+
+    </MessageBoxTemplate>
+    <p>Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!<br/>Here, you'll find informations about everything radio communications, its successors, and mods.</p>
+
+    <section id='section-AnalogHamRadio'>
+        <h2>Analog Ham Radio</h2>
+            <p></p>
+    </section>
+
+    <section id='section-DMR'>
+        <h2>DMR</h2>
+            <MessageBoxTemplate
+                severity={0}
+                paragraphTitle={true}
+                headingTitle={"Please do not be confused!"}
+                detailSummary={"Debunking Misconceptions, sorta"}
+                opens={false}
+            >
+            <p>As far we have researched, DMR is just a complicated glorified POC. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you connect your HT to. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
+
+            </MessageBoxTemplate>
+            <p>Successors to Analog Ham, DMR is the major improvement in the radio communications. Beside resolving disadvantages of the Analog, it also adds more feature such as Messages, & ability to send special data.</p>
+    </section>
+
+    <section id='section-POC'>
+        <h2>POC</h2>
+            <p></p>
+    </section>
 </CorePage>
