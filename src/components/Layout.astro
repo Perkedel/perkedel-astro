@@ -245,8 +245,9 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
       https://zerodevx.github.io/
       -->
     {legacyMarkdown?<Fragment>
-      <script defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+      <script is:inline defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
       <script
+        is:inline
         type="module"
         src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
       >

@@ -8,6 +8,7 @@
         "sync": "astro sync",
         "build": "astro build",
         "preview": "astro preview",
+        "astro": "astro",
         "tauri": "tauri"
     },
     "devDependencies": {
