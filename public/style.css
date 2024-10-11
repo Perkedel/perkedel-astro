@@ -2055,6 +2055,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     padding: 10px;
 }
 
+.colExpand {
+    width: 100%;
+}
+
 
 /* Marquee pls
 https://codepen.io/thomasbormans/pen/EjMBqO
