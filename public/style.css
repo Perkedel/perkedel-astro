@@ -2059,6 +2059,10 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
     width: 100%;
 }
 
+.colPrint {
+    
+}
+
 
 /* Marquee pls
 https://codepen.io/thomasbormans/pen/EjMBqO
@@ -2512,6 +2516,9 @@ details.warning, details[open].warning summary,
     /* Non Harry Potter print media CSS
     Harry Potter media should use Screen Light mode
      https://www.w3schools.com/css/css3_mediaqueries.asp */
+    .hidePrint{
+        display: none;
+    }
     header {
         background-color: initial;
     }
@@ -2635,6 +2642,15 @@ details.warning, details[open].warning summary,
     aside {
         background-color: clear;
         border: solid 1px lightgray;
+    }
+    .colPrint{
+        width: 100%;
+    }
+    .asw-container{
+        display:none;
+    }
+    .backTopButton,#backTopButton{
+        display: none;
     }
 }
 

@@ -4,7 +4,9 @@ import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
 
 const Tabling = [
     // Code, Command Mean, Argument {Type (Expected value)}, Question Sample, Answer Sample
-    [`QRG`,'Frequency / Room Number check of <code>FREQ</code>', [`FREQ`,[`Float (Frequency Mhz)`,`String (Room Name / ID)`]], 'Will you tell me your frequency?', 'Your/My frequency is ________ KHz.'],
+    [`QRG`,'Frequency/Room/Server Number check', [[`FREQ`,[`Float (Frequency Mhz/Khz)`,`String (Room/Server Name/ID)`]],[`FREQ2`,[`Float (Frequency Mhz)`,`String (Room/Server Name/ID)`]],], ['Will you tell me your frequency (or that of <u>__<code>FREQ2</code>__</u> Mhz/Khz)?',`Please tell me your Discord server (or room of the server <u>__<code>FREQ2</code>__</u>).`], ['Your/My frequency (or that of <u>__<code>FREQ2</code>__</u> Mhz/Khz) is <u>__<code>FREQ</code>__</u> Mhz/KHz.',`My Discord server (or room of the server <u>__<code>FREQ2</code>__</u>) is <u>__<code>FREQ</code>__</u>.`]],
+    [`QRL`,'Frequency/Room/Server Busy check', [[`FREQ`,[`Float (Frequency Mhz/Khz)`,`String (Room/Server Name/ID)`]],], ['Are you busy (with <u>__<code>FREQ</code>__</u> Mhz/Khz)?',`Are you still talking with (someone) (at/with server <u>__<code>FREQ</code>__</u>)?`], ['I am busy (with <u>__<code>FREQ</code>__</u> Mhz/Khz). (Please do not interfere)',`I am still on the voice chat (with <u>__<code>FREQ</code>__</u>). (Please do not disturb)`]],
+    [`QRM`,'Interference check', [[`INTERFERENCE`,[`Integer (Rating 0-5 (0 = nil, 1 = slightly, 3 = moderately, 4 = severely, 5 = extremely))`,`String (Cause Name (e.g.: EMP, storm, power failure (blackout), power reduction (brownout), low battery, attack, etc.) & Severity rating (Optional))`]],], ['Is my transmission being interefered with (<u>__<code>INTERFERENCE</code>__</u>)?',`Who disturbed me (OR am I still disturbed by <u>__<code>INTERFERENCE</code>__</u>)?`], ['Your/My transmission is being interefed by <u>__<code>INTERFERENCE</code>__</u>.',`I am-being/have-been harrassed/disturbed by <u>__<code>INTERFERENCE</code>__</u>!!!`]],
 ]
 
 // ALT + (0, 1, 5, 1) = `—` LONG DASH
@@ -32,7 +34,8 @@ const Tabling = [
                         <ul>
                         {thing[2].map((arges)=>(
                             <Fragment>
-                                <li><code>{arges[0]}</code>:<br/>
+                                <li><code>{arges[0]}</code>=
+                                    <br/>
                                     <ul>
                                         {arges[1].map((types)=>(
                                         <li>{types}</li>
@@ -44,10 +47,24 @@ const Tabling = [
                         </ul>
                     </td>
                     <td>
-                        <Fragment set:html={thing[3]}/>
+                        {/* <Fragment set:html={thing[3]}/> */}
+                        <ul>
+                        {thing[3].map((questions)=>(
+                            <Fragment>
+                                <li set:html={questions}/>
+                            </Fragment>
+                        ))}
+                        </ul>
                     </td>
                     <td>
-                        <Fragment set:html={thing[4]}/>
+                        {/* <Fragment set:html={thing[4]}/> */}
+                        <ul>
+                        {thing[4].map((answers)=>(
+                            <Fragment>
+                                <li set:html={answers}/>
+                            </Fragment>
+                        ))}
+                        </ul>
                     </td>
                 </tr>
             ))}

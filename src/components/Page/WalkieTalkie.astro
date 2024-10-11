@@ -72,12 +72,14 @@ const{
             <details open="open">
                 <summary>Radio CheatSheets</summary>
                 <div class='cheatsheet-content row'>
-                    <div class="column colRight">
+                    <div class="column colRight colPrint">
                         <h3>Q-Code</h3>
+                            <p>Q-code is used as a communication shortcut, typically used on morse code communication mode to make typing faster & efficient. Sometimes agencies used it also to semi-encrypt messages or to aleviate limited comms time and <b title='such as in SMS, e.g. per character costs 1 Pts Toll a.k.a. Pulsa'>high costs</b>.</p>
                             <QCode/>
                     </div>
-                    <div class="column colLeft">
+                    <div class="column colLeft colPrint">
                         <h3>ITU Alphabet (Pilot ABC)</h3>
+                            <p>Pilot ABC is used to state/spell out the ID of a callsign. Like with the case of spelling <b>flight numbers</b> with pilot & ATC, it resolves letter pronounciation confusion amongst international & intergalactic languages.</p>
                             <PilotABC/>
                     </div>
                 </div>  
@@ -96,7 +98,7 @@ const{
                 paragraphTitle={true}
                 headingTitle={"Please do not get confused!"}
                 detailSummary={"Debunking Misconceptions, sorta"}
-                opens={false}
+                opens={true}
             >
             <p>As far we have researched, DMR is just a <b class='error'>complicated glorified POC</b>. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you <b class='warn'>connect your HT to</b>. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection to the Hotspot and/or POC devices</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
 
@@ -137,8 +139,8 @@ const{
                 <p>Following informations are the instructions, website portals, places, & documents to aid people of the region to obtain license.</p>
 
                 <h4>Indonesia</h4>
-                    <p>You can visit this website below, SDPPI. Here, you can register & obtain both Residential (<ButtonizedLink href='https://rapi.or.id/' openInNewTab={true}>RAPI</ButtonizedLink> (Radio Antar Penduduk Indonesia)) & Ham (<ButtonizedLink href='https://orari.or.id/' openInNewTab={true}>ORARI</ButtonizedLink> (Organisasi Radio Amatir Republik Indonesia)) license proposals (to get IKRAP & IAR respectively).</p>
-                    <p>👉👉👉👉👉👉 <ButtonizedLink href='https://iar-ikrap.postel.go.id/' openInNewTab={true} style='font-size:xx-large'>SDPPI IKRAP & IAR Registration Portal</ButtonizedLink> 👈👈👈👈👈👈👈</p>
+                    <p>You can visit this website below, SDPPI (<code style='font-size:xx-large;font-weight:bold' class='info'>https://iar-ikrap.postel.go.id</code>). Here, you can register & obtain both Residential (<ButtonizedLink href='https://rapi.or.id/' openInNewTab={true}>RAPI</ButtonizedLink> (Radio Antar Penduduk Indonesia)) & Ham (<ButtonizedLink href='https://orari.or.id/' openInNewTab={true}>ORARI</ButtonizedLink> (Organisasi Radio Amatir Republik Indonesia)) license proposals (to get IKRAP & IAR respectively).</p>
+                    <p>👉👉👉👉👉👉 <ButtonizedLink href='https://iar-ikrap.postel.go.id/' openInNewTab={true} style='font-size:xx-large' title='Click here to visit https://iar-ikrap.postel.go.id/'>SDPPI IKRAP & IAR Registration Portal</ButtonizedLink> 👈👈👈👈👈👈👈</p>
                     <p>Once you have registered, chosen which or both to join, paid the fees, & printed the proposal, head over to the nearest RAPI & ORARI offices respectively near you.<br/>
                         <ul>
                             <li>For RAPI, simply complete the fee & process your proposal in the physical office. Once finished, you'll be given callsign few days later that you can read on the SDPPI portal again</li>
