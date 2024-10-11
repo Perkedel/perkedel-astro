@@ -4,7 +4,7 @@ import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
 
 const Tabling = [
     // Code, Command Mean, Argument, Question Sample, Answer Sample
-    [`QRG`,'Frequency / Room Number check of <code>FREQ</code>', '<code>FREQ</code>: (float/string, <i>Valid Frequency</i>/<i>Room ID</i>/<i>Room Name</i>)', 'Will you tell me your frequency?', 'Your frequency is ________ KHz.']
+    [`QRG`,'Frequency / Room Number check of <code>FREQ</code>', '<code>FREQ</code>: (float/string, <i>Valid Frequency</i>/<i>Room ID</i>/<i>Room Name</i>)', 'Will you tell me your frequency?', 'Your frequency is ________ KHz.'],
 ]
 
 // ALT + (0, 1, 5, 1) = `—` LONG DASH
@@ -22,8 +22,9 @@ const Tabling = [
             {Tabling.map((thing)=>(
                 <tr>
                     <td>
-                        <span set:html={thing[0]} style='font-size:x-large;font-weight: bold;'></span>
-                        <br/><br/>
+                        <span set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></span>                        
+                    </td>
+                    <td>
                         <Fragment set:html={thing[1]}/>
                     </td>
                     <td>
@@ -44,5 +45,6 @@ const Tabling = [
     <br/>
     <ul>
         <li><a href='https://en.wikipedia.org/wiki/Q_code' target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+        <li><a href='https://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf' target="_blank" rel="noopener noreferrer">ARRL</a></li>
     </ul>
 </p>

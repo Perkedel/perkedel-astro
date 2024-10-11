@@ -1,0 +1,67 @@
+---
+import FCKDRMCorrect from "@components/Icons/FCKDRMCorrect.astro";
+import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
+
+const Tabling = [
+    // Letter, Phonetic, Pronounciation
+    [`A`,'Alpha','<b>AL</b> FAH'],
+    [`B`,'Bravo','<b>BRAH</b> VOH'],
+    [`C`,'Charlie','<b>CHAR</b> LEE'],
+    [`D`,'Delta','<b>DELL</b> TAH'],
+    [`E`,'Echo','<b>ECK</b> OH'],
+    [`F`,'Foxtrot','<b>FOKS</b> TROT'],
+    [`G`,'Golf','<b>GOL</b>F'],
+    [`H`,'Hotel','HOH <b>TEL</b>'],
+    [`I`,'India','IN <b>DEE</b> AH'],
+    [`J`,'Juliet','<b>JUW</b> LEE ETT'],
+    [`K`,'Kilo','<b>KEE</b> LOH'],
+    [`L`,'Lima','<b>LEE</b> MAH'],
+    [`M`,'Mike','<b>MAAIK</b>'],
+    [`N`,'November','NO <b>VEM</b> BER'],
+    [`O`,'Oscar','<b>OSS</b> KAH'],
+    [`P`,'Papa','<b>PAH</b> PAH'],
+    [`Q`,'Quebec','<b>KEH</b> BEK'],
+    [`R`,'Romeo','<b>ROW</b> MAE OH'],
+    [`S`,'Sierra','SEE <b>ERR</b> RAH'],
+    [`T`,'Tango','<b>TENG</b> GO'],
+    [`U`,'Uniform','<b>YUU</b> NEE FORM'],
+    [`V`,'Victor','<b>VIK</b> TAH'],
+    [`W`,'Whiskey','<b>WIS</b> KEE'],
+    [`X`,'X-ray','<b>EKS</b> RAY'],
+    [`Y`,'Yankee','<b>YENG</b> KEE'],
+    [`Z`,'Zulu','<b>ZOO</b> LOO'],
+]
+
+// ALT + (0, 1, 5, 1) = `—` LONG DASH
+---
+<div style='overflow-x:auto;'>
+    <table id='QCodeList'>
+        <thead>
+            <th>Letter</th>
+            <th>Phonetic</th>
+        </thead>
+        <tbody>
+            {Tabling.map((thing)=>(
+                <tr>
+                    <td>
+                        <span set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></span>                        
+                    </td>
+                    <td>
+                        <Fragment set:html={thing[1]}/>
+                    </td>
+                    <td>
+                        <Fragment set:html={thing[2]}/>
+                    </td>
+                </tr>
+            ))}
+        </tbody>
+    </table>
+</div>
+<p>Sauces:
+    <br/>
+    <ul>
+        <!-- <li><a href='' target="_blank" rel="noopener noreferrer">Wikipedia</a></li> -->
+        <li><a href='https://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf' target="_blank" rel="noopener noreferrer">ARRL</a></li>
+        <li><a href='https://www.phl.org/at-phl/kids-corner/aviation-alphabet' target="_blank" rel="noopener noreferrer">Philadelphia International Airport</a></li>
+    </ul>
+</p>

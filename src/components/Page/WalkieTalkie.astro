@@ -20,6 +20,7 @@ import DRMCompare from '@components/Elements/SparePart/Tables/DRMCompare.astro';
 import DRMFreeQuote from '@components/Elements/SparePart/DRMFreeQuote.astro';
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 import QCode from "@components/Elements/SparePart/Tables/QCode.astro";
+import QCode from "@components/Elements/SparePart/Tables/PilotABC.astro";
 
 export interface Props{
     nsfw?:Boolean;
@@ -68,9 +69,16 @@ const{
 
     <section id='section-cheatsheet'>
         <h2>Cheatsheet</h2>
-            <h3>Q-Code</h3>
-                <QCode/>
-            <h3>ITU Alphabet (Pilot ABC)</h3>
+            <details open="open">
+                <summary>Q-Code</summary>
+                <h3>Q-Code</h3>
+                    <QCode/>
+            </details>
+            <details open="open">
+                <summary>Pilot ABC</summary>
+                <h3>ITU Alphabet (Pilot ABC)</h3>
+                    <PilotABC/>
+            </details>
     </section>
 
     <section id='section-AnalogHamRadio'>
