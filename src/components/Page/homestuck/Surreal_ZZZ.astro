@@ -1,0 +1,55 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+// import CorePage from '@compnents/Page/__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreHomestuck from './__base/CoreHomestuck.astro';
+
+const filename:string = 'Surreal_ZZZ'
+const isNSFW:boolean = false;
+const addHeaderTitle:string = 'Surreal Blender Meme x Zenless Zone Zero';
+const addMetaTitle:string = 'Surreal Blender Meme x Zenless Zone Zero';
+const addKeywords:string = 'Surreal Meme, ZZZ, Zenless Zone Zero, Sediron, social media, drama, toxicity, expose,';
+const addDescriptions:string = 'The Etheric HT';
+const skipHeader:boolean = false;
+const skipNav:boolean = false;
+const skipFooter:boolean = false;
+const disableOverwhelmStatement:boolean = true;
+const endSay:string = 'End';
+const author:string = 'JOELwindows7';
+const company:string = 'Perkedel Technologies';
+const licenseSay:string = 'CC4.0-BY-SA';
+const companyImgSrc:string = '/Perkedel_Icon.png';
+const licenseImgSrc:string = '';
+const licenseUrl:string = '';
+const isWIP:boolean = true;
+
+const{
+    nsfw = false,} = Astro.props;
+---
+<CoreHomestuck
+    nsfw={nsfw} isNSFW={isNSFW}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    filename={filename}
+    endSay={endSay}
+    company={company}
+    companyImgSrc={companyImgSrc}
+    licenseSay={licenseSay}
+    licenseImgSrc={licenseImgSrc}
+    isWIP={isWIP}
+>
+    <p>A Fangame</p>
+    
+</CoreHomestuck>

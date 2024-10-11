@@ -1,0 +1,48 @@
+---
+import FCKDRMCorrect from "@components/Icons/FCKDRMCorrect.astro";
+import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
+
+const Tabling = [
+    // Code, Command Mean, Argument, Question Sample, Answer Sample
+    [`QRG`,'Frequency / Room Number check of <code>FREQ</code>', '<code>FREQ</code>: (float/string, <i>Valid Frequency</i>/<i>Room ID</i>/<i>Room Name</i>)', 'Will you tell me your frequency?', 'Your frequency is ________ KHz.']
+]
+
+// ALT + (0, 1, 5, 1) = `—` LONG DASH
+---
+<div style='overflow-x:auto;'>
+    <table id='QCodeList'>
+        <thead>
+            <th>Q-Code</th>
+            <th>Command Meaning</th>
+            <th>Arguments</th>
+            <th>Question Sample</th>
+            <th>Answer Sample</th>
+        </thead>
+        <tbody>
+            {Tabling.map((thing)=>(
+                <tr>
+                    <td>
+                        <span set:html={thing[0]} style='font-size:x-large;font-weight: bold;'></span>
+                        <br/><br/>
+                        <Fragment set:html={thing[1]}/>
+                    </td>
+                    <td>
+                        <Fragment set:html={thing[2]}/>
+                    </td>
+                    <td>
+                        <Fragment set:html={thing[3]}/>
+                    </td>
+                    <td>
+                        <Fragment set:html={thing[4]}/>
+                    </td>
+                </tr>
+            ))}
+        </tbody>
+    </table>
+</div>
+<p>Sauces:
+    <br/>
+    <ul>
+        <li><a href='https://en.wikipedia.org/wiki/Q_code' target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
+    </ul>
+</p>

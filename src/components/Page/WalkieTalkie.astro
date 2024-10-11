@@ -18,7 +18,8 @@ import EFFIcon from '@components/Icons/EFFIcon.astro';
 import DeffectiveByDesignIcon from '@components/Icons/DeffectiveByDesignIcon.astro';
 import DRMCompare from '@components/Elements/SparePart/Tables/DRMCompare.astro';
 import DRMFreeQuote from '@components/Elements/SparePart/DRMFreeQuote.astro';
-import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
+import MessageBoxTemplate from "@components/Elements/SparePart/Tables/QCode.astro";
+import QCode from
 
 export interface Props{
     nsfw?:Boolean;
@@ -65,6 +66,13 @@ const{
 
     <p>Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!<br/>Here, you'll find informations about everything radio communications, its successors, and mods.</p>
 
+    <section id='section-cheatsheet'>
+        <h2>Cheatsheet</h2>
+            <h3>Q-Code</h3>
+                <QCode/>
+            <h3>ITU Alphabet (Pilot ABC)</h3>
+    </section>
+
     <section id='section-AnalogHamRadio'>
         <h2>Analog Ham Radio</h2>
             <p>The OG of Radio Communications. <a href='https://en.wikipedia.org/wiki/Walkie-talkie' target='_blank' rel='noopener noreferrer'>Established in 1937 by Donald Hings, Motorola, & friends</a>, where its initial purpose began for soldiers, now all essential communication that requires seamlessness, speed, & reliability.</p>
@@ -75,13 +83,13 @@ const{
             <MessageBoxTemplate
                 severity={0}
                 paragraphTitle={true}
-                headingTitle={"Please do not be confused!"}
+                headingTitle={"Please do not get confused!"}
                 detailSummary={"Debunking Misconceptions, sorta"}
                 opens={false}
             >
-            <p>As far we have researched, DMR is just a complicated glorified POC. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you connect your HT to. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection to the Hotspot and/or POC devices</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
+            <p>As far we have researched, DMR is just a <b class='error'>complicated glorified POC</b>. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you <b class='warn'>connect your HT to</b>. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection to the Hotspot and/or POC devices</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
 
-            </MessageBoxTemplate>
+            </MessageBoxTemplate>           
             <p>Successors to Analog Ham, DMR is the major improvement in the radio communications. Beside resolving disadvantages of the Analog, it also adds more feature such as Messages, & ability to send special datas.</p>
     </section>
 
@@ -93,6 +101,16 @@ const{
             <br/>
             Because POC is basically just a Social Messenger, not only it's very easy to use, but also <b style='font-size:xx-large' class='success'><i>More License Free</i></b> (legally speaking). You may still need to subscribe to use and/or obtain certain features, but usually not as strict nor complicated as above 2 protocols.
             </p>
+            <h3>Top Messengers</h3>
+                <p>Below, are the popular Social Messenger that you can use in the this context of PTT</p>
+                <ul>
+                    <li><b class='success'>Zello</b> POPULAR!</li>
+                    <li>Teamspeak</li>
+                    <li><del>Discord</del> <b class='error'>No PTT keybind config for Mobile version</b></li>
+                    <li><del>MS Team</del></li>
+                    <li><del>VRChat</del></li>
+                    <li><del>ChilloutVR</del> <b class='error'>Not meant for PTT or too complicated</b></li>
+                </ul>
     </section>
 
     <section id='section-license'>
@@ -114,7 +132,7 @@ const{
                             <li>For ORARI, not only to complete the fee, <b class='warn'>you are also required to take exam in the physical office or place</b>. Track the schedule & location in the <ButtonizedLink href='https://iar-ikrap.postel.go.id/site/informasiUNAR' openInNewTab={true}><code>INFORMASI</code> banner menu, <code>Jadwal Pelaksanaan UNAR</code></ButtonizedLink>. Once finished & you passed, you'll be given callsign few days later that you can read on the SDPPI portal again</li>
                         </ul>
                         <br/>
-                        Please note, <b class='warn'>callsign for RAPI & ORARI are different</b>! Use which correctly on which comm realm you use. Also, the difference between the two are the service area. RAPI is whole Indonesia, while ORARI is international (basically Ham radio in general). If you are unsure, try ORARI first, since RAPI is considerably the <i>LITE version</i> of Ham Radio Comms. Even though is hard & might by toxic, an old acquintance of mine once said to go there first if I'd like to begin it this radio comms. However, if registering license & how hardcore is the ethic to you, you can try just any POC first.
+                        Please note, <b class='warn'>callsign for RAPI & ORARI are different</b>! Use which correctly on which comm realm you use. Also, the difference between the two are the service area. RAPI is whole Indonesia, while ORARI is international (basically Ham radio in general). If you are unsure, try ORARI first, since RAPI is considerably the <i>LITE version</i> of Ham Radio Comms. Even though is hard & might by toxic (usually from other planets), an old acquintance of mine once said to go there first if I'd like to begin it this radio comms. However, if registering license & how hardcore is the ethic to you, you can try just any POC first.
                         <br/>
                         Chances are, you already did with Discord, MS Team (Formerly Skype & Windows Live Messenger), Yahoo Messenger, TeamSpeak, VRChat, ChilloutVR, etc. Though are less authentic for the context of PTT of course. <br/>
                         Simply learn new morely basic ethics of:
