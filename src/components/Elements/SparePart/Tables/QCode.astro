@@ -3,8 +3,8 @@ import FCKDRMCorrect from "@components/Icons/FCKDRMCorrect.astro";
 import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
 
 const Tabling = [
-    // Code, Command Mean, Argument, Question Sample, Answer Sample
-    [`QRG`,'Frequency / Room Number check of <code>FREQ</code>', '<code>FREQ</code>: (float/string, <i>Valid Frequency</i>/<i>Room ID</i>/<i>Room Name</i>)', 'Will you tell me your frequency?', 'Your frequency is ________ KHz.'],
+    // Code, Command Mean, Argument {Type (Expected value)}, Question Sample, Answer Sample
+    [`QRG`,'Frequency / Room Number check of <code>FREQ</code>', [`FREQ`,[`Float (Frequency Mhz)`,`String (Room Name / ID)`]], 'Will you tell me your frequency?', 'Your/My frequency is ________ KHz.'],
 ]
 
 // ALT + (0, 1, 5, 1) = `—` LONG DASH
@@ -28,7 +28,20 @@ const Tabling = [
                         <Fragment set:html={thing[1]}/>
                     </td>
                     <td>
-                        <Fragment set:html={thing[2]}/>
+                        {/* <Fragment set:html={thing[2]}/> */}
+                        <ul>
+                        {thing[2].map((arges)=>(
+                            <Fragment>
+                                <li><code>{arges[0]}</code>:<br/>
+                                    <ul>
+                                        {arges[1].map((types)=>(
+                                        <li>{types}</li>
+                                        ))}
+                                    </ul>
+                                </li>
+                            </Fragment>
+                        ))}
+                        </ul>
                     </td>
                     <td>
                         <Fragment set:html={thing[3]}/>
