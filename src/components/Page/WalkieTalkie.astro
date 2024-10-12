@@ -100,8 +100,8 @@ const{
                 detailSummary={"Debunking Misconceptions, sorta"}
                 opens={true}
             >
-            <p>As far we have researched, DMR is just a <b class='error'>complicated glorified POC</b>. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you <b class='warn'>connect your HT to</b>. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection to the Hotspot and/or POC devices</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
-
+                <p>As far we have researched, DMR is just a <b class='error'>complicated glorified POC</b>. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you <b class='warn'>connect your HT to</b>. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection to the Hotspot and/or POC devices</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
+                <p>Still not believing it? <b style='font-size: large;'>Me too!!</b> But, an <i>Experienced Expert</i> whose happened to be there when I was buying my own HT <u style='font-size: large;'>says so</u>. Idk!! Many tutorial says basically to connect the hotspot Pi-Star into a national HAM radio DMR server something2.</p>
             </MessageBoxTemplate>           
             <p>Successors to Analog Ham, DMR is the major improvement in the radio communications. Beside resolving disadvantages of the Analog, it also adds more feature such as Messages, & ability to send special datas.</p>
     </section>
@@ -125,6 +125,7 @@ const{
                     <li><del>MS Team</del> <b class='error'>No PTT keybind config</b></li>
                     <li><del>VRChat</del> <b class='error'>Not meant for PTT or too complicated</b></li>
                     <li><del>ChilloutVR</del> <b class='error'>Not meant for PTT or too complicated</b></li>
+                    <li><i>For more POC hacks & tools, see section <a href='#mods'>Mods</a></i></li>
                 </ul>
     </section>
 
@@ -174,7 +175,7 @@ const{
     </section>
 
     <section id="section-mods">
-        <h2>Mods</h2>
+        <h2 id='mods'>Mods</h2>
             <p>wceload & radiocomms rabbit hole are not complete without mods. Modifying your electronics opens up extra capability which are absent in the original design & never seen before. Here, you can modify your radios to add more features, opens up new band types, & expand the frequency ranges. Of course, <b class='warn'>at your own risk</b> 😜😛😝.</p>
 
             <h3>Quansheng</h3>
@@ -183,6 +184,58 @@ const{
                 <p>...</p>
             <h3>Android</h3>
                 <p>...</p>
+                <h4>Apps</h4>
+                    <p>Many sellers who sell Android based POC HT, recommends that you install these apps of which POC platform used <b>at specific version</b> instead of getting the latest up to date version straight from Google Play. This is due to the compatiblity issues both with the Android version each HT stuck with & the application version that may requires later version just to connect to the server or channel. The following are the examples of which app version you should install to ensure compatibility amongst brikers across universe.</p>
+                    <ul>
+                        <li>Zello: <b class='info'>v5.9.1</b> (for Android 5+) (Optional, No matter what version even the latest, Zello can connect to any free channels anyways)</li>
+                        <li>TeamSpeak: <b class='error'>v3.0.23</b> (for Android 5+) (<b class='error'>IMPORTANT</b>, latest version is incompatible with HT dedicated server, latest version server cannot connect to old TS client; <b class='error'>You are still required to buy TeamSpeak legit from Google Play</b> once for lifetime per Gmail logged in to HT, then install Full paid apk of told version to the device)</li>
+                        <li>TeamSpeak Server: <b class='error'>v???</b> (for Windows) (<b class='error'>IMPORTANT</b>, latest version server cannot connect to old TS client)</li>
+                        <li>WalkieFleet: <b class='info'>v5.5.5</b> (for Android 5+) (Optional, No matter what version even the latest, WalkieFleet can connect to any available server of any version anyways. Some functions such as GPS may not work)</li>
+                        <li>DVSwitch Mobile: <b class='info'>v2.0.4</b> (for Android 5+) (Optional, DMR is supposedly version agnostic since it's an open standard)</li>
+                        <li>microG (Alternative Lightweight & Portable Google Play Service): <b class='warn'>v0.2.22.223616</b> (for Android 5+) (<b class='error'>IMPORTANT</b>, To ensure compatibility with Android 5; Also it is required for TeamSpeak since the full version still checks <b class='error' title='pirated'>if you sparsdated it</b> or not)</li>
+                    </ul>
+                <h4 id='apk_install_insufficient_space'>APK Install Insufficient Space Error despite not memory full</h4>
+                    <p>Some HT such as ones manufactured by Shanghai Motorola Product (SMP) (& ODMs) at some of which series have gross architecture of Qualcomm-Feixun, has APK installation lock in place that activates everytime these devices boots. You will need to do the following to temporarily unlock the APK installations</p>
+                    <ul>
+                        <li>Open app <code>Settings</code> (<code>Pengaturan</code>)</li>
+                        <li>Open app <code>Settings</code> (<code>Pengaturan</code>)</li>
+                        <li>Click OK multiple times <code>Model Number</code> (<code>Nomor Model</code>) until you see a special dialogue</li>
+                        <li>insert password <code>123789</code> to that text box, then <code>OK</code></li>
+                        <li>You should now be able to drag & drop scrcpy again, & success to install the apk. Please note, if you reboot <b class='error'>the lock will activates again</b> & you will have to repeat above steps to unlock again.</li>
+                    </ul>
+                <h4>Gmail Login Trouble</h4>
+                    <p>If you unable to login to your Google Play account on these outdated Android devices due to a certain bug (e.g. buttons in <code>Keep your number updated</code> does nothing), chances are it's because of the 2FA has bugged on the older Android version.<br/> Simply <b>turn off you 2FA temporarily</b> (no need to remove rest of the verification methods, just disable the main switch), clear cache (or maybe data too) of the microG service apk, restart the device. Then Login again. Once successful, do with the rest of the old android device you had. <b class='warn' style='font-size: xx-large;'>Do not forget to turn the 2FA back on again!!!</b></p>
+                    <ol>
+                        <li>Simply <b>turn off you 2FA temporarily</b> (no need to remove rest of the verification methods, just disable the main switch)
+                            <ol>
+                                <li>Open other device web browser & open <ButtonizedLink href='https://myaccount.google.com/' openInNewTab={true}>MyAccount.Google.com</ButtonizedLink> OR in Android, go to setting & open Google Setting.</li>
+                                <li>Left Category <code>Security</code> (<code>Keamanan</code>)</li>
+                                <li>Open <code>2 Factor Authentication</code> (<code>Verifikasi 2 Langkah</code>)</li>
+                                <li>Confirm login of your Gmail account</li>
+                                <li>Click <code>Disable 2 Factor Authentication</code> (<code>Nonaktifkan Verifikasi 2 Langkah</code>) & confirm</li>
+                                <li>That's all for this part, <b>No need to do anything else</b></li>
+                            </ol>
+                        </li>
+                        <li>Clear Cache (or maybe data too) of the microG
+                            <ol>
+                                <li>Open up setting of your target HT device</li>
+                                <li>Open up <code>Application</code> (<code>Aplikasi</code>) setting</li>
+                                <li>Navigate down to find <code>microG</code> & <code>Google Play</code> app. Open that</li>
+                                <li>Force Stop</li>
+                                <li>Clear Cache</li>
+                                <li>Delete Data (maybe? just in case)</li>
+                                <li>Uninstall & reinstall (perhaps??? if the login cache still not clear..). <a href='#apk_install_insufficient_space'>Use above unlock steps if your HT is SMP & <code>Insufficient Space</code> error</a></li>
+                                <li><i>Repeat for the rest of the app services & Google Play</i></li>
+                            </ol>
+                        </li>
+                        <li>
+                            <b>Restart your target device</b>
+                        </li>
+                        <li>Login with your Gmail account again. Accept confimation if <code>Is this you</code> dialog appears on your main device.</li>
+                        <li>It should now work.</li>
+                        <li>Repeat for the rest of the device</li>
+                        <li>Once you finished all, <b class='warn' style='font-size: xx-large;'>Do not forget to turn the 2FA back on again!!!</b></li>
+                    </ol>
     </section>
 
     <p style='font-size:xx-small'>Zenless Zone Zero & the logo <code>ZZZ</code> Copyright Hoyoverse<span title="Surreal Blender Meme x ZZZ is a fangame from Perkedel Tecnologies featuring characters from legendary gacha game Zenless Zone Zero. The experience you have been long time ago has now returned in a new formula with the setting at this point now aligns around the release time of this fangame. The story tells about a Hollow that somehow appeared in Surreal Blender Meme realm. Lancaster a.k.a. L (read: Lima) & friends are confused for how it happened. Luckily, Eitch a.k.a. H (read: Hotel) were able to call for help, which are the people from the Zenless universe. Fight all the EWthereals & other thugs once again in the same or similar format as in the original game that has been lost in time, all offline & GRATIS. The reason that we highlight this, is because in this fangame is full of HT Radios usage. In the main story, you get a quest regarding about this very HT & Rigs. From how to use, and utilizations. In the middle of the story, the Surreal Military issued a special DMR-like technology since the Ether consentration around the mission area becomes too strong, it destroyed every types of communication band possibles. The Military managed to create a special inter-dimensional band that allows frequency to travel not only in realm, but also across realms. It even unifies & simplify DMR connection with the special inter-dimensional antenna, so no more Hotspot will be required. Just 1 hotspot in Arenod Sediron Royal Palace. Spoiler alert, in the final chapter, you will find out that the final Hollow (Hollow Zero of Surreal) was being taken benefit by a Radio scalpers who scalp radios to be destroyed to ruin communication because of his terrible past, which is being betrayed by his own friends. His goal was to destroy all communications so no more connections & no betrayals, by disturbing airwaves multiple alt accounts, etc. etc. ('I am lost, just like you guys' as boss defeated & about to be arrested). This final boss right here while initially looks common, but too strong like Thanos once the epic final fight began. In fact, combination of Proprietarist & Ethereal. Even the final level is like Avengers Endgame, with chain attacks spans more than 3! You will stop chain attack once one of his combination strips off, and repeat until all. First Ether, Second Proprietarism, then Physical. Once defeated, Lancaster arrested him.">.</span></p>
