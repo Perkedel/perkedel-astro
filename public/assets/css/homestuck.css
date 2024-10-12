@@ -1282,6 +1282,62 @@ You can further make crazy the style with below classes
     --HS-SocialModerators-color: var(--HS-Hemospectrum-LimeBright);
     --HS-SocialModerators-bgColor: var(--HS-Hemospectrum-Clear);
 
+    /* ZENLESS ZONE ZERO */
+
+    /* Anby Demara. Cunning Hares */
+    --HS-AnbyDemara-color: var(--HS-Hemospectrum-Null);
+    --HS-AnbyDemara-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-AnbyDemara-prefix: "Anby Demara: " / "Anby Demara says, ";
+    --HS-AnbyDemara-fontStyle: normal;
+
+    /* Nicole Demara. Cunning Hares, Leader */
+    --HS-NicoleDemara-color: var(--HS-Hemospectrum-Null);
+    --HS-NicoleDemara-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-NicoleDemara-prefix: "Nicole Demara: " / "Nicole Demara says, ";
+    --HS-NicoleDemara-fontStyle: normal;
+
+    /* Billy Kid. Cunning Hares */
+    --HS-BillyKid-color: var(--HS-Hemospectrum-Null);
+    --HS-BillyKid-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-BillyKid-prefix: "Billy Kid: " / "Billy Kid says, ";
+    --HS-BillyKid-fontStyle: normal;
+
+    /* Belle. Phaethon */
+    --HS-BellePhaethon-color: var(--HS-Hemospectrum-Null);
+    --HS-BellePhaethon-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-BellePhaethon-prefix: "Belle: " / "Belle says, ";
+    --HS-BellePhaethon-fontStyle: normal;
+
+    /* Wise. Phaethon */
+    --HS-WisePhaethon-color: var(--HS-Hemospectrum-Null);
+    --HS-WisePhaethon-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-WisePhaethon-prefix: "Wise: " / "Wise says, ";
+    --HS-WisePhaethon-fontStyle: normal;
+
+    /* Lancaster. Surreal Military */
+    --HS-Lancaster-color: var(--HS-Hemospectrum-Null);
+    --HS-Lancaster-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-Lancaster-prefix: "Lt. Lancaster: " / "Lancaster says, ";
+    --HS-Lancaster-fontStyle: normal;
+
+    /* Mike. Surreal Military */
+    --HS-Mike-color: var(--HS-Hemospectrum-Null);
+    --HS-Mike-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-Mike-prefix: "Assistant Mike: " / "Mike says, ";
+    --HS-Mike-fontStyle: normal;
+
+    /* Eitsch. Surreal Military */
+    --HS-Eitsch-color: var(--HS-Hemospectrum-Null);
+    --HS-Eitsch-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-Eitsch-prefix: "IT Master Eitsch: " / "Eitsch says, ";
+    --HS-Eitsch-fontStyle: normal;
+
+    /* Souviere Entra Grant. HT Museum */
+    --HS-SouviereGrant-color: var(--HS-Hemospectrum-Null);
+    --HS-SouviereGrant-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-SouviereGrant-prefix: "Sovier E. Grant: " / "Sovier Entra Grant says, ";
+    --HS-SouviereGrant-fontStyle: normal;
+
     /* KAMATUSSA */
 
     /* Kamatussa. the OG kamatussa. purposed for anti-porn. had ever murdered entire Vatastora planet for their lewd nature of producing energy, by breeding radiates clean energy and energy be captured. */
@@ -2159,6 +2215,61 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Appinn Deyo */
 .HS.AppinnDeyo::before {
     content: var(--HS-AppinnDeyo-prefix);
+}
+
+/* Jono Dearuf */
+.HS.JonoDearuf::before {
+    content: var(--HS-JonoDearuf-prefix);
+}
+
+/* Buto Dearuf */
+.HS.ButoDearuf::before {
+    content: var(--HS-ButoDearuf-prefix);
+}
+
+/* Riftering */
+.HS.Riftering::before {
+    content: var(--HS-Riftering-prefix);
+}
+
+/* Anby Demara */
+.HS.AnbyDemara::before {
+    content: var(--HS-AnbyDemara-prefix);
+}
+
+/* Nicole Demara */
+.HS.NicoleDemara::before {
+    content: var(--HS-NicoleDemara-prefix);
+}
+
+/* Billy Kid */
+.HS.BillyKid::before {
+    content: var(--HS-BillyKid-prefix);
+}
+
+/* Belle */
+.HS.BellePhaethon::before {
+    content: var(--HS-BellePhaethon-prefix);
+}
+
+/* Wise */
+.HS.WisePhaethon::before {
+    content: var(--HS-WisePhaethon-prefix);
+}
+
+/* Lancaster */
+.HS.Lancaster::before {
+    content: var(--HS-Lancaster-prefix);
+}
+
+/* Souviere Entra Grant */
+.HS.SouviereGrant::before {
+    content: var(--HS-SouviereGrant-prefix);
+}
+
+/* Eitsch */
+.HS.Eitsch::before {
+    content: var(--HS-Eitsch-prefix);
 }
 
 /* 
