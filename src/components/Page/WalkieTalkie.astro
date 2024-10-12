@@ -21,6 +21,7 @@ import DRMFreeQuote from '@components/Elements/SparePart/DRMFreeQuote.astro';
 import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 import QCode from "@components/Elements/SparePart/Tables/QCode.astro";
 import PilotABC from "@components/Elements/SparePart/Tables/PilotABC.astro";
+import PrintButton from "@components/Elements/SparePart/Options/PrintButton.astro";
 
 export interface Props{
     nsfw?:Boolean;
@@ -66,6 +67,8 @@ const{
     </MessageBoxTemplate>
 
     <p>Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!<br/>Here, you'll find informations about everything radio communications, its successors, and mods.</p>
+
+    <p><PrintButton/></p>
 
     <section id='section-cheatsheet'>
         <h2 id='cheatsheet'>Cheatsheet</h2>

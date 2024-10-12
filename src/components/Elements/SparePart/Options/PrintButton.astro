@@ -1,0 +1,49 @@
+---
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import DownloadShowHideListCell from './DownloadShowHideListCell.astro';
+import PerkedelWoosieAdjust from './PerkedelWoosieAdjust.astro';
+
+export interface Props{
+    content?: string;
+    href?: string;
+    hreflang?:string;
+    title?: string;
+    description?: string;
+    target?:string;
+    rel?:string;
+    download?:string;
+    referrerpolicy?:string;
+    type?:string;
+    classe?:string;
+    style?:string;
+    id?:string;
+    openInNewTab?:boolean;
+    opensInNewTab?:boolean;
+    allowRefererNewTab?:boolean;
+    defaultShowURL?:boolean;
+}
+
+const{
+    content = '', // button label
+    href = 'javascript:window.print()', // URL to go to
+    title = '', // hover tooltip
+    description = '', // uh....
+    target = '', // where target? `_blank` is newtab
+    rel = '', // relationship e.g `noopener noreferrer` to break insecure connection in new tab
+    referrerpolicy,
+    download=null,
+    type,
+    hreflang,
+    classe,
+    style,
+    id,
+    openInNewTab = false,
+    opensInNewTab = false,
+    allowRefererNewTab = false,
+    defaultShowURL = true,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<ButtonizedLink href="javascript:window.print()"><slot>🖨️ Print<slot></ButtonizedLink>
