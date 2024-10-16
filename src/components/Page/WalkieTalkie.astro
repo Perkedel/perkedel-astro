@@ -33,7 +33,7 @@ const{
 ---
 <CorePage
     nsfw={nsfw}
-    addKeywords={`Walkie Talkie, Baofeng, Ksun, talkcom, motorola, mototrbo, SMP, HT, POC, PTT, Push to talk, Radio, Ham Radio, Ham`}
+    addKeywords={`Walkie Talkie, Baofeng, Ksun, talkcom, motorola, mototrbo, SMP, kinota, kinnota, Inrico, Hytera, HT, POC, PTT, Push to talk, Radio, Ham Radio, Ham`}
     addDescriptions='Walkie Talkie. Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!'
     addHeaderTitle='Walkie Talkie'
     addMetaTitle='Walkie Talkie & Radios'
@@ -74,34 +74,32 @@ const{
         <h2 id='cheatsheet'>Cheatsheet</h2>
             <details open="open">
                 <summary>Radio CheatSheets</summary>
+                <h3>Essential Template</h3>
+                    <p class='info' style='background-color:blue;color:white;font-size:3.5em;font-weight:bolder;border-radius:5px;margin:0px;text-align:center;padding:5px;'>___<code>STARTING</code>___, ___<code>CALLSIGN/USERNAME</code>___. ___<code>TOPICS</code>___, ___<code>ENDING</code>___</p>
+                    <ul>
+                        <li><code>STARTING</code>. String (Mark the start)
+                            <ul>
+                                <li><i>CQ/Secu/Sekyu</i></li>
+                                <li><i>Brik Brik</i> (Indonesia)</li>
+                            </ul>
+                        </li>
+                        <li><code>CALLSIGN/USERNAME</code>. String (Your callsign or username)</li>
+                        <li><code>TOPICS</code>. String (What would you like to talk about)
+                            <ul>
+                                <li>City</li>
+                                <li>About me</li>
+                                <li>Situations</li>
+                            </ul>
+                        </li>
+                        <li><code>ENDING</code>. String (Mark the end)
+                            <ul>
+                                <li><i>Over</i></li>
+                                <li><i>Ganti</i> (Indonesia)</li>
+                            </ul>
+                        </li>
+                    </ul>
                 <div class='cheatsheet-content row'>
-                    <h3>Essential Template</h3>
-                        <p class='info' style='background-color:blue;color:white;font-size:3.5em;font-weight:bolder;border-radius:5px;margin:0px;text-align:center;padding:5px;'>___<code>STARTING</code>___, ___<code>CALLSIGN/USERNAME</code>___. ___<code>TOPICS</code>___, ___<code>ENDING</code>___</p>
-                        <ul>
-                            <li><code>STARTING</code>. String (Mark the start)
-                                <ul>
-                                    <li><i>CQ/Secu/Sekyu</i></li>
-                                    <li><i>Brik Brik</i> (Indonesia)</li>
-                                </ul>
-                            </li>
-                            <li><code>CALLSIGN/USERNAME</code>. String (Your callsign or username)</li>
-                            <li><code>TOPICS</code>. String (What would you like to talk about)
-                                <ul>
-                                    <li>City</li>
-                                    <li>About me</li>
-                                    <li>Situations</li>
-                                </ul>
-                            </li>
-                            <li><code>ENDING</code>. String (Mark the end)
-                                <ul>
-                                    <li><i>Over</i></li>
-                                    <li><i>Ganti</i> (Indonesia)</li>
-                                </ul>
-                            </li>
-                        </ul>
-                    <h3>Example Snippet</h3>
-                        <p>This is do I think radio comms basically</p>
-                        <p class=''></p>
+                    
                     <div class="column colRight colPrint">
                         <h3>Q-Code</h3>
                             <p>Q-code is used as a communication shortcut, typically used on morse code communication mode to make typing faster & efficient. Sometimes agencies used it also to semi-encrypt messages or to aleviate limited comms time and <b title='such as in SMS, e.g. per character costs 1 Pts Toll a.k.a. Pulsa'>high costs</b>.</p>
@@ -112,7 +110,81 @@ const{
                             <p>Pilot ABC is used to state/spell out the ID of a callsign. Like with the case of spelling <b>flight numbers</b> with pilot & ATC, it resolves letter pronounciation confusion amongst international & intergalactic languages.</p>
                             <PilotABC/>
                     </div>
-                </div>  
+                    
+                </div>
+                <h3>Example Snippet</h3>
+                    <p>This is do I think radio comms basically based on many times of monitor experience</p>
+                    <p class='HS Info'>You are going have Lancaster enter trust level 4. But Lancaster is not here today, perhaps because he got a sudden commission. It might be a good idea to call the group chat just in case. Belle starts HT with Surreal Hollow Examination team group chat (SMS in the original ZZZ game), & got Lancaster answers as usual</p>
+                    <p class='HS BellePhaethon'>(Press Hold PTT).., Roger?.. Monitor?.. <code title='Callsign/Username for this DNB DMR'>BellePhaethon</code>.., Over?.. (Release PTT)</p>
+                    <p class='HS Lancaster'>(Press Hold PTT) Rogeeeer..., <code title='Callsign/Username for this DNB DMR'>LancasterLima</code> dimonitor!... Hey, Belle! What's up?-Ganti.. (Release PTT)</p>
+                    <p class='HS BellePhaethon'>(Press Hold PTT) I just... would like to meet you, if you can.. (Release PTT)</p>
+                    <p class='HS Lancaster'>(Press Hold PTT) Roger, Wow, never find a frontliner I hired before would like to personally meet.., but don't get me wrong! I do wish any agents would accompany me by will for a sec, that's great!...., Buut.. ah heheheheheee, ............. I wish I'm not busy right now, you-.. you'll see, I had this House of Survivors (Harrasment Survivor, Panti-Jompo but for victim of cyber-bullying) in needs for this exact Radio Comms, we're setting them all up right now, hehe.. Ganti.. (Release PTT)</p>
+                    <p class='HS Info'>Options available: <code>Understood</code>, <code>God Bless You</code>. Choose the second!</p>
+                    <p class='HS BellePhaethon'>(Press Hold PTT) Oh.. Okay, I see, (remember signature word) uh, <code>Great Luck, & God Bless you</code>~, yeah. Over. (Release PTT)</p>
+                    <p class='HS Lancaster'>(<b class='success'>Trust Increase++ (BONUS pre-entry), Cool and Good</b>) (Press Hold PTT) (felt appreciated) Oh!!.., oh (blush).., haha.. Thancc... Okey.. (flirted) Well.. I.. (interupted) Yeah?</p>
+                    <p class='HS Eitschs'>(Press Hold PTT) Brik Brik test 1-2-3 Ganti.. (Release PTT)</p>
+                    <p class='HS Lancaster'>(Press Hold PTT) It works, but.. you connected to the wrong channel, Ganti (Release PTT)</p>
+                    <p class='HS Eitschs'>Oh sh{nsfw?`it`:`88`}, (immediately switch to correct channel <code>Surreal Cyber Citadel No.0</code> Mumble server), (Press Hold PTT) Tes tes (Release PTT)..</p>
+                    <p class='HS Lancaster'>(the correct HT receiving confirmed) Ah yess (Press Hold PTT on that HT) Okay it works (Release PTT of that), (Press Hold PTT on main) So.. yeah, ... sorry~... Ganti (Release PTT)</p>
+                    <p class='HS BellePhaethon'>(Press Hold PTT) When you'll be done? over (Release PTT)</p>
+                    <p class='HS Lancaster'>(Press Hold PTT) This time, the commission time is not definite, because the area is very <b>HU</b>ge, you know-..-coz.. they had alot of kids & adults being recovered there, lots of room!. Oh yeah, yea-yeah. Sorry, I'll see you later, but it's urgent this time, Over & out (Release PTT)</p>
+                    <p class='HS Info'>Lancaster immediately <i>left the chat</i> & continue on his work. Perhaps it's time to wait for the tomorrow?
+                    <br/>
+                    Dialog ended! 
+                    </p>
+                <h3>Form Factors & Communication types</h3>
+                    <p>Radio Comms comes with various form factors & communication types:</p>
+                    <h4>By Portability:</h4>
+                        <ul>
+                            <li><b style='font-size:large;'>Handheld</b></li>
+                            <li><b style='font-size:large;'>Rig</b></li>
+                        </ul>
+                    <h4>By Display presence:</h4>
+                        <ul>
+                            <li><b style='font-size:large;'>Display</b> (usually with buttons beside dials).</li>
+                            <li><b style='font-size:large;'>Headless</b> (No display, & usually also buttenless, only dials to select channel).</li>
+                        </ul>
+                    <h4>By Communication types:</h4>
+                        <ul>
+                            <li><b style='font-size:large;'>Analog</b>:
+                                <ul>
+                                    <li>VHF (Very High Frequency): 30 Mhz - 300 Mhz</li>
+                                    <li>UHF (Ultra High Frequency): 300 Mhz - 3000 Mhz</li>
+                                </ul>
+                                <br/>
+                                <span style='font-size:xx-small'>
+                                Sauce: <a href='https://smcgroupglobal.com/frequency-bands' target='_blank' rel='noopener noreferrer' >smcgroupglobal.com</a>, Wikipedia: <a href='https://en.wikipedia.org/wiki/Ultra_high_frequency' target='_blank' rel='noopener noreferrer'>UHF</a>, <a href='https://en.wikipedia.org/wiki/Very_high_frequency' target='_blank' rel='noopener noreferrer'>VHF</a>
+                                </span>
+                            </li>
+                            <li><b style='font-size:large;'>POC</b>:
+                                <ul>
+                                    <li><b style='font-size:large;'>Messengers</b>:
+                                        <br/>
+                                        <span>In-house built protocol, all serves same or similar purpose of private or made-public communications. Some protocols may support media transfer & even live video feeds</span>
+                                        <ul>
+                                            <li><b style='font-size:large;'>Zello</b></li>
+                                            <li><b style='font-size:large;'>Mumble</b></li>
+                                            <li><b style='font-size:large;'>TeamSpeak</b></li>
+                                            <li><b style='font-size:large;'>WalkieFleet</b></li>
+                                            <li><b style='font-size:large;'>POC Global</b></li>
+                                            <li><b style='font-size:large;'>Global PTT</b></li>
+                                            <li><b style='font-size:large;'>POC Star</b></li>
+                                            <li><b style='font-size:large;'>Discord</b></li>
+                                            <li><b style='font-size:large;'>Guilded</b></li>
+                                            <li><b style='font-size:large;'>Microsoft Team</b> (formerly Skype & Windows Live Messenger)</li>
+                                            <li><b style='font-size:large;'>Google Meet</b></li>
+                                            <li><b style='font-size:large;'>Zoom</b></li>
+                                            <li><b style='font-size:large;'>Jitsi</b></li>
+                                            <li><b style='font-size:large;'><del>Yahoo Messenger</del></b> (Deprecated, only Yahoo Mail now)</li>
+                                            <li><b style='font-size:large;'>VRChat</b></li>
+                                            <li><b style='font-size:large;'>ChilloutVR</b></li>
+                                            <li><b style='font-size:large;'>etc.</b></li>
+                                        </ul>
+                                    </li>
+                                    <li><b style='font-size:large;'>DMR</b>. Improvement of Analog. With Chat Grouping, servers aggregated across entire planet / International (usually) or beyond. </li>
+                                </ul>
+                            </li>
+                        </ul>
             </details>
     </section>
 
@@ -237,7 +309,7 @@ const{
                             <li><ButtonizedLink href='https://f-droid.org/id/packages/se.lublin.mumla/' openInNewTab={true} style='font-size:xx-large;'>Mumla (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Client for Mumble the Open Source POC PTT VoIP. <a href='https://gitlab.com/quite/mumla' target='_blank' rel='noopener noreferrer'>Source Code</a><span title={`BIG L, Google! why the hell you so much had desire to just purge whatever old Androids you had there?! What is even wrong with you? I thought you go green-NO, NO! Bull${nsfw?'shit':'8888'}, Our opinion of Go green is ${nsfw?`fucking`:`888888`} still support old devices, or atleast have them re-purposed for something new. idk., Not ignoring those or all!`}>.</span></li>
                             <li><ButtonizedLink href='https://www.mumble.info/downloads/' openInNewTab={true} style='font-size:xx-large;'>Mumble (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Open Source VoIP POC PTT. <a href='https://github.com/mumble-voip/mumble' target='_blank' rel='noopener noreferrer'>Source Code</a></li>
                             <li><ButtonizedLink href='https://yulli.cleanvoice.ru/' openInNewTab={true} style='font-size:x-large;'>Yulli Mur (<b class='warn'>PROPRIETARY gratis</b>)</ButtonizedLink> Ice based Murmur Admin Interface GUI. But part of the <a href='https://github.com/HarpyWar/murmur-ice-net' target='_blank' rel='noopener noreferrer'>Source Code (CORE only) is here</a></li>
-                            <li><ButtonizedLink href='https://drive.google.com/drive/folders/1GmAkCTLaAoBZo0tlhgtU08EVkiMebFLg?usp=drive_link' openInNewTab={true}>DOWNLOAD APKs</ButtonizedLink> from <a href='https://youtu.be/UfZ0obpfZDM' target='_blank' rel='noopener noreferrer'>Divray Jakarta.</a>
+                            <li><ButtonizedLink href='https://drive.google.com/drive/folders/1GmAkCTLaAoBZo0tlhgtU08EVkiMebFLg?usp=drive_link' openInNewTab={true} id='download_APK_divray'>DOWNLOAD APKs</ButtonizedLink> from <a href='https://youtu.be/UfZ0obpfZDM' target='_blank' rel='noopener noreferrer'>Divray Jakarta.</a>
                             <br/>
                             <b class='info' style='font-size:x-large;'>PLEASE RESPECT THE DEVELOPERS!!!</b> They already made the apps with their blood, sweat, & tears. Yes, they are proprietarists, paywallists, & their behaviours are absolutely despisable, especially without same or similar alternatives. But <b class='info'>there is always a way</b>. Since you are downloading these pre-downloaded & modded paid apps just to get these HTs with outdated Android working, you should in anyway buy them with your Gmail account. Simply Download the APK legit from Google Play from any of your Android devices, then buy the Full Version unlock. And if only buy, then buy <b class='error'>& NEVER REFUND AT ALL</b>. Once you have purchased everything in that Gmail accounts, you can now legally continue to use them anywhere you logged in your Gmail to.
                             </li>
@@ -359,7 +431,20 @@ const{
                         <br/>
                         So now you can Zello with your Haj guide people & quickly send signals & receive emergency helps if needed. Pretty cool huh? All is possible because WiFi covers only so much, so Cellular 4G is a must, & important to avoid Roaming as any as possible. 
                     </p>
+                <h4>POC-only HTs still got confiscated by customs/bea-cukai even it would not Analog frequency</h4>
+                    <p>This is is incorrect, these HTs are still smartphones basically, & never transmit any VHF nor UHF frequencies than the cellular (which are 800s of MHz up to about 2 GHz for 4G & around (<a href='https://en.wikipedia.org/wiki/Ultra_high_frequency' target='_blank' rel='noopener noreferrer'><i>idk</i></a>), presumably also is the same common Cellular frequency of the nation you're going to). You can protest this against the custom that confiscated your properties ensuring getting your PIC/Event Organizers handy. If you also have the approval of HT presence certification documents, please use them also.</p>
+            <h3>PC (Windows, Linux, macOS)</h3>
+                <h4>Zello not available on Desktop?</h4>
+                    <p>Unfortunately, Zello Desktop works only for ZelloWork (Zello for enterprise, paid ones). Public Free Zello is only available on Mobile (Android & iOS). If you wish to connect to the public talk servers, you will need to connect with their remote server which hopefully they have. The instruction & information on how to connect to those alternative protocols usually are available on the OG server descriptions or their YouTube channel OR website.
+                    <br/>
+                    If you so desire, try to priotize on <b>Mumble</b>, which is Gratis, Open Source, & mostly version agnostic. e.g., you can use the PC (connected to remote Mumble) for listening, & use your mobile/HT-POC device (connected to the Zello) as the mic brik roger.
+                    </p>
+                <h4>TeamSpeak Error</h4>
+                    <h5>Server/Client Version Outdated</h5>
+                        <p>This is due to the server that been deployed has been dedicated to lock in that version, hence you can no longer use the latest TeamSpeak Client. On the other hand also, they chose so because many cheap HT POC works best with the old TeamSpeak client (which is 3.0.23), and they would like to make sure it's compatible. Therefore you need to install the old TeamSpeak client as well, with above <a href='#download_APK_divray' target='_blank' rel='noopener noreferrer'>Download APK Divray Jakarta</a>.</p>
+                    <h5>How to get old version & which?</h5>
+                        <p><b class='error'>Sorry, we don't have this information at the moment</b>. In the meantime, you can try to deploy a Mumble (Open Source) server instead.</p>
     </section>
 
-    <p style='font-size:xx-small'>Zenless Zone Zero & the logo <code>ZZZ</code> Copyright Hoyoverse<span title="Surreal Blender Meme x ZZZ is a fangame from Perkedel Tecnologies featuring characters from legendary gacha game Zenless Zone Zero. The experience you have been long time ago has now returned in a new formula with the setting at this point now aligns around the release time of this fangame. The story tells about a Hollow that somehow appeared in Surreal Blender Meme realm. Lancaster a.k.a. L (read: Lima) & friends are confused for how it happened. Luckily, Eitch a.k.a. H (read: Hotel) were able to call for help, which are the people from the Zenless universe. Fight all the EWthereals & other thugs once again in the same or similar format as in the original game that has been lost in time, all offline & GRATIS. The reason that we highlight this, is because in this fangame is full of HT Radios usage. In the main story, you get a quest regarding about this very HT & Rigs. From how to use, and utilizations. In the middle of the story, the Surreal Military issued a special DMR-like technology since the Ether consentration around the mission area becomes too strong, it destroyed every types of communication band possibles. The Surreal Military managed to create a special inter-dimensional band that allows frequency to travel not only in realm, but also across realms. It even unifies & simplify DMR connection with the special inter-dimensional antenna, so no more Hotspot will be required. Just 1 hotspot in Arenod Sediron Royal Palace. Spoiler alert, in the final chapter, you will find out that the final Hollow (Hollow Zero of Surreal) was being taken benefit by a Radio scalpers who scalp radios to be destroyed to ruin communication because of his terrible past, which is being betrayed by his own friends. His goal was to destroy all communications so no more connections & no betrayals, by disturbing airwaves multiple alt accounts, etc. etc. ('I am lost, just like you guys' as boss defeated & about to be arrested). This final boss right here while initially looks common, but too strong like Thanos once the epic final fight began. In fact, combination of Proprietarist & Ethereal. Even the final level is like Avengers Endgame, with chain attacks spans more than 3! You will stop chain attack once one of his combination strips off, and repeat until all. First Ether, Second Proprietarism, then Physical. Once defeated, Lancaster arrested him.">.</span></p>
+    <p style='font-size:xx-small'>Zenless Zone Zero & the logo <code>ZZZ</code> Copyright Hoyoverse<span title="Surreal Blender Meme x ZZZ is a fangame from Perkedel Tecnologies featuring characters from legendary gacha game Zenless Zone Zero. The experience you have been long time ago has now returned in a new formula with the setting at this point now aligns around the release time of this fangame. The story tells about a Hollow that somehow appeared in Surreal Blender Meme realm. Lancaster a.k.a. L (read: Lima) & friends are confused for how it happened. Luckily, Eitch a.k.a. H (read: Hotel) were able to call for help, which are the people from the Zenless universe. Fight all the EWthereals & other thugs once again in the same or similar format as in the original game that has been lost in time, all offline & GRATIS. The reason that we highlight this, is because in this fangame is full of HT Radios usage. In the main story, you get a quest regarding about this very HT & Rigs. From how to use, and utilizations. In the middle of the story, the Surreal Military issued a special DMR-like technology since the Ether consentration around the mission area becomes too strong, it destroyed every types of communication band possibles. The Surreal Military managed to create a special inter-dimensional band that allows frequency to travel not only in realm, but also across realms. It even unifies & simplify DMR connection with the special inter-dimensional antenna, so no more Hotspot will be required. Just 1 hotspot in Arenod Sediron Royal Palace. Spoiler alert, in the final chapter, you will find out that the final Hollow (Hollow Zero of Surreal) was being taken benefit by a Radio scalpers who scalp radios to be destroyed to ruin communication because of his terrible past, which is being betrayed by his own friends. His goal was to destroy all communications so no more connections & no betrayals, by disturbing airwaves multiple alt accounts, etc. etc. ('I am lost, just like you guys' as boss defeated & about to be arrested). This final boss right here while initially looks common, but too strong like Thanos once the epic final fight began. In fact, combination of Proprietarist & Ethereal. Even the final level is like Avengers Endgame, with chain attacks spans more than 3! You will stop chain attack once one of his combination strips off, and repeat until all. First Ether, Second Proprietarism, then Physical. Once defeated, Lancaster arrested him. Invite: Kode Undanganku GJXRV5FG2K https://hoyo.link/7DckFBAL?s_c=GJXRV5FG2K">.</span></p>
 </CorePage>
