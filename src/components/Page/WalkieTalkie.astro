@@ -33,7 +33,7 @@ const{
 ---
 <CorePage
     nsfw={nsfw}
-    addKeywords={`Walkie Talkie, Baofeng, Ksun, talkcom, motorola, mototrbo, SMP, kinota, kinnota, Inrico, Hytera, HT, POC, PTT, Push to talk, Radio, Ham Radio, Ham`}
+    addKeywords={`Walkie Talkie, Baofeng, Ksun, talkcom, motorola, mototrbo, SMP, kinota, kinnota, Inrico, Hytera, Retevis, Retekes, OpenGD, Egzumer, CEC, phdlee, HT, POC, PTT, Push to talk, Radio, Ham Radio, Ham`}
     addDescriptions='Walkie Talkie. Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!'
     addHeaderTitle='Walkie Talkie'
     addMetaTitle='Walkie Talkie & Radios'
@@ -206,6 +206,21 @@ const{
                 <p>Still not believing it? <b style='font-size: large;'>Me too!!</b> But, an <i>Experienced Expert</i> whose happened to be there when I was buying my own HT <u style='font-size: large;'>says so</u>. Idk!! Many tutorial says basically to connect the hotspot Pi-Star into a national HAM radio DMR server something2.</p>
             </MessageBoxTemplate>           
             <p>Successors to Analog Ham, DMR is the major improvement in the radio communications. Beside resolving disadvantages of the Analog, it also adds more feature such as Messages, & ability to send special datas.</p>
+            <h3>Connect to DMR</h3>
+                <p>Serveral softwares to connect DMR</p>
+                <ul>
+                    <li><ButtonizedLink href='https://www.pa7lim.nl/peanut/' openInNewTab={true} style='font-size:xx-large'>PA7LIM's Peanut</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://play.google.com/apps/testing/peanut.peanut' openInNewTab={true} style='font-size:xx-large'>PA7LIM's Peanut APK</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true} style='font-size:xx-large'>DVSwitch Mobile APK</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://github.com/nostar/DroidStar' openInNewTab={true} style='font-size:large'>DroidStar APK</ButtonizedLink></li>
+                </ul>
+            <h3>DMR Hotspot</h3>
+                <p>Resources & Softwares for DMR Hotspot</p>
+                <ul>
+                    <li><ButtonizedLink href='https://github.com/HBLink-org/hblink3' openInNewTab={true} style='font-size:xx-large'>HBLink</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://www.pistar.uk/' openInNewTab={true} style='font-size:xx-large'>PiStar</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://brandmeister.network/' openInNewTab={true} style='font-size:xx-large'>Brandmeister</ButtonizedLink></li>
+                </ul>
     </section>
 
     <section id='section-POC'>
@@ -285,9 +300,50 @@ const{
             <p>wceload & radiocomms rabbit hole are not complete without mods. Modifying your electronics opens up extra capability which are absent in the original design & never seen before. Here, you can modify your radios to add more features, opens up new band types, & expand the frequency ranges. Of course, <b class='warn'>at your own risk</b> 😜😛😝.</p>
 
             <h3>Quansheng</h3>
-                <p>...</p>
+                <p>Quansheng Radio Mods</p>
+                <h4>Egzumer</h4>
+                    <p>Egzumer's Firmware Quansheng UV-K5 Radio Mods at <ButtonizedLink href='https://github.com/egzumer' openInNewTab={true}>GitHub: egzumer</ButtonizedLink></p>
+                    <p>
+                        <ul>
+                            <li><ButtonizedLink href='https://github.com/kamilsss655/uv-k5-firmware-custom' openInNewTab={true} style='font-size:xx-large'>kamilsss6555 Fork-edits of Egzumer's Quansheng UV-K5 Mod Firmware</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://egzumer.github.io/uvtools/' openInNewTab={true} style='font-size:xx-large'>Egzumer's Quansheng UV-K5 Firmware Flasher UVTools</ButtonizedLink>, Based on <a href='https://github.com/CookieJarApps/SmartCookieWeb' target='_blank' rel='noopener noreferrer'>whosmatt's</a></li>
+                            <li><ButtonizedLink href='https://github.com/egzumer/uvk5-chirp-driver' openInNewTab={true} style='font-size:xx-large'>Egzumer's Quansheng UV-K5 Chirp Driver</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://github.com/egzumer/uv-k5-firmware-custom' openInNewTab={true} style='font-size:x-large'>OG Merged Egzumer's Quansheng UV-K5 Mod Firmware</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://github.com/joaquimorg/uv-k5-firmware-custom' openInNewTab={true} style=''>joaquimorg's Fork-edits of Egzumer's Quansheng UV-K5 Mod Firmware</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://youtu.be/I4MQMTw45-M?si=TRTLfnAJl7FJh3Yh' openInNewTab={true}>Jon Lawrence's UV-K5 Egzumer mod video</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://youtu.be/PkHZHaQhsqk?si=dl50cf0LrjACyP6R' openInNewTab={true}>Ben's (M7FRS) IDK WHAT FIRMWARE TO PICK!!!</ButtonizedLink></li>
+                        </ul>
+                    </p>
+                <h4>phdlee</h4>
+                    <p>(<b class='warn'>WARNING: for Modchip Hardware mods</b>)phdlee's CEC Firmware Quansheng Radio Mods at <ButtonizedLink href='https://github.com/phdlee/' openInNewTab={true} style=''>GitHub: phdlee</ButtonizedLink></p>
+                    <p>
+                        <ul>
+                            <li><ButtonizedLink href='https://github.com/phdlee/uvk5cec/' openInNewTab={true} style='font-size:x-large'>CEC Quansheng UV-K5 Mod Firmware</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://youtu.be/afxTOR87iNc?si=Z5WU0ipijWWq-AUV' openInNewTab={true}>Tech Minds' UV-K5 Hardware Modchip Si4732 how to Fullband</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://youtu.be/jxwBlp8HfKU?si=MnBkUaC6a204Y4A-' openInNewTab={true}>OM0ET's UV-K5 Hardware Modchip Si4732 how to Fullband</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://youtu.be/z9UWblYmWzU?si=BkIx8Z53-DS7gM-8' openInNewTab={true}>TAKEAPART's UV-K5 Hardware Modchip Si4732 how to Fullband</ButtonizedLink></li>
+                            <li><ButtonizedLink href='https://youtu.be/PkHZHaQhsqk?si=dl50cf0LrjACyP6R' openInNewTab={true}>Ben's (M7FRS) IDK WHAT FIRMWARE TO PICK!!!</ButtonizedLink></li>
+                            <li><ButtonizedLink href='http://www.hamskey.com/?m=1' openInNewTab={true}>Hamskey's CEC firmware downloads</ButtonizedLink></li>
+                        </ul>
+                    </p>
+                <h4>universirius</h4>
+                    <p>(<b class='warn'>WARNING: for Modchip Hardware mods</b>)universirius's IJV Firmware Quansheng Radio Mods at <ButtonizedLink href='https://www.universirius.com/en_gb/preppers/quansheng-uv-k5-manuale-del-firmware-ijv_v3/' openInNewTab={true} style=''>universirius.com</ButtonizedLink></p>
+                    <p>
+                        <ul>     
+                            <li><ButtonizedLink href='https://youtu.be/PkHZHaQhsqk?si=dl50cf0LrjACyP6R' openInNewTab={true}>Ben's (M7FRS) IDK WHAT FIRMWARE TO PICK!!!</ButtonizedLink></li>
+                        </ul>
+                    </p>
             <h3>OpenGD</h3>
-                <p>...</p>
+                <p>Firmware mods for Color & Monochrome screen Ham Radios: Baofeng, Retevis, etc.</p>
+                <p><ButtonizedLink href='https://www.opengd77.com' openInNewTab={true} style='font-size:x-large'>Website: opengd77.com</ButtonizedLink>
+                <br/>
+                <ul>
+                    <li><ButtonizedLink href='https://github.com/LibreDMR/OpenGD77_UserGuide/blob/master/OpenGD77_User_Guide.md' openInNewTab={true}>User Guide</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://www.opengd77.com/viewtopic.php?f=5&t=71' openInNewTab={true}>FAQ</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://www.opengd77.com/viewtopic.php?f=5&t=1770' openInNewTab={true}>How to flash the firmware</ButtonizedLink></li>
+                    <li><ButtonizedLink href='https://www.opengd77.com/viewforum.php?f=21&sid=14216b93d70d35d13410f7e30a9ca720' openInNewTab={true}>Choose your radio!, & Downloads</ButtonizedLink></li>
+                </ul>
+                </p>
             <h3>Android</h3>
                 <p>...</p>
                 <h4>Apps</h4>
@@ -308,6 +364,10 @@ const{
                             <li><ButtonizedLink href='https://apt.izzysoft.de/fdroid/index/apk/com.gigabytedevelopersinc.app.explorer' openInNewTab={true} style='font-size:xx-large;'>FireFiles (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Lightweight File Manager. <a href='https://github.com/gigabytedevelopers/FireFiles' target='_blank' rel='noopener noreferrer'>Source Code</a></li>
                             <li><ButtonizedLink href='https://f-droid.org/id/packages/se.lublin.mumla/' openInNewTab={true} style='font-size:xx-large;'>Mumla (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Client for Mumble the Open Source POC PTT VoIP. <a href='https://gitlab.com/quite/mumla' target='_blank' rel='noopener noreferrer'>Source Code</a><span title={`BIG L, Google! why the hell you so much had desire to just purge whatever old Androids you had there?! What is even wrong with you? I thought you go green-NO, NO! Bull${nsfw?'shit':'8888'}, Our opinion of Go green is ${nsfw?`fucking`:`888888`} still support old devices, or atleast have them re-purposed for something new. idk., Not ignoring those or all!`}>.</span></li>
                             <li><ButtonizedLink href='https://www.mumble.info/downloads/' openInNewTab={true} style='font-size:xx-large;'>Mumble (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Open Source VoIP POC PTT. <a href='https://github.com/mumble-voip/mumble' target='_blank' rel='noopener noreferrer'>Source Code</a></li>
+                            <li><ButtonizedLink href='https://microg.org/download.html' openInNewTab={true} style='font-size:xx-large;'>MicroG (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Open Source Replacement for Google Play Services. <a href='https://github.com/microg' target='_blank' rel='noopener noreferrer'>GitHub</a></li>
+                            <li><ButtonizedLink href='https://f-droid.org/id/packages/dubrowgn.wattz/' openInNewTab={true} style='font-size:x-large;'>Wattz (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Battery Charge Indicator. <a href='https://github.com/dubrowgn/wattz' target='_blank' rel='noopener noreferrer'>Source Code</a></li>
+                            <li><ButtonizedLink href='https://f-droid.org/id/packages/org.droidparts.battery_widget/' openInNewTab={true} style='font-size:x-large;'>Battery Widget (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> Battery Charge Indicator Widget. <a href='https://github.com/yanchenko/droidparts-battery-widget' target='_blank' rel='noopener noreferrer'>Source Code</a></li>
+                            <li><ButtonizedLink href='https://github.com/topjohnwu/magisk/releases' openInNewTab={true} style='font-size:large;'>Magisk (<b class='success'>OPEN SOURCE</b>)</ButtonizedLink> <b class='error'>Root SuperUser</b> Management. <a href='https://github.com/topjohnwu/magisk/' target='_blank' rel='noopener noreferrer'>Source Code</a></li>
                             <li><ButtonizedLink href='https://yulli.cleanvoice.ru/' openInNewTab={true} style='font-size:x-large;'>Yulli Mur (<b class='warn'>PROPRIETARY gratis</b>)</ButtonizedLink> Ice based Murmur Admin Interface GUI. But part of the <a href='https://github.com/HarpyWar/murmur-ice-net' target='_blank' rel='noopener noreferrer'>Source Code (CORE only) is here</a></li>
                             <li><ButtonizedLink href='https://drive.google.com/drive/folders/1GmAkCTLaAoBZo0tlhgtU08EVkiMebFLg?usp=drive_link' openInNewTab={true} id='download_APK_divray'>DOWNLOAD APKs</ButtonizedLink> from <a href='https://youtu.be/UfZ0obpfZDM' target='_blank' rel='noopener noreferrer'>Divray Jakarta.</a>
                             <br/>
@@ -323,7 +383,7 @@ const{
                             <li><ButtonizedLink href='https://github.com/Genymobile/scrcpy' openInNewTab={true} style='font-size:xx-large;'>Screen Copy (scrcpy) Screen Mirroring (<b class='success'>BEST & OPEN SOURCE</b>)</ButtonizedLink> Easy & Reliable Android Screen Mirroring & Remote Desktop to PC. <a href='https://github.com/Genymobile/scrcpy' target='_blank' rel='noopener noreferrer'>Source Code</a></li>
                         </ul>
                 <h4>UI does not fit small screen</h4>
-                    <p>Many cheap Android POC (ones that cost under Rp 900rb) has small screen with a very low resolution, even lesser than typical budget smartphone where most APKs expects their screen size to be. As the result, the UI of these apps forcedly have to live in such a sub-standard sized screen, causing many dialogs & buttons ommited due to other UI elements pushed those out of the visible part of the screen.
+                    <p>Many cheap Android POC (ones that cost under Rp 1,5 jt) has small screen with a very low resolution, even lesser than typical budget smartphone where most APKs expects their screen size to be. As the result, the UI of these apps forcedly have to live in such a sub-standard sized screen, causing many dialogs & buttons ommited due to other UI elements pushed those out of the visible part of the screen.
                     <br/>
                     You should not worry for your case though, since many POC PTT messenger clients would aware of such issue, as what you would do mostly is just press PTT & perhaps occasionally reply silently by typing some short codes. However, you may find that during configuration you encounters a difficulty of the aforementioned screen size issue above. If you had this, you can resolve this issue by attempting to manipulate the resolution shown on your Android HT, using <b>ADB</b>
                     </p>
