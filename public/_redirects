@@ -197,3 +197,5 @@
 /baofeng/* /apps/wceload/walkietalkie/:splat
 /walkietalkie/* /apps/wceload/walkietalkie/:splat
 /walkiefleet/* /apps/wceload/walkietalkie/:splat
+/jasasettinght /apps/microsites/jasasettinght
+/htcommission /apps/microsites/jasasettinght
