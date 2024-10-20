@@ -1,0 +1,88 @@
+---
+import Layout from '@components/Layout.astro';
+import DiscordBouncingPunctured from '@components/Messages/DiscordBouncingPunctured.astro';
+import BouncingVideosSlain from '@components/Messages/BouncingVideosSlain.astro';
+import EpilepsyDiscordBouncingVideo from '@components/Messages/EpilepsyDiscordBouncingVideo.astro';
+import DiscordBounceVideoList from '@components/Elements/SparePart/DiscordBounceVideoList.astro';
+import DiscordBounceVideoListTempLegacy from '@components/Elements/SparePart/DiscordBouncVideoListTempLegacy.astro';
+import DiscordBounceVideoMoreInfo from '@components/Elements/SparePart/DiscordBounceVideoMoreInfo.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+import CoreMicrosite from '@components/Page/microsites/_CoreMicrosite.astro';
+import WhatIsLetMeRender from '@components/Page/microsites/microparts/WhatIsLetMeRender.astro';
+import OrderRenderNow from '@components/Page/microsites/microparts/OrderRenderNow.astro';
+import RenderDiscounts from '@components/Page/microsites/microparts/RenderDiscounts.astro';
+import TodayBlenderVersion from '@components/Elements/SparePart/TodayBlenderVersion.astro';
+import MessageRenderStatus from '@components/Page/microsites/microparts/MessageRenderStatus.astro';
+
+export interface Props{
+    nsfw?:boolean;
+}
+
+let detachedGenital:boolean = true;
+let noNeedNSFW:boolean = true;
+let addHeaderTitle:string = 'CHEAP & HIGH QUALITY SETTING YOUR HT SERVICE';
+let addMetaTitle:string = 'CHEAP & HIGH QUALITY SETTING YOUR HT SERVICE';
+let addKeywords:string = 'HT, POC, Android, Contact us';
+let addDescriptions = 'Let us setup your HTs as high quality as possible, and sit back.';
+let skipHeader:boolean = false;
+let skipNav:boolean = false;
+let skipFooter:boolean = false;
+let disableOverwhelmStatement:boolean = true;
+let author = 'JOELwindows7';
+
+let maxNumCommissionSlot:number = 8;
+let maxNumPerTransactionSlot:number = 240;
+let maxGigabytePerFile:number = 2;
+
+const{
+    nsfw = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+<CoreMicrosite
+    nsfw={nsfw}
+    detachedGenital={detachedGenital}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    noNeedNSFW={noNeedNSFW}
+>
+    <p>Need some help setting up your Radios? Check out these options below!</p>
+    <h2>Choose your way to setup your HTs & Radios!</h2>
+        <div class='row select-how'>
+            <div class='column' class='info'>
+                <!-- Buy service -->
+                <p style='text-align:center;'>Let us set em up for you: IDR ???/Unit</p>
+                <p style='text-align:center;'><ButtonizedLink href='#packages' openInNewTab={false} style='font-size:x-large'>Scroll Down!</ButtonizedLink></p>
+            </div>
+
+            <div class='column' class='success'>
+                <!-- DIY -->
+                <p style='text-align:center;'>Do it all yourself: IDR 0/Unit</p>
+                <p style='text-align:center;'><ButtonizedLink href='/wceload/walkietalkie' openInNewTab={false} style='font-size:x-large'>See perkedel.netlify.app/ht</ButtonizedLink></p>
+            </div>
+        </div>
+    <h2 id='packages'>Available Packages</h2>
+        <section id='section-POC' style='background-color:blue;color:white;'>
+            <h3>POC</h3>
+            <div class='row select-how'>
+                <div class='column'>
+                    <!-- Left -->
+                    
+                </div>
+    
+                <div class='column'>
+                    <!-- Right -->
+                    <p>aaaaaa</p>
+                </div>
+            </div>
+        </section>
+</CoreMicrosite>
