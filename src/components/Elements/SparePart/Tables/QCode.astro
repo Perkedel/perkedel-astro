@@ -4,16 +4,24 @@ import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
 
 const Tabling = [
     // Code, Command Mean, Argument {Type (Expected value)}, Question Sample, Answer Sample
-    [`QRA`,'Username check', [[`NAME`,[`String (Username/Callsign/ID)`,]],], ['What is your Name/Username/Callsign or Station/Yourself/Body?',], ['My name is / The name of this station is <u>__<code>NAME</code>__</u>.',]],
+    [`QRA`,'Username check', [[`NAME`,[`String (Username/Callsign/ID)`,]],], ['What is your Name/Username/Callsign/Station/Yourself/Body?',], ['My name is / The name of this station is <u>__<code>NAME</code>__</u>.',]],
     [`QRG`,'Frequency/Room/Server Number check', [[`FREQ`,[`Float (Frequency Mhz/Khz)`,`String (Room/Server Name/ID)`]],[`FREQ2`,[`Float (Frequency Mhz)`,`String (Room/Server Name/ID)`]],], ['Will you tell me your frequency (or that of <u>__<code>FREQ2</code>__</u> Mhz/Khz)?',`Please tell me your Discord server (or room of the server <u>__<code>FREQ2</code>__</u>).`], ['Your/My frequency (or that of <u>__<code>FREQ2</code>__</u> Mhz/Khz) is <u>__<code>FREQ</code>__</u> Mhz/KHz.',`My Discord server (or room of the server <u>__<code>FREQ2</code>__</u>) is <u>__<code>FREQ</code>__</u>.`]],
     [`QRL`,'Frequency/Room/Server Busy check', [[`FREQ`,[`Float (Frequency Mhz/Khz)`,`String (Room/Server Name/ID)`]],], ['Are you busy (with <u>__<code>FREQ</code>__</u> Mhz/Khz)?',`Are you still talking with (someone) (at/with server <u>__<code>FREQ</code>__</u>)?`], ['I am busy (with <u>__<code>FREQ</code>__</u> Mhz/Khz). (Please do not interfere)',`I am still on the voice chat (with <u>__<code>FREQ</code>__</u>). (Please do not disturb)`]],
     [`QRM`,'Interference check', [[`INTERFERENCE`,[`Integer (Rating 0-5 (0 = nil, 1 = slightly, 3 = moderately, 4 = severely, 5 = extremely))`,`String (Cause Name (e.g.: EMP, storm, power failure (blackout), power reduction (brownout), low battery, attack, etc.) & Severity rating (Optional))`]],], ['Is my transmission being interefered with (<u>__<code>INTERFERENCE</code>__</u>)?',`Who disturbed me (OR am I still disturbed by <u>__<code>INTERFERENCE</code>__</u>)?`], ['Your/My transmission is being interefed by <u>__<code>INTERFERENCE</code>__</u>.',`I am-being/have-been harrassed/disturbed by <u>__<code>INTERFERENCE</code>__</u>!!!`]],
     [`QRN`,'Staticness check', [[`STATICNESS`,[`Integer (Rating 0-5 (0 = nil, 1 = slightly, 3 = moderately, 4 = severely, 5 = extremely))`,`String (Cause Name (e.g.: EMP, storm, power failure (blackout), power reduction (brownout), low battery, attack, etc.) & Severity rating (Optional))`]],], ['Is my transmission being troubled with (<u>__<code>STATICNESS</code>__</u>)?',`Are you still troubled (OR am I still troubled by <u>__<code>STATICNESS</code>__</u>)?`], ['Your/My transmission is being troubled by <u>__<code>STATICNESS</code>__</u>.',`I am-being/have-been harrassed/disturbed by <u>__<code>STATICNESS</code>__</u>!!!`]],
     [`QRO`,'Increasse Power', [[`POWER`,[`Float (Wattage)`, `Integer (Power mode 0-5 (0 = lowest, 1 = low, 3 = middle, 4 = high, 5 = highest))`,]],], ['Shall I increase power (to <u>__<code>POWER</code>__</u>)?',], ['Please increase power to <u>__<code>POWER</code>__</u>.',]],
     [`QRP`,'Decrease Power', [[`POWER`,[`Float (Wattage)`, `Integer (Power mode 0-5 (0 = lowest, 1 = low, 3 = middle, 4 = high, 5 = highest))`,]],], ['Shall I decrease power (to <u>__<code>POWER</code>__</u>)?',], ['Please decrease power to <u>__<code>POWER</code>__</u>.',]],
-    [`QRQ`,'Increase Send Speed', [[`SPEED`,[`Float (words per minute)`, `Integer (Speed scale 0-5 (0 = slowest, 1 = slow, 3 = normal, 4 = fast, 5 = fasted))`,]],], ['Shall I send faster (to <u>__<code>SPEED</code>__</u>)?',], ['Please send faster to <u>__<code>SPEED</code>__</u>.',]],
-    [`QRS`,'Decrease Send Speed', [[`SPEED`,[`Float (words per minute)`, `Integer (Speed scale 0-5 (0 = slowest, 1 = slow, 3 = normal, 4 = fast, 5 = fasted))`,]],], ['Shall I send slowly (to <u>__<code>SPEED</code>__</u>)?',], ['Please send slower to <u>__<code>SPEED</code>__</u>.',]],
-    [`OTW`,'Transport Progress check', [[`PROGRESS`,[`Integer (Rating 0-5 (0 = not started, 1 = just started, 3 = halfway, 4 = close, 5 = arrived))`,`String (Condition (e.g.: Current Pathway, Traffic, etc.) & Arrival rating (Optional))`]],], ['What is my progress( or that of <u>__<code>PROGRESS</code>__</u>)?',`Where are you right now (or that of <u>__<code>PROGRESS</code>__</u>)?`], ['You are being at <u>__<code>PROGRESS</code>__</u>.',`I am right now at <u>__<code>PROGRESS</code>__</u>.`]],
+    [`QRQ`,'Increase Send Speed', [[`SPEED`,[`Float (words per minute)`, `Integer (Speed scale 0-5 (0 = slowest, 1 = slow, 3 = normal, 4 = fast, 5 = fasted))`,]],], ['Shall I send faster (at <u>__<code>SPEED</code>__</u>)?',], ['Please send faster at <u>__<code>SPEED</code>__</u>.',]],
+    [`QRS`,'Decrease Send Speed', [[`SPEED`,[`Float (words per minute)`, `Integer (Speed scale 0-5 (0 = slowest, 1 = slow, 3 = normal, 4 = fast, 5 = fasted))`,]],], ['Shall I send slowly (at <u>__<code>SPEED</code>__</u>)?',], ['Please send slower at <u>__<code>SPEED</code>__</u>.',]],
+    [`QRT`,'Stop Sending request', [[`WHEN`,[`String (Time Date Hour Minute Second / Now)`, `Float (Time in units (seconds / minutes / hours / etc.))`,]],], ['Shall I stop sending / end call (by <u>__<code>WHEN</code>__</u>)?',], ['Please stop sending / end call by <u>__<code>WHEN </code>__</u>.',]],
+    [`QRU`,'Nil Exclamation / Availability check', [[`???`,[`String ()`,]],], ['Have you anything?',], ['I have nothing for you.',]],
+    [`QRV`,'Readiness check', [[`???`,[`String ()`,]],], ['Are you ready?',], ['I am ready.',]],
+    [`QRX`,'Schedule Call check', [[`TIME`,[`Float (Time in units (seconds / minutes / hours / etc.))`,`String (Time Date Hour Minute Second / Now)`,]], [`FREQ`,[`Float (Frequency Mhz/Khz)`,`String (Room/Server Name/ID)`]]], ['When will you call me again?',], ['I will call you by <u>__<code>TIME</code>__</u> (on <u>__<code>FREQ</code>__</u>).',]],
+    [`QRZ`,'Caller Identity check', [[`NAME`,[`String (Username/Callsign/ID)`,]], [`FREQ`,[`Float (Frequency Mhz/Khz)`,`String (Room/Server Name/ID)`]]], ['Who is calling me?',], ['You are being called by <u>__<code>NAME</code>__</u> (on <u>__<code>FREQ</code>__</u>).',]],
+    [`QSB`,'Signal Fade Exclamation', [[`???`,[`String ()`,]],], ['Are my signals fading?',], ['Your signals are fading!',]],
+
+    [`OTW`,'Transport Progress check / On The Way', [[`PROGRESS`,[`Integer (Rating 0-5 (0 = not started, 1 = just started, 3 = halfway, 4 = close, 5 = arrived))`,`String (Condition (e.g.: Current Pathway, Traffic, etc.) & Arrival rating (Optional))`]],], ['What is my progress( or that of <u>__<code>PROGRESS</code>__</u>)?',`Where are you right now (or that of <u>__<code>PROGRESS</code>__</u>)?`], ['You are being at <u>__<code>PROGRESS</code>__</u>.',`I am right now at <u>__<code>PROGRESS</code>__</u>.`]],
+    [`SMH`,'Blunder Exclamation / Shake My Head', [[`EVENT`,[`String (Event Name)`]],[`NAME`,[`String (Username/Callsign/ID)`,]]], ['is user <u>__<code>NAME</code>__</u> did <u>__<code>EVENT</code>__</u>?',], ['User <u>__<code>NAME</code>__</u> indeed <u>__<code>EVENT</code>__</u>, Shake my head..',]],
 ]
 
 // ALT + (0, 1, 5, 1) = `—` LONG DASH
@@ -31,7 +39,7 @@ const Tabling = [
             {Tabling.map((thing)=>(
                 <tr>
                     <td>
-                        <span set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></span>                        
+                        <code set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></code>                        
                     </td>
                     <td>
                         <Fragment set:html={thing[1]}/>
@@ -81,7 +89,7 @@ const Tabling = [
 <p>Sauces:
     <br/>
     <ul>
-        <li><a href='https://en.wikipedia.org/wiki/Q_code' target="_blank" rel="noopener noreferrer">Wikipedia</a></li>
-        <li><a href='https://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf' target="_blank" rel="noopener noreferrer">ARRL</a></li>
+        <li><a href='https://en.wikipedia.org/wiki/Q_code' target="_blank" rel="noopener noreferrer">Wikipedia: Q-Code</a></li>
+        <li><a href='https://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf' target="_blank" rel="noopener noreferrer">ARRL: Q-Code & Pilot ABC list PDF</a></li>
     </ul>
 </p>

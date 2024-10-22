@@ -67,6 +67,8 @@ export interface Props {
   viewSourceURL?: string;
   noIndex?:boolean;
   noFollow?:boolean;
+  noAI?:boolean;
+  noImageAI?:boolean;
   rating?:string;
   favIcon?:string;
   favIconType?:string;
@@ -150,6 +152,8 @@ const {
   viewSourceURL = doViewSource,
   noIndex = false,
   noFollow = false,
+  noAI = true,
+  noImageAI = true,
   rating = '',
   favIcon ='/favicon.ico',
   favIconType ='image/x-icon',
@@ -303,6 +307,8 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
       description={description}
       noindex={noIndex}
       nofollow={noIndex}
+      noai={noAI}
+      noimageai={noImageAI}
       extend={{
         // extending the default link tags
         link: [
@@ -370,7 +376,7 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
           // Google
 
           // Crawlers
-          {name: "robots", content: "all, max-snippet:-1, max-video-preview:-1, max-image-preview:large"},
+          {name: "robots", content: `all, max-snippet:-1, max-video-preview:-1, max-image-preview:large, ${noIndex?`noindex`:`index`},${noFollow?`nofollow`:`follow`},${noAI?`noai,`:``}${noImageAI?`noimageai,`:``}` },
         ],
       }}
       />
