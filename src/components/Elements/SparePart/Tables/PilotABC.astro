@@ -3,33 +3,68 @@ import FCKDRMCorrect from "@components/Icons/FCKDRMCorrect.astro";
 import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
 
 const Tabling = [
-    // Letter, Phonetic, Pronounciation
-    [`A`,'Alpha','<b>AL</b> FAH'],
-    [`B`,'Bravo','<b>BRAH</b> VOH'],
-    [`C`,'Charlie','<b>CHAR</b> LEE'],
-    [`D`,'Delta','<b>DELL</b> TAH'],
-    [`E`,'Echo','<b>ECK</b> OH'],
-    [`F`,'Foxtrot','<b>FOKS</b> TROT'],
-    [`G`,'Golf','<b>GOL</b>F'],
-    [`H`,'Hotel','HOH <b>TEL</b>'],
-    [`I`,'India','IN <b>DEE</b> AH'],
-    [`J`,'Juliet','<b>JUW</b> LEE ETT'],
-    [`K`,'Kilo','<b>KEE</b> LOH'],
-    [`L`,'Lima','<b>LEE</b> MAH'],
-    [`M`,'Mike','<b>MAAIK</b>'],
-    [`N`,'November','NO <b>VEM</b> BER'],
-    [`O`,'Oscar','<b>OSS</b> KAH'],
-    [`P`,'Papa','<b>PAH</b> PAH'],
-    [`Q`,'Quebec','<b>KEH</b> BEK'],
-    [`R`,'Romeo','<b>ROW</b> MAE OH'],
-    [`S`,'Sierra','SEE <b>ERR</b> RAH'],
-    [`T`,'Tango','<b>TENG</b> GO'],
-    [`U`,'Uniform','<b>YUU</b> NEE FORM'],
-    [`V`,'Victor','<b>VIK</b> TAH'],
-    [`W`,'Whiskey','<b>WIS</b> KEE'],
-    [`X`,'X-ray','<b>EKS</b> RAY'],
-    [`Y`,'Yankee','<b>YENG</b> KEE'],
-    [`Z`,'Zulu','<b>ZOO</b> LOO'],
+    // Letter, Phonetic, Pronounciation, morse
+    [`A`,'Alpha','<b><u>AL</u></b> FAH', `.-`],
+    [`B`,'Bravo','<b><u>BRAH</u></b> VOH', `-...`],
+    [`C`,'Charlie','<b><u>CHAR</u></b> LEE', `-.-.`],
+    [`D`,'Delta','<b><u>DELL</u></b> TAH', `-...`],
+    [`E`,'Echo','<b><u>ECK</u></b> OH', `.`],
+    [`F`,'Foxtrot','<b><u>FOKS</u></b> TROT', `..-.`],
+    [`G`,'Golf','<b><u>GOL</u></b>F', `--.`],
+    [`H`,'Hotel','HOH <b><u>TEL</u></b>', `....`],
+    [`I`,'India','IN <b><u>DEE</u></b> AH', `..`],
+    [`J`,'Juliet','<b><u>JUW</ul></b> LEE ETT', `.---`],
+    [`K`,'Kilo / Invite','<b><u>KEE</u></b> LOH / IN <b><u>VAAIT</u></b>', `-.-`],
+    [`L`,'Lima','<b><u>LEE</u></b> MAH', `.-..`],
+    [`M`,'Mike','<b><u>MAAIK</u></b>', `--`],
+    [`N`,'November','NO <b><u>VEM</u></b> BER', `-.`],
+    [`O`,'Oscar','<b><u>OSS</u></b> KAH', `---`],
+    [`P`,'Papa','<b><u>PAH</u></b> PAH', `.--.`],
+    [`Q`,'Quebec','<b><u>KEH</u></b> BEK', `--.-`],
+    [`R`,'Romeo','<b><u>ROW</u></b> MAE OH', `.-.`],
+    [`S`,'Sierra','SEE <b><u>ERR</u></b> RAH', `...`],
+    [`T`,'Tango','<b><u>TENG</u></b> GO', `-`],
+    [`U`,'Uniform','<b><u>YUU</u></b> NEE FORM', `..-`],
+    [`V`,'Victor','<b><u>VIK</u></b> TAH', `...-`],
+    [`W`,'Whiskey','<b><u>WIS</u></b> KEE', `.--`],
+    [`X`,'X-ray','<b><u>EKS</u></b> RAY', `-..-`],
+    [`Y`,'Yankee','<b><u>YENG</u></b> KEE', `-.--`],
+    [`Z`,'Zulu','<b><u>ZOO</u></b> LOO', `--..`],
+    [`0`,'Zero','<b><u>ZII</u></b> ROH', `-----`],
+    [`1`,'One','<b><u>WAAN</u></b>', `.----`],
+    [`2`,'Two','<b><u>TUW</u></b>', `..---`],
+    [`3`,'Three','<b><u>TRII</u></b>', `...--`],
+    [`4`,'Four','<b><u>FO</u></b> WER', `....-`],
+    [`5`,'Five','<b><u>FAA</u></b>IIF', `.....`],
+    [`6`,'Six','<b><u>SIIX</u></b>', `-....`],
+    [`7`,'Seven','<b><u>SEV</u></b> ENN', `--...`],
+    [`8`,'Eight','<b><u>AEIIT</u></b>', `---..`],
+    [`9`,'Niner','<b><u>NAAIN</u></b> ERR', `----.`],
+    [`.`,'Decimal/Stop/Period','<b><u>DAY</u></b> SEE MAAL / <b><u>STOP</u></b> / <b><u>PII</u></b> RII ED', `.-.-.-`],
+    [`,`,'Comma','<b><u>KOM</u></b> MAH', `--..--`],
+    [`?`,'Question','<b><u>KUES</u></b> TION', `..--..`],
+    [`\'`,'Apostrophe','AH <b><u>POS</u></b> TRO FEE', `.----.`],
+    [`!`,'(KW) Exclamation','<b><u>EKS</u></b> KLEM MAE SION', `-.-.--`],
+    [`/`,'(DN) Slash','<b><u>SLASH</u></b>', `-..-.`],
+    [`(`,'(KN) Parent Open','PAH REN <b><u>OH</u></b> PEN', `-.--.`],
+    [`)`,'(KK) Parent Close','PAH REN <b><u>KLOS</u></b>', `-.--.-`],
+    [`&`,'(AS) Ampersand / Wait','AAM PER S<b><u>AND</u></b> / <b><u>WAEIIT</u></b>', `.-...`],
+    [`:`,'Colon','<b><u>KOL</u></b> ON', `---...`],
+    [`;`,'SemiColon','SEH MEE <b><u>KOL</u></b> ON', `-.-.-.`],
+    [`=`,'(BT) Equal / Double Dash','II <b><u>KUW</u></b> WEL / DOH BEL <b><u>DESH</u></b>', `-...-`],
+    [`-`,'Minus / Dash / Hyphen','<b><u>MIN</u></b> US / <b><u>DESH</u></b> / <b><u>HAI</u></b> FEN', `-....-`],
+    [`+`,'(RN) Plus','<b><u>PLUS</u></b>', `.-.-.`],
+    [`_`,'Underscore','AN DER <b><u>SKOR</u></b>', `..--.-`],
+    [`\"`,'Quote','<b><u>KUOT</u></b>', `.-..-.`],
+    [`$`,'(SX) Dollar','<b><u>DOL</u></b> LAR', `...-..-`],
+    [`@`,'(AC) At','<b><u>AET</u></b>', `.--.-.`],
+    [`📞`,'(K) Invite','IN <b><u>VAAIT</u></b>', `-.-`],
+    [`🏁`,'(SK) End','<b><u>END</u></b>', `...-.-`],
+    [`🚩`,'(CT) Start','<b><u>START</u></b>', `-.-.-`],
+    [`⚠️`,'(HH) Error','<b><u>ER</u></b> ROR', `........`],
+    [`📄`,'(RN) Page Break','<b><u>PEJ</u></b> BREK', `.-.-.`],
+    [`✅`,'(Ŝ) Verified','VERII <b><u>VAY</u></b> ED', `...-.`],
+    [`⏳`,'(&) Wait','<b><u>WAEIIT</u></b>', `.-...`],
 ]
 
 // ALT + (0, 1, 5, 1) = `—` LONG DASH
@@ -40,18 +75,22 @@ const Tabling = [
             <th>Letter</th>
             <th>Phonetic</th>
             <th>Pronounciation</th>
+            <th>Morse</th>
         </thead>
         <tbody>
             {Tabling.map((thing)=>(
                 <tr>
                     <td>
-                        <span set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></span>                        
+                        <code set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></code>                        
                     </td>
                     <td>
                         <Fragment set:html={thing[1]}/>
                     </td>
                     <td>
-                        <Fragment set:html={thing[2]}/>
+                        <code><Fragment set:html={thing[2]}/></code>
+                    </td>
+                    <td>
+                        <code><b style='font-size:xx-large;'><Fragment set:html={thing[3]}/></b></code>
                     </td>
                 </tr>
             ))}
@@ -62,6 +101,8 @@ const Tabling = [
     <br/>
     <ul>
         <!-- <li><a href='' target="_blank" rel="noopener noreferrer">Wikipedia</a></li> -->
+        <li><a href='https://en.wikipedia.org/wiki/NATO_phonetic_alphabet' target="_blank" rel="noopener noreferrer">Wikipedia: NATO Phonetic Alphabet</a></li>
+        <li><a href='https://en.wikipedia.org/wiki/Morse_code' target="_blank" rel="noopener noreferrer">Wikipedia: Morse code</a></li>
         <li><a href='https://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf' target="_blank" rel="noopener noreferrer">ARRL</a></li>
         <li><a href='https://www.phl.org/at-phl/kids-corner/aviation-alphabet' target="_blank" rel="noopener noreferrer">Philadelphia International Airport</a></li>
     </ul>

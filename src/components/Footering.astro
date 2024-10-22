@@ -28,12 +28,13 @@ const{
     <!-- <p title="(Static) Website compiled at datetime of..">&#xf00f0; <LocalTime date time/>, <TimeAgo micro datetime/></p> -->
     <!--<p title="(Static) Website compiled at datetime of..">&#xf00f0; <LocalTime date time/></p>-->
     <!-- <p title="(Static) Website compiled at datetime of..">&#xf00f0; <Time format="datetime" now/>, <Time format="relative" now/></p> -->
-    <p><PerkedelIcon/> <font size = "12">Perkedel Technologies</font></p>
-    <p>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
+    <p><PerkedelIcon/> <span style='font-size: xx-large;'>Perkedel Technologies</span></p>
+    <p style='font-size: x-small;'>Powered by <a href="https://netlify.com" target="_blank" rel="noopener noreferrer">Netlify</a> ft. <a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro, {Astro.generator}</a></p>
 
     <BottomNavigating rating={rating} nsfw={nsfw} addDescriptions={addDescriptions} addKeywords={addKeywords} nsfwConfirmation={nsfwConfirmation}/>
 
-    <font size="2"><p>DISCLAIMER:</p>
+    <div style='font-size: xx-small;'>
+      <p>DISCLAIMER:</p>
       <ul>
         <li><b>Netlify nor Astro never put watermark (except in context of domain for the Netlify free domain we had)</b>, I just write my own just to let you know how, yeah.</li>
         <li>This website like many is stored on regular centralized system (GitHub for Source Code, Netflify for result), specifically static cloud type whatever Netflify or GitHub said. Therefore we do not endorse using such service other than for clout purpose<br>With that of course, there is already as usual high risk of DMCA attacks & abuse. </li>
@@ -42,7 +43,7 @@ const{
       <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
       <br>
       <a target="_blank" rel="license" href="https://www.gnu.org/licenses/agpl-3.0.html"><img alt="GNU AGPL License" src="https://www.gnu.org/graphics/agplv3-with-text-162x68.png" width="100px"/></a>
-    </font>
+    </div>
     <p>© Perkedel Technologies, Some Rights Reserved</p>
     <!-- <br/> -->
     <RegenerateWordButton nsfw={(rating.includes('adult') || nsfw) && !nsfwConfirmation}/>
