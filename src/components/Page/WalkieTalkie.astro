@@ -22,6 +22,7 @@ import MessageBoxTemplate from "@components/Messages/MessageBoxTemplate.astro";
 import QCode from "@components/Elements/SparePart/Tables/QCode.astro";
 import PilotABC from "@components/Elements/SparePart/Tables/PilotABC.astro";
 import PrintButton from "@components/Elements/SparePart/Options/PrintButton.astro";
+import EmbedAudio from '@components/Elements/EmbedAudio.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -33,7 +34,7 @@ const{
 ---
 <CorePage
     nsfw={nsfw}
-    addKeywords={`Walkie Talkie, Baofeng, Ksun, talkcom, motorola, mototrbo, SMP, kinota, kinnota, Inrico, Hytera, Retevis, Retekes, OpenGD, Egzumer, CEC, phdlee, HT, POC, PTT, Push to talk, Radio, Ham Radio, Ham`}
+    addKeywords={`Walkie Talkie, Baofeng, Ksun, talkcom, motorola, mototrbo, SMP, kinota, kinnota, Inrico, Hytera, Retevis, Retekes, OpenGD, Egzumer, CEC, phdlee, HT, POC, PTT, Push to talk, Radio, Ham Radio, Ham, HT Indonesia`}
     addDescriptions='Walkie Talkie. Everything Radio: Analog Ham, DMR, POC, PTT, Push-to-talk, Radio, and more!'
     addHeaderTitle='Walkie Talkie'
     addMetaTitle='Walkie Talkie & Radios'
@@ -81,6 +82,8 @@ const{
                             <ul>
                                 <li><i>CQ/Secu/Sekyu</i></li>
                                 <li><i>Brik Brik</i> (Indonesia)</li>
+                                <li><i>Roger Roger</i> (Indonesia)</li>
+                                <li><i>Ni Hao Ni Hao</i> (Mandarin)</li>
                             </ul>
                         </li>
                         <li><code>CALLSIGN/USERNAME</code>. String (Your callsign or username)</li>
@@ -270,6 +273,58 @@ const{
                     <li><del>ChilloutVR</del> <b class='error'>Not meant for PTT or too complicated</b></li>
                     <li><i>For more POC hacks & tools, see section <a href='#mods'>Mods</a></i></li>
                 </ul>
+            <h3>Recommended Communities</h3>
+                <p>Here are some of the popular communities of PTT that you may want to join</p>
+                <ul>
+                    <li><b><code>TombolPTT</code></b>. <ButtonizedLink href='https://zello.com/TombolPTT' openInNewTab={true}>Zello: TombolPTT</ButtonizedLink><ButtonizedLink href='mumble://voip.megadata.net.id' openInNewTab={true}>Mumble: voip.megadata.net.id</ButtonizedLink><ButtonizedLink href='ts://199.101.186.114' openInNewTab={true}>TeamSpeak: 199.101.186.114</ButtonizedLink><ButtonizedLink href='https://youtube.com/@tombolptt' openInNewTab={true}>YouTube: @TombolPTT</ButtonizedLink>
+                    <br/>
+                        Rules:
+                            <ul>
+                                <li>Nickname Template (Mumble & TeamSpeak): <code>NAME_DOMICILE</code>, e.g. <code>JasperColombusPoskoGamingDNB_Semarang</code></li>
+                                <li>Password (Mumble): <code>janganlupasholat2021</code></li>
+                            </ul>
+                    </li>
+                    <li><b><code>POC _______</code></b> (the city, e.g. <code>Jakarta<code>). Search this on Zello starting from this keyword, followed with the domicile of yours <ButtonizedLink href='https://pocindonesia.com/' openInNewTab={true}>Website: POCIndonesia.com</ButtonizedLink><ButtonizedLink href='https://pocindonesia.com/daftar-channel/' openInNewTab={true}>Channel Lists</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJakarta' openInNewTab={true}>Zello: POCJakarta</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJatim' openInNewTab={true}>Zello: POCJatim</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJabar' openInNewTab={true}>Zello: POCJabar</ButtonizedLink>. 
+                        <br/>
+                        Rules:
+                        <ul>
+                            <li>...</li>
+                        </ul>
+                    </li>
+                    <li><b><code>kopdarmobile</code></b> (Kopi Darat). <ButtonizedLink href='https://kopdarmobile.com/' openInNewTab={true}>Website: kopdarmobile.com</ButtonizedLink></ButtonizedLink><ButtonizedLink href='ts://kopdarmobile.id' openInNewTab={true}>TeamSpeak: kopdarmobile.id</ButtonizedLink><ButtonizedLink href='ts://roipmars.org.my' openInNewTab={true}>TeamSpeak: roipmars.org.my</ButtonizedLink>. 
+                        <br/>
+                        Rules:
+                        <ul>
+                            <li>...</li>
+                        </ul>
+                    </li>
+                    <li><b><code>PoskoGamingDNB</code></b> (Perkedel Technologies). <ButtonizedLink href='https://perkedel.netlify.app/' openInNewTab={true}>Website: perkedel.netlify.app</ButtonizedLink><ButtonizedLink href='#' openInNewTab={true}>Mumble: ???</ButtonizedLink><del><ButtonizedLink href='#' openInNewTab={true}>Zello: ???</ButtonizedLink><ButtonizedLink href='#' openInNewTab={true}>TeamSpeak: ???</ButtonizedLink><ButtonizedLink href='https://discord.gg/62xXqEW' openInNewTab={true}>Discord: 62xXqEW</ButtonizedLink></del>
+                        <br/>
+                            Rules:
+                            <ul>
+                                <li>...</li>
+                            </ul>
+                    </li>
+                </ul>
+            <h3>Do we really have to join though?</h3>
+                <p>Well, if your goal of having HT is only to ease communication in enterprise, you can skip it. BUT, if your goal of having HT is also as a hobby, digging this rabbithole of wceload, <b class='info'>then you should definitely add these communities to your list</b>. Let's see what do these folks in Surreal Blender Meme x Zenless Zone Zero (fanfic game) say
+                <br/>
+                <span style='font-size:x-small;'>Disclaimer: This dialogue was made in no such way to disparage nor hinder any of the community groups / Dialog ini dibuat bukan untuk menghina atau merendahkan grup komunitas apapun. Viewers discretion is advised. Similarity in names (living or dead), places, event, are purely coincidental</span>
+                </p>
+                <p class='HS Info'>Asked this section</p>
+                <p class='HS BellePhaethon'>Excuse me?</p>
+                <p class='HS Lancaster'>Yes?</p>
+                <p class='HS BellePhaethon'>Do I have to join these guys?</p>
+                <p class='HS Lancaster'>(looked what Belle's looking at) Hmmm, for our case (defeating the Hollows) right now it's not that essential. These are the communities discusing about ham radios of every kind in general, and sometimes general mission critical communications. Well, we already have our own DMR realm (Posko Gaming) for it this. Although if you really curious, go ahead & try!~.</p>
+                <p class='HS Info'>Time Check! This game was set around 2090s, whenever after certain numbers of ZZZ endgame chapters.</p>
+                <p class='HS Lancaster'>You see.. this list is very ancient, and likely all have gone. But.. doesn't mean you shouldn't try. If there's still accessible, then it's great. But be careful, might by some <b class='warn'>Thugs</b>, <b class='warn'>Rebel Soldiers</b>, <b class='warn'>Ethereals</b>, huh?, or worse, <b class='warn'>Harrassers</b>.</p>
+                <p class='HS Info'>Select! <code>Harrassers..?</code>, <code>What is that?</code></p>
+                <p class='HS BellePhaethon'>Harrassers?</p>
+                <p class='HS Lancaster'>Oh!, these are completely new types. Usually stronger than any of those combined, ... let's just hope, ... we never any of those. And if we have to, let's hope they're very weak ones. Hehe~..</p>
+                <p class='HS BellePhaethon'>hmm?..</p>
+                <p class='HS Lancaster'>Okay, that was too much. uh.., Last time we've been listening to there <b class='warn'>beside of Discord & related of course</b>, .. It's fine. Nothing bad is there so far. Idk about now, considering these days Harrassers are not at terminal numbers and strength, all I could hope is that... either they are no longer active (thinking of overtime decay), or active but still impossibly normal as is (same decay but second possibility). (self-detected screwed up badly on that hope statement) Ugh wait, just.. latter that!. (severely regreted it) I'm sorry, Really-really sorry, I couldn't provide much emotional help to you at all, because I'm not good at lying.. hehe~??</p>
+                <p class='HS Eitsch'>We apologize. Perhaps we unknownly had been contaminated for the 5th times in our own world (facing Harrassers, the Ethereals of IRL, a.k.a. Twitter thugs IRL, the Wokes IRL, yes our real life, you reading this), where it's beyond Hollow at our points. What we're saying is.. if you still can communicate, <b class='info'>just have them early before it's gone</b>, & cherish whatever happens. If you are too shy, you can just skip press PTT & at least just listen like a serenade of voices, Piper sometimes often hear to when there's no commission. Learn how those people talk, its ethics etc.</p>
+                <p class='HS Info'>END. Bonus Invite ZZZ: <ButtonizedLink href='https://hoyo.link/7DckFBAL?s_c=GJXRV5FG2K' openInNewTab={true} class=''>GJXRV5FG2K</ButtonizedLink></p>
     </section>
 
     <section id='section-license'>
@@ -374,6 +429,13 @@ const{
                 </p>
             <h3>Android</h3>
                 <p>...</p>
+                <h4>PTT Sounds</h4>
+                    <p>We have engineered our own PTT sounds for Posko Gaming DNB you can use as your PTT button feedback audio.</p>
+                    <ul>
+                        <li><EmbedAudio src='/assets/audio/sounds/TeloluPTTPress.wav'/> Pressed PTT</li>
+                        <li><EmbedAudio src='/assets/audio/sounds/TeloluPTTRelease.wav'/> Released PTT</li>
+                    </ul>
+                    
                 <h4>Apps</h4>
                     <p>Many sellers who sell Android based POC HT, recommends that you install these apps of which POC platform used <b>at specific version</b> instead of getting the latest up to date version straight from Google Play. This is due to the compatiblity issues both with the Android version each HT stuck with & the application version that may requires later version just to connect to the server or channel. The following are the examples of which app version you should install to ensure compatibility amongst brikers across universe.</p>
                     <ul>
@@ -402,8 +464,16 @@ const{
                             <b class='info' style='font-size:x-large;'>PLEASE RESPECT THE DEVELOPERS!!!</b> They already made the apps with their blood, sweat, & tears. Yes, they are proprietarists, paywallists, & their behaviours are absolutely despisable, especially without same or similar alternatives. But <b class='info'>there is always a way</b>. Since you are downloading these pre-downloaded & modded paid apps just to get these HTs with outdated Android working, you should in anyway buy them with your Gmail account. Simply Download the APK legit from Google Play from any of your Android devices, then buy the Full Version unlock. And if only buy, then buy <b class='error'>& NEVER REFUND AT ALL</b>. Once you have purchased everything in that Gmail accounts, you can now legally continue to use them anywhere you logged in your Gmail to.
                             </li>
                             <li><ButtonizedLink href='https://archive.org/details/Teamspeak3V3.0.23GabrielBorgesEusouandroid.com.apk' openInNewTab={true}>TeamSpeak v3.0.23 APK</ButtonizedLink> from <a href='https://youtu.be/UfZ0obpfZDM' target='_blank' rel='noopener noreferrer'>Divray Jakarta</a>
-                            <br/>
-                            <b class='info' style='font-size:x-large;'>PLEASE RESPECT THE DEVELOPERS!!!</b> If you still uncomfortable to insert even your own <abbr title='Credit Card, or any of your digital wallet app'>CC</abbr> to <i title='a.k.a. Google'>somebody out there in Silicon Valley, US & around</i>, then you should trust me. I did let my GoPay (& other digital wallets) could <i>get hacked or stolen</i> (for whole life since I was 18, which to this day never been unauthorizedly charged, hopefully still, just keep your password & OTP safe, never share it<span title='also ignore & block accidental report ban scam!'>!</span>) because I did placed it on my Gmail now. In fact, this TeamSpeak is way too cheap! <span title='I forgor'>IDR 16rb</span>, what? That's 5-ish packs of cigarette! You could've stop smoking or even stop vape by now & just get this instead. And also waste your money even more on this <a href='https://play.google.com/store/apps/details?id=com.paragon.tcplugins_ntfs_ro' target='_blank' rel='noopener noreferrer'>Paragon NTFS Android Total-Commander Plugin</a>, buy lots of expensive games on Steam (coz guess what? 1 year of smoking probably already <b class='error'>racks up to IDR 2 jt!!!</b>, while expensive games like Kera Sakti (Black Myth Wukong) costs only IDR 800rb). Yeah, just like that, you'll stay poor but you don't also die and go to hell/jahanam (for breaking God's temple with lung cancers) 🤣🤣🤣🤣🤣🤣. Seriously. Stop smoking & just quit vaping, you'll suffer better. Just way better, trust me! choose sufferings wisely. So like.. HT, coffee, and Gaming! also pray/ibadah.
+                                <br/>
+                                <b class='info' style='font-size:x-large;'>PLEASE RESPECT THE DEVELOPERS!!!</b> If you still uncomfortable to insert even your own <abbr title='Credit Card, or any of your digital wallet app'>CC</abbr> to <i title='a.k.a. Google'>somebody out there in Silicon Valley, US & around</i>, then you should trust me. I did let my GoPay (& other digital wallets) could <i>get hacked or stolen</i> (for whole life since I was 18, which to this day never been unauthorizedly charged, hopefully still, just keep your password & OTP safe, never share it<span title='also ignore & block accidental report ban scam!'>!</span>) because I did placed it on my Gmail now. In fact, this TeamSpeak is way too cheap! <span title='I forgor'>IDR 16rb</span>, what? That's 5-ish packs of cigarette! You could've stop smoking or even stop vape by now & just get this instead. And also waste your money even more on this <a href='https://play.google.com/store/apps/details?id=com.paragon.tcplugins_ntfs_ro' target='_blank' rel='noopener noreferrer'>Paragon NTFS Android Total-Commander Plugin</a>, buy lots of expensive games on Steam (coz guess what? 1 year of smoking probably already <b class='error'>racks up to IDR 2 jt!!!</b>, while expensive games like Kera Sakti (Black Myth Wukong) costs only IDR 800rb). Yeah, just like that, you'll stay poor but you don't also die and go to hell/jahanam (for breaking God's temple with lung cancers) 🤣🤣🤣🤣🤣🤣. Seriously. Stop smoking & just quit vaping, you'll suffer better. Just way better, trust me! choose sufferings wisely. So like.. HT, coffee, and Gaming! also pray/ibadah.
+                            </li>
+                            <li><ButtonizedLink href='https://drive.google.com/drive/folders/1P0RmeV2gAA7odBgu10YceMgSS_-LKMe2' openInNewTab={true} id='download_APK_pocindonesia'>DOWNLOAD APKs Ksun Texas</ButtonizedLink> from <a href='https://pocindonesia.com/' target='_blank' rel='noopener noreferrer'>POC Indonesia</a>
+                                <br/>
+                                
+                            </li>
+                            <li><ButtonizedLink href='https://kopdarmobile.com/download-page/' openInNewTab={true} id='download_APK_kopdarmobile'>DOWNLOAD APKs Kopi Darat</ButtonizedLink> from <a href='https://kopdarmobile.com/' target='_blank' rel='noopener noreferrer'>Kopdarmobile</a>
+                                <br/>
+                                <b class='info' style='font-size:x-large;'>PLEASE RESPECT THE DEVELOPERS!!!</b> 
                             </li>
                             <li><ButtonizedLink href='https://www.apkmirror.com/apk/zello-inc/zello-ptt-walkie-talkie/zello-ptt-walkie-talkie-5-9-1-release/zello-ptt-walkie-talkie-5-9-1-android-apk-download/' openInNewTab={true} style=''>Zello PTT Walkie Talkie v5.9.1 APK </ButtonizedLink> Walkie Talkie app for all</li>
                             <li><ButtonizedLink href='https://androiddatahost.com/265a2' openInNewTab={true}>ADB Fastboot</ButtonizedLink> from <a href='https://youtu.be/UfZ0obpfZDM' target='_blank' rel='noopener noreferrer'>Divray Jakarta</a></li>
