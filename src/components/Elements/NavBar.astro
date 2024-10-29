@@ -24,7 +24,7 @@ const {
     nsfwConfirmation = false, useCustomGoBack = false, customGoBack = '../../..',
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<nav class="navBar" class="navBar" transition:animate='morph'>
+<nav class="navBar hidePrint" transition:animate='morph'>
 <!-- <nav class="navBar" class="navBar"> -->
     <!-- <div class="addressBarYeah" style="">
         <p style="margin:0;">{Astro.url.href}</p>
@@ -46,7 +46,7 @@ const {
 
         <slot name="CustomNav"/>
 
-        <li class="addressBarYeah" id="addressBarYeahNav"><span>{Astro.url.href}</span></li>
+        <!-- <li class="addressBarYeah" id="addressBarYeahNav"><span>{Astro.url.href}</span></li> -->
 
         <!-- <li class="NavHistoryPutRight dropdown"> -->
         <li id="navMoreDropdown" class="NavHistoryPutRight dropdown">

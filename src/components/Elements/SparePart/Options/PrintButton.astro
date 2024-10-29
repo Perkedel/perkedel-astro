@@ -29,7 +29,7 @@ export interface Props{
 const{
     content = '', // button label
     href = 'javascript:window.print()', // URL to go to
-    title = '', // hover tooltip
+    title = 'Click here to print this whole page', // hover tooltip
     description = '', // uh....
     target = '', // where target? `_blank` is newtab
     rel = '', // relationship e.g `noopener noreferrer` to break insecure connection in new tab
@@ -46,4 +46,4 @@ const{
     defaultShowURL = true,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
-<ButtonizedLink href="javascript:window.print()"><slot>🖨️ Print<slot></ButtonizedLink>
+<ButtonizedLink href="javascript:window.print()" title={title}><slot>🖨️ Print<slot></ButtonizedLink>
