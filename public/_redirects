@@ -193,9 +193,10 @@
 /PNGTuber/* /rawHtml/jeremyyysan_localpngtuber/:splat
 
 # Walkie Talkie
-/ht/* /apps/wceload/walkietalkie/:splat
-/baofeng/* /apps/wceload/walkietalkie/:splat
-/walkietalkie/* /apps/wceload/walkietalkie/:splat
-/walkiefleet/* /apps/wceload/walkietalkie/:splat
+/ht* /apps/wceload/walkietalkie/:splat
+/baofeng* /apps/wceload/walkietalkie/:splat
+/walkietalkie* /apps/wceload/walkietalkie/:splat
+/walkiefleet* /apps/wceload/walkietalkie/:splat
+/apps/wceload/ht* /apps/wceload/walkietalkie/:splat
 /jasasettinght /apps/microsites/jasasettinght
 /htcommission /apps/microsites/jasasettinght
