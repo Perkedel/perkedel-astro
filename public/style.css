@@ -2561,7 +2561,7 @@ details.warning, details[open].warning summary,
         float: none !important;
         width: 100%;
         clear: both;
-        page-break-before: always;
+        /* page-break-before: always; */
         page-break-after: always;
     }
     header {
