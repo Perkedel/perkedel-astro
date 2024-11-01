@@ -4,8 +4,50 @@
 <html transition:animate="none">
 <head>
     <meta charset="utf-8"/>
-    <meta http-equiv="refresh" content="0; url=/" />
+    <!-- <meta http-equiv="refresh" content="0; url=/" /> -->
+     <!--  -->
 </head>
 <body>
+    <!-- https://stackoverflow.com/a/22607328/9079640 
+    https://www.w3schools.com/js/js_htmldom_html.asp
+    https://www.w3schools.com/howto/howto_js_get_url.asp
+    https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_get_url 
+    https://code.tutsplus.com/how-to-change-the-url-in-javascript-redirecting--cms-37323t
+    -->
+    <p>Going to: <button id='targetToSauceButton' class='targetTo' type="button" onclick="pressURLButton()"></button><a id='targetToSauce' class='targetTo' rel='noopener noreferrer' style='display:none;'></a></p>
+    <p style='display:none;' id='werrorRedirectFail'>If the Redirector does not work, click above link again.</p>
+    <script>
+        function GetURLParameter(sParam)
+        {
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++) 
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam) 
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+        function GoTo(thisURL)
+        {
+            location.replace(thisURL);
+        }
+        function pressURLButton()
+        {
+            document.getElementById('targetToSauce').style.display = 'block';
+            document.getElementById('targetToSauceButton').style.display = 'none';
+            document.getElementById('werrorRedirectFail').style.display = 'default';
+            GoTo(targetToWhat);
+        }
+        const targetToWhat = GetURLParameter('url');
+        for(someTo in document.getElementsByClassName('targetTo'))
+        {
+            someTo.innerHTML = targetToWhat;
+        }
+        document.getElementById('targetToSauce').href = targetToWhat;
+        GoTo(targetToWhat);
+    </script>
 </body>
 </html>

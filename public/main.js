@@ -949,6 +949,24 @@ function setPerkedelWoosieDirection(directionSay = 'forward'){
     }
 }
 
+// URL Parameter!!!
+/*
+https://stackoverflow.com/a/22607328/9079640
+*/
+function GetURLParameter(sParam)
+{
+    let sPageURL = window.location.search.substring(1);
+    let sURLVariables = sPageURL.split('&');
+    for (let i = 0; i < sURLVariables.length; i++) 
+    {
+        let sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam) 
+        {
+            return sParameterName[1];
+        }
+    }
+}
+
 /*
 Moar Dump
 - https://www.w3schools.com/html/html_scripts.asp

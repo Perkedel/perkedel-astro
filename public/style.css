@@ -212,15 +212,32 @@ p {
 
 h1 {
     /* what???? */
+    /* top right bottom left */
+    border-style: none solid none solid;
+    /* border-color: none none none orange; */
 }
 
 h2 {
     /* idk.. */
     /* counter-reset: subsection; */
+    /* border-style: solid solid hidden solid; */
+    border-style: none groove none groove;
+    /* border-color: darkorange darkorange unset darkorange; */
 }
 
 h3 {
     /* counter-increment: section; */
+    /* border-style: double double hidden double; */
+    border-style: none inset none inset;
+    /* border-color: darkorange darkorange unset darkorange; */
+}
+
+h4 {
+    border-style: none outset none outset;
+}
+
+h5 {
+    border-style: none ridge none ridge;
 }
 
 
@@ -558,7 +575,7 @@ nav .NavHistoryPutRight {
     /* display: inline-block; */
 }
 
-nav ul {
+nav ul, .NavList {
     /*
     https://www.javatpoint.com/how-to-make-a-navigation-bar-in-html
     https://www.w3schools.com/Css/css_navbar.asp
@@ -571,7 +588,7 @@ nav ul {
     padding: 0;
 }
 
-nav li {
+nav li, .NavListItem {
     /* float: left; */
     margin-left: 1px;
     margin-right: 1px;
@@ -581,7 +598,11 @@ nav li {
 
 nav a,
 nav a:link,
-nav a:visited {
+nav a:visited,
+.NavLinkButton,
+.NavLinkButton:link,
+.NavLinkButton:visited
+{
     background-color: navy;
     outline: none;
     color: white;
@@ -595,19 +616,25 @@ nav a:visited {
 
 /*Remember, the visited statuses are also considered as a subgroup!*/
 
-nav a:focus-visible {
+nav a:focus-visible, .NavLinkButtonFocus {
     outline: 2px dashed cyan;
     border-radius: 5px;
 }
 
 nav a:hover,
-nav a:visited:hover {
+nav a:visited:hover,
+.NavLinkButton:hover,
+.NavLinkButton:visited:hover
+ {
     background-color: blue;
     color: white;
 }
 
 nav a:active,
-nav a:visited:active {
+nav a:visited:active,
+.NavLinkButton:active,
+.NavLinkButton:visited:active
+{
     background-color: orange;
     color: blue;
 }
@@ -1598,7 +1625,8 @@ kbd {
 
 div.table {
     display: table;
-    border-collapse: separate;
+    /* border-collapse: separate; */
+    border-collapse: collapse;
     border-spacing: 2px;
     border-color: gray;
 }
@@ -1648,6 +1676,7 @@ div.td {
     border: 1px solid blue;
     /* What an idiot! div, instead of proper table tags?!?!??! */
     word-wrap: break-word;
+    border-collapse: collapse;
 }
 
 
@@ -1878,6 +1907,11 @@ https://youtu.be/T33NN_pPeNI
     transform: skewY(-45deg);
 }
 
+.hideBorder,
+.removeBorder{
+    border-style: none;
+    border-color: initial;
+}
 
 /* HUH */
 
