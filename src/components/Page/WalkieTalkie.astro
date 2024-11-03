@@ -23,6 +23,7 @@ import QCode from "@components/Elements/SparePart/Tables/QCode.astro";
 import PilotABC from "@components/Elements/SparePart/Tables/PilotABC.astro";
 import PrintButton from "@components/Elements/SparePart/Options/PrintButton.astro";
 import EmbedAudio from '@components/Elements/EmbedAudio.astro';
+import Figurative from '@components/Elements/SparePart/Figurative.astro';
 
 export interface Props{
     nsfw?:Boolean;
@@ -607,8 +608,9 @@ const{
                     <ul>
                         <li>Mumla: <b class='info'>vLatest</b> (for Android 5+) (RECOMMENDED, Mumla is an Android client of Mumble (Open Source). The latest version of Mumla as of 2024-10-14 can still run on Android 4.0 & above & does not restrict versions between server & clients unlike TeamSpeak.)</li>
                         <li>Zello: <b class='info'>v5.9.1</b> (for Android 5+) (Optional, No matter what version even the latest, Zello can connect to any free channels anyways. Apparently, this version is the last one that supports Android 5)</li>
-                        <li>TeamSpeak: <b class='error'>v3.0.23</b> (for Android 5+) (<b class='error'>IMPORTANT</b>, latest version is incompatible with HT dedicated server, latest version server cannot connect to old TS client; <b class='error'>You are still required to buy TeamSpeak legit from Google Play</b> once for lifetime per Gmail logged in to HT, then install Full paid apk of told version to the device)</li>
-                        <li>TeamSpeak Server: <b class='error'>v???</b> (for Windows) (<b class='error'>IMPORTANT</b>, latest version server cannot connect to old TS client)</li>
+                        <li>TeamSpeak Android: <b class='error'>v3.0.23</b> (for Android 5+) (<b class='error'>IMPORTANT</b>, latest version is incompatible with HT dedicated server, latest version server cannot connect to old TS client; <b class='error'>You are still required to buy TeamSpeak legit from Google Play</b> once for lifetime per Gmail logged in to HT, then install Full paid apk of told version to the device)</li>
+                        <li>TeamSpeak Windows: <b class='error'>v3.0.19.4</b> (for Windows) (<b class='error'>IMPORTANT</b>, latest version is incompatible with HT dedicated server, latest version server cannot connect to old TS client; <b class='error'>No license required</b> No such indication clients required license for old version nor failure of automatic free tier activation on these old versions)</li>
+                        <li>TeamSpeak Server: <b class='error'>v3.0.13.8</b> (for Windows) (<b class='error'>IMPORTANT</b>, latest version server cannot connect to old TS client; <b class='error'>No license required</b> No such indication servers required license for old version nor failure of automatic free tier activation on these old versions)</li>
                         <li>WalkieFleet: <b class='info'>v5.5.5</b> (for Android 5+) (Optional, No matter what version even the latest, WalkieFleet can connect to any available server of any version anyways. Some functions such as GPS may not work)</li>
                         <li>DVSwitch Mobile: <b class='info'>v2.0.4</b> (for Android 5+) (Optional, DMR is supposedly version agnostic since it's an open standard)</li>
                         <li>microG (Alternative Lightweight & Portable Google Play Service): <b class='warn'>v0.2.27.223616</b> (for Android 5+) (<b class='error'>IMPORTANT</b>, To ensure compatibility with Android 5; Also it is required for TeamSpeak since the full version still checks <b class='error' title='pirated'>if you sparsdated it</b> or not)</li>
@@ -787,15 +789,78 @@ const{
                     </p>
                 <h4>POC-only HTs still got confiscated by customs/bea-cukai even it would not Analog frequency</h4>
                     <p>This is is incorrect, these HTs are still smartphones basically, & never transmit any VHF nor UHF FM frequencies than the cellular (which are 800s of MHz up to about 2 GHz for 4G & around (<a href='https://en.wikipedia.org/wiki/Ultra_high_frequency' target='_blank' rel='noopener noreferrer'><i>idk</i></a>), presumably also is the same common Cellular frequency of the nation you're going to). You can protest this against the custom that confiscated your properties ensuring getting your PIC/Event Organizers handy. If you also have the approval of HT presence certification documents, please use them also.</p>
+                
             <h3>PC (Windows, Linux, macOS)</h3>
                 <h4>Zello not available on Desktop?</h4>
                     <p>Unfortunately, Zello Desktop works only for ZelloWork (Zello for enterprise, paid ones). Public Free Zello is only available on Mobile (Android & iOS). If you wish to connect to the public talk servers, you will need to connect with their remote server which hopefully they have. The instruction & information on how to connect to those alternative protocols usually are available on the OG server descriptions or their YouTube channel OR website.
                     <br/>
                     If you so desire, try to priotize on <b>Mumble</b>, which is Gratis, Open Source, & mostly version agnostic. e.g., you can use the PC (connected to remote Mumble) for listening, & use your mobile/HT-POC device (connected to the Zello) as the mic brik roger.
                     </p>
+                <h4>TeamSpeak Spacers</h4>
+                    <Figurative figcaption={'TeamSpeak Fancy Spacers. You can use these spacers to make your TeamSpeak server look fancy.'}>
+                        <img src='/assets/img/walkietalkie/teamspeak-fancy-spacer.png' alt='TeamSpeak Fancy Spacer' title='TeamSpeak Fancy Spacer'/>
+                    </Figurative>
+                    <p>Spacers are used to give space between your channels & help organize them. They are also useful to decorate your servers.</p>
+                    <h5>How to add Spacer</h5>
+                        <Figurative figcaption={'Instructional screenshot on how to add a Spacer in TeamSpeak'}>
+                            <img src='/assets/img/walkietalkie/teamspeak-how-to-spacer.png' alt='TeamSpeak How to add spacer' title='TeamSpeak How to Add Spacer'/>
+                        </Figurative>
+                        <p>To add a spacer, you can do the following:
+                            <ol>
+                                <li>Right click on your Host name bar very top</li>
+                                <li>Choose <code>Create Spacer</code></li>
+                                <li>Name whatever you like. Use below guide & syntaxes to style your Spacer:
+                                    <br/>
+                                    Template = <code class='info'>[?spacer#]...</code> (this square bracket syntax must be the starting, followed by whatever name you like)
+                                    <br/>
+                                    Legends:
+                                    <br/>
+                                    <ul>
+                                        <li><code>?</code> = Alignment or Repeat:
+                                            <ul>
+                                                <li><code>l</code> = Left</li>
+                                                <li><code>r</code> = Right</li>
+                                                <li><code>c</code> = Center</li>
+                                                <li><code>*</code> = Repeating</li>
+                                            </ul>
+                                        </li>
+                                        <li><code>#</code> = Unique ID identifier. starting from <code>0</code>, use whatever number that differentiates your Spacer from others & avoiding name conflict</li>
+                                        <li><code>...</code> = Whatever you like to fill with. Available special name syntax with below syntaxes, best to use repeating space syntax (<code>*</code>, which becomes <code>[*spacer#]</code>).</li>
+                                    </ul>
+                                    <br/>
+                                    Special Name Syntaxes:
+                                    <br/>
+                                    <ul>
+                                        <li><code>___</code> = Solid Line<li>
+                                        <li><code>---</code> = Dashed Line<li>
+                                        <li><code>...</code> = Dotted Line<li>
+                                        <li><code>-.-</code> = Dash Dot Line<li>
+                                        <li><code>-..</code> = Dash Dot Dot Line<li>
+                                        <li><code>-...</code> = etc.<li>
+                                        <li><code></code> = You can also leave it blank / empty, just the <code>[rspacer0]</code> syntax to get actually blank spacer.<li>
+                                    </ul>
+                                    <br/>
+                                    <span>
+                                        Sauces:
+                                        <ul>
+                                            <li><a href='https://tserverhq.com/clients/knowledgebase/90/How-to-create-spacer-channels-in-TeamSpeak-3.html' target='_blank' rel='noopener noreferrer' >TserverHQ</a></li>
+                                            <li><a href='https://community.teamspeak.com/t/spacer-with-heading/50424/2' target='_blank' rel='noopener noreferrer' >TeamSpeak Community Questions: Spacer with Heading</a></li>
+                                            <li><a href='https://community.teamspeak.com/t/spacer-alignment/4205' target='_blank' rel='noopener noreferrer' >TeamSpeak Community Questions: Spacer Alignment</a></li>
+                                            <li><a href='https://youtu.be/umw5cMAP1iI' target='_blank' rel='noopener noreferrer' >Fiscon: Teamspeak Channel Spacers</a></li>
+                                        </ul>
+                                    </span>
+                                </li>
+                                <li>Also use other tools that can help you much further:
+                                    <br/>
+                                    <ul>
+                                        <li><a href='https://ts3index.com/generator/waves?lang=en' target='_blank' rel='noopener noreferrer' ><code>‘°ºO•❤•.¸✿¸.•❤•.❀•.Ƹ̵̡Ӝ̵̨̄Ʒ WAVE GENERATOR Ƹ̵̡Ӝ̵̨̄Ʒ.•❀.•❤•.¸✿¸.•❤•Oº°‘</code></a> Generate fancier spacer text title</li>
+                                    </ul>
+                                </li>
+                            </ol>
+                        </p>
                 <h4>TeamSpeak Error</h4>
                     <h5>Server/Client Version Outdated</h5>
-                        <p>This is due to the server that been deployed has been dedicated to lock in that version, hence you can no longer use the latest TeamSpeak Client. On the other hand also, they chose so because many cheap HT POC works best with the old TeamSpeak client (which is 3.0.23), and they would like to make sure it's compatible. Therefore you need to install the old TeamSpeak client as well, with above <a href='#download_APK_divray'>Download APK Divray Jakarta</a>.</p>
+                        <p>This is due to the server that been deployed has been dedicated to lock in that version, hence you can no longer use the latest TeamSpeak Client. On the other hand they chose the server version 3.0.13.8 because many cheap HT POC works best with the old TeamSpeak client (which is 3.0.23), and they would like to make sure it's compatible. Therefore you need to install the old TeamSpeak client as well, with above <a href='#download_APK_divray'>Download APK Divray Jakarta</a>.</p>
                     <h5>How to get old version & which?</h5>
                         <p>
                             <!-- <b class='error'>Sorry, we don't have this information at the moment</b>. In the meantime, you can try to deploy a Mumble (Open Source) server instead. -->
