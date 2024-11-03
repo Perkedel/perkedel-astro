@@ -792,17 +792,19 @@ const{
                 
             <h3>PC (Windows, Linux, macOS)</h3>
                 <h4>Zello not available on Desktop?</h4>
-                    <p>Unfortunately, Zello Desktop works only for ZelloWork (Zello for enterprise, paid ones). Public Free Zello is only available on Mobile (Android & iOS). If you wish to connect to the public talk servers, you will need to connect with their remote server which hopefully they have. The instruction & information on how to connect to those alternative protocols usually are available on the OG server descriptions or their YouTube channel OR website.
+                    <p>Unfortunately, Zello Desktop works only for ZelloWork (Zello for enterprise, paid ones & deploy own). Public Free Zello is only available on Mobile (Android & iOS). If you wish to connect to the public talk servers, you will need to connect with their remote server which hopefully they have. The instruction & information on how to connect to those alternative protocols usually are available on the OG server descriptions or their YouTube channel OR website.
                     <br/>
                     If you so desire, try to priotize on <b>Mumble</b>, which is Gratis, Open Source, & mostly version agnostic. e.g., you can use the PC (connected to remote Mumble) for listening, & use your mobile/HT-POC device (connected to the Zello) as the mic brik roger.
                     </p>
                 <h4>Wait, I found this old Zello client!</h4>
                     <p>
-                        <ButtonizedLink href='https://github.com/zelloptt/zellowork-windows-client-sdk' openInNewTab={true} style='font-size:xx-large;'>Zello Windows Client SDK</ButtonizedLink>, <ButtonizedLink href='https://github.com/zelloptt/zellowork-windows-client-sdk/blob/master/ZelloWorkClientSDKSetup.exe?raw=true' openInNewTab={true} style='font-size:xx-large;'>DOWNLOAD</ButtonizedLink>
+                        <ButtonizedLink href='https://github.com/zelloptt/zellowork-windows-client-sdk' openInNewTab={true} style='font-size:xx-large;'>Zello Windows Client SDK</ButtonizedLink>, <ButtonizedLink href='https://github.com/zelloptt/zellowork-windows-client-sdk/blob/master/ZelloWorkClientSDKSetup.exe?raw=true' openInNewTab={true} style='font-size:xx-large;'>DOWNLOAD SDK</ButtonizedLink>
                         <br/>
-                        Yes. But keep in mind, this client was never been updated since 2017. We cannot guarantee that if this still can connect to the Zello Free Tier.
+                        Yes. But keep in mind, this SDK & the samples were never been updated since 2017. We cannot guarantee that if this client still can connect to the Zello Free Tier. Well, we don't think so. Because these samples are compiled with URL to <code>default.zellowork.com</code>, not the Zello Mobile one we have now.
                         <br/>
                         <span class='info'>BONUS: <ButtonizedLink href='https://github.com/TheGreatCodeholio/pi_zello' openInNewTab={true} style='font-size:xx-large;'>Experimental Raspberry Pi client made of the SDK above</ButtonizedLink> <b class='error  '>NO RELEASE, requires manual SDK API secret configuration!</b></span>
+                        <br/>
+                        Alright, if you insist, perhaps have an Android VM somewhere & put Zello APK in it? Or since the communities above has alternative connection ways, you can try those relays too.
                     </p>
                 <h4>TeamSpeak Spacers</h4>
                     <Figurative figcaption={'TeamSpeak Fancy Spacers. You can use these spacers to make your TeamSpeak server look fancy.'}>
