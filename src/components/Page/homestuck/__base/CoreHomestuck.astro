@@ -35,6 +35,7 @@ export interface Props{
     skipFooter?:boolean;
     disableOverwhelmStatement?:boolean;
     author?:string;
+    endSay?:string;
     noNeedNSFW?:boolean;
     // customGoBack?:String;
     filename?:String;
@@ -58,10 +59,11 @@ const{
     company = 'Perkedel Technologies',
     licenseSay = 'CC4.0-BY-SA',
     companyImgSrc = '/Perkedel_Icon.png',
-    licenseImgSrc = '',
-    licenseUrl = '',
+    licenseImgSrc = 'https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png',
+    licenseUrl = 'https://creativecommons.org/licenses/by-sa/4.0/',
     // customGoBack = '../../..',
     isWIP = false,
+    notReadyToShow = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 
 const useCustomGoBack = true;
@@ -97,9 +99,18 @@ const noNeedNSFW = true;
         <Fragment>
             {nsfw?
                 <Fragment>
-                    <slot>
-                    <p>Empty</p>
-                    </slot>
+                    {
+                        notReadyToShow?
+                        <Fragment>
+                            <p class='error'>Sorry, this DialogLog is not ready for showing yet. Please come back later.</p>
+                        </Fragment>
+                        :
+                        <Fragment>
+                            <slot>
+                                <p>Empty</p>
+                            </slot>
+                        </Fragment>
+                    }
                 </Fragment>
                 :
                 <Fragment>
@@ -109,9 +120,17 @@ const noNeedNSFW = true;
         </Fragment>
         :
         <Fragment>
-            <slot>
-            <p>Empty</p>
-            </slot>
+            {notReadyYet?
+                <Fragment>
+                    <p class='error'>Sorry, this DialogLog is not ready for showing yet. Please come back later.</p>
+                </Fragment>
+                :
+                <Fragment>
+                    <slot>
+                        <p>Empty</p>
+                    </slot>
+                </Fragment>
+            }
         </Fragment>
     }
     

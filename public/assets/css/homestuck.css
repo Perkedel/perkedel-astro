@@ -1101,12 +1101,46 @@ You can further make crazy the style with below classes
     --HS-LordEnglish-postfix: "" / "";
     /* DONE: Pls more! Lord English ones is rather complicated! */
 
-    /* Snowman. Do not say mommy!!! ......... I know. */
+    /* Snowman. Female. Do not say mommy!!! ......... I know. */
     --HS-SnowmanFelt-color: var(--HS-Hemospectrum-White);
     --HS-SnowmanFelt-colorEnd: var(--HS-Hemospectrum-Black);
     --HS-SnowmanFelt-bgColor: var(--HS-Hemospectrum-Clear);
     --HS-SnowmanFelt-prefix: "🎱 Snowman: " / "Snowman says, ";
     /* Text color keyframes from init to end! */
+
+    /* WAKTURIA */
+
+    /* Gyouter Embinosa. Leader. */
+    --HS-GyouterEmbinosa-color: var(--HS-Hemospectrum-LimeBright);
+    --HS-GyouterEmbinosa-bgColor: var(--HS-Hemospectrum-Black);
+    --HS-GyouterEmbinosa-prefix: "Gyouter Embinosa: " / "Gyouter Embinosa says, ";
+    --HS-GyouterEmbinosa-fontStyle: normal;
+
+    /* Grevor Sritowi. Tech. */
+    --HS-GrevorSritowi-color: var(--HS-Hemospectrum-BlueBluer);
+    --HS-GrevorSritowi-bgColor: var(--HS-Hemospectrum-Black);
+    --HS-GrevorSritowi-prefix: "Gyouter Embinosa: " / "Gyouter Embinosa says, ";
+    --HS-GrevorSritowi-fontStyle: normal;
+
+    /* INTERPOL */
+
+    /* Subok Nugroho. Mercenary. Male. Has flying ability & is a gunslinger */
+    --HS-SubokNugroho-color: var(--HS-Hemospectrum-White);
+    --HS-SubokNugroho-bgColor: var(--HS-Hemospectrum-BronzeDim);
+    --HS-SubokNugroho-prefix: "Subok Nugroho: " / "Subok Nugroho says, ";
+    --HS-SubokNugroho-fontStyle: normal;
+
+    /* JupiterSwirl9X a.k.a. Jimmy Bolva. Boss No. 1 of 6. He/him (Male), Artist focusing on drawing Furry */
+    --HS-JimmyBolva-color: var(--HS-Hemospectrum-YellowOrange);
+    --HS-JimmyBolva-bgColor: var(--HS-Hemospectrum-TealBright);
+    --HS-JimmyBolva-prefix: "JupiterSwirl9X a.k.a. Jummy Bolva: " / "Jimmy Bolva says, ";
+    --HS-JimmyBolva-fontStyle: normal;
+
+    /* Vivi a.k.a. Ryan Volvaedi. Boss No. 6 of 6. She/her (M2F None), Artist focusing on drawing Latex. Disclaimer, these people ared considered tarnishing whatever family name placed here & goes for the rest of the bosses & mercenaries above */
+    --HS-RyanVolvaedi-color: var(--HS-Hemospectrum-Orange);
+    --HS-RyanVolvaedi-bgColor: var(--HS-Hemospectrum-PurpleBright);
+    --HS-RyanVolvaedi-prefix: "Vivi a.k.a. Ryan Volvaedi: " / "Ryan Volvaedi says, ";
+    --HS-RyanVolvaedi-fontStyle: normal;
 
     /* SEDIRON SOCIAL MEDIA */
 
@@ -1830,6 +1864,24 @@ You can also customize the type of the information
     background-color: var(--HS-BaserSediron-bgColor);
 }
 
+/* Subok Nugroho */
+.HS.SubokNugroho, .HS-Name.SubokNugroho, .HS-Dialog.SubokNugroho {
+    color: var(--HS-SubokNugroho-color);
+    background-color: var(--HS-SubokNugroho-bgColor);
+}
+
+/* Jimmy Bolva */
+.HS.JimmyBolva, .HS-Name.JimmyBolva, .HS-Dialog.JimmyBolva {
+    color: var(--HS-JimmyBolva-color);
+    background-color: var(--HS-JimmyBolva-bgColor);
+}
+
+/* Ryan Volvaedi */
+.HS.RyanVolvaedi, .HS-Name.RyanVolvaedi, .HS-Dialog.RyanVolvaedi {
+    color: var(--HS-RyanVolvaedi-color);
+    background-color: var(--HS-RyanVolvaedi-bgColor);
+}
+
 /* End Color overridenings */
 
 /* Names */
@@ -2270,6 +2322,21 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Eitsch */
 .HS.Eitsch::before {
     content: var(--HS-Eitsch-prefix);
+}
+
+/* SubokNugroho */
+.HS.SubokNugroho::Before {
+    content: var(--HT-SubokNugroho-prefix)
+}
+
+/* Jimmy Bolva */
+.HS.JimmyBolva::Before {
+    content: var(--HT-JimmyBolva-prefix)
+}
+
+/* Ryan Volvaedi */
+.HS.RyanVolvaedi::Before {
+    content: var(--HT-RyanVolvaedi-prefix)
 }
 
 /* 
