@@ -15,6 +15,8 @@ import ListCellsCardiophileSFW from '@components/Elements/SparePart/ListCellsCar
 import ListCellsCardiophileNSFW from '@components/Elements/SparePart/ListCellsCardiophileNSFW.astro';
 import ListCellsCardiophileDiscordSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileDiscordSFW.astro';
 import ListCellsCardiophileDiscordNSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileDiscordNSFW.astro';
+import ListCellsCardiophileContainsSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileContainsSFW.astro';
+import ListCellsCardiophileContainsNSFW from '@components/Elements/SparePart/ListCells/ListCellsCardiophileContainsNSFW.astro';
 import KolmoIsOverwhelmed from '@components/Messages/KolmoIsOverwhelmed.astro';
 import CardiophileQuality from '@components/Elements/SparePart/Tables/CardiophileQuality.astro';
 import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
@@ -48,13 +50,6 @@ const{
                 <p>SO, Ha, Mi, any Redacted members from threads I can't find anymore, I won't dox, no gives to me, it's proven toxic (Twitter people did that & that's no good), & I got too many stuffs to do. I know, too few heartbeat {nsfw?'sex':'stuff'} related, but atleast I tried to archive them all here. Wait, hold on. Oh {nsfw?'shit fuck!':'peck!'}, did I just contributed to <b>witchhunt</b>? oh no! what have I done?! I'm sorry, I brought a hitmen!! Look, you don't have to apologize, but it's still appreciated, coz making ones is hard & often times is horrible, I did that & it is trash!</p>
                 <p>You know what, how about just ignore this? coz right now heartbeat fetish files are too few, but when it grows, it takes whole time to review all of them.</p>
             </details>
-        <h2>What to do?</h2>
-            <p>Here heartbeat Stuffs</p>
-            <KolmoIsOverwhelmed/>
-            <ul>
-                <ListCellsCardiophileSFW nsfw={nsfw}/>
-                {nsfw?<BeginningOfNSFW/><ListCellsCardiophileNSFW/>:""}
-            </ul>
         <h2>Psst! Got more heart beat stuff gamers can download?</h2>
             <p>
                 Why not submit URLs Download Links you find?<br/>
@@ -74,7 +69,25 @@ const{
                 files directly in this website repo.
                 Go ahead, try Odysee, it's cool & good! We support Odysee fully!
                 </p>
-        <h2>Discord Invites!</h2>
+        
+        <h2>Contains Heartbeat</h2>
+            <p>Top moment that contains heart beating thingies</p>
+            <ul>
+                <li>Please check these out</li>
+                <ListCellsCardiophileContainsSFW nsfw={nsfw}/>
+                {nsfw?<BeginningOfNSFW/><ListCellsCardiophileContainsNSFW/>:""}
+            </ul>
+        
+        <summary>
+            <details>More</details>
+            <h2>What to do?</h2>
+            <p>Here heartbeat Stuffs</p>
+            <KolmoIsOverwhelmed/>
+            <ul>
+                <ListCellsCardiophileSFW nsfw={nsfw}/>
+                {nsfw?<BeginningOfNSFW/><ListCellsCardiophileNSFW/>:""}
+            </ul>
+            <h2>Discord Invites!</h2>
             <p>
                 Discord is supposedly not recommended by Perkedel,
                 But yeah, alot of heartbeat communities dwells there.<br/>
@@ -128,6 +141,8 @@ const{
                 </ul>
 
 
+        </summary>
+        
         {nsfw?"":
             <EnterNSFWButton/>
         }

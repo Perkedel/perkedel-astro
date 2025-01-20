@@ -1124,6 +1124,12 @@ You can further make crazy the style with below classes
 
     /* INTERPOL */
 
+    /* Query Sandros. First agent of Interpol Initiative. Was initially a professional entertainer (circus jester) at Sorrow City, Dasandim. Due to rising Sorrow recently since late 2024, Query got hired by Joel himself to entertain him, by getting rid of the Sorrow Source. */
+    --HS-QuerySandros-color: var(--HS-Hemospectrum-OrangeOranger);
+    --HS-QuerySandros-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-QuerySandros-prefix: "Query Sandros: " / "Query Sandros says, ";
+    --HS-QuerySandros-fontStyle: normal;
+
     /* Subok Nugroho. Mercenary. Male. Has flying ability & is a gunslinger */
     --HS-SubokNugroho-color: var(--HS-Hemospectrum-White);
     --HS-SubokNugroho-bgColor: var(--HS-Hemospectrum-BronzeDim);
@@ -1315,6 +1321,14 @@ You can further make crazy the style with below classes
     /* (Base) Moderator colors */
     --HS-SocialModerators-color: var(--HS-Hemospectrum-LimeBright);
     --HS-SocialModerators-bgColor: var(--HS-Hemospectrum-Clear);
+
+    /* PLAGIARIZER */
+
+    /* Patrick Sway. General of Copy Paste Division in Arenod Sediron DNB. Formerly Head of Infrastructure at Taman Seru Dasandim. */
+    --HS-PatrickSway-color: var(--HS-Hemospectrum-Null);
+    --HS-PatrickSway-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-PatrickSway-prefix: "Patrick Sway: " / "Patrick Sway says, ";
+    --HS-PatrickSway-fontStyle: normal;
 
     /* ZENLESS ZONE ZERO */
 
@@ -2325,18 +2339,23 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 }
 
 /* SubokNugroho */
-.HS.SubokNugroho::Before {
+.HS.SubokNugroho::before {
     content: var(--HT-SubokNugroho-prefix)
 }
 
 /* Jimmy Bolva */
-.HS.JimmyBolva::Before {
+.HS.JimmyBolva::before {
     content: var(--HT-JimmyBolva-prefix)
 }
 
 /* Ryan Volvaedi */
-.HS.RyanVolvaedi::Before {
+.HS.RyanVolvaedi::before {
     content: var(--HT-RyanVolvaedi-prefix)
+}
+
+/* Query Sandros */
+.HS.QuerySandros::before {
+    content: var(--HT-QuerySandros-prefix)
 }
 
 /* 

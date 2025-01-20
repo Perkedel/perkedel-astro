@@ -1,0 +1,79 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+// import CorePage from '@compnents/Page/__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreHomestuck from './__base/CoreHomestuck.astro';
+
+const filename:string = 'Testinger'
+const isNSFW:boolean = false;
+const addHeaderTitle:string = 'Testp';
+const addMetaTitle:string = 'Testp';
+const addKeywords:string = 'test';
+const addDescriptions:string = '';
+const skipHeader:boolean = false;
+const skipNav:boolean = false;
+const skipFooter:boolean = false;
+const disableOverwhelmStatement:boolean = true;
+const endSay:string = 'End';
+const author:string = 'JOELwindows7';
+const company:string = 'Perkedel Technologies';
+const licenseSay:string = 'CC4.0-BY-SA';
+const companyImgSrc:string = '/Perkedel_Icon.png';
+const licenseImgSrc:string = '';
+const licenseUrl:string = '';
+const isWIP:boolean = false;
+const notReadyToShow:boolean = false;
+
+const{
+    nsfw = false,} = Astro.props;
+---
+<CoreHomestuck
+    nsfw={nsfw} isNSFW={isNSFW}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    filename={filename}
+    endSay={endSay}
+    company={company}
+    companyImgSrc={companyImgSrc}
+    licenseSay={licenseSay}
+    licenseImgSrc={licenseImgSrc}
+    isWIP={isWIP}
+    notReadyToShow={notReadyToShow}
+>
+    <!-- 
+        Jobless. Miniseries.
+        When you are rich in Arenod Sediron, the Currency here are not compatible with Earth Currencies. Hence whatever you do is for toys.
+        It is very easy to Job in Arenod Sediron because they have fields that's wholely different and matches quickly, but Earth does so & today it's lesser match.
+        You are bored. Why not find back from Earth how does it feels like be rich there once again or never been?
+
+        A bunch of DNB citizen tried to Job on Earth and failed & success. Years passed by, the success grows. But alas by that next day, one by one the CEO & workers went into an inevitable controvercy. No matter how mannered you are, eventually you shall face controvercy that dooms your empire down to ashes. There is no fighting against it considered that the West, who's the source of the Earth Richness had agenda, should anyone disagree shall be doomed regardless
+
+        Let's go back home. Finding Job to Enjoy Earth is not worth it.
+        A young adult just graduated with Internship finished reached a DNB citizen. Begging for the Job there in Arenod Sediron.
+        Wait! don't go! Are you, looking for Job?
+        Yes! You said back in your home you're Rich!
+        I think you're mistaken. I'm broke!
+        Broke in Earth! But not in your Home.
+        Oh, I see you immediately understood the assignment. How's your Job
+        Great! I made decent earnings! I lied. The Internship do not transfer to Permanent Job, I asked all my friend, none of the company transfers. They all Single Use Packet System, what an asshole!
+        I appreciate your honesty, and that's what we require here in our business. But.. our Jobset is different, e.g. Observe random things. That's boring, you're medling around people's business. Well to moderate someone but.. It's screwed up, but it's my home policy (such as to report Notorious for Blocking)
+        It's okay! I'll take anything
+        And you must move whole family because my home is on another dimension.
+        That's okay too! I'm in!
+        Okay, follow me (open portal)
+
+        Query! you have new friends! here's new worker in MultiTalent division.
+    -->
+</CoreHomestuck>

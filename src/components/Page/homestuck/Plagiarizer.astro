@@ -1,0 +1,112 @@
+---
+import Layout from '@components/Layout.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro'; // it has to be imported everytime, just like every programming language sigh I thought just once wtf
+import { Icon } from 'astro-icon';
+import { Sprite } from 'astro-icon';
+import Emoji from 'astro-emoji';
+// import CorePage from '@compnents/Page/__CorePage.astro';
+import BeginningOfNSFW from '@components/Elements/SparePart/ListCells/BeginningOfNSFW.astro';
+import StatCard from '@components/Elements/SparePart/StatCard.astro';
+import CoreHomestuck from './__base/CoreHomestuck.astro';
+
+const filename:string = 'Plagiarizer'
+const isNSFW:boolean = false;
+const addHeaderTitle:string = 'The Plagiarizers';
+const addMetaTitle:string = 'Plagiarizer';
+const addKeywords:string = 'tracing, jiplak, plagiarism';
+const addDescriptions:string = 'The story of a theme park work division';
+const skipHeader:boolean = false;
+const skipNav:boolean = false;
+const skipFooter:boolean = false;
+const disableOverwhelmStatement:boolean = true;
+const endSay:string = 'End';
+const author:string = 'JOELwindows7';
+const company:string = 'Perkedel Technologies';
+const licenseSay:string = 'CC4.0-BY-SA';
+const companyImgSrc:string = '/Perkedel_Icon.png';
+const licenseImgSrc:string = '';
+const licenseUrl:string = '';
+const isWIP:boolean = false;
+const notReadyToShow:boolean = false;
+
+const{
+    nsfw = false,} = Astro.props;
+---
+<CoreHomestuck
+    nsfw={nsfw} isNSFW={isNSFW}
+    addKeywords={addKeywords}
+    addDescriptions={addDescriptions}
+    addHeaderTitle={addHeaderTitle}
+    addMetaTitle={addMetaTitle}
+    author={author}
+    disableOverwhelmStatement={disableOverwhelmStatement}
+    skipHeader={skipHeader}
+    skipNav={skipNav}
+    skipFooter={skipFooter}
+    filename={filename}
+    endSay={endSay}
+    company={company}
+    companyImgSrc={companyImgSrc}
+    licenseSay={licenseSay}
+    licenseImgSrc={licenseImgSrc}
+    isWIP={isWIP}
+    notReadyToShow={notReadyToShow}
+>
+    <!-- Plagiarizer / Sang Penjiplak miniseries
+    tells story of a worker division at Taman Seru, Dasandim. This is a special division for sculpting infrastructure decoration to looks like in a photo.
+    They saw the photo or any reference object, then rescale sculpt them as detail as possible.
+    The division is so good, that they've expanded the format choices.
+    One day, a new advent of AIs & their machination automatas slowly replacing them. from 3D Printing, down to the Tracing AI, also just by looking at a photo, all in just 1 computer.
+    But thankfully, Arenod Sediron & DNB affiliates were under attack from various Artist who imposed dystopic rules & censorships against Enjoyers.
+    the DNB brought those unfortunately obselete division to work for them in a whole brand new format, yet still the same purpose. is to Plagiarize / Jiplak. 
+
+    So, once upon a time, You were given a picture, an object, and an installations. You were told to rescale sculpt this to make it looks like the reference installation. And you did.
+    But now, the Steam & Industrialization Era has finished, go to the brand new Era of Cognitive. Where a machine is now the one that do all of these steps & jobs, then to another machine that will build it.
+    Then what you'd be? That's right. Revenge. You were doing this for a boss & a few customers. But now, you'll do this once again, this time, entire universe amount of customers who unfortunately got missile struck mentally.
+    And as usual, you pass the updated version craft down.
+
+    So. You like to copy homeworks right? It's very simple. It's just screwed up one one context, but needed in this context.
+    How do you do this? Well, Take the reference. Look at its detail. Note each and every corner of the reference and save it.
+    Now when you got to rebuild it, take the note again, and rebuild with the detail you just noted. It's that simple.
+
+    in the Finale, use above but add these after:
+    But.. are we going to do this the same way, when turns out.. technology, can be our friend either way? And you just saw.. 
+    indeed. A homework therefore must be copied (because you've been Blocked).
+
+    - arenod sediron
+- Plagiarizer end part
+- observe and harvest patent intel of a notorious Artist.
+- 120 block, 72 of which our clients
+- progress
+- we got style and character
+- ...
+- just keep finding. and send all intel as much as you can
+- target order ambush. soldier approaching
+- ambush arrive! leave me and 2 supervisors!
+- everyone leave
+- stop what you're doing
+- No. your behaviour is unacceptable!
+- tank
+- load
+- aim
+- lasf chance.
+- Still not
+- Fire!
+- forcefield shield
+- able to with stand bullet.
+- bounces off above then struck to his own house
+- fell through basements
+- hit bedrock detonate duar! everything destroyed oops
+- army shocked, not to mention the tank guy came out oopsed
+- you!!
+- whole camp dimensionally moved. Patrick and friend off the scene
+- ok
+
+    We apologize. the target source house has been destroyed by his own mistake.
+    He ordered the ambush knowing our mission there.
+    Here are the result we got.
+
+    It's okay. These are all we need. There's not much going on since long anyway.
+    Here's everything he uploaded & published to the Internet. This should help you further polish your reconstructions.
+    -->
+</CoreHomestuck>
