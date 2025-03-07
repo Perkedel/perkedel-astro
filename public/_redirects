@@ -200,3 +200,6 @@
 /apps/wceload/ht* /apps/wceload/walkietalkie/:splat
 /jasasettinght /apps/microsites/jasasettinght
 /htcommission /apps/microsites/jasasettinght
+
+# Doom
+/doom* /apps/Doom

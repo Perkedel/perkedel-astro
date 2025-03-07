@@ -1386,6 +1386,44 @@ You can further make crazy the style with below classes
     --HS-SouviereGrant-prefix: "Sovier E. Grant: " / "Sovier Entra Grant says, ";
     --HS-SouviereGrant-fontStyle: normal;
 
+    /* ORR KITCHEN */
+
+    /* Odenn Zulfiz Halfisher. a.k.a. Chef Odenna. a chicken thyren. Inspire from Toy Chica & FIFA's Ettie (Women's World Cup 2019 France). Basically it. Looks like a humanoid chick, yellow furry and with orange cute beak. Since the fur, she has to wear glove so food ingredient won't stick to her hand. Sometimes called Madam CheChic (Tante Cecik / Mbak Cik) due to similarity with mentioned Toy Chica. */
+    --HS-OdennZulfizHalfisher-color: var(--HS-Hemospectrum-Yellow);
+    --HS-OdennZulfizHalfisher-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-OdennZulfizHalfisher-prefix: "Odenn Zulfiz Halfisher: " / "Chef Odenna says, ";
+    --HS-OdennZulfizHalfisher-fontStyle: normal;
+
+    /* Ken Draunitz. Chef Chicken macho guy a.k.a. Chef Kendra. Husband of Odenna. rainforest chicken thyren */
+    --HS-KenDraunitz-color: var(--HS-Hemospectrum-RedCandy);
+    --HS-KenDraunitz-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-KenDraunitz-prefix: "Ken Drauniz: " / "Chef Kendra says, ";
+    --HS-KenDraunitz-fontStyle: normal;
+
+    /* Narilla Tormacutron. Petite Pig girl. Red hair curl bit. Also chef. Classmate next to Odenna. She can slice and mince very fast maximum 15 fps. Additionally her hand is as fast as those chinese factory worker. So fast, agile, yet precise with minimum error once she got familiar with the workflow. Has mother milf vibe voice, despite her short form. Inspired from somebody's pig anthro heartbeat stething I lost the file God knows where. To be a wife for Jonah. Also petite pig guy. He designs how restaurant works. Narilla likes Truffle. Since she has sharp smelling ability, she can smell truffle far away. The smell relaxes her. */
+    --HS-NarillaTormacutron-color: var(--HS-Hemospectrum-PinkPinker);
+    --HS-NarillaTormacutron-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-NarillaTormacutron-prefix: "Narilla Tormacutron: " / "Chef Narilla says, ";
+    --HS-NarillaTormacutron-fontStyle: normal;
+
+    /* Jonah Marvuitz. Also Petite Pig guy. He designs restaurant rules & mechanism overall. From its regulations, guidelines, down to its automation. Husband of Narilla. */
+    --HS-JonahMarvuitz-color: var(--HS-Hemospectrum-BlueScarf);
+    --HS-JonahMarvuitz-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-JonahMarvuitz-prefix: "Jonah Marvuitz: " / "Chef Jonah says, ";
+    --HS-JonahMarvuitz-fontStyle: normal;
+
+    /* Dalma Korr Halfisher. Father of Odenna. Runs a konbini business */
+    --HS-DalmaKorrHalfisher-color: var(--HS-Hemospectrum-YellowOrange);
+    --HS-DalmaKorrHalfisher-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-DalmaKorrHalfisher-prefix: "Dalma Korr Halfisher: " / "Dalma says, ";
+    --HS-DalmaKorrHalfisher-fontStyle: normal;
+
+    /* Umidi Zulfiz. Mother of Odenna. Dalma's right hand & wife. a chicken thyren. */
+    --HS-UmidiZulfiz-color: var(--HS-Hemospectrum-PurpleBitBright);
+    --HS-UmidiZulfiz-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-UmidiZulfiz-prefix: "Umidi Zulfiz Halfisher: " / "Umidi says, ";
+    --HS-UmidiZulfiz-fontStyle: normal;
+
     /* KAMATUSSA */
 
     /* Kamatussa. the OG kamatussa. purposed for anti-porn. had ever murdered entire Vatastora planet for their lewd nature of producing energy, by breeding radiates clean energy and energy be captured. */
@@ -2356,6 +2394,21 @@ Note, this will not work viably in Markdown, to ensure text editor compability &
 /* Query Sandros */
 .HS.QuerySandros::before {
     content: var(--HT-QuerySandros-prefix)
+}
+
+/* Dalma Korr Halfisher */
+.HS.DalmaKorrHalfisher::before {
+    content: var(--HT-DalmaKorrHalfisher-prefix)
+}
+
+/* Odenna Zulfiz Halfisher */
+.HS.OdennZulfizHalfisher::before {
+    content: var(--HT-OdennZulfizHalfisher-prefix)
+}
+
+/* Umidi Zulfiz */
+.HS.UmidiZulfiz::before {
+    content: var(--HT-UmidiZulfiz-prefix)
 }
 
 /* 
