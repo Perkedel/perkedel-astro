@@ -38,6 +38,7 @@ export interface Props{
     endSay?:string;
     noNeedNSFW?:boolean;
     // customGoBack?:String;
+    notReadyToShow?:boolean;
     filename?:String;
     isWIP?:boolean;
 }
@@ -120,7 +121,7 @@ const noNeedNSFW = true;
         </Fragment>
         :
         <Fragment>
-            {notReadyYet?
+            {notReadyToShow?
                 <Fragment>
                     <p class='error'>Sorry, this DialogLog is not ready for showing yet. Please come back later.</p>
                 </Fragment>
