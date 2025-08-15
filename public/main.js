@@ -967,6 +967,17 @@ function GetURLParameter(sParam)
     }
 }
 
+// TrinketOS
+
+function testTrinketOSSay()
+{
+    if(windows.TrinketOS?.spriteSay)
+    {
+        TrinketOS.spriteSay("Hello World!\nLorem Ipsum dolor sit amet");
+        Console.log("Hello World!\nLorem Ipsum dolor sit amet");
+    }
+}
+
 /*
 Moar Dump
 - https://www.w3schools.com/html/html_scripts.asp
@@ -1022,6 +1033,13 @@ Moar Dump
 - https://www.w3schools.com/css/css_overflow.asp
 - https://www.w3schools.com/Css/tryit.asp?filename=trycss_dropdown_image
 - https://www.w3schools.com/Css/tryit.asp?filename=trycss_dropdown_navbar2
+- https://trinketos.org/
+- https://www.reddit.com/r/TrinketOS/
+- https://github.com/ismslv/trinketos/
+- https://smslv.itch.io/trinketos
+- https://www.reddit.com/r/TrinketOS/comments/1mplnoy/simple_notes_tapp/ yoink one of the example part of the code something
+- https://stackoverflow.com/questions/7755088/what-does-href-expression-a-href-javascript-a-do
+- https://www.w3schools.com/jsref/prop_loc_href.asp
 */
 
 /*
