@@ -975,7 +975,7 @@ function testTrinketOSSay()
     {
         TrinketOS.spriteSay("Hello World!\nLorem Ipsum dolor sit amet");
     }
-    Console.log("Hello World!\nLorem Ipsum dolor sit amet");
+    console.log("Hello World!\nLorem Ipsum dolor sit amet");
 }
 
 /*
