@@ -971,11 +971,11 @@ function GetURLParameter(sParam)
 
 function testTrinketOSSay()
 {
-    if(windows.TrinketOS?.spriteSay)
+    if(window.TrinketOS?.spriteSay)
     {
         TrinketOS.spriteSay("Hello World!\nLorem Ipsum dolor sit amet");
-        Console.log("Hello World!\nLorem Ipsum dolor sit amet");
     }
+    Console.log("Hello World!\nLorem Ipsum dolor sit amet");
 }
 
 /*
