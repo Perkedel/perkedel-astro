@@ -22,6 +22,7 @@ import HomestuckCSSTest from '@components/Elements/SparePart/Experiments/Homestu
 import NewNerdFontTest from '@components/Elements/SparePart/Experiments/NewNerdFontTest.astro';
 import HTMXTest from '@components/Elements/SparePart/Experiments/HTMXTest.astro';
 import SauceShortCutTest from '@components/Elements/SparePart/Experiments/SauceShortCutTest.astro';
+import TrinketOSAPITest from '@components/Elements/SparePart/Experiments/TrinketOSAPITest.astro';
 
 const canonicalURL:String = new URL(Astro.url.pathname, Astro.site);
 ---
@@ -38,6 +39,8 @@ const canonicalURL:String = new URL(Astro.url.pathname, Astro.site);
         <ButtonizedLink content="404 Test" href="/404"/>
         <!-- <ButtonizedLink content="Experiment & Sample Stubs" href="./SamplesStubs"/> -->
         <ButtonizedLink content="Experiment & Sample Stubs" href={canonicalURL+"/SamplesStubs"}/>
+    <h2 id='TrinketOSAPITest'>TrinketOS API Test on Page viewer on TrinketOS</h2>
+        <TrinketOSAPITest/>
     <h2>The <ButtonizedLink content="ICON" href="https://github.com/natemoo-re/astro-icon" target="_blank" rel="noopener noreferrer"/></h2>
         <!-- https://github.com/natemoo-re/astro-icon#readme -->
         <h3>Automatically fetches and inlines Material Design Icon's "account" SVG</h3>
@@ -96,4 +99,5 @@ const canonicalURL:String = new URL(Astro.url.pathname, Astro.site);
         <HTMXTest/>
     <h2 id='ShortcutSauceTest'>Sauce Shortcut</h2>
         <SauceShortCutTest/>
+    
 </Layout>   
