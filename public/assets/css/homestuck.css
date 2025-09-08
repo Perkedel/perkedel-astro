@@ -1130,6 +1130,13 @@ You can further make crazy the style with below classes
     --HS-QuerySandros-prefix: "Query Sandros: " / "Query Sandros says, ";
     --HS-QuerySandros-fontStyle: normal;
 
+    /* Mistletoe. aaaaa Query's younger brother */
+    --HS-MistletoeSandros-color: var(--HS-Hemospectrum-Orange);
+    --HS-MistletoeSandros-bgColor: var(--HS-Hemospectrum-Clear);
+    --HS-MistletoeSandros-prefix: "Mistletoe Sandros: " / "Mistletoe Sandros says, ";
+    --HS-MistletoeSandros-fontStyle: normal;
+    /* DId I just forgot to put him here? */
+
     /* Subok Nugroho. Mercenary. Male. Has flying ability & is a gunslinger */
     --HS-SubokNugroho-color: var(--HS-Hemospectrum-White);
     --HS-SubokNugroho-bgColor: var(--HS-Hemospectrum-BronzeDim);
