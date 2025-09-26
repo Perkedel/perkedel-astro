@@ -49,6 +49,10 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 
 :root {
     --BGColor: black;
+    --surfaceColor: navy;
+    --PrimaryColor: blue;
+    --SecondaryColor: orange;
+    --TertiaryColor: #0000ff;
     /*
     https://codepen.io/CarlaVamp/pen/JjRNoVo
     https://github.com/ryanoasis/nerd-fonts#patched-fonts
@@ -57,7 +61,8 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
     https://github.com/mshaugh/nerdfont-webfonts
     https://www.nerdfonts.com/
     */
-    font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
+    --whole-font: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif;
+    font-family: var(--whole-font);
     /* https://youtu.be/nQzRTsjBXfQ */
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme */
     color-scheme: light dark;
@@ -83,6 +88,22 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
      */
     scroll-behavior: smooth;
     word-wrap: break-word;
+
+    /* Cookie Consents */
+    /** Change font **/ 
+    /* --cc-font-family: Roboto;  */
+    --cc-font-family: var(--whole-font); 
+
+    /** Change button primary color to black **/ 
+    /* --cc-btn-primary-bg: #000000; 
+    --cc-btn-primary-border-color: #000000; 
+    --cc-btn-primary-hover-bg: #444444; 
+    --cc-btn-primary-hover-border-color: #444444;  */
+
+    /** Also make toggles the same color as the button **/ 
+    /* --cc-toggle-on-bg: var(--cc-btn-primary-bg);  */
+    /** Make the buttons a bit rounder **/ 
+    /* --cc-btn-border-radius: 10px; */
 }
 
 
