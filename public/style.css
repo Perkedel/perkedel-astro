@@ -1839,6 +1839,10 @@ https://youtu.be/T33NN_pPeNI
     /* overflow-x: auto; */
 }
 
+.showOnce{
+    /* mark this class to make it show once */
+}
+
 .hideScroll:hover {
     -ms-transition: background-color .05s, color .05s;
     transition: background-color .05s, color .05s;
@@ -1850,32 +1854,32 @@ https://youtu.be/T33NN_pPeNI
 }
 
 .hideScroll.showScroll {
-    opacity: 1;
-    filter: blur(0);
-    -ms-transform: initial;
-    transform: initial;
+    opacity: 1 ;
+    filter: blur(0) ;
+    -ms-transform: initial ;
+    transform: initial ;
 }
 
 .hideScroll.fromLeftSideScroll:not(.showScroll) {
-    -ms-transform: translateX(-100px);
-    transform: translateX(-100px);
+    -ms-transform: translateX(-100px) ;
+    transform: translateX(-100px) ;
     /* transform: translate(-100, 0); */
 }
 
 .hideScroll.fromRightSideScroll:not(.showScroll) {
-    -ms-transform: translateX(100px);
-    transform: translateX(100px);
+    -ms-transform: translateX(100px) ;
+    transform: translateX(100px) ;
     /* transform: translate(-100, 0); */
 }
 
 .hideScroll.fromFrontSideScroll:not(.showScroll) {
-    -ms-transform: scale(1.5);
-    transform: scale(1.5);
+    -ms-transform: scale(1.5) ;
+    transform: scale(1.5) ;
     /* transform: translate(-100, 0); */
 }
 
 .hideScroll.fromBackSideScroll:not(.showScroll) {
-    -ms-transform: scale(0);
+    -ms-transform: scale(0) ;
     transform: scale(0);
     /* transform: translate(-100, 0); */
 }

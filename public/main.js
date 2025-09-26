@@ -776,7 +776,7 @@ const scrollObverser = new IntersectionObserver((entries) => {
         // console.log(entry);
         if (entry.isIntersecting) {
             entry.target.classList.add('showScroll');
-        } else {
+        } else if(!entry.target.classList.contains('showOnce')) {
             entry.target.classList.remove('showScroll');
         }
     });
