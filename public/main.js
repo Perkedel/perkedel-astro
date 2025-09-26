@@ -978,6 +978,14 @@ function testTrinketOSSay()
     console.log("Hello World!\nLorem Ipsum dolor sit amet");
 }
 
+// Cookie Consent v3
+// https://github.com/orestbida/cookieconsent
+CookieConsent.show();
+function openCookieConsent() {
+    // window.cookieconsent.show();
+    CookieConsent.showPreferences();
+}
+
 /*
 Moar Dump
 - https://www.w3schools.com/html/html_scripts.asp

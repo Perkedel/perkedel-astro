@@ -56,6 +56,7 @@ const {
             <ul id="navMoreList" class="dropdown-content mobileHide">
                 <slot name="CustomNavMore"/>
                 <li><SettingWindow handoverTitle={handoverTitle} transition:persist><slot name="SettingContains"/><slot name="SettingListCells"/></SettingWindow></li>
+                <li><a title="Open Cookie Consent Setting" href="javascript:openCookieConsent()" class="NavBtn" id="CookiesButton">🍪 Cookies Setting &#xf0e8;</a></li>
                 <li><RefreshButton Classer="NavBtn"/></li>
                 <!-- <li><CopyToClipboardButton title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li> -->
                 <li><CopyURLToClipboardButton Classer="NavBtn" title="Copy current URL here right now to clipboard" say="Copy URL" toBeCopied={Astro.url.href}/></li>
