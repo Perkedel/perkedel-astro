@@ -1,12 +1,15 @@
+import 'https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js'; 
+
 /*
 Cookie Consent orestbida
 https://github.com/orestbida/cookieconsent
 https://cookieconsent.orestbida.com/essential/getting-started.html#html
 
-edit for Perkedel NTLF+ASTR
-*/
+import can only work on very2 top! wtf?!?!?!?!?!??!?!
 
-import 'https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js'; 
+edit for Perkedel NTLF+ASTR
+(JOELwindows7)
+*/
 
 /**
  * All config. options available here:
