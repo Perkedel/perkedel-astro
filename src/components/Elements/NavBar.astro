@@ -53,7 +53,7 @@ const {
             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
             <a class="dropbtn NavBtn" title="Open Menu" href='javascript:appearMoreNavMenuDialog()'>&#xf035c;</a>
 
-            <ul id="navMoreList" class="dropdown-content">
+            <ul id="navMoreList" class="dropdown-content mobileHide">
                 <slot name="CustomNavMore"/>
                 <li><SettingWindow handoverTitle={handoverTitle} transition:persist><slot name="SettingContains"/><slot name="SettingListCells"/></SettingWindow></li>
                 <li><RefreshButton Classer="NavBtn"/></li>
