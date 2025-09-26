@@ -2287,6 +2287,9 @@ details[open] summary {
     margin-bottom: 0.5em;
 }
 
+.mobileOnly {
+    display: none;
+}
 
 /* You also need to decolorize for other classes too */
 
@@ -2534,6 +2537,9 @@ details.warning, details[open].warning summary,
 
     .mobileHide{
         display: none;
+    }
+    .mobileOnly{
+        display: initial;
     }
 }
 
