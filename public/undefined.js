@@ -1,5 +1,10 @@
 // for undefined checks
+// import 'https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js';
 
+if(typeof CookieConsent == 'undefined'){
+    // document.write(unescape("%3Cscript src='/assets/scripts/js/cookieconsent/cookieconsent-config.js' type='text/javascript'%3E%3C/script%3E"));
+    document.write(unescape("%3Cscript src='/assets/scripts/js/cookieconsent/cookieconsent-config.js' type='module'%3E%3C/script%3E"));
+}
 if(typeof htmx == 'undefined'){
   document.write(unescape("%3Cscript src='/assets/scripts/js/htmx/htmx.min.js' type='text/javascript'%3E%3C/script%3E"));
 }

@@ -8,9 +8,7 @@ if(typeof mailtouiApp == 'undefined'){
 if(typeof loudlinks == 'undefined'){
     document.write(unescape("%3Cscript src='/assets/scripts/js/loud-links/loudlinks.min.js' type='text/javascript'%3E%3C/script%3E"));
 }
-if(typeof CookieConsent == 'undefined'){
-    document.write(unescape("%3Cscript src='/assets/scripts/js/cookieconsent/cookieconsent-config.js' type='text/javascript'%3E%3C/script%3E"));
-}
+
 
 
 /*
