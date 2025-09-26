@@ -50,15 +50,15 @@ const {
 
         <!-- <li class="NavHistoryPutRight dropdown"> -->
         
-        <!-- <li id="navMoreDropdown" class="NavHistoryPutRight mobileOnly">
+        <!-- <li id="navMoreDropdownMobile" class="NavHistoryPutRight mobileOnly">
             <a class="NavBtn" title="Open Menu" id="MoreButtonMobile" href='javascript:appearMoreNavMenuDialog()'>&#xf035c;</a>
         </li> -->
         
-        <li id="navMoreDropdown" class="NavHistoryPutRight dropdown mobileHide">
+        <li id="navMoreDropdown" class="NavHistoryPutRight dropdown ">
             <!-- <a class="dropbtn NavBtn" title="Open Menu">&#xea7c;</a> -->
             <a class="dropbtn NavBtn" title="Open Menu" id="MoreButton" href='javascript:appearMoreNavMenuDialog()'>&#xf035c;</a>
 
-            <ul id="navMoreList" class="dropdown-content">
+            <ul id="navMoreList" class="dropdown-content mobileHide">
                 <slot name="CustomNavMore"/>
                 <li><SettingWindow handoverTitle={handoverTitle} transition:persist><slot name="SettingContains"/><slot name="SettingListCells"/></SettingWindow></li>
                 <li><a title="Open Cookie Consent Setting" href="javascript:openCookieConsent()" class="NavBtn" id="CookiesButton">🍪 Cookies Setting &#xf0e8;</a></li>
