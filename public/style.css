@@ -90,6 +90,7 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
     word-wrap: break-word;
 
     /* Cookie Consents */
+    /* https://cookieconsent.orestbida.com/advanced/ui-customization.html */
     /** Change font **/ 
     /* --cc-font-family: Roboto;  */
     --cc-font-family: var(--whole-font); 
