@@ -1457,7 +1457,7 @@ dropbtn a:visited:hover,
 
 /* Show the dropdown menu on hover */
 
-.dropdown:hover:not(.noDropMobile) .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: initial;
 }
 
@@ -2501,6 +2501,9 @@ details.warning, details[open].warning summary,
         /*height: 350px;*/
         /*width: 100%;*/
         /*overflow: hidden;*/
+    }
+    .dropdown:hover:has(.noDropMobile) .dropdown-content {
+        display: none;
     }
     /*
     https://www.w3schools.com/Css/tryit.asp?filename=trycss_navbar_horizontal_responsive
