@@ -2506,7 +2506,7 @@ details.warning, details[open].warning summary,
         /*overflow: hidden;*/
     }
     .dropdown:hover:has(.noDropMobile) .dropdown-content {
-        display: none;
+        display: none !important;
     }
     /*
     https://www.w3schools.com/Css/tryit.asp?filename=trycss_navbar_horizontal_responsive
@@ -2573,10 +2573,10 @@ details.warning, details[open].warning summary,
     }
 
     .mobileHide{
-        display: none;
+        display: none !important;
     }
     .mobileOnly{
-        display: initial;
+        display: initial !important;
     }
 }
 
