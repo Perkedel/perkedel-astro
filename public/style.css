@@ -1139,6 +1139,7 @@ https://www.w3schools.com/cssref/sel_target.php
 }
 
 .ButtonizeListChildrenLinks a {
+    transition: .1s;
     background-color: darkorange;
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
@@ -1153,15 +1154,15 @@ https://www.w3schools.com/cssref/sel_target.php
 }
 
 .ButtonizeListChildrenLinks a:focus-visible {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     outline: 4px dashed cyan;
 }
 
 .ButtonizeListChildrenLinks a:hover {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     background-color: orange;
     color: navy;
@@ -1173,24 +1174,24 @@ https://www.w3schools.com/cssref/sel_target.php
 }
 
 .ButtonizeListChildrenLinks a:visited:hover {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     background-color: orange;
     color: navy;
 }
 
 .ButtonizeListChildrenLinks a:visited:active {
-    -ms-transition: .1s;
-    transition: .1s;
+    -ms-transition: .075s;
+    transition: .075s;
     border-radius: 1px;
     background-color: cyan;
     color: blue;
 }
 
 .ButtonizeListChildrenLinks a:active {
-    -ms-transition: .1s;
-    transition: .1s;
+    -ms-transition: .075s;
+    transition: .075s;
     border-radius: 1px;
     background-color: cyan;
     color: blue;
@@ -1198,6 +1199,8 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .Buttonnize,
 .Buttonize {
+    transition: .1s;
+    border-radius: 30px;
     background-color: darkorange;
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
@@ -1210,18 +1213,24 @@ https://www.w3schools.com/cssref/sel_target.php
     display: inline-block;
 }
 
+/* .Buttonnize,
+.Buttonize {
+    transition: .1s;
+    border-radius: 30px;
+} */
+
 .Buttonize:focus-visible,
 .Buttonize:focus-visible {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     outline: 4px dashed cyan;
 }
 
 .Buttonnize:hover,
 .Buttonize:hover {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     background-color: orange;
     color: navy;
@@ -1235,8 +1244,8 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .Buttonnize:active,
 .Buttonize:active {
-    -ms-transition: .1s;
-    transition: .1s;
+    -ms-transition: .075s;
+    transition: .075s;
     border-radius: 1px;
     background-color: cyan;
     color: blue;
@@ -1247,14 +1256,15 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .Buttonnize.Dangerous,
 .Buttonize.Dangerous {
+    transition: .1s;
     background-color: darkred;
     color: white;
 }
 
 .Buttonnize.Dangerous:hover,
 .Buttonize.Dangerous:hover {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     background-color: red;
     color: yellow;
@@ -1262,8 +1272,8 @@ https://www.w3schools.com/cssref/sel_target.php
 
 a.Buttonnize.Dangerous:active,
 a.Buttonize.Dangerous:active {
-    -ms-transition: .1s;
-    transition: .1s;
+    -ms-transition: .075s;
+    transition: .075s;
     border-radius: 1px;
     background-color: yellow;
     color: darkblue;
@@ -1271,7 +1281,7 @@ a.Buttonize.Dangerous:active {
 
 a.Buttonnize.Dangerous:visited:active,
 a.Buttonize.Dangerous:visited:active {
-    transition: .1s;
+    transition: .075s;
     border-radius: 1px;
     background-color: yellow;
     color: darkblue;
@@ -1279,13 +1289,14 @@ a.Buttonize.Dangerous:visited:active {
 
 a.Buttonnize.Dangerous:visited,
 a.Buttonize.Dangerous:visited {
+    transition: .1s;
     background-color: purple;
     color: white;
 }
 
 a.Buttonnize.Dangerous:visited:hover,
 a.Buttonize.Dangerous:visited:hover {
-    transition: .5s;
+    transition: .1s;
     border-radius: 4px;
     background-color: rgb(255, 0, 51);
     color: yellow;
@@ -1293,7 +1304,7 @@ a.Buttonize.Dangerous:visited:hover {
 
 a.Buttonnize.Dangerous:visited:hover:active,
 a.Buttonize.Dangerous:visited:hover:active {
-    transition: .1s;
+    transition: .075s;
     border-radius: 1px;
     background-color: yellow;
     color: darkblue;
@@ -1582,7 +1593,7 @@ kbd {
 
 #backTopButton:focus-visible,
 .backTopButton:focus-visible {
-    transition: .5s;
+    transition: .1s;
     border-radius: 4px;
     outline: 2px dashed cyan;
     border-radius: 4px;
@@ -1590,7 +1601,7 @@ kbd {
 
 #backTopButton:hover,
 .backTopButton:hover {
-    transition: .5s;
+    transition: .1s;
     border-radius: 4px;
     background-color: blue;
     /* Add a orange background on hover */
@@ -1600,7 +1611,7 @@ kbd {
 
 #backTopButton:active,
 .backTopButton:active {
-    transition: .1s;
+    transition: .075s;
     border-radius: 1px;
     background-color: orange;
     /* Add a orange background on click */
@@ -1640,18 +1651,19 @@ kbd {
     /* Rounded corners */
     font-size: 1.2em;
     /* Increase font size */
+    transition: .1s;
 }
 
 .SpecialityButton:focus-visible {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     outline: 2px dashed cyan;
 }
 
 .SpecialityButton:hover {
-    -ms-transition: .5s;
-    transition: .5s;
+    -ms-transition: .1s;
+    transition: .1s;
     border-radius: 4px;
     background-color: blue;
     /* Add a orange background on hover */
@@ -1660,8 +1672,8 @@ kbd {
 }
 
 .SpecialityButton:active {
-    -ms-transition: .1s;
-    transition: .1s;
+    -ms-transition: .075s;
+    transition: .075s;
     border-radius: 1px;
     background-color: orange;
     /* Add a orange background on click */
