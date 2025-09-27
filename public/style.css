@@ -1140,6 +1140,7 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .ButtonizeListChildrenLinks a {
     background-color: darkorange;
+    filter: blur(5px);
     outline: none;
     color: black;
     padding: 1em 1.5em;
@@ -1182,6 +1183,7 @@ https://www.w3schools.com/cssref/sel_target.php
 .Buttonnize,
 .Buttonize {
     background-color: darkorange;
+    filter: blur(5px);
     outline: none;
     color: black;
     padding: 1em 1.5em;
@@ -1537,6 +1539,8 @@ kbd {
     /* Rounded corners */
     font-size: 18px;
     /* Increase font size */
+    filter: blur(5px);
+    /* Add a blur effect */
 }
 
 #backTopButton:focus-visible,
@@ -2618,6 +2622,7 @@ details.warning, details[open].warning summary,
     #backTopButton,
     .backTopButton {
         background-color: default;
+        filter: initial;
         /* Set a background color */
         color: default;
         border: 2px solid darkblue;
