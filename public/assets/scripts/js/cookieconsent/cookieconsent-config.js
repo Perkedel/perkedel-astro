@@ -147,7 +147,7 @@ CookieConsent.run({
                         },
                         {
                             title: 'More information',
-                            description: 'For any queries in relation to my policy on cookies and your choices, please <a href="/about" target="_blank">contact us</a>'
+                            description: 'For any queries in relation to my policy on cookies and your choices, please <a href="/privacy_policy" target="_blank">contact us</a>'
                         }
                     ]
                 }
@@ -185,7 +185,7 @@ CookieConsent.run({
                         },
                         {
                             title: 'Info lebih lanjut',
-                            description: 'Untuk pertanyaan yang berkaitan dengan kebijakan cookie dan pilihan Anda, silahkan <a href="/about" target="_blank">hubungi kami</a>'
+                            description: 'Untuk pertanyaan yang berkaitan dengan kebijakan cookie dan pilihan Anda, silahkan <a href="/privacy_policy" target="_blank">hubungi kami</a>'
                         }
                     ]
                 }
