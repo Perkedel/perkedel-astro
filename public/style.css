@@ -1153,10 +1153,16 @@ https://www.w3schools.com/cssref/sel_target.php
 }
 
 .ButtonizeListChildrenLinks a:focus-visible {
+    -ms-transition: .5s;
+    transition: .5s;
+    border-radius: 4px;
     outline: 4px dashed cyan;
 }
 
 .ButtonizeListChildrenLinks a:hover {
+    -ms-transition: .5s;
+    transition: .5s;
+    border-radius: 4px;
     background-color: orange;
     color: navy;
 }
@@ -1167,16 +1173,25 @@ https://www.w3schools.com/cssref/sel_target.php
 }
 
 .ButtonizeListChildrenLinks a:visited:hover {
+    -ms-transition: .5s;
+    transition: .5s;
+    border-radius: 4px;
     background-color: orange;
     color: navy;
 }
 
 .ButtonizeListChildrenLinks a:visited:active {
+    -ms-transition: .1s;
+    transition: .1s;
+    border-radius: 1px;
     background-color: cyan;
     color: blue;
 }
 
 .ButtonizeListChildrenLinks a:active {
+    -ms-transition: .1s;
+    transition: .1s;
+    border-radius: 1px;
     background-color: cyan;
     color: blue;
 }
@@ -1197,13 +1212,17 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .Buttonize:focus-visible,
 .Buttonize:focus-visible {
-    outline: 4px dashed cyan;
+    -ms-transition: .5s;
+    transition: .5s;
     border-radius: 4px;
+    outline: 4px dashed cyan;
 }
 
 .Buttonnize:hover,
 .Buttonize:hover {
-    border-radius: 30px;
+    -ms-transition: .5s;
+    transition: .5s;
+    border-radius: 4px;
     background-color: orange;
     color: navy;
 }
@@ -1216,6 +1235,9 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .Buttonnize:active,
 .Buttonize:active {
+    -ms-transition: .1s;
+    transition: .1s;
+    border-radius: 1px;
     background-color: cyan;
     color: blue;
 }
@@ -1231,18 +1253,26 @@ https://www.w3schools.com/cssref/sel_target.php
 
 .Buttonnize.Dangerous:hover,
 .Buttonize.Dangerous:hover {
+    -ms-transition: .5s;
+    transition: .5s;
+    border-radius: 4px;
     background-color: red;
     color: yellow;
 }
 
 a.Buttonnize.Dangerous:active,
 a.Buttonize.Dangerous:active {
+    -ms-transition: .1s;
+    transition: .1s;
+    border-radius: 1px;
     background-color: yellow;
     color: darkblue;
 }
 
 a.Buttonnize.Dangerous:visited:active,
 a.Buttonize.Dangerous:visited:active {
+    transition: .1s;
+    border-radius: 1px;
     background-color: yellow;
     color: darkblue;
 }
@@ -1255,12 +1285,16 @@ a.Buttonize.Dangerous:visited {
 
 a.Buttonnize.Dangerous:visited:hover,
 a.Buttonize.Dangerous:visited:hover {
+    transition: .5s;
+    border-radius: 4px;
     background-color: rgb(255, 0, 51);
     color: yellow;
 }
 
 a.Buttonnize.Dangerous:visited:hover:active,
 a.Buttonize.Dangerous:visited:hover:active {
+    transition: .1s;
+    border-radius: 1px;
     background-color: yellow;
     color: darkblue;
 }
@@ -1548,12 +1582,16 @@ kbd {
 
 #backTopButton:focus-visible,
 .backTopButton:focus-visible {
+    transition: .5s;
+    border-radius: 4px;
     outline: 2px dashed cyan;
     border-radius: 4px;
 }
 
 #backTopButton:hover,
 .backTopButton:hover {
+    transition: .5s;
+    border-radius: 4px;
     background-color: blue;
     /* Add a orange background on hover */
     background-color: rgba(0, 0, 255, .75);
@@ -1562,6 +1600,8 @@ kbd {
 
 #backTopButton:active,
 .backTopButton:active {
+    transition: .1s;
+    border-radius: 1px;
     background-color: orange;
     /* Add a orange background on click */
     background-color: rgba(255, 165, 0, 1);
@@ -1603,11 +1643,16 @@ kbd {
 }
 
 .SpecialityButton:focus-visible {
-    outline: 2px dashed cyan;
+    -ms-transition: .5s;
+    transition: .5s;
     border-radius: 4px;
+    outline: 2px dashed cyan;
 }
 
 .SpecialityButton:hover {
+    -ms-transition: .5s;
+    transition: .5s;
+    border-radius: 4px;
     background-color: blue;
     /* Add a orange background on hover */
     background-color: rgba(0, 0, 255, 1);
@@ -1615,6 +1660,9 @@ kbd {
 }
 
 .SpecialityButton:active {
+    -ms-transition: .1s;
+    transition: .1s;
+    border-radius: 1px;
     background-color: orange;
     /* Add a orange background on click */
     background-color: rgba(255, 165, 0, 1);
@@ -1811,6 +1859,7 @@ div.td {
     /* https://www.w3schools.com/howto/howto_css_zoom_hover.asp
     https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_zoom_hover
     */
+    -ms-transition: transform .2s;
     transition: transform .2s;
 }
 
@@ -2758,44 +2807,56 @@ details.warning, details[open].warning summary,
         transition: none !important;
     }
     .hideScroll.showScroll {
+        -ms-transition: none;
         transition: none;
         filter: blur(0);
         opacity: 1;
         transform: none;
     }
     .hideScroll.fromLeftSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromRightSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromFrontSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromBackSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromFrontSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromBackSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     /* Oh */
     .hideScroll.fromUpSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromDownSideScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     /* eh */
     .hideScroll.fromCCWScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hideScroll.fromCWScroll:not(.showScroll) {
+        -ms-transform: none;
         transform: none;
     }
     .hoverExpand {
+        -ms-transition: none;
         transition: none;
     }
 }
