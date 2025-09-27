@@ -1408,7 +1408,6 @@ dropbtn a:visited:hover,
     /*display: inline-block;*/
 }
 
-
 /* Dropdown Content (Hidden by Default) */
 
 .dropdown-content {
@@ -1423,6 +1422,8 @@ dropbtn a:visited:hover,
     /*https://stackoverflow.com/a/64148961/9079640*/
     top: 70px;
 }
+
+
 
 .dropdown-content::after {
     content: "";
@@ -1454,7 +1455,7 @@ dropbtn a:visited:hover,
 
 /* Show the dropdown menu on hover */
 
-.dropdown:hover .dropdown-content {
+.dropdown:hover:not(.noDropMobile) .dropdown-content {
     display: initial;
 }
 

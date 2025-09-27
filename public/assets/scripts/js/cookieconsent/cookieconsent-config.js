@@ -142,12 +142,12 @@ CookieConsent.run({
                         },
                         {
                             title: 'Performance and Analytics',
-                            description: '(SPYWARES, TURN THIS OFF IF YOU DON\'T WANT ANY OF THOSE!) These cookies collect information about how you use our website. All of the data is anonymized (maybe or not at all lol, ask each of the plugin devs featured) and cannot be used to identify you. Perkedel itself never collects any of your personal information.',
+                            description: '(<b>SPYWARES, TURN THIS OFF IF YOU DON\'T WANT ANY OF THOSE!</b>) These cookies collect information about how you use our website. All of the data is anonymized (<span style="font-size: x-small;">maybe or not at all lol, ask each of the plugin devs featured</span>) and cannot be used to identify you. Perkedel itself never collects any of your personal information.',
                             linkedCategory: 'analytics'
                         },
                         {
                             title: 'More information',
-                            description: 'For any queries in relation to my policy on cookies and your choices, please <a href="/about">contact us</a>'
+                            description: 'For any queries in relation to my policy on cookies and your choices, please <a href="/about" target="_blank">contact us</a>'
                         }
                     ]
                 }
@@ -180,12 +180,12 @@ CookieConsent.run({
                         },
                         {
                             title: 'Performa & Analitik',
-                            description: '(SPYWARE, JANGAN AKTIFKAN JIKA TIDAK INGIN SEMUA ITU) Cookie2 ini mengumpulkan informasi tentang cara Anda menggunakan website kami. Semua data akan dianonimkan (kayanya sih atau emang gk sama sekali wkwkwk, tanya aja pengembang plugin yang ada disini deh) dan tidak dapat digunakan untuk mengidentifikasi Anda.',
+                            description: '(<b>SPYWARE, JANGAN AKTIFKAN JIKA TIDAK INGIN SEMUA ITU</b>) Cookie2 ini mengumpulkan informasi tentang cara Anda menggunakan website kami. Semua data akan dianonimkan (<span style="font-size: x-small;">kayanya sih atau emang gk sama sekali wkwkwk, tanya aja pengembang plugin yang ada disini deh</span>) dan tidak dapat digunakan untuk mengidentifikasi Anda.',
                             linkedCategory: 'analytics'
                         },
                         {
                             title: 'Info lebih lanjut',
-                            description: 'Untuk pertanyaan yang berkaitan dengan kebijakan cookie dan pilihan Anda, silahkan <a href="/about">hubungi kami</a>'
+                            description: 'Untuk pertanyaan yang berkaitan dengan kebijakan cookie dan pilihan Anda, silahkan <a href="/about" target="_blank">hubungi kami</a>'
                         }
                     ]
                 }
