@@ -441,6 +441,7 @@ a:focus-visible {
 }
 
 a:hover {
+    transition: .1s;
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
     cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
     background-color: orange;
@@ -449,18 +450,21 @@ a:hover {
 }
 
 a:active {
+    transition: .075s;
     background-color: cyan;
     color: blue;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 a:visited {
+    transition: .1s;
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
     cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
     color: darkmagenta;
 }
 
 a:visited:hover {
+    transition: .1s;
     /* cursor: url(https://www.rw-designer.com/cursor-extern.php?id=181168), url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/Donut-select.cur), pointer; */
     cursor: url(https://github.com/Perkedel/After-Church/raw/master/RAW%20files/rw-designer/VacuumSkoll_Link.cur), pointer;
     background-color: orange;
@@ -468,9 +472,10 @@ a:visited:hover {
 }
 
 a:visited:active {
+    transition: .1s;
     background-color: cyan;
     color: blue;
-    border-radius: 10px;
+    border-radius: 2px;
 }
 
 header {
@@ -625,6 +630,7 @@ nav a:visited,
 .NavLinkButton:link,
 .NavLinkButton:visited
 {
+    transition: .1s;
     background-color: navy;
     outline: none;
     color: white;
@@ -639,6 +645,7 @@ nav a:visited,
 /*Remember, the visited statuses are also considered as a subgroup!*/
 
 nav a:focus-visible, .NavLinkButtonFocus {
+    transition: .1s;
     outline: 2px dashed cyan;
     border-radius: 5px;
 }
@@ -648,8 +655,10 @@ nav a:visited:hover,
 .NavLinkButton:hover,
 .NavLinkButton:visited:hover
  {
+    transition: .1s;
     background-color: blue;
     color: white;
+    border-radius: 5px;
 }
 
 nav a:active,
@@ -657,8 +666,10 @@ nav a:visited:active,
 .NavLinkButton:active,
 .NavLinkButton:visited:active
 {
+    transition: .075s;
     background-color: orange;
     color: blue;
+    border-radius: 2px;
 }
 
 
@@ -1504,7 +1515,12 @@ dropbtn a:visited:hover,
 
 /* Show the dropdown menu on hover */
 
+.dropdown .dropdown-content {
+    transition: .1s;
+}
+
 .dropdown:hover .dropdown-content {
+    transition: .1s;
     display: initial;
 }
 
@@ -1589,6 +1605,7 @@ kbd {
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
     /* Add a blur effect */
+    transition: .1s;
 }
 
 #backTopButton:focus-visible,
