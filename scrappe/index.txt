@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Curl version of Perkedel website
+# inspired from https://github.com/bahamas10/ysap/blob/main/website/Makefile
+# aaaa
+# JOELwindows7
+# License: GNU AGPL v3
+
+echo "Hello World!"
+echo "Perkedel NTLF+ANSI"
+echo "https://perkedel.netlify.app"

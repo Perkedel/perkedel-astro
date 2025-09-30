@@ -162,6 +162,7 @@ html {
     https://youtu.be/u4O2GKjgMlg
      */
     /* scroll-behavior: smooth; */
+    color-scheme: dark light;
 }
 
 body {
@@ -578,6 +579,10 @@ nav {
     border-radius: 30px;
 }
 
+/* 
+bonus:
+https://www.joshwcomeau.com/css/backdrop-filter/
+*/
 
 /* #navMoreDropdown {
     -webkit-backdrop-filter: none;
@@ -1930,8 +1935,10 @@ https://youtu.be/T33NN_pPeNI
 }
 
 .hideScroll:hover {
-    -ms-transition: background-color .05s, color .05s;
-    transition: background-color .05s, color .05s;
+    /* -ms-transition: background-color .05s, color .05s;
+    transition: background-color .05s, color .05s; */
+    -ms-transition: .1s;
+    transition: .1s;
 }
 
 .hideScroll:focus-visible {
@@ -2374,19 +2381,38 @@ document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
 
 /* Mozilla detail summary style!!
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details
+https://medium.com/@jgustavo.wd/solved-how-to-fully-animate-the-details-html-element-with-only-css-no-javascript-b7d32c53a9d7 No, this is not what I want!
+https://css-tricks.com/how-to-animate-the-details-element/ ehn-no! I want it pure CSS!!!
+https://stackoverflow.com/a/69958975 NO!! JS is forbidden!!!
+https://blog.logrocket.com/styling-html-modern-css/ && https://codepen.io/robatronbobby/pen/qBeJeQp hmm promising, but.. that does not seems to work in firefox & safari..
 */
 
 details {
+    interpolate-size: allow-keywords;
     /* border: 1px solid blue; */
     border: 1px solid;
     border-radius: 4px;
     padding: 0.5em 0.5em 0;
 }
 
-summary {
+details summary {
+    cursor: pointer;
     font-weight: bold;
     margin: -0.5em -0.5em 0;
     padding: 0.5em;
+}
+
+details::details-content {
+    /* 
+    https://codepen.io/robatronbobby/pen/qBeJeQp
+    https://blog.logrocket.com/styling-html-modern-css/
+    */
+    block-size: 0;
+    overflow: hidden;
+
+    transition: content-visibility, block-size;
+    transition-duration: 750ms;
+    transition-behavior: allow-discrete;
 }
 
 details[open] {
@@ -2397,6 +2423,11 @@ details[open] summary {
     /* border-bottom: 1px solid blue; */
     border-bottom: 1px solid;
     margin-bottom: 0.5em;
+}
+
+details[open]::details-content{
+    /* ibid */
+    block-size: auto;
 }
 
 .mobileOnly {
@@ -2824,6 +2855,9 @@ details.warning, details[open].warning summary,
 @media (prefers-reduced-motion) {
      :root {
         scroll-behavior: initial;
+    }
+    details::details-content{
+        transition: none !important;
     }
     .hideScroll {
         transition: none !important;
