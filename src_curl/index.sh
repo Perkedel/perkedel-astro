@@ -22,3 +22,5 @@ echo "${YELLOW}Perkedel NTLF+ANSI"
 echo "${GREEN}https://perkedel.netlify.app"
 
 cowsay "idk how to curl lol"
+
+echo "${NC}"
