@@ -15,12 +15,14 @@
 GREEN='\033[0;32m'
 YELLOW='\033[0;33m'
 RED='\033[0;31m'
+BLUE='\033[0;34m'
+
 NC='\033[0m' # No Color
 
 echo "Hello World"
-echo "${YELLOW}Perkedel NTLF+ANSI"
-echo "${GREEN}https://perkedel.netlify.app"
+echo "${YELLOW}Perkedel NTLF+ANSI${NC}"
+echo "${GREEN}https://perkedel.netlify.app${NC}"
 
-cowsay "idk how to curl lol"
+cowsay "${YELLOW}idk how to curl lol${NC}"
 
 echo "${NC}"

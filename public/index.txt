@@ -1,9 +1,9 @@
 Hello World
-[0;33mPerkedel NTLF+ANSI
-[0;32mhttps://perkedel.netlify.app
- _____________________
-< idk how to curl lol >
- ---------------------
+[0;33mPerkedel NTLF+ANSI[0m
+[0;32mhttps://perkedel.netlify.app[0m
+ ______________________________________
+< \033[0;33midk how to curl lol\033[0m >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
