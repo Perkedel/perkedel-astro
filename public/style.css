@@ -175,7 +175,7 @@ body {
     https://www.nerdfonts.com/
     */
     /* font-family: 'NerdFontsSymbols Nerd Font', 'Ubuntu Nerd Font', 'Ubuntu-NF', 'Ubuntu', 'Segoe UI', Arial, Geneva, Verdana, sans-serif; */
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.25);
     color: white;
     /* background-color: attr(--BackgroundColor, black); */
     /* background: attr(data-Background, black);
@@ -2481,7 +2481,7 @@ details.warning, details[open].warning summary,
 
 @media(prefers-color-scheme: dark) {
      :root {
-        background-color: black;
+        background-color: rgba(0, 0, 0, 0.25);
     }
     /* body {
         background-color: black;
@@ -2499,7 +2499,7 @@ details.warning, details[open].warning summary,
      :root {
         scrollbar-color: rgb(171, 171, 222) rgb(0, 0, 189);
         /* background-color: rgb(187, 187, 221); */
-        background-color: white;
+        background-color: rgba(218, 218, 218, 0.75);
     }
     header {
         background-color: rgb(137, 255, 255);
@@ -2522,7 +2522,7 @@ details.warning, details[open].warning summary,
     }
     body {
         /* background-color: rgb(187, 187, 221); */
-        background-color: white;
+        background-color: rgba(218, 218, 218, 0.75);
         /* background: attr(data-Background-Light,white); */
         color: black;
         /* color: attr(data-TextColor-Light,black); */
