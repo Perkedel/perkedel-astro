@@ -115,7 +115,7 @@ const{
                         </li>
                     </ul>
                 <div class='cheatsheet-content row'>
-                    
+
                     <div class="column colRight colPrint">
                         <h3>Q-Code</h3>
                             <p>Q-code is used as a communication shortcut, typically used on morse code communication mode to make typing faster & efficient. Sometimes agencies used it also to semi-encrypt messages or to aleviate limited comms time and <b title='such as in SMS, e.g. per character costs 1 Pts Toll a.k.a. Pulsa'>high costs</b>.</p>
@@ -126,8 +126,22 @@ const{
                             <p>Pilot ABC is used to state/spell out the ID of a callsign. Like with the case of spelling <b>flight numbers</b> with pilot & ATC, it resolves letter pronounciation confusion amongst international & intergalactic languages.</p>
                             <PilotABC/>
                     </div>
-                    
+
                 </div>
+                <h3>Emergency Troubleshooting</h3>
+                    <h4 class='error'>Old version of Zello (v6 below) no longer connect</h4>
+                        <p>It appears that we've got SSL update on Zello Mobile Public infrastructure. No worries, you can <ButtonizedLink openInNewTab={true} href="https://youtube.com/shorts/tCq2H_GjHCA">disable TLS just like that to continue connection</ButtonizedLink>. <br/>Remember, <b class='error'>HTs with old Android cannot update Zello APK anymore!</b></p>
+                        <ol>
+                            <li>Sign in again to your Zello account. Auth still works</li>
+                            <li>Top Right Tri-dots menu</li>
+                            <li><code>Options</code></li>
+                            <li><code>About</code></li>
+                            <li><code>Advanced Settings</code></li>
+                            <li>on section <code>Security</code> down there, <b>disable <code>⬜ Enable TLS</code></b></li>
+                            <li>Go back to Zello main screen. You should then be able to reconnect. Restart whole HT & Start Zello again if necessary</li>
+                        </ol>
+                        <p class='warn'>It is still advised to change your HT hardware to one that has new Android version, at least <b>9 and above</b></p>
+                        <p>The one that has Google Play Store is highly recommended if you're not living in DNB or doing long term contracts outside DNB. Though, <b class='warn'>excercise caution using such added proprietary non-privacy services out there!</b></p>
                 <h3>Example Snippet</h3>
                     <div class='Homestuck-ZenlessZoneZero-Snippet '>
                         <p>This is do I think radio comms basically based on many times of monitor experience</p>
@@ -177,7 +191,7 @@ const{
                                             <li>VHF Common Scan: 136 - 174 MHz</li>
                                             <li>VHF RAPI: <b style='font-size:large;'>142.000 - 143.600 MHz</b> <b class='info'>BONUS License Free BUFFS AVAILABLE ON LIMITED CONDITIONS!*</b>
                                                 <br/>
-                                                <b class='warn'>*Conditions for BONUS License Free BUFFS</b>: 
+                                                <b class='warn'>*Conditions for BONUS License Free BUFFS</b>:
                                                 <ul>
                                                     <!-- <li><b style=''>Max 25 Watt RF Power Output</b></li> -->
                                                     <li><b style=''>Emergency or Mission Critical use</b></li>
@@ -193,7 +207,7 @@ const{
                                             <!-- <li>VHF PMR Indonesia: <b style='font-size:large;'>144.000 - 148.000 MHz</b> Private Mobile Radio!</li> -->
                                             <li>VHF AM USA: <b style='font-size:large;'>??? - ??? MHz</b> Private AM Transmitter! <b class='info'>BONUS License Free BUFFS AVAILABLE ON LIMITED CONDITIONS!*</b>
                                                 <br/>
-                                                <b class='warn'>*Conditions for BONUS License Free BUFFS</b>: 
+                                                <b class='warn'>*Conditions for BONUS License Free BUFFS</b>:
                                                 <ul>
                                                     <!-- <li><b style=''>Max 25 Watt RF Power Output</b></li> -->
                                                     <!-- <li><b style=''>Emergency or Mission Critical use</b></li> -->
@@ -211,7 +225,7 @@ const{
                                             <li>UHF ORARI: <b style='font-size:large;'>430.000 - 440.000 MHz</b></li>
                                             <li>UHF PMR Indonesia: <b style='font-size:large;'>409.74375 - 409.99475 MHz</b> <b info='info'>Private Mobile Radio (License Free permanent Buff)!*</b> <span>Based on Peraturan Menteri Komdigi No. 2/2023</span>
                                                 <br/>
-                                                <b class='warn'>*Conditions for PMR Buffs</b>: 
+                                                <b class='warn'>*Conditions for PMR Buffs</b>:
                                                 <ul>
                                                     <li><b style=''>Government certified (which in this case Komdigi Postel)</b>. This stresses below conditions as follows:</li>
                                                     <li><b style=''>Max 0,5 Watt RF Power Output</b></li>
@@ -223,7 +237,7 @@ const{
                                                 </ul>
                                                 <br/>
                                                 <span style='font-size:small;'><b class='warn'>Buffs will be revoked if your spec exceeds or goes outside above conditions!</b> If above terms & conditions feels too constricting, feel free to try POC messengers instead. If your business case forbids or unviable to use <code>Smartphone</code> OR purchase of even cheap dedicated POC devices is absolutely waste of money & too much breaking points, then you can try these Toy UHF HTs: WLN toys, Baofeng toys, any Toy HTs etc. These HTs are Channeled frequencies only & are very easy to use despite some of them are headless (no display, usually with TTS announcing / voice & beep prompt). Simply select with the dial next to volume knob or its side selection buttons to change channel.</span>
-                                                
+
                                             </li>
                                             <!-- <li>UHF PMR DNB: <b style='font-size:large;'>409.74375 - 409.99475 MHz</b> <b info='info'>Private Mobile Radio (License Free)! (As same as Indonesia)  -->
                                                 <!-- <b class='error'>DEPRECATED</b>, Numbers of Harrassers never going down hence Arenod Sediron with displeasure must shutdown PMR frequencies & will interogate any trespassers. -->
@@ -235,7 +249,7 @@ const{
                                 </ul>
                                 <br/>
                                 <span style='font-size:xx-small'>
-                                Sauce: 
+                                Sauce:
                                 <ul>
                                     <li><a href='https://smcgroupglobal.com/frequency-bands' target='_blank' rel='noopener noreferrer' >smcgroupglobal.com</a></li>
                                     <li><a href='https://en.wikipedia.org/wiki/Ultra_high_frequency' target='_blank' rel='noopener noreferrer'>Wikipedia: UHF</a></li>
@@ -338,7 +352,7 @@ const{
             >
                 <p>As far we have researched, DMR is just a <b class='error'>complicated glorified POC</b>. If you'd like to buy pure DMR supported Radio, you must ensure that you have what's called <b><code>Hotspot</code></b> in which you <b class='warn'>connect your HT to</b>. You can unify this experience using any POC capable smartphone devices using an app, such as <ButtonizedLink href='https://play.google.com/store/apps/details?id=org.dvswitch' openInNewTab={true}>DVSwitch Mobile (Android)</ButtonizedLink>. it combines Radio + Hotspot into just one device. Therefore, <b style="font-size: 1.5rem;" class='error'>You are still required to have internet connection to the Hotspot and/or POC devices</b>, either using Cellular LTE/5G/XG or WiFi or Ethernet.</p>
                 <p>Still not believing it? <b style='font-size: large;'>Me too!!</b> But, an <i>Experienced Expert</i> whose happened to be there when I was buying my own HT <u style='font-size: large;'>says so</u>. Idk!! Many tutorial says basically to connect the hotspot Pi-Star into a national HAM radio DMR server something2.</p>
-            </MessageBoxTemplate>           
+            </MessageBoxTemplate>
             <p>Successors to Analog Ham, DMR is the major improvement in the radio communications. Beside resolving disadvantages of the Analog, it also adds more feature such as Messages, & ability to send special datas.</p>
             <h3>Connect to DMR</h3>
                 <p>Serveral softwares to connect DMR</p>
@@ -395,7 +409,7 @@ const{
                                 </li>
                             </ul>
                     </li>
-                    <li><b><code>POC _______</code></b> (the city, e.g. <code>Jakarta</code>). Search this on Zello starting from this keyword, followed with the domicile of yours <ButtonizedLink href='https://pocindonesia.com/' openInNewTab={true}>Website: POCIndonesia.com</ButtonizedLink><ButtonizedLink href='https://pocindonesia.com/daftar-channel/' openInNewTab={true}>Channel Lists</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJakarta' openInNewTab={true}>Zello: POCJakarta</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJatim' openInNewTab={true}>Zello: POCJatim</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJabar' openInNewTab={true}>Zello: POCJabar</ButtonizedLink>. 
+                    <li><b><code>POC _______</code></b> (the city, e.g. <code>Jakarta</code>). Search this on Zello starting from this keyword, followed with the domicile of yours <ButtonizedLink href='https://pocindonesia.com/' openInNewTab={true}>Website: POCIndonesia.com</ButtonizedLink><ButtonizedLink href='https://pocindonesia.com/daftar-channel/' openInNewTab={true}>Channel Lists</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJakarta' openInNewTab={true}>Zello: POCJakarta</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJatim' openInNewTab={true}>Zello: POCJatim</ButtonizedLink><ButtonizedLink href='https://zello.com/POCJabar' openInNewTab={true}>Zello: POCJabar</ButtonizedLink>.
                         <br/>
                         Rules:
                         <ul>
@@ -407,9 +421,9 @@ const{
                             </li>
                         </ul>
                     </li>
-                    <li><b><code>Sahabat Nusantara</code></b>. TeamSpeak 3 Server for HT 
+                    <li><b><code>Sahabat Nusantara</code></b>. TeamSpeak 3 Server for HT
                         <ButtonizedLink href='ts://103.110.100.254:9924' openInNewTab={true}>TeamSpeak: 103.110.100.254:9924</ButtonizedLink>
-                        <!-- <ButtonizedLink href='https://pocindonesia.com/' openInNewTab={true}>Website: POCIndonesia.com</ButtonizedLink> -->. 
+                        <!-- <ButtonizedLink href='https://pocindonesia.com/' openInNewTab={true}>Website: POCIndonesia.com</ButtonizedLink> -->.
                         <br/>
                         Rules:
                         <ul>
@@ -421,7 +435,7 @@ const{
                             </li>
                         </ul>
                     </li>
-                    <li><b><code>kopdarmobile</code></b> (Kopi Darat). <ButtonizedLink href='https://kopdarmobile.com/' openInNewTab={true}>Website: kopdarmobile.com</ButtonizedLink></ButtonizedLink><ButtonizedLink href='ts://kopdarmobile.id' openInNewTab={true}>TeamSpeak: kopdarmobile.id</ButtonizedLink><ButtonizedLink href='ts://roipmars.org.my' openInNewTab={true}>TeamSpeak: roipmars.org.my</ButtonizedLink>. 
+                    <li><b><code>kopdarmobile</code></b> (Kopi Darat). <ButtonizedLink href='https://kopdarmobile.com/' openInNewTab={true}>Website: kopdarmobile.com</ButtonizedLink><ButtonizedLink href='ts://kopdarmobile.id' openInNewTab={true}>TeamSpeak: kopdarmobile.id</ButtonizedLink><ButtonizedLink href='ts://roipmars.org.my' openInNewTab={true}>TeamSpeak: roipmars.org.my</ButtonizedLink>.
                         <br/>
                         Rules:
                         <ul>
@@ -474,7 +488,7 @@ const{
     </section>
 
     <section id='section-license'>
-        <h2>License</h2>    
+        <h2>License</h2>
             <p>Radio has alot of potential & it's freedom capability that allows broadcastability by anyone. In order to keep orders in the world of radio, a license system is enforced to keep frequency air cleans from rogue signals. Ensuring the frequencies cleans is essential to keep the safety & security of the people & businesses remain upheld.
             <br/>
             Note, this section only applies typically for Analog Ham & DMR. Some galaxies & realms may require license also for POC / Social Messengers. Welp.<span title="TV Series: Sediron (????). Season 3, After a Harrasser attacked Sediron HQ due to Baser's insists of Block Reason Enforcement, the intergalactic world becomes unsafe for all. Few weeks after Sediron family were thought dead killed by the that Harrasser in their escape realm, (which btw, they are teleported to Saorfa then brought to Areluid now Arenod), Zumi & friends proposed extreme rule that requires everyone around the galaxies in order to even social media is to register for license like driving license, to keep the social air clean. In total, all 3: Ham, DMR, & POC now require license. Although as of Sediron serial and around forward until Surreal Blender Meme x ZZZ fangame, it applies only to Sloantim cluster where Dasandim planet system resides.">.</span> that will be for later days. Well for now, Earth & most planets only require license for Analog Ham & DMR, not POC<span title='looking at you, Harrassers, do not make it harder for us! It could costs innocents too if that happens you know.., Do you really want governments require license just to WhatsApp?? Not funny right..'>.</span> Anyways..
@@ -576,7 +590,7 @@ const{
                 <h4>universirius</h4>
                     <p>(<b class='warn'>WARNING: for Modchip Hardware mods</b>)universirius's IJV Firmware Quansheng Radio Mods at <ButtonizedLink href='https://www.universirius.com/en_gb/preppers/quansheng-uv-k5-manuale-del-firmware-ijv_v3/' openInNewTab={true} style=''>universirius.com</ButtonizedLink></p>
                     <p>
-                        <ul>     
+                        <ul>
                             <li><ButtonizedLink href='https://youtu.be/PkHZHaQhsqk?si=dl50cf0LrjACyP6R' openInNewTab={true}>Ben's (M7FRS) IDK WHAT FIRMWARE TO PICK!!!</ButtonizedLink></li>
                         </ul>
                     </p>
@@ -640,13 +654,13 @@ const{
                             </li>
                             <li><ButtonizedLink href='https://drive.google.com/drive/folders/1P0RmeV2gAA7odBgu10YceMgSS_-LKMe2' openInNewTab={true} id='download_APK_pocindonesia'>DOWNLOAD APKs Ksun Texas</ButtonizedLink> from <a href='https://pocindonesia.com/' target='_blank' rel='noopener noreferrer'>POC Indonesia</a>
                                 <br/>
-                                
+
                             </li>
                             <li><ButtonizedLink href='https://kopdarmobile.com/download-page/' openInNewTab={true} id='download_APK_kopdarmobile'>DOWNLOAD APKs Kopi Darat</ButtonizedLink> from <a href='https://kopdarmobile.com/' target='_blank' rel='noopener noreferrer'>Kopdarmobile</a>
                                 <br/>
-                                <b class='info' style='font-size:x-large;'>PLEASE RESPECT THE DEVELOPERS!!!</b> 
+                                <b class='info' style='font-size:x-large;'>PLEASE RESPECT THE DEVELOPERS!!!</b>
                             </li>
-                            
+
                             <li><ButtonizedLink href='https://www.apkmirror.com/apk/zello-inc/zello-ptt-walkie-talkie/zello-ptt-walkie-talkie-5-9-1-release/zello-ptt-walkie-talkie-5-9-1-android-apk-download/' openInNewTab={true} style=''>Zello PTT Walkie Talkie v5.9.1 APK </ButtonizedLink> Walkie Talkie app for all</li>
                             <li><ButtonizedLink href='https://androiddatahost.com/265a2' openInNewTab={true}>ADB Fastboot</ButtonizedLink> from <a href='https://youtu.be/UfZ0obpfZDM' target='_blank' rel='noopener noreferrer'>Divray Jakarta</a></li>
                             <li><ButtonizedLink href='https://apkpure.com/id/nova-launcher/com.teslacoilsw.launcher/download/6.2.19#google_vignette' openInNewTab={true}>NovaLauncher v6.2.19 APK (<b class='info'>Not needed</b>)</ButtonizedLink> from <a href='https://youtu.be/UfZ0obpfZDM' target='_blank' rel='noopener noreferrer'>Divray Jakarta</a></li>
@@ -761,12 +775,12 @@ const{
                         <br/>
                         Also, Telkomsel do have bonus, such as available special promos for Saudi Arabia travel (Roaming Free I think), because Indonesia is one of the largest number of Umroh participants.
                         <br/>
-                        So now you can Zello with your Haj guide people & quickly send signals & receive emergency helps if needed. Pretty cool huh? All is possible because WiFi covers only so much, so Cellular 4G is a must, & important to avoid Roaming as any as possible. 
+                        So now you can Zello with your Haj guide people & quickly send signals & receive emergency helps if needed. Pretty cool huh? All is possible because WiFi covers only so much, so Cellular 4G is a must, & important to avoid Roaming as any as possible.
                     </p>
                     <p>
                         Sauce:
                         <ul>
-                            <li><a href='https://youtu.be/73CiE-Gdfe0' target='_blank' rel='noopener noreferrer'>TUTORNESIA: (TUTORIAL) HT KSUN ZL10 Tidak dapat Jaringan Internet</a>. 
+                            <li><a href='https://youtu.be/73CiE-Gdfe0' target='_blank' rel='noopener noreferrer'>TUTORNESIA: (TUTORIAL) HT KSUN ZL10 Tidak dapat Jaringan Internet</a>.
                                 <!-- <span style='font-size: xx-small;'>Don't you dare try to rip us off with that software readily available above for $0, bro 💀. We all know it's that, & we're not idiots. ... And we cure idiots to be not idiots, it's {nsfw?`fucking`:`888888`} Feixun Qualcomm tool! No, not to insult, but be better next time, just.. don't be greedy & just put above Download link in the description or better, pinned comments, idk </span> -->
                             </li>
                             <li><a href='https://youtu.be/PKsDTI_2mcQ' target='_blank' rel='noopener noreferrer'>TIK POLRES SUKABUMI: (TUTORIAL) HT KSUN ZL10 Tidak dapat Jaringan Internet</a></li>
@@ -789,7 +803,7 @@ const{
                     </p>
                 <h4>POC-only HTs still got confiscated by customs/bea-cukai even it would not Analog frequency</h4>
                     <p>This is is incorrect, these HTs are still smartphones basically, & never transmit any VHF nor UHF FM frequencies than the cellular (which are 800s of MHz up to about 2 GHz for 4G & around (<a href='https://en.wikipedia.org/wiki/Ultra_high_frequency' target='_blank' rel='noopener noreferrer'><i>idk</i></a>), presumably also is the same common Cellular frequency of the nation you're going to). You can protest this against the custom that confiscated your properties ensuring getting your PIC/Event Organizers handy. If you also have the approval of HT presence certification documents, please use them also.</p>
-                
+
             <h3>PC (Windows, Linux, macOS)</h3>
                 <h4>Zello not available on Desktop?</h4>
                     <p>Unfortunately, Zello Desktop works only for ZelloWork (Zello for enterprise, paid ones & deploy own). Public Free Zello is only available on Mobile (Android & iOS). If you wish to connect to the public talk servers, you will need to connect with their remote server which hopefully they have. The instruction & information on how to connect to those alternative protocols usually are available on the OG server descriptions or their YouTube channel OR website.
