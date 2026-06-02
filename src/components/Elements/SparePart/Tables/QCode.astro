@@ -4,6 +4,27 @@ import FCKDRMWrong from "@components/Icons/FCKDRMWrong.astro";
 
 const Tabling = [
     // Code, Command Mean, Argument {Type (Expected value)}, Question Sample, Answer Sample
+    [`Q??`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAB`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAF`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAG`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAH`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAI`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAK`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAL`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAM`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAN`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAO`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAP`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAQ`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAR`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAU`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAW`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAY`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QAZ`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    //
+    // [`QBA`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    //
     [`QRA`,'Username check', [[`NAME`,[`String (Username / Callsign / ID)`,]],], ['What is your Name / Username / Callsign / Station / Yourself / Body?',], ['My name is / The name of this station is <u>__<code>NAME</code>__</u>.',]],
     [`QRG`,'Frequency / Room / Server Number check', [[`FREQ`,[`Float (Frequency Mhz / Khz)`,`String (Room / Server Name / ID)`]],[`FREQ2`,[`Float (Frequency Mhz)`,`String (Room / Server Name / ID)`]],], ['Will you tell me your frequency (or that of <u>__<code>FREQ2</code>__</u> Mhz / Khz)?',`Please tell me your Discord server (or room of the server <u>__<code>FREQ2</code>__</u>).`], ['Your/My frequency (or that of <u>__<code>FREQ2</code>__</u> Mhz / Khz) is <u>__<code>FREQ</code>__</u> Mhz / KHz.',`My Discord server (or room of the server <u>__<code>FREQ2</code>__</u>) is <u>__<code>FREQ</code>__</u>.`]],
     [`QRL`,'Frequency / Room / Server Busy check', [[`FREQ`,[`Float (Frequency Mhz / Khz)`,`String (Room / Server Name / ID)`]],], ['Are you busy (with <u>__<code>FREQ</code>__</u> Mhz / Khz)?',`Are you still talking with (someone) (at / with server <u>__<code>FREQ</code>__</u>)?`], ['I am busy (with <u>__<code>FREQ</code>__</u> Mhz / Khz). (Please do not interfere)',`I am still on the voice chat (with <u>__<code>FREQ</code>__</u>). (Please do not disturb)`]],
@@ -18,8 +39,39 @@ const Tabling = [
     [`QRV`,'Readiness check', [[`???`,[`String ()`,]],], ['Are you ready?',], ['I am ready.',]],
     [`QRX`,'Schedule Call check', [[`TIME`,[`Float (Time in units (seconds / minutes / hours / etc.))`,`String (Time Date Hour Minute Second / Now)`,]], [`FREQ`,[`Float (Frequency Mhz / Khz)`,`String (Room / Server Name / ID)`]]], ['When will you call me again?',], ['I will call you by <u>__<code>TIME</code>__</u> (on <u>__<code>FREQ</code>__</u>).',]],
     [`QRZ`,'Caller Identity check', [[`NAME`,[`String (Username / Callsign / ID)`,]], [`FREQ`,[`Float (Frequency Mhz / Khz)`,`String (Room / Server Name / ID)`]]], ['Who is calling me?',], ['You are being called by <u>__<code>NAME</code>__</u> (on <u>__<code>FREQ</code>__</u>).',]],
-    [`QSB`,'Signal Fade Exclamation', [[`???`,[`String ()`,]],], ['Are my signals fading?',], ['Your signals are fading!',]],
-
+    //
+    [`QSB`,'Signal Fade Exclamation', [[`FADING`,[`Bool (True = Fading, False = Fine)`,]],], ['Are my signals fading?',], ['Your signals are <u>__<code>FADING</code>__</u>!',]],
+    // [`QSD`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSG`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSK`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSL`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSM`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSN`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    [`QSO`,'Connection Type', [[`NAME`,[`String (Username / Callsign / ID)`,]],[`CONNECT`,[`Enum (Direct, Relay)`,]],[`RELAY`,[`String (Username / Callsign / ID)`,]],], ['Can you communicate with <u>__<code>NAME</code>__</u> (<u><code>CONNECT</code></u>: Direct / Relay through <u>__<code>RELAY</code>__</u>)?',], ['I can communicate with <u>__<code>NAME</code>__</u> (<u><code>CONNECT</code></u>: Direct / Relay through <u>__<code>RELAY</code>__</u>) .',]],
+    // [`QSP`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSR`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSS`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QST`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSU`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSW`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSX`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSY`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QSZ`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    //
+    // [`QTA`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QTC`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QTH`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QTU`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QTX`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    //
+    // [`QUA`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QUC`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QUD`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QUE`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    // [`QUF`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    //
+    // [`Q??`,'Code Command', [[`ABC`,[`TYPE (var)`,]],], ['What / is / this / var?',], ['Example / Answer <u>__<code>XYZ</code>__</u>.',]],
+    //
     [`OTW`,'Transport Progress check / On The Way', [[`PROGRESS`,[`Integer (Rating 0-5 (0 = not started, 1 = just started, 3 = halfway, 4 = close, 5 = arrived))`,`String (Condition (e.g.: Current Pathway, Traffic, etc.) & Arrival rating (Optional))`]],], ['What is my progress( or that of <u>__<code>PROGRESS</code>__</u>)?',`Where are you right now (or that of <u>__<code>PROGRESS</code>__</u>)?`], ['You are being at <u>__<code>PROGRESS</code>__</u>.',`I am right now at <u>__<code>PROGRESS</code>__</u>.`]],
     [`SMH`,'Blunder Exclamation / Shake My Head', [[`EVENT`,[`String (Event Name)`]],[`NAME`,[`String (Username / Callsign / ID)`,]]], ['is user <u>__<code>NAME</code>__</u> did <u>__<code>EVENT</code>__</u>?',], ['User <u>__<code>NAME</code>__</u> indeed <u>__<code>EVENT</code>__</u>, Shake my head..',]],
 ]
@@ -39,7 +91,7 @@ const Tabling = [
             {Tabling.map((thing)=>(
                 <tr>
                     <td>
-                        <code set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></code>                        
+                        <code set:html={thing[0]} style='font-size:xx-large;font-weight: bold;'></code>
                     </td>
                     <td>
                         <Fragment set:html={thing[1]}/>
