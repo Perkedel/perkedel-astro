@@ -325,7 +325,7 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
 
   <meta name="internal:random3" content="COME UP PLS SCRIPT WTF"/>
 
-  <ScriptFragments noScripts={noScripts} legacyMarkdown={legacyMarkdown}/>
+
 
   <!-- <meta name="description" content={description}> -->
   <!-- <meta name="keywords" content={keywords}> -->
@@ -381,6 +381,7 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
 <!-- <body BackgroundColor={bgColor} TextColor={textColor} Background={bg}> -->
 <body data-background={bg} data-textcolor={textColor} data-background-light={bgLight} data-textcolor-light={textColorLight}>
   <!-- HEADER -->
+  <ScriptFragments noScripts={noScripts} legacyMarkdown={legacyMarkdown}/>
   <Headering handoverTitle={title} viewSourceURL={viewSourceURL} rating={rating} nsfwConfirmation={nsfwConfirmation} useCustomGoBack={useCustomGoBack} customGoBack={customGoBack} skipHeader={skipHeader} skipNav={skipNav} customHeader={customHeader} selectHeader={selectHeader} addHeaderingClass={addHeaderingClass}>
     <slot name="myHeadering" slot="myHeadering"/>
     <slot name="SettingContains" slot="SettingContains"/>
