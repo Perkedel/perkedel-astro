@@ -19,6 +19,7 @@
         "astro-remote": "^0.2.4",
         "astro-robots-txt": "^0.5.0",
         "astroid": "^0.0.1",
+        "netlify-plugin-amp-server-side-rendering": "^1.0.3",
         "prettier-plugin-astro": "^0.11.0",
         "typescript": "^5.3.2"
     },

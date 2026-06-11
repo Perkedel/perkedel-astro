@@ -130,3 +130,6 @@ package = "@netlify/plugin-sitemap"
 #	# debugMode = false # (for development) turn true for extra diagnostic logging
 # 
 # 
+
+[[plugins]]
+package = "netlify-plugin-amp-server-side-rendering"
