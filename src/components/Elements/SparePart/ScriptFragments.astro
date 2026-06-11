@@ -15,7 +15,9 @@ const{
 
 // Scripts before
 ---
-{noScripts?<Fragment></Fragment>:<Fragment transition:persist>
+{noScripts?<Fragment>
+    <meta name="internal:random" content="Something no script"/>
+</Fragment>:<Fragment transition:persist>
   <!--jQuery without Google
     https://releases.jquery.com/
     https://jquery.com/
