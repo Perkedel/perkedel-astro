@@ -444,37 +444,37 @@ function BrowserInfoPls() {
     windowe.setContent(`
         <h2>Browser Info</h2>
         <p>
-            (<code>navigator.webdriver</code>) Runs by a Continuous Integration: <b>` + navigator.webdriver + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Runs by a Continuous Integration: " + navigator.webdriver + `',true,'Web Driver status')" id="copyWebDriverButton" title="Copy Web Driver">&#xf018f;</button><br/> (Are you a living being? or a Continuous Integration?, Not to be confused with Intelligent Construct since bots with conciousnesss & soul do exists across galaxies.)<br/>
+            (<code>navigator.webdriver</code>) Runs by a Continuous Integration: <b class="URLinfo--sauce">` + navigator.webdriver + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Runs by a Continuous Integration: " + navigator.webdriver + `',true,'Web Driver status')" id="copyWebDriverButton" title="Copy Web Driver">&#xf018f;</button><br/> (Are you a living being? or a Continuous Integration?, Not to be confused with Intelligent Construct since bots with conciousnesss & soul do exists across galaxies.)<br/>
 
-            (<code>navigator.cookieEnabled</code>) Cookies Enabled: <b>` + navigator.cookieEnabled + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Cookies Enabled: " + navigator.cookieEnabled + `',true,'Cookies enabled status')" id="copyCookiesEnabledButton" title="Copy Cookies Enabled">&#xf018f;</button><br/>
+            (<code>navigator.cookieEnabled</code>) Cookies Enabled: <b class="URLinfo--sauce">` + navigator.cookieEnabled + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Cookies Enabled: " + navigator.cookieEnabled + `',true,'Cookies enabled status')" id="copyCookiesEnabledButton" title="Copy Cookies Enabled">&#xf018f;</button><br/>
 
-            (<code>navigator.userAgent</code>) User Agent: <b>` + navigator.userAgent + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.userAgent + `',true,'User agent')" id="copyUserAgentButton" title="Copy User Agent">&#xf018f;</button><br/>
+            (<code>navigator.userAgent</code>) User Agent: <b class="URLinfo--sauce">` + navigator.userAgent + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.userAgent + `',true,'User agent')" id="copyUserAgentButton" title="Copy User Agent">&#xf018f;</button><br/>
 
-            (<code>navigator.platform</code>) Platform: <b>` + navigator.platform + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.platform + `',true,'Platform')" id="copyPlatformButton" title="Copy Platform">&#xf018f;</button><br/>
+            (<code>navigator.platform</code>) Platform: <b class="URLinfo--sauce">` + navigator.platform + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.platform + `',true,'Platform')" id="copyPlatformButton" title="Copy Platform">&#xf018f;</button><br/>
 
-            (<code>navigator.language</code>) Language: <b>` + navigator.language + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.language + `',true,'Browser language')" id="copyLanguageButton" title="Copy Language">&#xf018f;</button><br/>
+            (<code>navigator.language</code>) Language: <b class="URLinfo--sauce">` + navigator.language + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.language + `',true,'Browser language')" id="copyLanguageButton" title="Copy Language">&#xf018f;</button><br/>
 
-            (<code>navigator.product</code>) Product: <b>` + navigator.product + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.product + `',true,'Browser Engine')" id="copyProductButton" title="Copy Product">&#xf018f;</button><br/>
+            (<code>navigator.product</code>) Product: <b class="URLinfo--sauce">` + navigator.product + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.product + `',true,'Browser Engine')" id="copyProductButton" title="Copy Product">&#xf018f;</button><br/>
 
-            (<code>navigator.deviceMemory</code>) Memory: <b>` + navigator.deviceMemory + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Memory: " + navigator.deviceMemory + `',true,'Memory')" id="copyDeviceMemoryButton" title="Copy Device Memory">&#xf018f;</button><br/>
+            (<code>navigator.deviceMemory</code>) Memory: <b class="URLinfo--sauce">` + navigator.deviceMemory + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Memory: " + navigator.deviceMemory + `',true,'Memory')" id="copyDeviceMemoryButton" title="Copy Device Memory">&#xf018f;</button><br/>
 
-            (<code>navigator.maxTouchPoints</code>) Max Touch Points: <b>` + navigator.maxTouchPoints + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Max Touch Points: " + navigator.maxTouchPoints + `',true,'Number of max touch points')" id="copyMaxTouchPointsButton" title="Copy Max Touch Points">&#xf018f;</button><br/>
+            (<code>navigator.maxTouchPoints</code>) Max Touch Points: <b class="URLinfo--sauce">` + navigator.maxTouchPoints + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Max Touch Points: " + navigator.maxTouchPoints + `',true,'Number of max touch points')" id="copyMaxTouchPointsButton" title="Copy Max Touch Points">&#xf018f;</button><br/>
 
-            (<code>navigator.pdfViewerEnabled</code>) Inline PDF Viewer: <b>` + navigator.pdfViewerEnabled + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Inline PDF Viewer Enabled: " + navigator.pdfViewerEnabled + `',true,'Inline PDF Viewer status')" id="copyPDFViewerEnabledButton" title="Copy PDF Viewer Enabled">&#xf018f;</button><br/>
+            (<code>navigator.pdfViewerEnabled</code>) Inline PDF Viewer: <b class="URLinfo--sauce">` + navigator.pdfViewerEnabled + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Inline PDF Viewer Enabled: " + navigator.pdfViewerEnabled + `',true,'Inline PDF Viewer status')" id="copyPDFViewerEnabledButton" title="Copy PDF Viewer Enabled">&#xf018f;</button><br/>
 
-            (<code>navigator.onLine</code>) Is Online?: <b>` + navigator.onLine + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Is Online?: " + navigator.onLine + `',true,'Online status')" id="copyIsOnlineButton" title="Copy Is Online">&#xf018f;</button><br/>
+            (<code>navigator.onLine</code>) Is Online?: <b class="URLinfo--sauce">` + navigator.onLine + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Is Online?: " + navigator.onLine + `',true,'Online status')" id="copyIsOnlineButton" title="Copy Is Online">&#xf018f;</button><br/>
 
-            (<code>navigator.javaEnabled()</code>) Is Java Edition Enabled?: <b>` + navigator.javaEnabled() + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Is Java Edition Supported?: " + navigator.javaEnabled() + `',true,'Oracle Java status')" id="copyJavaEnabledButton" title="Copy Java Enabled">&#xf018f;</button> (<b>Not to be confused with JavaScript!</b>)<br/>
+            (<code>navigator.javaEnabled()</code>) Is Java Edition Enabled?: <b class="URLinfo--sauce">` + navigator.javaEnabled() + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Is Java Edition Supported?: " + navigator.javaEnabled() + `',true,'Oracle Java status')" id="copyJavaEnabledButton" title="Copy Java Enabled">&#xf018f;</button> (<b>Not to be confused with JavaScript!</b>)<br/>
 
-            (<code>navigator.doNotTrack</code>) Is Do not Track / Anti-Dox Enabled?: <b>` + navigator.doNotTrack + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Is Do not Dox / Track Enabled?: " + navigator.doNotTrack + `',true,'Do not dox / track status')" id="copyDoNotTrackButton" title="Copy Do Not Track">&#xf018f;</button><br/>
+            (<code>navigator.doNotTrack</code>) Is Do not Track / Anti-Dox Enabled?: <b class="URLinfo--sauce">` + navigator.doNotTrack + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + "Is Do not Dox / Track Enabled?: " + navigator.doNotTrack + `',true,'Do not dox / track status')" id="copyDoNotTrackButton" title="Copy Do Not Track">&#xf018f;</button><br/>
 
             These values below somehow does not represent your actual browser values! It's because these are deprecated<br/><br/>
 
-            (<code>navigator.appVersion</code>) App Version: <b>` + navigator.appVersion + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.appVersion + `',true,'Browser version')" id="copyAppVersionButton" title="Copy App Version">&#xf018f;</button><br/>
+            (<code>navigator.appVersion</code>) App Version: <b class="URLinfo--sauce">` + navigator.appVersion + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.appVersion + `',true,'Browser version')" id="copyAppVersionButton" title="Copy App Version">&#xf018f;</button><br/>
 
-            (<code>navigator.appCodeName</code>) Codename: <b>` + navigator.appCodeName + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.appCodeName + `',true,'Codename')" id="copyAppCodenameButton" title="Copy App Codename">&#xf018f;</button><br/>
+            (<code>navigator.appCodeName</code>) Codename: <b class="URLinfo--sauce">` + navigator.appCodeName + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.appCodeName + `',true,'Codename')" id="copyAppCodenameButton" title="Copy App Codename">&#xf018f;</button><br/>
 
-            (<code>navigator.appName</code>) Browser Name: <b>` + navigator.appName + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.appName + `',true,'Browser Name')" id="copyAppNameButton" title="Copy App Name">&#xf018f;</button><br/>
+            (<code>navigator.appName</code>) Browser Name: <b class="URLinfo--sauce">` + navigator.appName + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + navigator.appName + `',true,'Browser Name')" id="copyAppNameButton" title="Copy App Name">&#xf018f;</button><br/>
 
         </p>
         <p style="font-size:.75em;">These data above are your local data & won't be stored nor shared by us, except the sus plugins such as Microsoft Clarity.</p>
