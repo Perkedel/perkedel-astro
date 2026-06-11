@@ -15,7 +15,7 @@ const{
 
 // Scripts before
 ---
-{noScripts?<Fragment></Fragment>:<Fragment>
+{noScripts?<Fragment></Fragment>:<Fragment transition:persist>
   <!--jQuery without Google
     https://releases.jquery.com/
     https://jquery.com/
@@ -29,7 +29,7 @@ const{
   <!--zero-md
     https://zerodevx.github.io/
     -->
-  {legacyMarkdown?<Fragment>
+  {legacyMarkdown?<Fragment transition:persist>
     <script is:inline defer src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script
       is:inline
