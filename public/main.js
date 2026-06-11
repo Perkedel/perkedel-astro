@@ -500,11 +500,11 @@ function URLInfoPls() {
         <h2>URL Info</h2>
         <h3>Location URL</h3>
         <p>
-            <b class="URLinfo--sauce">` + location.href + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.href + `',true,'URL')" id="copyURLButton" title="Copy URL">&#xf018f;</button>
+            (<code>location.href</code>): <b class="URLinfo--sauce">` + location.href + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.href + `',true,'URL')" id="copyURLButton" title="Copy URL">&#xf018f;</button>
             <br/>
             <br/>
-            Pathname: <b class="URLinfo--sauce">` + location.pathname + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.pathname + `',true,'Pathname')" id="copyPathnameButton" title="Copy Pathname">&#xf018f;</button>  <br/>
-            Origin: <b class="URLinfo--sauce">` + location.origin + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.origin + `',true,'Origin URL')" id="copyOriginButton" title="Copy Origin">&#xf018f;</button><br/>
+            (<code>location.pathname</code>) Pathname: <b class="URLinfo--sauce">` + location.pathname + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.pathname + `',true,'Pathname')" id="copyPathnameButton" title="Copy Pathname">&#xf018f;</button>  <br/>
+            (<code>location.origin</code>) Origin: <b class="URLinfo--sauce">` + location.origin + `</b> <button class="SpecialityButton" style="" onclick="plsCopyThe('` + location.origin + `',true,'Origin URL')" id="copyOriginButton" title="Copy Origin">&#xf018f;</button><br/>
         </p>
         <h3>Additional Infos & Actions</h3>
         <ul>
