@@ -15,6 +15,8 @@ import MSClarity from './Elements/SparePart/Spywares/MSClarity.astro';
 import ImplementArchiveAnnoyingAdSpace from './Elements/SparePart/AnnoyingAdSpace/ImplementArchiveAnnoyingAdSpace.astro';
 import ScriptFragments from './Elements/SparePart/ScriptFragments.astro';
 import ScriptFragmentsAfter from './Elements/SparePart/ScriptFragmentsAfter.astro';
+import KeepAndroidOpenBox from '@components/Messages/KeepAndroidOpenBox.astro';
+import AnnoyingAdMegabox from '@components/Messages/AnnoyingAdMegabox.astro';
 import { ViewTransitions } from 'astro:transitions';
 // import 'https://github.com/ryanoasis/nerd-fonts/raw/master/css/nerd-fonts-generated.css'
 // import 'https://mshaugh.github.io/nerdfont-webfonts/build/nerdfont-webfonts.css'
@@ -390,8 +392,7 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
   <!-- META INFO -->
   <NoScriptMsg/>
 
-  <!-- ANNOYING AD -->
-  <!-- <ImplementArchiveAnnoyingAdSpace enabled={false}/> -->
+
 
   <!-- ADD YOUR ELEMENT OUTSIDE MAIN AT ABOVE -->
   <slot name="outsideMainAbove"/>
@@ -429,6 +430,8 @@ Astro.response.headers.set('X-Robots-Tag', 'all, max-snippet:-1, max-video-previ
 
   <!-- ADD YOUR ELEMENT OUTSIDE MAIN AT BELOW -->
   <slot name="outsideMainBelow"/>
+
+  <AnnoyingAdMegabox enabled={true}/>
 
   <!-- FOOTER -->
   <!-- <Footering rating={rating} nsfw={rating.includes('adult')}/> -->

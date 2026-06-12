@@ -1,4 +1,5 @@
 ---
+import ButtonizedLink from '@components/ButtonizedLink.astro';
 
 export interface Props {
     headingTitle?: string;
@@ -6,8 +7,10 @@ export interface Props {
     detailSay?: string;
     severity?:number;
     classe?:string;
+    ident?:string;
     paragraphTitle?:Boolean;
     opens?:Boolean;
+    closeable?:Boolean;
 };
 
 const{
@@ -16,8 +19,10 @@ const{
     detailSay = "",
     severity = 0,
     classe = "",
+    ident = "",
     paragraphTitle = true,
     opens = false,
+    closeable = false,
 } = Astro.props.frontmatter || Astro.props as Props;
 ---
 <!-- https://stackoverflow.com/a/47488174/9079640 -->
@@ -38,7 +43,7 @@ const{
                 return "info";
         }
     }
-)() + classe}>
+)() + " " + classe} id={ident}>
     {paragraphTitle?<p style="font-size:1.5em;font-weight:bold;">
         {(()=>{
         switch(severity){
@@ -56,6 +61,25 @@ const{
                 return "";
         }
     })() +headingTitle}
+    {closeable?<Fragment>
+        <!--
+        https://www.w3schools.com/js/js_htmldom_elements.asp
+        https://stackoverflow.com/questions/3301688/how-do-you-get-the-currently-selected-option-in-a-select-via-javascript
+        https://stackoverflow.com/questions/6856871/getting-the-parent-div-of-element
+        https://stackoverflow.com/questions/40686217/how-to-get-current-element-in-order-to-select-with-javascript
+        https://www.w3schools.com/js/js_htmldom_css.asp
+        -->
+        <ButtonizedLink classe="justAside" style="float:right;" href={`javascript:invisibleElementById('${ident}')`}>✕</ButtonizedLink>
+
+        <!-- <ButtonizedLink classe="justAside" style="float:right;" href={`javascript:document.getElementById('${ident}').style.display = 'none'`}>✕</ButtonizedLink> -->
+        <!-- <ButtonizedLink classe="justAside" style="float:right;" href={`javascript:document.getElementById('${ident}').style.display = 'table'`}>✕</ButtonizedLink> -->
+        <!-- <ButtonizedLink classe="justAside" style="float:right;" href={`javascript:document.getElementById('keepAndroidOpenBox').style.display = 'none'`}>✕</ButtonizedLink> -->
+        <!-- <ButtonizedLink classe="justAside" style="float:right;" href={`javascript:void(0)`}>✕</ButtonizedLink> -->
+        <!-- <p>AAAJA</p> -->
+    </Fragment>:<Fragment>
+
+    </Fragment>}
+
         </p>:<h2>{(()=>{
         switch(severity){
             case 0:
@@ -71,7 +95,22 @@ const{
             default:
                 return "";
         }
-    })() +headingTitle}</h2>}
+    })() +headingTitle}
+    {closeable?<Fragment>
+        <!--
+        https://www.w3schools.com/js/js_htmldom_elements.asp
+        https://stackoverflow.com/questions/3301688/how-do-you-get-the-currently-selected-option-in-a-select-via-javascript
+        https://stackoverflow.com/questions/6856871/getting-the-parent-div-of-element
+        https://stackoverflow.com/questions/40686217/how-to-get-current-element-in-order-to-select-with-javascript
+        https://www.w3schools.com/js/js_htmldom_css.asp
+        -->
+        <ButtonizedLink classe="justAside" style="float:right;" href={`javascript:document.getElementById('${ident}').style.display = 'none'`}>X</ButtonizedLink>
+        <!-- <p>AAAJA</p> -->
+    </Fragment>:<Fragment>
+
+    </Fragment>}
+
+        </h2>}
     <!-- <h2>{(()=>{
         switch(severity){
             case 0:
@@ -93,4 +132,5 @@ const{
         <p set:html={detailSay}></p>
         <slot></slot>
     </details>
+
 </div>

@@ -91,19 +91,19 @@ https://developer.chrome.com/docs/lighthouse/performance/font-display/?utm_sourc
 
     /* Cookie Consents */
     /* https://cookieconsent.orestbida.com/advanced/ui-customization.html */
-    /** Change font **/ 
+    /** Change font **/
     /* --cc-font-family: Roboto;  */
-    --cc-font-family: var(--whole-font); 
+    --cc-font-family: var(--whole-font);
 
-    /** Change button primary color to black **/ 
-    /* --cc-btn-primary-bg: #000000; 
-    --cc-btn-primary-border-color: #000000; 
-    --cc-btn-primary-hover-bg: #444444; 
+    /** Change button primary color to black **/
+    /* --cc-btn-primary-bg: #000000;
+    --cc-btn-primary-border-color: #000000;
+    --cc-btn-primary-hover-bg: #444444;
     --cc-btn-primary-hover-border-color: #444444;  */
 
-    /** Also make toggles the same color as the button **/ 
+    /** Also make toggles the same color as the button **/
     /* --cc-toggle-on-bg: var(--cc-btn-primary-bg);  */
-    /** Make the buttons a bit rounder **/ 
+    /** Make the buttons a bit rounder **/
     /* --cc-btn-border-radius: 10px; */
 }
 
@@ -579,7 +579,7 @@ nav {
     border-radius: 30px;
 }
 
-/* 
+/*
 bonus:
 https://www.joshwcomeau.com/css/backdrop-filter/
 */
@@ -1001,6 +1001,10 @@ aside {
     margin-left: 15px;
     float: right;
     background-color: rgba(0, 0, 50, .5)
+}
+
+justAside {
+    float: right;
 }
 
 input {
@@ -2213,7 +2217,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/:checked
 }
 
 .colPrint {
-    
+
 }
 
 
@@ -2371,7 +2375,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee
 }
 
 
-/* 
+/*
 ROtate faster with js:
 ```javascript
 document.getElementById('PerkedelWoosie').style.animationDuration = ".05s"
@@ -2403,7 +2407,7 @@ details summary {
 }
 
 details::details-content {
-    /* 
+    /*
     https://codepen.io/robatronbobby/pen/qBeJeQp
     https://blog.logrocket.com/styling-html-modern-css/
     */

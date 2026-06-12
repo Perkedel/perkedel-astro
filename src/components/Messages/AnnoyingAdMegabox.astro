@@ -1,0 +1,26 @@
+---
+import KeepAndroidOpenBox from '@components/Messages/KeepAndroidOpenBox.astro';
+import ImplementArchiveAnnoyingAdSpace from './Elements/SparePart/AnnoyingAdSpace/ImplementArchiveAnnoyingAdSpace.astro';
+import ButtonizedLink from '@components/ButtonizedLink.astro';
+
+export interface Props {
+  enabled?:Boolean;
+}
+
+const{
+  enabled = false,
+} = Astro.props.frontmatter || Astro.props as Props;
+---
+{enabled?<Fragment>
+    <div id="annoyingAdMegabox">
+        <hr class="annoyingAdHr"/>
+        <meta name="internal:annoying_ad_info" description="Annoying Ad Enabled!"/>
+        <!-- ANNOYING AD -->
+        <p><ButtonizedLink href="javascript:destroyAdMegabox()">🗑️ DESTROY THIS AD MEGABOX 🔥</ButtonizedLink></p>
+        <!-- <ImplementArchiveAnnoyingAdSpace enabled={false}/> -->
+        <KeepAndroidOpenBox/>
+        <meta name="internal:annoying_ad_end" description="Annoying Ad that's all"/>
+    </div>
+</Fragment>:<Fragment>
+    <meta name="internal:annoying_ad_info" description="Annoying Ad Disabled!"/>
+</Fragment>}

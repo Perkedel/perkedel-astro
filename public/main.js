@@ -984,6 +984,23 @@ function openCookieConsent() {
     CookieConsent.showPreferences();
 }
 
+function invisibleElementById(id = "")
+{
+  let target = document.getElementById(id);
+  target.style.display = "none";
+}
+
+function visibleElementById(id = "", display="")
+{
+  let target = document.getElementById(id);
+  target.style.display = display;
+}
+
+function destroyAdMegabox()
+{
+  invisibleElementById("annoyingAdMegabox");
+}
+
 /*
 Moar Dump
 - https://www.w3schools.com/html/html_scripts.asp
