@@ -1,5 +1,7 @@
 import 'https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.umd.js'; // put this on the very top top of the whole JS loading!
 
+// Ublock blocked it lmao! pls whitelist!
+
 /*
 Cookie Consent orestbida
 https://github.com/orestbida/cookieconsent
