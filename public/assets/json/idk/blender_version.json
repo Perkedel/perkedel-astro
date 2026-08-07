@@ -1,6 +1,6 @@
 {
     "blender_version": {
-        "latest": "5.1.2",
-        "LTS": "4.5.10"
+        "latest": "5.2",
+        "LTS": "5.2.0"
     }
 }
